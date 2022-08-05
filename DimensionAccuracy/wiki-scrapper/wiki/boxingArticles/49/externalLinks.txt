@@ -1,0 +1,10 @@
+https://thecanadianencyclopedia.ca/en/article/avalon-peninsula/
+https://web.archive.org/web/20080307071128/http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0000419
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=ER&Code1=1010&Geo2=PR&Code2=10&Data=Count&SearchText=avalon%20peninsula&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1
+https://web.archive.org/web/20060617085928/http://www.heritage.nf.ca/avalon/default.html
+//geohack.toolforge.org/geohack.php?pagename=Avalon_Peninsula&params=47.29_N_53.35_W_scale:1000000
+https://viaf.org/viaf/315125911
+https://www.worldcat.org/identities/containsVIAFID/315125911
+https://d-nb.info/gnd/4079887-2
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007295830305171
+https://id.loc.gov/authorities/subjects/sh85010493

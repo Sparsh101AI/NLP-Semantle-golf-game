@@ -1,0 +1,7 @@
+//tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=National_Register_of_Historic_Places_listings_in_Georgia
+//tools.wmflabs.org/kmlexport?article=National_Register_of_Historic_Places_listings_in_Georgia
+https://en.wikipedia.org/w/index.php?title=Template:Georgia_county_NRHP_navbox&action=edit
+https://www.nps.gov/subjects/nationalregister/weekly-list.htm
+https://www.nps.gov/subjects/nationalregister/weekly-list.htm
+https://en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Georgia_(U.S._state)&action=edit

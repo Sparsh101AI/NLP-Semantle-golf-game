@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=In_Guezzam_Province&params=19_34_20_N_5_46_10_E_region:DZ-57_type:adm1st
+//geohack.toolforge.org/geohack.php?pagename=In_Guezzam_Province&params=19_34_20_N_5_46_10_E_region:DZ-57_type:adm1st
+http://rgph2008.ons.dz/resultat/histo.htm
+https://web.archive.org/web/20080724130336/http://rgph2008.ons.dz/resultat/histo.htm
+https://web.archive.org/web/20111113174756/http://www.ons.dz/collections/w11_p1.pdf
+http://www.ons.dz/collections/w11_p1.pdf
+https://en.wikipedia.org/w/index.php?title=In_Guezzam_Province&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Algeria-geo-stub&action=edit

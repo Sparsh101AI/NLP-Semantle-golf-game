@@ -1,0 +1,19 @@
+Alain Aspect (French: [aspɛ] (listen); born 15 June 1947) is a French physicist noted for his experimental work on quantum entanglement.
+Aspect is a graduate of the École Normale Supérieure de Cachan (ENS Cachan). He passed the 'agrégation' in physics in 1969 and received his master's degree from Université d'Orsay. He then did his national service, teaching for three years in Cameroon.
+In the early 1980s, while working on his PhD thesis from the academic rank of lecturer, he performed the Bell test experiments that showed that Albert Einstein, Boris Podolsky and Nathan Rosen's reductio ad absurdum of quantum mechanics, namely that it implied 'ghostly action at a distance', did in fact appear to be realised when two particles were separated by an arbitrarily large distance (see EPR paradox). A correlation between their wave functions remained, as they were once part of the same wave-function that was not disturbed before one of the child particles was measured.
+Aspect also received an honorary doctorate from Heriot-Watt University in 2008.
+Aspect's experiments, following the first experiment of Stuart Freedman and John Clauser in 1972, were considered to provide further support to the thesis that Bell's inequalities are violated in its CHSH version, in particular by closing a form of the locality loophole. However, his results were not completely conclusive since there were loopholes that allowed for alternative explanations that comply with local realism.
+After his works on Bell's inequalities, Aspect turned toward studies of laser cooling of neutral atoms and is mostly involved in Bose–Einstein condensates related experiments.
+Aspect was deputy director of the French "grande école" SupOptique until 1994. He is a member of the French Academy of Sciences and French Academy of Technologies, and a professor at the École Polytechnique. 
+
+Aspect was elected a Foreign Member of the Royal Society (ForMemRS) in 2015. His certificate of election reads In 2005 he was awarded the gold medal of the Centre national de la recherche scientifique, where he is Research Director. The 2010 Wolf Prize in physics was awarded to Aspect, Anton Zeilinger and John Clauser. In 2013 Aspect was awarded both the Niels Bohr International Gold Medal and the UNESCO Niels Bohr Medal. In 2013 he was also awarded the Balzan Prize for Quantum Information Processing and Communication.
+Asteroid 33163 Alainaspect, discovered by astronomers at Caussols in 1998, was named after him. The official naming citation was published by the Minor Planet Center on 8 November 2019 (M.P.C. 118220).
+Lévy statistics and laser cooling : how rare events bring atoms to rest. Cambridge: Cambridge University Press. 2002. ISBN 0511016018. (co-author)
+Bell, J. S. (2004). Speakable and unspeakable in quantum mechanics : collected papers on quantum philosophy (Rev. ed.). Cambridge: Cambridge University Press. ISBN 0521818621. (Introduction)
+Grynberg, Gilbert. (2010). Introduction to quantum optics : from the semi-classical approach to quantized light. Aspect, Alain., Fabre, Claude. Cambridge: Cambridge University Press. ISBN 9780511789724. Media related to Alain Aspect at Wikimedia CommonsAspect's homepage
+Atom Optics group, Laboratoire Charles Fabry, Institut d'Optique
+Biography at CNRS
+https://web.archive.org/web/20120320235756/http://www.lcf.institutoptique.fr/Groupes-de-recherche/Optique-atomique/Membres/Membres-permanents/Alain-Aspect
+http://www.academie-sciences.fr/academie/membre/Aspect_Alain.htm
+Alain Aspect International Balzan Prize Foundation
+Videos of Alain Aspect in the AV-Portal of the German National Library of Science and Technology

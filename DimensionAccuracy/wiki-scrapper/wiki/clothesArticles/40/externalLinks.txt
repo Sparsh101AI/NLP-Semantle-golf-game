@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Guanghan&params=30_59_24_N_104_15_0_E_type:adm3rd_region:CN-51
+//geohack.toolforge.org/geohack.php?pagename=Guanghan&params=30_59_24_N_104_15_0_E_type:adm3rd_region:CN-51
+http://www.guanghan.gov.cn
+https://web.archive.org/web/20080529140215/http://www.guanghan.gov.cn/ghgk/ghgk.asp
+http://www.guanghan.gov.cn/ghgk/ghgk.asp
+http://www.lonelyplanet.com/china/sichuan/around-chengdu/sights/other/sanxingdui-museum
+https://en.wikipedia.org/w/index.php?title=Template:Sichuan&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Most_populous_cities_in_Sichuan&action=edit
+https://viaf.org/viaf/126238097
+https://www.worldcat.org/identities/containsVIAFID/126238097

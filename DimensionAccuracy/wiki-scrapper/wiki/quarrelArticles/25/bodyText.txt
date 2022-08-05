@@ -1,0 +1,36 @@
+Salyut 4 (DOS 4) (Russian: Салют-4; English translation: Salute 4) was a Salyut space station launched on December 26, 1974 into an orbit with an apogee of 355 km, a perigee of 343 km and an orbital inclination of 51.6 degrees. It was essentially a copy of the DOS 3 (or Kosmos 557), and unlike its ill-fated sibling it was a complete success. Three crews attempted to make stays aboard Salyut 4 (Soyuz 17 and Soyuz 18 docked; Soyuz 18a suffered a launch abort). The second stay was for 63 days duration, and an unmanned capsule, called  Soyuz 20, remained docked to the station for three months, proving the system's long-term durability despite some deterioration of the environmental system during Soyuz 18's mission. Salyut 4 was deorbited February 2, 1977, and re-entered the Earth's atmosphere on February 3.
+Salyut 4 represented the second phase of DOS civilian space station. Although the basic design of Salyut 1 was retained, it switched to three large solar panels mounted on the forward module rather than its predecessor's four small panels on the docking module and engine compartment, presumably to generate more power. It had an interior floor area of 34.8 sq. m The pitch of the station was 2 X 59 N, yaw was 2 X 59 N and roll was 2 X 20 N. The electric System produced an average of 2.00 kW of power. It had 2,000 kg of scientific equipment alongside two sets of three solar panels each and was equipped with the Delta Navigation System which was a new autonomous navigation system that calculates orbital elements without assistance from ground. It was powered by KTDU-66 thrusters.
+Installed on the Salyut 4 were OST-1 (Orbiting Solar Telescope) 25 cm solar telescope with a focal length of 2.5m and spectrograph shortwave diffraction spectrometer for far ultraviolet emissions, designed at the Crimean Astrophysical Observatory, and two X-ray telescopes. One of the X-ray telescopes, often called the Filin telescope, consisted of four gas flow proportional counters, three of which had a total detection surface of 450 cm in the energy range 2–10 keV, and one of which had an effective surface of 37 cm for the range 0.2 to 2 keV (32 to 320 aJ). The field of view was limited by a slit collimator to 3 in × 10 in full width at half maximum. The instrumentation also included optical sensors which were mounted on the outside of the station together with the X-ray detectors, and power supply and measurement units which were inside the station. Ground-based calibration of the detectors was considered along with in-flight operation in three modes: inertial orientation, orbital orientation, and survey. Data could be collected in 4 energy channels: 2 to 3.1 keV (320 to 497 aJ), 3.1 to 5.9 keV (497 to 945 aJ), 5.9 to 9.6 keV (945 to 1,538 aJ), and 2 to 9.6 keV (320 to 1,538 aJ) in the larger detectors. The smaller detector had discriminator levels set at 0.2 keV (32 aJ), 0.55 keV (88 aJ), and 0.95 keV (152 aJ).
+Other instruments include a swivel chair for vestibular function tests, lower body negative pressure gear for cardiovascular studies, bicycle ergometer integrated physical trainer (electrically driven running track 1 m X .3 m with elastic cords providing 50 kg load), penguin suits and alternate athletic suit, sensors for temperature and characteristics of upper atmosphere, ITS-K infrared telescope spectrometer and ultraviolet spectrometer for study of earth's infrared radiation,  multispectral earth resources camera, cosmic ray detector, embryological studies, new engineering instruments tested for orientation of station by celestial objects and in darkness and a teletypewriter.
+Among others, observations of Sco X-1, Cir X-1, Cyg X-1, and A0620-00 were published from the Filin data. A highly variable low energy of 0.6 to 0.9 keV (96 to 144 aJ) flux was detected in Sco X-1. Cir X-1 was not detected at all during a July 5, 1975 observation, providing an upper limit on the emission of 3.5e-11 erg·cms (35 fW/m) in the 0.2 to 2.0 keV (32 to 320 aJ) range. Cyg X-1 was observed on several occasions. Highly variable flux, in both the time and energy domains, was observed.
+Length – 15.8 m
+Maximum diameter – 4.15 m
+Habitable volume – 90 m
+Weight at launch – 18,900 kg
+Launch vehicle – Proton (three-stage)
+Orbital inclination – 51.6°
+Area of solar arrays – 60 m
+Number of solar arrays – 3
+Electricity production – 4 kW
+Resupply carriers – Soyuz Ferry
+Number of docking ports – 1
+Total manned missions – 3
+Total unmanned missions – 1
+Total long-duration manned missions – 2Soyuz 17 – January 11 – February 10, 1975
+Aleksei Gubarev
+Georgi Grechko
+Soyuz 18a – April 5, 1975 – Launch abort
+Vasily Lazarev
+Oleg Makarov
+Soyuz 18 – May 24 – July 26, 1975
+Pyotr Klimuk
+Vitaly Sevastyanov
+Soyuz 20 – November 17, 1975 – February 16, 1976
+no crewSpace station for statistics of occupied space stations
+Salyut
+TKS spacecraft
+Almaz
+Mir
+Skylab
+International Space StationNASA Space Science Data Coordinated Archive
+Soviet Space Stations as Analogs – NASA report (PDF format)

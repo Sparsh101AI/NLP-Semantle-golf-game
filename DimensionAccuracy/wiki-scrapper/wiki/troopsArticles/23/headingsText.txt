@@ -1,0 +1,16 @@
+History
+Current Exynos SoCs (2020-present)
+Exynos 800 series
+Exynos 900 series
+Exynos 1000 series
+Exynos 2000 series
+Past Exynos SoCs (2010-2019)
+List of Exynos Wearable SoCs
+List of Exynos modems
+List of Exynos IoT SoCs
+List of Exynos Auto SoCs
+Exynos Auto series
+See also
+Similar platforms
+References
+External links

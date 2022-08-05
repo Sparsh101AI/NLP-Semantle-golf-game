@@ -1,0 +1,300 @@
+The Requiem in D minor, K. 626, is a requiem mass by Wolfgang Amadeus Mozart (1756–1791). Mozart composed part of the Requiem in Vienna in late 1791, but it was unfinished at his death on 5 December the same year. A completed version dated 1792 by Franz Xaver Süssmayr was delivered to Count Franz von Walsegg, who commissioned the piece for a requiem service on 14 February 1792 to commemorate the first anniversary of the death of his wife Anna at the age of 20 on 14 February 1791.
+The autograph manuscript shows the finished and orchestrated Introit in Mozart's hand, and detailed drafts of the Kyrie and the sequence Dies irae as far as the first eight bars of the Lacrymosa movement, and the Offertory. It cannot be shown to what extent Süssmayr may have depended on now lost "scraps of paper" for the remainder; he later claimed the Sanctus and Benedictus and the Agnus Dei as his own.
+Walsegg probably intended to pass the Requiem off as his own composition, as he is known to have done with other works. This plan was frustrated by a public benefit performance for Mozart's widow Constanze. She was responsible for a number of stories surrounding the composition of the work, including the claims that Mozart received the commission from a mysterious messenger who did not reveal the commissioner's identity, and that Mozart came to believe that he was writing the requiem for his own funeral.
+In addition to the Süssmayr version, a number of alternative completions have been developed by composers and musicologists in the 20th and 21st centuries.
+The Requiem is scored for 2 basset horns in F, 2 bassoons, 2 trumpets in D, 3 trombones (alto, tenor, and bass), timpani (2 drums), violins, viola, and basso continuo (cello, double bass, and organ). The basset horn parts are sometimes played on conventional clarinets, even though this changes the sonority.
+The vocal forces consist of soprano, contralto, tenor, and bass soloists and an SATB mixed choir.
+Süssmayr's completion divides the Requiem into eight sections:
+IntroitusRequiem aeternamKyrieSequentia (text based on sections of the Dies irae)Dies iraeTuba mirumRex tremendaeRecordareConfutatisLacrymosaOffertoriumDomine JesuHostiasSanctusBenedictusAgnus DeiCommunioLux aeternaCum sanctis tuisAll sections from the Sanctus onwards are not present in Mozart's manuscript fragment. Mozart may have intended to include the Amen fugue at the end of the Sequentia, but Süssmayr did not do so in his completion.
+The following table shows for the eight sections in Süssmayr's completion with their subdivisions: the title, vocal parts (solo soprano (S), alto (A), tenor (T) and bass (B) [in bold] and four-part choir SATB), tempo, key, and meter.
+
+
+
+
+Section
+
+Title
+
+Vocal
+
+Tempo
+
+Key
+
+Meter
+
+
+I. Introitus
+
+Requiem aeternam
+
+SSATB
+
+Adagio
+
+D minor
+
+4
+
+
+II. Kyrie
+
+Kyrie eleison
+
+SATB
+
+Allegro
+
+D minor
+
+4
+
+
+III. Sequentia
+
+Dies irae
+
+SATB
+
+Allegro assai
+
+D minor
+
+4
+
+
+Tuba mirum
+
+SATB
+
+Andante
+
+B♭ major
+
+2
+
+
+Rex tremendae
+
+SATB
+
+–
+
+G minor – D minor
+
+4
+
+
+Recordare
+
+SATB
+
+–
+
+F major
+
+4
+
+
+Confutatis
+
+SATB
+
+Andante
+
+A minor – F major
+
+4
+
+
+Lacrymosa
+
+SATB
+
+Larghetto
+
+D minor
+
+8
+
+
+IV. Offertorium
+
+Domine Jesu
+
+SATBSATB
+
+Andante con moto
+
+G minor
+
+4
+
+
+Hostias
+
+SATB
+
+Andante – Andante con moto
+
+E♭ major – G minor
+
+4 – 4
+
+
+V. Sanctus
+
+Sanctus
+
+SATB
+
+Adagio
+
+D major
+
+4
+
+
+Hosanna
+
+Allegro
+
+4
+
+
+VI. Benedictus
+
+Benedictus
+
+SATB
+
+Andante
+
+B♭ major
+
+4
+
+
+Hosanna
+
+SATB
+
+Allegro
+
+
+VII. Agnus Dei
+
+Agnus Dei
+
+SATB
+
+
+
+D minor – B♭ major
+
+4
+
+
+VIII. Communio
+
+Lux aeterna
+
+SSATB
+
+–
+
+B♭ major – D minor
+
+4
+
+
+Cum sanctis tuis
+
+SATB
+
+Allegro
+The Requiem begins with a seven-measure instrumental introduction, in which the woodwinds (first bassoons, then basset horns) present the principal theme of the work in imitative counterpoint. The first five measures of this passage (without the accompaniment) are shown below.
+This theme is modeled after Handel's The ways of Zion do mourn, HWV 264. Many parts of the work make reference to this passage, notably in the coloratura in the Kyrie fugue and in the conclusion of the Lacrymosa.
+The trombones then announce the entry of the choir, which breaks into the theme, with the basses alone for the first measure, followed by imitation by the other parts. The chords play off syncopated and staggered structures in the accompaniment, thus underlining the solemn and steady nature of the music. A soprano solo is sung to the Te decet hymnus text in the tonus peregrinus. The choir continues, repeating the psalmtone while singing the Exaudi orationem meam section. The melody used for both parts is based on the German plainchant Meine Seele erhebt den Herren. Then, the principal theme is treated by the choir and the orchestra in downward-gliding sixteenth-notes. The courses of the melodies, whether held up or moving down, change and interlace amongst themselves, while passages in counterpoint and in unison (e.g., Et lux perpetua) alternate; all this creates the charm of this movement, which finishes with a half cadence on the dominant.
+The Kyrie follows without pause (attacca). It is a double fugue also on a Handelian theme: the subject is based on "And with his stripes we are healed" from Messiah, HWV 56 (with which Mozart was familiar given his work on a German-language version) and the counter-subject comes from the final chorus of the Dettingen Anthem, HWV 265. The first three measures of the altos and basses are shown below.
+The contrapuntal motifs of the theme of this fugue include variations on the two themes of the Introit. At first, upward diatonic series of sixteenth-notes are replaced by chromatic series, which has the effect of augmenting the intensity. This passage shows itself to be a bit demanding in the upper voices, particularly for the soprano voice. A final portion in a slower (Adagio) tempo ends on an "empty" fifth, a construction which had during the classical period become archaic, lending the piece an ancient air.
+The Dies irae ("Day of Wrath") opens with a show of orchestral and choral might with tremolo strings, syncopated figures and repeated chords in the brass. A rising chromatic scurry of sixteenth-notes leads into a chromatically rising harmonic progression with the chorus singing "Quantus tremor est futurus" ("what trembling there will be"  in reference to the Last Judgment). This material is repeated with harmonic development before the texture suddenly drops to a trembling unison figure with more tremolo strings evocatively painting the "Quantus tremor" text.
+Mozart's textual inspiration is again apparent in the Tuba mirum ("Hark, the trumpet") movement, which is introduced with a sequence of three notes in arpeggio, played in B♭ major by a solo tenor trombone, unaccompanied, in accordance with the usual German translation of the Latin tuba, Posaune (trombone). Two measures later, the bass soloist enters, imitating the same theme. At m. 7, there is a fermata, the only point in all the work at which a solo cadence occurs. The final quarter notes of the bass soloist herald the arrival of the tenor, followed by the alto and soprano in dramatic fashion.
+On the text Cum vix justus sit securus ("When only barely may the just one be secure"), there is a switch to a homophonic segment sung by the quartet at the same time, articulating, without accompaniment, the cum and vix on the "strong" (1st and 3rd), then on the "weak" (2nd and 4th) beats, with the violins and continuo responding each time; this "interruption" (which one may interpret as the interruption preceding the Last Judgment) is heard sotto voce, forte and then piano to bring the movement finally into a crescendo into a perfect cadence.
+A descending melody composed of dotted notes is played by the orchestra to announce the Rex tremendae majestatis ("King of tremendous majesty", i.e., God), who is called by powerful cries from the choir on the syllable Rex during the orchestra's pauses. For a surprising effect, the Rex syllables of the choir fall on the second beats of the measures, even though this is the "weak" beat. The choir then adopts the dotted rhythm of the orchestra, forming what Wolff calls baroque music's form of "topos of the homage to the sovereign", or, more simply put, that this musical style is a standard form of salute to royalty, or, in this case, divinity. This movement consists of only 22 measures, but this short stretch is rich in variation: homophonic writing and contrapuntal choral passages alternate many times and finish on a quasi-unaccompanied choral cadence, landing on an open D chord (as seen previously in the Kyrie).
+At 130 measures, the Recordare ("Remember") is the work's longest movement, as well as the first in triple meter (4); the movement is a setting of no fewer than seven stanzas of the Dies irae. The form of this piece is somewhat similar to sonata form, with an exposition around two themes (mm. 1–37), a development of two themes (mm. 38–92) and a recapitulation (mm. 93–98).
+In the first 13 measures, the basset horns are the first the present the first theme, clearly inspired by Wilhelm Friedemann Bach's Sinfonia in D Minor, the theme is enriched by a magnificent counterpoint by cellos in descending scales that are reprised throughout the movement. This counterpoint of the first theme prolongs the orchestral introduction with chords, recalling the beginning of the work and its rhythmic and melodic shiftings (the first basset horn begins a measure after the second but a tone higher, the first violins are likewise in sync with the second violins but a quarter note shifted, etc.). The introduction is followed by the vocal soloists; their first theme is sung by the alto and bass (from m. 14), followed by the soprano and tenor (from m. 20). Each time, the theme concludes with a hemiola (mm. 18–19 and 24–25). The second theme arrives on Ne me perdas, in which the accompaniment contrasts with that of the first theme. Instead of descending scales, the accompaniment is limited to repeated chords. This exposition concludes with four orchestral measures based on the counter-melody of the first theme (mm. 34–37).
+The development of these two themes begins in m. 38 on Quaerens me; the second theme is not recognizable except by the structure of its accompaniment. At m. 46, it is the first theme that is developed beginning from Tantus labor and concludes with two measures of hemiola at mm. 50–51. After two orchestral bars (mm. 52–53), the first theme is heard again on the text Juste Judex and ends on a hemiola in mm. 66–67. Then, the second theme is reused on ante diem rationis; after the four measures of orchestra from 68 to 71, the first theme is developed alone.
+The recapitulation intervenes in m. 93. The initial structure reproduces itself with the first theme on the text Preces meae and then in m. 99 on Sed tu bonus. The second theme reappears one final time on m. 106 on Sed tu bonus and concludes with three hemiolas. The final measures of the movement recede to simple orchestral descending contrapuntal scales.
+The Confutatis ("From the accursed") begins with a rhythmic and dynamic sequence of strong contrasts and surprising harmonic turns. Accompanied by the basso continuo, the tenors and basses burst into a forte vision of the infernal, on a dotted rhythm. The accompaniment then ceases alongside the tenors and basses, and the sopranos and altos enter softly and sotto voce, singing Voca me cum benedictis ("Call upon me with the blessed") with an arpeggiated accompaniment in strings.
+Finally, in the following stanza (Oro supplex et acclinis), there is a striking modulation from A minor to A♭ minor.
+This spectacular descent from the opening key is repeated, now modulating to the key of F major. A final dominant seventh chord leads to the Lacrymosa.
+The chords begin piano on a rocking rhythm in 8, intercut with quarter rests, which will be reprised by the choir after two measures, on Lacrymosa dies illa ("This tearful day"). Then, after two measures, the sopranos begin a diatonic progression, in disjointed eighth-notes on the text resurget ("will be reborn"), then legato and chromatic on a powerful crescendo. The choir is forte by m. 8, at which point Mozart's contribution to the movement is interrupted by his death.
+Süssmayr brings the choir to a reference of the Introit and ends on an Amen cadence. Discovery of a fragmentary Amen fugue in Mozart's hand has led to speculation that it may have been intended for the Requiem. Indeed, many modern completions (such as Levin's) complete Mozart's fragment. Some sections of this movement are quoted in the Requiem mass of Franz von Suppé, who was a great admirer of Mozart. Ray Robinson, the music scholar and president (from 1969 to 1987) of the Westminster Choir College, suggests that Süssmayr used materials from Credo of one of Mozart's earlier masses, Mass in C major, K. 220 "Sparrow" in completing this movement.
+The first movement of the Offertorium, the Domine Jesu, begins on a piano theme consisting of an ascending progression on a G minor triad. This theme will later be varied in various keys, before returning to G minor when the four soloists enter a canon on Sed signifer sanctus Michael, switching between minor (in ascent) and major (in descent). Between these thematic passages are forte phrases where the choir enters, often in unison and dotted rhythm, such as on Rex gloriae ("King of glory") or de ore leonis ("[Deliver them] from the mouth of the lion"). Two choral fugues follow, on ne absorbeat eas tartarus, ne cadant in obscurum ("may Tartarus not absorb them, nor may they fall into darkness") and Quam olim Abrahae promisisti et semini eius ("What once to Abraham you promised and to his seed"). The movement concludes homophonically in G major.
+The Hostias opens in E♭ major in 4, with fluid vocals. After 20 measures, the movement switches to an alternation of forte and piano exclamations of the choir, while progressing from B♭ major towards B♭ minor, then F major, D♭ major, A♭ major, F minor, C minor and E♭ major. An overtaking chromatic melody on Fac eas, Domine, de morte transire ad vitam ("Make them, O Lord, cross over from death to life") finally carries the movement into the dominant of G minor, followed by a reprise of the Quam olim Abrahae promisisti et semini eius fugue.
+The words "Quam olim da capo" are likely to have been the last Mozart wrote; this portion of the manuscript has been missing since it was stolen at 1958 World's Fair in Brussels by a person whose identity remains unknown.
+The Sanctus is the first movement written entirely by Süssmayr, and the only movement of the Requiem to have a key signature with sharps: D major, generally used for the entry of trumpets in the Baroque era. After a succinct glorification of the Lord follows a short fugue in 4 on Hosanna in excelsis ("Glory [to God] in the highest"), noted for its syncopated rhythm, and for its motivic similarity to the Quam olim Abrahae fugue.
+The Benedictus, a quartet, adopts the key of the submediant, B♭ major (which can also be considered the relative of the subdominant of the key of D minor). The Sanctus's ending on a D major cadence necessitates a mediant jump to this new key.
+The Benedictus is constructed on three types of phrases: the (A) theme, which is first presented by the orchestra and reprised from m. 4 by the alto and from m. 6 by the soprano. The word benedictus is held, which stands in opposition with the (B) phrase, which is first seen at m. 10, also on the word benedictus but with a quick and chopped-up rhythm. The phrase develops and rebounds at m. 15 with a broken cadence. The third phrase, (C), is a solemn ringing where the winds respond to the chords with a staggering harmony, as shown in a Mozartian cadence at mm. 21 and 22, where the counterpoint of the basset horns mixes with the line of the cello. The rest of the movement consists of variations on this writing. At m. 23, phrase (A) is reprised on a F pedal and introduces a recapitulation of the primary theme from the bass and tenor from mm. 28 and 30, respectively. Phrase (B) follows at m. 33, although without the broken cadence, then repeats at m. 38 with the broken cadence once more. This carries the movement to a new Mozartian cadence in mm. 47 to 49 and concludes on phrase (C), which reintroduces the Hosanna fugue from the Sanctus movement, in the new key of the Benedictus.
+Homophony dominates the Agnus Dei. The text is repeated three times, always with chromatic melodies and harmonic reversals, going from D minor to F major, C major, and finally B♭ major. According to the musicologist Simon P. Keefe, Süssmayr likely referenced one of Mozart's earlier masses, Mass in C major, K. 220 "Sparrow" in completing this movement.
+Süssmayr here reuses Mozart's first two movements, almost exactly note for note, with wording corresponding to this part of the liturgy.
+At the time of Mozart's death on 5 December 1791, only the first movement, Introitus (Requiem aeternam) was completed in all of the orchestral and vocal parts. The Kyrie, Sequence and Offertorium were completed in skeleton, with the exception of the Lacrymosa, which breaks off after the first eight bars. The vocal parts and continuo were fully notated. Occasionally, some of the prominent orchestral parts were briefly indicated, such as the first violin part of the Rex tremendae and Confutatis, the musical bridges in the Recordare, and the trombone solos of the Tuba Mirum.
+What remained to be completed for these sections were mostly accompanimental figures, inner harmonies, and orchestral doublings to the vocal parts.
+The eccentric count Franz von Walsegg commissioned the Requiem from Mozart anonymously through intermediaries. The count, an amateur chamber musician who routinely commissioned works by composers and passed them off as his own, wanted a Requiem Mass he could claim he composed to memorialize the recent passing of his wife. Mozart received only half of the payment in advance, so upon his death his widow Constanze was keen to have the work completed secretly by someone else, submit it to the count as having been completed by Mozart and collect the final payment. Joseph von Eybler was one of the first composers to be asked to complete the score, and had worked on the movements from the Dies irae up until the Lacrymosa. In addition, a striking similarity between the openings of the Domine Jesu Christe movements in the requiems of the two composers suggests that Eybler at least looked at later sections. After this work, he felt unable to complete the remainder and gave the manuscript back to Constanze Mozart.
+The task was then given to another composer, Franz Xaver Süssmayr. Süssmayr borrowed some of Eybler's work in making his completion, and added his own orchestration to the movements from the Kyrie onward, completed the Lacrymosa, and added several new movements which a Requiem would normally comprise: Sanctus, Benedictus, and Agnus Dei. He then added a final section, Lux aeterna by adapting the opening two movements which Mozart had written to the different words which finish the Requiem mass, which according to both Süssmayr and Mozart's wife was done according to Mozart's directions. Some people consider it unlikely, however, that Mozart would have repeated the opening two sections if he had survived to finish the work.
+Other composers may have helped Süssmayr. The Agnus Dei is suspected by some scholars to have been based on instruction or sketches from Mozart because of its similarity to a section from the Gloria of a previous mass (Sparrow Mass, K. 220) by Mozart, as was first pointed out by Richard Maunder. Others have pointed out that at the beginning of the Agnus Dei, the choral bass quotes the main theme from the Introitus. Many of the arguments dealing with this matter, though, center on the perception that if part of the work is high quality, it must have been written by Mozart (or from sketches), and if part of the work contains errors and faults, it must have been all Süssmayr's doing.
+Another controversy is the suggestion (originating from a letter written by Constanze) that Mozart left explicit instructions for the completion of the Requiem on "a few scraps of paper with music on them... found on Mozart's desk after his death." The extent to which Süssmayr's work may have been influenced by these "scraps" if they existed at all remains a subject of speculation amongst musicologists to this day.
+The completed score, initially by Mozart but largely finished by Süssmayr, was then dispatched to Count Walsegg complete with a counterfeited signature of Mozart and dated 1792. The various complete and incomplete manuscripts eventually turned up in the 19th century, but many of the figures involved left ambiguous statements on record as to how they were involved in the affair. Despite the controversy over how much of the music is actually Mozart's, the commonly performed Süssmayr version has become widely accepted by the public. This acceptance is quite strong, even when alternative completions provide logical and compelling solutions for the work.
+The confusion surrounding the circumstances of the Requiem's composition was created in a large part by Mozart's wife, Constanze. Constanze had a difficult task in front of her: she had to keep secret the fact that the Requiem was unfinished at Mozart's death, so she could collect the final payment from the commission. For a period of time, she also needed to keep secret the fact that Süssmayr had anything to do with the composition of the Requiem at all, in order to allow Count Walsegg the impression that Mozart wrote the work entirely himself. Once she received the commission, she needed to carefully promote the work as Mozart's so that she could continue to receive revenue from the work's publication and performance. During this phase of the Requiem's history, it was still important that the public accept that Mozart wrote the whole piece, as it would fetch larger sums from publishers and the public if it were completely by Mozart.
+It is Constanze's efforts that created the flurry of half-truths and myths almost instantly after Mozart's death. According to Constanze, Mozart declared that he was composing the Requiem for himself and that he had been poisoned. His symptoms worsened, and he began to complain about the painful swelling of his body and high fever. Nevertheless, Mozart continued his work on the Requiem, and even on the last day of his life, he was explaining to his assistant how he intended to finish the Requiem.
+With multiple levels of deception surrounding the Requiem's completion, a natural outcome is the mythologizing which subsequently occurred. One series of myths surrounding the Requiem involves the role Antonio Salieri played in the commissioning and completion of the Requiem (and in Mozart's death generally). While the most recent retelling of this myth is Peter Shaffer's play Amadeus and the movie made from it, it is important to note that the source of misinformation was actually a 19th-century play by Alexander Pushkin, Mozart and Salieri, which was turned into an opera by Rimsky-Korsakov and subsequently used as the framework for the play Amadeus.
+Source materials written soon after Mozart's death contain serious discrepancies, which leave a level of subjectivity when assembling the "facts" about Mozart's composition of the Requiem. For example, at least three of the conflicting sources, all dated within two decades following Mozart's death, cite Constanze as their primary source of interview information.
+In 1798, Friedrich Rochlitz, a German biographical author and amateur composer, published a set of Mozart anecdotes that he claimed to have collected during his meeting with Constanze in 1796. The Rochlitz publication makes the following statements:
+Mozart was unaware of his commissioner's identity at the time he accepted the project.
+He was not bound to any date of completion of the work.
+He stated that it would take him around four weeks to complete.
+He requested, and received, 100 ducats at the time of the first commissioning message.
+He began the project immediately after receiving the commission.
+His health was poor from the outset; he fainted multiple times while working.
+He took a break from writing the work to visit the Prater with his wife.
+He shared the thought with his wife that he was writing this piece for his own funeral.
+He spoke of "very strange thoughts" regarding the unpredicted appearance and commission of this unknown man.
+He noted that the departure of Leopold II to Prague for the coronation was approaching.The most highly disputed of these claims is the last one, the chronology of this setting. According to Rochlitz, the messenger arrives quite some time before the departure of Leopold for the coronation, yet there is a record of his departure occurring in mid-July 1791. However, as Constanze was in Baden during all of June to mid-July, she would not have been present for the commission or the drive they were said to have taken together. Furthermore, The Magic Flute (except for the Overture and March of the Priests) was completed by mid-July. La clemenza di Tito was commissioned by mid-July. There was no time for Mozart to work on the Requiem on the large scale indicated by the Rochlitz publication in the time frame provided.
+Also in 1798, Constanze is noted to have given another interview to Franz Xaver Niemetschek, another biographer looking to publish a compendium of Mozart's life. He published his biography in 1808, containing a number of claims about Mozart's receipt of the Requiem commission:
+Mozart received the commission very shortly before the Coronation of Emperor Leopold II and before he received the commission to go to Prague.
+He did not accept the messenger's request immediately; he wrote the commissioner and agreed to the project stating his fee but urging that he could not predict the time required to complete the work.
+The same messenger appeared later, paying Mozart the sum requested plus a note promising a bonus at the work's completion.
+He started composing the work upon his return from Prague.
+He fell ill while writing the work
+He told Constanze "I am only too conscious... my end will not be long in coming: for sure, someone has poisoned me! I cannot rid my mind of this thought."
+Constanze thought that the Requiem was overstraining him; she called the doctor and took away the score.
+On the day of his death, he had the score brought to his bed.
+The messenger took the unfinished Requiem soon after Mozart's death.
+Constanze never learned the commissioner's name.This account, too, has fallen under scrutiny and criticism of its accuracy. According to letters, Constanze most certainly knew the name of the commissioner by the time this interview was released in 1800. Additionally, the Requiem was not given to the messenger until some time after Mozart's death. This interview contains the only account from Constanze herself of the claim that she took the Requiem away from Wolfgang for a significant duration during his composition of it. Otherwise, the timeline provided in this account is historically probable.
+However, the most highly accepted text attributed to Constanze is the interview to her second husband, Georg Nikolaus von Nissen. After Nissen's death in 1826, Constanze released the biography of Wolfgang (1828) that Nissen had compiled, which included this interview. Nissen states:
+Mozart received the commission shortly before the coronation of Emperor Leopold and before he received the commission to go to Prague.
+He did not accept the messenger's request immediately; he wrote the commissioner and agreed to the project stating his fee but urging that he could not predict the time required to complete the work.
+The same messenger appeared later, paying Mozart the sum requested plus a note promising a bonus at the work's completion.
+He started composing the work upon his return from Prague.The Nissen publication lacks information following Mozart's return from Prague.
+Mozart esteemed Handel and in 1789 he was commissioned by Baron Gottfried van Swieten to rearrange Messiah (HWV 56). This work likely influenced the composition of Mozart's Requiem; the Kyrie is based on the "And with His stripes we are healed" chorus from Handel's Messiah, since the subject of the fugato is the same with only slight variations by adding ornaments on melismata. However, the same four-note theme is also found in the finale of Haydn's String Quartet in F minor (Op. 20 No. 5) and in the first measure of the A minor fugue from Bach's Well-Tempered Clavier Book 2 (BWV 889b) as part of the subject of Bach's fugue, and it is thought that Mozart transcribed some of the fugues of the Well-Tempered Clavier for string ensemble (K. 404a Nos. 1-3 and K. 405 Nos. 1-5), but the attribution of these transcriptions to Mozart is not certain.
+Some believe that the Introitus was inspired by Handel's Funeral Anthem for Queen Caroline, HWV 264. Another influence was Michael Haydn's Requiem in C minor; Mozart and his father were viola and violin players respectively at its first three performances in January 1772. Some have noted that Michael Haydn's Introitus sounds rather similar to Mozart's, and the theme for Mozart's "Quam olim Abrahae" fugue is a direct quote of the fugue theme from Haydn's Offertorium and Versus from his aforementioned requiem. In Introitus m. 21, the soprano sings "Te decet hymnus Deus in Zion". It is quoting the Lutheran hymn Meine Seele erhebet den Herren. The melody is used by many composers e.g. in Bach's cantata Meine Seel erhebt den Herren, BWV 10 but also in Michael Haydn's Requiem.
+Felicia Hemans' poem "Mozart's Requiem" was first published in The New Monthly Magazine in 1828.
+In the 1960s, a sketch for an Amen Fugue was discovered, which some musicologists (Levin, Maunder) believe belongs to the Requiem at the conclusion of the sequence after the Lacrymosa. H. C. Robbins Landon argues that this Amen fugue was not intended for the Requiem, rather that it "may have been for a separate unfinished mass in D minor" to which the Kyrie K. 341 also belonged.
+There is, however, compelling evidence placing the Amen Fugue in the Requiem based on current Mozart scholarship. First, the principal subject is the main theme of the Requiem (stated at the beginning, and throughout the work) in strict inversion. Second, it is found on the same page as a sketch for the Rex tremendae (together with a sketch for the overture of his last opera The Magic Flute), and thus surely dates from late 1791. The only place where the word 'Amen' occurs in anything that Mozart wrote in late 1791 is in the sequence of the Requiem. Third, as Levin points out in the foreword to his completion of the Requiem, the addition of the Amen Fugue at the end of the sequence results in an overall design that ends each large section with a fugue.
+Since the 1970s several composers and musicologists, dissatisfied with the traditional "Süssmayr" completion, have attempted alternative completions of the Requiem.
+The autograph of the Requiem was placed on display at the World's Fair in 1958 in Brussels. At some point during the fair, someone was able to gain access to the manuscript, tearing off the bottom right-hand corner of the second to last page (folio 99r/45r), containing the words "Quam olim d: C:" (an instruction that the "Quam olim" fugue of the Domine Jesu was to be repeated da capo, at the end of the Hostias). The perpetrator has not been identified and the fragment has not been recovered.
+If the most common authorship theory is true, then "Quam olim d: C:" might very well be the last words Mozart wrote before he died. It is probable that whoever stole the fragment believed that to be the case.
+The Requiem and its individual movements have been repeatedly arranged for various instruments. The keyboard arrangements notably demonstrate the variety of approaches taken to translating the Requiem, particularly the Confutatis and Lacrymosa movements, in order to balance preserving the Requiem's character while also being physically playable. Karl Klindworth's piano solo (c.1900), Muzio Clementi's organ solo, and Renaud de Vilbac's harmonium solo (c.1875) are liberal in their approach to achieve this. In contrast, Carl Czerny wrote his piano transcription for two players, enabling him to retain the extent of the score, if sacrificing timbral character. Franz Liszt's piano solo (c.1865) departs the most in terms of fidelity and character of the Requiem, through its inclusion of composition devices used to showcase pianistic technique.
+Brendan Cormican (1991). Mozart's death – Mozart's requiem: an investigation. Belfast, Northern Ireland: Amadeus Press. ISBN 0-9510357-0-3.
+Heinz Gärtner (1991). Constanze Mozart: after the Requiem. Portland, Oregon: Amadeus Press. ISBN 0-931340-39-X.
+C. R. F. Maunder (1988). Mozart's Requiem: On Preparing a New Edition. Oxford: Clarendon Press. ISBN 0-19-316413-2.
+Christoph Wolff (1994). Mozart's Requiem: Historical and Analytical Studies, Documents, Score. Translated by Mary Whittal. Berkeley: University of California Press. ISBN 0-520-07709-1.Article on the Requiem at h2g2
+Michael Lorenz: "Freystädtler's Supposed Copying in the Autograph of K. 626: A Case of Mistaken Identity", Vienna 2013
+Mozart's Requiem, new completion of the score by musicologist Robert D. Levin, live concert
+
+Requiem: Score and critical report (in German) in the Neue Mozart-Ausgabe
+
+Eybler's and Süssmayr's amendments: Score  in the Neue Mozart-Ausgabe
+Free scores of Requiem, K. 626 in the Choral Public Domain Library (ChoralWiki)
+Requiem in D minor, K. 626: Scores at the International Music Score Library Project

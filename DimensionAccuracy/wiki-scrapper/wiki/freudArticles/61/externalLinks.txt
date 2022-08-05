@@ -1,0 +1,11 @@
+//www.google.com/search?as_eq=wikipedia&q=%22Gotham+Group%22
+//www.google.com/search?tbm=nws&q=%22Gotham+Group%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Gotham+Group%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Gotham+Group%22+-wikipedia
+//scholar.google.com/scholar?q=%22Gotham+Group%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Gotham+Group%22&acc=on&wc=on
+https://www.hollywoodreporter.com/news/stacey-lubliner-joins-gotham-group-928210
+https://www.variety.com/article/VR1118024810?refCatId=2052
+https://www.hollins.edu/175th-anniversary/distinguished-graduates/ellen-feinman-goldsmith-vein/
+https://pro.imdb.com/title/tt2379839/companycredits
+http://www.gotham-group.com/

@@ -1,0 +1,12 @@
+https://en.wikipedia.org/w/index.php?title=Virginia_pound&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Virginia+pound%22
+//www.google.com/search?tbm=nws&q=%22Virginia+pound%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Virginia+pound%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Virginia+pound%22+-wikipedia
+//scholar.google.com/scholar?q=%22Virginia+pound%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Virginia+pound%22&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Template:Pound_(currency)&action=edit
+https://en.wikipedia.org/w/index.php?title=Virginia_pound&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Money-unit-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Virginia_pound&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Virginia-stub&action=edit

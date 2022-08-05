@@ -1,0 +1,182 @@
+/Applications
+GarageBand
+iMovie
+Safari
+/System/Applications
+App Store
+Automator
+Books
+Calculator
+Calendar
+Chess
+Contacts
+Dictionary
+FaceTime
+Find My
+Font Book
+Home
+Image Capture
+Launchpad
+Mail
+Maps
+Messages
+Mission Control
+Music
+News
+Notes
+Photo Booth
+Photos
+Podcasts
+Preview
+QuickTime Player
+Reminders
+Shortcuts
+Siri
+Stickies
+Stocks
+System Preferences
+TV
+TextEdit
+Time Machine
+Voice Memos
+/System/Applications/Utilities
+Activity Monitor
+AirPort Utility
+Audio MIDI Setup
+Bluetooth File Exchange
+Boot Camp Assistant
+ColorSync Utility
+Console
+Digital Color Meter
+Disk Utility
+Grapher
+Keychain Access
+Migration Assistant
+Screenshot
+Script Editor
+System Information
+Terminal
+VoiceOver Utility
+/System/Library/CoreServices
+AddPrinter
+AddressBookUrlForwarder
+AirPlayUIAgent
+AirPort Base Station Agent
+AppleScript Utility
+Automator Application Stub
+Automator Installer
+AVB Audio Configuration
+Bluetooth Setup Assistant
+BluetoothUIServer
+CalendarFileHandler
+Captive Network Assistant
+Certificate Assistant
+ClimateProxy
+Clock
+ControlCenter
+ControlStrip
+CoreLocationAgent
+CoreServicesUIAgent
+Database Events
+DiscHelper
+DiskImageMounter
+Dock
+Dwell Control
+EscrowSecurityAlert
+Family (OSX)
+Finder
+FolderActionsDispatcher
+Games
+HelpViewer
+iCloud
+Image Events
+Install Command Line Developer Tools
+Install in Progress
+Installer Progress
+Installer
+JavaLauncher
+KeyboardAccessAgent
+KeyboardSetupAssistant
+Keychain Circle Notification
+Language Chooser
+LocationMenu
+loginwindow
+ManagedClient
+macOS Setup Assistant
+Memory Slot Utility
+NetAuthAgent
+NotificationCenter
+NowPlayingTouchUI
+NowPlayingWidgetContainer
+OBEXAgent
+ODSAgent
+OSDUIHelper
+PIPAgent
+Paired Devices
+Pass Viewer
+Photo Library Migration Utility
+PodcastsAuthAgent
+PowerChime
+Problem Reporter
+ProfileHelper
+RapportUIAgent
+rcd
+RegisterPluginIMApp
+ReportPanic
+Rosetta 2 Updater
+Screen Time
+screencaptureui
+ScreenSaverEngine
+Script Menu
+ScriptMonitor
+Siri
+Software Update
+SpacesTouchBarAgent
+Spotlight
+System Events
+SystemUIServer
+TextInputMenuAgent
+TextInputSwitcher
+ThermalTrap
+UIKitSystem
+UniversalAccessControl
+UnmountAssistantAgent
+UserNotificationCenter
+VoiceOver
+WatchFaceAlert
+WidgetKit Simulator
+/System/Library/CoreServices/Applications
+About This Mac
+Archive Utility
+DVD Player
+Directory Utility
+Expansion Slot Utility
+Feedback Assistant
+Folder Actions Setup
+iOS App Installer
+Network Utility
+Screen Sharing
+Storage Management
+Ticket Viewer
+Wireless Diagnostics
+Other applications and accessories
+Crash Reporter
+Directory Access
+Internet Connect
+NetInfo Manager
+ODBC Administrator
+Printer Setup Utility
+Older applications
+Classic
+Dashboard
+Grab
+iDVD
+iSync
+iTunes
+Sherlock
+Software Update
+X11
+Development tools
+Server technology
+Core components
+References

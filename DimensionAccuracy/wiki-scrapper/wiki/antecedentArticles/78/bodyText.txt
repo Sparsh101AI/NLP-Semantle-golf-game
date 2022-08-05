@@ -1,0 +1,5 @@
+In drumming, a trigger is an electronic transducer that can be attached to a drum, cymbal or other instrument to enable it to control an electronic drum unit or similar device.
+Specialised triggers are produced for specific instruments. A snare drum trigger, for example, will often have two channels, one each for the rim and head, while a tom-tom drum trigger usually needs to only register strokes to the drum head.
+Drum triggers gained great attention in the beginning of the 1990s, being extensively used on bass drums in heavy metal music.
+The advantage of using drum triggers is that potential problems associated with using microphones can be overcome by triggering pre-recorded samples. It is commonly quoted that less effort is required from the drummer when using drum triggers. The drum module to which the trigger is connected can be adjusted to accommodate a range of volumes, thus preserving the dynamic range of the drummer's playing. Triggers have a greater use in live performances than in studio recordings, since some drummers dislike the processed triggered sound, labelled by some as artificial.
+Trigger padVideo demonstration of drum triggers (YouTube)

@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Helsinki_Old_Church&params=60_09_59_N_24_56_21_E_type:landmark_region:FI-18
+//geohack.toolforge.org/geohack.php?pagename=Helsinki_Old_Church&params=60_09_59_N_24_56_21_E_type:landmark_region:FI-18
+http://www.helsinginkirkot.fi/en/churches/old-church
+http://www.hs.fi/kaupunki/artikkeli/Vanha+kirkko+rakennettiin+korvaamaan+Ulrika+Eleonorankirkon/HS20080511SI1KA0278d
+http://tuomiokirkko.kirkkohelsinki.net/?Deptid=7475
+http://tuomiokirkko.kirkkohelsinki.net/?Deptid=2499
+https://web.archive.org/web/20110812035219/http://www.hel.fi/wps/portal/Rakennusvirasto/Viheralueet?WCM_GLOBAL_CONTEXT=%2FHKR%2Ffi%2FViheralueet%2FPuistot%2FPuistot+alueittain%2FVanha+kirkkopuisto
+http://www.hel.fi/wps/portal/Rakennusvirasto/Viheralueet?WCM_GLOBAL_CONTEXT=/HKR/fi/Viheralueet/Puistot/Puistot+alueittain/Vanha+Kirkkopuisto
+http://www.hs.fi/kaupunki/artikkeli/Vanha+kirkkopuisto+on+luille+rakennettu/HS20080511SI1KA0278e
+https://web.archive.org/web/20140606213339/http://uusi.helsinginseurakunnat.fi/seurakunnat/tuomiokirkkoseurakunta.html

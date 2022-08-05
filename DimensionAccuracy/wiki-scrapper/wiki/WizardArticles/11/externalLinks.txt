@@ -1,0 +1,10 @@
+https://en.wikipedia.org/w/index.php?title=Paul_Seitz_(footballer)&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Paul+Seitz%22+footballer
+//www.google.com/search?tbm=nws&q=%22Paul+Seitz%22+footballer+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Paul+Seitz%22+footballer&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Paul+Seitz%22+footballer+-wikipedia
+//scholar.google.com/scholar?q=%22Paul+Seitz%22+footballer
+https://www.jstor.org/action/doBasicSearch?Query=%22Paul+Seitz%22+footballer&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Template:Olympique_de_Marseille_managers&action=edit
+https://en.wikipedia.org/w/index.php?title=Paul_Seitz_(footballer)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:France-footy-defender-1890s-stub&action=edit

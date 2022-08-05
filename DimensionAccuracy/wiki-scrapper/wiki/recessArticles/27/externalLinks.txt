@@ -1,0 +1,6 @@
+//geohack.toolforge.org/geohack.php?pagename=Arendal_Heliport,_Hospital&params=58.46650_N_8.75413_E_region:NO_type:airport
+//geohack.toolforge.org/geohack.php?pagename=Arendal_Heliport,_Hospital&params=58.46650_N_8.75413_E_region:NO_type:airport
+http://www.luftambulanse.no/system/files/internett-vedlegg/landingsforhold_ved_sykehus-_rapport_versjon_ad-motet_16_des_2013_komplett.pdf
+http://www.luftambulanse.no/baser/f%C3%B8rde
+http://www.regjeringen.no/Rpub/NOU/19981998/008/PDFA/NOU199819980008000DDDPDFA.pdf
+https://en.wikipedia.org/w/index.php?title=Template:Airports_in_Norway&action=edit

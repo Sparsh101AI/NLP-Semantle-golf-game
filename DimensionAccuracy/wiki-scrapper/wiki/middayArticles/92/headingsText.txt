@@ -1,0 +1,12 @@
+Overview
+Free and open-source licenses
+ Microsoft Public License (Ms-PL)
+ Microsoft Reciprocal License (Ms-RL)
+Restricted licenses
+ Microsoft Limited Public License (Ms-LPL)
+ Microsoft Limited Reciprocal License (Ms-LRL)
+ Microsoft Reference Source License (Ms-RSL)
+Criticism
+See also
+References
+External links

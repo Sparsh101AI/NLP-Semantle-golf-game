@@ -1,0 +1,10 @@
+A reflowable document is a type of electronic document that can adapt its presentation to the output device. Typical prepress or fixed page size output formats like PostScript or PDF are not reflowable during the actual printing process because the page is not resized. For end users, the World Wide Web standard, HTML is a reflowable format as is the case with any resizable electronic page format.
+In contrast to end user terminology, the notion of reflow is sometimes used to discuss desktop publishing program features for print publication page layout such as automatically balancing the amount of text in a number of columns.
+Reflow is not limited to text; 21st century scorewriters enable music notation to be reflowed between systems and pages in a similar way to how text reflows between lines and pages.
+Besides HTML, commercially available systems include:
+EPUB is a simple reflowable format that allows a single column with inline images, in many ways similar to a stripped-down HTML.
+Windows Presentation Foundation (WPF) introduced XAML-based documents together with a viewer call "SinglePageViewer" that can reflow any WPF objects. However the XPS document standard also introduced by Microsoft with WPF does not support reflow.
+Tagged PDF documents can contain an additional data layer that (among other things) allows content to reflow within the boundaries of one original page.
+FictionBook is a free reflowable format by design. It does not specify the appearance of a document; instead, it describes its structure. For example, there are special tags for epigraphs, verses and quotations.
+Amazon's Kindle File Format, but only in its newest version.Xerox PARC has developed an experimental system that allows the reflow of any document using OCR layout analysis at word-level.
+

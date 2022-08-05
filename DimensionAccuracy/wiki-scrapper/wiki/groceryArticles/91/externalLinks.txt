@@ -1,0 +1,7 @@
+//geohack.toolforge.org/geohack.php?pagename=Rice_Lake_station&params=49_53_25_N_95_07_01_W_region:CA-ON_type:railwaystation_source:GeographicalNamesBoardofCanada
+//geohack.toolforge.org/geohack.php?pagename=Rice_Lake_station&params=49_53_25_N_95_07_01_W_region:CA-ON_type:railwaystation_source:GeographicalNamesBoardofCanada
+https://geonames.nrcan.gc.ca/search-place-names/unique?id=FCKVP
+http://www.mto.gov.on.ca/english/traveller/map/images/pdf/northont/sheets/Map13.pdf
+http://www.viarail.ca/en/stations/ontario/rice-lake
+https://en.wikipedia.org/w/index.php?title=Rice_Lake_station&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Ontario-railstation-stub&action=edit

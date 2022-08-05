@@ -1,0 +1,150 @@
+In mathematical logic, an atomic formula (also known simply as an atom) is a formula with no deeper propositional structure, that is, a formula that contains no logical connectives or equivalently a formula that has no strict subformulas. Atoms are thus the simplest well-formed formulas of the logic. Compound formulas are formed by combining the atomic formulas using the logical connectives.
+The precise form of atomic formulas depends on the logic under consideration; for propositional logic, for example, a propositional variable is often more briefly referred to as an "atomic formula", but, more precisely, a propositional variable is not an atomic formula but a formal expression that denotes an atomic formula, For predicate logic, the atoms are predicate symbols together with their arguments, each argument being a term.  In model theory, atomic formulas are merely strings of symbols with a given signature, which may or may not be satisfiable with respect to a given model.
+The well-formed terms and propositions of ordinary first-order logic have the following syntax:
+Terms:
+
+
+
+
+t
+≡
+c
+∣
+x
+∣
+f
+(
+
+t
+
+1
+
+
+,
+…
+,
+
+t
+
+n
+
+
+)
+
+
+{\displaystyle t\equiv c\mid x\mid f(t_{1},\dotsc ,t_{n})}
+
+,that is, a term is recursively defined to be a constant c (a named object from the domain of discourse), or a variable x (ranging over the objects in the domain of discourse), or an n-ary function f whose arguments are terms tk. Functions map tuples of objects to objects.
+Propositions:
+
+
+
+
+A
+,
+B
+,
+.
+.
+.
+≡
+P
+(
+
+t
+
+1
+
+
+,
+…
+,
+
+t
+
+n
+
+
+)
+∣
+A
+∧
+B
+∣
+⊤
+∣
+A
+∨
+B
+∣
+⊥
+∣
+A
+⊃
+B
+∣
+∀
+x
+.
+ 
+A
+∣
+∃
+x
+.
+ 
+A
+
+
+{\displaystyle A,B,...\equiv P(t_{1},\dotsc ,t_{n})\mid A\wedge B\mid \top \mid A\vee B\mid \bot \mid A\supset B\mid \forall x.\ A\mid \exists x.\ A}
+
+,that is, a proposition is recursively defined to be an n-ary predicate P whose arguments are terms tk, or an expression composed of logical connectives (and, or) and quantifiers (for-all, there-exists) used with other propositions.
+An atomic formula or atom is simply a predicate applied to a tuple of terms; that is, an atomic formula is a formula of the form P (t1 ,…, tn) for P a predicate, and the tn terms.
+All other well-formed formulae are obtained by composing atoms with logical connectives and quantifiers.
+For example, the formula ∀x. P (x) ∧ ∃y. Q (y, f (x)) ∨ ∃z. R (z) contains the atoms
+
+
+
+
+P
+(
+x
+)
+
+
+{\displaystyle P(x)}
+
+
+
+
+
+
+Q
+(
+y
+,
+f
+(
+x
+)
+)
+
+
+{\displaystyle Q(y,f(x))}
+
+
+
+
+
+
+R
+(
+z
+)
+
+
+{\displaystyle R(z)}
+
+In model theory, structures assign an interpretation to the atomic formulas.
+In proof theory, polarity assignment for atomic formulas is an essential component of focusing.
+Atomic sentenceHinman, P. (2005). Fundamentals of Mathematical Logic. A K Peters. ISBN 1-56881-262-0.

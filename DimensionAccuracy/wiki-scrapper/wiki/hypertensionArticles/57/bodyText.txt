@@ -1,0 +1,8 @@
+Neodymium(III) hydroxide is an inorganic compound with the chemical formula Nd(OH)3.
+React neodymium(III) nitrate and ammonia water, to produce neodymium(III) hydroxide
+Nd(NO3)3 + 3 NH3·H2O → Nd(OH)3↓ + 3 NH4NO3If the amount of Nd(NO3)3 is 40g/L，the amount of ammonia water is 0.50 mol/L; put ammonia water into Nd(NO3)3 solution at the speed of 1.5mL/min, and control pH at 7.35，use polyethylene glycol as scatterer, it will produce neodymium(III) hydroxide powder with grain size ≤1μm。
+Neodymium(III) hydroxide can react with acid and produce neodymium salts:
+Nd(OH)3 + 3 H → Nd + 3 H2OFor example, to create neodymium acetate with neodymium(III) hydroxide:
+Nd(OH)3 + 3CH3COOH → Nd(CH3COO)3 + 3H2ONeodymium
+Hydroxide
+Lanthanide

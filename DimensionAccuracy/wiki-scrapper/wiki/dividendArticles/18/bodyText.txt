@@ -1,0 +1,45 @@
+The HP-65 is the first magnetic card-programmable handheld calculator. Introduced by Hewlett-Packard in 1974 at an MSRP of $795 (equivalent to $4,368 in 2021), it featured nine storage registers and room for 100 keystroke instructions. It also included a magnetic card reader/writer to save and load programs. Like all Hewlett-Packard calculators of the era and most since, the HP-65 used Reverse Polish Notation (RPN) and a four-level automatic operand stack.
+Bill Hewlett's design requirement was that the calculator should fit in his shirt pocket. That is one reason for the tapered depth of the calculator. The magnetic program cards are fed in at the thick end of the calculator under the LED display. The documentation for the programs in the calculator is very complete, including algorithms for hundreds of applications, including the solutions of differential equations, stock price estimation, statistics, and so forth.
+The HP-65 introduced the "tall", trapezoid-shaped keys that would become iconic for many generations of HP calculators. Each of the keys had up to four functions. In addition to the "normal function" printed on the key's face, a "gold" function printed on the case above the key and a "blue" function printed on the slanted front surface of the key were accessed by pushing the gold f or blue g prefix key, respectively. For example, f followed by 4 would access the sine function, or g followed by 4 would calculate 
+
+
+
+1
+
+/
+
+x
+
+
+{\displaystyle 1/x}
+
+. For some mathematical functions, a gold f prefix key would access the inverse of the gold-printed functions, e.g. f followed by 4 would calculate the inverse sine (
+
+
+
+
+sin
+
+−
+1
+
+
+
+
+{\displaystyle \sin ^{-1}}
+
+).
+Functions included square root, inverse, trigonometric (sine, cosine, tangent and their inverses), exponentiation, logarithms and factorial. The HP-65 was one of the first calculators to include a base conversion function, although it only supported octal (base 8) conversion. It could also perform conversions between degrees/minutes/seconds (sexagesimal) and decimal degree (sexadecimal) values, as well as polar/cartesian coordinate conversion.
+The HP-65 had a program memory for up to 100 instructions of 6 bits which included subroutine calls and conditional branching based on comparison of x and y registers. Some (but not all) commands entered as multiple keystrokes were stored in a single program memory cell. When displaying a program, the key codes were shown without line numbers.
+A program could be saved to mylar-based magnetically coated cards measuring 71 mm × 9.5 mm (2.8 in × 0.4 in), which were fed through the reader by a small electric motor through a worm gear and rubber roller at a speed of 6 cm/s (2.4 in/s).  The recording area used only half of the width of the card. While reversing the card to store a second program was possible, it was officially discouraged (unlike in later models such as the HP-67) because the other half of the card was touched by the rubber wheel during transport, causing extra abrasion. When inserted into an extra slot between the display and the keyboard, the printing on top of the card would correspond to the top row of keys (A - E), which served as shortcuts to the corresponding program entry points.
+Cards could be write-protected by diagonally clipping the top-left corner of the card. HP also sold a number of program collections for scientific and engineering applications on sets of prerecorded (and write-protected) cards.
+The HP-65 had a "feature" whereby storage register R9 was corrupted whenever the user (or program) executed trigonometric functions or performed comparison tests; this kind of issue was common in many early calculators, caused by a lack of memory due to cost, power, or size considerations. Since the limitation was documented in the manual, it is not, strictly speaking, a bug.
+During the 1975 Apollo-Soyuz Test Project, the HP-65 became the first programmable handheld calculator in outer space. Two HP-65s were carried on board the Apollo spacecraft. Calculation of parameters for the several thrusting maneuvers needed to rendezvous with the Soyuz spacecraft was done on the HP-65 and compared with the results calculated by the onboard Apollo Guidance Computer. Another program for the HP-65 allowed the crew to compute pointing angles for the spacecraft antenna for aiming at the ATS-6 communications relay satellite. 
+In the same year, Mitchell Feigenbaum, using the small HP-65 calculator he had been issued at the Los Alamos National Laboratory, discovered that the ratio of the difference between the values at which successive period-doubling bifurcations occur tends to a constant of around 4.6692... This "ratio of convergence" is now known as the first Feigenbaum constant.
+HP-25
+HP-35
+65 NotesThe HP-65 at an unofficial Hewlett-Packard museum (MyCalcDB); includes a photograph of the magnetic card.
+1975 HP Calculator Christmas Guide
+HP's Virtual Museum: HP-65
+HP-65 page at the unofficial Museum of HP Calculators
+One of the HP-65s carried on the ASTP space flight is in the collection of the National Air & Space Museum.

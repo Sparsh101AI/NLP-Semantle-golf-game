@@ -1,0 +1,10 @@
+IEC 63382 is an international standard defining a protocol for the management of distributed energy storage systems based on electric vehicles, which is currently under development. IEC 63382 is one of the International Electrotechnical Commission's group of standards for electric road vehicles and electric industrial trucks, and is the responsibility of Joint Working Group 15 (JWG15) of IEC Technical Committee 69 (TC69).
+IEC 63382 consists of the following parts, detailed in separate IEC 63382 standard documents:
+IEC 63382-1: Definitions, requirements and use cases
+IEC 63382-2: Data models, protocols and messages
+IEC 63382-3: Conformance testsVehicle-to-grid
+ISO 15118
+IEC 61850
+IEC 61851
+IEC 63110
+OCPP

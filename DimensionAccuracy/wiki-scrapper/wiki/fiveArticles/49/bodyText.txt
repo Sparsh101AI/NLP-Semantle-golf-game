@@ -1,0 +1,14 @@
+
+Edward John Lemmon (1 June 1930 – 29 July 1966) was a British logician and philosopher born in Sheffield, England.  He is most well known for his work on modal logic, particularly his joint text with Dana Scott published posthumously (Lemmon and Scott, 1977).
+Lemmon attended King Edward VII School in Sheffield until 1947, before reading Literae humaniores at Magdalen College, Oxford, as an undergraduate, and was appointed Fellow of Trinity College, Oxford, in 1957.  In 1963, following a visiting professorship in Texas, Lemmon emigrated to the United States to lecture at the Claremont Graduate School (now Claremont Graduate University). Lemmon died from heart failure while climbing.
+John Lemmon became interested in modal logic when Arthur Prior visited Oxford University in 1956 to give the John Locke lectures, later published as his Time and Modality (Prior 1957).  Prior returned for twelve months soon after, to lead a small group including  Lemmon, Peter Geach and Ivo Thomas (Copeland 2004).  John Lemmon became one of the early champions of Prior's distinctive approach to tense logic, and Lemmon's later work on alethic modality and applications of modal logic to ethics bear the mark of Prior's influence.  At this time, Lemmon published a treatment of alethic and epistemic modalities  which introduced some systems of non-normal modal logics that have proven to have had lasting interest, the alethic system S0.5 and the epistemic systems E1–E5 linked to the systems S0.5 and Lewis's systems S2–S5, but which lack the law of necessitation (Lemmon 1957).
+Lemmon was a pioneer of the modern approach to the semantics of modal logic, particularly through his collaboration with Dana Scott, but also became interested in the rival algebraic semantics of modal logic that follows more closely the kind of semantics found in the work of Tarski and Jónsson.
+1957.  'New foundations for Lewis modal systems'.  Journal of Symbolic Logic 22:176-186
+With Michael Dummett, 1959.  'Modal Logics between S4 and S5'.  In Zeitschrifl für Mathematische Logik und Grundlagen der Mathematik, 5:250-264
+1959, "Is There Only One Correct System of Modal Logic?" Proceedings of the Aristotelian Society, Supplementary Volumes, 33:23-40
+1962, 'Moral dilemmas'. The Philosophical Review, LXXI
+1966, 'Sentences, Statements and Propositions', in B. Williams and A. Montefiore, eds., British Analytical Philosophy, London: Routledge and Kegan Paul, pp.87-107
+1967, 'If I Know, Do I Know that I Know?', in A. Stroll, ed., Epistemology, New York: Harper and Rowe, pp54–83.
+With Dana Scott, 1977. An introduction to modal logic.  Oxford: Blackwell.
+Lemmon, Edward John (1965). Beginning logic. Thomas Nelson. ISBN 0-17-712040-1.Ivo Thomas, 1968.  In Memoriam: Edward John Lemmon.  Notre Dame Journal of Formal Logic, Vol IX(1).
+Jack Copeland, 2004. Arthur Prior.  In the Stanford Encyclopedia of Philosophy.

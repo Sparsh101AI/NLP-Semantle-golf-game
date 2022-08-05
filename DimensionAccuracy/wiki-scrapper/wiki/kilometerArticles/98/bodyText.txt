@@ -1,0 +1,20 @@
+A web chat is a system that allows users to communicate in real-time using easily accessible web interfaces. It is a type of Internet online chat distinguished by its simplicity and accessibility to users who do not wish to take the time to install and learn to use specialized chat software. This trait allows users instantaneous access and only a web browser is required to chat. Users will always get the latest version of a chat service because no software installation or update are required.
+The following are standalone chat servers:
+IBM SametimeThe following are web front ends (requires e.g. IRC chat server):
+CGI:IRC (Perl, Ajax)
+Mibbit (Java, Ajax)
+PJIRC (Java)
+qwebirc (Python, Ajax)Web chat software is sometimes used in a business context as live support software, also called live support, live help or live chat. In this case, the web chat software is integrated with a website to allow for a customer to chat with the business representative or the website owner. Live support on a web chat channel can be provided by both human agents as well as virtual agents and chatbots. In many cases, both humans and live chat tools work in tandem to improve the digital customer experience.
+The following are web-based live support applications, which enable website visitors to chat with the sales or support people of the website in real-time. Webmasters only need to paste a piece of code onto the web pages to get them working.
+Comm100 Live Chat
+eGain
+LiveChat
+LivePerson
+Podium
+VelaroThere's plenty of web chat services and chat rooms that allow communication – often directly addressed, but anonymous, between users in a multi-user environment. These services are used for one-to-one and one-to-many communication. Websites with browser-based chat services include:
+Chat room
+Instant messaging
+List of collaborative software
+List of online chat software
+Online chat
+ShoutboxInternet Chat at Curlie

@@ -1,0 +1,280 @@
+The Gujarati script (ગુજરાતી લિપિ, transliterated: Gujǎrātī Lipi) is an abugida for the Gujarati language, Kutchi language, and various other languages. It is a variant of the Devanagari script differentiated by the loss of the characteristic horizontal line running above the letters and by a number of modifications to some characters.
+Gujarati numerical digits are also different from their Devanagari counterparts.
+The Gujarati script (ગુજરાતી લિપિ) was adapted from the Nagari script to write the Gujarati language. The Gujarati language and script developed in three distinct phases — 10th to 15th century, 15th to 17th century and 17th to 19th century. The first phase is marked by use of Prakrit, Apabramsa and its variants such as Paisaci, Shauraseni, Magadhi and Maharashtri. In second phase, Old Gujarati script was in wide use. The earliest known document in the Old Gujarati script is a handwritten manuscript Adi Parva dating from 1591–92, and the script first appeared in print in a 1797 advertisement. The third phase is the use of script developed for ease and fast writing. The use of shirorekhā (the topline as in Devanagari) was abandoned. Until the 19th century it was used mainly for writing letters and keeping accounts, while the Devanagari script was used for literature and academic writings. It is also known as the śarāphī (banker's), vāṇiāśāī  (merchant's) or mahājanī (trader's) script. This script became the basis of the modern script. Later the same script was adopted by writers of manuscripts. Jain community also promoted its use for copying religious texts by hired writers.
+The Gujarati writing system is an abugida, in which each base consonantal character possesses an inherent vowel, that vowel being a [ə]. For postconsonantal vowels other than a, the consonant is applied with diacritics, while for non-postconsonantal vowels (initial and post-vocalic positions), there are full-formed characters. With a being the most frequent vowel, this is a convenient system in the sense that it cuts down on the width of writing.
+Following out of the aforementioned property, consonants lacking a proceeding vowel may condense into the proceeding consonant, forming compound or conjunct letters. The formation of these conjuncts follows a system of rules depending on the consonants involved.
+In accordance with all the other Indic scripts, Gujarati is written from left to right, and is not case-sensitive.
+The Gujarati script is basically phonemic, with a few exceptions. First out of these is the written representation of non-pronounced as, which are of three types.
+Word-final as. Thus ઘર "house" is pronounced ghar and not ghara. The as remain unpronounced before postpositions and before other words in compounds: ઘરપર "in the house" is gharpar and not gharapar; ઘરકામ "housework" is gharkām and not gharakām. This non-pronunciation is not always the case with conjunct characters: મિત્ર "friend" is truly mitra.
+Naturally elided as through the combination of morphemes. The root પકડ઼ pakaṛ "hold" when inflected as પકડ઼ે "holds" remains written as pakaṛe even though pronounced as pakṛe. See Gujarati phonology#ə-deletion.
+as whose non-pronunciation follows the above rule, but which are in single words not resultant of any actual combination. Thus વરસાદ "rain", written as varasād but pronounced as varsād.Secondly and most importantly, being of Sanskrit-based Devanagari, Gujarati's script retains notations for the obsolete (short i, u vs. long ī, ū; r̥, ru; ś, ṣ), and lacks notations for innovations (/e/ vs. /ɛ/; /o/ vs. /ɔ/; clear vs. murmured vowels).
+Contemporary Gujarati uses English punctuation, such as the question mark, exclamation mark, comma, and full stop. Apostrophes are used for the rarely written clitic. Quotation marks are not as often used for direct quotes. The full stop replaced the traditional vertical bar, and the colon, mostly obsolete in its Sanskritic capacity (see below), follows the European usage.
+The Zoroastrians of India, who represent one of the largest surviving Zoroastrian communities worldwide, would transcribe Avestan in Nagri script-based scripts as well as the Avestan alphabet. This is a relatively recent development first seen in the ca. 12th century texts of Neryosang Dhaval and other Parsi Sanskritist theologians of that era, and which are roughly contemporary with the oldest surviving manuscripts in Avestan script. Today, Avestan is most commonly typeset in Gujarati script (Gujarati being the traditional language of the Indian Zoroastrians). Some Avestan letters with no corresponding symbol are synthesized with additional diacritical marks, for example, the  /z/ in zaraθuštra is written with /j/ + dot below.
+Miller (2010) presented a theory that the indigenous scripts of Sumatra (Indonesia), Sulawesi (Indonesia) and the Philippines are descended from an early form of the Gujarati script. Historical records show that Gujaratis played a major role in the archipelago, where they were manufacturers and played a key role in introducing Islam. Tomé Pires reported a presence of a thousand Gujaratis in Malacca (Malaysia) prior to 1512.
+Vowels (svara), in their conventional order, are historically grouped into "short" (hrasva) and "long" (dīrgha) classes, based on the "light" (laghu) and "heavy" (guru) syllables they create in traditional verse. The historical long vowels ī and ū are no longer distinctively long in pronunciation. Only in verse do syllables containing them assume the values required by meter.
+Finally, a practice of using inverted mātras to represent  English [æ] and [ɔ]'s has gained ground.
+ર r, જ j and હ h form the irregular forms of રૂ rū, જી jī and હૃ hṛ.
+Consonants (vyañjana) are grouped in accordance with the traditional, linguistically based Sanskrit scheme of arrangement, which considers the usage and position of the tongue during their pronunciation. In sequence, these categories are: velar, palatal, retroflex, dental, labial, sonorant and fricative. Among the first five groups, which contain the stops, the ordering starts with the unaspirated voiceless, then goes on through aspirated voiceless, unaspirated voiced, and aspirated voiced, ending with the Nasal stops. Most have a Devanagari counterpart.
+Letters can take names by suffixing કાર kār. The letter ર ra is an exception; it is called રેફ reph.
+Starting with ક ka and ending with જ્ઞ jña, the order goes:Plosives & Nasals (left to right, top to bottom) → Sonorants & Sibilants (top to bottom, left to right) → Bottom box (top to bottom)The final two are compound characters that happen to be traditionally included in the set. They are indiscriminate as to their original constituents, and they are the same size as a single consonant character.
+Written (V)hV sets in speech result in murmured V̤(C) sets (see Gujarati phonology#Murmur). Thus (with ǐ = i or ī, and ǔ = u or ū): ha → [ə̤] from /ɦə/; hā → [a̤] from /ɦa/; ahe → [ɛ̤] from /əɦe/; aho → [ɔ̤] from /əɦo/; ahā → [a̤] from /əɦa/; ahǐ → [ə̤j] from /əɦi/; ahǔ → [ə̤ʋ] from /əɦu/; āhǐ → [a̤j] from /ɑɦi/; āhǔ → [a̤ʋ] from /ɑɦu/; etc.As mentioned, successive consonants lacking a vowel in between them may physically join together as a 'conjunct'. The government of these clusters ranges from widely to narrowly applicable rules, with special exceptions within. While standardized for the most part, there are certain variations in clustering, of which the Unicode used on this page is just one scheme. The rules:
+23 out of the 36 consonants contain a vertical right stroke (ખ, ધ, ળ etc.). As first or middle fragments/members of a cluster, they lose that stroke. e.g. ત + વ = ત્વ, ણ + ઢ = ણ્ઢ, થ + થ = થ્થ.
+શ ś(a) appears as a different, simple ribbon-shaped fragment preceding વ va, ન na, ચ ca and ર ra. Thus શ્વ śva, શ્ન śna, શ્ચ śca and શ્ર śra. In the first three cases the second member appears to be squished down to accommodate શ's ribbon fragment. In શ્ચ śca we see ચ's Devanagari equivalent of च as the squished-down second member. See the note on ર to understand the formation of શ્ર śra.
+ર r(a)
+as a first member it takes the form of a curved upward dash above the final character or its kāno. e.g. ર્ભ rbha, ર્ભા rbhā, ર્ગ્મ rgma, ર્ગ્મા rgmā.
+as a final member
+with છ chha, ટ Ta, ઠ Tha, ડ Da, ઢ Dha and દ da, it is two lines below the character, pointed downwards and apart. Thus છ્ર, ટ્ર, ઠ્ર, ડ્ર, ઢ્ર and દ્ર.
+elsewhere it is a diagonal stroke jutting leftwards and down. e.g. ક્ર, ગ્ર, ભ્ર. ત ta is shifted up to make ત્ર tra. And as said before, શ ś(a) is modified to શ્ર śra.
+Vertical combination of geminates ṭṭa, ṭhṭha, ḍḍa and ḍhḍha: ટ્ટ, ઠ્ઠ, ડ્ડ, ઢ્ઢ. Also, ટ્ઠ ṭṭha and ડ્ઢ ḍḍha.
+As first shown with શ્ચ śca, while Gujarati is a separate script with its own novel characters, for compounds it will often use the Devanagari versions.
+દ d(a) as द preceding ગ ga, ઘ gha, ધ dha, બ ba (as ब), ભ bha, વ va, મ ma and ર ra. The first six-second members are shrunken and hang at an angle off the bottom left corner of the preceding દ/द. Thus દ્ગ dga, દ્ઘ dgha, દ્ધ ddha, દ્બ dba, દ્ભ dbha, દ્વ dva, દ્મ dma and દ્ર dra.
+હ h(a) as ह preceding ન na, મ ma, ય ya, ર ra, વ va and ઋ ṛ. Thus હ્ન hna, હ્મ hma, હ્ય hya, હ્ર hra, હ્વ hva and હૃ hṛ.
+when ઙ ṅa and ઞ ña are first members we get second members of ક ka as क, ચ ca as च and જ ja as ज. ઙ forms compounds through vertical combination. ઞ's strokeless fragment connects to the stroke of the second member, jutting upwards while pushing the second member down. Thus ઙ્ક ṅka, ઙ્ગ ṅga, ઙ્ઘ ṅgha, ઙ્ક્ષ ṅkṣa, ઞ્ચ ñca and ઞ્જ ñja.
+The remaining vertical stroke-less characters join by squeezing close together. e.g. ક્ય kya, જ્જ jja.
+Outstanding special forms: ન્ન nna, ત્ત tta, દ્દ dda and દ્ય dya.The role and nature of Sanskrit must be taken into consideration to understand the occurrence of consonant clusters. The orthography of written Sanskrit was completely phonetic, and had a tradition of not separating words by spaces. Morphologically it was highly synthetic, and it had a great capacity to form large compound words. Thus clustering was highly frequent, and it is Sanskrit loanwords to the Gujarati language that are the grounds of most clusters. Gujarati, on the other hand, is more analytic, has phonetically smaller, simpler words, and has a script whose orthography is slightly imperfect (a-elision) and separates words by spaces. Thus evolved Gujarati words are less a cause for clusters. The same can be said of Gujarati's other longstanding source of words, Persian, which also provides phonetically smaller and simpler words.
+An example attesting to this general theme is that of the series of d- clusters. These are essentially Sanskrit clusters, using the original Devanagari forms. There are no cluster forms for formations such as dta, dka, etc. because such formations weren't permitted in Sanskrit phonology anyway. They are permitted under Gujarati phonology, but are written unclustered (પદત padata "position", કૂદકો kūdko "leap"), with patterns such as a-elision at work instead.
+Gujarati is romanized throughout Wikipedia in "standard orientalist" transcription as outlined in Masica (1991:xv). Being "primarily a system of transliteration from the Indian scripts, [and] based in turn upon Sanskrit" (cf. IAST), these are its salient features: subscript dots for retroflex consonants; macrons for etymologically, contrastively long vowels; h denoting aspirated stops. Tildes denote nasalized vowels and underlining denotes murmured vowels.
+Vowels and consonants are outlined in the tables below. Hovering the mouse cursor over them will reveal the appropriate IPA symbol. Finally, there are three Wikipedia-specific additions:  f is used interchangeably with ph, representing the widespread realization of /pʰ/ as [f];  â and ô for novel characters ઍ [æ] and ઑ [ɔ];  ǎ for [ə]'s where elision is uncertain. See Gujarati phonology for further clarification.
+
+
+
+
+Vowels
+
+
+
+Front
+Central
+Back
+
+
+Close
+
+i/ī
+
+u/ū
+
+
+Mid
+
+e
+
+o
+
+
+ɛ
+a
+ɔ
+
+
+Open
+
+
+ā
+
+
+
+
+
+Consonants
+
+
+
+
+Bilabial
+
+Labio-dental
+
+Dental
+
+Alveolar
+
+Retroflex
+
+Post-alv./Palatal
+
+Velar
+
+Glottal
+
+
+Stop
+
+pph
+
+bbh
+
+
+
+tth
+
+ddh
+
+
+
+ṭṭh
+
+ḍḍh
+
+
+
+kkh
+
+ggh
+
+
+
+
+
+
+Affricate
+
+
+
+
+
+
+
+
+
+
+
+cch
+
+jjh
+
+
+
+
+
+
+Nasal
+
+m
+
+
+
+
+
+n
+
+ṇ
+
+ñ
+
+ṅ
+
+
+
+
+Fricative
+
+
+
+
+
+
+
+
+
+s
+
+
+
+ṣ
+
+
+
+ś
+
+
+
+
+
+
+
+
+
+h
+
+
+Tap or Flap
+
+
+
+
+
+
+
+r
+
+ṛṛh
+
+
+
+
+
+
+
+
+Approximant
+
+
+
+v
+
+
+
+
+
+
+
+y
+
+
+
+
+
+
+Lateralapproximant
+
+
+
+
+
+
+
+l
+
+ḷ
+
+
+
+
+
+
+
+
+Gujarati script was added to the Unicode Standard in October, 1991 with the release of version 1.0.
+The Unicode block for Gujarati is U+0A80–U+0AFF:
+Further details regarding how to use Unicode for creating Gujarati script can be found on Wikibooks: How to use Unicode in creating Gujarati script.
+
+The Indian Script Code for Information Interchange (ISCII) code-page identifier for Gujarati script is 57010.
+Gujarati Braille
+Wikibooks: How to use Unicode in creating Gujarati script
+Unicode and HTML
+Yudit - open source tool for editing in Gujarati and other Unicode scripts.
+[[b:Gujarati|Gujarati course in Wikibooks]Cardona, George; Suthar, Babu (2003), "Gujarati",  in Cardona, George; Jain, Dhanesh (eds.), The Indo-Aryan Languages, Routledge, ISBN 978-0-415-77294-5.
+Dwyer, Rachel (1995), Teach Yourself Gujarati, London: Hodder and Stoughton, archived from the original on 2008-01-02.
+Masica, Colin (1991), The Indo-Aryan Languages, Cambridge: Cambridge University Press, ISBN 978-0-521-29944-2.
+Mistry, P.J. (2001), "Gujarati",  in Garry, Jane; Rubino, Carl (eds.), An encyclopedia of the world's major languages, past and present, New England Publishing Associates.
+Mistry, P.J. (1996), "Gujarati Writing",  in Daniels; Bright (eds.), The World's Writing Systems, Oxford University Press, ISBN 9780195079937.
+Tisdall, W.S. (1892), A Simplified Grammar of the Gujarati Language : together with A short reading book and vocabulary, London : Kegan Paul, Trench, Trúbner.TDIL: Ministry of Communication & Information Technology, India
+Gujarati/Sanskrit alphabet with an extensive list of conjuncts
+Gujarati Wiktionary
+Gujarati Editor
+Example of Gujarati literature.The India Linux Project - Gujarati
+MS Windows keyboard layout reference for major world languages
+Sun Microsystems reference: Indic keyboard layouts
+Linux: Indic language support
+Fedora project Gujarati keyboard layout: I18N/Indic/GujaratiKeyboardLayouts - Fedora Project Wiki

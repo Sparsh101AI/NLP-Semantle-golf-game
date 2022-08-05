@@ -1,0 +1,215 @@
+Alpha is a measure of the active return on an investment, the performance of that investment compared with a suitable market index. An alpha of 1% means the investment's return on investment over a selected period of time was 1% better than the market during that same period; a negative alpha means the investment underperformed the market. Alpha, along with beta, is one of two key coefficients in the capital asset pricing model used in modern portfolio theory and is closely related to other important quantities such as standard deviation, R-squared and the Sharpe ratio.
+In modern financial markets, where index funds are widely available for purchase, alpha is commonly used to judge the performance of mutual funds and similar investments. As these funds include various fees normally expressed in percent terms, the fund has to maintain an alpha greater than its fees in order to provide positive gains compared with an index fund. Historically, the vast majority of traditional funds have had negative alphas, which has led to a flight of capital to index funds and non-traditional hedge funds.
+It is also possible to analyze a portfolio of investments and calculate a theoretical performance, most commonly using the capital asset pricing model (CAPM). Returns on that portfolio can be compared with the theoretical returns, in which case the measure is known as Jensen's alpha. This is useful for non-traditional or highly focused funds, where a single stock index might not be representative of the investment's holdings.
+The alpha coefficient (
+
+
+
+
+α
+
+i
+
+
+
+
+{\displaystyle \alpha _{i}}
+
+) is a parameter in the single-index model (SIM). It is the intercept of the security characteristic line (SCL), that is, the coefficient of the constant in a market model regression.
+
+
+
+
+
+S
+C
+L
+
+:
+
+R
+
+i
+,
+t
+
+
+−
+
+R
+
+f
+
+
+=
+
+α
+
+i
+
+
++
+
+β
+
+i
+
+
+
+(
+
+R
+
+M
+,
+t
+
+
+−
+
+R
+
+f
+
+
+)
++
+
+ε
+
+i
+,
+t
+
+
+
+
+{\displaystyle \mathrm {SCL} :R_{i,t}-R_{f}=\alpha _{i}+\beta _{i}\,(R_{M,t}-R_{f})+\varepsilon _{i,t}}
+
+where the following inputs are:
+
+
+
+
+
+R
+
+i
+
+
+
+
+{\displaystyle R_{i}}
+
+: the realized return (on the portfolio),
+
+
+
+
+
+R
+
+M
+
+
+
+
+{\displaystyle R_{M}}
+
+: the market return,
+
+
+
+
+
+R
+
+f
+
+
+
+
+{\displaystyle R_{f}}
+
+: the risk-free rate of return, and
+
+
+
+
+
+β
+
+i
+M
+
+
+
+
+{\displaystyle \beta _{iM}}
+
+: the beta of the portfolio.It can be shown that in an efficient market, the expected value of the alpha coefficient is zero. Therefore, the alpha coefficient indicates how an investment has performed after accounting for the risk it involved:
+
+
+
+
+
+α
+
+i
+
+
+<
+0
+
+
+{\displaystyle \alpha _{i}<0}
+
+: the investment has earned too little for its risk (or, was too risky for the return)
+
+
+
+
+
+α
+
+i
+
+
+=
+0
+
+
+{\displaystyle \alpha _{i}=0}
+
+: the investment has earned a return adequate for the risk taken
+
+
+
+
+
+α
+
+i
+
+
+>
+0
+
+
+{\displaystyle \alpha _{i}>0}
+
+: the investment has a return in excess of the reward for the assumed riskFor instance, although a return of 20% may appear good, the investment can still have a negative alpha if it's involved in an excessively risky position.
+In this context, because returns are being compared with the theoretical return of CAPM and not to a market index, it would be more accurate to use the term of Jensen's alpha.
+A belief in efficient markets spawned the creation of market capitalization weighted index funds that seek to replicate the performance of investing in an entire market in the weights that each of the equity securities comprises in the overall market.  The best examples for the US are the S&P 500 and the Wilshire 5000 which approximately represent the 500 most widely held equities and the largest 5000 securities respectively, accounting for approximately 80%+ and 99%+ of the total market capitalization of the US market as a whole.
+In fact, to many investors, this phenomenon created a new standard of performance that must be matched: an investment manager should not only avoid losing money for the client and should make a certain amount of money, but in fact should make more money than the passive strategy of investing in everything equally (since this strategy appeared to be statistically more likely to be successful than the strategy of any one investment manager).  The name for the additional return above the expected return of the beta adjusted return of the market is called "Alpha".
+Besides an investment manager simply making more money than a passive strategy, there is another issue:
+although the strategy of investing in every stock appeared to perform better than 75 percent of investment managers (see index fund), the price of the stock market as a whole fluctuates up and down, and could be on a downward decline for many years before returning to its previous price.
+The passive strategy appeared to generate the market-beating return over periods of 10 years or more. This strategy may be risky for those who feel they might need to withdraw their money before a 10-year holding period, for example. Thus investment managers who employ a strategy that is less likely to lose money in a particular year are often chosen by those investors who feel that they might need to withdraw their money sooner.
+Investors can use both alpha and beta to judge a manager's performance. If the manager has had a high alpha, but also a high beta, investors might not find that acceptable, because of the chance they might have to withdraw their money when the investment is doing poorly.
+These concepts not only apply to investment managers, but to any kind of investment.
+Bruce J. Feibel. Investment Performance Measurement. New York: Wiley, 2003. ISBN 0-471-26849-6International Association of CPAs, Attorneys, and Management (IACAM) (Free Business Valuation E-Book Guidebook)
+The financial-dictionary entry on alpha
+Investopedia Alpha Definition
+Five Technical Risk Ratios
+Alpha analysis for global equities Free alpha look-up
+Traders Magazine Seeking Alpha - New York hedge fund creates value trading index options

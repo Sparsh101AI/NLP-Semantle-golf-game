@@ -1,0 +1,4 @@
+Org 28611 (SCH-900,111)  is a drug developed by Organon International which acts as a potent cannabinoid receptor full agonist at both the CB1 and CB2 receptors. It was developed with the aim of finding a water-soluble cannabinoid agonist suitable for intravenous use as an analgesic, and while it achieved this aim and has progressed as far as Phase II clinical trials in humans as both a sedative and an analgesic, results against the comparison drugs (midazolam and morphine respectively) were not particularly favourable in initial testing.
+LBP-1
+N-(S)-Fenchyl-1-(2-morpholinoethyl)-7-methoxyindole-3-carboxamide
+Org 28312

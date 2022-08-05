@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=North_Georgia&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22North+Georgia%22
+//www.google.com/search?tbm=nws&q=%22North+Georgia%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22North+Georgia%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22North+Georgia%22+-wikipedia
+//scholar.google.com/scholar?q=%22North+Georgia%22
+https://www.jstor.org/action/doBasicSearch?Query=%22North+Georgia%22&acc=on&wc=on
+//geohack.toolforge.org/geohack.php?pagename=North_Georgia&params=34_36_21.9_N_83_58_46.17_W_region:US
+http://ngeorgia.com
+https://www.exploreasheville.com/outdoor-adventures/national-state-parks/mount-mitchell/#:~:text=Find%20yourself%20surrounded%20by%20an,east%20of%20the%20Mississippi%20River
+https://www.weather.gov/ffc/clisumlst#:~:text=Climatology%20of%20North%20Georgia%20(excluding%20the%20Mountains)&text=Average%20afternoon%20high%20temperatures%20are%20in%20the%20upper%2080s%20to,winter%20months%20are%20more%20variable

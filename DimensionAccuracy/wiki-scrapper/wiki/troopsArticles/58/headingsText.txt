@@ -1,0 +1,25 @@
+Types
+Diacritics specific to non-Latin alphabets
+Arabic
+Greek
+Hebrew
+Korean
+Sanskrit and Indic
+Syriac
+Non-alphabetic scripts
+Alphabetization or collation
+Generation with computers
+Languages with letters containing diacritics
+Latin/Roman letters
+Cyrillic letters
+Diacritics that do not produce new letters
+English
+Other languages
+Transliteration
+Limits
+Orthographic
+Unorthographic/ornamental
+List of diacritics in Unicode 
+See also
+References
+External links

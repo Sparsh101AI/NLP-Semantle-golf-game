@@ -1,0 +1,114 @@
+Dollar cost averaging (DCA) is an investment strategy that aims to apply value investing principles to regular investment.  The term was first coined by Benjamin Graham in his book The Intelligent Investor. Graham writes that dollar cost averaging "means simply that the practitioner invests in common stocks the same number of dollars each month or each quarter.  In this way he buys more shares when the market is low than when it is high, and he is likely to end up with a satisfactory overall price for all his holdings."
+Dollar cost averaging is also called pound-cost averaging (in the UK), and, irrespective of currency, unit cost averaging, incremental trading, or the cost average effect.  It should not be confused with the constant dollar plan, which is a form of rebalancing investments.
+The technique is so called because of its potential for reducing the average cost of shares bought. As the number of shares that can be bought for a fixed amount of money varies inversely with their price, DCA effectively leads to more shares being purchased when their price is low and fewer when they are expensive. As a result, DCA can lower the total average cost per share of the investment, giving the investor a lower overall cost for the shares purchased over time.  The alternate strategies are to purchase a fixed number of shares each time period, or to save up the funds that are available for investment and attempt to purchase shares at times when the market is low, ie market timing.  A major advantage for the investor using DCA is not having to make a decision on a day to day basis about the best time to invest the funds, but there are obvious advantages in simplicity and also in promoting habitual or automated regular investing.
+Given that the same amount of money is invested each time, the return from dollar cost averaging on the total money invested is
+
+
+
+
+r
+=
+
+
+
+p
+
+F
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+−
+1
+,
+
+
+{\displaystyle r={\frac {p_{F}}{{\tilde {p}}_{P}}}-1,}
+
+
+where 
+
+
+
+
+p
+
+F
+
+
+
+
+{\displaystyle p_{F}}
+
+ is the final price of the investment and 
+
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\tilde {p}}_{P}}
+
+ is the harmonic mean of the purchase price. If the time between purchases is small compared to the total time between the first purchase and the sale of the assets, then 
+
+
+
+
+
+
+
+p
+~
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\tilde {p}}_{P}}
+
+ can be estimated by the harmonic mean of all the prices within the purchase period. Given that the harmonic mean is lower than the arithmetic mean, dollar cost averaging will, on average, result in a lower per share price than the alternate strategy of purchasing a fixed number of shares each time.  Given that the historical market value of a balanced portfolio has increased over time, DCA will also, on average, be superior to keeping the funds out of the market and purchasing the shares at a later date.
+In dollar cost averaging, the investor decides only two parameters: the fixed amount of money to invest each time period (i.e. the amount that is available to invest) and how often the funds are invested.  No further decisions need to be made about either the timing or the level of future investments and this lends itself to an automatic investment system such as a payroll deduction or scheduled bank transfer.  In many cases the investment can be made in line with the payment of regular income - for example an investor who is paid fortnightly can set up a fortnightly automatic investment. However, if investing in assets with transaction costs (for example brokerage) then frequent investments, particularly if the amount to be invested is low, can result in the drag from transaction costs outweighing the return from having the investment in the market at an earlier time. This issue does not arise for the purchase of assets where transaction costs are a flat proportion of the amount invested, or for investments such as managed funds with no transaction costs. 
+For example, if the brokerage cost is $20 per transaction, and the investor has $500 per fortnight available to invest into an asset returning 6% per annum, then the 4% cost of the brokerage is higher than the expected return of 0.23% of having the $500 invested for that fortnight. Changing the DCA period to every 4 weeks decreases the cost of the brokerage to 2% of the invested amount and the expected return over 4 weeks is 0.46%.  In this situation, the optimum period would be 10 weeks as the brokerage is 0.8% and the expected return is 1.15%.
+In recent years, however, confusion of the term "dollar cost averaging" with what Vanguard call a systematic implementation plan has arisen. The term "dollar cost averaging" is used to describe a delayed and staged investment strategy used in the situation where the investor has a windfall gain such as an insurance payout or inheritance, as opposed to the immediate investment of the entire sum.  The delayed, staged strategy seems preferable for the investor who is concerned with avoiding timing risk (the risk of missing out in beneficial movements in price due to an error in market timing) then instead of investing the entire sum immediately, or waiting for the (mythical) ideal time to invest the entire sum, the investor spreads their investment of the windfall sum into the market over time in a staged way, which appears similar to dollar cost averaging.  This behaviour is driven by the fear that volatility in the market could cause a significant drop in the value of the investment immediately after the investment is made.
+This confusion of terms is perpetuated by some articles that refer to this systematic (delayed) investing of a lump sum as DCA.(AARP, Motley Fool)     Vanguard specifically discusses the confusion in their paper: "We refer to the gradual investment of a large sum as a systematic implementation plan or systematic investment plan. Industry practice is to refer to such strategies as dollar-cost averaging; however, this term is also commonly used to describe fixed-dollar investments made over time from current income as it becomes available. (A familiar example of this form of dollar-cost averaging is regular payroll deductions for investment in a workplace retirement plan.) By contrast, we are describing a situation in which a lump sum of cash is immediately available for investment."). However, in other publications Vanguard appear to have given up on clarifying the error and simply refer to the systematic (delayed) strategy as "dollar-cost averaging"
+Additional confusion arises in situations where there is no windfall gain, but instead an investor seeks to make a large change in the asset allocation of their existing investments.  For example, they may have a large proportion of their investment in defensive assets such as cash or bonds, and decide to change a significant proportion to more volatile assets such as equities.  Again the fear of a sudden fall in the value of the more volatile asset class immediately after the change in asset allocation may make the investor wish to make the change in a systematic (delayed) fashion even though this actually defeats the purpose of the decision to make the change in asset allocation in the first place. 
+The pros and cons of DCA have long been a subject for debate among both commercial and academic specialists in investment strategies.  It is easily demonstrated mathematically that dollar cost averaging (as defined by Benjamin Graham) is superior to the alternatives of purchasing a fixed number of shares with the same time intervals. If the expectation is for an increasing market then it is also superior to saving the funds to purchase at a later date.  While some financial advisors, such as Suze Orman, advise the use of DCA,  others, such as Timothy Middleton, confuse delayed investment of a lump sum with DCA and then claim it is nothing more than a marketing gimmick and not a sound investment strategy.
+Almost all recent discussion and debate about DCA is actually based on confusion with the situation of the investment of a windfall, even though this is actually a rare event for most investors. The controversy and interest in the discussion comes from the sudden discovery of "proof" that the previously accepted as optimal strategy of DCA has now been discovered to be "sub-optimal", even though the discussion is actually about a completely different strategy and situation. Vanguard specifically point out they are not discussing dollar cost averaging, but articles discussing their results immediately confuse the strategy being discussed with DCA.
+Vanguard's historical modelling showed that investing a windfall immediately outperformed systematic (delayed) investing two thirds of the time.  This result is not unexpected: if the market is expected to trend upward over time, then a systematic investment plan which delays investment can conversely be expected to face a statistical headwind when compared to investing immediately: the investor is choosing to invest at a future time rather than today, even though future prices are expected to be higher. But most individual investors, especially in the context of retirement investing, never face investing a significant windfall. The disservice arises when these investors take these misunderstood criticisms of DCA to mean that timing the market is better than continuously and automatically investing a portion of their income as they earn it. For example, stopping one's retirement investment contributions during a declining market on account of the argued weaknesses of DCA would indicate a misunderstanding of those arguments.
+The financial costs and benefits of systematic (delayed) investing have also been examined in many studies using real market data. These studies often confusingly use the term dollar cost averaging instead, and reveal (as expected) that the delayed strategy does not deliver on its promises and is not an ideal investment strategy.
+Some investment advisors who acknowledge the sub-optimality of delaying investing a windfall nevertheless advocate it as a behavioural tool that makes it easier for some investors to start investing a windfall lump sum or making a change in asset allocation. They contrast the relative benefits of DCA versus never investing the lump sum or making the change. One study found that the best time horizon when delaying investing a windfall in the stock market in terms of balancing return and risk is 6 or 12 months.
+Recent research has highlighted the behavioural economic aspects of systematic (delayed) investing, which allows investors to make a trade-off between the regret caused by not making the most of a rising market and that caused by investing into a falling market, which are known to be asymmetric. Middleton claims that DCA helps investors enter the market, investing more over time than they might otherwise be willing to do all at once.
+The Intelligent Investor: revised 1972 edition Benjamin Graham, Jason Zweig. Collins, 2003. ISBN 0-06-055566-1Investopedia
+Calculator
+Tuned DCA Article
+Finra article about DCA caveats
+Simulate DCA with financial data

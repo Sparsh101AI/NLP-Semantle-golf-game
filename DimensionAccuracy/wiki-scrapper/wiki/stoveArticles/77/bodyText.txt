@@ -1,0 +1,926 @@
+In mathematical logic, the theory of infinite sets was first developed by Georg Cantor. Although this work has become a thoroughly standard fixture of classical set theory, it has been criticized in several areas by mathematicians and philosophers.
+Cantor's theorem implies that there are sets having cardinality greater than the infinite cardinality of the set of natural numbers. Cantor's argument for this theorem is presented with one small change. This argument can be improved by using a definition he gave later. The resulting argument uses only five axioms of set theory.
+Cantor's set theory was controversial at the start, but later became largely accepted. In particular, most modern mathematical textbooks use implicitly Cantor's views on mathematical infinity, even at the educational level. For example, a line is generally presented as the infinite set of its points, and it is commonly taught that there are more real numbers than rational numbers (see cardinality of the continuum).
+Cantor's first proof that infinite sets can have different cardinalities was published in 1874. This proof demonstrates that the set of natural numbers and the set of real numbers have different cardinalities. It uses the theorem that a bounded increasing sequence of real numbers has a limit, which can be proved by using Cantor's or Richard Dedekind's construction of the irrational numbers. Because Leopold Kronecker did not accept these constructions, Cantor was motivated to develop a new proof.
+In 1891, he published "a much simpler proof ... which does not depend on considering the irrational numbers." His new proof uses his diagonal argument to prove that there exists an infinite set with a larger number of elements (or greater cardinality) than the set of natural numbers N = {1, 2, 3, ...}. This larger set consists of the elements (x1, x2, x3, ...), where each xn is either m or w. Each of these elements corresponds to a subset of N—namely, the element (x1, x2, x3, ...) corresponds to {n ∈ N:  xn = w}. So Cantor's argument implies that the set of all subsets of N has greater cardinality than N. The set of all subsets of N is denoted by P(N), the power set of N.
+Cantor generalized his argument to an arbitrary set A and the set consisting of all functions from A to {0, 1}. Each of these functions corresponds to a subset of A, so his generalized argument implies the theorem: The power set P(A) has  greater cardinality than A. This is known as Cantor's theorem.
+The argument below is a modern version of Cantor's argument that uses power sets (for his original argument, see Cantor's diagonal argument). By presenting a modern argument, it is possible to see which assumptions of axiomatic set theory are used. The first part of the argument proves that N and P(N) have different cardinalities:
+There exists at least one infinite set.  This assumption (not formally specified by Cantor) is captured in formal set theory by the axiom of infinity. This axiom implies that N, the set of all natural numbers, exists.
+P(N), the set of all subsets of N,  exists. In formal set theory, this is implied by the power set axiom, which says that for every set there is a set of all of its subsets.
+The concept of "having the same number" or "having the same cardinality" can be captured by the idea of one-to-one correspondence.  This (purely definitional) assumption is sometimes known as Hume's principle.  As Frege said, "If a waiter wishes to be certain of laying exactly as many knives on a table as plates, he has no need to count either of them; all he has to do is to lay immediately to the right of every plate a knife, taking care that every knife on the table lies immediately to the right of a plate.  Plates and knives are thus correlated one to one." Sets in such a correlation are called equinumerous, and the correlation is called a one-to-one correspondence.
+A set cannot be put into one-to-one correspondence with its power set. This implies that N and P(N) have different cardinalities.  It depends on very few assumptions of set theory, and, as John P. Mayberry puts it, is a "simple and beautiful argument" that is "pregnant with consequences". Here is the argument:
+Let 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ be a set and 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ be its power set. The following theorem will be proved: If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a function from 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to 
+
+
+
+P
+(
+A
+)
+,
+
+
+{\displaystyle P(A),}
+
+ then it is not onto. This theorem implies that there is no one-to-one correspondence between 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ and 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ since such a correspondence must be onto. Proof of theorem: Define the diagonal subset 
+
+
+
+D
+=
+{
+x
+∈
+A
+:
+x
+∉
+f
+(
+x
+)
+}
+.
+
+
+{\displaystyle D=\{x\in A:x\notin f(x)\}.}
+
+ Since 
+
+
+
+D
+∈
+P
+(
+A
+)
+,
+
+
+{\displaystyle D\in P(A),}
+
+ proving that for all 
+
+
+
+x
+∈
+A
+,
+
+D
+≠
+f
+(
+x
+)
+
+
+{\displaystyle x\in A,\,D\neq f(x)}
+
+ will imply that 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is not onto. Let 
+
+
+
+x
+∈
+A
+.
+
+
+{\displaystyle x\in A.}
+
+ Then 
+
+
+
+x
+∈
+D
+⇔
+x
+∉
+f
+(
+x
+)
+,
+
+
+{\displaystyle x\in D\Leftrightarrow x\notin f(x),}
+
+ which implies 
+
+
+
+x
+∉
+D
+⇔
+x
+∈
+f
+(
+x
+)
+.
+
+
+{\displaystyle x\notin D\Leftrightarrow x\in f(x).}
+
+ So if 
+
+
+
+x
+∈
+D
+,
+
+
+{\displaystyle x\in D,}
+
+ then 
+
+
+
+x
+∉
+f
+(
+x
+)
+;
+
+
+{\displaystyle x\notin f(x);}
+
+ and if 
+
+
+
+x
+∉
+D
+,
+
+
+{\displaystyle x\notin D,}
+
+ then 
+
+
+
+x
+∈
+f
+(
+x
+)
+.
+
+
+{\displaystyle x\in f(x).}
+
+ Since one of these sets contains 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and the other does not, 
+
+
+
+D
+≠
+f
+(
+x
+)
+.
+
+
+{\displaystyle D\neq f(x).}
+
+ Therefore, 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ is not in the image of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+, so 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is not onto.Next Cantor shows that 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is equinumerous with a subset of 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+. From this and the fact that 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ and 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ have different cardinalities, he concludes that 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ has greater cardinality than 
+
+
+
+A
+
+
+{\displaystyle A}
+
+. This conclusion uses his 1878 definition: If A and B have different cardinalities, then either B is equinumerous with a subset of A (in this case, B has less cardinality than A) or A is equinumerous with a subset of B (in this case, B has greater cardinality than A). This definition leaves out the case where A and B are equinumerous with a subset of the other set—that is, A is equinumerous with a subset of B and B is equinumerous with a subset of A. Because Cantor implicitly assumed that cardinalities are linearly ordered, this case cannot occur. After using his 1878 definition, Cantor stated that in an 1883 article he proved that cardinalities are well-ordered, which implies they are linearly ordered. This proof used his well-ordering principle "every set can be well-ordered", which he called a "law of thought". The well-ordering principle is equivalent to the axiom of choice.
+Around 1895, Cantor began to regard the well-ordering principle as a theorem and attempted to prove it. In 1895, Cantor also gave a new definition of "greater than" that correctly defines this concept without the aid of his well-ordering principle. By using Cantor's new definition, the modern argument that P(N) has greater cardinality than N can be completed using weaker assumptions than his original argument:
+The concept of "having greater cardinality" can be captured by Cantor's 1895 definition: B has greater cardinality than A if (1) A is equinumerous with a subset of B, and (2) B is not equinumerous with a subset of A. Clause (1) says B is at least as large as A, which is consistent with our definition of "having the same cardinality". Clause (2) implies that the case where A and B are equinumerous with a subset of the other set is false. Since clause (2) says that A is not at least as large as B, the two clauses together say that B is larger (has greater cardinality) than A.
+The power set 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ has greater cardinality than 
+
+
+
+A
+,
+
+
+{\displaystyle A,}
+
+ which implies that P(N) has greater cardinality than N. Here is the proof:
+Define the subset 
+
+
+
+
+P
+
+1
+
+
+=
+{
+
+y
+∈
+P
+(
+A
+)
+:
+∃
+x
+∈
+A
+
+(
+y
+=
+{
+x
+}
+)
+
+}
+.
+
+
+{\displaystyle P_{1}=\{\,y\in P(A):\exists x\in A\,(y=\{x\})\,\}.}
+
+  Define 
+
+
+
+f
+(
+x
+)
+=
+{
+x
+}
+,
+
+
+{\displaystyle f(x)=\{x\},}
+
+ which maps 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ onto 
+
+
+
+
+P
+
+1
+
+
+.
+
+
+{\displaystyle P_{1}.}
+
+ Since 
+
+
+
+f
+(
+
+x
+
+1
+
+
+)
+=
+f
+(
+
+x
+
+2
+
+
+)
+
+
+{\displaystyle f(x_{1})=f(x_{2})}
+
+ implies 
+
+
+
+
+x
+
+1
+
+
+=
+
+x
+
+2
+
+
+,
+
+f
+
+
+{\displaystyle x_{1}=x_{2},\,f}
+
+ is a one-to-one correspondence from 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to 
+
+
+
+
+P
+
+1
+
+
+.
+
+
+{\displaystyle P_{1}.}
+
+ Therefore, 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is equinumerous with a subset of 
+
+
+
+P
+(
+A
+)
+.
+
+
+{\displaystyle P(A).}
+
+
+Using proof by contradiction, assume that 
+
+
+
+
+A
+
+1
+
+
+,
+
+
+{\displaystyle A_{1},}
+
+ a subset of 
+
+
+
+A
+,
+
+
+{\displaystyle A,}
+
+ is equinumerous with 
+
+
+
+P
+(
+A
+)
+.
+
+
+{\displaystyle P(A).}
+
+. Then there is a one-to-one correspondence 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ from 
+
+
+
+
+A
+
+1
+
+
+
+
+{\displaystyle A_{1}}
+
+ to 
+
+
+
+P
+(
+A
+)
+.
+
+
+{\displaystyle P(A).}
+
+ Define 
+
+
+
+h
+
+
+{\displaystyle h}
+
+ from 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to 
+
+
+
+P
+(
+A
+)
+
+:
+
+
+
+{\displaystyle P(A){\text{:}}}
+
+ if 
+
+
+
+x
+∈
+
+A
+
+1
+
+
+,
+
+
+{\displaystyle x\in A_{1},}
+
+ then 
+
+
+
+h
+(
+x
+)
+=
+g
+(
+x
+)
+;
+
+
+{\displaystyle h(x)=g(x);}
+
+ if 
+
+
+
+x
+∈
+A
+∖
+
+A
+
+1
+
+
+,
+
+
+{\displaystyle x\in A\setminus A_{1},}
+
+ then 
+
+
+
+h
+(
+x
+)
+=
+{
+
+}
+.
+
+
+{\displaystyle h(x)=\{\,\}.}
+
+ Since 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ maps 
+
+
+
+
+A
+
+1
+
+
+
+
+{\displaystyle A_{1}}
+
+ onto 
+
+
+
+P
+(
+A
+)
+,
+
+h
+
+
+{\displaystyle P(A),\,h}
+
+ maps 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ onto 
+
+
+
+P
+(
+A
+)
+,
+
+
+{\displaystyle P(A),}
+
+ contradicting the theorem above stating that a function from 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ is not onto. Therefore, 
+
+
+
+P
+(
+A
+)
+
+
+{\displaystyle P(A)}
+
+ is not equinumerous with a subset of 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+Besides the axioms of infinity and power set, the axioms of separation, extensionality, and pairing were used in the modern argument. For example, the axiom of separation was used to define the diagonal subset 
+
+
+
+D
+,
+
+
+{\displaystyle D,}
+
+ the axiom of extensionality was used to prove 
+
+
+
+D
+≠
+f
+(
+x
+)
+,
+
+
+{\displaystyle D\neq f(x),}
+
+ and the axiom of pairing was used in the definition of the subset 
+
+
+
+
+P
+
+1
+
+
+.
+
+
+{\displaystyle P_{1}.}
+
+
+Initially, Cantor's theory was controversial among mathematicians and (later) philosophers. As Leopold Kronecker claimed: "I don't know what predominates in Cantor's theory – philosophy or theology, but I am sure that there is no mathematics there." Many mathematicians agreed with Kronecker that the completed infinite may be part of philosophy or theology, but that it has no proper place in mathematics. Logician Wilfrid Hodges (1998) has commented on the energy devoted to refuting this "harmless little argument" (i.e. Cantor's diagonal argument) asking, "what had it done to anyone to make them angry with it?" Mathematician Solomon Feferman has referred to Cantor's theories as “simply not relevant to everyday mathematics.”
+Before Cantor, the notion of infinity was often taken as a useful abstraction which helped mathematicians reason about the finite world; for example the use of infinite limit cases in calculus.  The infinite was deemed to have at most a potential existence, rather than an actual existence. "Actual infinity does not exist. What we call infinite is only the endless possibility of creating new objects no matter how many exist already". Carl Friedrich Gauss's views on the subject can be paraphrased as: "Infinity is nothing more than a figure of speech which helps us talk about limits. The notion of a completed infinity doesn't belong in mathematics." In other words, the only access we have to the infinite is through the notion of limits, and hence, we must not treat infinite sets as if they have an existence exactly comparable to the existence of finite sets.
+Cantor's ideas ultimately were largely accepted, strongly supported by David Hilbert, amongst others. Hilbert predicted: "No one will drive us from the paradise which Cantor created for us." To which Wittgenstein replied "if one person can see it as a paradise of mathematicians, why should not another see it as a joke?" The rejection of Cantor's infinitary ideas influenced the development of schools of mathematics such as constructivism and intuitionism.
+Wittgenstein did not object to mathematical formalism wholesale, but had a finitist view on what Cantor's proof meant. The philosopher maintained that belief in infinities arises from confusing the intensional nature of mathematical laws with the extensional nature of sets, sequences, symbols etc. A series of symbols is finite in his view: In Wittgenstein's words: "...A curve is not composed of points, it is a law that points
+obey, or again, a law according to which points can be constructed."
+He also described the diagonal argument as "hocus pocus" and not proving what it purports to do.
+A common objection to Cantor's theory of infinite number involves the axiom of infinity (which is, indeed, an axiom and not a logical truth).  Mayberry has noted that "... the set-theoretical axioms that sustain modern mathematics are self-evident in differing degrees. One of them—indeed, the most important of them, namely Cantor's Axiom, the so-called Axiom of Infinity—has scarcely any claim to self-evidence at all …"
+Another objection is that the use of infinite sets is not adequately justified by analogy to finite sets. Hermann Weyl wrote:
+The difficulty with finitism is to develop foundations of mathematics using finitist assumptions, that incorporates what everyone would reasonably regard as mathematics (for example, that includes real analysis).
+PreintuitionismBishop, Errett; Bridges, Douglas S. (1985), Constructive Analysis, Grundlehren Der Mathematischen Wissenschaften, Springer, ISBN 978-0-387-15066-6
+Cantor, Georg (1878), "Ein Beitrag zur Mannigfaltigkeitslehre", Journal für die Reine und Angewandte Mathematik, 84: 242–248
+Cantor, Georg (1891), "Ueber eine elementare Frage der Mannigfaltigkeitslehre" (PDF), Jahresbericht der Deutschen Mathematiker-Vereinigung, 1: 75–78
+Cantor, Georg (1895), "Beiträge zur Begründung der transfiniten Mengenlehre (1)", Mathematische Annalen, 46 (4): 481–512, doi:10.1007/bf02124929, S2CID 177801164, archived from the original on April 23, 2014
+Cantor, Georg; Philip Jourdain (trans.) (1954) [1915], Contributions to the Founding of the Theory of Transfinite Numbers, Dover, ISBN 978-0-486-60045-1
+Dauben, Joseph (1979), Georg Cantor: His Mathematics and Philosophy of the Infinite, Harvard University Press, ISBN 0-674-34871-0
+Dunham, William (1991), Journey through Genius: The Great Theorems of Mathematics, Penguin Books, ISBN 978-0140147391
+Ewald, William B., ed. (1996), From Immanuel Kant to David Hilbert: A Source Book in the Foundations of Mathematics, Volume 2, Oxford University Press, ISBN 0-19-850536-1
+Frege, Gottlob; J.L. Austin (trans.) (1884), The Foundations of Arithmetic (2nd ed.), Northwestern University Press, ISBN 978-0-8101-0605-5
+Hallett, Michael (1984), Cantorian Set Theory and Limitation of Size, Clarendon Press, ISBN 0-19-853179-6
+Hilbert, David (1926), "Über das Unendliche", Mathematische Annalen, vol. 95, pp. 161–190, doi:10.1007/BF01206605, JFM 51.0044.02, S2CID 121888793"Aus dem Paradies, das Cantor uns geschaffen, soll uns niemand vertreiben können."
+Translated in Van Heijenoort, Jean, On the infinite, Harvard University PressKline, Morris (1982), Mathematics: The Loss of Certainty, Oxford, ISBN 0-19-503085-0
+Mayberry, J.P. (2000), The Foundations of Mathematics in the Theory of Sets, Encyclopedia of Mathematics and its Applications, vol. 82, Cambridge University Press
+Moore, Gregory H. (1982), Zermelo's Axiom of Choice: Its Origins, Development & Influence, Springer, ISBN 978-1-4613-9480-8
+Poincaré, Henri (1908), The Future of Mathematics (PDF), Revue generale des Sciences pures et appliquees, vol. 23, archived from the original (PDF) on 2003-06-29 (address to the Fourth International Congress of Mathematicians)
+Sainsbury, R.M. (1979), Russell, London
+Weyl, Hermann (1946), "Mathematics and logic: A brief survey serving as a preface to a review of The Philosophy of Bertrand Russell", American Mathematical Monthly, vol. 53, pp. 2–13, doi:10.2307/2306078, JSTOR 2306078
+Wittgenstein, Ludwig; A. J. P. Kenny (trans.) (1974), Philosophical Grammar, Oxford
+Wittgenstein; R. Hargreaves (trans.); R. White (trans.) (1964), Philosophical Remarks, Oxford
+Wittgenstein (2001), Remarks on the Foundations of Mathematics (3rd ed.), OxfordDoron Zeilberger's 68th Opinion
+Philosopher Hartley Slater's argument against the idea of "number" that underpins Cantor's set theory
+Wolfgang Mueckenheim: Transfinity - A Source Book
+Hodges "An editor recalls some hopeless papers"

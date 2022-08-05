@@ -1,0 +1,10 @@
+http://www.crtc.gc.ca/eng/archive/1984/DB84-84.HTM
+http://www.crtc.gc.ca/eng/archive/1985/DB85-436.HTM
+http://www.crtc.gc.ca/eng/archive/2012/2012-62.htm
+http://cdbs.recnet.net:8080/fmq.php?latd=50.6333&lond=93.2169
+http://www.broadcasting-history.ca/listing_and_histories/television/cier-tv
+https://fccdata.org/?facid=&call=CIER-TV&ccode=2&latd=&lond=&city=&state=&country=US&zip=&party=&party_type=LICEN&fac_type=ALL
+https://en.wikipedia.org/w/index.php?title=Template:Ontario_TV&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Defunct_Canadian_TV_stations&action=edit
+https://en.wikipedia.org/w/index.php?title=CIER-TV&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Canada-tv-station-stub&action=edit

@@ -1,0 +1,6 @@
+Tetanolysin is a toxin produced by Clostridium tetani bacteria. Its function is unknown, but it is believed to contribute to the pathogenesis of tetanus. The other C. tetani toxin, tetanospasmin, is more definitively linked to tetanus. It is sensitive to oxygen.
+Tetanolysin belongs to a family of protein toxins known as thiol-activated cytolysins, which bind to cholesterol. It is related to streptolysin O and the θ-toxin of Clostridium perfringens. Cytolysins form pores in the cytoplasmic membrane that allows for the passage of  ions and other molecules into the cell. The molecular weight of tetanolysin is around 55,000 daltons.
+Alouf, J. (1997) pp 7–10 in Guidebook to Protein Toxins and Their Use in Cell Biology, Ed. Rappuoli, R. and Montecucco, C. (Oxford University Press).
+Ahnert-Hilger, G., Pahner, I., and Höltje, M. (1999) Pore-forming Toxins as Cell Biological and Pharmacological Tools. In press.
+Conti, A., Brando, C., DeBell, K.E., Alava, M.A., Hoffman, T., Bonvini, E. (1993) J. Biol. Chem. 268, 783-791.
+Raya, S.A., Trembovler, V., Shohami, E. and Lazarovici, P. (1993) Nat. Toxins 1, 263-70.

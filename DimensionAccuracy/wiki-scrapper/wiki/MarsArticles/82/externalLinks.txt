@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Kipini_(crater)&params=25.86_N_328.44_E_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Kipini_(crater)&params=25.86_N_328.44_E_globe:mars_type:landmark
+http://planetarynames.wr.usgs.gov/Feature/3044
+http://www.lpi.usra.edu/publications/slidesets/stones/
+https://books.google.com/books?id=NoDvAAAAMAAJ
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Kipini_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mars-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Kipini_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Crater-stub&action=edit

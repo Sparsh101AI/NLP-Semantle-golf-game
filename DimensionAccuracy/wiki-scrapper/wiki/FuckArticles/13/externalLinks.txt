@@ -1,0 +1,10 @@
+http://linux.die.net/man/8/fsck
+https://www.webcitation.org/5mVBHbWKJ?url=http://www.catb.org/~esr/jargon/oldversions/jarg415.txt
+http://www.catb.org/~esr/jargon/oldversions/jarg415.txt
+https://groups.google.com/forum/#!msg/alt.sysadmin.recovery/tsGbbkvHo2c/6T-Pj9d3A6wJ
+http://www.c2.com/cgi/wiki?MindFsck
+https://web.archive.org/web/20150529001726/http://www.manpagez.com/man/8/fsck/
+http://www.adminschoice.com/repairing-unix-file-system-fsck
+http://www.catb.org/jargon/html/F/fscking.html
+http://lwn.net/Articles/248180
+https://en.wikipedia.org/w/index.php?title=Template:Unix_commands&action=edit

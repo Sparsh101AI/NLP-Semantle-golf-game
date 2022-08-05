@@ -1,0 +1,6 @@
+http://tycho.usno.navy.mil/tzones.html
+https://en.wikipedia.org/w/index.php?title=Template:Time_topics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Time_measurement_and_standards&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:UTC_time_offsets&action=edit
+https://en.wikipedia.org/w/index.php?title=UTC_offset&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Measurement-stub&action=edit

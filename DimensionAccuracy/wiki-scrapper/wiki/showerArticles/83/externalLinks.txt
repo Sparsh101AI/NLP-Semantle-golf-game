@@ -1,0 +1,17 @@
+https://en.wikipedia.org/w/index.php?title=Robert_the_Strong&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Robert+the+Strong%22
+//www.google.com/search?tbm=nws&q=%22Robert+the+Strong%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Robert+the+Strong%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Robert+the+Strong%22+-wikipedia
+//scholar.google.com/scholar?q=%22Robert+the+Strong%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Robert+the+Strong%22&acc=on&wc=on
+https://books.google.com/books?id=ua5CBAAAQBAJ&dq=robert+the+strong&pg=PA188
+http://sbaldw.home.mindspring.com/hproject/prov/rober100.htm
+https://isni.org/isni/0000000448890989
+https://viaf.org/viaf/101266406
+https://www.worldcat.org/identities/viaf-101266406/
+https://catalogue.bnf.fr/ark:/12148/cb12445434k
+https://data.bnf.fr/ark:/12148/cb12445434k
+https://d-nb.info/gnd/139537570
+https://www.deutsche-biographie.de/pnd139537570.html?language=en
+https://www.idref.fr/070378185

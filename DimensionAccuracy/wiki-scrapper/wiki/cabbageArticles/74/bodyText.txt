@@ -1,0 +1,7 @@
+DAMGO ([D-Ala, N-MePhe, Gly-ol]-enkephalin) is a synthetic opioid peptide with high μ-opioid receptor specificity. It was synthesized as a biologically stable analog of δ-opioid receptor-preferring endogenous opioids, leu- and met-enkephalin. The crystal structure of DAMGO bound to the µ opioid receptor reveals a very similar binding pose to morphinans.
+Its structure is H-Tyr-D-Ala-Gly-N-MePhe-Gly-ol.
+DAMGO has been used in experimental settings for the possibility of alleviating or reducing opiate tolerance for patients under the treatment of an opioid. Such treatment on rats, adding DAMGO to morphine administration, showed that after seven days morphine had as much of an effect at the same dosage as the first day when administered together with DAMGO to the rats, whereas a separate control group of rats that were administered the same dosage of morphine over the course of the same week, but without DAMGO, displayed an increased tolerance and lessened analgesic efficacy toward the end of that week.
+DADLE
+DPDPE
+Morphiceptin
+PTI-609

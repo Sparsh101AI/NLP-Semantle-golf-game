@@ -1,0 +1,477 @@
+Tit for tat is an English saying meaning "equivalent retaliation". It developed from "tip for tap", first recorded in 1558.
+It is also a highly effective strategy in game theory. An agent using this strategy will first cooperate, then subsequently replicate an opponent's previous action. If the opponent previously was cooperative, the agent is cooperative. If not, the agent is not.
+Tit-for-tat has been very successfully used as a strategy for the iterated prisoner's dilemma. The strategy was first introduced by Anatol Rapoport in Robert Axelrod's two tournaments, held around 1980. Notably, it was (on both occasions) both the simplest strategy and the most successful in direct competition.
+An agent using this strategy will first cooperate, then subsequently replicate an opponent's previous action. If the opponent previously was cooperative, the agent is cooperative. If not, the agent is not. This is similar to reciprocal altruism in biology.
+The success of the tit-for-tat strategy, which is largely cooperative despite that its name emphasizes an adversarial nature, took many by surprise. Arrayed against strategies produced by various teams it won in two competitions. After the first competition, new strategies formulated specifically to combat tit-for-tat failed due to their negative interactions with each other; a successful strategy other than tit-for-tat would have had to be formulated with both tit-for-tat and itself in mind.
+This result may give insight into how groups of animals (and particularly human societies) have come to live in largely (or entirely) cooperative societies, rather than the individualistic "red in tooth and claw" way that might be expected from individuals engaged in a Hobbesian state of nature. This, and particularly its application to human society and politics, is the subject of Robert Axelrod's book The Evolution of Cooperation.
+Moreover, the tit-for-tat strategy has been of beneficial use to social psychologists and sociologists in studying effective techniques to reduce conflict. Research has indicated that when individuals who have been in competition for a period of time no longer trust one another, the most effective competition reverser is the use of the tit-for-tat strategy. Individuals commonly engage in behavioral assimilation, a process in which they tend to match their own behaviors to those displayed by cooperating or competing group members. Therefore, if the tit-for-tat strategy begins with cooperation, then cooperation ensues. On the other hand, if the other party competes, then the tit-for-tat strategy will lead the alternate party to compete as well. Ultimately, each action by the other member is countered with a matching response, competition with competition and cooperation with cooperation.
+In the case of conflict resolution, the tit-for-tat strategy is effective for several reasons: the technique is recognized as clear, nice, provocable, and forgiving. Firstly, it is a clear and recognizable strategy. Those using it quickly recognize its contingencies and adjust their behavior accordingly. Moreover, it is considered to be nice as it begins with cooperation and only defects in following competitive move. The strategy is also provocable because it provides immediate retaliation for those who compete. Finally, it is forgiving as it immediately produces cooperation should the competitor make a cooperative move.
+The implications of the tit-for-tat strategy have been of relevance to conflict research, resolution and many aspects of applied social science.
+Take for example the following infinitely repeated prisoners dilemma game:
+The Tit for Tat strategy copies what the other player previously chose. If players cooperate by playing strategy (C,C) they cooperate forever. 
+Cooperation gives the following payoff (where 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ is the discount factor):
+
+
+
+
+6
++
+6
+δ
++
+6
+
+δ
+
+2
+
+
++
+6
+
+δ
+
+3
+
+
+.
+.
+.
+,
+
+
+{\displaystyle 6+6\delta +6\delta ^{2}+6\delta ^{3}...,}
+
+a geometric series summing to 
+
+
+
+
+
+
+6
+
+1
+−
+δ
+
+
+
+
+
+{\displaystyle {\frac {6}{1-\delta }}}
+
+If a player deviates to defecting (D), then the next round they get punished. Alternate between outcomes where p1 cooperates and p2 deviates, and vice versa.
+Deviation gives the following payoff:
+
+
+
+
+9
++
+2
+δ
++
+9
+
+δ
+
+2
+
+
++
+2
+
+δ
+
+3
+
+
++
+9
+
+δ
+
+4
+
+
++
+2
+
+δ
+
+5
+
+
+.
+.
+.
+,
+
+
+{\displaystyle 9+2\delta +9\delta ^{2}+2\delta ^{3}+9\delta ^{4}+2\delta ^{5}...,}
+
+a sum of two geometric series that comes to
+
+
+
+
+
+
+9
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
++
+
+
+
+2
+δ
+
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
+
+
+{\displaystyle {\frac {9}{1-\delta ^{2}}}+{\frac {2\delta }{1-\delta ^{2}}}}
+
+Expect collaboration if payoff of deviation is no better than cooperation. 
+
+
+
+
+
+
+
+
+
+
+6
+
+1
+−
+δ
+
+
+
+
+
+
+≥
+
+
+9
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
++
+
+
+
+2
+δ
+
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
+
+
+
+
+
+
+6
+
+1
+−
+δ
+
+
+
+
+
+
+≥
+
+
+
+9
++
+2
+δ
+
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−
+
+δ
+
+2
+
+
+
+1
+
+
+⋅
+
+
+6
+
+1
+−
+δ
+
+
+
+
+
+
+≥
+
+
+
+9
++
+2
+δ
+
+
+1
+−
+
+δ
+
+2
+
+
+
+
+
+⋅
+
+
+
+1
+−
+
+δ
+
+2
+
+
+
+1
+
+
+
+
+
+
+
+
+
+(
+1
++
+δ
+)
+
+
+(
+1
+−
+δ
+)
+
+
+
+1
+
+
+⋅
+
+
+6
+
+1
+−
+δ
+
+
+
+
+
+
+≥
+9
++
+2
+δ
+
+
+
+
+6
++
+6
+δ
+
+
+
+≥
+9
++
+2
+δ
+
+
+
+
+4
+δ
+
+
+
+≥
+3
+
+
+
+
+δ
+
+
+
+≥
+
+
+3
+4
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\frac {6}{1-\delta }}&\geq {\frac {9}{1-\delta ^{2}}}+{\frac {2\delta }{1-\delta ^{2}}}\\{\frac {6}{1-\delta }}&\geq {\frac {9+2\delta }{1-\delta ^{2}}}\\{\frac {1-\delta ^{2}}{1}}\cdot {\frac {6}{1-\delta }}&\geq {\frac {9+2\delta }{\cancel {1-\delta ^{2}}}}\cdot {\frac {\cancel {1-\delta ^{2}}}{1}}\\{\frac {(1+\delta ){\cancel {(1-\delta )}}}{1}}\cdot {\frac {6}{\cancel {1-\delta }}}&\geq 9+2\delta \\6+6\delta &\geq 9+2\delta \\4\delta &\geq 3\\\delta &\geq {\frac {3}{4}}\end{aligned}}}
+
+Continue cooperating if, 
+
+
+
+δ
+≥
+
+
+3
+4
+
+
+
+
+{\displaystyle \delta \geq {\frac {3}{4}}}
+
+
+Continue defecting if, 
+
+
+
+δ
+<
+
+
+3
+4
+
+
+
+
+{\displaystyle \delta <{\frac {3}{4}}}
+
+
+While Axelrod has empirically shown that the strategy is optimal in some cases of direct competition, two agents playing tit for tat remain vulnerable.  A one-time, single-bit error in either player's interpretation of events can lead to an unending "death spiral": if one agent defects and the opponent cooperates, then both agents will end up alternating cooperate and defect, yielding a lower payoff than if both agents were to continually cooperate. This situation frequently arises in real world conflicts, ranging from schoolyard fights to civil and regional wars. The reason for these issues is that tit for tat is not a subgame perfect equilibrium, except under knife-edge conditions on the discount rate.
+While this sub-game is not directly reachable by two agents playing tit for tat strategies, a strategy must be a Nash equilibrium in all sub-games to be sub-game perfect.  Further, this sub-game may be reached if any noise is allowed in the agents' signaling.  A sub-game perfect variant of tit for tat known as "contrite tit for tat" may be created by employing a basic reputation mechanism.
+Knife-edge is "equilibrium that exists only for exact values of the exogenous variables. If you vary the variables in even the slightest way, knife-edge equilibrium disappear."
+Can be both Nash equilibrium and knife-edge equilibrium. Known as knife-edge equilibrium because the equilibrium "rests precariously on" the exact value. 
+Example:
+Suppose X = 0. There is no profitable deviation from (Down, Left) or from (Up, Right). However, if the value of X deviates by any amount, no matter how small, then the equilibrium no longer stands. It becomes profitable to deviate to up, for example, if X has a value of 0.000001 instead of 0. Thus, the equilibrium is very precarious. In its usage in the Wikipedia article, knife-edge conditions is referring to the fact that very rarely, only when a specific condition is met and, for instance, X, equals a specific value is there an equilibrium.
+Tit for two tats could be used to mitigate this problem; see the description below. "Tit for tat with forgiveness" is a similar attempt to escape the death spiral. When the opponent defects, a player employing this strategy will occasionally cooperate on the next move anyway. The exact probability that a player will respond with cooperation depends on the line-up of opponents.
+Furthermore, the tit-for-tat strategy is not proved optimal in situations short of total competition.  For example, when the parties are friends it may be best for the friendship when a player cooperates at every step despite occasional deviations by the other player.  Most situations in the real world are less competitive than the total competition in which the tit-for-tat strategy won its competition.
+Tit for tat is very different from grim trigger, in that it is forgiving in nature, as it immediately produces cooperation, should the competitor chooses to cooperate. Grim trigger on the other hand is the most unforgiving strategy, in the sense even a single defect would the make the player playing using grim trigger defect for the remainder of the game.
+Tit for two tats is similar to tit for tat, but allows the opponent to defect from the agreed upon strategy twice before the player retaliates.  This aspect makes the player using the tit for tat strategy appear more “forgiving” to the opponent.
+In a tit for tat strategy, once an opponent defects, the tit for tat player immediately responds by defecting on the next move.  This has the unfortunate consequence of causing two retaliatory strategies to continuously defect against each other resulting in a poor outcome for both players.  A tit for two tats player will let the first defection go unchallenged as a means to avoid the "death spiral" of the previous example.  If the opponent defects twice in a row, the tit for two tats player will respond by defecting.
+This strategy was put forward by Robert Axelrod during his second round of computer simulations at RAND.  After analyzing the results of the first experiment, he determined that had a participant entered the tit for two tats strategy it would have emerged with a higher cumulative score than any other program.  As a result, he himself entered it with high expectations in the second tournament.  Unfortunately, owing to the more aggressive nature of the programs entered in the second round, which were able to take advantage of its highly forgiving nature, tit for two tats did significantly worse (in the game-theory sense) than tit for tat.
+BitTorrent peers use tit-for-tat strategy to optimize their download speed. More specifically, most BitTorrent peers use a variant of tit for two tats which is called regular unchoking in BitTorrent terminology. BitTorrent peers have a limited number of upload slots to allocate to other peers. Consequently, when a peer's upload bandwidth is saturated, it will use a tit-for-tat strategy. Cooperation is achieved when upload bandwidth is exchanged for download bandwidth. Therefore, when a peer is not uploading in return to our own peer uploading, the BitTorrent program will choke the connection with the uncooperative peer and allocate this upload slot to a hopefully more cooperating peer. Regular unchoking correlates to always cooperating on the first move in prisoner's dilemma. Periodically, a peer will allocate an upload slot to a randomly chosen uncooperative peer (unchoke). This is called optimistic unchoking. This behavior allows searching for more cooperating peers and gives a second chance to previously non-cooperating peers. The optimal threshold values of this strategy are still the subject of research.
+Studies in the prosocial behaviour of animals have led many ethologists and evolutionary psychologists to apply tit-for-tat strategies to explain why altruism evolves in many animal communities.  Evolutionary game theory, derived from the mathematical theories formalised by von Neumann and Morgenstern (1953), was first devised by Maynard Smith (1972) and explored further in bird behaviour by Robert Hinde. Their application of game theory to the evolution of animal strategies launched an entirely new way of analysing animal behaviour.
+Reciprocal altruism works in animal communities where the cost to the benefactor in any transaction of food, mating rights, nesting or territory is less than the gains to the beneficiary. The theory also holds that the act of altruism should be reciprocated if the balance of needs reverse. Mechanisms to identify and punish "cheaters" who fail to reciprocate, in effect a form of tit for tat, are important to regulate reciprocal altruism. For example, tit-for-tat is suggested to be the mechanism of cooperative predator inspection behavior in guppies.
+The tit-for-tat inability of either side to back away from conflict, for fear of being perceived as weak or as cooperating with the enemy, has been the cause of many prolonged conflicts throughout history.
+However, the tit for tat strategy has also been detected by analysts in the spontaneous non-violent behaviour, called "live and let live" that arose during trench warfare in the First World War. Troops dug in only a few hundred feet from each other would evolve an unspoken understanding. If a sniper killed a soldier on one side, the other  expected an equal retaliation. Conversely, if no one was killed for a time, the other side would acknowledge this implied "truce" and act accordingly. This created a "separate peace" between the trenches.
+Wired magazine story about tit for tat being 'defeated' by a group of collaborating programs
+Explanation of Tit for tat on Australian Broadcasting Corporation

@@ -1,0 +1,5 @@
+Perfluorotripentylamine is a perfluorocarbon. It is used as an electronics coolant, and has a high boiling point.  It is colorless, odorless, and insoluble in water.  Unlike ordinary amines, perfluoroamines are of low basicity.  Perfluorinated amines are components of fluorofluids, used as immersive coolants for supercomputers.
+It is prepared by electrofluorination of the amine using hydrogen fluoride as solvent and source of fluorine:
+N(C5H11)3  +  33 HF   →   N(C5F11)3  +  33 H2Fluoroamines are generally of very low toxicity, so much that they have been evaluated as synthetic blood.
+PerfluorotributylamineFluorinert FC-70 (3M)
+

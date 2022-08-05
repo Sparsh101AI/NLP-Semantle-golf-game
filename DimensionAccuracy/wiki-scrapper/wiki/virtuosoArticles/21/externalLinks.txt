@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Lincoln_(CDP),_New_Hampshire&params=44_2_36_N_71_40_9_W_region:US-NH_type:city(969)
+//geohack.toolforge.org/geohack.php?pagename=Lincoln_(CDP),_New_Hampshire&params=44_2_36_N_71_40_9_W_region:US-NH_type:city(969)
+https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2021_Gazetteer/2021_gaz_place_33.txt
+https://data.census.gov/cedsci/table?q=&g=1600000US3341780&tid=DECENNIALPL2020.P1
+https://tigerweb.geo.census.gov/tigerweb/
+https://archive.today/20200213153804/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3341780
+https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/1600000US3341780
+https://archive.today/20200213102151/https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3341780
+https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/DP03/1600000US3341780
+https://en.wikipedia.org/w/index.php?title=Template:Grafton_County,_New_Hampshire&action=edit

@@ -1,0 +1,185 @@
+The Douglas C-47 Skytrain or Dakota (RAF, RAAF, RCAF, RNZAF, and SAAF designation) is a military transport aircraft developed from the civilian Douglas DC-3 airliner. It was used extensively by the Allies during World War II and remained in front-line service with various military operators for many years.
+The C-47 differed from the civilian DC-3 by way of numerous modifications, including being fitted with a cargo door, hoist attachment and strengthened floor - along with a shortened tail cone for glider-towing shackles, and an astrodome in the cabin roof.
+During World War II, the armed forces of many countries used the C-47 and modified DC-3s for the transport of troops, cargo, and wounded. The U.S. naval designation was R4D. More than 10,000 aircraft were produced in Long Beach and Santa Monica, California, and Oklahoma City, Oklahoma. Between March 1943 and August 1945, the Oklahoma City plant produced 5,354 C-47s.
+The specialized C-53 Skytrooper troop transport started production in October 1941 at Douglas Aircraft's Santa Monica plant. It lacked the cargo door, hoist attachment, and reinforced floor of the C-47. Only 380 aircraft were produced in all because the C-47 was found to be more versatile.
+Large numbers of DC-3s and surplus C-47s were in commercial use in the United States in the 1940s. In response to proposed changes to the Civil Air Regulations airworthiness requirements that would limit the continuing use of these aircraft, Douglas offered a late-1940s DC-3 conversion to improve takeoff and single-engine performance. This new model, the DC-3S or "Super DC-3", was 39 in (0.99 m) longer. It allowed 30 passengers to be carried, with increased speed to compete with newer airliners. The rearward shift in the center of gravity led to larger tail surfaces and new outer, swept-back wings. More powerful engines were installed along with shorter, jet ejection-type exhaust stacks. These were either 1,475 hp (1,100 kW) Wright R-1820 Cyclones or 1,450 hp (1,081 kW) Pratt & Whitney R-2000 Twin Wasps in larger engine nacelles. Minor changes included wheel-well doors, a partially retractable tailwheel, flush rivets, and low-drag antenna. These all contributed to an increased top speed of 250 mph (400 km/h; 220 kn). With greater than 75% of the original DC-3/C-47 configuration changed, the modified design was virtually a new aircraft. The first DC-3S made its maiden flight on 23 June 1949.
+The changes fully met the new FAR 4B airworthiness requirements, with significantly improved performance. However, little interest was expressed by commercial operators in the DC-3S. It was too expensive for the smaller operators that were its main target; only three were sold to Capital Airlines. The U.S. Navy and U.S. Marine Corps had 100 of their R4D aircraft modified to Super DC-3 standards as the R4D-8, later redesignated the C-117D.
+The C-47 was vital to the success of many Allied campaigns, in particular, those at Guadalcanal and in the jungles of New Guinea and Burma, where the C-47 and its naval version, the R4D, made it possible for Allied troops to counter the mobility of the light-traveling Japanese Army. C-47s were used to airlift supplies to the encircled American forces during the Battle of Bastogne in Belgium. Possibly its most influential role in military aviation, however, was flying "The Hump" from India into China. The expertise gained flying "The Hump" was later used in the Berlin Airlift, in which the C-47 played a major role until the aircraft were replaced by Douglas C-54 Skymasters.
+In Europe, the C-47 and a specialized paratroop variant, the C-53 Skytrooper, were used in vast numbers in the later stages of the war, particularly to tow gliders and drop paratroops. During the invasion of Sicily in July 1943, C-47s dropped 4,381 Allied paratroops. More than 50,000 paratroops were dropped by C-47s during the first few days of the D-Day campaign also known as the invasion of Normandy, France, in June 1944. In the Pacific War, with careful use of the island landing strips of the Pacific Ocean, C-47s were used for ferrying soldiers serving in the Pacific theater back to the United States.
+About 2,000 C-47s (received under Lend-Lease) in British and Commonwealth service took the name "Dakota", possibly inspired by the acronym "DACoTA" for Douglas Aircraft Company Transport Aircraft.
+The C-47 also earned the informal nickname "gooney bird" in the European theatre of operations. Other sources attribute this name to the first aircraft, a USMC R2D—the military version of the DC-2—being the first aircraft to land on Midway Island, previously home to the long-winged albatross known as the gooney bird which was native to Midway.
+The United States Air Force's Strategic Air Command had Skytrains in service from 1946 through 1967. The US Air Force's 6th Special Operations Squadron was flying the C-47 until 2008.
+With all of their aircraft and pilots having been part of the Indian Air Force prior to independence, both the Indian Air Force and Pakistan Air Force used C-47s to transport supplies to their soldiers fighting in the Indo-Pakistan War of 1947.
+After World War II, thousands of surplus C-47s were converted to civilian airline use, some remaining in operation in 2012, as well as being used as private aircraft.
+Several C-47 variations were used in the Vietnam War by the United States Air Force, including three advanced electronic-warfare variations, which sometimes were called "electric gooneys" designated EC-47N, EC-47P, or EC-47Q depending on the engine used. In addition, HC-47s were used by the 9th Special Operations Squadron to conduct psychological warfare operations over South Vietnam and Laos. Miami Air International, Miami International Airport was a USAF military depot used to convert the commercial DC-3s/C-47s into military use. They came in as commercial aircraft purchased from third-world airlines and were completely stripped, rebuilt, and reconditioned. Long-range fuel tanks were installed, along with upgraded avionics and gun mounts. They left as first-rate military aircraft headed for combat in Vietnam in a variety of missions.  EC-47s were also operated by the Vietnamese, Laotian, and Cambodian Air Forces. A gunship variation, using three 7.62 mm miniguns, designated AC-47 "Spooky", often nicknamed "Puff the magic dragon", also was deployed.
+C-47
+Initial military version of the DC-3 had four crew (pilot, co-pilot, navigator, and radio operator) and seats for 27 troops alongside the fuselage interior. "Aerial Ambulances" fitted for casualty evacuation could carry 18 stretcher cases and a medical crew of three; 965 built (including 12 for the United States Navy as R4D-1).
+C-47A
+C-47 with a 24-volt electrical system, 5,254 built including USN aircraft designated R4D-5
+RC-47A
+C-47A equipped for photographic reconnaissance and ELINT missions
+SC-47A
+C-47A equipped for Search Air Rescue; redesignated HC-47A in 1962
+VC-47A
+C-47A equipped for VIP transport role
+C-47B
+Powered by R-1830-90 engines with two-speed superchargers (better altitude performance) to cover the China-Burma-India routes, 3,364 built
+VC-47B
+C-47B equipped for VIP transport role
+XC-47C
+C-47 tested with Edo Model 78 floats for possible use as a seaplane 
+C-47D
+C-47B with second speed (high blower) of engine supercharger disabled or removed after the war
+AC-47D Spooky
+Gunship aircraft with three side-firing .30 in (7.62 mm) Minigun machine guns
+EC-47D
+C-47D with equipment for the Electronics Calibration, of which 26 were so converted by Hayes in 1953; prior to 1962 was designated AC-47D
+NC-47D
+C-47D modified for test roles
+RC-47D
+C-47D equipped for photographic reconnaissance and ELINT missions
+SC-47D
+C-47D equipped for Search Air Rescue; redesignated HC-47D in 1962
+VC-47D
+C-47D equipped for VIP transport role
+C-47E
+Modified cargo variant with space for 27–28 passengers or 18–24 litters
+C-47F
+YC-129 redesignated, Super DC-3 prototype for evaluation by USAF later passed to USN as XR4D-8
+C-47L/M
+C-47H/Js equipped for the support of American Legation United States Naval Attache (ALUSNA) and Military Assistance Advisory Group (MAAG) missions
+EC-47N/P/Q
+C-47A and D aircraft modified for ELINT/ARDF mission, N and P differ in radio bands covered, while Q replaces analog equipment found on the N and P with a digital suite, redesigned antenna equipment and uprated engines
+C-47R
+One C-47M modified for high altitude work, specifically for missions in Ecuador
+C-53 Skytrooper
+Troop transport version of the C-47 that lacked the reinforced cargo floor, large cargo door, and hoist attachment of the C-47 Skytrain. It was dedicated for the troop transport role and could carry 28 passengers in fixed metal seats arranged in rows in the former cargo space; 221 built.
+XC-53A Skytrooper
+One testbed aircraft modified in March 1942 with full-span slotted flaps and hot-air leading edge de-icing. Converted to C-53 standard in 1949 and sold as surplus.
+C-53B Skytrooper
+Winterised and long-range Arctic version of the C-53 with extra fuel tanks in the fuselage and separate navigator's astrodome station for celestial navigation; eight built.
+C-53C Skytrooper
+C-53 with larger port-side access door; 17 built.
+C-53D Skytrooper
+C-53C with 24V DC electrical system and its 28 seats attached to the sides of the fuselage; 159 built.
+C-117A Skytrooper
+C-47B with 24-seat airline-type interior for staff transport use, 16 built.
+VC-117A
+Three redesignated C-117s used in the VIP role
+SC-117A
+One C-117C converted for air-sea rescue
+C-117B/VC-117B
+High-altitude two-speed superchargers replaced by one-speed superchargers, one built and conversions from C-117As all later VC-117B
+C-117D
+USN/USMC R4D-8 redesignated C-117D in 1962.
+LC-117D
+USN/USMC R4D-8L redesignated LC-117D in 1962.
+TC-117D
+USN/USMC R4D-8T redesignated TC-117D in 1962.
+VC-117D
+USN R4D-8Z redesignated VC-117D in 1962.
+YC-129
+Super DC-3 prototype for evaluation by USAF redesignated C-47F and later passed to USN as XR4D-8. Wright R-1820 engines uprated to 1425 hp.
+CC-129
+Canadian Forces designation for the C-47 (post-1970)
+XCG-17
+One C-47 tested as a 40-seat troop glider with engines removed and faired over
+R4D-1 Skytrain
+USN/USMC version of the C-47
+R4D-3
+Twenty C-53Cs transferred to USN
+R4D-5
+C-47A variant 24-volt electrical system replacing the 12-volt of the C-47; redesignated C-47H in 1962, 238 transferred from USAF
+R4D-5L
+R4D-5 for use in Antarctica. Redesignated LC-47H in 1962. Photos of this type show the removal of underslung engine oil coolers typical of the R-1830 engine installation; apparently not needed in the cold polar regions.
+R4D-5Q
+R4D-5 for use as special ECM trainer. Redesignated EC-47H in 1962
+R4D-5R
+R4D-5 for use as a personnel transport for 21 passengers and as a trainer aircraft; redesignated TC-47H in 1962
+R4D-5S
+R4D-5 for use as a special ASW trainer; redesignated SC-47H in 1962
+R4D-5Z
+R4D-5 for use as a VIP transport; redesignated VC-47H in 1962R4D-6
+
+157 C-47Bs transferred to USN; redesignated C-47J in 1962R4D-6L, Q, R, S, and Z
+Variants as the R4D-5 series; redesignated LC-47J, EC-47J, TC-47J, SC-47J, and VC-47J respectively in 1962
+R4D-7
+44 TC-47Bs transferred from USAF for use as a navigational trainer; redesignated TC-47K in 1962
+R4D-8
+R4D-5 and R4D-6 remanufactured aircraft with stretched fuselage, Wright R-1820 engines, fitted with modified wings and redesigned tail surfaces; redesignated C-117D in 1962
+R4D-8L
+R4D-8 converted for Antarctic use, redesignated LC-117D in 1962
+R4D-8T
+R4D-8 converted as crew trainers, redesignated TC-117D in 1962
+R4D-8Z
+R4D-8 converted as a staff transport, redesignated VC-117D in 1962
+C-47TP "Turbo Dak"
+Refit with two Pratt & Whitney Canada PT6A-67R engines and fuselage stretch for the South African Air Force
+Basler BT-67
+C-47 conversion with a stretched fuselage, strengthened structure, modern avionics, and powered by two Pratt & Whitney Canada PT-6A-67R turbopropsDakota I
+RAF designation for the C-47 and R4D-1.
+Dakota II
+RAF designation for nine C-53 Skytroopers received under the lend lease scheme. Unlike the majority of RAF Dakotas, these aircraft were therefore dedicated troop transports, lacking the wide cargo doors and reinforced floor of the C-47.
+Dakota III
+RAF designation for the C-47A.
+Dakota IV
+RAF designation for the C-47B.
+Airspeed AS.61
+Projected conversion of Dakota I aircraft by Airspeed. None built.
+Airspeed AS.62
+Projected conversion of Dakota II aircraft by Airspeed. None built.
+Airspeed AS.63
+Projected conversion of Dakota III aircraft by Airspeed. None built.
+BEA Pionair/Dart-Dakota
+Conversion of Dakota to Rolls-Royce Dart power and used by BEA to prove turboprop engines prior to entry into service of Vickers Viscount.Large numbers of C-47s, C-117s and other variants survive, on display in museums or as monuments; operated as warbirds; or remaining in service.
+As part of the D-Day 75th-anniversary commemoration in June 2019, 14 American C-47s (including That's All, Brother; Betsy's Biscuit Bomber; Miss Montana; Spirit of Benovia; D-Day Doll; Boogie Baby; N47E Miss Virginia; and Whiskey 7 ), and another group of 'Daks' from Europe retraced the route across the English Channel to Normandy taken by roughly 850 of these aircraft on D-Day.
+General characteristics
+Crew: 4 (pilot, co-pilot, navigator, radio operator)
+Capacity: 28 troops
+Length: 63 ft 9 in (19.43 m)
+Wingspan: 95 ft 6 in (29.11 m)
+Height: 17 ft 0 in (5.18 m)
+Wing area: 987 sq ft (91.7 m)
+Airfoil: root: NACA 2215; tip: NACA 2206
+Empty weight: 18,135 lb (8,226 kg)
+Gross weight: 26,000 lb (11,793 kg)
+Max takeoff weight: 31,000 lb (14,061 kg)
+Powerplant: 2 × Pratt & Whitney R-1830-90C Twin Wasp 14-cylinder air-cooled radial piston engines, 1,200 hp (890 kW)  each
+Propellers: 3-bladed constant-speed propellersPerformance
+Maximum speed: 224 mph (360 km/h, 195 kn) at 10,000 ft (3,000 m)
+Range: 1,600 mi (2,600 km, 1,400 nmi)
+Ferry range: 3,600 mi (5,800 km, 3,100 nmi)
+Service ceiling: 26,400 ft (8,000 m)
+Time to altitude: 10,000 ft (3,000 m) in 9 minutes 30 seconds
+Wing loading: 26.3 lb/sq ft (128 kg/m)
+Power/mass: 0.0926 hp/lb (0.1522 kW/kg)
+Related development
+Basler BT-67
+Douglas AC-47 Spooky
+Douglas DC-3
+Douglas XCG-17
+Lisunov Li-2
+Showa/Nakajima L2DAircraft of comparable role, configuration, and era
+Curtiss C-46 Commando
+Junkers Ju 52/3m
+Related lists
+List of aircraft of World War II
+List of military aircraft of the United States
+List of United States Navy aircraft designations (pre-1962)
+List of non-carrier aircraft flown from aircraft carriersAnderson, C. E. "Bud" (December 1981 – March 1982). "Caught by the Wing-tip". Air Enthusiast. No. 17. pp. 74–80. ISSN 0143-5450.
+Chorlton, Martyn. Paths in the Wood. Cowbit, UK: Old Forge Publishing Ltd, 2003. ISBN 0-9544507-0-1.
+De Vink, Hervé (August 1976). "Adieu au "Dakota" de la Force aérienne belge" [Farewell to the Dakotas of the Belgian Air Force]. Le Fana de l'Aviation (in French) (81): 17–19. ISSN 0757-4169.
+Donald, David. The Complete Encyclopedia of World Aircraft. New York: Barnes & Noble, 1997. ISBN 0-7607-0592-5.
+Flintham, Victor. Air Wars and Aircraft: A Detailed Record of Air Combat, 1945 to the Present. New York: Facts on File, 1990. ISBN 0-8160-2356-5.
+Francillon, René J. McDonnell Douglas Aircraft Since 1920. London: Putnam & Company, 1979. ISBN 0-370-00050-1.
+Gradidge, Jennifer M. The Douglas DC-1, DC-2, DC-3: The First Seventy Years. Two volumes. Tonbridge, UK: Air-Britain (Historians) Ltd., 2006. ISBN 0-85130-332-3.
+Herman, Arthur. Freedom's Forge: How American Business Produced Victory in World War II. New York: Random House, 2012. ISBN 978-1-4000-6964-4.
+Kaplan, Philip. Legend: A Celebration of the Douglas DC-3/C-47/Dakota. Peter Livanos & Philip Kaplan, 2009. ISBN 978-0-9557061-1-0.
+Parker, Dana T. Building Victory: Aircraft Manufacturing in the Los Angeles Area in World War II. Cypress, California: Dana Parker Enterprises, 2013. ISBN 978-0-9897906-0-4.
+Pearcy, Arthur Jr. "Douglas R4D variants (US Navy's DC-3/C-47)". Aircraft in Profile, Volume 14. Windsor, Berkshire, UK: Profile Publications, 1974, pp. 49–73. ISBN 0-85383-023-1.
+"Pentagon Over the Islands: The Thirty-Year History of Indonesian Military Aviation". Air Enthusiast Quarterly (2): 154–162. n.d. ISSN 0143-5450.
+Serrano, José Luis González (March–April 1999). "Fifty Years of DC Service: Douglas Transports Used by the Spanish Air Force". Air Enthusiast (80): 61–71. ISSN 0143-5450.
+Widfeldt, Bo (April–July 1980). ""Operation Ball": USAAF Operations in Sweden 1944–45". Air Enthusiast. No. 12. pp. 51–53. ISSN 0143-5450.
+Yenne, Bill. McDonnell Douglas: A Tale of Two Giants. Greenwich, Connecticut: Bison Books, 1985. ISBN 0-517-44287-6.Boeing: Historical Snapshot: C-47 Skytrain military transport
+Manual: (1943) T.O. No. 01-40NC-1 Pilot's Flight Operating Instructions C-47 Airplane
+"Our Tow Ships". National WWII Glider Pilots Association, Inc. 09 July 2014.

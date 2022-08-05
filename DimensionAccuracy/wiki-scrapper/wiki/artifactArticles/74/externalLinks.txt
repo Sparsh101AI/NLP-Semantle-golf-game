@@ -1,0 +1,16 @@
+//geohack.toolforge.org/geohack.php?pagename=Stickney_(crater)&params=1_N_49_W_type:landmark_globe:phobos_dim:9000
+//geohack.toolforge.org/geohack.php?pagename=Stickney_(crater)&params=1_N_49_W_type:landmark_globe:phobos_dim:9000
+https://planetarynames.wr.usgs.gov/Feature/5707;jsessionid=E47760BE67410C4B697A5527EE7842EC
+https://ui.adsabs.harvard.edu/abs/1974Icar...23..206V
+https://doi.org/10.1016%2F0019-1035%2874%2990006-2
+https://planetarynames.wr.usgs.gov/Feature/14262;jsessionid=B59E9489AFEB29ED0D12627AB4BA5FD0
+http://www.lpi.usra.edu/meetings/lpsc2006/pdf/2195.pdf
+http://www.nasa.gov/feature/goddard/phobos-is-falling-apart
+http://www.nasa.gov/mission_pages/MRO/multimedia/pia10368.html
+https://www.universetoday.com/140593/strange-grooves-on-phobos-were-caused-by-boulders-rolling-around-on-its-surface/
+https://doi.org/10.1016%2Fj.pss.2018.11.004
+http://www.solarviews.com/cap/mars/vphobos3.htm
+http://hirise.lpl.arizona.edu/images/2008/details/phobos/PSP_007769_9010_IRB_StickneyU.jpg
+https://apod.nasa.gov/apod/image/1805/PSP_007769_9010_IRB_Stickney.jpg
+https://www.eurekalert.org/multimedia/pub/124588.php?from=339608
+https://en.wikipedia.org/w/index.php?title=Template:Mars&action=edit

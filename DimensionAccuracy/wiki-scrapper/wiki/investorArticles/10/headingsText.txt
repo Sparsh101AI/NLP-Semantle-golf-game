@@ -1,0 +1,32 @@
+Definitions
+Equivalence of definitions
+Upper and lower hulls
+Topological properties
+Closed and open hulls
+Preservation of topological properties
+Extreme points
+Geometric and algebraic properties
+Closure operator
+Minkowski sum
+Projective duality
+Special cases
+Finite point sets
+Simple polygons
+Brownian motion
+Space curves
+Functions
+Computation
+Related structures
+Applications
+Mathematics
+Statistics
+Combinatorial optimization
+Economics
+Geometric modeling
+Ethology
+Quantum physics
+Thermodynamics
+History
+Notes
+References
+External links

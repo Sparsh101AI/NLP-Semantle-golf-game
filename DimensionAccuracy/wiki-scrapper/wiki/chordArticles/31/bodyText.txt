@@ -1,0 +1,49 @@
+In functional analysis, a branch of mathematics, a bounding point of a subset of a vector space is a conceptual extension of the boundary of a set.
+Let 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ be a subset of a vector space 
+
+
+
+X
+
+
+{\displaystyle X}
+
+.  Then 
+
+
+
+x
+∈
+X
+
+
+{\displaystyle x\in X}
+
+ is a bounding point for 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ if it is neither an internal point for 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ nor its complement.

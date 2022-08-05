@@ -1,0 +1,6 @@
+Immunodiffusion is a diagnostic test which involves diffusion through a substance such as agar which is generally soft gel agar (2%) or agarose (2%), used for the detection of antibodies or antigen.
+The commonly known types are: 
+Single diffusion in one dimension (Oudin procedure)
+Double diffusion in one dimension (Oakley Fulthorpe procedure)
+Single diffusion in two dimension (radial immunodiffusion or Mancini method)
+Double diffusion in two dimensions (Ouchterlony double immunodiffusion)Immunodiffusion at the US National Library of Medicine Medical Subject Headings (MeSH)

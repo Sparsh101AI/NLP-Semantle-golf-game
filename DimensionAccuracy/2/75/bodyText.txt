@@ -1,0 +1,212 @@
+The term kana (仮名, Japanese pronunciation: [kana]) may refer to a number of syllabaries used to write Japanese phonological units, morae. Such syllabaries include (1) the original kana, or magana (真仮名, literally 'true kana'), which were Chinese characters (kanji) used phonetically to transcribe Japanese, the most prominent magana system being man'yōgana (万葉仮名); the two descendants of man'yōgana, (2) hiragana (平仮名), and (3) katakana (片仮名). There are also hentaigana (変体仮名, literally 'variant kana'), which are historical variants of the now-standard hiragana. In current usage, 'kana' can simply mean hiragana and katakana.
+Katakana, with a few additions, are also used to write Ainu. A number of systems exist to write the Ryūkyūan languages, in particular Okinawan, in hiragana. Taiwanese kana were used in Taiwanese Hokkien as glosses (ruby text or furigana) for Chinese characters in Taiwan when it was under Japanese rule.
+Each kana character (syllabogram) corresponds to one sound or whole syllable in the Japanese language, unlike kanji regular script, which corresponds to a meaning (logogram). That is why the character system is named kana, literally "false name". Apart from the five vowels, it is always CV (consonant onset with vowel nucleus), such as ka, ki, etc., or V (vowel), such as a, i, etc., with the sole exception of the C grapheme for nasal codas usually romanised as n. The structure has led some scholars to label the system moraic, instead of syllabic, because it requires the combination of two syllabograms to represent a CVC syllable with coda (i.e. CVn, CVm, CVng), a CVV syllable with complex nucleus (i.e. multiple or expressively long vowels), or a CCV syllable with complex onset (i.e. including a glide, CyV, CwV).
+The limited number of phonemes in Japanese, as well as the relatively rigid syllable structure, makes the kana system to be a very accurate representation of spoken Japanese.
+'Kana' is a compound of kari (仮, 'borrowed; assumed; false') and na (名, 'name'), which eventually collapsed into kanna and ultimately 'kana'.
+As the name suggests, 'kana' were "false" kanji due to their purely phonetic nature, as opposed to mana (真名) which were "true" kanji used for their meanings. In current usage, however, since such "false" kanji have long been obsolete, and phonetic kanji are now only restricted to what is known specifically as ateji, the term 'kana' simply refers to hiragana and katakana, and it contrasts with kanji altogether.
+Although the term 'kana' is now commonly understood as hiragana and katakana, it actually has broader application as listed below:
+Kana (仮名, false name) or kana (仮字, false character): a syllabary.
+Magana (真仮名, true kana) or otokogana (男仮名, men's kana): phonetic kanji used as syllabary characters, historically used by men (who were more educated).
+Man'yōgana (万葉仮名, kana used in the Man'yōshū): the most prominent system of magana.
+Sōgana (草仮名, sloppy kana): cursive man'yōgana.
+Hiragana (平仮名, flat kana), onnagana (女仮名, women's kana), onnamoji (女文字, women's script), onnade (女手, women's hands) or irohagana (伊呂波仮名): a syllabary derived from simplified sōgana, historically used by women (who were less educated), historically sorted in Iroha order.
+Hentaigana (変体仮名, variant kana) or itaigana (異体仮名): obsolete variants of hiragana.
+Katakana (片仮名, fragmented kana) or gojūongana (五十音仮名, fifty-sound kana): a syllabary derived by using bits of characters in man'yōgana, historically sorted in gojūon order.
+Yamatogana (大和仮名, Yamato's kana): hiragana and katakana, as opposed to kanji.
+Ongana (音仮名, sound kana): magana for transcribing Japanese words, using, strict or loose, Chinese-derived readings (on'yomi). For example, yama (山, mountain) would be spelt as 也末, with two magana with on'yomi for ya and ma; likewise, hito (人, human) spelt as 比登 for hi and to.
+Kungana (訓仮名, learned kana): magana for transcribing Japanese words, using native words ascribed to kanji (native "readings" or kun'yomi). For example, Yamato (大和) would be spelt as 八間跡, with three magana with kun'yomi for ya, ma and to; likewise, natsukashi (懐かし, evoking nostalgia) spelt as 夏樫 for natsu and kashi.
+Mana (真名, true name), mana (真字, true character), otokomoji (男文字, men's script) or otokode (男手, men's hands): kanji used for meanings, historically used by men (who were more educated).
+Shinkatakana (真片仮名, mana and katakana): mixed script including only kanji and katakana.The following table reads, in gojūon order, as a, i, u, e, o (down first column), then ka, ki, ku, ke, ko (down second column), and so on. n appears on its own at the end. Asterisks mark unused combinations.
+
+
+
+
+Japanese kana: hiragana (left) and katakana (right)(Image of this table)
+
+
+
+
+–
+
+k
+
+s
+
+t
+
+n
+
+h
+
+m
+
+y
+
+r
+
+w
+
+
+a
+
+あア
+
+かカ
+
+さサ
+
+たタ
+
+なナ
+
+はハ
+
+まマ
+
+やヤ
+
+らラ
+
+わワ
+
+
+i
+
+いイ
+
+きキ
+
+しシ
+
+ちチ
+
+にニ
+
+ひヒ
+
+みミ
+
+𛀆𛄠*
+
+りリ
+
+ゐヰ
+
+
+u
+
+うウ
+
+くク
+
+すス
+
+つツ
+
+ぬヌ
+
+ふフ
+
+むム
+
+ゆユ
+
+るル
+
+𛄟𛄢*
+
+
+e
+
+えエ
+
+けケ
+
+せセ
+
+てテ
+
+ねネ
+
+へヘ
+
+めメ
+
+𛀁𛄡*
+
+れレ
+
+ゑヱ
+
+
+o
+
+おオ
+
+こコ
+
+そソ
+
+とト
+
+のノ
+
+ほホ
+
+もモ
+
+よヨ
+
+ろロ
+
+をヲ
+
+
+
+
+  
+
+
+んン(n)
+
+There are presently no kana for ye, yi or wu, as corresponding syllables do not occur natively in modern Japanese.
+The [jɛ] (ye) sound is believed to have existed in pre-Classical Japanese, mostly before the advent of kana, and can be represented by the man'yōgana kanji 江. There was an archaic Hiragana () derived from the man'yōgana ye kanji 江, which is encoded into Unicode at code point U+1B001 (𛀁), but it is not widely supported. It is believed that e and ye first merged to ye before shifting back to e during the Edo period. As demonstrated by 17th century-era European sources, the syllable we (ゑ・ヱ ) also came to be pronounced as [jɛ] (ye). If necessary, the modern orthography allows [je] (ye) to be written as いぇ (イェ), but this usage is limited and nonstandard.
+The modern Katakana e, エ, derives from the man'yōgana 江, originally pronounced ye; a "Katakana letter Archaic E" () derived from the man'yōgana 衣 (e) is encoded into Unicode at code point U+1B000 (𛀀), due to being used for that purpose in scholarly works on classical Japanese.
+Some gojūon tables published during the 19th century list additional Katakana in the ye (), wu () and yi () positions. These are not presently used, and the latter two sounds never existed in Japanese. They were added to Unicode in version 14.0 in 2021. These sources also list  (Unicode U+1B006, 𛀆) in the Hiragana yi position, and  in the ye position.
+Although removed from the standard orthography with the gendai kanazukai reforms, wi and we still see stylistic use, as in ウヰスキー for whisky and ヱビス or ゑびす for Japanese kami Ebisu, and Yebisu, a brand of beer named after Ebisu. Hiragana wi and we are preserved in certain Okinawan scripts, while katakana wi and we are preserved in the Ainu language.
+wo is preserved only as the accusative particle, normally occurring only in hiragana.
+si, ti, tu, hu, wi, we and wo are often romanized respectively as shi, chi, tsu, fu, i, e and o instead, according to contemporary pronunciation.Syllables beginning with the voiced consonants [g], [z], [d] and [b] are spelled with kana from the corresponding unvoiced columns (k, s, t and h) and the voicing mark, dakuten. Syllables beginning with [p] are spelled with kana from the h column and the half-voicing mark, handakuten.
+Note that the か゚, ら゚ and the remaining entries in the two rightmost columns, though they exist, are not used in standard Japanese orthography.
+zi, di, and du are often transcribed into English as ji, ji, and zu instead, respectively, according to contemporary pronunciation.
+Usually, [va], [vi], [vu], [ve], [vo] are represented respectively by バ[ba], ビ[bi], ブ[bu], ベ[be], and ボ[bo], for example, in loanwords such as バイオリン (baiorin "violin"), but (less usually) the distinction can be preserved by using [w-] with voicing marks or by using [wu] and a vowel kana, as in ヴァ(ヷ), ヴィ(ヸ), ヴ, ヴェ(ヹ), and ヴォ(ヺ). Note that ヴ did not have a JIS-encoded Hiragana form (ゔ) until JIS X 0213, meaning that many Shift JIS flavours (including the Windows and HTML5 version) can only represent it as a katakana, although Unicode supports both.Syllables beginning with palatalized consonants are spelled with one of the seven consonantal kana from the i row followed by small ya, yu or yo. These digraphs are called yōon.
+There are no digraphs for the semivowel y and w columns.
+The digraphs are usually transcribed with three letters, leaving out the i: CyV. For example, きゃ is transcribed as kya.
+si+y* and ti+y* are often transcribed sh* and ch* instead of sy* and ty*. For example, しゃ is transcribed as sha.
+In earlier Japanese, digraphs could also be formed with w-kana.  Although obsolete in modern Japanese, the digraphs くゎ (/kʷa/) and くゐ/くうぃ(/kʷi/), are preserved in certain Okinawan orthographies. In addition, the kana え can be used in Okinawan to form the digraph くぇ, which represents the /kʷe/ sound.Note that the き゚ゃ, き゚ゅ and remaining entries in the rightmost column, though they exist, are not used in standard Japanese orthography.
+jya, jyu, and jyo are often transcribed into English as ja, ju, and jo instead, respectively, according to contemporary pronunciation.The difference in usage between hiragana and katakana is stylistic. Usually, hiragana is the default syllabary, and katakana is used in certain special cases. Hiragana is used to write native Japanese words with no kanji representation (or whose kanji is thought obscure or difficult), as well as grammatical elements such as particles and inflections (okurigana). Today katakana is most commonly used to write words of foreign origin that do not have kanji representations, as well as foreign personal and place names. Katakana is also used to represent onomatopoeia and interjections, emphasis, technical and scientific terms, transcriptions of the Sino-Japanese readings of kanji, and some corporate branding.
+Kana can be written in small form above or next to lesser-known kanji in order to show pronunciation; this is called furigana. Furigana is used most widely in children's or learners' books. Literature for young children who do not yet know kanji may dispense with it altogether and instead use hiragana combined with spaces.
+Systems supporting only a limited set of characters, such as Wabun code for Morse code telegrams and single-byte digital character encodings such as JIS X 0201 or EBCDIK, likewise dispense with kanji, instead using only katakana. This is not necessary in systems supporting double-byte or variable-width encodings such as Shift JIS, EUC-JP, UTF-8 or UTF-16.
+Old Japanese was written entirely in kanji, and a set of kanji called man'yōgana were first used to represent the phonetic values of grammatical particles and morphemes. As there was no consistent method of sound representation, a phoneme could be represented by multiple kanji, and even those kana's pronunciations differed in whether they were to be read as kungana (訓仮名, "meaning kana") or ongana (音仮名, "sound kana"), making decipherment problematic. The man'yōshū, a poetry anthology assembled sometime after 759 and the eponym of man'yōgana, exemplifies this phenomenon, where as many as almost twenty kanji were used for the mora ka. The consistency of the kana used was thus dependent on the style of the writer. Hiragana developed as a distinct script from cursive man'yōgana, whereas katakana developed from abbreviated parts of regular script man'yōgana as a glossing system to add readings or explanations to Buddhist sutras. Both of these systems were simplified to make writing easier. The shapes of many hiragana resembled the Chinese cursive script, as did those of many katakana the Korean gugyeol, suggesting that the Japanese followed the continental pattern of their neighbors.
+Kana is traditionally said to have been invented by the Buddhist priest Kūkai in the ninth century. Kūkai certainly brought the Siddhaṃ script of India home on his return from China in 806; his interest in the sacred aspects of speech and writing led him to the conclusion that Japanese would be better represented by a phonetic alphabet than by the kanji which had been used up to that point. The modern arrangement of kana reflects that of Siddhaṃ, but the traditional iroha arrangement follows a poem which uses each kana once.
+However, hiragana and katakana did not quickly supplant man'yōgana. It was only in 1900 that the present set of kana was codified. All the other forms of hiragana and katakana developed before the 1900 codification are known as hentaigana (変体仮名, "variant kana"). Rules for their usage as per the spelling reforms of 1946, the gendai kana-zukai (現代仮名遣い, "present-day kana usage"), which abolished the kana for wi (ゐ・ヰ), we (ゑ・ヱ), and wo (を・ヲ) (except that the last was reserved as the accusative particle).
+Kana are the basis for collation in Japanese.  They are taken in the order given by the gojūon (あ い う え お ... わ を ん), though iroha (い ろ は に ほ へ と ... せ す (ん)) ordering is used for enumeration in some circumstances.  Dictionaries differ in the sequence order for long/short vowel distinction, small tsu and diacritics. As Japanese does not use word spaces (except as a tool for children), there can be no word-by-word collation; all collation is kana-by-kana.
+The hiragana range in Unicode is U+3040 ... U+309F, and the katakana range is U+30A0 ... U+30FF. The obsolete and rare characters (wi and we) also have their proper code points.
+Characters U+3095 and U+3096 are hiragana small ka and small ke, respectively. U+30F5 and U+30F6 are their katakana equivalents. Characters U+3099 and U+309A are combining dakuten and handakuten, which correspond to the spacing characters U+309B and U+309C. U+309D is the hiragana iteration mark, used to repeat a previous hiragana. U+309E is the voiced hiragana iteration mark, which stands in for the previous hiragana but with the consonant voiced (k becomes g, h becomes b, etc.). U+30FD and U+30FE are the katakana iteration marks. U+309F is a ligature of yori (より) sometimes used in vertical writing. U+30FF is a ligature of koto (コト), also found in vertical writing.
+Additionally, there are halfwidth equivalents to the standard fullwidth katakana. These are encoded within the Halfwidth and Fullwidth Forms block (U+FF00–U+FFEF), starting at U+FF65 and ending at U+FF9F (characters U+FF61–U+FF64 are halfwidth punctuation marks):
+There is also a small "Katakana Phonetic Extensions" range (U+31F0 ... U+31FF), which includes some additional small kana characters for writing the Ainu language. Further small kana characters are present in the "Small Kana Extension" block.
+Unicode also includes "Katakana letter archaic E" (U+1B000), as well as 255 archaic Hiragana, in the Kana Supplement block. It also includes a further 31 archaic Hiragana in the Kana Extended-A block.
+
+The Kana Extended-B block was added in September, 2021 with the release of version 14.0:
+Furigana
+Okurigana
+Yotsugana
+Gojūon
+Hentaigana
+Historical kana orthography
+Man'yōgana
+Romanization of Japanese
+Transliteration and Transcription (linguistics)Hiragana & katakana chart and writing practice sheet
+Origin of Hiragana
+Origin of Katakana
+Kana web translator - Transliterate Kana to Rōmaji
+Kana Copybook (PDF)

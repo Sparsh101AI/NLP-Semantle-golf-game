@@ -1,0 +1,175 @@
+The Gregorian calendar is the calendar used in most of the world. It was introduced in October 1582 by Pope Gregory XIII as a modification of, and replacement for, the Julian calendar. The principal change was to space leap years differently so as to make the average calendar year 365.2425 days long, more closely approximating the 365.2422-day 'tropical' or 'solar' year that is determined by the Earth's revolution around the Sun.
+The rule for leap years is:
+There were two reasons to establish the Gregorian calendar. First, the Julian calendar assumed incorrectly that the average solar year is exactly 365.25 days long, an overestimate of a little under one day per century, and thus has a leap year every four years without exception. The Gregorian reform shortened the average (calendar) year by 0.0075 days to stop the drift of the calendar with respect to the equinoxes. Second, in the years since the First Council of Nicaea in AD 325, the excess leap days introduced by the Julian algorithm had caused the calendar to drift such that the (Northern) spring equinox was occurring well before its nominal 21 March date. This date was important to the Christian churches because it is fundamental to the calculation of the date of Easter. To reinstate the association, the reform advanced the date by 10 days: Thursday 4 October 1582 was followed by Friday 15 October 1582. In addition, the reform also altered the lunar cycle used by the Church to calculate the date for Easter, because astronomical new moons were occurring four days before the calculated dates. It is notable that whilst the reform introduced minor changes, the calendar continued to be fundamentally based on the same geocentric theory as its predecessor.
+The reform was adopted initially by the Catholic countries of Europe and their overseas possessions. Over the next three centuries, the Protestant and Eastern Orthodox countries also moved to what they called the Improved calendar, with Greece being the last European country to adopt the calendar (for civil use only) in 1923. To unambiguously specify a date during the transition period (in contemporary documents or in history texts), both notations were given, tagged as 'Old Style' or 'New Style' as appropriate. During the 20th century, most non-Western countries also adopted the calendar, at least for civil purposes.
+The Gregorian calendar, like the Julian calendar, is a solar calendar with 12 months of 28–31 days each. The year in both calendars consists of 365 days, with a leap day being added to February in the leap years. The months and length of months in the Gregorian calendar are the same as for the Julian calendar. The only difference is that the Gregorian reform omitted a leap day in three centurial years every 400 years and left the leap day unchanged.
+A leap year normally occurred every four years, and the leap day was historically inserted by doubling 24 February. However, it is now customary to number the days of February sequentially with no gaps, and 29 February is typically considered the leap day. Before the 1969 revision of its General Roman Calendar, the Catholic Church delayed February feasts after the 23rd by one day in leap years; Masses celebrated according to the previous calendar still reflect this delay.
+Gregorian years are identified by consecutive year numbers. A calendar date is fully specified by the year (numbered according to a calendar era, in this case Anno Domini or Common Era), the month (identified by name or number), and the day of the month (numbered sequentially starting from 1). Although the calendar year currently runs from 1 January to 31 December, at previous times year numbers were based on a different starting point within the calendar (see the "beginning of the year" section below).
+Calendar cycles repeat completely every 400 years, which equals 146,097 days. Of these 400 years, 303 are regular years of 365 days and 97 are leap years of 366 days. A mean calendar year is 365+97/400 days = 365.2425 days, or 365 days, 5 hours, 49 minutes and 12 seconds. During intervals that do not contain any century common years (such as 1900), the calendar repeats every 28 years, during which February 29 will fall on each of the seven days of the week once and only once. All other dates of the year fall on each day exactly four times, each day of the week having gaps of 6 years, 5 years, 6 years, and 11 years, in that order.
+The Gregorian calendar was a reform of the Julian calendar. It was instituted by papal bull Inter gravissimas dated 24 February 1582 by Pope Gregory XIII, after whom the calendar is named. The motivation for the adjustment was to bring the date for the celebration of Easter to the time of year in which it was celebrated when it was introduced by the early Church. The error in the Julian calendar (its assumption that there are exactly 365.25 days in a year) had led to the date of the equinox according to the calendar drifting from the observed reality, and thus an error had been introduced into the calculation of the date of Easter. Although a recommendation of the First Council of Nicaea in 325 specified that all Christians should celebrate Easter on the same day, it took almost five centuries before virtually all Christians achieved that objective by adopting the rules of the Church of Alexandria (see Easter for the issues which arose).
+Because the date of Easter is a function –  the computus –  of the date of the (northern hemisphere) spring equinox, the Catholic Church considered unacceptable the increasing divergence between the canonical date of the equinox and observed reality. Easter is celebrated on the Sunday after the ecclesiastical full moon on or after 21 March, which was adopted as an approximation to the March equinox. European scholars had been well aware of the calendar drift since the early medieval period.
+Bede, writing in the 8th century, showed that the accumulated error in his time was more than three days. Roger Bacon in c. 1200 estimated the error at seven or eight days. Dante, writing c. 1300, was aware of the need for calendar reform. An attempt to go forward with such a reform was undertaken by Pope Sixtus IV, who in 1475 invited Regiomontanus to the Vatican for this purpose. However, the project was interrupted by the death of Regiomontanus shortly after his arrival in Rome. The increase of astronomical knowledge and the precision of observations towards the end of the 15th century made the question more pressing. Numerous publications over the following decades called for a calendar reform, among them two papers sent to the Vatican by the University of Salamanca in 1515 and 1578, but the project was not taken up again until the 1540s, and implemented only under Pope Gregory XIII (r. 1572–1585).
+In 1545, the Council of Trent authorised Pope Paul III to reform the calendar, requiring that the date of the vernal equinox be restored to that which it held at the time of the First Council of Nicaea in 325 and that an alteration to the calendar be designed to prevent future drift. This would allow for more consistent and accurate scheduling of the feast of Easter.
+In 1577, a Compendium was sent to expert mathematicians outside the reform commission for comments. Some of these experts, including Giambattista Benedetti and Giuseppe Moleto, believed Easter should be computed from the true motions of the Sun and Moon, rather than using a tabular method, but these recommendations were not adopted. The reform adopted was a modification of a proposal made by the Calabrian doctor Aloysius Lilius (or Lilio).
+Lilius's proposal included reducing the number of leap years in four centuries from 100 to 97, by making three out of four centurial years common instead of leap years. He also produced an original and practical scheme for adjusting the epacts of the Moon when calculating the annual date of Easter, solving a long-standing obstacle to calendar reform.
+Ancient tables provided the Sun's mean longitude. The German mathematician Christopher Clavius, the architect of the Gregorian calendar, noted that the tables agreed neither on the time when the Sun passed through the vernal equinox nor on the length of the mean tropical year. Tycho Brahe also noticed discrepancies. The Gregorian leap year rule (97 leap years in 400 years) was put forward by Petrus Pitatus of Verona in 1560. He noted that it is consistent with the tropical year of the Alfonsine tables and with the mean tropical year of Copernicus (De revolutionibus) and Erasmus Reinhold (Prutenic tables). The three mean tropical years in Babylonian sexagesimals as the excess over 365 days (the way they would have been extracted from the tables of mean longitude) were 0;14,33,9,57 (Alfonsine), 0;14,33,11,12 (Copernicus) and 0;14,33,9,24 (Reinhold). In decimal notation, these are equal to 0.24254606, 0.24255185, and 0.24254352, respectively.  All values are the same to two sexagesimal places (0;14,33, equal to decimal 0.2425) and this is also the mean length of the Gregorian year. Thus Pitatus' solution would have commended itself to the astronomers.
+Lilius's proposals had two components. First, he proposed a correction to the length of the year. The mean tropical year is 365.24219 days long. A commonly used value in Lilius's time, from the Alfonsine tables, is 365.2425463 days. As the average length of a Julian year is 365.25 days, the Julian year is almost 11 minutes longer than the mean tropical year. The discrepancy results in a drift of about three days every 400 years. Lilius's proposal resulted in an average year of 365.2425 days (see Accuracy). At the time of Gregory's reform there had already been a drift of 10 days since the Council of Nicaea, resulting in the vernal equinox falling on 10 or 11 March instead of the ecclesiastically fixed date of 21 March, and if unreformed it would have drifted further. Lilius proposed that the 10-day drift should be corrected by deleting the Julian leap day on each of its ten occurrences over a period of forty years, thereby providing for a gradual return of the equinox to 21 March.
+Lilius's work was expanded upon by Christopher Clavius in a closely argued, 800-page volume. He would later defend his and Lilius's work against detractors. Clavius's opinion was that the correction should take place in one move, and it was this advice that prevailed with Gregory.
+The second component consisted of an approximation that would provide an accurate yet simple, rule-based calendar. Lilius's formula was a 10-day correction to revert the drift since the Council of Nicaea, and the imposition of a leap day in only 97 years in 400 rather than in 1 year in 4. The proposed rule was that "years divisible by 100 would be leap years only if they were divisible by 400 as well".
+The 19-year cycle used for the lunar calendar required revision because the astronomical new moon was, at the time of the reform, four days before the calculated new moon. It was to be corrected by one day every 300 or 400 years (8 times in 2500 years) along with corrections for the years that are no longer leap years (i.e. 1700, 1800, 1900, 2100, etc.) In fact, a new method for computing the date of Easter was introduced. The method proposed by Lilius was revised somewhat in the final reform.
+When the new calendar was put in use, the error accumulated in the 13 centuries since the Council of Nicaea was corrected by a deletion of 10 days. The Julian calendar day Thursday, 4 October 1582 was followed by the first day of the Gregorian calendar, Friday, 15 October 1582 (the cycle of weekdays was not affected).
+A month after having decreed the reform, the pope (with a brief of 3 April 1582) granted to one Antoni Lilio the exclusive right to publish the calendar for a period of ten years. The Lunario Novo secondo la nuova riforma was printed by Vincenzo Accolti, one of the first calendars printed in Rome after the reform, notes at the bottom that it was signed with papal authorization and by Lilio (Con licentia delli Superiori... et permissu Ant(onii) Lilij). The papal brief was revoked on 20 September 1582, because Antonio Lilio proved unable to keep up with the demand for copies.
+Although Gregory's reform was enacted in the most solemn of forms available to the Church, the bull had no authority beyond the Catholic Church (of which he was the supreme religious authority) and the Papal States (which he personally ruled). The changes that he was proposing were changes to the civil calendar, over which he had no authority. They required adoption by the civil authorities in each country to have legal effect.
+The bull Inter gravissimas became the law of the Catholic Church in 1582, but it was not recognised by Protestant Churches, Eastern Orthodox Churches, Oriental Orthodox Churches, and a few others. Consequently, the days on which Easter and related holidays were celebrated by different Christian Churches again diverged.
+On 29 September 1582, Philip II of Spain decreed the change from the Julian to the Gregorian calendar. This affected much of Roman Catholic Europe, as Philip was at the time ruler over Spain and Portugal as well as much of Italy. In these territories, as well as in the Polish–Lithuanian Commonwealth (ruled by Anna Jagiellon) and in the Papal States, the new calendar was implemented on the date specified by the bull, with Julian Thursday, 4 October 1582, being followed by Gregorian Friday, 15 October. The Spanish and Portuguese colonies followed somewhat later de facto  because of delay in communication. The other major Catholic power of Western Europe, France, adopted the change a few months later: 9 December was followed by 20 December.
+Many Protestant countries initially objected to adopting a Catholic innovation; some Protestants feared the new calendar was part of a plot to return them to the Catholic fold. For example, the British could not bring themselves to adopt the Catholic system explicitly: the Annexe to their Calendar (New Style) Act 1750 established a computation for the date of Easter that achieved the same result as Gregory's rules, without actually referring to him.
+Britain and the British Empire (including the eastern part of what is now the United States) adopted the Gregorian calendar in 1752. Sweden followed in 1753.
+Prior to 1917, Turkey used the lunar Islamic calendar with the Hijri era for general purposes and the Julian calendar for fiscal purposes. The start of the fiscal year was eventually fixed at 1 March and the year number was roughly equivalent to the Hijri year (see Rumi calendar). As the solar year is longer than the lunar year this originally entailed the use of "escape years" every so often when the number of the fiscal year would jump. From 1 March 1917 the fiscal year became Gregorian, rather than Julian. On 1 January 1926 the use of the Gregorian calendar was extended to include use for general purposes and the number of the year became the same as in most other countries.
+This section always places the intercalary day on 29 February even though it was always obtained by doubling 24 February (the bissextum (twice sixth) or bissextile day) until the late Middle Ages. The Gregorian calendar is proleptic before 1582 (calculated backwards on the same basis, for years before 1582), and the difference between Gregorian and Julian calendar dates increases by three days every four centuries (all date ranges are inclusive).
+The following equation gives the number of days (actually, dates) that the Gregorian calendar is ahead of the Julian calendar, called the "secular difference" between the two calendars. A negative difference means the Julian calendar is ahead of the Gregorian calendar.
+
+
+
+
+D
+=
+
+⌊
+
+Y
+
+/
+
+100
+
+⌋
+
+−
+
+⌊
+
+Y
+
+/
+
+400
+
+⌋
+
+−
+2
+
+
+{\displaystyle D=\left\lfloor {Y/100}\right\rfloor -\left\lfloor {Y/400}\right\rfloor -2}
+
+where 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ is the secular difference and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is the year using astronomical year numbering, that is, use (year BC) − 1 for BC years. 
+
+
+
+
+⌊
+
+x
+
+⌋
+
+
+
+{\displaystyle \left\lfloor {x}\right\rfloor }
+
+ means that if the result of the division is not an integer it is rounded down to the nearest integer. Thus during the 1900s, 1900/400 = 4, while during the −500s, −500/400 = −2.
+The general rule, in years which are leap years in the Julian calendar but not the Gregorian, is:
+Up to 28 February in the calendar being converted from, add one day less or subtract one day more than the calculated value. Give February the appropriate number of days for the calendar being converted into. When subtracting days to calculate the Gregorian equivalent of 29 February (Julian), 29 February is discounted. Thus if the calculated value is −4 the Gregorian equivalent of this date is 24 February.
+The year used in dates during the Roman Republic and the Roman Empire was the consular year, which began on the day when consuls first entered office—probably 1 May before AUC 532 (222 BC), 15 March from AUC 532 (222 BC) and 1 January from AUC 601 (153 BC). The Julian calendar, which began in AUC 709 (45 BC), continued to use 1 January as the first day of the new year. Even though the year used for dates changed, the civil year always displayed its months in the order January to December from the Roman Republican period until the present.
+During the Middle Ages, under the influence of the Catholic Church, many Western European countries moved the start of the year to one of several important Christian festivals—25 December (supposed Nativity of Jesus), 25 March (Annunciation), or Easter (France), while the Byzantine Empire began its year on 1 September and Russia did so on 1 March until 1492 when the new year was moved to 1 September.
+In common usage, 1 January was regarded as New Year's Day and celebrated as such, but from the 12th century until 1751 the legal year in England began on 25 March (Lady Day). So, for example, the Parliamentary record lists the execution of Charles I on 30 January as occurring in 1648 (as the year did not end until 24 March), although later histories adjust the start of the year to 1 January and record the execution as occurring in 1649.
+Most Western European countries changed the start of the year to 1 January before they adopted the Gregorian calendar. For example, Scotland changed the start of the Scottish New Year to 1 January in 1600 (this means that 1599 was a short year). England, Ireland and the British colonies changed the start of the year to 1 January in 1752 (so 1751 was a short year with only 282 days). Later in 1752 in September the Gregorian calendar was introduced throughout Britain and the British colonies (see the section Adoption). These two reforms were implemented by the Calendar (New Style) Act 1750.
+In some countries, an official decree or law specified that the start of the year should be 1 January. For such countries, a specific year when a 1 January-year became the norm can be identified. In other countries, the customs varied, and the start of the year moved back and forth as fashion and influence from other countries dictated various customs.
+Neither the papal bull nor its attached canons explicitly fix such a date, though it is implied by two tables of saint's days, one labelled 1582 which ends on 31 December, and another for any full year that begins on 1 January. It also specifies its epact relative to 1 January, in contrast with the Julian calendar, which specified it relative to 22 March. The old date was derived from the Greek system: the earlier Supputatio Romana specified it relative to 1 January.
+During the period between 1582, when the first countries adopted the Gregorian calendar, and 1923, when the last European country adopted it, it was often necessary to indicate the date of some event in both the Julian calendar and in the Gregorian calendar, for example, "10/21 February 1750/51", where the dual year accounts for some countries already beginning their numbered year on 1 January while others were still using some other date. Even before 1582, the year sometimes had to be double-dated because of the different beginnings of the year in various countries. Woolley, writing in his biography of John Dee (1527–1608/9), notes that immediately after 1582 English letter writers "customarily" used "two dates" on their letters, one OS and one NS.
+"Old Style" (O.S.) and "New Style" (N.S.) indicate dating systems before and after a calendar change, respectively. Usually, this is the change from the Julian calendar to the Gregorian calendar as enacted in various European countries between 1582 and the 20th century. 
+In England, Wales, Ireland and Britain's American colonies, there were two calendar changes, both in 1752. The first adjusted the start of a new year from Lady Day (25 March) to 1 January (which Scotland had done from 1600), while the second discarded the Julian calendar in favour of the Gregorian calendar, removing 11 days from the September 1752 calendar to do so.  To accommodate the two calendar changes, writers used dual dating to identify a given day by giving its date according to both styles of dating.
+For countries such as Russia where no start of year adjustment took place, O.S. and N.S. simply indicate the Julian and Gregorian dating systems. Many Eastern Orthodox countries continue to use the older Julian calendar for religious purposes.
+Extending the Gregorian calendar backwards to dates preceding its official introduction produces a proleptic calendar, which should be used with some caution. For ordinary purposes, the dates of events occurring prior to 15 October 1582 are generally shown as they appeared in the Julian calendar, with the year starting on 1 January, and no conversion to their Gregorian equivalents. For example, the Battle of Agincourt is universally considered to have been fought on 25 October 1415 which is Saint Crispin's Day.
+Usually, the mapping of new dates onto old dates with a start of year adjustment works well with little confusion for events that happened before the introduction of the Gregorian calendar. But for the period between the first introduction of the Gregorian calendar on 15 October 1582 and its introduction in Britain on 14 September 1752, there can be considerable confusion between events in continental western Europe and in British domains in English language histories.
+Events in continental western Europe are usually reported in English language histories as happening under the Gregorian calendar. For example, the Battle of Blenheim is always given as 13 August 1704. Confusion occurs when an event affects both. For example, William III of England set sail from the Netherlands on 11 November 1688 (Gregorian calendar) and arrived at Brixham in England on 5 November 1688 (Julian calendar).
+Shakespeare and Cervantes seemingly died on exactly the same date (23 April 1616), but Cervantes predeceased Shakespeare by ten days in real time (as Spain used the Gregorian calendar, but Britain used the Julian calendar). This coincidence encouraged UNESCO to make 23 April the World Book and Copyright Day.
+Astronomers avoid this ambiguity by the use of the Julian day number.
+For dates before the year 1, unlike the proleptic Gregorian calendar used in the international standard ISO 8601, the traditional proleptic Gregorian calendar (like the Julian calendar) does not have a year 0 and instead uses the ordinal numbers 1, 2, ... both for years AD and BC. Thus the traditional time line is 2 BC, 1 BC, AD 1, and AD 2. ISO 8601 uses astronomical year numbering which includes a year 0 and negative numbers before it. Thus the ISO 8601 time line is −0001, 0000, 0001, and 0002.
+
+The Gregorian calendar continued to employ the Julian months, which have Latinate names and irregular numbers of days:
+January (31 days), from Latin mēnsis Iānuārius, "Month of Janus", the Roman god of gates, doorways, beginnings and endings
+February (28 days in common and 29 in leap years), from Latin mēnsis Februārius, "Month of the Februa", the Roman festival of purgation and purification, cognate with fever, the Etruscan death god Februus ("Purifier"), and the Proto-Indo-European word for sulfur
+March (31 days), from Latin mēnsis Mārtius, "Month of Mars", the Roman war god
+April (30 days), from Latin mēnsis Aprīlis, of uncertain meaning but usually derived from some form of the verb aperire ("to open") or the name of the goddess Aphrodite
+May (31 days), from Latin mēnsis Māius, "Month of Maia", a Roman vegetation goddess whose name is cognate with Latin magnus ("great") and English major
+June (30 days), from Latin mēnsis Iūnius, "Month of Juno", the Roman goddess of marriage, childbirth, and rule
+July (31 days), from Latin mēnsis Iūlius, "Month of Julius Caesar", the month of Caesar's birth, instituted in 44 BC as part of his calendrical reforms
+August (31 days), from Latin mēnsis Augustus, "Month of Augustus", instituted by Augustus in 8 BC in agreement with July and from the occurrence during the month of several important events during his rise to power
+September (30 days), from Latin mēnsis september, "seventh month", of the ten-month Roman year of Romulus c. 750 BC
+October (31 days), from Latin mēnsis octōber, "eighth month", of the ten-month Roman year of Romulus c. 750 BC
+November (30 days), from Latin mēnsis november, "ninth month", of the ten-month Roman year of Romulus c. 750 BC
+December (31 days), from Latin mēnsis december, "tenth month", of the ten-month Roman year of Romulus c. 750 BCEuropeans sometimes attempt to remember the number of days in each month by memorizing some form of the traditional verse "Thirty Days Hath September". It appears in Latin, Italian, French and Portuguese, and belongs to a broad oral tradition but the earliest currently attested form of the poem is the English marginalia inserted into a calendar of saints c. 1425:
+Variations appeared in Mother Goose and continue to be taught at schools. The unhelpfulness of such involved mnemonics has been parodied as "Thirty days hath September / But all the rest I can't remember" but it has also been called "probably the only sixteenth-century poem most ordinary citizens know by heart". A common nonverbal alternative is the knuckle mnemonic, considering the knuckles of one's hands as months with 31 days and the lower spaces between them as the months with fewer days. Using two hands, one may start from either pinkie knuckle as January and count across, omitting the space between the index knuckles (July and August). The same procedure can be done using the knuckles of a single hand, returning from the last (July) to the first (August) and continuing through. A similar mnemonic is to move up a piano keyboard in semitones from an F key, taking the white keys as the longer months and the black keys as the shorter ones.
+
+In conjunction with the system of months, there is a system of weeks. A physical or electronic calendar provides conversion from a given date to the weekday and shows multiple dates for a given weekday and month. Calculating the day of the week is not very simple, because of the irregularities in the Gregorian system. When the Gregorian calendar was adopted by each country, the weekly cycle continued uninterrupted. For example, in the case of the few countries that adopted the reformed calendar on the date proposed by Gregory XIII for the calendar's adoption, Friday, 15 October 1582, the preceding date was Thursday, 4 October 1582 (Julian calendar).
+Opinions vary about the numbering of the days of the week. ISO 8601, in common use worldwide, starts with Monday=1; printed monthly calendar grids often list Mondays in the first (left) column of dates and Sundays in the last. In North America, the week typically begins on Sunday and ends on Saturday.
+The Gregorian calendar improves the approximation made by the Julian calendar by skipping three Julian leap days in every 400 years, giving an average year of 365.2425 mean solar days long. This approximation has an error of about one day per 3,030 years with respect to the current value of the mean tropical year. However, because of the precession of the equinoxes, which is not constant, and the movement of the perihelion (which affects the Earth's orbital speed) the error with respect to the astronomical vernal equinox is variable; using the average interval between vernal equinoxes near 2000 of 365.24237 days implies an error closer to 1 day every 7,700 years. By any criterion, the Gregorian calendar is substantially more accurate than the 1 day in 128 years error of the Julian calendar (average year 365.25 days).
+In the 19th century, Sir John Herschel proposed a modification to the Gregorian calendar with 969 leap days every 4000 years, instead of 970 leap days that the Gregorian calendar would insert over the same period. This would reduce the average year to 365.24225 days. Herschel's proposal would make the year 4000, and multiples thereof, common instead of leap. While this modification has often been proposed since, it has never been officially adopted.
+On time scales of thousands of years, the Gregorian calendar falls behind the astronomical seasons. This is because the Earth's speed of rotation is gradually slowing down, which makes each day slightly longer over time (see tidal acceleration and leap second) while the year maintains a more uniform duration.
+
+This image shows the difference between the Gregorian calendar and the astronomical seasons.
+The y-axis is the date in June and the x-axis is Gregorian calendar years.
+Each point is the date and time of the June solstice in that particular year. The error shifts by about a quarter of a day per year. Centurial years are ordinary years, unless they are divisible by 400, in which case they are leap years. This causes a correction in the years 1700, 1800, 1900, 2100, 2200, and 2300.
+For instance, these corrections cause 23 December 1903 to be the latest December solstice, and 20 December 2096 to be the earliest solstice—about 2.35 days of variation compared with the seasonal event.
+The following are proposed reforms of the Gregorian calendar:
+Holocene calendar
+International Fixed Calendar (also called the International Perpetual calendar)
+World Calendar
+World Season Calendar
+Leap week calendars
+Pax Calendar
+Symmetry454
+Hanke–Henry Permanent CalendarCalendar (New Style) Act 1750
+Calendar reform
+Conversion between Julian and Gregorian calendars
+Doomsday rule
+French revolutionary calendar
+Hebrew calendar
+Dionysius Exiguus
+Inter gravissimas in English – Wikisource
+Julian day
+History of calendars
+ISO 8601, an international standard for the representation of dates and times, which uses the Gregorian calendar (see Section 3.2.1).
+List of adoption dates of the Gregorian calendar per country
+List of calendars
+Old Calendarists
+Greek Old Calendarists
+Revised Julian calendar (Milanković) – used in Eastern OrthodoxyPrecursors of the Gregorian reform
+Johannes de Sacrobosco, De Anni Ratione ("On reckoning the years"), c. 1235
+Roger Bacon, Opus Majus ("Greater Work"), c. 1267Gregorian calendar on In Our Time at the BBC
+Calendar Converter
+Inter Gravissimas (Latin and French plus English)
+History of Gregorian Calendar
+The Perpetual Calendar Gregorian Calendar adoption dates for many countries. 
+World records for mentally calculating the day of the week in the Gregorian Calendar 
+The Calendar FAQ – Frequently Asked Questions about Calendars
+Today's date (Gregorian) in over 800 more-or-less obscure foreign languages

@@ -1,0 +1,17 @@
+https://en.wikipedia.org/w/index.php?title=Anchieta,_Esp%C3%ADrito_Santo&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Anchieta%2C+Esp%C3%ADrito+Santo%22
+//www.google.com/search?tbm=nws&q=%22Anchieta%2C+Esp%C3%ADrito+Santo%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Anchieta%2C+Esp%C3%ADrito+Santo%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Anchieta%2C+Esp%C3%ADrito+Santo%22+-wikipedia
+//scholar.google.com/scholar?q=%22Anchieta%2C+Esp%C3%ADrito+Santo%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Anchieta%2C+Esp%C3%ADrito+Santo%22&acc=on&wc=on
+//geohack.toolforge.org/geohack.php?pagename=Anchieta,_Esp%C3%ADrito_Santo&params=20_48_20_s_40_38_40_W_region:BR_type:city(29779)
+//geohack.toolforge.org/geohack.php?pagename=Anchieta,_Esp%C3%ADrito_Santo&params=20_48_20_s_40_38_40_W_region:BR_type:city(29779)
+https://cidades.ibge.gov.br/brasil/es/anchieta/panorama
+http://cod.ibge.gov.br/7OT
+https://en.wikipedia.org/w/index.php?title=Template:Municipalities_of_Esp%C3%ADrito_Santo&action=edit
+https://viaf.org/viaf/144383603
+https://www.worldcat.org/identities/containsVIAFID/144383603
+https://id.loc.gov/authorities/names/n91046150
+https://en.wikipedia.org/w/index.php?title=Anchieta,_Esp%C3%ADrito_Santo&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:EspiritoSanto-geo-stub&action=edit

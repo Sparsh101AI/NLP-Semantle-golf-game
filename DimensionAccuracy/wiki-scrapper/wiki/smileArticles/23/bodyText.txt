@@ -1,0 +1,18 @@
+The Enzyme Commission number (EC number) is a numerical classification scheme for enzymes, based on the chemical reactions they catalyze. As a system of enzyme nomenclature, every EC number is associated with a recommended name for the corresponding enzyme-catalyzed reaction.
+EC numbers do not specify enzymes but enzyme-catalyzed reactions. If different enzymes (for instance from different organisms) catalyze the same reaction, then they receive the same EC number. Furthermore, through convergent evolution, completely different protein folds can catalyze an identical reaction (these are sometimes called non-homologous isofunctional enzymes)  and therefore would be assigned the same EC number. By contrast, UniProt identifiers uniquely specify a protein by its amino acid sequence.
+Every enzyme code consists of the letters "EC" followed by four numbers separated by periods. Those numbers represent a progressively finer classification of the enzyme.  Preliminary EC numbers exist and have an 'n' as part of the fourth (serial) digit (e.g. EC 3.5.1.n3).
+For example, the tripeptide aminopeptidases have the code "EC 3.4.11.4", whose components indicate the following groups of enzymes:
+EC 3 enzymes are hydrolases enzymes (enzymes that use water to break up some other molecule)
+EC 3.4 are hydrolases that act on peptide bonds
+EC 3.4.11 are those hydrolases that cleave off the amino-terminal amino acid from a polypeptide
+EC 3.4.11.4 are those that cleave off the amino-terminal end from a tripeptideSimilarity between enzymatic reactions  can be calculated by using bond changes, reaction centres or substructure metrics (formerly  EC-BLAST], now the  EMBL-EBI Enzyme Portal).
+Before the development of the EC number system, enzymes were named in an arbitrary fashion, and names like old yellow enzyme and malic enzyme that give little or no clue as to what reaction was catalyzed were in common use. Most of these names have fallen into disuse, though a few, especially proteolyic enzymes with very low specificity, such as pepsin and papain, are still used, as rational classification on the basis of specificity has been very difficult.
+By the 1950s the chaos was becoming intolerable, and after Hoffman-Ostenhof and Dixon and Webb had proposed somewhat similar schemes for classifying enzyme-catalyzed reactions, the International Congress of Biochemistry in Brussels set up the Commission on Enzymes under the chairmanship of Malcolm Dixon in 1955. The first version was published in 1961, and the Enzyme Commission was dissolved at that time, though its name lives on in the term EC Number. The current sixth edition, published by the International Union of Biochemistry and Molecular Biology in 1992 as the last version published as a printed book, contains 3196 different enzymes. Supplements 1-4 were published 1993-1999. Subsequent supplements have been published electronically, at the website of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology. In August 2018, the IUBMB modified the system  by adding the top-level EC 7 category containing translocases.
+List of EC numbers
+List of enzymes
+TC number (classification of membrane transport proteins)Enzyme Nomenclature, authoritative website by the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology, maintained by G.P. Moss
+Enzyme nomenclature database — by ExPASy
+List of all EC numbers  — by BRENDA
+Browse PDB structures by EC number
+Browse SCOP domains by EC number — by dcGO
+Compare EC numbers using EC-Blast Archived 2019-05-30 at the Wayback Machine

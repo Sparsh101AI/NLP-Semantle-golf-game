@@ -1,0 +1,20 @@
+The system utility fsck (file system consistency check) is a tool for checking the consistency of a file system in Unix and Unix-like operating systems, such as Linux, macOS, and FreeBSD. A similar command, CHKDSK, exists in Microsoft Windows and its predecessor, MS-DOS.
+There is no agreed pronunciation. It can be pronounced "F-S-C-K", "F-S-check", "fizz-check", "F-sack", "fisk", "fishcake", "fizik", "F-sick", "F-sock", "F-sek", "feshk",  the sibilant "fsk", "fix", "farsk" or "fusk".
+Generally, fsck is run either automatically at boot time, or manually by the system administrator.  The command works directly on data structures stored on disk, which are internal and specific to the particular file system in use - so an fsck command tailored to the file system is generally required. The exact behaviors of various fsck implementations vary, but they typically follow a common order of internal operations and provide a common command-line interface to the user.
+Most fsck utilities provide options for either interactively repairing damaged file systems (the user must decide how to fix specific problems), automatically deciding how to fix specific problems (so the user does not have to answer any questions), or reviewing the problems that need to be resolved on a file system without actually fixing them. Partially recovered files where the original file name cannot be reconstructed are typically recovered to a  "lost+found" directory that is stored at the root of the file system.
+A system administrator can also run fsck manually if they believe there is a problem with the file system. The file system is normally checked while unmounted, mounted read-only, or with the system in a special maintenance mode. 
+Modern journaling file systems are designed such that tools such as fsck do not need to be run after unclean shutdown (i.e. crash). The UFS2 file system in FreeBSD has a background fsck, so it is usually not necessary to wait for fsck to finish before accessing the disk. Full copy-on-write file systems such as ZFS and Btrfs are designed to avoid most causes of corruption and have no traditional "fsck" repair tool. Both have a "scrub" utility which examines and repairs any problems; in the background and on a mounted file system. 
+The equivalent programs on MS-DOS and Microsoft Windows are CHKDSK and SCANDISK.
+The severity of file system corruption led to the terms "fsck" and "fscked" becoming used among Unix system administrators as a minced oath for "fuck" and "fucked". It is unclear whether this usage was cause or effect, as a report from a question and answer session at USENIX 1998 claims that "fsck" originally had a different name:
+Dennis Ritchie: “So fsck was originally called something else”
+Question: “What was it called?”
+Dennis Ritchie: "Well, the second letter was different""Go fsck yourself", is occasionally used online as an injunction to a person to go and correct their issue (attitude, ignorance of the subject matter, etc.) - in the same way that running fsck involves fixing fundamental errors.
+The following example checks the file system configured to be mounted on /usr partition; the file system needs to be unmounted first:
+The following example checks the Linux JFS file system on a mdadm software RAID device:
+List of Unix commands
+List of file systems
+e2fsprogs, which includes the e2fsck utility, standard on many Linux distributions
+scrub, Oracle Solaris ZFS file system checking utilityman fsck
+Checking and Repairing File system with fsck
+Jargon File entry: fscking
+The many faces of fsck

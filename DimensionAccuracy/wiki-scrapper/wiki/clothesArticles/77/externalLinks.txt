@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=Building_design&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Building+design%22
+//www.google.com/search?tbm=nws&q=%22Building+design%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Building+design%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Building+design%22+-wikipedia
+//scholar.google.com/scholar?q=%22Building+design%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Building+design%22&acc=on&wc=on
+http://www.ncbdc.com/about.htm
+https://web.archive.org/web/20080520084800/http://www.ncbdc.com/about.htm
+http://www.aibd.org/professional_certification.html
+https://web.archive.org/web/20080518104652/http://www.aibd.org/professional_certification.html
+https://discovery.ucl.ac.uk/id/eprint/10025855/
+https://doi.org/10.1080%2F01446193.2017.1397721
+https://api.semanticscholar.org/CorpusID:115923683
+https://en.wikipedia.org/w/index.php?title=Template:Design&action=edit

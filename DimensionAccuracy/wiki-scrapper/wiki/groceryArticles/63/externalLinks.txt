@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Pic_Mobert_South&params=48_41_N_85_39_W_region:CA-ON_type:city(96)
+//geohack.toolforge.org/geohack.php?pagename=Pic_Mobert_South&params=48_41_N_85_39_W_region:CA-ON_type:city(96)
+http://picmobert.ca/
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3558061&Geo2=CD&Code2=3558&Data=Count&SearchText=p&SearchType=Begins&SearchPR=35&B1=All&Custom=&TABID=1
+https://en.wikipedia.org/w/index.php?title=Template:Thunder_Bay_District&action=edit
+https://en.wikipedia.org/w/index.php?title=Pic_Mobert_South&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Ontario-IndianReserve-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Pic_Mobert_South&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:NorthernOntario-geo-stub&action=edit

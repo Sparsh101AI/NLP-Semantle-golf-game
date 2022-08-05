@@ -1,0 +1,10 @@
+https://en.wikipedia.org/w/index.php?title=Template:Kana_gojuon_sidebar&action=edit
+https://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/JIS/SHIFTJIS.TXT
+http://x0213.org/codetable/sjis-0213-2004-std.txt
+https://raw.githubusercontent.com/unicode-org/icu/master/icu4c/source/data/mappings/euc-jp-2007.ucm
+http://x0213.org/codetable/euc-jis-2004-std.txt
+https://archive.org/details/GB18030-2005
+https://raw.githubusercontent.com/unicode-org/icu/master/icu4c/source/data/mappings/ibm-970_P110_P110-2006_U2.ucm
+https://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP949.TXT
+https://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/OTHER/BIG5.TXT
+https://encoding.spec.whatwg.org/big5.html

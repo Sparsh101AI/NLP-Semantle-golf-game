@@ -1,0 +1,9 @@
+ISO 6438:1983, Documentation — African coded character set for bibliographic information interchange, is an ISO standard for an 8-bit character encoding for African languages. It has had little use (such as being available through UNIMARC). In practice it is now superseded by Unicode.
+^Χ  Prior to Unicode 7.0, F5 mapped to U+03C7 χ GREEK SMALL LETTER CHI.Prior to Unicode 8.0, E5 mapped to U+03A7 Χ GREEK CAPITAL LETTER CHI.Africa Alphabet
+African reference alphabet
+Dinka alphabet
+Pan-Nigerian alphabet
+Standard Alphabet by Lepsius"Coded Character Set for African Languages" (June 15, 1979)
+ISO 6438:1983 "Documentation -- African coded character set for bibliographic information interchange"
+"Application for Registration No.216, Extended African Latin alphabet coded character set for bibliographic information interchange" (ISO/IEC JTC 1/SC 2 N 3129; Date: 1998-07-06)
+"Status of ISO/TC 46/SC 4 Character Sets Projects" (ISO/IEC JTC 1/SC 2 N 3434; Date: 2000-04-18)

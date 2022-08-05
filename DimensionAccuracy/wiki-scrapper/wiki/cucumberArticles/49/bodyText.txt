@@ -1,0 +1,9 @@
+This is a list and map of European states by GDP per capita.
+The figures presented do not take into account differences in the cost of living in different countries, and the results vary greatly from one year to another based on fluctuations in the exchange rates of the country's currency. Such fluctuations change a country's ranking from one year to the next, even though they often make little or no difference to the standard of living of its population. Therefore, these figures should be regarded with caution. GDP per capita is often considered an indicator of a country's standard of living; however, this is problematic because GDP per capita is not a measure of personal income.
+The "IMF" column includes data for the year 2021 for members of the International Monetary Fund.
+The "World Bank" column includes data for the year 2019 from the World Bank.Data across columns are not comparable as they may refer to different years. All data are in United States dollars.
+The map data is for year 2021 using IMF data (WEO April 2021 Edition) GDP nominal per capita - current international dollar.
+List of sovereign states in Europe by GDP (PPP) per capita
+International organisations in Europe
+List of European countries by budget revenues
+List of European countries by budget revenues per capita

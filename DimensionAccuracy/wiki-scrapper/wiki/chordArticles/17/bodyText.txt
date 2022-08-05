@@ -1,0 +1,1065 @@
+In mathematics, in particular in functional analysis and nonlinear analysis, it is possible to define the derivative of a function between two Fréchet spaces.  This notion of differentiation, as it is Gateaux derivative between Fréchet spaces, is significantly weaker than the derivative in a Banach space, even between general topological vector spaces.  Nevertheless, it is the weakest notion of differentiation for which many of the familiar theorems from calculus hold.  In particular, the chain rule is true.  With some additional constraints on the Fréchet spaces and functions involved, there is an analog of the inverse function theorem called the Nash–Moser inverse function theorem, having wide applications in nonlinear analysis and differential geometry.
+Formally, the definition of differentiation is identical to the Gateaux derivative.  Specifically, let 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ be Fréchet spaces, 
+
+
+
+U
+⊆
+X
+
+
+{\displaystyle U\subseteq X}
+
+ be an open set, and 
+
+
+
+F
+:
+U
+→
+Y
+
+
+{\displaystyle F:U\to Y}
+
+ be a function.  The directional derivative of 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ in the direction 
+
+
+
+v
+∈
+X
+
+
+{\displaystyle v\in X}
+
+ is defined by
+
+
+
+
+D
+F
+(
+u
+)
+v
+=
+
+lim
+
+τ
+→
+0
+
+
+
+
+
+F
+(
+u
++
+v
+τ
+)
+−
+F
+(
+u
+)
+
+τ
+
+
+
+
+{\displaystyle DF(u)v=\lim _{\tau \to 0}{\frac {F(u+v\tau )-F(u)}{\tau }}}
+
+
+if the limit exists.  One says that 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ is continuously differentiable, or 
+
+
+
+
+C
+
+1
+
+
+
+
+{\displaystyle C^{1}}
+
+ if the limit exists for all 
+
+
+
+v
+∈
+X
+
+
+{\displaystyle v\in X}
+
+ and the mapping
+
+
+
+
+D
+F
+:
+U
+×
+X
+→
+Y
+
+
+{\displaystyle DF:U\times X\to Y}
+
+
+is a continuous map.
+Higher order derivatives are defined inductively via
+
+
+
+
+
+D
+
+k
++
+1
+
+
+F
+(
+u
+)
+
+{
+
+
+v
+
+1
+
+
+,
+
+v
+
+2
+
+
+,
+…
+,
+
+v
+
+k
++
+1
+
+
+
+}
+
+=
+
+lim
+
+τ
+→
+0
+
+
+
+
+
+
+D
+
+k
+
+
+F
+(
+u
++
+τ
+
+v
+
+k
++
+1
+
+
+)
+
+{
+
+
+v
+
+1
+
+
+,
+…
+,
+
+v
+
+k
+
+
+
+}
+
+−
+
+D
+
+k
+
+
+F
+(
+u
+)
+
+{
+
+
+v
+
+1
+
+
+,
+…
+,
+
+v
+
+k
+
+
+
+}
+
+
+τ
+
+
+.
+
+
+{\displaystyle D^{k+1}F(u)\left\{v_{1},v_{2},\ldots ,v_{k+1}\right\}=\lim _{\tau \to 0}{\frac {D^{k}F(u+\tau v_{k+1})\left\{v_{1},\ldots ,v_{k}\right\}-D^{k}F(u)\left\{v_{1},\ldots ,v_{k}\right\}}{\tau }}.}
+
+
+A function is said to be 
+
+
+
+
+C
+
+k
+
+
+
+
+{\displaystyle C^{k}}
+
+ if 
+
+
+
+
+D
+
+k
+
+
+F
+:
+U
+×
+X
+×
+X
+×
+⋯
+×
+X
+→
+Y
+
+
+{\displaystyle D^{k}F:U\times X\times X\times \cdots \times X\to Y}
+
+  It is 
+
+
+
+
+C
+
+∞
+
+
+,
+
+
+{\displaystyle C^{\infty },}
+
+ or smooth if it is 
+
+
+
+
+C
+
+k
+
+
+
+
+{\displaystyle C^{k}}
+
+ for every 
+
+
+
+k
+.
+
+
+{\displaystyle k.}
+
+
+Let 
+
+
+
+X
+,
+Y
+,
+
+
+{\displaystyle X,Y,}
+
+ and 
+
+
+
+Z
+
+
+{\displaystyle Z}
+
+ be Fréchet spaces.  Suppose that 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is an open subset of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ is an open subset of 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ and 
+
+
+
+F
+:
+U
+→
+V
+,
+
+
+{\displaystyle F:U\to V,}
+
+ 
+
+
+
+G
+:
+V
+→
+Z
+
+
+{\displaystyle G:V\to Z}
+
+ are a pair of 
+
+
+
+
+C
+
+1
+
+
+
+
+{\displaystyle C^{1}}
+
+ functions.  Then the following properties hold:
+Fundamental theorem of calculus. If the line segment from 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ to 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ lies entirely within 
+
+
+
+U
+,
+
+
+{\displaystyle U,}
+
+ then 
+
+
+
+F
+(
+b
+)
+−
+F
+(
+a
+)
+=
+
+∫
+
+0
+
+
+1
+
+
+D
+F
+(
+a
++
+(
+b
+−
+a
+)
+t
+)
+⋅
+(
+b
+−
+a
+)
+d
+t
+.
+
+
+{\displaystyle F(b)-F(a)=\int _{0}^{1}DF(a+(b-a)t)\cdot (b-a)dt.}
+
+
+The chain rule. For all 
+
+
+
+u
+∈
+U
+
+
+{\displaystyle u\in U}
+
+ and 
+
+
+
+x
+∈
+X
+,
+
+
+{\displaystyle x\in X,}
+
+ 
+
+
+
+D
+(
+G
+∘
+F
+)
+(
+u
+)
+x
+=
+D
+G
+(
+F
+(
+u
+)
+)
+D
+F
+(
+u
+)
+x
+
+
+{\displaystyle D(G\circ F)(u)x=DG(F(u))DF(u)x}
+
+
+Linearity. 
+
+
+
+D
+F
+(
+u
+)
+x
+
+
+{\displaystyle DF(u)x}
+
+ is linear in 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+  More generally, if 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ is 
+
+
+
+
+C
+
+k
+
+
+,
+
+
+{\displaystyle C^{k},}
+
+ then 
+
+
+
+D
+F
+(
+u
+)
+
+{
+
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+k
+
+
+
+}
+
+
+
+{\displaystyle DF(u)\left\{x_{1},\ldots ,x_{k}\right\}}
+
+ is multilinear in the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+'s.
+Taylor's theorem with remainder. Suppose that the line segment between 
+
+
+
+u
+∈
+U
+
+
+{\displaystyle u\in U}
+
+ and 
+
+
+
+u
++
+h
+
+
+{\displaystyle u+h}
+
+ lies entirely within 
+
+
+
+U
+.
+
+
+{\displaystyle U.}
+
+  If 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ is 
+
+
+
+
+C
+
+k
+
+
+
+
+{\displaystyle C^{k}}
+
+ then 
+
+
+
+F
+(
+u
++
+h
+)
+=
+F
+(
+u
+)
++
+D
+F
+(
+u
+)
+h
++
+
+
+1
+
+2
+!
+
+
+
+
+D
+
+2
+
+
+F
+(
+u
+)
+{
+h
+,
+h
+}
++
+⋯
++
+
+
+1
+
+(
+k
+−
+1
+)
+!
+
+
+
+
+D
+
+k
+−
+1
+
+
+F
+(
+u
+)
+{
+h
+,
+h
+,
+…
+,
+h
+}
++
+
+R
+
+k
+
+
+
+
+{\displaystyle F(u+h)=F(u)+DF(u)h+{\frac {1}{2!}}D^{2}F(u)\{h,h\}+\cdots +{\frac {1}{(k-1)!}}D^{k-1}F(u)\{h,h,\ldots ,h\}+R_{k}}
+
+ where the remainder term is given by 
+
+
+
+
+R
+
+k
+
+
+(
+u
+,
+h
+)
+=
+
+
+1
+
+(
+k
+−
+1
+)
+!
+
+
+
+
+∫
+
+0
+
+
+1
+
+
+(
+1
+−
+t
+
+)
+
+k
+−
+1
+
+
+
+D
+
+k
+
+
+F
+(
+u
++
+t
+h
+)
+{
+h
+,
+h
+,
+…
+,
+h
+}
+d
+t
+
+
+{\displaystyle R_{k}(u,h)={\frac {1}{(k-1)!}}\int _{0}^{1}(1-t)^{k-1}D^{k}F(u+th)\{h,h,\ldots ,h\}dt}
+
+
+Commutativity of directional derivatives. If 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ is 
+
+
+
+
+C
+
+k
+
+
+,
+
+
+{\displaystyle C^{k},}
+
+ then 
+
+
+
+
+D
+
+k
+
+
+F
+(
+u
+)
+
+{
+
+
+h
+
+1
+
+
+,
+…
+,
+
+h
+
+k
+
+
+
+}
+
+=
+
+D
+
+k
+
+
+F
+(
+u
+)
+
+{
+
+
+h
+
+σ
+(
+1
+)
+
+
+,
+…
+,
+
+h
+
+σ
+(
+k
+)
+
+
+
+}
+
+
+
+{\displaystyle D^{k}F(u)\left\{h_{1},\ldots ,h_{k}\right\}=D^{k}F(u)\left\{h_{\sigma (1)},\ldots ,h_{\sigma (k)}\right\}}
+
+ for every permutation σ of 
+
+
+
+{
+1
+,
+2
+,
+…
+,
+k
+}
+.
+
+
+{\displaystyle \{1,2,\ldots ,k\}.}
+
+The proofs of many of these properties rely fundamentally on the fact that it is possible to define the Riemann integral of continuous curves in a Fréchet space.
+Surprisingly, a mapping between open subset of Fréchet spaces is smooth (infinitely often differentiable) if it maps smooth curves to smooth curves; see Convenient analysis.
+Moreover, smooth curves in spaces of smooth functions are just smooth functions of one variable more.
+The existence of a chain rule allows for the definition of a manifold modeled on a Frèchet space: a Fréchet manifold.  Furthermore, the linearity of the derivative implies that there is an analog of the tangent bundle for Fréchet manifolds.
+Frequently the Fréchet spaces that arise in practical applications of the derivative enjoy an additional property: they are tame.  Roughly speaking, a tame Fréchet space is one which is almost a Banach space.  On tame spaces, it is possible to define a preferred class of mappings, known as tame maps.  On the category of tame spaces under tame maps, the underlying topology is strong enough to support a fully fledged theory of differential topology.  Within this context, many more techniques from calculus hold.  In particular, there are versions of the inverse and implicit function theorems.
+Differentiable vector-valued functions from Euclidean space
+Infinite-dimensional vector functionHamilton, R. S. (1982). "The inverse function theorem of Nash and Moser". Bull. Amer. Math. Soc. 7 (1): 65–222. doi:10.1090/S0273-0979-1982-15004-2. MR 0656198.

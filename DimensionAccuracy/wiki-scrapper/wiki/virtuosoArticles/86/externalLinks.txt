@@ -1,0 +1,8 @@
+//tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_volcanoes_in_Panama
+//tools.wmflabs.org/kmlexport?article=List_of_volcanoes_in_Panama
+//geohack.toolforge.org/geohack.php?pagename=List_of_volcanoes_in_Panama&params=8.808_N_82.543_W_type:mountain
+//geohack.toolforge.org/geohack.php?pagename=List_of_volcanoes_in_Panama&params=8.58_N_80.17_W_type:mountain
+//geohack.toolforge.org/geohack.php?pagename=List_of_volcanoes_in_Panama&params=8.47_N_80.82_W_type:mountain
+http://www.volcano.si.edu
+https://en.wikipedia.org/w/index.php?title=Template:Panama_topics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Central_American_volcanoes&action=edit

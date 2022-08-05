@@ -1,0 +1,13 @@
+//arxiv.org/abs/1304.5050
+https://ui.adsabs.harvard.edu/abs/2014TMP...179..550L
+https://doi.org/10.1007%2Fs11232-014-0161-2
+https://api.semanticscholar.org/CorpusID:119175276
+https://books.google.com/books?id=hyHvAAAAMAAJ&q=commutator
+https://archive.org/details/introductiontoel00grif_0
+//www.ams.org/mathscinet-getitem?mr=1802994
+https://www.researchgate.net/publication/226377308
+https://doi.org/10.1007%2F1-4020-3817-8_11
+https://www.encyclopediaofmath.org/index.php?title=Commutator
+https://d-nb.info/gnd/4164826-2
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007531893805171
+https://id.loc.gov/authorities/subjects/sh88001145

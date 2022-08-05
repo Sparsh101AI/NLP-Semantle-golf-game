@@ -1,0 +1,26 @@
+This is a list of countries or dependencies by income inequality metrics, including Gini coefficients. The Gini coefficient is a number between 0 and 1, where 0 corresponds with perfect equality (where everyone has the same income) and 1 corresponds with perfect inequality (where one person has all the income—and everyone else has no income).
+Income distribution can vary greatly from wealth distribution in a country (see List of countries by wealth inequality). Income from black market economic activity is not included and is the subject of current economic research.
+Row numbers are static. Other columns are sortable. This allows ranking of any column.Key:
+R/P 10%
+The ratio of the average income of the richest 10% to the poorest 10%.
+R/P 20%
+The ratio of the average income of the richest 20% to the poorest 20%.
+Gini
+Gini index, a quantified representation of a nation's Lorenz curve. A Gini index of 0% expresses perfect equality, while index of 100% expresses maximal inequality.
+UN
+Data from the United Nations Development Programme.
+World Bank
+Data from the World Bank.
+CIA
+Data from the Central Intelligence Agency's The World Factbook.The time allocated for running scripts has expired.
+The time allocated for running scripts has expired.
+List of countries by inequality-adjusted Human Development Index
+List of countries by percentage of population living in poverty
+List of countries by share of income of the richest one percentThe time allocated for running scripts has expired.
+The time allocated for running scripts has expired.The time allocated for running scripts has expired.
+The time allocated for running scripts has expired.
+The time allocated for running scripts has expired. This book released with two titles, depending on country of publication. However, the ISBN remains the same.
+The time allocated for running scripts has expired. USA's Gini index is now .482 according to Federal Reserve Governor Lael Brainard.Global Peace Index Map of Gini data for 2007–2010
+Shadow economies all over the world : new estimates for 162 countries from 1999 to 2007. Friedrich Schneider, Andreas Buehn, Claudio E. Montenegro. July 2010. World Bank.
+Allianz Global Wealth Report 2018.The time allocated for running scripts has expired.
+The time allocated for running scripts has expired.

@@ -1,0 +1,14 @@
+In character encoding terminology, a code point, codepoint or code position is a numerical value that maps to a specific character. Code points usually represent a single grapheme—usually a letter, digit, punctuation mark, or whitespace—but sometimes represent symbols, control characters, or formatting. The set of all possible code points within a given encoding/character set make up that encoding's codespace.
+For example, the character encoding scheme ASCII comprises 128 code points in the range 0hex to 7Fhex, Extended ASCII comprises 256 code points in the range 0hex to FFhex, and Unicode comprises 1,114,112 code points in the range 0hex to 10FFFFhex. The Unicode code space is divided into seventeen planes (the basic multilingual plane, and 16 supplementary planes), each with 65,536 (= 2) code points. Thus the total size of the Unicode code space is 17 × 65,536 = 1,114,112.
+The notion of a code point is used for abstraction, to distinguish both:
+the number from an encoding as a sequence of bits, and
+the abstract character from a particular graphical representation (glyph).This is because one may wish to make these distinctions to:
+encode a particular code space in different ways, or
+display a character via different glyphs.For Unicode, the particular sequence of bits is called a code unit – for the UCS-4 encoding, any code point is encoded as 4-byte (octet) binary numbers, while in the UTF-8 encoding, different code points are encoded as sequences from one to four bytes long, forming a self-synchronizing code. See comparison of Unicode encodings for details.
+Code points are normally assigned to abstract characters. An abstract character is not a graphical glyph but a unit of textual data. However, code points may also be left reserved for future assignment (most of the Unicode code space is unassigned), or given other designated functions.
+The distinction between a code point and the corresponding abstract character is not pronounced in Unicode, but is evident for many other encoding schemes, where numerous code pages may exist for a single code space.
+The concept of a code point is part of Unicode's solution to a difficult conundrum faced by character encoding developers in the 1980s. If they added more bits per character to accommodate larger character sets, that design decision would also constitute an unacceptable waste of then-scarce computing resources for Latin script users (who constituted the vast majority of computer users at the time), since those extra bits would always be zeroed out for such users. The code point avoids this problem by breaking the old idea of a direct one-to-one correspondence between characters and particular sequences of bits.
+Combining character
+Text-based (computing)
+Replacement character
+Unicode collation algorithmCodepoints.net, a site dedicated to all things characters, letters and Unicode

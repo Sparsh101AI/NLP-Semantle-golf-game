@@ -1,0 +1,40 @@
+Name
+Key ideas
+History
+Scrum team
+Product owner
+Developers
+Scrum master
+Workflow
+Sprint
+Sprint planning
+Daily scrum
+Sprint review
+Sprint retrospective
+Backlog refinement
+Canceling a sprint
+Artifacts
+Product backlog
+Management
+Sprint backlog
+Increment
+Extensions
+Burndown chart
+Release burn-up chart
+Definition of ready (DoR)
+Definition of Done (DoD)
+Velocity
+Spike
+Tracer bullet
+Limitations
+Tools available
+Scrum values
+Adaptations
+Scrumban
+Scrum of scrums
+Large-scale scrum
+Criticism
+See also
+References
+Further reading
+External links

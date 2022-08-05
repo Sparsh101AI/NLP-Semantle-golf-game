@@ -1,0 +1,16 @@
+//www.google.com/search?as_eq=wikipedia&q=%22Lon+Satton%22
+//www.google.com/search?tbm=nws&q=%22Lon+Satton%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Lon+Satton%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Lon+Satton%22+-wikipedia
+//scholar.google.com/scholar?q=%22Lon+Satton%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Lon+Satton%22&acc=on&wc=on
+https://www.discogs.com/artist/1778227-Lonnie-Sattin
+https://www.newspapers.com/clip/62482663/lon-satton/
+https://books.google.com/books?id=DkUEAAAAMBAJ&pg=PT83
+https://www.nytimes.com/1984/03/29/theater/lloyd-webber-musical-opens.html
+https://www.broadwayworld.com/shows/awards.php?showid=7304
+https://www.imdb.com/name/nm0766424/
+https://viaf.org/viaf/3105154260558624480003
+https://www.worldcat.org/identities/viaf-3105154260558624480003/
+https://en.wikipedia.org/w/index.php?title=Lon_Satton&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:US-film-actor-stub&action=edit

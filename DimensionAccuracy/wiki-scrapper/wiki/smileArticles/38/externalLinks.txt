@@ -1,0 +1,16 @@
+https://meshb.nlm.nih.gov/record/ui?ui=D065843
+http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=539
+http://www.neurolex.org/wiki/birnlex_1218
+http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/14.1.06.005%20Entity%20TA98%20EN.htm
+http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/14.1.09.259%20Entity%20TA98%20EN.htm
+https://ta2viewer.openanatomy.org/?id=5880
+https://bioportal.bioontology.org/ontologies/FMA/?p=classes&conceptid=http%3A%2F%2Fpurl.org%2Fsig%2Font%2Ffma%2Ffma72464
+https://archive.org/stream/anatomyofhumanbo1918gray#page/800/mode/2up
+https://www.med.umich.edu/lrc/coursepages/m1/anatomy2010/html/atlas/n2a2p1.html
+https://www.med.umich.edu/lrc/coursepages/m1/anatomy2010/html/atlas/n1a5p3.html
+https://web.archive.org/web/20160304125418/https://www.neuinfo.org/mynif/search.php?q=Cerebral%20Crus&t=data&s=cover&b=0&r=20
+https://en.wikipedia.org/w/index.php?title=Template:Mesencephalon&action=edit
+http://tools.wmflabs.org/wikidata-externalid-url/?p=1323&url_prefix=https:%2F%2Fwww.unifr.ch%2Fifaa%2FPublic%2FEntryPage%2FTA98%20Tree%2FEntity%20TA98%20EN%2F&url_suffix=%20Entity%20TA98%20EN.htm&id=A14.1.06.005
+http://tools.wmflabs.org/wikidata-externalid-url/?p=1323&url_prefix=https:%2F%2Fwww.unifr.ch%2Fifaa%2FPublic%2FEntryPage%2FTA98%20Tree%2FEntity%20TA98%20EN%2F&url_suffix=%20Entity%20TA98%20EN.htm&id=A14.1.09.259
+https://en.wikipedia.org/w/index.php?title=Cerebral_crus&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Neuroanatomy-stub&action=edit

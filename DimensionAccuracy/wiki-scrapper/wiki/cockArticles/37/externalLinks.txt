@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=River_Skirfare&params=54.186503_N_2.197014_W_
+//geohack.toolforge.org/geohack.php?pagename=River_Skirfare&params=54.119264_N_2.035975_W_type:river
+//geohack.toolforge.org/geohack.php?pagename=River_Skirfare&params=54.119264_N_2.035975_W_type:river
+https://en.wikipedia.org/w/index.php?title=Template:River_Skirfare&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Rivers_of_Yorkshire&action=edit

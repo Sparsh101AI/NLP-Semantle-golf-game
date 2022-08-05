@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Bera_Lake&params=3_5_15_N_102_36_55_E_type:waterbody_region:MY
+//geohack.toolforge.org/geohack.php?pagename=Bera_Lake&params=3_5_15_N_102_36_55_E_type:waterbody_region:MY
+https://rsis.ramsar.org/ris/712
+https://en.wikipedia.org/w/index.php?title=Template:East_Coast_Economic_Region&action=edit
+https://viaf.org/viaf/315126767
+https://www.worldcat.org/identities/containsVIAFID/315126767
+https://en.wikipedia.org/w/index.php?title=Bera_Lake&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Pahang-geo-stub&action=edit

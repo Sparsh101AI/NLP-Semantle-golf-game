@@ -1,0 +1,5 @@
+http://isotc.iso.org/livelink/livelink/fetch/2000/2122/138351/138352/customview.html?func=ll&objId=138352&objAction=browse&sort=name
+http://isotc.iso.org/livelink/livelink/4021199/ISO_8601_2004_E.zip?func=doc.Fetch&nodeid=4021199
+https://en.wikipedia.org/w/index.php?title=Template:ISO_standards&action=edit
+https://en.wikipedia.org/w/index.php?title=ISO_2711&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Measurement-stub&action=edit

@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Pestel,_Grand%27Anse&params=18_32_0_N_73_48_0_W_region:HT_type:city(36138)
+//geohack.toolforge.org/geohack.php?pagename=Pestel,_Grand%27Anse&params=18_32_0_N_73_48_0_W_region:HT_type:city(36138)
+https://en.wikipedia.org/w/index.php?title=Template:Communes_of_Haiti&action=edit
+https://en.wikipedia.org/w/index.php?title=Pestel,_Grand%27Anse&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Haiti-geo-stub&action=edit

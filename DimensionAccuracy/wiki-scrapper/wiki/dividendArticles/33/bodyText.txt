@@ -1,0 +1,27 @@
+Publicly traded companies typically are subject to rigorous standards. Small and midsized businesses often follow more simplified standards, plus any specific disclosures required by their specific lenders and shareholders. Some firms operate on the cash method of accounting which can often be simple and straight forward. Larger firms most often operate on an accrual basis. Accrual basis is one of the fundamental accounting assumptions and if it is followed by the company while preparing the Financial statements then no further disclosure is required. Accounting standards prescribe in considerable detail what accruals must be made, how the financial statements are to be presented, and what additional disclosures are required.
+Some important elements that accounting standards cover include: identifying the exact entity which is reporting, discussing any "going concern" questions, specifying monetary units, and reporting time frames.
+The notable limitations of accounting standards are their inflexibility, time-consuming process to create them, the difficulty of choosing between alternative treatments and their restrictive scope. Accounting standards were largely written in the early 21st century. Massive accounting irregularities at large firms such as Worldcom and Enron illustrate that, despite all these efforts, widespread fraud can still occur, and even be missed by the outside auditors.
+The lack of transparent accounting standards in some nations has been cited as increasing the difficulty of doing business in them. In particular, the Asian financial meltdown in the late 1990s has been partially attributed to the lack of detailed accounting standards. Giant firms in some Asian countries were able to take advantage of their poorly devised accounting standards to cover up immense debts and losses, which yielded a collective effect that eventually led the whole region into financial crisis.
+International Financial Reporting StandardsThis standard is adopted in whole, or in large part, by many countries. It is acceptable in the U.S. (for a firm located outside of the U.S.) to report in this widely accepted format.
+Accounting standards by nation
+Canada - Generally Accepted Accounting Principles
+China - Chinese Accounting Standards (Zhōngguó qǐyè kuàijì zhǔnzé 中国企业会计准则)
+France - Generally Accepted Accounting Practice (Plan Comptable Général)
+Germany - Generally Accepted Accounting Practice (Grundsätze ordnungsmäßiger Buchführung)
+India - Indian Accounting Standards (Ind AS)
+Luxembourg - Luxembourg Generally Accepted Accounting Principles (Lux GAAP)
+Nepal - Nepal Financial Reporting Standards
+Russia - Russian GAAP
+Sweden - BAS (accounting)
+Switzerland - Swiss GAAP FER (Fachempfehlungen zur Rechnungslegung)
+Turkey — Uniform Accounting Plan (Turkey)
+United Kingdom - Generally Accepted Accounting Practice (UK)
+United States - Generally Accepted Accounting Principles (United States) Domestic firms typically report in this format. Foreign firms that trade in the U.S. typically report in IFRS format (below).Many countries use or are converging on the International Financial Reporting Standards (IFRS) that were established and are maintained by the International Accounting Standards Board. In some countries, local accounting principles are applied for regular companies but listed or large companies must conform to IFRS, so statutory reporting is comparable internationally.
+All listed and grouped EU companies have been required to use IFRS since 2005, Canada moved in 2009, Taiwan in 2013, and other countries are adopting local versions.
+In the United States, while "... the SEC published a statement of continued support for a single set of high-quality, globally accepted accounting standards, and acknowledged that IFRS is best positioned to serve this role..." progress is less evident.
+Center for Audit Quality (CAQ)
+Constant item purchasing power accounting
+Convention of consistency
+Philosophy of accounting
+Statutory accounting principles for insurance companies in the USMeeks, Geoff, and GM Peter Swann. "Accounting standards and the economics of standards." Accounting and Business Research 39.3 (2009): 191-210m Media related to Accounting standard at Wikimedia Commons
+FASAB Handbook of Federal Accounting Standards (2014)

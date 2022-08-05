@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Conyers_Commercial_Historic_District&params=33_40_01_N_84_01_04_W_source:NRIS2013a&title=Conyers+Commercial+Historic+District_type:landmark_region:US-GA
+//geohack.toolforge.org/geohack.php?pagename=Conyers_Commercial_Historic_District&params=33_40_01_N_84_01_04_W_source:NRIS2013a&title=Conyers+Commercial+Historic+District_type:landmark_region:US-GA
+https://npgallery.nps.gov/AssetDetail/NRIS/88000581
+https://npgallery.nps.gov/NRHP
+https://npgallery.nps.gov/NRHP/GetAsset/NRHP/88000581_text
+https://npgallery.nps.gov/NRHP/GetAsset/NRHP/88000581_photos
+https://en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places&action=edit
+https://en.wikipedia.org/w/index.php?title=Conyers_Commercial_Historic_District&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:GeorgiaUS-NRHP-stub&action=edit

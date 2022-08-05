@@ -1,0 +1,65 @@
+The Pratt & Whitney J75 (civilian designation: JT4A) is an axial-flow turbojet engine first flown in 1955. A two-spool design in the 17,000 lbf (76 kN) thrust class, the J75 was essentially the bigger brother of the Pratt & Whitney J57 (JT3C). It was known in civilian service as the JT4A, and in a variety of stationary roles as the GG4 and FT4.
+In military use, the J75 was used on the Convair F-106 Delta Dart, Lockheed U-2, and Republic F-105 Thunderchief. It was also utilized in the prototype and experimental Avro Canada CF-105 Arrow, Lockheed A-12, Martin P6M SeaMaster, North American YF-107, and Vought XF8U-3 Crusader III.
+Before the arrival of the Pratt & Whitney JT3D turbofan engine, the JT4A was used to power certain Boeing 707 and Douglas DC-8 models, bringing improved field performance in the medium-range Boeing 707-220 and Douglas DC-8-20, and intercontinental range in the Boeing 707-320 and the Douglas DC-8-30.  By late 1959, P&W had considered introducing a turbofan version of the J75, which was to have tentatively been named the TF75 or JT4D. Apparently, little interest was shown by the aircraft industry, so the variant was dropped.
+After its relatively short lifetime in the aircraft role, the JT4A found more enduring use in the naval role, where the FT4 was produced in a variety of models between 18,000 and 22,000 hp (13 and 16 MW). Well-known uses include the first all-turbine warships, the Canadian  Iroquois-class destroyers, as well as the United States Coast Guard's  Hamilton-class cutters, the 1970s-built icebreakers Polar Sea and Polar Star (each 3 engines in CODOG configuration), and it was considered for the US Navy's  Asheville-class gunboat. The same basic powerplant saw much wider use as a peak demand power turbine running on natural gas. From its introduction in 1960 over 1,000 FT4s have been sold, with many of them still in operation for electrical generation. Outdated by modern standards, refits are available that add catalytic converters to lower their emissions.
+J75-P-1
+
+J75-P-3
+16,470 lbf (73.26 kN) thrust
+J75-P-5
+17,200 lbf (76.51 kN) thrust
+J75-P-9
+
+J75-P-11
+
+J75-P-13B
+17,000 lbf (75.62 kN) thrust
+J75-P-15W
+24,500 lbf (108.98 kN) afterburning thrust
+J75-P-17
+24,500 lbf (108.98 kN) afterburning thrust
+J75-P-19
+24,500 lbf (108.98 kN) afterburning thrust
+J75-P-19W
+26,500 lbf (117.88 kN) afterburning thrust with water injection
+JT4A-3
+15,800 lbf (70.28 kN)
+JT4A-4
+15,800 lbf (70.28 kN)
+JT4A-9
+16,800 lbf (74.73 kN)
+JT4A-11
+17,500 lbf (77.84 kN) thrust
+JT4A-29
+(J75-P-19W) 26,500 lbf (117.88 kN) afterburning thrust with water injectionJ75Avro Canada CF-105 Mk1 Arrow
+Convair F-106 Delta Dart
+Lockheed A-12
+Lockheed U-2
+Martin P6M SeaMaster
+North American F-107
+Republic F-105 Thunderchief
+Vought XF8U-3 Crusader IIIJT4ABoeing 707 (specifically, the 707-220 and 707-320)
+Douglas DC-8 (specifically, the DC-8-20 and DC-8-30)Type: turbojet
+Length: 144.1 in (3,660 mm)
+Diameter: 43 in (1,092 mm)
+Dry weight: 5,100 lb (2,313.3 kg)Compressor: 2-spool axial compressor
+LP compressor: 8-stage axial (4 stages titanium, 4 stages steel)
+HP compressor: 7-stage axial compressor
+Combustors: cannular with 8 burner cans in an annular combustion chamber
+Turbine: 2-spool axial turbine
+HP turbine: 1-stage axial
+LP turbine: 2-stage axial
+Fuel type: Jet A-1 / ASTM A-1 / MIL-J-5624 / JP-1 / JP-4
+Oil system: return pressure spray system at 45 psi (310 kPa)Maximum thrust: 17,500 lbf (77.84 kN) at 6,720 rpm LP for take-off
+Overall pressure ratio: 12.5:1
+Air mass flow: 256 lb/s (7,000 kg/min) at 8,975 rpm HP
+Specific fuel consumption: 0.74 lb/(lbf⋅h) or 21 g/(kN⋅s) at maximum continuous rpm
+Thrust-to-weight ratio: 3.147
+Related development
+Pratt & Whitney JT3C/J57
+Pratt & Whitney JT3D/TF33
+Pratt & Whitney GG4/FT4
+Comparable engines
+Orenda Iroquois
+Rolls-Royce OlympusRelated lists
+List of aircraft enginesPratt & Whitney J75/JT4 webpage

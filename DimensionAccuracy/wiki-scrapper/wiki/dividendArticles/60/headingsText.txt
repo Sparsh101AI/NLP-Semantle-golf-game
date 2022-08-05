@@ -1,0 +1,21 @@
+Formal definitions
+Informal definition
+In language
+Recursive humor
+In mathematics
+Recursively defined sets
+Example: the natural numbers
+Example: Proof procedure
+Finite subdivision rules
+Functional recursion
+Proofs involving recursive definitions
+Recursive optimization
+The recursion theorem
+Proof of uniqueness
+In computer science
+In biology
+In art
+See also
+References
+Bibliography
+External links

@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Wedge_Island_(Tasmania)&params=43_07_48_S_147_40_12_E_region:AU-TAS_type:isle
+//geohack.toolforge.org/geohack.php?pagename=Wedge_Island_(Tasmania)&params=43_07_48_S_147_40_12_E_region:AU-TAS_type:isle
+http://trove.nla.gov.au/work/34440605
+http://trove.nla.gov.au/work/192856032
+https://en.wikipedia.org/w/index.php?title=Template:Islands_of_Tasmania&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:South_East_Tasmania&action=edit
+https://en.wikipedia.org/w/index.php?title=Wedge_Island_(Tasmania)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:TasmanTAS-geo-stub&action=edit

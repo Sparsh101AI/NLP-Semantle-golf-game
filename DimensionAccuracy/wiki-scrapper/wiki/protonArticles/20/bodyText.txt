@@ -1,0 +1,43 @@
+This page shows the electron configurations of the neutral gaseous atoms in their ground states. For each atom the subshells are given first in concise form, then with all subshells written out, followed by the number of electrons per shell. Electron configurations of elements beyond hassium (element 108) have never been measured; predictions are used below.
+As an approximate rule, electron configurations are given by the Aufbau principle and the Madelung rule. However there are numerous exceptions; for example the lightest exception is chromium, which would be predicted to have the configuration 1s 2s 2p 3s 3p 3d 4s, written as [Ar] 3d 4s, but whose actual configuration given in the table below is [Ar] 3d 4s.
+Note that these electron configurations are given for neutral atoms in the gas phase, which are not the same as the electron configurations for the same atoms in chemical environments. In many cases, multiple configurations are within a small range of energies and the irregularities shown below do not necessarily have a clear relation to chemical behaviour. For the undiscovered eighth-row elements, mixing of configurations is expected to be very important, and sometimes the result can no longer be well-described by a single configuration.
+   Group 18 element (noble gas), has a complete shell. Complete shells are referred to as "[Ar]" for argon etc.Extended periodic table#Electron configurations – Predictions for undiscovered elements 119–173 and 184All sources concur with the data above except in the instances listed separately:
+http://physics.nist.gov/PhysRefData/IonEnergy/ionEnergy.html ; retrieved July 2005, (elements 1–104) based on:
+Atomic Spectroscopy, by W.C. Martin and W.L. Wiese in Atomic, Molecular, & Optical Physics Handbook, ed. by G.W.F. Drake (AIP, Woodbury, NY, 1996) Chapter 10, pp. 135–153.This website is also cited in the CRC Handbook as source of Section 1, subsection Electron Configuration of Neutral Atoms in the Ground State.
+91 Pa : [Rn] 5f(H4) 6d 7s
+92 U : [Rn] 5f(I9/2) 6d 7s
+93 Np : [Rn] 5f(I4) 6d 7s
+103 Lr : [Rn] 5f 7s 7p question-marked
+104 Rf : [Rn] 5f 6d 7s question-markedDavid R. Lide (ed), CRC Handbook of Chemistry and Physics, 84th Edition, online version. CRC Press. Boca Raton, Florida, 2003; Section 1, Basic Constants, Units, and Conversion Factors; Electron Configuration of Neutral Atoms in the Ground State. (elements 1–104)
+Also subsection Periodic Table of the Elements, (elements 1–103) based on:
+G. J. Leigh, Editor, Nomenclature of Inorganic Chemistry, Blackwell Scientific Publications, Oxford, 1990.
+Chemical and Engineering News, 63(5), 27, 1985.
+Atomic Weights of the Elements, 1999, Pure Appl. Chem., 73, 667, 2001.http://www.webelements.com/ ; retrieved July 2005, electron configurations based on:
+Atomic, Molecular, & Optical Physics Handbook, Ed. Gordon W. F. Drake, American Institute of Physics, Woodbury, New York, 1996.
+J.E. Huheey, E.A. Keiter, and R.L. Keiter in Inorganic Chemistry : Principles of Structure and Reactivity, 4th edition, Harper Collins, New York, 1993.
+R.L. DeKock and H.B. Gray in Chemical Structure and bonding, Benjamin/Cummings, Menlo Park, California, 1980.
+A.M. James and M.P. Lord in Macmillan's Chemical and Physical Data, Macmillan, London, UK, 1992.
+103 Lr : [Rn].5f.7s.7p tentative ; 2.8.18.32.32.9.2 [inconsistent]
+104 Rf : [Rn].5f.6d.7s tentative
+105 Db : [Rn].5f.6d.7s (a guess based upon that of tantalum) ; 2.8.18.32.32.11.2
+106 Sg : [Rn].5f.6d.7s (a guess based upon that of tungsten) ; 2.8.18.32.32.12.2
+107 Bh : [Rn].5f.6d.7s (a guess based upon that of rhenium) ; 2.8.18.32.32.13.2
+108 Hs : [Rn].5f.6d.7s (a guess based upon that of osmium) ; 2.8.18.32.32.14.2
+109 Mt : [Rn].5f.6d.7s (a guess based upon that of iridium) ; 2.8.18.32.32.15.2
+110 Ds : [Rn].5f.6d.7s (a guess based upon that of platinum) ; 2.8.18.32.32.17.1
+111 Rg : [Rn].5f.6d.7s (a guess based upon that of gold) ; 2.8.18.32.32.18.1
+112 Cn : [Rn].5f.6d.7s (a guess based upon that of mercury) ; 2.8.18.32.32.18.2
+113 Nh : [Rn].5f.6d.7s.7p (a guess based upon that of thallium) ; 2.8.18.32.32.18.3
+114 Fl : [Rn].5f.6d.7s.7p (a guess based upon that of lead) ; 2.8.18.32.32.18.4
+115 Mc : [Rn].5f.6d.7s.7p (a guess based upon that of bismuth) ; 2.8.18.32.32.18.5
+116 Lv : [Rn].5f.6d.7s.7p (a guess based upon that of polonium) ; 2.8.18.32.32.18.6
+117 Ts : [Rn].5f.6d.7s.7p (a guess based upon that of astatine) ; 2.8.18.32.32.18.7
+118 Og : [Rn].5f.6d.7s.7p (a guess based upon that of radon) ; 2.8.18.32.32.18.8J.A. Dean (ed), Lange's Handbook of Chemistry (15th Edition), online version, McGraw-Hill, 1999; Section 4, Table 4.1 Electronic Configuration and Properties of the Elements. (Elements 1–103)
+97 Bk : [Rn] 5f 6d 7s
+103 Lr : [Rn] 4f [sic] 6d 7sHill and Petrucci, General Chemistry: An Integrated Approach (3rd edition), Prentice Hall. (Elements 1–106)
+58 Ce : [Xe] 4f 6s
+103 Lr : [Rn] 5f 6d 7s
+104 Rf : [Rn] 5f 6d 7s (agrees with guess above)
+105 Db : [Rn] 5f 6d 7s
+106 Sg : [Rn] 5f 6d 7sHoffman, Darleane C.; Lee, Diana M.; Pershina, Valeria (2006). "Transactinides and the future elements".  In Morss; Edelstein, Norman M.; Fuger, Jean (eds.). The Chemistry of the Actinide and Transactinide Elements (3rd ed.). Dordrecht, The Netherlands: Springer Science+Business Media. p. 1722. ISBN 1-4020-3555-1.
+This book contains predicted electron configurations for the elements up to 172, as well as 184, based on relativistic Dirac–Fock calculations by B. Fricke in Fricke, B. (1975).  Dunitz, J. D. (ed.). "Superheavy elements a prediction of their chemical and physical properties". Structure and Bonding. Berlin: Springer-Verlag. 21: 89–144. doi:10.1007/BFb0116496.

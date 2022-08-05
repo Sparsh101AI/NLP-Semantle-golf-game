@@ -1,0 +1,203 @@
+The "Fed model" or "Fed Stock Valuation Model" (FSVM), is a disputed theory of equity valuation that compares the stock market's forward earnings yield to the nominal yield on long-term government bonds, and that the stock market – as a whole – is fairly valued, when the one-year forward-looking I/B/E/S earnings yield equals the 10-year nominal Treasury yield; deviations suggest over-or-under valuation.
+The relationship has only held in the United States, and only for two main periods: 1921 to 1928 and from 1987 to 2000.  It has been shown to be flawed on a theoretical basis, fails to hold in long-term analysis of data (both in the United States, and international markets), and has poor predictive power for future returns on a 1, 5 and 10-year basis. The relationship can breakdown completely at very low real yields (from natural forces, or where yields are artificially suppressed by quantitative easing); in such circumstances, without additional central bank support for the stock market (e.g. use of the Greenspan put by the Fed in 2020, or the Bank of Japan's purchase of equities post-2013), the relationship collapses.
+The Fed model is used by Wall Street sales desks as it almost always gives a "buy signal", and has rarely signaled stocks are overvalued.  Some academics say the relationship, when it appears, is driven by the allocation of the Fed's balance sheet to Wall Street banks via repurchase agreements as part of Fed put stimulus (i.e. the relationship reflects the investment strategy these banks follow using borrowed Fed funds when the Fed is stimulating asset prices, e.g. Wall Street banks lending to Long-Term Capital Management-type vehicles being a noted example).
+The term was coined in 1997–99 by Deutsche Bank analyst Dr. Edward Yardeni commenting on a report on the July 1997 Humphrey-Hawkins testimony by the then-Fed Chair, Alan Greenspan on equity valuations.  In 2014, Yardeni noted that the predictive power of the Fed model stopped working almost as soon as he noted the relationship. The term was never formally endorsed by the Fed, however, Greenspan made further references to the relationship.  In December 2020, the Fed Chair Jerome Powell, invoked the relationship to justify stock market valuations that were approaching levels not seen since the 1999–2000 Dot-com bubble or the 1929 market bubble, due to exceptional monetary looseness by the Fed.
+The Fed model compares the one-year forward-looking I/B/E/S earnings yield 
+
+
+
+(
+
+
+E
+P
+
+
+)
+
+
+{\displaystyle ({\frac {E}{P}})}
+
+ on the S&P 500 Index to the nominal 10-year US Treasury note yield, 
+
+
+
+(
+
+Y
+
+10
+
+
+)
+
+
+{\displaystyle (Y_{\text{10}})}
+
+.
+
+
+
+
+
+
+E
+P
+
+
+=
+
+Y
+
+10
+
+
+
+
+{\displaystyle {\frac {E}{P}}=Y_{\text{10}}}
+
+, means the stock market, in aggregate, is fairly valued.
+
+
+
+
+
+E
+P
+
+
+<
+
+Y
+
+10
+
+
+
+
+{\displaystyle {\frac {E}{P}}<Y_{\text{10}}}
+
+, means the stock market, in aggregate, is over valued.
+
+
+
+
+
+E
+P
+
+
+>
+
+Y
+
+10
+
+
+
+
+{\displaystyle {\frac {E}{P}}>Y_{\text{10}}}
+
+, means the stock market, in aggregate, is undervalued.The Fed model only applies to the aggregate stock market valuation (i.e. the total S&P500), and is not applied to individual stock valuation.
+While the Fed model was specifically named for the United States stock market, it can be applied to any other stock market.
+The term "Fed model", or "Fed Stock Valuation Model" (FSVM), was coined in a series of reports from 1997 to 1999 by Deutsche Morgan Grenfell analyst Dr. Ed Yardeni. Yardeni noted that the then-Fed Chair Alan Greenspan, seemed to use the relationship between the forward earnings yield on the S&P 500 Index and the 10-year Treasury yield in assessing levels of equity market over-or-under valuation.  Yardeni quoted a paragraph and graphic (see image opposite), from the Fed's July 1997 Monetary Policy Report to the Congress, which implied Greenspan was using the model to express concerns about market overvaluation, with Yardeni saying: "He [Greenspan] probably instructed his staff to devise a stock market valuation model to help him evaluate the extent of this irrational exuberance":
+Academics note that I/B/E/S published a similar metric since 1986 called the I/B/E/S Equity Valuation Model, and that the concept was in widespread use by Wall Street with Estrada noting: "Any statement that justifies high P/E ratios with the existence of prevailing low-interest rates is essentially using the Fed model".
+The "Fed model" was never officially endorsed as a metric by the Fed, but Greenspan referenced the relationship several times including in his 2007 memoirs, saying: "The decline of real (inflation-adjusted) long-term interest rates that has occurred in the last two decades has been associated with rising price-to-earnings ratios for stocks, real estate, and in fact all income-earnings assets".
+In December 2020, Fed Chair Jerome Powell, invoked the "Fed Model" to justify high stock market price-earnings ratios (then approaching levels of the Dot-com bubble, in a period called the everything bubble), saying: "If you look at P/Es they're historically high, but in a world where the risk-free rate is going to be low for a sustained period, the equity premium, which is really the reward you get for taking equity risk, would be what you'd look at". Yardeni said Powell's actions in 2020, countering the financial effects of the COVID-19 pandemic, could form the greatest financial bubble in history.
+In February 2021, the Wall Street Journal noted that stock valuations were in a bubble on almost every metric except for that of the Fed Model (i.e. 10-year Treasury yields), which the WSJ felt Powell was using as a guide on how far his policy of extreme stimulus/monetary looseness could be used to push stock prices higher.
+A number of arguments are listed in favor of the Fed model, the three most important of which are:
+Competing assets argument. Stocks and bonds are competing asset classes for investors. When stocks yield more than bonds, investors are better off investing in stocks. When funds flow from bonds into stocks on a large scale, the yield on bonds should increase and the yield on stocks decreases until the Fed model equilibrium is reached.  In a 2003 paper, Cliff Asness argued that investors do set stock market P/Es (inverse of E/P) based on nominal interest rates, but that they do so in error. By confusing real and nominal, investors suffer from "money illusion".  Other academic research indicates some support for the competing assets argument, but that the driver is due to "habit-based risk aversion", which could be linked to the use of the Fed put (see below). The Wall Street Journal noted that the model's use of 1-year forward earnings makes it a favourite of Wall Street analysts whose earnings estimates are "... permanently bullish, thus always making stocks look cheap versus [Treasury] yields".  In 2020, finance author Mark Hulbert, in demonstrating the poor statistical performance of the model, also emphasized that the competing assets argument is really a "Wall Street sales line":Present value argument.  The value of stocks should be equal to the sum of its discounted future cash flows, being the present value. The government bond rate can be seen as a proxy for the risk-free rate. Thus, when the government bond rate falls, the discount rate falls, and the present value rises. And this implies that when interest rates fall, E/P also falls.  Academics consider this a flawed argument as it doesn't take into account why the bond yields fell, with Asness adding: "It is absolutely true that, all else being equal, a falling discount rate raises the current price. All else is not equal, though. If when inflation declines, future nominal cash flow from equities also falls, this can offset the effect of lower discount rates. Lower discount rates are applied to lower expected cash flows".  In 2020, when then-Fed Chair Jerome Powell used the present value argument to justify high P/E multiples, the Wall Street Journal described Powell's comparison as an attempt to "rewrite the laws of investing".A larger example of Asness' point was post-1990 Japan when the collapse of the Japanese asset bubble saw the earnings yield of the Nikkei rise materially for several decades while Japanese Government bond yields collapsed to almost zero; only when the Bank of Japan started directly buying large of equities from 2013 onwards (i.e. forcing the earnings yield down), did the Fed model begin to reapply.Historical data argument. For a specific period in the United States from 1995 to 2000, the correlation between the forward earnings yield and the 10-year Treasury yield was estimated at 75 percent. However, over the 1881–2002 period the correlation was only 19 percent, and post 2002, the correlation has been weaker, with long periods of complete divergence.  Academics show that outside of the United States, the evidence for a Fed model is weak, with academics wondering if the existence of periods when the Fed model does apply in the United States, is really due to specific unseen or misunderstood actions by the Fed via Wall Street investment banks on asset prices (i.e. the Greenspan put), or even a mistaken understanding by investors of such Fed actions.  After the Fed model's relationship broke down post-2000, Bloomberg wrote in 2017 of the connection between the relationship and the understanding of the Fed's stimulus of the markets that, "Wall Street likes to play up the Federal Reserve's role in boosting the market, but by one popular gauge at least the Fed's influence on stocks seems to be diminished".Academics conclude that the model is inconsistent with a rational valuation of the stock market, or past long-term observations, and has little predictive forecasting power. In addition, the Fed model only seems to apply for specific periods in the United States, while international markets have shown weak evidence with long period of dramatic divergences (e.g. Japan post-1990, US post dot-com burst).
+The competing asset argument listed above argues that only when stocks have the same earnings yield as nominal government bonds, that both asset classes are equally attractive to investors. But the earnings yield (E/P) of a stock does not describe what an investor actually receives as not all earnings are paid out to the investor (either via dividends or share buybacks). In addition, corporate bonds (with a yield above the government bond yield as a risk premium), do not fit into the Fed model of valuation, which therefore implicitly assumes that equities have the same risk profile as government bonds.
+For example, a number of unrealistic assumptions need to be made to go from the academically robust constant growth dividend discount model of equity valuation, to the Fed model of market valuation, which Estrada broke down, starting with the Gordon growth model:
+
+
+
+
+P
+=
+
+
+
+D
+(
+1
++
+G
+)
+
+
+
+R
+
+f
+
+
++
+R
+P
+−
+G
+
+
+
+
+
+{\displaystyle P={\frac {D(1+G)}{R_{\text{f}}+RP-G}}}
+
+P is the price, and D the dividend, G the expected long-term growth rate, 
+
+
+
+
+R
+
+f
+
+
+
+
+{\displaystyle R_{\text{f}}}
+
+ the risk-free rate (10-year nominal treasury notes), and RP the equity risk premium; then making the following assumptions:
+That all earnings are paid as a dividend (i.e. D=E); and
+That the dividend growth rate is equal to zero; and
+That the equity risk premium is also equal to zero.one gets the Fed model: E/P=
+
+
+
+
+R
+
+f
+
+
+
+
+{\displaystyle R_{\text{f}}}
+
+. Estrada finds these assumptions seem unrealistic at best, and theoretically unsound as a form of valuation.
+In addition to the above basic flaws, it is also noted out that the Fed model compares a real metric (E/P, which moves with inflation), with a nominal interest rate metric.
+The Fed model equilibrium was only observed in the United States, and for specific time periods, namely 1921 to 1928 and 1987 to 2000; outside of this time window, or in various other international markets, equities and Treasury yields do not show the relationship outlined in the Fed model.
+The correlation between the forward earnings yield and government bond yields was only 19% over the 1881 to 2002 period. Over the period from 1999 to 2013 the correlation was negative, with the Fed model incorrectly giving a rare "sell signal" in 2003 (turned out to be a poor signal), and a strong "buy signal" in 2007 (also turned out to be a poor signal). An academic study of international data showed that the Fed model equilibrium only shows up in 2 out of 20 evaluated international markets, with the author concluding that "evidence from 20 countries that seriously questions its empirical merits".
+In 2014, former S. G. Warburg & Co. chief investment officer, Andrew Smithers, writing in the Financial Times said of the statistical support for the Fed model: "It is not only nonsense but is the most egregious piece of "data mining" that I have encountered in the 60-plus years I have been studying financial markets".
+In 2017, Stuart Kirk, head of Deutsche Bank's DWS Global Research Institute and a former editor of the Financial Times Lex column, wrote of DWS's analysis of the long-term data: "In other words no historical relationship between bond yields and dividend yields. By extension, this means that interest rates have nothing to do with share prices either as the former lead bond yields while dividend yields move with earnings yields (the latter being the inverse of the price/earnings ratio). Yes, correlations can be found in the short run, but they are statistically meaningless".
+A test of whether the Fed model is an equity valuation theory with descriptive validity is that it should be able to identify over-valued and under-valued assets. The analysis shows that the Fed model has no power to forecast long term stock returns, and even crude traditional value investing methods that use only the market's P/E have significantly more efficacy than the Fed model.
+In April 2014, Dr. Yardeni wrote of his Fed model:
+In 2018, Ned Davis Research ran a test of the Fed model's ability to predict subsequent 10-year returns using data from the previous 75 years.  Davis found that "it was basically worthless", and that it's r-squared metric of 0.5%, compared poorly that those of other ratios, including P/E (56.3%), P/Sales (67.2%), and Households' equity allocation as a % of Total Financial Assets (88.4%).
+In June 2020, finance author Mark Hulbert, ran a statistical test from 1871 to 2020 of the Fed Model's ability to forecast the stock market's inflation-adjusted real return over subsequent 1, 5, and 10-year periods, and found that adding long-term Treasury yields, per the Fed model, materially reduced the predictive power of just using the earnings yield (E/P) on its own.
+It has been shown that the relationship between the forward earnings yield and long-term Government bond yields can more substantially breakdown during periods of very low-interest rates, and particularly very low real rates of interest, either from natural effects or by deliberate central banking actions such as quantitative easing.
+Economist Richard Koo noted that in post-1990 Japan, the bursting of an asset bubble led to a balance sheet recession that compressed Japanese long-term government bond yields to almost zero.  However, the forward earnings yield on the Nikkei rose steadily for several decades post the 1990 collapse, only falling during periods of deliberate intervention by the Bank of Japan (BOI), and only really gaining traction post-2013 when the BOJ began to directly purchase Japanese equity ETFs in large quantities. Koo explained that in Japan the rise in the earnings yield was due to a collapse in long-term growth prospects for Japanese equities (per Gordon's growth model, above), which was compounded by the dramatic rise in the value of Japanese government bonds (from the 10-year yield falling to almost zero), which "crowded-out" equities in the allocation of investor capital.  By December 2020, the BOJ had become the biggest owner of Japanese equities, acquired with printed funds.
+Similarly, on the bursting of the dot-com bubble in 2002, despite the Fed reducing long-term rates post-2002, the earnings yield of the S&P500 rose consistently for the next decade from 4 percent to 9 percent, while long-term Treasury yields fell from 6 percent to 2 percent.  Only after the then-Fed chair Ben Bernanke, launched a longer-term quantitative easing program called QE3, did the S&P500 earnings yield begin to move in a weak correlation with the 10-year nominal interest rate (although the gap between the E/P metric and the 10-year nominal rate remained considerable for at least the next decade).
+It has long puzzled academics that markets only seem to follow the Fed model in the United States, and only for specific periods (e.g. from 1987 to 2000, but not from 2001 to 2013); evidence for the existence of the relationship outside of the United States is even weaker.  Work by Bekaerk and Engstrom concluded the existence of the relationship could be due to investor habit – i.e. if the relationship holds for a period, then investors will keep following it, and allocating capital that reinforces it until it stops working.
+Others have questioned whether the temporary existence of the relationship in the United States is due to the Fed put (also known as the Greenspan put).  They argue that from time to time, the Fed has used the Fed model as a guide on the issue of providing "repurchase agreements" (or "repo trades") to Wall Street investment banks; repo trades, as part of the Fed put toolkit, have been used by the Fed to inflate United States asset prices, either to arrest falls in crises or to generate economic growth. Under this theory, it is the Wall Street investment banks who drive the Fed model relationship via the allocation of their repo trades into the markets, which when done on a continuous and steady basis, can also create the investor habit observed by Bekaerk and Engstrom (analysts at the Wall Street investment banks are noted by academics, and financial authors, as some of the strongest supporters of the rationale for the Fed model relationship).  The use of the Greenspan put by Wall Street investment banks in the 1990s to fund Long-Term Capital Management (LTCM), is a noted example, and was the additional use of the Greenspan put to rescue those Wall Street banks after LTCM's collapse.
+Cyclically adjusted price-to-earnings ratio
+Equity risk premium
+Everything bubble
+Greenspan putAsness, Clifford S. (Fall 2003). "Fight the Fed Model: The Relationship between Stock Market Yields, Bond Market Yields, and Future Returns". The Journal of Portfolio Management. 30 (1). doi:10.3905/jpm.2003.319916. S2CID 155012499.
+Estrada, Javier (May 2009). "The fed model: The bad, the worse, and the ugly". The Quarterly Review of Economics and Finance. 49 (2): 214–238. doi:10.1016/j.qref.2007.03.007. ISSN 1062-9769.
+Cantor, David R.; Butler, Adam; Rajani, Kunal (2014). "The Fallacy of the Fed Model" (PDF). Society of Actuaries. Retrieved 17 December 2020.Fed Stock Valuation Model, Monthly Update, Dr. Edward Yardeni
+Investopedia: The Fed Model and Stock Valuation
+Investopedia: Breaking down the Fed model
+Seeking Alpha: Debunking the Fed model
+Relationship between bond and dividend yields has no grounds, Financial Times (2017)
+(Video presentation) Fed Up with the Fed Model | Charts that Count, John Authers, Financial Times (September 2018)

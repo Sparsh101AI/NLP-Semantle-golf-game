@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Spanish_Wall&params=6_58_4_N_158_12_42_E_type:landmark_region:
+//geohack.toolforge.org/geohack.php?pagename=Spanish_Wall&params=6_58_4_N_158_12_42_E_type:landmark_region:
+https://npgallery.nps.gov/AssetDetail/NRIS/74002227
+https://npgallery.nps.gov/NRHP
+https://npgallery.nps.gov/NRHP/GetAsset/NRHP/74002227_text
+https://en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_the_Federated_States_of_Micronesia&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Spanish_Colonial_architecture&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Spanish_Empire&action=edit
+https://en.wikipedia.org/w/index.php?title=Spanish_Wall&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Oceania-NRHP-stub&action=edit

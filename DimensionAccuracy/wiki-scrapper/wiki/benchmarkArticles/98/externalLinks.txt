@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Hobson_City,_Alabama&params=33_37_7_N_85_50_36_W_region:US-AL_type:city(759)
+https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_01.txt
+https://news.google.com/newspapers?id=n8I0AAAAIBAJ&pg=7015%2C2096261
+https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html
+https://archive.today/20200212162956/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0135152
+http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0135152
+https://www.census.gov/programs-surveys/decennial-census.html
+https://web.archive.org/web/20140522161634/http://www.census.gov/popest/data/cities/totals/2013/SUB-EST2013-3.html
+https://www.census.gov/popest/data/cities/totals/2013/SUB-EST2013-3.html
+https://www.census.gov
+http://www.hobsoncitycdc.org
+//geohack.toolforge.org/geohack.php?pagename=Hobson_City,_Alabama&params=33.618497_N_85.843425_W_
+https://en.wikipedia.org/w/index.php?title=Template:Calhoun_County,_Alabama&action=edit

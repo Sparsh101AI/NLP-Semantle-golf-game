@@ -1,0 +1,10 @@
+https://commonchemistry.cas.org/detail?cas_rn=303798-94-9
+https://pubchem.ncbi.nlm.nih.gov/compound/10198481
+https://www.chemspider.com/Chemical-Structure.8373981.html
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C1%28OCC2%29%3DC%28N2C3%3DC4CCNCC3%29C4%3DCC%3DC1
+http://patentscope.wipo.int/search/en/detail.jsf?docId=WO2000064899
+https://doi.org/10.1016%2FS0960-894X%2803%2900403-7
+//pubmed.ncbi.nlm.nih.gov/12824036
+https://en.wikipedia.org/w/index.php?title=Template:Serotonin_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=PHA-57378&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Nervous-system-drug-stub&action=edit

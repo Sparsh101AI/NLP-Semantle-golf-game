@@ -1,0 +1,7 @@
+//geohack.toolforge.org/geohack.php?pagename=Dunfermline_(district)&params=56.11_N_3.54_W_region:GB_scale:50000
+https://www.undiscoveredscotland.co.uk/usfeatures/areas/dunfermline.html
+https://api.parliament.uk/historic-hansard/commons/1973/oct/22/new-local-government-areas
+https://www.gov.scot/binaries/content/documents/govscot/publications/factsheet/2018/08/fife-council/documents/adopted-dunfermline--west-fife-local-plan/adopted-dunfermline--west-fife-local-plan/govscot%3Adocument/Dunfermline%2B%2526%2BWest%2BFife%2BLocal%2BPlan.pdf
+https://www.welcometofife.com/region/dunfermline-and-west-fife
+https://en.wikipedia.org/w/index.php?title=Template:Former_local_government_regions_of_Scotland&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Fife_elections&action=edit

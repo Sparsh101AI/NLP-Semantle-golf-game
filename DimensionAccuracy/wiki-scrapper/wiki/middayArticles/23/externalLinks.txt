@@ -1,0 +1,16 @@
+//www.google.com/search?as_eq=wikipedia&q=%22DVD+Player%22+macOS
+//www.google.com/search?tbm=nws&q=%22DVD+Player%22+macOS+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22DVD+Player%22+macOS&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22DVD+Player%22+macOS+-wikipedia
+//scholar.google.com/scholar?q=%22DVD+Player%22+macOS
+https://www.jstor.org/action/doBasicSearch?Query=%22DVD+Player%22+macOS&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/DVD_Player&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:MacOS_sidebar&action=edit
+https://www.apple.com/downloads/macosx/apple/application_updates/dvdplayer46.html
+https://www.imore.com/best-apps-blu-rays-mac
+https://en.wikipedia.org/w/index.php?title=Template:Classic_Mac_OS&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:MacOS&action=edit
+https://en.wikipedia.org/w/index.php?title=DVD_Player_(macOS)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mac-software-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=DVD_Player_(macOS)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Multimedia-software-stub&action=edit

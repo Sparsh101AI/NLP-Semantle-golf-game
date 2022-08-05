@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Pattan_railway_station&params=34.1659_N_74.5632_E_type:railwaystation_region:IN
+//geohack.toolforge.org/geohack.php?pagename=Pattan_railway_station&params=34.1659_N_74.5632_E_type:railwaystation_region:IN
+https://en.wikipedia.org/w/index.php?title=Template:Jammu%E2%80%93Baramulla_line&action=edit
+http://indiarailinfo.com/station/map/pattan-pttn/9675
+http://wikimapia.org/23038861/RAILWAY-STATION-PATTAN-BARAMULLA
+http://indiarailinfo.com/train/baramulla-banihal-dmu-74626-pttn-to-qg/8335/9675/9451
+https://en.wikipedia.org/w/index.php?title=Pattan_railway_station&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:JammuKashmir-railstation-stub&action=edit

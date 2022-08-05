@@ -1,0 +1,1 @@
+//geohack.toolforge.org/geohack.php?pagename=Western_High_Plateau&params=6_30_N_10_30_E_dim:100000_region:CM-NW/CM-OU_type:landmark_source:dewiki

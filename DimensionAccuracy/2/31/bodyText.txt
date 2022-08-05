@@ -1,0 +1,17 @@
+Korean Braille is the braille alphabet of the Korean language. It is not graphically-related to other braille scripts found around the world. Instead, it reflects the patterns found in hangul, and differentiates initial consonants, vowels, and final consonants.
+It features characters for grammatical devices and punctuation. Numerals are similar to those of other braille systems.
+Consonants have different syllable-initial and -final variants, capturing some of the feel of hangul. The initial and final variants have the same shapes, but are shifted across the braille block. There are two patterns: The consonants that span the width of the block are shifted one space downward when final. Those that do not span the width of the block are on the right side of the block when initial, but on the left side when final.
+No consonant occupies more than two rows.
+*There is no initial version of ng. Initial ieung in hangul is not written in Korean Braille. However, the expected form is reserved and may not serve other uses, such as punctuation.
+The heavy (double) consonants are written by prefixing an s, an old hangul convention.  In initial position, they are:
+⠠⠠ ㅆ ss
+⠠⠈ ㄲ kk
+⠠⠊ ㄸ tt
+⠠⠘ ㅃ pp
+⠠⠨ ㅉ jjAll vowels span the width and height of the block. Because the consonants are specifically syllable-initial or syllable-final, a syllable that begins with a vowel causes no confusion when written without ieung.
+The simpler vowels reflect the symmetries of hangul: the yin–yang pairs a, eo and o, u are related through inversion, and yotization of a, eo, o, u is indicated by reflecting the vowel. This creates a different pattern of symmetry than in hangul. The graphically-similar hangul letters i and eu are also related by reflection. The w in wa, wo is indicated by making the left side of the block solid, while the i in ui, oe is shown by making the right side solid. However, the diphthongs e, ae and their yotized variants show no such patterns.
+Four diphthongs are represented with two braille blocks, by adding ⠗ to the appropriate vowel for the final element -i.
+Korean Braille contains several single cell syllable defined. Many are the braille cell for an initial consonant, with an assumed vowel "a" added. Some make use of unused cell definitions, while others utilize multi-cell abbreviations, often using malformed consonant clusters or consonant/vowel combinations otherwise abbreviated.
+As in most braille scripts, ⠼ is prefixed to digits, which are the same as in English Braille.  ⠴ is prefixed to the 26 basic roman letters in the same way.
+The first tactile encoding of hangul was developed by Rosetta Sherwood Hall in 1894. It used a cell 4 dots wide by 2 dots high, like New York Point. 6-dot braille was adapted to Korean by Park Du-seong in 1926. There have since been a number of revisions. The current form was announced in 1994.
+Korean Braille library (in Korean); chart is here [1]

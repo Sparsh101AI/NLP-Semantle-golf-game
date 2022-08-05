@@ -1,0 +1,54 @@
+Virtual Token Descriptor for eXtensible Markup Language (VTD-XML) refers to a collection of cross-platform XML processing technologies centered on a non-extractive XML, "document-centric" parsing technique called Virtual Token Descriptor (VTD). Depending on the perspective, VTD-XML can be viewed as one of the following:
+A "Document-Centric" XML parser
+A native XML indexer or a file format that uses binary data to enhance the text XML
+An incremental XML content modifier
+An XML slicer/splitter/assembler
+An XML editor/eraser
+A way to port XML processing on chip
+A non-blocking, stateless XPath evaluatorVTD-XML is developed by XimpleWare and dual-licensed under GPL and proprietary license. It is originally written in Java, but is now available in C, C++ and C#.
+Traditionally, a lexical analyzer represents tokens (the small units of indivisible character values) as discrete string objects. This approach is designated extractive parsing. In contrast, non-extractive tokenization mandates that one keeps the source text intact, and uses offsets and lengths to describe those tokens.
+Virtual Token Descriptor (VTD) applies the concept of non-extractive, document-centric parsing to XML processing. A VTD record uses a 64-bit integer to encode the offset, length, token type and nesting depth of a token in an XML document. Because all VTD records are 64 bits in length, they can be stored efficiently and managed as an array.
+Location Caches (LC) build on VTD records to provide efficient random access. Organized as tables, with one table per nesting depth level, LCs contain entries modeling an XML document's element hierarchy. An LC entry is a 64-bit integer encoding a pair of 32-bit values. The upper 32 bits identify the VTD record for the corresponding element. The lower 32 bits identify that element's first child in the LC at the next lower nesting level.
+Virtually all the core benefits of VTD-XML are inherent to non-extractive, document-centric parsing which provides these characteristics:
+The source XML text is kept intact in memory without decoding.
+The internal representation of VTD-XML is inherently persistent.
+Obviates object-oriented modeling of the hierarchical representation as it relies entirely on primitive data types (e.g., 64-bit integers) to represent the XML hierarchy, thus reducing object creation cost to nearly zero.Combining those characteristics permits thinking of XML purely as syntax (bits, bytes, offsets, lengths, fragments, namespace-compensated fragments, and document composition) instead of the serialization/deserialization of objects. This is a powerful way to think about XML/SOA applications.
+VTD-XML conforms strictly to XML 1.0 (Except the DTD part) and XML Namespace 1.0. It essentially conforms to XPath 1.0 spec (with some subtle differences in terms of underlying data model) with extension to XPath 2.0 built-in functions.
+When used in parsing mode, VTD-XML is a general purpose, extremely high performance XML parser which compares favorably with others:
+VTD-XML typically outperforms SAX (with NULL content handler) while still providing full random access and built-in XPath support.
+VTD-XML typically consumes 1.3-1.5 times the XML document's size in memory, which is about 1/5 the memory usage of DOM
+Applications written in VTD-XML are usually much shorter and cleaner than their DOM or SAX versions.Because of the inherent persistence of VTD-XML, developers can write the internal representation of a parsed XML document to disk and later reload it to avoid repetitive parsing. To this end, XimpleWare has introduced VTD+XML as a binary packaging format combining VTD, LC and the XML text. It can typically be viewed in one of the following two ways:
+A native XML index that completely eliminates the parsing cost and also retains all benefits of XML. It is a file format that is human readable and backward compatible with XML.
+A binary XML format that uses binary data to enhance the processing of the XML text.Because VTD-XML keeps the XML text intact without decoding, when an application intends to modify the content of XML it only needs to modify the portions most relevant to the changes. This is in stark contrast with DOM, SAX, or StAx parsing, which incur the cost of parsing and re-serialization no matter how small the changes are.
+Since VTDs refer to document elements by their offsets, changes to the length of elements occurring earlier in a document require adjustments to VTDs referring to all later elements. However, those adjustments are integer additions, albeit to many integers in multiple tables, so they are quick.
+An application based on VTD-XML can also use offsets and lengths to address tokens, or element fragments. This allows XML documents to be manipulated like arrays of bytes.
+As a slicer, VTD-XML can "slice" off a token or an element fragment from an XML document, then insert it back into another location in the same document, or into a different document.
+As a splitter, VTD-XML can split sub-elements in an XML document and dump each into a separate XML document.
+As an assembler, VTD-XML can "cut" chunks out of multiple XML documents and assemble them into a new XML document.Used as an editor/eraser, VTD-XML can directly edit/erase the underlying byte content of the XML text, provided that the token length is wider than the intended new content. An immediate benefit of this approach is that the application can immediately reuse the original VTD and LC. In contrast, when using VTD-XML to incrementally update an XML document, an application needs to reparse the updated document before the application can process it.
+An editor can be made smart enough to track the location of each token, permitting new, longer tokens to replace existing, shorter tokens by merely addressing the new token in separate memory outside that used to store the original document. Likewise, when reordering the document, element text does not need to be copied; only the LCs need to be updated. When a complete, contiguous XML document is needed, such as when saving it, the disparate parts can be reassembled into a new, contiguous document.
+VTD-XML also pioneers the non-blocking, stateless XPath evaluation approach.
+VTD-XML also exhibits a few noticeable shortcomings:
+As an XML parser, it does not support external entities declared in the DTD.
+As a file format, it increases the document size by about 30% to 50%.
+As an API, it is not compatible with DOM, SAX or StAX.
+It is difficult to support certain validation techniques, employed by DTD and XML Schema (e.g., default attributes and elements), that require modifications to the XML instances being parsed.Because of VTD-XML's performance and memory advantages, it covers a larger portion of XML use cases than either DOM or SAX.
+Compared to DOM, VTD-XML processes bigger (3x~5x) XML documents for the same amount of physical memory at about 3 to 10 times the performance.
+Compared to SAX, VTD-XML provides random access and XPath support and outperforms SAX by at least 2x.The extended edition of VTD-XML combining with 64-bit JVM makes possible XPath-based XML processing over huge XML documents (up to 256 GB) in size.
+The combination of VTD-XML's high performance and incremental-update capability makes it essential to achieve the desired level of quality of service for SOA/WS/XML security applications.
+VTD-XML is well suited for SOA intermediary applications such as XML routers/switches/gateways, Enterprise Service Buses, and services aggregation points. All those applications perform the basic "store and forward" operations for which retaining the original XML is critical for minimizing latency. VTD-XML's incremental update capability also contributes significantly to the forwarding performance.
+VTD-XML's random-access capability lends itself well to XPath-based XML routing/switching/filtering common in AJAX and SOA deployment.
+When an XML document travels through several middle-tier SOA components, the first message stop, after finishing the inspection of the XML document, can choose to send the VTD+XML file format to the downstream components to avoid repetitive parsing, thus improving throughput.
+By the same token, an intelligent SOA load balancer can choose to generate VTD+XML for incoming/outgoing SOAP messages to offload XML parsing from the application servers that receive those messages.
+When viewed from the perspective of native XML persistence, VTD-XML can be used as a human-readable, easy to use, general-purpose XML index. XML documents stored this way can be loaded into memory to be queried, updated, or edited without the overhead of parsing/re-serialization.
+VTD-XML's combination of high performance, low memory usage, and efficient XPath evaluation makes possible a new XML data binding approach based entirely on XPath. This approach's biggest benefit is it no longer requires XML schema, avoids needless object creation, and takes advantage of XML's inherent loose encoding.
+It is worth noting that data binding discussed in the article mentioned above needs to be implemented by the application: VTD-XML itself only offers accessors. In this regard VTD-XML is not a data binding solution itself (unlike JiBX, JAXB, XMLBeans), although it offers extraction functionality for data binding packages, much like other XML parsers (DOM, SAX, StAX).
+As of Version 2.11, the Java and C# versions of VTD-XML consist of the following classes:
+VTDGen (VTD Generator) is the class that encapsulates the main parsing, index loading and index writing functions.
+VTDNav (VTD Navigator) is the class that (1) encapsulates XML, VTD, and hierarchical info, (2) contains various navigation methods, (3) performs various comparisons between VTD records and strings, and (4) converts VTD records to primitive data types.
+AutoPilot is a class containing functions that perform node-level iteration and XPath.
+XMLModifier is a class that offers incremental update capability, such as delete, insert and update.The extended VTD-XML consists of the following classes:
+VTDGenHuge (Extended VTD Generator) encapsulates the main parsing.
+XMLBuffer performs in-memory loading of XML documents.
+XMLMemMappedBuffer performs memory mapped loading of XML documents.
+VTDNavHuge (Extended VTD Navigator) (1) encapsulates XML, Extended VTD, and hierarchical info, (2) contains various navigation methods, (3) performs various comparisons between VTD records and strings, and (4) converts VTD records to primitive data types.
+AutoPilotHuge performs node-level iteration and XPath.

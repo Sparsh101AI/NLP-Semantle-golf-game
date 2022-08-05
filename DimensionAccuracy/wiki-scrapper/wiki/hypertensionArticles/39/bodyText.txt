@@ -1,0 +1,8 @@
+Benzonitrile is the chemical compound with the formula C6H5(CN), abbreviated PhCN.  This aromatic organic compound is a colorless liquid with a sweet bitter almond odour.  It is mainly used as a precursor to the resin benzoguanamine.
+It is prepared by ammoxidation of toluene, that is its reaction with ammonia and oxygen (or air) at 400 to 450 °C (752 to 842 °F).
+C6H5CH3 + 3/2 O2 + NH3 → C6H5(CN) + 3 H2OIn the laboratory it can be prepared by the dehydration of benzamide or by the Rosenmund–von Braun reaction using cuprous cyanide or NaCN/DMSO and bromobenzene.
+Benzonitrile is a useful solvent and a versatile precursor to many derivatives.  It reacts with amines to afford N-substituted benzamides after hydrolysis.  It is a precursor to diphenylketimine Ph2C=NH (b.p. 151 °C, 8 mm Hg) via reaction with phenylmagnesium bromide followed by methanolysis.
+Benzonitrile forms coordination complexes with transition metals that are both soluble in organic solvents and conveniently labile.  One example is PdCl2(PhCN)2. The benzonitrile ligands are readily displaced by stronger ligands, making benzonitrile complexes useful synthetic intermediates.
+Benzonitrile was reported by Hermann Fehling in 1844. He found the compound as a product from the thermal dehydration of ammonium benzoate. He deduced its structure from the already known analogue reaction of ammonium formate yielding hydrogen cyanide (formonitrile). He also coined the name benzonitrile which gave the name to all the group of nitriles.
+In 2018, benzonitrile was reported to be detected in the interstellar medium.
+International Chemical Safety Card 1103

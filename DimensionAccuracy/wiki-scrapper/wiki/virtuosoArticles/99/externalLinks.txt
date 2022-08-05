@@ -1,0 +1,6 @@
+//geohack.toolforge.org/geohack.php?pagename=Dublin_Pond&params=42_54_23_N_72_05_02_W_type:waterbody_region:US
+//geohack.toolforge.org/geohack.php?pagename=Dublin_Pond&params=42_54_23_N_72_05_02_W_type:waterbody_region:US
+https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/866643
+http://www.wildlife.state.nh.us/maps/bathymetry/dublin_dublin.pdf
+https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83004018_text
+https://en.wikipedia.org/w/index.php?title=Template:Connecticut_River&action=edit

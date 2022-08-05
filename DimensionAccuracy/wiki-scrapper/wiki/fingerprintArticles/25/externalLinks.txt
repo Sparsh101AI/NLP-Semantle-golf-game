@@ -1,0 +1,13 @@
+https://meshb.nlm.nih.gov/record/ui?ui=D005779
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC380335
+https://doi.org/10.1128%2Fam.23.2.301-308.1972
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC380335
+//pubmed.ncbi.nlm.nih.gov/4622826
+https://web.archive.org/web/20170807195715/http://www.edvotek.com/273_gallery.png
+http://www.edvotek.com/273_gallery.png
+https://image.slidesharecdn.com/immunodiffusion-130121011208-phpapp01/95/immunodiffusion-principles-and-application-17-638.jpg
+https://web.archive.org/web/20191211044657/https://image.slidesharecdn.com/immunodiffusion-130121011208-phpapp01/95/immunodiffusion-principles-and-application-17-638.jpg
+https://meshb.nlm.nih.gov/record/ui?name=Immunodiffusion
+https://en.wikipedia.org/w/index.php?title=Template:Immunologic_techniques_and_tests&action=edit
+https://en.wikipedia.org/w/index.php?title=Immunodiffusion&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Immunology-stub&action=edit

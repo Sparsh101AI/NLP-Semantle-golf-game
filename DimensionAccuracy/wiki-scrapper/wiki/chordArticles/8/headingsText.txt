@@ -1,0 +1,27 @@
+Straightedge and compass tools
+History
+The basic constructions
+Much used straightedge and compass constructions
+Constructible points
+Constructible angles
+Relation to complex arithmetic
+Impossible constructions
+Squaring the circle
+Doubling the cube
+Angle trisection
+Distance to an ellipse
+Alhazen's problem
+Constructing regular polygons
+Constructing a triangle from three given characteristic points or lengths
+Restricted Constructions
+Constructing with only ruler or only compass
+Extended constructions
+Solid constructions
+Angle trisection
+Origami
+Markable rulers
+Trisect a straight segment
+Computation of binary digits
+See also
+References
+External links

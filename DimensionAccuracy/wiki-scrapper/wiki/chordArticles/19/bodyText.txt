@@ -1,0 +1,720 @@
+In mathematics, in the areas of topology and functional analysis, the Anderson–Kadec theorem states that any two infinite-dimensional, separable Banach spaces, or, more generally, Fréchet spaces, are homeomorphic as topological spaces. The theorem was proved by Mikhail Kadets (1966) and Richard Davis Anderson.
+Every infinite-dimensional, separable Fréchet space is homeomorphic to 
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+,
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {N} },}
+
+ the Cartesian product of countably many copies of the real line 
+
+
+
+
+R
+
+.
+
+
+{\displaystyle \mathbb {R} .}
+
+
+Kadec norm: A norm 
+
+
+
+‖
+
+⋅
+
+‖
+
+
+{\displaystyle \|\,\cdot \,\|}
+
+ on a normed linear space 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is called a Kadec norm with respect to a total subset 
+
+
+
+A
+⊆
+
+X
+
+∗
+
+
+
+
+{\displaystyle A\subseteq X^{*}}
+
+ of the dual space 
+
+
+
+
+X
+
+∗
+
+
+
+
+{\displaystyle X^{*}}
+
+ if for each sequence 
+
+
+
+
+x
+
+n
+
+
+∈
+X
+
+
+{\displaystyle x_{n}\in X}
+
+ the following condition is satisfied:
+If 
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+x
+
+∗
+
+
+
+(
+
+x
+
+n
+
+
+)
+
+=
+
+x
+
+∗
+
+
+(
+
+x
+
+0
+
+
+)
+
+
+{\displaystyle \lim _{n\to \infty }x^{*}\left(x_{n}\right)=x^{*}(x_{0})}
+
+ for 
+
+
+
+
+x
+
+∗
+
+
+∈
+A
+
+
+{\displaystyle x^{*}\in A}
+
+ and 
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+‖
+
+x
+
+n
+
+
+‖
+
+=
+
+‖
+
+x
+
+0
+
+
+‖
+
+,
+
+
+{\displaystyle \lim _{n\to \infty }\left\|x_{n}\right\|=\left\|x_{0}\right\|,}
+
+ then 
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+‖
+
+
+x
+
+n
+
+
+−
+
+x
+
+0
+
+
+
+‖
+
+=
+0.
+
+
+{\displaystyle \lim _{n\to \infty }\left\|x_{n}-x_{0}\right\|=0.}
+
+Eidelheit theorem: A Fréchet space 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ is either isomorphic to a Banach space, or has a quotient space isomorphic to 
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+.
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {N} }.}
+
+
+Kadec renorming theorem: Every separable Banach space 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ admits a Kadec norm with respect to a countable total subset 
+
+
+
+A
+⊆
+
+X
+
+∗
+
+
+
+
+{\displaystyle A\subseteq X^{*}}
+
+ of 
+
+
+
+
+X
+
+∗
+
+
+.
+
+
+{\displaystyle X^{*}.}
+
+ The new norm is equivalent to the original norm 
+
+
+
+‖
+
+⋅
+
+‖
+
+
+{\displaystyle \|\,\cdot \,\|}
+
+ of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+ The set 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ can be taken to be any weak-star dense countable subset of the unit ball of 
+
+
+
+
+X
+
+∗
+
+
+
+
+{\displaystyle X^{*}}
+
+
+In the argument below 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ denotes an infinite-dimensional separable Fréchet space and 
+
+
+
+≃
+
+
+{\displaystyle \simeq }
+
+ the relation of topological equivalence (existence of homeomorphism).
+A starting point of the proof of the Anderson–Kadec theorem is Kadec's proof that any infinite-dimensional separable Banach space is homeomorphic to 
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+.
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {N} }.}
+
+
+From Eidelheit theorem, it is enough to consider Fréchet space that are not isomorphic to a Banach space. In that case there they have a quotient that is isomorphic to 
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+.
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {N} }.}
+
+ A result of Bartle-Graves-Michael proves that then 
+
+
+
+
+E
+≃
+Y
+×
+
+
+R
+
+
+
+N
+
+
+
+
+
+{\displaystyle E\simeq Y\times \mathbb {R} ^{\mathbb {N} }}
+
+
+for some Fréchet space 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+On the other hand, 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ is a closed subspace of a countable infinite product of separable Banach spaces 
+
+
+
+X
+=
+
+∏
+
+n
+=
+1
+
+
+∞
+
+
+
+X
+
+i
+
+
+
+
+{\textstyle X=\prod _{n=1}^{\infty }X_{i}}
+
+ of separable Banach spaces. The same result of Bartle-Graves-Michael applied to 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ gives a homeomorphism
+
+
+
+
+X
+≃
+E
+×
+Z
+
+
+{\displaystyle X\simeq E\times Z}
+
+
+for some Fréchet space 
+
+
+
+Z
+.
+
+
+{\displaystyle Z.}
+
+ From Kadec's result the countable product of infinite-dimensional separable Banach spaces 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is homeomorphic to 
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+.
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {N} }.}
+
+
+The proof of Anderson–Kadec theorem consists of the sequence of equivalences
+
+
+
+
+
+
+
+
+
+
+R
+
+
+
+N
+
+
+
+
+
+
+≃
+(
+E
+×
+Z
+
+)
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+
+E
+
+
+N
+
+
+
+×
+
+Z
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+E
+×
+
+E
+
+
+N
+
+
+
+×
+
+Z
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+E
+×
+
+
+R
+
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+Y
+×
+
+
+R
+
+
+
+N
+
+
+
+×
+
+
+R
+
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+Y
+×
+
+
+R
+
+
+
+N
+
+
+
+
+
+
+
+
+
+≃
+E
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\mathbb {R} ^{\mathbb {N} }&\simeq (E\times Z)^{\mathbb {N} }\\&\simeq E^{\mathbb {N} }\times Z^{\mathbb {N} }\\&\simeq E\times E^{\mathbb {N} }\times Z^{\mathbb {N} }\\&\simeq E\times \mathbb {R} ^{\mathbb {N} }\\&\simeq Y\times \mathbb {R} ^{\mathbb {N} }\times \mathbb {R} ^{\mathbb {N} }\\&\simeq Y\times \mathbb {R} ^{\mathbb {N} }\\&\simeq E\end{aligned}}}
+
+
+Metrizable topological vector space – A topological vector space whose topology can be defined by a metricBessaga, C.; Pełczyński, A. (1975), Selected Topics in Infinite-Dimensional Topology, Monografie Matematyczne, Warszawa: Panstwowe wyd. naukowe.
+Torunczyk, H. (1981), Characterizing Hilbert Space Topology, Fundamenta Mathematicae, pp. 247–262.

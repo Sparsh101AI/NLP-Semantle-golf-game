@@ -1,0 +1,4 @@
+http://www.isfdb.org/cgi-bin/title.cgi?68475
+https://standardebooks.org/ebooks/h-g-wells/short-fiction
+https://librivox.org/search?title=The+Sea+Raiders&author=Wells&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced
+https://en.wikipedia.org/w/index.php?title=Template:H._G._Wells&action=edit

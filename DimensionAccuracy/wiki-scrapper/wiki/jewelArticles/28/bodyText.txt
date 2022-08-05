@@ -1,0 +1,34 @@
+This article refers to the use of computers to estimate losses caused by disasters.  For other meanings of the word catastrophe, including catastrophe theory in mathematics, see catastrophe (disambiguation).Catastrophe modeling  (also known as cat modeling) is the process of using computer-assisted calculations to estimate the losses that could be sustained due to a catastrophic event such as a hurricane or earthquake. Cat modeling is especially applicable to analyzing risks in the insurance industry and is at the confluence of actuarial science, engineering, meteorology, and seismology.
+Natural catastrophes (sometimes referred to as "nat cat") that are modeled include: 
+Hurricane (main peril is wind damage; some models can also include storm surge)
+Earthquake (main peril is ground shaking; some models can also include tsunami, fire following earthquakes, liquefaction, and sprinkler leakage damage)
+severe thunderstorm or severe convective storms (main sub-perils are tornado, straight-line winds and hail)
+Flood
+Extratropical cyclone
+Wildfire
+Winter stormHuman catastrophes include: 
+Terrorism events
+Warfare
+Casualty/liability events
+Forced displacement Crises
+Cyber data breachesCat modeling involves many lines of business, including:
+Personal property
+Commercial property
+Workers' compensation
+Automobile physical damage
+Limited liabilities
+Product liability
+Business InterruptionThe input into a typical cat modeling software package is information on the exposures being analyzed that are vulnerable to catastrophe risk.  The exposure data can be categorized into three basic groups:
+Information on the site locations, referred to as geocoding data (street address, postal code, county/CRESTA zone, etc.)
+Information on the physical characteristics of the exposures (construction, occupation/occupancy, year built, number of stories, number of employees, etc.)
+Information on the financial terms of the insurance coverage (coverage value, limit, deductible, etc.)The output of a cat model is an estimate of the losses that the model predicts would be associated with a particular event or set of events. When running a probabilistic model, the output is either a probabilistic loss distribution or a set of events that could be used to create a loss distribution; probable maximum losses ("PMLs") and average annual losses ("AALs") are calculated from the loss distribution. When running a deterministic model, losses caused by a specific event are calculated; for example, Hurricane Katrina or "a magnitude 8.0 earthquake in downtown San Francisco" could be analyzed against the portfolio of exposures.
+Cat models have a variety of use cases for a number of industries, including:
+Insurers and risk managers use cat modeling to assess the risk in a portfolio of exposures.  This might help guide an insurer's underwriting strategy or help them decide how much reinsurance to purchase.
+Some state departments of insurance allow insurers to use cat modeling in their rate filings to help determine how much premium their policyholders are charged in catastrophe-prone areas.
+Insurance rating agencies such as A. M. Best and Standard & Poor's use cat modeling to assess the financial strength of insurers that take on catastrophe risk.
+Reinsurers and reinsurance brokers use cat modeling in the pricing and structuring of reinsurance treaties.
+European insurers use cat models to derive the required regulatory capital under the Solvency II regime. Cat models are used to derive catastrophe loss probability distributions which are components of many Solvency II internal capital models.
+Likewise, cat bond investors, investment banks, and bond rating agencies use cat modeling in the pricing and structuring of a catastrophe bond.The Oasis Loss Modelling Framework ("LMF") is an open source catastrophe modeling platform. It developed by a nonprofit organisation funded and owned by the Insurance Industry to promote open access to models and to promote transparency. Additionally, some firms within the insurance industry are currently working with the Association for Cooperative Operations Research and Development (ACORD) to develop an industry standard for collecting and sharing exposure data.
+HAZUSFlorida Public Hurricane Loss Model
+Insurance Information Institute
+LMF source code repository

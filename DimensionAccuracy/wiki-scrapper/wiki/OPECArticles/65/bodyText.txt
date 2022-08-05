@@ -1,0 +1,11 @@
+Tetramethylammonium chloride is one of the simplest quaternary ammonium salts, with four methyl groups tetrahedrally attached to the central N. The chemical formula (CH3)4NCl is often abbreviated further as Me4NCl. It is a hygroscopic colourless solid that is soluble in water and polar organic solvents. Tetramethylammonium chloride is a major industrial chemical, being used widely as a chemical reagent and also as a low-residue bactericide in such processes as hydrofracking. In the laboratory, it has fewer synthetic chemical applications than quaternary ammonium salts containing longer N-alkyl substituents, which are used extensively as phase-transfer catalysts.
+Tetramethylammonium chloride is efficiently produced by the reaction of trimethylamine and methyl chloride.
+N(CH3)3 + CH3Cl   →   N(CH3)4ClIt is produced by the alkylation of ammonium chloride with dimethyl carbonate in the presence of an ionic liquid catalyst.
+Except under extraordinary conditions, it is typically employed as a source of the inert counter cation Me4N.  Similarly, it serves as a lipophilic precipitating agent.
+In low concentrations, it is used in polymerase chain reactions to increase yields and specificity. It has been shown to enhance yields 5–10 fold at 60mM by stabilizing the AT base pairs.
+LD50 = 25 mg/kg (mouse, i.p.); 40 mg/kg (mouse, s.c.); 50 mg/kg (rat, p.o.). Very toxic to aquatic organisms.
+Diverse data on human exposure, environmental toxicology and environmentally-related chemistry is available through the NIH Toxnet database.
+Quaternary ammonium cation
+Tetraethylammonium chloride
+Tetramethylammonium hydroxide
+Tetramethylammonium

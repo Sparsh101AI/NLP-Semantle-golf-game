@@ -1,0 +1,43 @@
+History
+Types
+Materials for MEMS manufacturing
+Silicon
+Polymers
+Metals
+Ceramics
+MEMS basic processes
+Deposition processes
+Physical deposition
+Chemical deposition
+Patterning
+Lithography
+Electron beam lithography
+Ion beam lithography
+Ion track technology
+X-ray lithography
+Diamond patterning
+Etching processes
+Wet etching
+Isotropic etching
+Anisotropic etching
+HF etching
+Electrochemical etching
+Dry etching
+Vapor etching
+Xenon difluoride
+Plasma etching
+Sputtering
+Reactive ion etching (RIE)
+Die preparation
+MEMS manufacturing technologies
+Bulk micromachining
+Surface micromachining
+Wafer Bonding
+High aspect ratio (HAR) silicon micromachining
+Thermal oxidation
+Applications
+Industry structure
+See also
+References
+Further reading
+External links

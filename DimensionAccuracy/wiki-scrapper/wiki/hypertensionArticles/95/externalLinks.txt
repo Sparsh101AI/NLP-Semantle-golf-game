@@ -1,0 +1,16 @@
+https://en.wikipedia.org/w/index.php?title=Chronotropic&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Chronotropic%22
+//www.google.com/search?tbm=nws&q=%22Chronotropic%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Chronotropic%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Chronotropic%22+-wikipedia
+//scholar.google.com/scholar?q=%22Chronotropic%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Chronotropic%22&acc=on&wc=on
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC6987461
+https://doi.org/10.3389%2Ffphys.2019.01599
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC6987461
+//pubmed.ncbi.nlm.nih.gov/32038284
+https://doi.org/10.1161%2F01.CIR.96.1.260
+//pubmed.ncbi.nlm.nih.gov/9236443
+https://en.wikipedia.org/w/index.php?title=Template:Cardiovascular_physiology&action=edit
+https://en.wikipedia.org/w/index.php?title=Chronotropic&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Cardiovascular-drug-stub&action=edit

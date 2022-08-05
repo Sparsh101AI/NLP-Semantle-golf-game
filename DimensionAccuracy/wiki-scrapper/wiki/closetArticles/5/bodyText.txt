@@ -1,0 +1,53 @@
+A beam is a structural element that primarily resists loads applied laterally to the beam's axis (an element designed to carry primarily axial load would be a strut or column). Its mode of deflection is primarily by bending. The loads applied to the beam result in reaction forces at the beam's support points. The total effect of all the forces acting on the beam is to produce shear forces and bending moments within the beams, that in turn induce internal stresses, strains and deflections of the beam. Beams are characterized by their manner of support, profile (shape of cross-section), equilibrium conditions, length, and their material.
+Beams are traditionally descriptions of building or civil engineering structural elements, where the beams are horizontal and carry vertical loads. However, any structure may contain beams, for instance automobile frames, aircraft components, machine frames, and other mechanical or structural systems. In these structures, any structural element, in any orientation, that primarily resists loads applied laterally to the element's axis would be a beam element.
+Historically beams were squared timbers but are also metal, stone, or combinations of wood and metal such as a flitch beam. Beams primarily carry vertical gravitational forces.  They are also used to carry horizontal loads (e.g., loads due to an earthquake or wind or in tension to resist rafter thrust as a tie beam or (usually) compression as a collar beam). The loads carried by a beam are transferred to columns, walls, or girders, which then transfer the force to adjacent structural compression members and eventually to the ground. In light frame construction, joists may rest on beams.
+In engineering, beams are of several types:
+Simply supported – a beam supported on the ends which are free to rotate and have no moment resistance.
+Fixed or encastré (encastrated) – a beam supported on both ends and restrained from rotation.
+Overhanging – a simple beam extending beyond its support on one end.
+Double overhanging – a simple beam with both ends extending beyond its supports on both ends.
+Continuous – a beam extending over more than two supports.
+Cantilever – a projecting beam fixed only at one end.
+Trussed – a beam strengthened by adding a cable or rod to form a truss.
+Beam on spring supports
+Beam on elastic foundationIn the beam equation I is used to represent the second moment of area. It is commonly known as the moment of inertia, and is the sum, about the neutral axis, of dA*r^2, where r is the distance from the neutral axis, and dA is a small patch of area. Therefore, it encompasses not just how much area the beam section has overall, but how far each bit of area is from the axis, squared. The greater I is, the stiffer the beam in bending, for a given material.
+Internally, beams subjected to loads that do not induce torsion or axial loading experience compressive, tensile and shear stresses as a result of the loads applied to them. Typically, under gravity loads, the original length of the beam is slightly reduced to enclose a smaller radius arc at the top of the beam, resulting in compression, while the same original beam length at the bottom of the beam is slightly stretched to enclose a larger radius arc, and so is under tension. Modes of deformation where the top face of the beam is in compression, as under a vertical load, are known as sagging modes and where the top is in tension, for example over a support, is known as hogging. The same original length of the middle of the beam, generally halfway between the top and bottom, is the same as the radial arc of bending, and so it is under neither compression nor tension, and defines the neutral axis (dotted line in the beam figure). Above the supports, the beam is exposed to shear stress. There are some reinforced concrete beams in which the concrete is entirely in compression with tensile forces taken by steel tendons. These beams are known as prestressed concrete beams, and are fabricated to produce a compression more than the expected tension under loading conditions. High strength steel tendons are stretched while the beam is cast over them. Then, when the concrete has cured, the tendons are slowly released and the beam is immediately under eccentric axial loads. This eccentric loading creates an internal moment, and, in turn, increases the moment carrying capacity of the beam. They are commonly used on highway bridges.
+The primary tool for structural analysis of beams is the Euler–Bernoulli beam equation.  This equation accurately describes the elastic behaviour of slender beams where the cross sectional dimensions are small compared to the length of the beam.  For beams that are not slender a different theory needs to be adopted to account for the deformation due to shear forces and, in dynamic cases, the rotary inertia.  The beam formulation adopted here is that of Timoshenko and comparative examples can be found in NAFEMS Benchmark Challenge Number 7.  Other mathematical methods for determining the deflection of beams include "method of virtual work" and the "slope deflection method". Engineers are interested in determining deflections because the beam may be in direct contact with a brittle material such as glass. Beam deflections are also minimized for aesthetic reasons. A visibly sagging beam, even if structurally safe, is unsightly and to be avoided. A stiffer beam (high modulus of elasticity and/or one of higher second moment of area) creates less deflection.
+Mathematical methods for determining the beam forces (internal forces of the beam and the forces that are imposed on the beam support) include the "moment distribution method", the force or flexibility method and the direct stiffness method.
+Most beams in reinforced concrete buildings have rectangular cross sections, but a more efficient cross section for a beam is an I or H section which is typically seen in steel construction. Because of the parallel axis theorem and the fact that most of the material is away from the neutral axis, the second moment of area of the beam increases, which in turn increases the stiffness.
+An I-beam is only the most efficient shape in one direction of bending: up and down looking at the profile as an I. If the beam is bent side to side, it functions as an H where it is less efficient. The most efficient shape for both directions in 2D is a box (a square shell); the most efficient shape for bending in any direction, however, is a cylindrical shell or tube. For unidirectional bending, the I or wide flange beam is superior.
+Efficiency means that for the same cross sectional area (volume of beam per length) subjected to the same loading conditions, the beam deflects less.
+Other shapes, like L (angles), C (channels), T-beam and double-T or tubes, are also used in construction when there are special requirements.
+A thin walled beam is a very useful type of beam (structure). The cross section of thin walled beams is made up from thin panels connected among themselves to create closed or open cross sections of a beam (structure). Typical closed sections include round, square, and rectangular tubes. Open sections include I-beams, T-beams, L-beams, and so on. Thin walled beams exist because their bending stiffness per unit cross sectional area is much higher than that for solid cross sections such a rod or bar. In this way, stiff beams can be achieved with minimum weight. Thin walled beams are particularly useful when the material is a composite laminate.  Pioneer work on composite laminate thin walled beams was done by Librescu.
+The torsional stiffness of a beam is greatly influenced by its cross sectional shape.  For open sections, such as I sections, warping deflections occur which, if restrained, greatly increase the torsional stiffness.
+Airy points
+Beam engine
+Building code
+Cantilever
+Classical mechanics
+Deflection (engineering)
+Elasticity (physics) and Plasticity (physics)
+Euler–Bernoulli beam theory
+Finite element method in structural mechanics
+Flexural modulus
+Free body diagram
+Influence line
+Materials science and Strength of materials
+Moment (physics)
+Poisson's ratio
+Post and lintel
+Shear strength
+Statics and Statically indeterminate
+Stress (mechanics) and Strain (materials science)
+Thin-shell structure
+Timber framing
+Truss
+Ultimate tensile strength and Hooke's law
+Yield (engineering)Popov, Egor P. (1968). Introduction to mechanics of solids. Prentice-Hall. ISBN 978-0-13-726159-8.American Wood Council: Free Download Library Wood Construction Data
+Introduction to Structural Design, U. Virginia Dept. Architecture
+Glossary
+Course Sampler Lectures, Projects, Tests
+Beams and Bending review points (follow using next buttons)
+Structural Behavior and Design Approaches lectures (follow using next buttons)
+U. Wisconsin–Stout, Strength of Materials online lectures, problems, tests/solutions, links, software
+Beams I – Shear Forces and Bending Moments

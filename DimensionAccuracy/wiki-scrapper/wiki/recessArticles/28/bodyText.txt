@@ -1,0 +1,52 @@
+
+This is a list of Institute of Standards and Industrial Research of Iran (ISIRI) standards. For a complete and up-to-date list of all the ISIRI standards (more than 14,000, as of February 2011), see the ISIRI Search Index.
+There are separate national committees for developing standards.
+IRIRI2115ISIRI 4243 Permissible sound level and the exhaust system of motor vehicles
+ISIRI 6482 Audible warning devices for motor vehicles
+ISIRI 6484 Speed limitation devices or similar speed limitation on-board systems of certain categories of motor vehicles
+ISIRI 6494 Retro-reflectors for motor vehicles and their trailers
+ISIRI 6505 Direction indicator lamps for motor vehicles and their trailers
+ISIRI 6603 Two-wheeled motorcycles – parking stability of side and center stands
+ISIRI 6651 The end-outline marker lamps, front position (side) lamps, rear position (side) lamps and stop lamps for motor vehicles and their trailers
+ISIRI 6653 motorcycles' engine test code and net power
+ISIRI 6672 motor vehicle headlamps which function as main-beam and/or dippedbeam headlamps and to incandescent electric filament lamps for such headlamps
+ISIRI 6701 Measurements of motorcycles' maximum speed
+ISIRI 6702 Measurements of mopeds' maximum speed
+ISIRI 6703 Test and measurement methods of mopeds' brakes and braking devices
+ISIRI 6704 Test and measurement methods of motorcycles' brakes and braking devices
+ISIRI 6788 Two-wheeled motorcycles – Positioning of lighting and light-signalling devices
+ISIRI 6862 Mopeds' engine test code and net power
+ISIRI 6894 Safety glazing and glazing materials on motor vehicles and their trailers
+ISIRI 6924 The type approval of motor vehicles and their trailers
+ISIRI 7076 Motorcycles-measurement method for moment of inertia
+ISIRI 7077 Motorcycle tyres – Test methods for verifying tyre capabilities
+ISIRI 7078 Motorcycles-measurement method for location of centre of gravity
+ISIRI 7080 Motorcycle tyres – Method of measuring rolling resistance
+ISIRI 7083 Mopeds-measurement method for moment of inertia
+ISIRI 7558 The type approval of two or three-wheel motor vehicles
+ISIRI 8314 Masses and dimensions of two or three-wheel motor vehicles
+ISIRI 8315 Speedometers for two or three-wheel motor vehicles
+ISIRI 8316 Protective devices intended to prevent the unauthorized use of two or three-wheel motor vehicles
+ISIRI 8317 Statutory markings for two or three wheel motor vehicles
+ISIRI 8318 Registration plate of two or three-wheel motor vehicles
+ISIRI 8319 Passenger hand-holds on two-wheel motor vehicles
+ISIRI 13133 Certain components and characteristics of wheeled agricultural or forestry tractors
+ISIRI 13134 Operating space, access to the driving position and the doors and windows of wheeled agricultural or forestry tractors
+ISIRI 13135 The installation, location, operation and identification of the controls of wheeled agricultural or forestry tractors
+ISIRI 13136 Rear-mounted roll over protection structures of narrow-track wheeled agricultural and forestry tractors
+ISIRI 13137 Roll over protection structures mounted in front of the driver's seat on narrowtrack wheeled agricultural and forestry tractors
+ISIRI 13138 The identification of controls, tell-tales and indicators for two- or three-wheel motor vehicles
+ISIRI 13139 Installation of lighting and light-signalling devices on wheeled agricultural and forestry tractors
+ISIRI 13140 Driver's seat on wheeled agricultural or forestry tractors
+ISIRI 13141 Roll-over protection structures of wheeled agricultural or forestry tractors (static testing)
+ISIRI 13142 Driver-perceived noise level of wheeled agricultural or forestry tractors
+ISIRI 13143 Measures to be taken against emission of pollutants from diesel engines for use in wheeled agricultural or forestry tractors
+ISIRI 13144 Certain parts and characteristics of wheeled agricultural or forestry tractors
+ISIRI 13145 Braking devices of wheeled agricultural or forestry tractors
+ISIRI 13146 Steering equipment of wheeled agricultural or forestry tractors
+ISIRI 13150 The component type-approval of lighting and lightsignalling devices on wheeled agricultural or forestry tractors
+ISIRI 13151 Maximum design speed of and load platforms for wheeled agricultural or forestry tractors
+ISIRI 13152 Rear-view mirrors for wheeled agricultural or forestry tractors
+ISIRI 13262 stands for two-wheel motor vehicles
+ISIRI 13263 Braking of two or three-wheel motor vehiclesList of International Organization for Standardization standards
+List of European Union directives

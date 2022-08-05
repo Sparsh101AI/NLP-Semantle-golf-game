@@ -1,0 +1,12 @@
+//www.google.com/search?as_eq=wikipedia&q=%22MTV+Hits%22+British+and+Irish+TV+channel
+//www.google.com/search?tbm=nws&q=%22MTV+Hits%22+British+and+Irish+TV+channel+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22MTV+Hits%22+British+and+Irish+TV+channel&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22MTV+Hits%22+British+and+Irish+TV+channel+-wikipedia
+//scholar.google.com/scholar?q=%22MTV+Hits%22+British+and+Irish+TV+channel
+https://www.jstor.org/action/doBasicSearch?Query=%22MTV+Hits%22+British+and+Irish+TV+channel&acc=on&wc=on
+http://www.mtv.co.uk/mtv-hits
+http://www.mtv.co.uk/mtv-hits
+http://www.mtv.co.uk/music/playlists/mtv-hits-playlist
+http://www.itizaps.net/zapper/mtv-hits-uk.html
+https://en.wikipedia.org/w/index.php?title=Template:Paramount_Networks_EMEAA&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Music_television_in_the_United_Kingdom&action=edit

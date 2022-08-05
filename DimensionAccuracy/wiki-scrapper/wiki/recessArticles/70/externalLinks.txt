@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Petrer&params=38_28_44_N_0_47_48_W_region:ES_type:city(34479)
+http://petrer.es
+http://www.petrer.es/
+http://www.guitarrapetrer.com/
+http://www.petreraldia.com/
+https://en.wikipedia.org/w/index.php?title=Template:Vinalop%C3%B3_Mitj%C3%A0&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Municipalities_in_Alicante&action=edit
+https://viaf.org/viaf/137275526
+https://www.worldcat.org/identities/lccn-n85208947/
+https://d-nb.info/gnd/4535085-1
+https://id.loc.gov/authorities/names/n85208947
+https://en.wikipedia.org/w/index.php?title=Petrer&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Valencia-geo-stub&action=edit

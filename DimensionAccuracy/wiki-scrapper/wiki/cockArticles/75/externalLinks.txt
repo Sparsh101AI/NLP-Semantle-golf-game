@@ -1,0 +1,9 @@
+https://geohack.toolforge.org/geohack.php?pagename=Ettrick,_Scotland&params=55.550016180048_N_2.8400216058043_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Ettrick,_Scotland&params=55.4188_N_3.1708_W_region:GB_type:city(105)
+//geohack.toolforge.org/geohack.php?pagename=Ettrick,_Scotland&params=55.4188_N_3.1708_W_region:GB_type:city(105)
+https://www.ordnancesurvey.co.uk/opendatadownload/products.html
+http://www.scran.ac.uk/database/record.php?usi=000-000-184-919-C
+http://canmore.rcahms.gov.uk/en/site/53087/details/ettrick+bridge/
+http://www.scottish-places.info/features/featurefirst9960.html
+https://en.wikipedia.org/w/index.php?title=Ettrick,_Scotland&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Borders-geo-stub&action=edit

@@ -1,0 +1,12 @@
+STDU Viewer is computer software, a compact viewer for many computer file formats: Portable Document Format (PDF), World Wide Fund for Nature (WWF), DjVu, comic book archive (CBR or CBZ), FB2, ePUB, XML Paper Specification (XPS), Text Compression for Reader (TCR), Mobipocket (MOBI), AZW, multi-page TIFF, text file (TXT), PalmDoc (PDB), Windows Metafile (EMF), Windows Metafile (WMF), bitmap (BMP), Graphics Interchange Format (GIF), JPEG-JPG, Portable Network Graphics (PNG), Photoshop Document (PSD), PiCture eXchang (PCX-DCX). It works under Microsoft Windows, and is free for non-commercial use.
+STDU viewer is developed in the programming language C++.
+STDU Viewer has a tabbed document interface. Current versions allow users to save and restore sessions manually. It displays thumbnails of pages, it can create users' bookmarks, make color adjustments, and change text settings. The program supports three types of search algorithms and all the search results can be displayed in a list.
+The rotation to 90 degrees option is useful for the portrait orientation of monitors. The opened document pages can be exported to text or image.
+The first STDU Viewer was version 1.0.60, released on 13 September 2007. It supported three formats: PDF (including hyperlinks embedded), DjVu, and Tagged Image File Format (TIFF).
+Version 1.0.76 introduced Unicode character support. Version 1.4.7 introduced the Print document function.
+STDU Viewer was appreciated for its feature to read a wide range of ebook formats and can be considered as a replacement for Adobe Acrobat’s reader.
+STDU Viewer was included in the list of top 50 freeware of 2009 and best software for students.
+The program doesn't support formats for online help Microsoft Compiled HTML Help (CHM), Microsoft Reader (LIT), document (DOC), and HyperText Markup Language (HTML). When printing PDF document, a large temporary file is created, so the printing process is slow.
+List of PDF software
+Comparison of image viewers
+List of portable softwareOfficial website

@@ -1,0 +1,460 @@
+Monocotyledons (/ˌmɒnəˌkɒtəˈliːdənz/), commonly referred to as monocots, (Lilianae sensu Chase & Reveal) are grass and grass-like flowering plants (angiosperms), the seeds of which typically contain only one embryonic leaf, or cotyledon. They constitute one of the major groups into which the flowering plants have traditionally been divided; the rest of the flowering plants have two cotyledons and are classified as dicotyledons, or dicots.
+Monocotyledons have almost always been recognized as a group, but with various taxonomic ranks and under several different names. The APG III system of 2009 recognises a clade called "monocots" but does not assign it to a taxonomic rank.
+The monocotyledons include about 60,000 species. The largest family in this group (and in the flowering plants as a whole) by number of species are the orchids (family Orchidaceae), with more than 20,000 species. About half as many species belong to the true grasses (Poaceae), which are economically the most important  family of monocotyledons. Often mistaken for grasses, sedges are also monocots.
+In agriculture the majority of the biomass produced comes from monocotyledons. These include not only major grains (rice, wheat, maize, etc.), but also forage grasses, sugar cane, and the bamboos. Other economically important monocotyledon crops include various palms (Arecaceae), bananas and plantains (Musaceae), gingers and their relatives, turmeric and cardamom (Zingiberaceae), asparagus (Asparagaceae), pineapple (Bromeliaceae), sedges (Cyperaceae) and rushes (Juncaceae), and leeks, onion and garlic (Amaryllidaceae). Many houseplants are monocotyledon epiphytes. Most of the horticultural bulbs, plants cultivated for their blooms, such as lilies, daffodils, irises, amaryllis, cannas, bluebells and tulips, are monocotyledons.
+The monocots or monocotyledons have, as the name implies, a single (mono-) cotyledon, or embryonic leaf, in their seeds. Historically, this feature was used to contrast the monocots with the dicotyledons or dicots which typically have two cotyledons; however modern research has shown that the dicots are not a natural group, and the term can only be used to indicate all angiosperms that are not monocots and is used in that respect here. From a diagnostic point of view the number of cotyledons is neither a particularly useful characteristic (as they are only present for a very short period in a plant's life), nor is it completely reliable. The single cotyledon is only one of a number of modifications of the body plan of the ancestral monocotyledons, whose adaptive advantages are poorly understood, but may have been related to adaption to aquatic habitats, prior to radiation to terrestrial habitats. Nevertheless, monocots are sufficiently distinctive that there has rarely been disagreement as to membership of this group, despite considerable diversity in terms of external morphology. However, morphological features that reliably characterise major clades are rare.
+Thus monocots are distinguishable from other angiosperms both in terms of their uniformity and diversity. On the one hand the organisation of the shoots, leaf structure and floral configuration are more uniform than in the remaining angiosperms, yet within these constraints a wealth of diversity exists, indicating a high degree of evolutionary success. Monocot diversity includes perennial geophytes such as ornamental flowers including orchids (Asparagales); tulips and lilies (Liliales); rosette and succulent epiphytes (Asparagales); mycoheterotrophs (Liliales, Dioscoreales, Pandanales), all in the lilioid monocots; major cereal grains (maize, rice, barley, rye, oats, millet, sorghum and wheat) in the grass family; and forage grasses (Poales) as well as woody tree-like palm trees (Arecales), bamboo, reeds and bromeliads (Poales), bananas and ginger (Zingiberales) in the commelinid monocots, as well as both emergent (Poales, Acorales) and aroids, as well as floating or submerged aquatic plants such as seagrass (Alismatales).
+Organisation, growth and life formsThe most important distinction is their growth pattern, lacking a lateral meristem (cambium) that allows for continual growth in diameter with height (secondary growth), and therefore this characteristic is a basic limitation in shoot construction. Although largely herbaceous, some arboraceous monocots reach great height, length and mass. The latter include agaves, palms, pandans, and bamboos. This creates challenges in water transport that monocots deal with in various ways. Some, such as species of Yucca, develop anomalous secondary growth, while palm trees utilise an anomalous primary growth form described as establishment growth (see Vascular system). The axis undergoes primary thickening, that progresses from internode to internode, resulting in a typical inverted conical shape of the basal primary axis (see Tillich, Figure 1). The limited conductivity also contributes to limited branching of the stems. Despite these limitations a wide variety of adaptive growth forms has resulted (Tillich, Figure 2) from epiphytic orchids (Asparagales) and bromeliads (Poales) to submarine Alismatales (including the reduced Lemnoideae) and mycotrophic Burmanniaceae (Dioscreales) and Triuridaceae (Pandanales). Other forms of adaptation include the climbing vines of Araceae (Alismatales) which use negative phototropism (skototropism) to locate host trees (i.e. the darkest area), while some palms such as Calamus manan (Arecales) produce the longest shoots in the plant kingdom, up to 185 m long. Other monocots, particularly Poales, have adopted a therophyte life form.
+The cotyledon, the primordial Angiosperm leaf consists of a proximal leaf base or hypophyll and a distal hyperphyll. In monocots the hypophyll tends to be the dominant part in contrast to other angiosperms. From these, considerable diversity arises. Mature monocot leaves are generally narrow and linear, forming a sheathing around the stem at its base, although there are many exceptions. Leaf venation is of the striate type, mainly arcuate-striate or longitudinally striate (parallel), less often palmate-striate or pinnate-striate with the leaf veins emerging at the leaf base and then running together at the apices. There is usually only one leaf per node because the leaf base encompasses more than half the circumference. The evolution of this monocot characteristic has been attributed to developmental differences in early zonal differentiation rather than meristem activity (leaf base theory).
+The lack of cambium in the primary root limits its ability to grow sufficiently to maintain the plant. This necessitates early development of roots derived from the shoot (adventitious roots). In addition to roots, monocots develop runners and rhizomes, which are creeping shoots. Runners serve vegetative propagation, have elongated internodes, run on or just below the surface of the soil and in most case bear scale leaves. Rhizomes frequently have an additional storage function and rhizome producing plants are considered geophytes (Tillich, Figure 11). Other geophytes develop bulbs, a short axial body bearing leaves whose bases store food. Additional outer non-storage leaves may form a protective function (Tillich, Figure 12). Other storage organs may be tubers or corms, swollen axes. Tubers may form at the end of underground runners and persist. Corms are short lived vertical shoots with terminal inflorescences and shrivel once flowering has occurred. However, intermediate forms may occur such as in Crocosmia (Asparagales). Some monocots may also produce shoots that grow directly down into the soil, these are geophilous shoots (Tillich, Figure 11) that help overcome the limited trunk stability of large woody monocots.
+FlowersIn nearly all cases the perigone consists of two alternating trimerous whorls of tepals, being homochlamydeous, without differentiation between calyx and corolla. In zoophilous (pollinated by animals) taxa, both whorls are corolline (petal-like). Anthesis (the period of flower opening) is usually fugacious (short lived). Some of the more persistent perigones demonstrate thermonastic opening and closing (responsive to changes in temperature). About two thirds of monocots are zoophilous, predominantly by insects. These plants need to advertise to pollinators and do so by way of phaneranthous (showy) flowers. Such optical signalling is usually a function of the tepal whorls but may also be provided by semaphylls (other structures such as filaments, staminodes or stylodia which have become modified to attract pollinators). However, some monocot plants may have aphananthous (inconspicuous) flowers and still be pollinated by animals. In these the plants rely either on chemical attraction or other structures such as coloured bracts fulfill the role of optical attraction. In some phaneranthous plants such structures may reinforce floral structures. The production of fragrances for olfactory signalling are common in monocots. The perigone also functions as a landing platform for pollinating insects.
+
+Fruit and seedThe embryo consists of a single cotyledon, usually with two vascular bundles.
+The traditionally listed differences between monocots and dicots are as follows. This is a broad sketch only, not invariably applicable, as there are a number of exceptions. The differences indicated are more true for monocots versus eudicots.
+A number of these differences are not unique to the monocots, and, while still useful, no one single feature will infallibly identify a plant as a monocot. For example, trimerous flowers and monosulcate pollen are also found in magnoliids, and exclusively adventitious roots are found in some of the Piperaceae. Similarly, at least one of these traits, parallel leaf veins, is far from universal among the monocots. Broad leaves and reticulate leaf veins, features typical of dicots, are found in a wide variety of monocot families: for example, Trillium, Smilax (greenbriar), Pogonia (an orchid), and the Dioscoreales (yams). Potamogeton and Paris quadrifolia (herb-paris) are examples of monocots with tetramerous flowers. Other plants exhibit a mixture of characteristics. Nymphaeaceae (water lilies) have reticulate veins, a single cotyledon, adventitious roots, and a monocot-like vascular bundle. These examples reflect their shared ancestry. Nevertheless, this list of traits is generally valid, especially when contrasting monocots with eudicots, rather than non-monocot flowering plants in general.
+Monocot apomorphies (characteristics derived during radiation rather than inherited from an ancestral form) include herbaceous habit, leaves with parallel venation and sheathed base, an embryo with a single cotyledon, an atactostele, numerous adventitious roots, sympodial growth, and trimerous (3 parts per whorl) flowers that are pentacyclic (5 whorled) with 3 sepals, 3 petals, 2 whorls of 3 stamens each, and 3 carpels. In contrast, monosulcate pollen is considered an ancestral trait, probably plesiomorphic.
+The distinctive features of the monocots have contributed to the relative taxonomic stability of the group. Douglas E. Soltis and others identify thirteen synapomorphies (shared characteristics that unite monophyletic groups of taxa);
+Monocots have a distinctive arrangement of vascular tissue known as an atactostele in which the vascular tissue is scattered rather than arranged in concentric rings. Collenchyma is absent in monocot stems, roots and leaves. Many monocots are herbaceous and do not have the ability to increase the width of a stem (secondary growth) via the same kind of vascular cambium found in non-monocot woody plants. However, some monocots do have secondary growth; because this does not arise from a single vascular cambium producing xylem inwards and phloem outwards, it is termed "anomalous secondary growth".  Examples of large monocots which either exhibit secondary growth, or can reach large sizes without it, are palms (Arecaceae), screwpines (Pandanaceae), bananas (Musaceae), Yucca, Aloe, Dracaena, and Cordyline.
+The monocots form one of five major lineages of mesangiosperms (core angiosperms), which in themselves form 99.95% of all angiosperms. The monocots and the eudicots, are the largest and most diversified angiosperm radiations accounting for 22.8% and 74.2% of all angiosperm species respectively.
+Of these, the grass family (Poaceae) is the most economically important, which together with the orchids Orchidaceae  account for half of the species diversity, accounting for 34% and 17% of all monocots respectively and are among the largest families of angiosperms. They are also among the dominant members of many plant communities.
+The monocots are one of the major divisions of the flowering plants or angiosperms. They have been recognized as a natural group since the sixteenth century when Lobelius (1571), searching for a characteristic to group plants by, decided on leaf form and their venation. He observed that the majority had broad leaves with net-like venation, but a smaller group were grass-like plants with long straight parallel veins. In doing so he distinguished between the dicotyledons, and the latter (grass-like) monocotyledon group, although he had no formal names for the two groups.
+Formal description dates from John Ray's studies of seed structure in the 17th century. Ray, who is often considered the first botanical systematist, observed the dichotomy of cotyledon structure in his examination of seeds. He reported his findings in a paper read to the Royal Society on 17 December 1674, entitled "A Discourse on the Seeds of Plants".
+ Since this paper appeared a year before the publication of Malpighi's Anatome Plantarum (1675–1679), Ray has the priority. At the time, Ray did not fully realise the importance of his discovery but progressively developed this over successive publications. And since these were in Latin, "seed leaves" became folia seminalia and then cotyledon, following Malpighi. Malpighi and Ray were familiar with each other's work, and Malpighi in describing the same structures had introduced the term cotyledon, which Ray adopted in his subsequent writing.
+ In this experiment, Malpighi also showed that the cotyledons were critical to the development of the plant, proof that Ray required for his theory. In his Methodus plantarum nova Ray also developed and justified the "natural" or pre-evolutionary approach to classification, based on characteristics selected a posteriori in order to group together taxa that have the greatest number of shared characteristics. This approach, also referred to as polythetic would last till evolutionary theory enabled Eichler to develop the phyletic system that superseded it in the late nineteenth century, based on an understanding of the acquisition of characteristics. He also made the crucial observation Ex hac seminum divisione sumum potest generalis plantarum distinctio, eaque meo judicio omnium prima et longe optima, in eas sci. quae plantula seminali sunt bifolia aut διλόβω, et quae plantula sem. adulta analoga. (From this division of the seeds derives a general distinction amongst plants, that in my judgement is first and by far the best, into those seed plants which are bifoliate, or bilobed, and those that are analogous to the adult), that is between monocots and dicots. He illustrated this by quoting from Malpighi and including reproductions of Malpighi's drawings of cotyledons (see figure). Initially Ray did not develop a classification of flowering plants (florifera) based on a division by the number of cotyledons, but developed his ideas over successive publications, coining the terms Monocotyledones and Dicotyledones in 1703, in the revised version of his Methodus (Methodus plantarum emendata), as a primary method for dividing them, Herbae floriferae, dividi possunt, ut diximus, in Monocotyledones & Dicotyledones (Flowering plants, can be divided, as we have said, into Monocotyledons & Dicotyledons).
+Although Linnaeus (1707–1778) did not utilise Ray's discovery, basing his own classification solely on floral reproductive morphology, the term was used shortly after his classification appeared (1753) by Scopoli and who is credited for its introduction. Every taxonomist since then, starting with De Jussieu and De Candolle, has used Ray's distinction as a major classification characteristic. In De Jussieu's system (1789), he followed Ray, arranging his Monocotyledones into three classes based on stamen position and placing them between Acotyledones and Dicotyledones. De Candolle's system (1813) which was to predominate thinking through much of the 19th century used a similar general arrangement, with two subgroups of his Monocotylédonés (Monocotyledoneae). Lindley (1830) followed De Candolle in using the terms Monocotyledon and Endogenae interchangeably. They considered the monocotyledons to be a group of  vascular plants (Vasculares) whose vascular bundles were thought to arise from within (Endogènes or endogenous).
+Monocotyledons remained in a similar position as a major division of the flowering plants throughout the nineteenth century, with minor variations. George Bentham and Hooker (1862–1883) used Monocotyledones, as would Wettstein, while August Eichler used Mononocotyleae and Engler, following de Candolle, Monocotyledoneae. In the twentieth century, some authors used alternative names such as Bessey's (1915) Alternifoliae and Cronquist's (1966) Liliatae. Later (1981) Cronquist changed Liliatae to Liliopsida, usages also adopted by Takhtajan simultaneously. Thorne (1992) and Dahlgren (1985) also used Liliidae as a synonym.
+Taxonomists had considerable latitude in naming this group, as the Monocotyledons were a group above the rank of family. Article 16 of the ICBN allows either a descriptive botanical name or a name formed from the name of an included family.
+In summary they have been variously named, as follows:
+class Monocotyledoneae in the de Candolle system and the Engler system
+class Monocotyledones in the Bentham & Hooker system and the Wettstein system
+class Monocotyleae in the Eichler system
+class Liliatae then Liliopsida in the Takhtajan system and the Cronquist system
+subclass Liliidae in the Dahlgren system and the Thorne systemOver the 1980s, a more general review of the classification of angiosperms was undertaken. The 1990s saw considerable progress in plant phylogenetics and cladistic theory, initially based on rbcL gene sequencing and cladistic analysis, enabling a phylogenetic tree to be constructed for the flowering plants. The establishment of major new clades necessitated a departure from the older but widely used classifications such as Cronquist and Thorne, based largely on morphology rather than genetic data. These developments complicated discussions on plant evolution and necessitated a major taxonomic restructuring.
+This DNA based molecular phylogenetic research confirmed on the one hand that the monocots remained as a well defined monophyletic group or clade, in contrast to the other historical divisions of the flowering plants, which had to be substantially reorganized. No longer could the angiosperms be simply divided into monocotyledons and dicotyledons; it was apparent that the monocotyledons were but one of a relatively large number of defined groups within the angiosperms. Correlation with morphological criteria showed that the defining feature was not cotyledon number but the separation of angiosperms into two major pollen types, uniaperturate (monosulcate and monosulcate-derived) and triaperturate (tricolpate and tricolpate-derived), with the monocots situated within the uniaperturate groups. The formal taxonomic ranking of Monoctyledons thus became replaced with monocots as an informal clade. This is the name that has been most commonly used since the publication of the Angiosperm Phylogeny Group (APG) system in 1998 and regularly updated since.
+Within the angiosperms, there are two major grades, a small early branching basal grade, the basal angiosperms (ANA grade) with three lineages and a larger late branching grade, the core angiosperms (mesangiosperms) with five lineages, as shown in the cladogram.
+
+
+Cladogram I: Phylogenetic position of the monocots within the angiosperms in APG IV (2016)
+
+
+
+
+
+
+angiosperms
+
+
+
+
+
+ 
+
+
+Amborellales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Nymphaeales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Austrobaileyales
+
+
+
+ 
+
+
+      
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+magnoliids
+
+
+
+ 
+
+
+ 
+
+
+Chloranthales
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+monocots
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Ceratophyllales
+
+
+
+ 
+
+
+ 
+
+
+eudicots
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+basal angiosperms
+core angiosperms
+
+While the monocotyledons have remained extremely stable in their outer borders as a well-defined and coherent monophylectic group, the deeper internal relationships have undergone considerable flux, with many competing classification systems over time.
+Historically, Bentham (1877), considered the monocots to consist of four alliances, Epigynae, Coronariae, Nudiflorae and Glumales, based on floral characteristics. He describes the attempts to subdivide the group since the days of Lindley as largely unsuccessful. Like most subsequent classification systems it failed to distinguish between two major orders, Liliales and Asparagales, now recognised as quite separate. A major advance in this respect was the work of Rolf Dahlgren (1980), which would form the basis of the Angiosperm Phylogeny Group's (APG) subsequent modern classification of monocot families. Dahlgren who used the alternate name Lilliidae considered the monocots as a subclass of angiosperms characterised by a single cotyledon and the presence of triangular protein bodies in the sieve tube plastids. He divided the monocots into seven superorders, Alismatiflorae, Ariflorae, Triuridiflorae, Liliiflorae, Zingiberiflorae, Commeliniflorae and Areciflorae. With respect to the specific issue regarding Liliales and Asparagales, Dahlgren followed Huber (1969) in adopting a splitter approach, in contrast to the longstanding tendency to view Liliaceae as a very broad sensu lato family. Following Dahlgren's untimely death in 1987, his work was continued by his widow, Gertrud Dahlgren, who published a revised version of the classification in 1989. In this scheme the suffix -florae was replaced with -anae (e.g. Alismatanae) and the number of superorders expanded to ten with the addition of Bromelianae, Cyclanthanae and Pandananae.
+Molecular studies have both confirmed the monophyly of the monocots and helped elucidate relationships within this group. The APG system does not assign the monocots to a taxonomic rank, instead recognizing a monocots clade. However, there has remained some uncertainty regarding the exact relationships between the major lineages, with a number of competing models (including APG).
+The APG system establishes eleven orders of monocots. These form three grades, the alismatid monocots, lilioid monocots and the commelinid monocots by order of branching, from early to late. In the following cladogram numbers indicate crown group (most recent common ancestor of the sampled species of the clade of interest) divergence times in mya (million years ago).
+
+
+Cladogram 2: The phylogenetic composition of the monocots
+
+
+
+
+
+
+monocots (131 MYA)
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+          
+
+
+Acorales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Alismatales
+
+
+
+ 
+
+
+122 MYA
+
+
+
+
+
+          
+
+
+Petrosaviales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+120 MYA
+
+
+
+
+
+ 
+
+
+Dioscoreales (115 MYA)
+
+
+
+ 
+
+
+ 
+
+
+Pandanales (91 MYA)
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Liliales (121 MYA)
+
+
+
+ 
+
+
+121 MYA
+
+
+
+
+
+ 
+
+
+Asparagales (120 MYA)
+
+
+
+ 
+
+
+commelinids (118 MYA)
+
+
+
+
+
+          
+
+
+Arecales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+          
+
+
+Poales
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+          
+
+
+Zingiberales
+
+
+
+ 
+
+
+ 
+
+
+Commelinales
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Lilioid monocots
+Alismatid monocots
+
+Of some 70,000 species, by far the largest number (65%) are found in two families, the orchids and grasses. The orchids (Orchidaceae, Asparagales) contain about 25,000 species and the grasses (Poaceae, Poales) about 11,000. Other well known groups within the Poales order include the Cyperaceae (sedges) and Juncaceae (rushes), and the monocots also include familiar families such as the palms (Arecaceae, Arecales) and lilies (Liliaceae, Liliales).
+In prephyletic classification systems monocots were generally positioned between plants other than angiosperms and dicots, implying that monocots were more primitive. With the introduction of phyletic thinking in taxonomy (from the system of Eichler 1875–1878 onwards) the predominant theory of monocot origins was the ranalean (ranalian) theory, particularly in the work of Bessey (1915), which traced the origin of all flowering plants to a Ranalean type, and reversed the sequence making dicots the more primitive group.
+The monocots form a monophyletic group arising early in the history of the flowering plants, but the fossil record is meagre. The earliest fossils presumed to be monocot remains date from the early Cretaceous period. For a very long time, fossils of palm trees were believed to be the oldest monocots, first appearing 90 million years ago (mya), but this estimate may not be entirely true. At least some putative monocot fossils have been found in strata as old as the eudicots. The oldest fossils that are unequivocally monocots are pollen from the Late Barremian–Aptian – Early Cretaceous period, about 120-110 million years ago, and are assignable to clade-Pothoideae-Monstereae Araceae; being Araceae, sister to other Alismatales. They have also found flower fossils of Triuridaceae (Pandanales) in Upper Cretaceous rocks in New Jersey, becoming the oldest known sighting of saprophytic/mycotrophic habits in angiosperm plants and among the oldest known fossils of monocotyledons.
+Topology of the angiosperm phylogenetic tree could infer that the monocots would be among the oldest lineages of angiosperms, which would support the theory that they are just as old as the eudicots. The pollen of the eudicots dates back 125 million years, so the lineage of monocots should be that old too.
+Kåre Bremer, using rbcL sequences and the mean path length method for estimating divergence times, estimated the age of the monocot crown group (i.e. the time at which the ancestor of today's Acorus diverged from the rest of the group) as 134 million years. Similarly, Wikström et al., using Sanderson's non-parametric rate smoothing approach, obtained ages of 127–141 million years for the crown group of monocots. All these estimates have large error ranges (usually 15-20%), and Wikström et al. used only a single calibration point, namely the split between Fagales and Cucurbitales, which was set to 84 Ma, in the late Santonian period. Early molecular clock studies using strict clock models had estimated the monocot crown age to 200 ± 20 million years ago or 160 ± 16 million years, while studies using relaxed clocks have obtained 135-131 million years or 133.8 to 124 million years. Bremer's estimate of 134 million years has been used as a secondary calibration point in other analyses. Some estimates place the emergence of the monocots as far back as 150 mya in the Jurassic period.
+The age of the core group of so-called 'nuclear monocots' or 'core monocots', which correspond to all orders except Acorales and Alismatales, is about 131 million years to present, and crown group age is about 126 million years to the present. The subsequent branching in this part of the tree (i.e. Petrosaviaceae, Dioscoreales + Pandanales and Liliales clades appeared), including the crown Petrosaviaceae group may be in the period around 125–120 million years BC (about 111 million years so far), and stem groups of all other orders, including Commelinidae would have diverged about or shortly after 115 million years. These and many clades within these orders may have originated in southern Gondwana, i.e. Antarctica, Australasia, and southern South America.
+The aquatic monocots of Alismatales have commonly been regarded as "primitive". They have also been considered to have the most primitive foliage, which were cross-linked as Dioscoreales and Melanthiales. Keep in mind that the "most primitive" monocot is not necessarily "the sister of everyone else". This is because the ancestral or primitive characters are inferred by means of the reconstruction of character states, with the help of the phylogenetic tree. So primitive characters of monocots may be present in some derived groups. On the other hand, the basal taxa may exhibit many morphological autapomorphies. So although Acoraceae is the sister group to the remaining monocotyledons, the result does not imply that Acoraceae is "the most primitive monocot" in terms of its character states. In fact, Acoraceae is highly derived in many morphological characters, and that is precisely why Acoraceae and Alismatales occupied relatively derived positions in the trees produced by Chase et al. and others.
+Some authors support the idea of an aquatic phase as the origin of monocots. The phylogenetic position of Alismatales (many water), which occupy a relationship with the rest except the Acoraceae, do not rule out the idea, because it could be 'the most primitive monocots' but not 'the most basal'. The Atactostele stem, the long and linear leaves, the absence of secondary growth (see the biomechanics of living in the water), roots in groups instead of a single root branching (related to the nature of the substrate), including sympodial use, are consistent with a water source. However, while monocots were sisters of the aquatic Ceratophyllales, or their origin is related to the adoption of some form of aquatic habit, it would not help much to the understanding of how it evolved to develop their distinctive anatomical features: the monocots seem so different from the rest of angiosperms and it's difficult to relate their morphology, anatomy and development and those of broad-leaved angiosperms.
+In the past, taxa which had petiolate leaves with reticulate venation were considered "primitive" within the monocots, because of the superficial resemblance to the leaves of dicotyledons. Recent work suggests that while these taxa are sparse in the phylogenetic tree of monocots, such as fleshy fruited taxa (excluding taxa with aril seeds dispersed by ants), the two features would be adapted to conditions that evolved together regardless. Among the taxa involved were Smilax, Trillium (Liliales), Dioscorea (Dioscoreales), etc. A number of these plants are vines that tend to live in shaded habitats for at least part of their lives, and this fact may also relate to their shapeless stomata. Reticulate venation seems to have appeared at least 26 times in monocots, and fleshy fruits have appeared 21 times (sometimes lost later); the two characteristics, though different, showed strong signs of a tendency to be good or bad in tandem, a phenomenon described as "concerted convergence" ("coordinated convergence").
+The name monocotyledons is derived from the traditional botanical name "Monocotyledones" or Monocotyledoneae in Latin, which refers to the fact that most members of this group have one cotyledon, or embryonic leaf, in their seeds.
+Some monocots, such as grasses, have hypogeal emergence, where the mesocotyl elongates and pushes the coleoptile (which encloses and protects the shoot tip) toward the soil surface. Since elongation occurs above the cotyledon, it is left in place in the soil where it was planted. 
+Many dicots have epigeal emergence, in which the hypocotyl elongates and becomes arched in the soil. As the hypocotyl continues to elongate, it pulls the cotyledons upward, above the soil surface.
+The IUCN Red List describes four species as extinct, four as extinct in the wild, 626 as possibly extinct, 423 as critically endangered, 632 endangered, 621 vulnerable, and 269 near threatened of 4,492 whose status is known.
+Monocots are among the most important plants economically and culturally, and account for most of the staple foods of the world, such as cereal grains and starchy root crops, and palms, orchids and lilies, building materials, and many medicines. Of the monocots, the grasses are of enormous economic importance as a source of animal and human food, and form the largest component of agricultural species in terms of biomass produced.
+Monocotyledon reproduction Data related to Monocots at Wikispecies
+ Media related to Monocots at Wikimedia Commons

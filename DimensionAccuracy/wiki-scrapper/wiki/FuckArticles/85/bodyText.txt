@@ -1,0 +1,159 @@
+Polychaeta (/ˌpɒlɪˈkiːtə/) is a paraphyletic class of generally marine annelid worms, commonly called bristle worms or polychaetes (/ˈpɒlɪˌkiːts/). Each body segment has a pair of fleshy protrusions called parapodia that bear many bristles, called chaetae, which are made of chitin. More than 10,000 species are described in this class.  Common representatives include the lugworm (Arenicola marina) and the sandworm or clam worm Alitta.
+Polychaetes as a class are robust and widespread, with species that live in the coldest ocean temperatures of the abyssal plain, to forms which tolerate the extremely high temperatures near hydrothermal vents. Polychaetes occur throughout the Earth's oceans at all depths, from forms that live as plankton near the surface, to a 2- to 3-cm specimen (still unclassified) observed by the robot ocean probe Nereus at the bottom of the Challenger Deep, the deepest known spot in the Earth's oceans. Only 168 species (less than 2% of all polychaetes) are known from fresh waters.
+Polychaetes are segmented worms, generally less than 10 cm (4 in) in length, although ranging at the extremes from 1 mm (0.04 in) to 3 m (10 ft), in Eunice aphroditois. They can sometimes be brightly coloured, and may be iridescent or even luminescent. Each segment bears a pair of paddle-like and highly vascularized parapodia, which are used for movement and, in many species, act as the worm's primary respiratory surfaces. Bundles of bristles, called chaetae, project from the parapodia.
+However, polychaetes vary widely from this generalised pattern, and can display a range of different body forms. The most generalised polychaetes are those that crawl along the bottom, but others have adapted to many different ecological niches, including burrowing, swimming, pelagic life, tube-dwelling or boring, commensalism, and parasitism, requiring various modifications to their body structures.
+The head, or prostomium, is relatively well developed, compared with other annelids. It projects forward over the mouth, which therefore lies on the animal's underside. The head normally includes two to four pair of eyes, although some species are blind. These are typically fairly simple structures, capable of distinguishing only light and dark, although some species have large eyes with lenses that may be capable of more sophisticated vision, including the Alciopids' complex eyes which rival cephalopod and vertebrate eyes.
+The head also includes a pair of antennae, tentacle-like palps, and a pair of pits lined with cilia, known as "nuchal organs". These latter appear to be chemoreceptors, and help the worm to seek out food.
+The outer surface of the body wall consists of a simple columnar epithelium covered by a thin cuticle. Underneath this, in order, are a thin layer of connective tissue, a layer of circular muscle, a layer of longitudinal muscle, and a peritoneum surrounding the body cavity. Additional oblique muscles move the parapodia. In most species the body cavity is divided into separate compartments by sheets of peritoneum between each segment, but in some species it's more continuous.
+The mouth of polychaetes is located on the peristomium, the segment behind the prostomium, and varies in form depending on their diets, since the group includes predators, herbivores, filter feeders, scavengers, and parasites. In general, however, they possess a pair of jaws and a pharynx that can be rapidly everted, allowing the worms to grab food and pull it into their mouths. In some species, the pharynx is modified into a lengthy proboscis. The digestive tract is a simple tube, usually with a stomach part way along.
+The smallest species, and those adapted to burrowing, lack gills, breathing only through their body surfaces. Most other species have external gills, often associated with the parapodia.
+A simple but well-developed circulatory system is usually present. The two main blood vessels furnish smaller vessels to supply the parapodia and the gut. Blood flows forward in the dorsal vessel, above the gut, and returns down the body in the ventral vessel, beneath the gut. The blood vessels themselves are contractile, helping to push the blood along, so most species have no need of a heart. In a few cases, however, muscular pumps analogous to a heart are found in various parts of the system. Conversely, some species have little or no circulatory system at all, transporting oxygen in the coelomic fluid that fills their body cavities.
+The blood may be colourless, or have any of three different respiratory pigments. The most common of these is haemoglobin, but some groups have haemerythrin or the green-coloured chlorocruorin, instead.
+The nervous system consists of a single or double ventral nerve cord running the length of the body, with ganglia and a series of small nerves in each segment. The brain is relatively large, compared with that of other annelids, and lies in the upper part of the head. An endocrine gland is attached to the ventral posterior surface of the brain, and appears to be involved in reproductive activity. In addition to the sensory organs on the head, photosensitive eye spots, statocysts, and numerous additional sensory nerve endings, most likely in involved with the sense of touch, also occur on the body.
+Polychaetes have a varying number of protonephridia or metanephridia for excreting waste, which in some cases can be relatively complex in structure. The body also contains greenish "chloragogen" tissue, similar to that found in oligochaetes, which appears to function in metabolism, in a similar fashion to that of the vertebrate liver.
+The cuticle is constructed from cross-linked fibres of collagen and may be 200 nm to 13 mm thick. Their jaws are formed from sclerotised collagen, and their setae from sclerotised chitin.
+Polychaetes are extremely variable in both form and lifestyle, and include a few taxa that swim among the plankton or above the abyssal plain. Most burrow or build tubes in the sediment, and some live as commensals.  A few are parasitic.  The mobile forms (Errantia) tend to have well-developed sense organs and jaws, while the stationary forms (Sedentaria) lack them, but may have specialized gills or tentacles used for respiration and deposit or filter feeding, e.g., fanworms.
+Underwater polychaetes have eversible mouthparts used to capture prey. A few groups have evolved to live in terrestrial environments, like Namanereidinae with many terrestrial species, but are restricted to humid areas. Some have even evolved cutaneous invaginations for aerial gas exchange.
+One notable polychaete, the Pompeii worm (Alvinella pompejana), is endemic to the hydrothermal vents of the Pacific Ocean. Pompeii worms are among the most heat-tolerant complex animals known.
+A recently discovered genus, Osedax, includes a species nicknamed the "bone-eating snot flower".
+Another remarkable polychaete is Hesiocaeca methanicola, which lives on methane clathrate deposits.
+Lamellibrachia luymesi is a cold seep tube worm that reaches lengths of over 3 m and may be the most long-lived animal, being over 250 years old.
+A still unclassified multilegged predatory polychaete worm was identified only by observation from the underwater vehicle Nereus at the bottom of the Challenger Deep, the greatest depth in the oceans, near 10,902 m (35,768 ft) in depth. It was about an inch long visually, but the probe failed to capture it, so it could not be studied in detail.
+The Bobbit worm (Eunice aphroditois) is a predatory species that can achieve a length at 3 m (10 ft)), with an average diameter of 25 mm (1 in).Most polychaetes have separate sexes, rather than being hermaphroditic. The most primitive species have a pair of gonads in every segment, but most species exhibit some degree of specialisation. The gonads shed immature gametes directly into the body cavity, where they complete their development. Once mature, the gametes are shed into the surrounding water through ducts or openings that vary between species, or in some cases by the complete rupture of the body wall (and subsequent death of the adult). A few species copulate, but most fertilize their eggs externally.
+The fertilized eggs typically hatch into trochophore larvae, which float among the plankton, and eventually metamorphose into the adult form by adding segments. A few species have no larval form, with the egg hatching into a form resembling the adult, and in many that do have larvae, the trochophore never feeds, surviving off the yolk that remains from the egg.
+However, some polychaetes exhibit remarkable reproductive strategies. Some species reproduce by epitoky. For much of the year, these worms look like any other burrow-dwelling polychaete, but as the breeding season approaches, the worm undergoes a remarkable transformation as new, specialized segments begin to grow from its rear end until the worm can be clearly divided into two halves. The front half, the atoke, is asexual. The new rear half, responsible for breeding, is known as the epitoke. Each of the epitoke segments is packed with eggs and sperm and features a single eyespot on its surface. The beginning of the last lunar quarter is the cue for these animals to breed, and the epitokes break free from the atokes and float to the surface. The eye spots sense when the epitoke reaches the surface and the segments from millions of worms burst, releasing their eggs and sperm into the water.
+A similar strategy is employed by the deep sea worm Syllis ramosa, which lives inside a sponge. The rear end of the worm develops into a "stolon" containing the eggs or sperm; this stolon then becomes detached from the parent worm and rises to the sea surface, where fertilisation takes place.
+Stem-group polychaete fossils are known from the Sirius Passet Lagerstätte, a rich, sedimentary deposit in Greenland tentatively dated to the late Atdabanian (early Cambrian). The oldest found is Phragmochaeta canicularis. Many of the more famous Burgess Shale organisms, such as Canadia, may also have polychaete affinities. Wiwaxia, long interpreted as an annelid, is now considered to represent a mollusc. An even older fossil, Cloudina, dates to the terminal Ediacaran period; this has been interpreted as an early polychaete, although consensus is absent.
+Being soft-bodied organisms, the fossil record of polychaetes is dominated by their fossilized jaws, known as scolecodonts, and the mineralized tubes that some of them secrete. Most important biomineralising polychaetes are serpulids, sabellids, and cirratulids. Polychaete cuticle does have some preservation potential; it tends to survive for at least 30 days after a polychaete's death. Although biomineralisation is usually necessary to preserve soft tissue after this time, the presence of polychaete muscle in the nonmineralised Burgess shale shows this need not always be the case. Their preservation potential is similar to that of jellyfish.
+Taxonomically, polychaetes are thought to be paraphyletic, meaning the group excludes some descendants of its most recent common ancestor.  Groups that may be descended from the polychaetes include the oligochaetes (earthworms and leeches), sipunculans, and echiurans.  The Pogonophora and Vestimentifera were once considered separate phyla, but are now classified in the polychaete family Siboglinidae.
+Much of the classification below matches Rouse & Fauchald, 1998, although that paper does not apply ranks above family.
+Older classifications recognize many more (sub)orders than the layout presented here. As comparatively few polychaete taxa have been subject to cladistic analysis, some groups which are usually considered invalid today may eventually be reinstated.
+These divisions were shown to be mostly paraphyletic in recent years.
+Basal or incertae sedis
+Family Diurodrilidae
+Family Histriobdellidae
+Family Nerillidae
+Family Parergodrilidae
+Family Potamodrilidae
+Family Psammodrilidae
+Family Spintheridae
+Family Protodriloididae
+Family Saccocirridae
+Order Haplodrili
+Order Myzostomida
+Family Endomyzostomatidae
+Family Asteromyzostomatidae
+Family Myzostomidae
+Subclass Palpata
+Family Protodrilidae
+Family Polygordiidae
+Subclass Aciculata
+Family Levidoridae
+Order Amphinomida
+Family Amphinomidae
+Family Euphrosinidae
+Order Eunicida
+Family Dorvilleidae
+Family Eunicidae
+Family Hartmaniellidae
+Family Ichthyotomidae
+Family Lumbrineridae
+Family Oenonidae
+Family Onuphidae
+Order Phyllodocida
+Suborder Aphroditiformia
+Family Acoetidae
+Family Aphroditidae
+Family Eulepethidae
+Family Iphionidae
+Family Pholoidae
+Family Polynoidae
+Family Sigalionidae
+Suborder Glyceriformia
+Family Glyceridae
+Family Goniadidae
+Family Lacydoniidae
+Family Paralacydoniidae
+Suborder Nereidiformia
+Family Antonbruunidae
+Family Chrysopetalidae
+Family Hesionidae
+Family Nereididae
+Family Pilargidae
+Family Syllidae
+Suborder Phyllodocida incertae sedis
+Family Iospilidae
+Family Nautiliniellidae
+Family Nephtyidae
+Family Typhloscolecidae
+Family Tomopteridae
+Suborder Phyllodociformia
+Family Alciopidae
+Family Lopadorhynchidae
+Family Phyllodocidae
+Family Pontodoridae
+Subclass Sedentaria
+Family Chaetopteridae
+Infraclass Canalipalpata
+Order Sabellida
+Family Caobangidae
+Family Fabriciidae
+Family Oweniidae
+Family Sabellariidae
+Family Sabellidae
+Family Serpulidae
+Family Siboglinidae (formerly the phyla Pogonophora & Vestimentifera)
+Order Spionida
+Suborder Spioniformia
+Family Apistobranchidae
+Family Longosomatidae
+Family Magelonidae
+Family Poecilochaetidae
+Family Spionidae
+Family Trochochaetidae
+Family Uncispionidae
+Order Terebellida
+Suborder Cirratuliformia
+Family Acrocirridae (sometimes placed in Spionida)
+Family Cirratulidae (sometimes placed in Spionida)
+Family Ctenodrilidae (sometimes own suborder Ctenodrilida)
+Family Fauveliopsidae (sometimes own suborder Fauveliopsida)
+Family Flabelligeridae (sometimes suborder Flabelligerida)
+Family Flotidae (sometimes included in Flabelligeridae)
+Family Poeobiidae (sometimes own suborder Poeobiida or included in Flabelligerida)
+Family Sternaspidae (sometimes own suborder Sternaspida)
+Suborder Terebellomorpha
+Family Alvinellidae
+Family Ampharetidae
+Family Pectinariidae
+Family Terebellidae
+Family Trichobranchidae
+Infraclass Scolecida
+Family Arenicolidae
+Family Capitellidae
+Family Cossuridae
+Family Maldanidae
+Family Opheliidae
+Family Orbiniidae
+Family Paraonidae
+Family Scalibregmatidae
+Order Capitellida (nomen dubium)
+Order Cossurida (nomen dubium)
+Order Opheliida (nomen dubium)
+Order Orbiniida (nomen dubium)
+Order Questida (nomen dubium)
+Order Scolecidaformia (nomen dubium)
+Subclass Echiura
+Order Bonelliida
+Family Bonelliidae
+Family Ikedidae
+Order Echiurida
+Family Echiuridae
+Family Thalassematidae
+Family UrechidaeAelosoma
+Edith Berkeley
+AustralonuphisCampbell, Reece, and Mitchell. Biology. 1999.
+Rouse, Greg W.; Fauchald, Kristian (1998). "Recent views on the status, delineation, and classification of the Annelida". American Zoologist. 38 (6): 953–964. doi:10.1093/icb/38.6.953.World Polychaeta Database
+Special issue of Marine Ecology dedicated to polychaetes
+Marine Polychaete Larva, a guide to the marine zooplankton of south eastern Australia
+Key to Families of Polychaetes, Natural History Museum

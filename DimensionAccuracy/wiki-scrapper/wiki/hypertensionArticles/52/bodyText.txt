@@ -1,0 +1,101 @@
+The morpho butterflies comprise many species of Neotropical butterfly under the genus Morpho. This genus includes more than 29 accepted species and 147 accepted subspecies, found mostly in South America, Mexico, and Central America. Morpho wingspans range from 7.5 cm (3.0 in) for M. rhodopteron to 20 cm (7.9 in) for M. hecuba, the imposing sunset morpho. The name morpho, meaning "changed" or "modified", is also an epithet.
+Many names attach to the genus Morpho. The genus has also been divided into subgenera. Hundreds of form, variety, and aberration names are used among Morpho species and subspecies. One lepidopterist includes all such species within a single genus, and synonymized many names in a limited number of species. Two other lepidopterists use a phylogenetic analysis with different nomenclature. Other authorities accept many more species.
+The genus name Morpho comes from an Ancient Greek epithet μορφώ, roughly "the shapely one", for Aphrodite, goddess of love and beauty.
+This list is arranged alphabetically within species groups.
+Subgenus Iphimedeia
+Species group hercules
+Morpho amphitryon Staudinger, 1887
+Morpho hercules (Dalman, 1823) – Hercules morpho
+Morpho richardus Fruhstorfer, 1898 – Richard's morpho
+Species group hecuba
+Morpho cisseis C. Felder & R. Felder, 1860 – Cisseis morpho
+Morpho hecuba (Linnaeus, 1771) – sunset morpho
+Species group telemachus
+Morpho telemachus (Linnaeus, 1758)
+Morpho theseus Deyrolle, 1860 – Theseus morphoSubgenus Iphixibia
+Morpho anaxibia (Esper, 1801)Subgenus Cytheritis
+Species group sulkowskyi
+Morpho sulkowskyi – Sulkowsky's morpho
+Species group lympharis
+Morpho lympharis Butler, 1873 – Lympharis morpho
+Species group rhodopteron
+Morpho rhodopteron Godman & Salvin, 1880
+Species group portis
+Morpho portis (Hübner, [1821])
+Morpho thamyris C. Felder & R. Felder, 1867 – Thamyris morpho – or as a subspecies of M. portis
+Species group zephyritis
+Morpho zephyritis Butler, 1873 – Zephyritis morpho
+Species group aega
+Morpho aega (Hübner, [1822]) – Aega morpho
+Species group adonis
+Morpho eugenia Deyrolle, 1860 – Empress Eugénie morpho
+Morpho marcus (Cramer, 1775)
+Morpho uraneis Bates, 1865Subgenus Balachowskyna
+Morpho aurora – Aurora morphoSubgenus Cypritis
+Species group cypris
+Morpho cypris Westwood, 1851 – Cypris morpho
+Species group rhetenor
+Morpho helena Staudinger, 1890 – Helena blue morpho
+Morpho rhetenor (Cramer, [1775]) – Rhetenor blue morphoSubgenus Pessonia
+Species group polyphemus
+Morpho luna Butler, 1869 or as subspecies Morpho polyphemus luna
+Morpho polyphemus Westwood, [1850] – (Polyphemus) white morpho
+Species group catenaria 
+Morpho catenarius Perry, 1811 or as a subspecies of M. epistrophus
+Morpho epistrophus (Fabricius, 1796) – Epistrophus white morpho
+Morpho laertes (Drury, 1782) may be a synonym of M. epistrophusSubgenus Crasseia
+Species group menelaus
+Morpho amathonte (Deyrolle, 1860) or as a subspecies of M. menelaus
+Morpho didius Hopffer, 1874 – giant blue morpho – or as a subspecies of M. menelaus
+Morpho godarti (Guérin-Méneville, 1844) – Godart's morpho – or as a subspecies of M. menelaus
+Morpho menelaus (Linnaeus, 1758) – Menelaus blue morphoSubgenus Morpho
+Species group deidamia
+Morpho deidamia (Hübner, [1819]) – Deidamia morpho
+Morpho granadensis Felder and Felder, 1867 – Granada morpho – or as a subspecies of M. deidamia
+Species group helenor
+Morpho helenor (Cramer, 1776) – Helenor blue morpho or common blue morpho
+Morpho peleides Kollar, 1850 – Peleides blue morpho, common morpho, or the emperor
+Species group achilles
+Morpho achilles (Linnaeus, 1758) – Achilles morphoUngrouped:
+Morpho absoloni May, 1924
+Morpho athena Otero, 1966
+Morpho niepelti Röber, 1927Many morpho butterflies are colored in metallic, shimmering shades of blues and greens. These colors are not a result of pigmentation, but are an example of iridescence through structural coloration. Specifically, the microscopic scales covering the morpho's wings reflect incident light repeatedly at successive layers, leading to interference effects that depend on both wavelength and angle of incidence/observance. Thus, the colors appear to vary with viewing angle, but they are surprisingly uniform, perhaps due to the tetrahedral (diamond-like) structural arrangement of the scales or diffraction from overlying cell layers. The wide-angle blue reflection property can be explained by exploring the nanostructures in the scales of the morpho butterfly wings. These optically active structures integrate three design principles leading to the wide-angle reflection: Christmas tree-like shaped ridges, alternating lamellae layers (or "branches"), and a small height offset between neighboring ridges. The reflection spectrum is found to be broad (about 90 nm) for alternating layers and can be controlled by varying the design pattern. The Christmas tree-like pattern helps to reduce the directionality of the reflectance by creating an impedance matching for blue wavelengths. In addition, the height offset between neighboring ridges increases the intensity of reflection for a wide range of angles. This structure may be likened to a photonic crystal. The lamellate structure of their wing scales has been studied as a model in the development of biomimetic fabrics, dye-free paints, and anticounterfeit technology used in currency.
+The iridescent lamellae are only present on the dorsal sides of their wings, leaving the ventral sides brown.
+The ventral side is decorated with ocelli (eyespots). In some species, such as M. godarti, the dorsal lamellae are so thin that ventral ocelli can peek through. While not all morphos have iridescent coloration, they all have ocelli. In most species, only the males are colorful, supporting the theory that the coloration is used for intrasexual communication between males. The lamellae reflect up to 70% of light falling on them, including any ultraviolet. The eyes of morpho butterflies are thought to be highly sensitive to UV light, so the males are able to see each other from great distances. Some South American species are reportedly visible to the human eye up to one kilometer away.
+Also, a number of other species exist which are tawny orange or dark brown (for instance M. hecuba and M. telemachus). Some species are white, principal among these being M. catenarius and M. laertes. An unusual species, fundamentally white in coloration, but which exhibits a stunning pearlescent purple and teal iridescence when viewed at certain angles, is the rare M. sulkowskyi. Some Andean species are small and delicate (M. lympharis). Among the metallic blue Morpho species, M. rhetenor stands out as the most iridescent of all, with M. cypris a close second. Indeed, M. cypris is notable in that specimens mounted in entomological collections exhibit color differences across the wings if they are not 'set' perfectly flat. Many species, like M. cypris and M. rhetenor helena have a white stripe pattern on their colored blue wings as well.
+Celebrated author and lepidopterist Vladimir Nabokov described their appearance as "shimmering light-blue mirrors".
+The blue morpho species exhibit sexual dimorphism. In some species (for instance M.adonis, M. eugenia, M. aega, M. cypris, and M. rhetenor), only the males are iridescent blue; the females are disruptively colored brown and yellow. In other species (for instance M. anaxibia, M. godarti, M. didius, M. amathonte, and M. deidamia), the females are partially iridescent, but less blue than the males.
+Morpho butterflies inhabit the primary forests of the Amazon and Atlantic. They also adapted to breed in a wide variety of other forested habitats – for instance, the dry deciduous woodlands of Nicaragua and secondary forests.
+Morphos are found at altitudes between sea level and about 1,400 m (4,600 ft).
+Morphos are diurnal, as males spend the mornings patrolling along the courses of forest streams and rivers. They are territorial and chase any rivals. Morphos typically live alone, excluding in the mating season.
+The genus Morpho is palatable, but some species (such as M. amathonte) are very strong fliers; birds—even species which are specialized for catching butterflies on the wing—find it very hard to catch them. The conspicuous blue coloration shared by most Morpho species may be a case of Müllerian mimicry, or may be 'pursuit aposematism'.
+The eyespots on the undersides of the wings of both males and females may be a form of automimicry in which a spot on the body of an animal resembles an eye of a different animal to deceive potential predator or prey species, to draw a predator's attention away from the most vulnerable body parts, or to appear as an inedible or even dangerous animal.
+Predators include royal flycatchers, jacamars and other insectivorous birds, frogs, and lizards.Morphos have a very distinctive, slow, bouncy flight pattern due to the wing area being enormous relative to the body size.
+The entire life cycle of the morpho butterfly, from egg to death, is about 115 days.
+The larvae hatch from pale-green, dewdrop-like eggs. The caterpillars have reddish-brown bodies with bright lime-green or yellow patches on their backs. Its hairs are irritating to human skin, and when disturbed it secretes a fluid that smells like rancid butter from eversible glands on the thorax. The strong odor is a defense against predators. They feed on a variety of plants. The caterpillar molts five times before entering the pupal stage. The bulbous chrysalis is pale green or jade green and emits a repulsive, ultrasonic sound when touched. It is suspended from a stem or leaf of the food plant.
+The adults live for about two to three weeks. They feed on the fluids of fermenting fruit, decomposing animals, tree sap, fungi, and nutrient-rich mud. They are poisonous to predators due to toxins they sequestered from plants on which they fed as caterpillars.
+The more common blue morphos are reared en masse in commercial breeding programs. The iridescent wings are used in the manufacture of jewelry and as inlay in woodworking. Papered specimens are sold with the abdomen removed to prevent its oily contents from staining the wings. Significant numbers of live specimens are exported as pupae from several Neotropical countries for exhibition in butterfly houses. Unfortunately, due to their irregular flight pattern and size, their wings are frequently damaged when in captivity.
+Morpho larvae, variously according to species and region, feed on Leguminosae, Gramineae, Canellaceae, Guttiferae, Erythroxylaceae, Myrtaceae, Moraceae, Lauraceae, Sapindaceae, Rhamnaceae, Euphorbiaceae, Musaceae, Palmae, Menispermaceae, Tiliaceae, Bignoniaceae, and Menispermaceae.
+According to Penz and DeVries the ancestral diet of larval Satyrinae is Poaceae or other monocots. Many morphos have switched to dicots on several occasions during their evolutionary history, but basal species have retained the monocot diets.
+Morpho butterflies, often very expensive, have always been prized by extremely wealthy collectors. Famous collections include those of the London jeweler Dru Drury and the Dutch merchant Pieter Teyler van der Hulst, the Paris diplomat Georges Rousseau-Decelle, the financier Walter Rothschild, the Romanov Grand Duke Nicholas Mikhailovich of Russia and the, English and German respectively, businessmen James John Joicey and Curt Eisner. In earlier years, Morphos graced cabinets of curiosities "Kunstkamera" and royal cabinets of natural history notably those of Tsar of Russia Peter the Great, the Austrian empress Maria Theresa and Ulrika Eleonora, Queen of Sweden. More famous is Maria Sibylla Merian, who was not wealthy.
+The people along the Rio Negro in Brazil once exploited the territorial habits of the blue morpho (M. menelaus) by luring them into clearings with bright blue decoys. The collected butterfly wings were used as embellishment for ceremonial masks. Adult morpho butterflies feed on the juices of fermenting fruit with which they may also be lured. The butterflies wobble in flight and are easy to catch.
+List of tropical and subtropical moist broadleaf forests ecoregions (Neotropical)
+Tropical Andes
+ArhopalaBilotta, I (1992). "Morfologia comparada da cabeça das especies sulbrasileiras de Morphinae (Lepidoptera,Nymphalidae)". Revista Brasileira de Zoologia. 9 (3–4): 261–271. doi:10.1590/s0101-81751992000200012.
+Bilotta, I (1994). "Morfologia comparada do torax das especies sulbrasileiras de Morphinae (Lepidoptera,Nymphalidae)". Revista Brasileira de Zoologia. 11 (4): 691–713. doi:10.1590/s0101-81751994000400014.
+Bilotta, I (1994). "Morfologia comparada do abdome das especies sulbrasileiras de Morphinae(Lepidoptera, Nymphalidae)". Revista Brasileira de Zoologia. 11 (4): 737–748. doi:10.1590/s0101-81751994000400016.
+Blandin, P. (2007). The Systematics of the Genus Morpho, Lepidoptera Nymphalidae Hillside Books, Canterbury.
+Blandin, P. (1988). The genus Morpho, Lepidoptera Nymphalidae. Part 1. The subgenera Iphimedeia and Schwartzia. Sciences Nat, Venette.
+Blandin, P. (1993). The genus Morpho, Lepidoptera Nymphalidae. Part 2. The subgenera Iphixibia, Cytheritis, Balachowskyna, and Cypritis. Sciences Nat, Venette.
+Blandin, P. (2007). The genus Morpho, Lepidoptera Nymphalidae. Part 3. The Subgenera Pessonia, Grasseia and Morpho and Addenda to Parts 1 & 2. Hillside Books, Canterbury. Blandin The genus Morpho. Pt. 3.
+Fruhstorfer, H. (1912–1913). 6. Familie: Morphidae in Seitz, A. Die Gross-Schmetterlinge der Erde (The Macrolepidoptera of the World) Erde 5: 333–344 (31 May 1912),: 345–352 (5 June 1913),: 353–356 (8 July 1913).[1]
+Penz, C.M.; DeVries, P.J. (2002). "Phylogenetic analysis of Morpho butterflies (Nymphalidae, Morphinae): implications for classification and natural history" (PDF). American Museum Novitates (3374): 1–33. doi:10.1206/0003-0082(2002)374<0001:paombn>2.0.co;2. S2CID 55554335. Archived from the original (PDF) on 2014-03-15.
+Schäffler, Oliver and Frankenbach, Thomas. (2009). Schmetterlinge der Erde Part 30, Nymphalidae XV: Morpho I Keltern: Goecke & Evers ISBN 978-3-937783-44-4 includes Morpho niepelti and M. theseus.
+Schäffler, Oliver and Frankenbach,Thomas, (2010). Schmetterlinge der Erde Part 33, Nymphalidae XVIII: Morpho II Keltern: Goecke & Evers ISBN 978-3-937783-48-2 ISBN 978-3-937783-49-9 Includes M. hercules, M. richardus, M. telemachus, M. amphitryon, M. hecuba, and M. cisseis.
+Takahashi, Mayumi. (1973). Notes on the genus Morpho (Lepidoptera: Morphidae) collected in the Santa Marta mountains, Colombia, South America. Tyô to Ga 24(4): 107–111, 26 figs.[general; ecology; behavior]
+Young, Allen M (1979). "The evolution of eyespots in tropical butterflies in response to feeding on rotting fruit: an hypothesis". Journal of the New York Entomological Society. 87 (1): 66–77.
+Young, A.M.; Muyshondt, A. (1972). "Geographical and ecological expansion in tropical butterflies of the genus Morpho in evolutionary time". Revista de Biología Tropical. 20: 231–264.
+Young, A.M. (1975). "Feeding behavior of Morpho butterflies (Lepidoptera: Nymphalidae: Morphinae) in a seasonal tropical environment". Revista de Biología Tropical. 23: 101–132. Data related to Morpho at Wikispecies
+Beccaloni, G.; Scoble, M.; Kitching, I.; Simonsen, T.; Robinson, G.; Pitkin, B.; Hine, A.; Lyal, C., eds. (2003). "Morpho". The Global Lepidoptera Names Index. Natural History Museum. Retrieved October 1, 2018.
+EOL Taxonomy and images
+Butterflies of America Superb collection of scientific specimen photographs. Many of types

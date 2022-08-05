@@ -1,0 +1,4 @@
+REG1 is an anticoagulation system cosisting of two drugs: pegnivacogin, a single-stranded 31-nucleotide aptamer that binds and inhibits Factor IXa, and anivamersen,  a complementary sequence reversal 15-nucleotide control agent. REG1 mechanism of action It involves inhibition of Factor IXa.
+REG1 is being developed for use in patients undergoing percutaneous coronary intervention and the treatment of acute coronary syndrome. REG1 is associated with severe allergic reactions. In the phase 2b RADAR trial, 12 allergic-like reactions occurred shortly after administration of pegnivacogin in three patients with histories of allergy.
+In one clinical trial, it was found that there was no evidence that REG1 reduced ischaemic events or bleeding compared with bivalirudin.
+

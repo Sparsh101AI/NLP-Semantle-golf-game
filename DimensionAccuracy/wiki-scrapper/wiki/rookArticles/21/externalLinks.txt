@@ -1,0 +1,12 @@
+https://doi.org/10.1111%2F1467-9531.271028
+//www.worldcat.org/issn/1467-9531
+https://api.semanticscholar.org/CorpusID:143449571
+https://doi.org/10.2307%2F586697
+//www.jstor.org/stable/586697
+https://doi.org/10.2307%2F270978
+//www.jstor.org/stable/270978
+http://ibgwww.colorado.edu/~agross/NNSD/prestige%20scores.html
+https://doi.org/10.1016%2F0049-089x%2881%2990011-9
+https://doi.org/10.1177%2F0044118x91022004002
+https://api.semanticscholar.org/CorpusID:144036559
+https://en.wikipedia.org/w/index.php?title=Template:Aspects_of_occupations&action=edit

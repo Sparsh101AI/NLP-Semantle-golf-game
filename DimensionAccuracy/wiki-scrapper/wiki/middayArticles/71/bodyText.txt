@@ -1,0 +1,12 @@
+ArcSoft, Inc. (SSE: 688088) is a photo and video imaging software development company that offers various imaging technologies across devices with major platforms – from smartphones, tablets, PCs, smart TVs, digital cameras to cloud based enterprise solutions.
+Established in 1994, ArcSoft is a private company with 800 employees, including more than 600 scientists and engineers. ArcSoft is headquartered in Fremont, California, with regional commercial and development facilities in Europe and Asia, specifically Taipei, Seoul, Tokyo, Shanghai, Hangzhou, and Nanjing. Michael Deng, ArcSoft's CEO, founded the company with $150.000 in funding from family and friends.
+ArcSoft markets the following desktop and mobile software:
+Perfect365: portrait makeovers
+Closeli and simplicam
+ArcNote: for taking photo notes.TotalMedia Theatre: movie experience on PC (no longer supported)
+ShowBiz:  video editorMediaConverter: converts music, photos, and videos into formats for standalone media players
+Photo+:  photo viewer for Windows and Mac.Panorama Maker: turns photos and videos into panoramas (no longer supported)
+PhotoStudio: for advanced photo editing
+Portrait+: for portrait enhancement
+PhotoImpression: for rich photo editing
+PhotoBase: for basic photo editing

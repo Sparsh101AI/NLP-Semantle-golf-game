@@ -1,0 +1,14 @@
+//geohack.toolforge.org/geohack.php?pagename=Sainte-Foy-la-Grande&params=44.84_N_0.22_E_type:city(2627)_region:FR-NAQ
+//geohack.toolforge.org/geohack.php?pagename=Sainte-Foy-la-Grande&params=44.84_N_0.22_E_type:city(2627)_region:FR-NAQ
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-33402
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-33402
+https://www.chroniquesprotestantesvalleedordogne.org/huguenots-carte.html
+https://en.wikipedia.org/w/index.php?title=Template:Gironde_communes&action=edit
+https://viaf.org/viaf/141950490
+https://www.worldcat.org/identities/lccn-n84223966/
+https://catalogue.bnf.fr/ark:/12148/cb15256451p
+https://data.bnf.fr/ark:/12148/cb15256451p
+https://id.loc.gov/authorities/names/n84223966
+https://musicbrainz.org/area/f4d2676b-91b0-4d79-b992-82db0d02dced
+https://en.wikipedia.org/w/index.php?title=Sainte-Foy-la-Grande&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Gironde-geo-stub&action=edit

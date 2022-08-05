@@ -1,0 +1,15 @@
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_39_7.45_N_87_34_1.24_W_&title=T.J.+O%27Brien+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_34_8.61_N_88_4_39.29_W_&title=Lockport+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_30_12.12_N_88_6_11.04_W_&title=Brandon+Road+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_23_52.66_N_88_16_56.42_W_&title=Dresden+Island+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_19_39.77_N_88_45_4.5_W_&title=Marseille+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=41_19_27.93_N_88_59_10.82_W_&title=Starved+Rock+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=40_37_54.84_N_89_37_29.52_W_&title=Peoria+Lock+and+Dam
+//geohack.toolforge.org/geohack.php?pagename=Illinois_Waterway&params=39_56_21.21_N_90_32_0.69_W_&title=La+Grange+Lock+and+Dam
+//tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=Illinois_Waterway
+//tools.wmflabs.org/kmlexport?article=Illinois_Waterway
+http://www.mvr.usace.army.mil/pdw/nav_study/env_reports/Env8-Ch/8chpt6A.pdf#search='illinois%20waterway%209%20foot'
+https://web.archive.org/web/20110709082025/http://www.mvr.usace.army.mil/pdw/nav_study/env_reports/Env8-Ch/8chpt6A.pdf
+https://web.archive.org/web/20160304123101/http://www.mvr.usace.army.mil/Portals/48/docs/CC/FactSheets/IL/IllinoisWaterway(2015).pdf
+https://www.mvr.usace.army.mil/Missions/Recreation/Illinois-Waterway/
+https://loc.gov/pictures/item/il0920/

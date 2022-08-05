@@ -1,0 +1,13 @@
+Original format & overview
+Description line
+NCBI identifiers
+Sequence representation
+FASTA file
+Filename extension
+Compression
+Encryption
+Extensions
+Working with FASTA files
+See also
+References
+External links

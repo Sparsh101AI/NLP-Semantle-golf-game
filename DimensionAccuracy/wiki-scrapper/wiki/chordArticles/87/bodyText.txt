@@ -1,0 +1,600 @@
+In logic and mathematics, statements 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ are said to be logically equivalent if they have the same truth value in every model. The logical equivalence of 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ is sometimes expressed as 
+
+
+
+p
+≡
+q
+
+
+{\displaystyle p\equiv q}
+
+, 
+
+
+
+p
+::
+q
+
+
+{\displaystyle p::q}
+
+, 
+
+
+
+
+
+E
+
+
+p
+q
+
+
+{\displaystyle {\textsf {E}}pq}
+
+, or 
+
+
+
+p
+
+⟺
+
+q
+
+
+{\displaystyle p\iff q}
+
+, depending on the notation being used.
+However, these symbols are also used for material equivalence, so proper interpretation would depend on the context. Logical equivalence is different from material equivalence, although the two concepts are intrinsically related.
+In logic, many common logical equivalences exist and are often listed as laws or properties. The following tables illustrate some of these.
+
+
+
+
+p
+
+⟹
+
+q
+≡
+¬
+p
+∨
+q
+
+
+{\displaystyle p\implies q\equiv \neg p\vee q}
+
+
+
+
+
+
+p
+
+⟹
+
+q
+≡
+¬
+q
+
+⟹
+
+¬
+p
+
+
+{\displaystyle p\implies q\equiv \neg q\implies \neg p}
+
+
+
+
+
+
+p
+∨
+q
+≡
+¬
+p
+
+⟹
+
+q
+
+
+{\displaystyle p\vee q\equiv \neg p\implies q}
+
+
+
+
+
+
+p
+∧
+q
+≡
+¬
+(
+p
+
+⟹
+
+¬
+q
+)
+
+
+{\displaystyle p\wedge q\equiv \neg (p\implies \neg q)}
+
+
+
+
+
+
+¬
+(
+p
+
+⟹
+
+q
+)
+≡
+p
+∧
+¬
+q
+
+
+{\displaystyle \neg (p\implies q)\equiv p\wedge \neg q}
+
+
+
+
+
+
+(
+p
+
+⟹
+
+q
+)
+∧
+(
+p
+
+⟹
+
+r
+)
+≡
+p
+
+⟹
+
+(
+q
+∧
+r
+)
+
+
+{\displaystyle (p\implies q)\wedge (p\implies r)\equiv p\implies (q\wedge r)}
+
+
+
+
+
+
+(
+p
+
+⟹
+
+q
+)
+∨
+(
+p
+
+⟹
+
+r
+)
+≡
+p
+
+⟹
+
+(
+q
+∨
+r
+)
+
+
+{\displaystyle (p\implies q)\vee (p\implies r)\equiv p\implies (q\vee r)}
+
+
+
+
+
+
+(
+p
+
+⟹
+
+r
+)
+∧
+(
+q
+
+⟹
+
+r
+)
+≡
+(
+p
+∨
+q
+)
+
+⟹
+
+r
+
+
+{\displaystyle (p\implies r)\wedge (q\implies r)\equiv (p\vee q)\implies r}
+
+
+
+
+
+
+(
+p
+
+⟹
+
+r
+)
+∨
+(
+q
+
+⟹
+
+r
+)
+≡
+(
+p
+∧
+q
+)
+
+⟹
+
+r
+
+
+{\displaystyle (p\implies r)\vee (q\implies r)\equiv (p\wedge q)\implies r}
+
+
+
+
+
+p
+
+⟺
+
+q
+≡
+(
+p
+
+⟹
+
+q
+)
+∧
+(
+q
+
+⟹
+
+p
+)
+
+
+{\displaystyle p\iff q\equiv (p\implies q)\wedge (q\implies p)}
+
+
+
+
+
+
+p
+
+⟺
+
+q
+≡
+¬
+p
+
+⟺
+
+¬
+q
+
+
+{\displaystyle p\iff q\equiv \neg p\iff \neg q}
+
+
+
+
+
+
+p
+
+⟺
+
+q
+≡
+(
+p
+∧
+q
+)
+∨
+(
+¬
+p
+∧
+¬
+q
+)
+
+
+{\displaystyle p\iff q\equiv (p\wedge q)\vee (\neg p\wedge \neg q)}
+
+
+
+
+
+
+¬
+(
+p
+
+⟺
+
+q
+)
+≡
+p
+
+⟺
+
+¬
+q
+
+
+{\displaystyle \neg (p\iff q)\equiv p\iff \neg q}
+
+The following statements are logically equivalent:
+If Lisa is in Denmark, then she is in Europe (a statement of the form 
+
+
+
+d
+
+⟹
+
+e
+
+
+{\displaystyle d\implies e}
+
+).
+If Lisa is not in Europe, then she is not in Denmark (a statement of the form 
+
+
+
+¬
+e
+
+⟹
+
+¬
+d
+
+
+{\displaystyle \neg e\implies \neg d}
+
+).Syntactically, (1) and (2) are derivable from each other via the rules of contraposition and double negation.  Semantically, (1) and (2) are true in exactly the same models (interpretations, valuations); namely, those in which either Lisa is in Denmark is false or Lisa is in Europe is true.
+(Note that in this example, classical logic is assumed. Some non-classical logics do not deem (1) and (2) to be logically equivalent.)
+Logical equivalence is different from material equivalence. Formulas 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ are logically equivalent if and only if the statement of their material equivalence (
+
+
+
+p
+
+⟺
+
+q
+
+
+{\displaystyle p\iff q}
+
+)  is a tautology.
+The material equivalence of 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ (often written as 
+
+
+
+p
+↔
+q
+
+
+{\displaystyle p\leftrightarrow q}
+
+) is itself another statement in the same object language as 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+. This statement expresses the idea "'
+
+
+
+p
+
+
+{\displaystyle p}
+
+ if and only if 
+
+
+
+q
+
+
+{\displaystyle q}
+
+'". In particular, the truth value of 
+
+
+
+p
+↔
+q
+
+
+{\displaystyle p\leftrightarrow q}
+
+ can change from one model to another.
+On the other hand, the claim that two formulas are logically equivalent is a statement in metalanguage, which expresses a relationship between two statements 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+. The statements are logically equivalent if, in every model, they have the same truth value.
+Entailment
+Equisatisfiability
+If and only if
+Logical biconditional
+Logical equality
+≡ the iff symbol (U+2261 IDENTICAL TO)
+∷ the a is to b as c is to d symbol (U+2237 PROPORTION)
+⇔ the double struck biconditional (U+21D4 LEFT RIGHT DOUBLE ARROW)
+↔ the bidirectional arrow (U+2194 LEFT RIGHT ARROW)

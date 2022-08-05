@@ -1,0 +1,15 @@
+Modeling approach
+Box–Jenkins model identification
+Stationarity and seasonality
+Detecting stationarity
+Detecting seasonality
+Differencing to achieve stationarity
+Seasonal differencing
+Identify p and q
+Autocorrelation and partial autocorrelation plots
+Box–Jenkins model estimation
+Box–Jenkins model diagnostics
+Assumptions for a stable univariate process
+References
+Further reading
+External links

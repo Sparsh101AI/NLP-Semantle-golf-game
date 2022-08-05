@@ -1,0 +1,81 @@
+The standard atomic weight of a chemical element (symbol Ar°(E) for element "E") is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth.  For example, isotope Cu (Ar = 62.929) constitutes 69% of the copper on Earth, the rest being Cu (Ar = 64.927), so
+
+
+
+
+
+A
+
+r
+
+
+
+°
+
+
+(
+
+29
+
+
+
+Cu
+
+)
+=
+0.69
+×
+62.929
++
+0.31
+×
+64.927
+=
+63.55.
+
+
+{\displaystyle A_{\text{r}}{\text{°}}(_{\text{29}}{\text{Cu}})=0.69\times 62.929+0.31\times 64.927=63.55.}
+
+Because relative isotopic masses are dimensionless quantities, this weighted mean is also dimensionless. It can be converted into a measure of mass (with dimension M) by multiplying it with the dalton, also known as the atomic mass constant.
+Among various variants of the notion of atomic weight (Ar, also known as relative atomic mass) used by scientists, the standard atomic weight (Ar°) is the most common and practical. The standard atomic weight of each chemical element is determined and published by the Commission on Isotopic Abundances and Atomic Weights (CIAAW) of the International Union of Pure and Applied Chemistry (IUPAC) based on natural, stable, terrestrial sources of the element. The definition specifies the use of samples from many representative sources from the Earth, so that the value can widely be used as "the" atomic weight for substances as they are encountered in reality—for example, in pharmaceuticals and scientific research. Non-standardized atomic weights of an element are specific to sources and samples, such as the atomic weight of carbon in a particular bone from a particular archeological site. Standard atomic weight averages such values to the range of atomic weights that a chemist might expect to derive from many random samples from Earth. This range is the rationale for the interval notation given for some standard atomic weight values.
+Of the 118 known chemical elements, 80 have stable isotopes and 84 have this Earth-environment based value. Typically, such a value is, for example helium: Ar°(He) = 4.002602(2). The "(2)" indicates the uncertainty in the last digit shown, to read 4.002602±0.000002. IUPAC also publishes abridged values, rounded to five significant figures. For helium, Ar, abridged°(He) = 4.0026.
+For thirteen elements the samples diverge on this value, because their sample sources have had a different decay history. For example, thallium (Tl) in sedimentary rocks has a different isotopic composition than in igneous rocks and volcanic gases. For these elements, the standard atomic weight is noted as an interval: Ar°(Tl) = [204.38, 204.39]. With such an interval, for less demanding situations, IUPAC also publishes a conventional value. For thallium, Ar, conventional°(Tl) = 204.38.
+The standard atomic weight is a special value of the relative atomic mass. It is defined as the "recommended values" of relative atomic masses of sources in the local environment of the Earth's crust and atmosphere as determined by the IUPAC Commission on Atomic Weights and Isotopic Abundances (CIAAW). In general, values from different sources are subject to natural variation due to a different radioactive history of sources. Thus, standard atomic weights are an expectation range of atomic weights from a range of samples or sources. By limiting the sources to terrestrial origin only, the CIAAW-determined values have less variance, and are a more precise value for relative atomic masses (atomic weights) actually found and used in worldly materials.
+The CIAAW-published values are used and sometimes lawfully required in mass calculations. The values have an uncertainty (noted in brackets), or are an expectation interval (see example in illustration immediately above). This uncertainty reflects natural variability in isotopic distribution for an element, rather than uncertainty in measurement (which is much smaller with quality instruments).
+Although there is an attempt to cover the range of variability on Earth with standard atomic weight figures, there are known cases of mineral samples which contain elements with atomic weights that are outliers from the standard atomic weight range.
+
+For synthetic elements the isotope formed depends on the means of synthesis, so the concept of natural isotope abundance has no meaning. Therefore, for synthetic elements the total nucleon count of the most stable isotope (i.e., the isotope with the longest half-life) is listed in brackets, in place of the standard atomic weight. When the term "atomic weight" is used in chemistry, usually it is the more specific standard atomic weight that is implied. It is standard atomic weights that are used in periodic tables and many standard references in ordinary terrestrial chemistry.
+Lithium represents a unique case where the natural abundances of the isotopes have in some cases been found to have been perturbed by human isotopic separation activities to the point of affecting the uncertainty in its standard atomic weight, even in samples obtained from natural sources, such as rivers.
+An example of why "conventional terrestrial sources" must be specified in giving standard atomic weight values is the element argon. Between locations in the Solar System, the atomic weight of argon varies as much as 10%, due to extreme variance in isotopic composition. Where the major source of argon is the decay of K in rocks, Ar will be the dominant isotope. Such locations include the planets Mercury and Mars, and the moon Titan. On Earth, the ratios of the three isotopes Ar : Ar : Ar are approximately 5 : 1 : 1600, giving terrestrial argon a standard atomic weight of 39.948(1).
+However, such is not the case in the rest of the universe. Argon produced directly, by stellar nucleosynthesis, is dominated by the alpha-process nuclide Ar. Correspondingly, solar argon contains 84.6% Ar (according to solar wind measurements), and the ratio of the three isotopes Ar : Ar : Ar in the atmospheres of the outer planets is 8400 : 1600 : 1. The atomic weight of argon in the Sun and most of the universe, therefore, would be only approximately 36.3.
+Famously, the published atomic weight value comes with an uncertainty. This uncertainty (and related: precision) follows from its definition, the source being "terrestrial and stable". Systematic causes for uncertainty are:
+Measurement limits. As always, the physical measurement is never finite. There is always more detail to be found and read. This applies to every single, pure isotope found. For example, today the mass of the main natural fluorine isotope (fluorine-19) can be measured to the accuracy of eleven decimal places: 18.998403163(6). But a still more precise measurement system could become available, producing more decimals.
+Imperfect mixtures of isotopes. In the samples taken and measured the mix (relative abundance) of those isotopes may vary. For example copper. While in general its two isotopes make out 69.15% and 30.85% each of all copper found, the natural sample being measured can have had an incomplete 'stirring' and so the percentages are different. The precision is improved by measuring more samples of course, but there remains this cause of uncertainty. (Example: lead samples vary so much, it can not be noted more precise than four figures: 207.2)
+Earthly sources with a different history. A source is the greater area being researched, for example 'ocean water' or 'volcanic rock' (as opposed to a 'sample': the single heap of material being investigated). It appears that some elements have a different isotopic mix per source. For example, thallium in igneous rock has more lighter isotopes, while in sedimentary rock it has more heavy isotopes. There is no Earthly mean number. These elements show the interval notation: Ar°(Tl) = [204.38, 204.39]. For practical reasons, a simplified 'conventional' number is published too (for Tl: 204.38).These three uncertainties are accumulative. The published value is a result of all these.
+Modern relative atomic masses (a term specific to a given element sample) are calculated from measured values of atomic mass (for each nuclide) and isotopic composition of a sample. Highly accurate atomic masses are available for virtually all non-radioactive nuclides, but isotopic compositions are both harder to measure to high precision and more subject to variation between samples. For this reason, the relative atomic masses of the 22 mononuclidic elements (which are the same as the isotopic masses for each of the single naturally occurring nuclides of these elements) are known to especially high accuracy.
+The calculation is exemplified for silicon, whose relative atomic mass is especially important in metrology. Silicon exists in nature as a mixture of three isotopes: Si, Si and Si. The atomic masses of these nuclides are known to a precision of one part in 14 billion for Si and about one part in one billion for the others. However the range of natural abundance for the isotopes is such that the standard abundance can only be given to about ±0.001% (see table).
+The calculation is
+Ar(Si) = (27.97693 × 0.922297) + (28.97649 × 0.046832) + (29.97377 × 0.030872) = 28.0854The estimation of the uncertainty is complicated, especially as the sample distribution is not necessarily symmetrical: the IUPAC standard relative atomic masses are quoted with estimated symmetrical uncertainties, and the value for silicon is 28.0855(3). The relative standard uncertainty in this value is 1×10 or 10 ppm. To further reflect this natural variability, in 2010, IUPAC made the decision to list the relative atomic masses of 10 elements as an interval rather than a fixed number.
+The use of the name "atomic weight" has attracted a great deal of controversy among scientists. Objectors to the name usually prefer the term "relative atomic mass" (not to be confused with atomic mass). The basic objection is that atomic weight is not a weight, that is the force exerted on an object in a gravitational field, measured in units of force such as the newton or poundal.
+In reply, supporters of the term "atomic weight" point out (among other arguments) that
+the name has been in continuous use for the same quantity since it was first conceptualized in 1808;
+for most of that time, atomic weights really were measured by weighing (that is by gravimetric analysis) and the name of a physical quantity should not change simply because the method of its determination has changed;
+the term "relative atomic mass" should be reserved for the mass of a specific nuclide (or isotope), while "atomic weight" be used for the weighted mean of the atomic masses over all the atoms in the sample;
+it is not uncommon to have misleading names of physical quantities which are retained for historical reasons, such as
+electromotive force, which is not a force
+resolving power, which is not a power quantity
+molar concentration, which is not a molar quantity (a quantity expressed per unit amount of substance).It could be added that atomic weight is often not truly "atomic" either, as it does not correspond to the property of any individual atom. The same argument could be made against "relative atomic mass" used in this sense.
+IUPAC publishes one formal value for each stable element, called the standard atomic weight. Any updates are published biannually (in uneven years). In 2015, the atomic weight of ytterbium was updated. Per 2017, 14 atomic weights were changed, including argon changing from single number to interval value.
+The value published can have an uncertainty, like for neon: 20.1797(6), or can be an interval, like for boron: [10.806, 10.821].
+Next to these 84 values, IUPAC also publishes abridged values (up to five digits per number only), and for the twelve interval values, conventional values (single number values).
+Symbol Ar is a relative atomic mass, for example from a specific sample. To be specific, the standard atomic weight can be noted as Ar°(E), where (E) is the element symbol.
+The abridged atomic weight, also published by CIAAW, is derived from the standard atomic weight reducing the numbers to five digits (five significant figures). The name does not say 'rounded'.
+Interval borders are rounded downwards for the first (lowmost) border, and upwards for the upward (upmost) border. This way, the more precise original interval is fully covered.
+Examples:
+Calcium: Ar°(Ca) = 40.078(4) → Ar, abridged°(Ca) = 40.078
+Helium: Ar°(He) = 4.002602(2) → Ar, abridged°(He) = 4.0026
+Hydrogen: Ar°(H) = [1.00784, 1.00811] → Ar, abridged°(H) = [1.0078, 1.0082]Fourteen chemical elements – hydrogen, lithium, boron, carbon, nitrogen, oxygen, magnesium, silicon, sulfur, chlorine, argon, bromine, thallium, and lead – have a standard atomic weight that is defined not as a single number, but as an interval. For example, hydrogen has Ar°(H) = [1.00 784, 1.00811]. This notation states that the various sources on Earth have substantially different isotopic constitutions, and uncertainties are incorporated in the two numbers. For these elements, there is not an 'Earth average' constitution, and the 'right' value is not its middle (that would be 1.007975 for hydrogen, with an uncertainty of (±0.000135) that would make it just cover the interval). However, for situations where a less precise value is acceptable, CIAAW has published a single-number conventional atomic weight that can be used for example in trade. For hydrogen, Ar, conventional°(H) = 1.008.
+By using the abridged value, and the conventional value for the thirteen interval values, a short IUPAC-defined value (5 digits plus uncertainty) can be given for all stable elements. In many situations, and in periodic tables, this may be sufficiently detailed.
+International Union of Pure and Applied Chemistry (IUPAC)
+Commission on Isotopic Abundances and Atomic Weights (CIAAW)IUPAC Commission on Isotopic Abundances and Atomic Weights
+Atomic Weights of the Elements 2011

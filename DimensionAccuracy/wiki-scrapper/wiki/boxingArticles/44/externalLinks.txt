@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Needle_Rocks&params=43_39_45_S_146_15_19_E_type:island_region:AU-TAS
+//geohack.toolforge.org/geohack.php?pagename=Needle_Rocks&params=43_39_45_S_146_15_19_E_type:island_region:AU-TAS
+https://web.archive.org/web/20060822190600/http://www.parks.tas.gov.au/IslandCare/southern_islands.pdf
+http://www.parks.tas.gov.au/IslandCare/southern_islands.pdf
+https://en.wikipedia.org/w/index.php?title=Template:South_West_Tasmania&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Islands_of_Tasmania&action=edit
+https://en.wikipedia.org/w/index.php?title=Needle_Rocks&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Tasmania-geo-stub&action=edit

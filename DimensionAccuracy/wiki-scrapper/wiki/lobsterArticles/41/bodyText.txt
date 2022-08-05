@@ -1,0 +1,14 @@
+In enzymology, an aminomuconate-semialdehyde dehydrogenase (EC 1.2.1.32) is an enzyme that catalyzes the chemical reaction
+2-aminomuconate 6-semialdehyde + NAD + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ 2-aminomuconate + NADH + 2 HThe 3 substrates of this enzyme are 2-aminomuconate 6-semialdehyde, NAD, and H2O, whereas its 3 products are 2-aminomuconate, NADH, and H.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the aldehyde or oxo group of donor with NAD+ or NADP+ as acceptor. This enzyme participates in 3 metabolic pathways: benzoic acid degradation via hydroxylation, tryptophan metabolism, and the degradation pathway for toluene and xylene.
+The systematic name of this enzyme class is 2-aminomuconate-6-semialdehyde:NAD+ 6-oxidoreductase. Other names in common use include 2-aminomuconate semialdehyde dehydrogenase, 2-hydroxymuconic acid semialdehyde dehydrogenase, 2-hydroxymuconate semialdehyde dehydrogenase, alpha-aminomuconic epsilon-semialdehyde dehydrogenase, alpha-hydroxymuconic epsilon-semialdehyde dehydrogenase, and 2-hydroxymuconic semialdehyde dehydrogenase.
+

@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Histopathology&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Histopathology%22
+//www.google.com/search?tbm=nws&q=%22Histopathology%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Histopathology%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Histopathology%22+-wikipedia
+//scholar.google.com/scholar?q=%22Histopathology%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Histopathology%22&acc=on&wc=on
+https://web.archive.org/web/20160706103818/http://www.mwap.co.uk/path_staining.html
+http://www.mwap.co.uk/path_staining.html
+https://www.scribd.com/doc/4448747/Perl
+http://www.pathol.uzh.ch/histologiekurs/
+http://screening.iarc.fr/atlashisto.php
+https://archive.today/20121212193437/http://www.path.uiowa.edu/virtualslidebox/iowa_histopathology/content_index_db.html
+https://en.wikipedia.org/w/index.php?title=Template:Pathology&action=edit

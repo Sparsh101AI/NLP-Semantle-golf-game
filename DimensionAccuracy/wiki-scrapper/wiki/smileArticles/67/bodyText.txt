@@ -1,0 +1,18 @@
+Protease inhibitors (PIs) are medications that act by interfering with enzymes that cleave proteins. Some of the most well known are antiviral drugs widely used to treat HIV/AIDS and hepatitis C. These protease inhibitors prevent viral replication by selectively binding to viral proteases (e.g. HIV-1 protease) and blocking proteolytic cleavage of protein precursors that are necessary for the production of infectious viral particles.
+Protease inhibitors that have been developed and are currently used in clinical practice include:
+Given the specificity of the target of these drugs there is the risk, like with antibiotics, of the development of drug-resistant mutated viruses. To reduce this risk, it is common to use several different drugs together that are each aimed at different targets.
+Protease inhibitors were the second class of antiretroviral drugs developed. The first members of this class, saquinavir, ritonavir, and indinavir, were approved in late 1995–1996. Within 2 years, annual deaths from AIDS in the United States fell from over 50,000 to approximately 18,000 Prior to this the annual death rate had been increasing by approximately 20% each year.
+A drug combination targeting SARS-CoV-2 from Pfizer, Paxlovid, was approved on December 22, 2021. It is a combination of nirmatrelvir, a protease inhibitor targeted to SARS-CoV-2's 3C-like protease, and ritonavir to inhibit nirmatrelvir's metabolism
+Protease inhibitors also are used to treat Hepatitis C.
+Researchers are investigating the use of protease inhibitors developed for HIV treatment as anti-protozoals for use against malaria and gastrointestinal protozoal infections:
+A combination of ritonavir and lopinavir was found to have some effectiveness against Giardia infection.
+The drugs saquinavir, ritonavir, and lopinavir have been found to have anti-malarial properties.
+A cysteine protease inhibitor drug was found to cure Chagas disease in mice.Researchers are investigating whether protease inhibitors could possibly be used to treat cancer. For example, nelfinavir and atazanavir are able to kill tumor cells in culture (in a Petri dish). This effect has not yet been examined in humans; but studies in laboratory mice have shown that nelfinavir is able to suppress the growth of tumors in these animals, which represents a promising lead towards testing this drug in humans as well.
+Inhibitors of the proteasome, such as bortezomib are now front-line drugs for the treatment of multiple myeloma.
+Tanomastat is one of the matrix metalloproteinase inhibitors that can be used to treat cancer. Batimastat was also well known from Lednicer book.
+Protease inhibitors can cause a syndrome of lipodystrophy, hyperlipidemia, diabetes mellitus type 2, and kidney stones. This lipodystrophy is colloquially known as "Crix belly", after indinavir (Crixivan).
+The Proteolysis Map
+Reverse-transcriptase inhibitor
+Discovery and development of NS5A inhibitors
+Discovery and development of HIV-protease inhibitorsA brief history of the development of protease inhibitors by Hoffman La Roche, Abbott, and Merck
+HIV/AIDS Treatment Guidelines US Department of Health and Human Services

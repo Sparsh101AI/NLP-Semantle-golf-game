@@ -1,0 +1,55 @@
+Nonny de la Peña is an American journalist, documentary filmmaker, and entrepreneur.
+She is the founder and CEO of Emblematic Group, a digital media company focused on immersive virtual, mixed and augmented reality. De la Peña is widely credited with helping create the genre of immersive journalism. She combines Unity graphics with real witness audio to recreate powerful events the user can experience using virtual reality headsets.
+De la Peña was selected by Wired Magazine as #MakeTechHuman Agent of Change and has been called the "Godmother of Virtual Reality" by Forbes, Engadget and The Guardian. Additionally, Fast Company recently listed de la Peña as one of the "13 People Who Made the World More Creative."
+She is also a 2018 New America National Fellow, member of the BAFTA VR Advisory Group, a TED speaker and the 2016 recipient of the Knight Innovation Award.
+A former correspondent for Newsweek magazine, writer for The New York Times and other major news organizations, de la Peña's start in virtual reality began in 2006.
+De la Peña was raised in Venice, California. She attended Harvard University and received a BA in Sociology and Visual and Environmental Studies. She later attended the University of Southern California and received a MA in Online Communities from the Annenberg School for Communication and Journalism and a PhD in Media Arts + Practice from the USC School of Cinematic Arts.
+After graduating from Harvard, de la Peña freelanced in Mexico with the assistance of the Fund of Investigative Journalism. She also worked for Associated Press photo for the 1984 Olympics and 1986 World Cup. De la Peña later joined Time magazine as a stringer before becoming a correspondent for Newsweek in 1987.
+Throughout the early 1990s, de la Peña contributed to several periodicals, including La Familia De Hoy, Caravan and Buzz. In 1991, she was associate producer for the HBO investigative documentary Death on the Job, which was nominated for the Academy Awards' Best Documentary Feature.
+She went on to co-produce CourtTV documentaries 'Chappaquiddick' and 'Death at Ft. Devans' in 1993 and 1994, respectively. During the next few years she also wrote on staff for television series New York Undercover and wrote two pilots for CBS with her writing partner Angel Dean Lopez. One of the pilots was produced by Walter Parkes and Laurie MacDonald who went on to helm DreamWorks.
+De la Peña was also a New York Times freelancer from 2007 to 2010.
+De la Peña established Pyedog Productions in 1994, following her role as associate producer for the Academy Award nominated film Death on the Job. The studio focused on feature-length documentaries surrounding social and cultural impact stories, including Unconstitutional: The War on Our Civil Liberties, The Jaundiced Eye and Mama/MAMA.
+In the mid-2000s, de la Peña began development on virtual reality pieces Gone Gitmo and Hunger in Los Angeles, the company would eventually be rebranded as Emblematic Group in 2007.
+In 2007, de la Peña collaborated with digital media artist Peggy Weil to bring a portion of the 2004 Pyedog documentary Unconstitutional: The War on Our Civil Liberties into an immersive environment called 'Gone Gitmo.' With a grant from the Bay Area Video Coalition and the MacArthur Foundation, they ported the Guantanamo Bay sequence to simulation video game Second Life to construct a virtual prison, allowing users to be incarcerated and subjected to torture techniques.
+'Gone Gitmo' went on to be featured in New Scientist, Vanity Fair, Der Spiegel, and Chronicle of Higher Education. It was also the cover story for the International Documentary Magazine in March 2009 and was later installed at Laboral in Gijon, Spain for "The Angel of History" exhibit, co-curated by Whitney Museum of Art. In June 2013, 'Gone Gitmo' was exhibited at the Moscow Museum of Modern Art.
+As a senior research fellow at USC in 2009, de la Peña began experimenting with virtual reality headsets. By 2010, she started work on 'Hunger in Los Angeles,' an offshoot of the USC and Center for Investigative Journalism project 'Hunger in the Golden State.' With the help of her intern Michaela Kobsa-Mark and USC's Mixed Reality Lab, de la Peña built the VR piece.
+'Hunger in Los Angeles' became the first-ever VR documentary to be showcased at the Sundance Film Festival in January 2012. To ensure a headset for the event, Palmer Luckey, then a part-time employee of the MxR lab, was commissioned to create goggles for the Sundance premiere. Nine months later, Luckey started Oculus Rift.
+Established in 2007 by de la Peña, Emblematic Group has created high impact virtual reality content with an emphasis on linear storytelling. Using cutting-edge technologies, the group strives to tell stories that create empathic engagement on the part of viewers. Emblematic has also been commissioned for branded content and utilized an experimental volumetric capture platform.
+Greenland Melting: The second PBS Frontline collaboration documents the drastic changes to Greenland's landscape and climate. 'Greenland Melting' 360° video premiered in June 2017, while the room-scale version was one of the first VR films to premiere at the Venice Film Festival that same year.
+After Solitary: The first collaboration with PBS Frontline tells the story of Kenny Moore, a recently released inmate from the Maine State Prison. Using photogrammetry and volumetric video capture, 'After Solitary' allows the viewer to step inside a solitary confinement cell. It premiered at SXSW 2017 and won a Jury Award, and also received the Ars Technica Room-Scale award.
+Out of Exile: Based on the religious intervention Daniel Ashley Pierce experienced when his family confronted him about his sexual orientation. The piece recreates the event using audio recorded by Pierce the night of the confrontation. 'Out of Exile' was co-produced by actress Sara Ramirez (Grey's Anatomy), funded by the True Colors Foundation and premiered at Sundance 2017.
+We Who Remain: In collaboration with The New York Times, Nuba Reports, AJ+ and Arte, 'We Who Remain' is the first VR film shot in an active conflict zone. The audience is ushered into the heart of the war where students, mothers, journalists and rebels struggle to improve their daily lives amid combat that shows no sign of ending. It debuted at SXSW and on NYT VR in 2017.
+Kiya: Commissioned by Al Jazeera America as a VR companion to the Fault Lines documentary 'Death in Plain Sight.' The piece charts a harrowing episode in which two sisters attempt to save a third from being shot by her ex-boyfriend. 'Kiya' premiered at TEDWomen in 2015 and was picked by The New York Times for the inaugural selection of VR films at Sundance 2016.
+Use of Force: Funded by Tribeca Film Institute, Google, and the Associated Press is a 5-minute VR recreation of the death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who had lived in the United States for 27 years and had recently been deported. He was severely beaten to death by US border patrol agents in May 2010 at the San Diego-Tijuana border as he attempted to return to his five children and common-wife in the U.S. In Use of Force, viewers witness the event through VR journalism from the viewpoint of bystanders, many of whom had captured the beating on video. In In February 2017, the United States settled a million-dollar lawsuit with Hernández' estate.
+Project Syria: Recreates an instant in the Aleppo district of Syria. The viewer arrives on a street corner. Children are singing and a rocket suddenly hits, causing chaos. The project was commissioned by the World Economic Forum, who used the piece to promote action amongst world leaders.
+Hunger in Los Angeles: Explores the growing issue of hunger in the Los Angeles area. This piece recreates a factual event that occurred in a food-bank line wherein a man suddenly collapses into a diabetic seizure due to hunger. The participant is fully immersed in the experience, feeling as if he or she is an actual witness to the event. This project was commissioned by the University of Southern California and the Institute for Creative Technologies and premiered at the 2012 Sundance Film Festival.Online Journalism Awards: Excellence in Immersive Storytelling – After Solitary (Emblematic, Frontline)
+World VR Forum: Imperial Crown – After Solitary (Emblematic, Frontline)
+Vision VR/AR Summit: Social Impact Award – Out of Exile: Daniel's Story (Emblematic, Atrevida Productions)
+SXSW: VR/Room-Scale Jury Award – After Solitary (Emblematic, Frontline)
+Ars Electronica: Award of Distinction – Out of Exile: Daniel's Story (Emblematic, Atrevida Productions)
+Social Impact Media Awards: Best Sound Experience – Across the Line (Emblematic, 271 Productions)
+Venice Film Festival: Official Selection – Greenland Melting (Emblematic, Frontline, NOVA)
+SXSW: Official Selection – We Who Remain (Emblematic, New York Times, Nuba Reports, Arte, AJ+)
+Sundance Film Festival: Official Selection – Out of Exile (Emblematic, Atrevida Productions)
+Unity Awards: Golden Cube Finalist – After Solitary (Emblematic, Frontline)
+Future of Storytelling Prize: Innovation in Storytelling Finalist – After Solitary (Emblematic, Frontline)Knight Foundation: Innovation Award
+Mirror Awards: i3 Award
+Sundance Film Festival: Official Selection – Kiya (Emblematic)
+Sundance Film Festival: Official Selection – Across the Line (Emblematic, 271 Productions)Center For Conscious Creativity: FutureVision Award – Nonny de la Peña
+My Hero Project: Immersive Storytelling Award – Project Syria (Emblematic)
+SXSW: Official Selection – One Dark Night (Emblematic)
+Tribeca Film Festival: Official Selection – One Dark Night (Emblematic)Indiecade 2014: Impact Award – Use of Force
+World Economic Forum: Official Invitee – Project Syria (Emblematic)
+Sundance Film Festival: Official Selection – Project Syria (Emblematic)
+Tribeca Film Festival: Official Selection – Use of Force (Emblematic)2008
+American Film Institute: Best of International Digital Showcase – Gone Gitmo (Pyedog)2004
+Berkeley Film Festival: Grand Festival Award, Documentaries – Unconstitutional: The War on Our Civil Liberties (Pyedog)
+Sundance Channel: "Best Of" Channel Selection – Unconstitutional: The War on Our Civil Liberties (Pyedog)2003
+Florida Film Festival: Official Selection – Mama/MAMA (Pyedog)
+SXSW: Official Selection – Mama/MAMA (Pyedog)1999
+Toronto Film Festival: Official Selection – The Jaundiced Eye (Pyedog)1994
+Compuserve: Best Use of Platform Award – Chappaquiddick (CourtTV)1992
+Academy Award: Best Documentary Feature Nominee – Death on the Job (HBO)1989
+Genesis Award: 'Animal Rights' (Newsweek)Goodman, Lizzy (January 31, 2012). ""Hunger In L.A." Immerses Viewers In An Interactive Journalism Experience (And A Food Line)". Co.Create. Fast Company. Retrieved October 24, 2014. Interview with de la Peña
+https://www.theverge.com/2016/1/25/10826384/sundance-2016-nonny-de-la-pena-virtual-reality-interview
+https://www.engadget.com/2015/01/24/the-godmother-of-virtual-reality-nonny-de-la-pena/Nonny de la Peña at IMDb

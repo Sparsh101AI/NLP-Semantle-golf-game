@@ -1,0 +1,24 @@
+History
+Hahn–Banach theorem
+For complex or real vector spaces
+Proof
+In locally convex spaces
+Geometric Hahn–Banach (the Hahn–Banach separation theorems)
+Supporting hyperplanes
+Balanced or disked neighborhoods
+Applications
+Partial differential equations
+Characterizing reflexive Banach spaces
+Example from Fredholm theory
+Generalizations
+For seminorms
+Geometric separation
+Maximal dominated linear extension
+Vector valued Hahn–Banach
+For nonlinear functions
+Converse
+Relation to axiom of choice and other theorems
+See also
+Notes
+References
+Bibliography

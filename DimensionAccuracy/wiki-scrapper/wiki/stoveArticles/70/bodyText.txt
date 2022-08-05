@@ -1,0 +1,10 @@
+FTAM, ISO standard 8571, is the OSI application layer protocol for file transfer, access and management.
+The goal of FTAM is to combine into a single protocol both file transfer, similar in concept to the Internet FTP, as well as remote access to open files, similar to NFS. However, like the other OSI protocols, FTAM has not been widely adopted, and the TCP/IP based Internet has become the dominant global network.
+The FTAM protocol was used in the German banking sector to transfer clearing information. The Banking Communication Standard (BCS) over FTAM access (short BCS-FTAM) was standardized in the DFÜ-Abkommen (EDI-agreement) enacted in Germany on 15 March 1995. The BCS-FTAM transmission protocol was supposed to be replaced by the Electronic Banking Internet Communication Standard (EBICS) in 2010. The obligatory support for BCS over FTAM was ceased in December 2010.
+RFC 1415 provides an FTP-FTAM gateway specification but attempts to define an Internet-scale file transfer protocol have instead focused on Server message block, NFS or Andrew File System as models.
+ISO 8571, Information processing systems — Open Systems Interconnection — File Transfer, Access and Management, is split into five parts:
+ISO 8571-1:1988 Part 1: General introduction
+ISO 8571-2:1988 Part 2: Virtual Filestore Definition
+ISO 8571-3:1988 Part 3: File Service Definition
+ISO 8571-4:1988 Part 4: File Protocol Specification
+ISO/IEC 8571-5:1990 Part 5: Protocol Implementation Conformance Statement Proforma

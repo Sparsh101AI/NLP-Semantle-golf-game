@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Lod_(crater)&params=20.98_N_328.46_E_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Lod_(crater)&params=20.98_N_328.46_E_globe:mars_type:landmark
+http://planetarynames.wr.usgs.gov/Feature/3446
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Lod_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mars-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Lod_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Crater-stub&action=edit

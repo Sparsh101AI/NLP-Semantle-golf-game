@@ -1,0 +1,102 @@
+Kip Stephen Thorne (born June 1, 1940) is an American theoretical physicist known for his contributions in gravitational physics and astrophysics. A longtime friend and colleague of Stephen Hawking and Carl Sagan, he was the Richard P. Feynman Professor of Theoretical Physics at the California Institute of Technology (Caltech) until 2009 and is one of the world's leading experts on the astrophysical implications of Einstein's general theory of relativity. He continues to do scientific research and scientific consulting,  most notably for the Christopher Nolan film Interstellar. Thorne was awarded the 2017 Nobel Prize in Physics along with Rainer Weiss and Barry C. Barish "for decisive contributions to the LIGO detector and the observation of gravitational waves".
+Thorne was born on June 1, 1940, in Logan, Utah. His father, D. Wynne Thorne (1908–1979), was a professor of soil chemistry at Utah State University, and his mother, Alison (née Comish; 1914–2004), was an economist and the first woman to receive a Ph.D. in economics from Iowa State College. Raised in an academic environment, two of his four siblings also became professors. Thorne's parents were members of The Church of Jesus Christ of Latter-day Saints (LDS Church) and raised Thorne in the LDS faith, though he now describes himself as atheist.  Regarding his views on science and religion, Thorne has stated: "There are large numbers of my finest colleagues who are quite devout and believe in God .... There is no fundamental incompatibility between science and religion.  I happen to not believe in God."
+Thorne rapidly excelled at academics early in life, winning recognition in the Westinghouse Science Talent Search as a senior at Logan High School. He received his B.S. degree from the California Institute of Technology (Caltech) in 1962, and his Ph.D. from Princeton University in 1965 under the supervision of John Archibald Wheeler with a doctoral dissertation entitled "Geometrodynamics of Cylindrical Systems".
+Thorne returned to Caltech as an associate professor in 1967 and became a professor of theoretical physics in 1970, becoming one of the youngest full professors in the history of Caltech at age 30. He became the William R. Kenan, Jr. Professor in 1981, and the Feynman Professor of Theoretical Physics in 1991. He was an adjunct professor at the University of Utah from 1971 to 1998 and Andrew D. White Professor at Large at Cornell University from 1986 to 1992. In June 2009, he resigned his Feynman Professorship (he is now the Feynman Professor of Theoretical Physics, Emeritus) to pursue a career of writing and movie making. His first film project was Interstellar, on which he worked with Christopher Nolan and Jonathan Nolan.
+Throughout the years, Thorne has served as a mentor and thesis advisor for many leading theorists who now work on observational, experimental, or astrophysical aspects of general relativity. Approximately 50 physicists have received Ph.D.s at Caltech under Thorne's personal mentorship.
+Thorne is known for his ability to convey the excitement and significance of discoveries in gravitation and astrophysics to both professional and lay audiences. His presentations on subjects such as black holes, gravitational radiation, relativity, time travel, and wormholes have been included in PBS shows in the U.S. and on the BBC in the United Kingdom.
+Thorne and Linda Jean Peterson married in 1960. Their children are Kares Anne and Bret Carter, an architect. Thorne and Peterson divorced in 1977. Thorne and his second wife, Carolee Joyce Winstein, a professor of biokinesiology and physical therapy at USC, married in 1984.
+Thorne's research has principally focused on relativistic astrophysics and gravitation physics, with emphasis on relativistic stars, black holes and especially gravitational waves. He is perhaps best known to the public for his controversial theory that wormholes can conceivably be used for time travel. However, Thorne's scientific contributions, which center on the general nature of space, time, and gravity, span the full range of topics in general relativity.
+Thorne's work has dealt with the prediction of gravitational wave strengths and their temporal signatures as observed on Earth. These "signatures" are of great relevance to LIGO (Laser Interferometer Gravitational Wave Observatory), a multi-institution gravitational wave experiment for which Thorne has been a leading proponent – in 1984, he cofounded the LIGO Project (the largest project ever funded by the NSF) to discern and measure any fluctuations between two or more 'static' points; such fluctuations would be evidence of gravitational waves, as calculations describe. A significant aspect of his research is developing the mathematics necessary to analyze these objects. Thorne also carries out engineering design analyses for features of the LIGO that cannot be developed on the basis of experiment and he gives advice on data analysis algorithms by which the waves will be sought. He has provided theoretical support for LIGO, including identifying gravitational wave sources that LIGO should target, designing the baffles to control scattered light in the LIGO beam tubes, and – in collaboration with Vladimir Braginsky's (Moscow, Russia) research group – inventing quantum nondemolition designs for advanced gravity-wave detectors and ways to reduce the most serious kind of noise in advanced detectors: thermoelastic noise. With Carlton M. Caves, Thorne invented the back-action-evasion approach to quantum nondemolition measurements of the harmonic oscillators – a technique applicable both in gravitational wave detection and quantum optics.
+On February 11, 2016, a team of four physicists representing the LIGO Scientific Collaboration, announced that in September 2015, LIGO recorded the signature of two black holes colliding 1.3 billion light-years away.  This recorded detection was the first direct observation of the fleeting chirp of a gravitational wave and confirmed an important prediction of Einstein's general theory of relativity.
+While he was studying for his Ph.D. in Princeton University, his mentor John Wheeler gave him an assignment problem for him to think over: find out whether or not a cylindrical bundle of repulsive magnetic field lines will implode under its own attractive gravitational force.  After several months wrestling with the problem, he proved that it was impossible for cylindrical magnetic field lines to implode.
+Why is it that a cylindrical bundle of magnetic field lines will not implode, while spherical stars will implode under their own gravitational force?  Thorne tried to explore the theoretical ridge between the two phenomena.  He found out eventually that the gravitational force can overcome all interior pressure only when an object has been compressed in all directions. To express this realization, Thorne proposed his hoop conjecture, which describes an imploding star turning into a black hole when the critical circumference of the designed hoop can be placed around it and set into rotation. That is, any object of mass M around which a hoop of circumference 
+
+
+
+
+
+
+
+
+
+
+4
+π
+G
+M
+
+
+c
+
+2
+
+
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}{\frac {4\pi GM}{c^{2}}}\end{matrix}}}
+
+ can be spun must be a black hole.
+As a tool to be used in both enterprises, astrophysics and theoretical physics, Thorne and his students have developed an unusual approach, called the "membrane paradigm", to the theory of black holes and used it to clarify the "Blandford-Znajek" mechanism by which black holes may power some quasars and active galactic nuclei.
+Thorne has investigated the quantum statistical mechanical origin of the entropy of a black hole. With his postdoc Wojciech Zurek, he showed that the entropy of a black hole is the logarithm of the number of ways that the hole could have been made.
+With Igor Novikov and Don Page, he developed the general relativistic theory of thin accretion disks around black holes, and using this theory he deduced that with a doubling of its mass by such accretion a black hole will be spun up to 0.998 of the maximum spin allowed by general relativity, but not any farther. This is probably the maximum black-hole spin allowed in nature.
+Thorne and his co-workers at Caltech conducted scientific research on whether the laws of physics permit space and time to be multiply connected (can there exist classical, traversable wormholes and "time machines"?). With Sung-Won Kim, Thorne identified a universal physical mechanism (the explosive growth of vacuum polarization of quantum fields), that may always prevent spacetime from developing closed timelike curves (i.e., prevent backward time travel).
+With Mike Morris and Ulvi Yurtsever, he showed that traversable wormholes can exist in the structure of spacetime only if they are threaded by quantum fields in quantum states that violate the averaged null energy condition (i.e. have negative renormalized energy spread over a sufficiently large region). This has triggered research to explore the ability of quantum fields to possess such extended negative energy. Recent calculations by Thorne indicate that simple masses passing through traversable wormholes could never engender paradoxes – there are no initial conditions that lead to paradox once time travel is introduced. If his results can be generalized, they would suggest that none of the supposed paradoxes formulated in time travel stories can actually be formulated at a precise physical level: that is, that any situation in a time travel story turns out to permit many consistent solutions.
+With Anna Żytkow, Thorne predicted the existence of red supergiant stars with neutron-star cores (Thorne–Żytkow objects). He laid the foundations for the theory of pulsations of relativistic stars and the gravitational radiation they emit. With James Hartle, Thorne derived from general relativity the laws of motion and precession of black holes and other relativistic bodies, including the influence of the coupling of their multipole moments to the spacetime curvature of nearby objects, as well as writing down the Hartle-Thorne metric, an approximate solution which describes the exterior of a slowly and rigidly rotating, stationary and axially symmetric body.
+Thorne has also theoretically predicted the existence of universally antigravitating "exotic matter" – the element needed to accelerate the expansion rate of the universe, keep traversable wormhole "Star Gates" open and keep timelike geodesic free float "warp drives" working. With Clifford Will and others of his students, he laid the foundations for the theoretical interpretation of experimental tests of relativistic theories of gravity – foundations on which Will and others then built. As of 2005, Thorne was interested in the origin of classical space and time from the quantum foam of quantum gravity theory.
+Thorne has written and edited books on topics in gravitational theory and high-energy astrophysics. In 1973, he co-authored the textbook Gravitation with Charles Misner and John Wheeler; that according to John C. Baez and Chris Hillman, is one of the great scientific books of all time and has inspired two generations of students. In 1994, he published Black Holes and Time Warps: Einstein's Outrageous Legacy, a book for non-scientists for which he received numerous awards. This book has been published in six languages, and editions in Chinese, Italian, Czech, and Polish are in press. In 2014, Thorne published The Science of Interstellar in which he explains the science behind Christopher Nolan's film Interstellar; Nolan wrote the foreword to the book. In September 2017, Thorne and Roger D. Blandford published Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, a graduate-level textbook covering the six major areas of physics listed in the title.
+Thorne's articles have appeared in publications such as: 
+Scientific American,
+McGraw-Hill Yearbook of Science and Technology, and
+Collier's Encyclopedia among others.Thorne has published more than 150 articles in scholarly journals.
+Thorne has been elected to:
+the American Academy of Arts and Sciences (1972)
+the National Academy of Sciences,
+the Russian Academy of Sciences, and
+the American Philosophical Society.He has been recognized by numerous awards including: 
+the American Institute of Physics Science Writing Award in Physics and Astronomy,
+the Phi Beta Kappa Science Writing Award,
+the American Physical Society's Lilienfeld Prize,
+the German Astronomical Society's Karl Schwarzschild Medal (1996),
+the Robinson Prize in Cosmology from the University of Newcastle, England,
+the Sigma Xi: The Scientific Research Society's Common Wealth Awards for Science and Invention, and
+the California Science Center's California Scientist of the Year Award (2003).
+the Albert Einstein Medal in 2009 from the Albert Einstein Society, Bern, Switzerland
+the UNESCO Niels Bohr Medal from UNESCO (2010)
+the Special Breakthrough Prize in Fundamental Physics (2016)
+the Gruber Prize in Cosmology (2016)
+the Shaw Prize (2016)  (together with Ronald Drever and Rainer Weiss).
+the Kavli Prize in Astrophysics (2016) (together with Ronald Drever and Rainer Weiss).
+the Tomalla Prize (2016) for extraordinary contributions to general relativity and gravity.
+the Georges Lemaître Prize (2016)
+the Harvey Prize (2016)  (together with Ronald Drever and Rainer Weiss).
+the Smithsonian Magazine American Ingenuity Award for Physical Sciences (2016)
+the Princess of Asturias Award (2017) (jointly with Rainer Weiss and Barry Barish).
+the Nobel Prize in Physics (2017) (jointly with Rainer Weiss and Barry Barish)
+the Lewis Thomas Prize (2018)
+the Golden Plate Award of the American Academy of Achievement (2019)He has been a Woodrow Wilson Fellow, Danforth Fellow, Guggenheim Fellow, and Fulbright Fellow. He has also received the honorary degree of doctor of humane letters from Claremont Graduate University and an honorary doctorate from the Physics Department of the Aristotle University of Thessaloniki.
+He was elected to hold the Lorentz chair for the year 2009  Leiden University, the Netherlands.
+Thorne has served on: 
+the International Committee on General Relativity and Gravitation,
+the Committee on US-USSR Cooperation in Physics, and
+the National Academy of Sciences' Space Science Board, which has advised NASA and Congress on space science policy.Kip Thorne was selected by Time magazine in an annual list of the 100 most influential people in the American world in 2016.
+Thorne contributed ideas on wormhole travel to Carl Sagan for use in his novel Contact.
+Thorne and his friend, producer Lynda Obst, also developed the concept for the Christopher Nolan film Interstellar. He also wrote a tie-in book, The Science of Interstellar. Thorne later advised Nolan on the physics of his movie Tenet.
+In Larry Niven's novel Rainbow Mars, the time travel technology used in the novel is based on the wormhole theories of Thorne, which in the context of the novel was when time travel first became possible, rather than just fantasy. As a result, any attempts to travel in time prior to Thorne's development of wormhole theory results in the time traveller entering a fantastic version of reality, rather than the actual past.
+In the film The Theory of Everything, Thorne was portrayed by actor Enzo Cilenti.
+Thorne played himself in the episode of The Big Bang Theory entitled "The Laureate Accumulation", episode 18 of season 12.Misner, Charles W., Thorne, K. S. and Wheeler, John Archibald, Gravitation 1973, (W H Freeman & Co)
+Thorne, K. S., in 300 Years of Gravitation, (Eds.) S. W. Hawking and W. Israel, 1987, (Chicago: Univ. of Chicago Press), Gravitational Radiation.
+Thorne, K. S., Price, R. H. and Macdonald, D. M., Black Holes, The Membrane Paradigm, 1986, (New Haven: Yale Univ. Press).
+Friedman, J., Morris, M. S., Novikov, I. D., Echeverria, F., Klinkhammer, G., Thorne, K. S. and Yurtsever, U., Physical Review D., 1990, (in press), Cauchy Problem in Spacetimes with Closed Timelike Curves.
+Thorne, K. S. and Blandford, R. D., Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, 2017, (Princeton: Princeton University Press).Polchinski's paradox Media related to Kip Thorne at Wikimedia Commons
+Kip Thorne at IMDb
+Home Page
+Kip Thorne at the Mathematics Genealogy Project
+Crunch Time
+Founding Fathers of Relativity
+Kip S. Thorne on Nobelprize.org 

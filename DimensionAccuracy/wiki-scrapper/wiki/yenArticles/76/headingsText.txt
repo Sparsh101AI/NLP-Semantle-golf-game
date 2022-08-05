@@ -1,0 +1,28 @@
+Neural control of muscles
+Motor units and force production
+Recruitment order
+Computational issues of motor control
+Sensorimotor feedback
+Response to stimuli
+Closed loop control
+Open loop control
+Coordination
+Reflexes
+Synergies
+Motor Programs
+Redundancy
+Perception in motor control
+Model based control strategies
+Inference and indirect perception
+Forward models
+Inverse models
+Information based control
+Direct perception
+Behavioral dynamics
+Planning in motor control
+Individual movement optimization
+Multi-component movements
+See also
+References
+Further reading
+Research in athletes

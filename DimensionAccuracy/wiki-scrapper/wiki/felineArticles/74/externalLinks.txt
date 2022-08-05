@@ -1,0 +1,12 @@
+http://www.ipni.org/ipni/advAuthorSearch.do?find_abbreviation=Goldman
+https://www.jstor.org/stable/1375449
+https://isni.org/isni/0000000061479212
+https://viaf.org/viaf/48876862
+https://www.worldcat.org/identities/lccn-no2001034408/
+https://id.loc.gov/authorities/names/no2001034408
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2015862093&CON_LNG=ENG
+http://data.bibliotheken.nl/id/thes/p162613105
+https://www.ipni.org/ipni/advAuthorSearch.do?find_abbreviation=Goldman
+http://id.worldcat.org/fast/462375/
+https://snaccooperative.org/ark:/99166/w6mt9x1q
+https://www.idref.fr/130201960

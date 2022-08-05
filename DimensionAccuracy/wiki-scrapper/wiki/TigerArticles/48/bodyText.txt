@@ -1,0 +1,215 @@
+The Proto-Greek language (also known as Proto-Hellenic) is the Indo-European language which was the last common ancestor of all varieties of Greek, including Mycenaean Greek, the subsequent ancient Greek dialects (i.e., Attic, Ionic, Aeolic, Doric, Arcadocypriot, and ancient Macedonian—either a dialect or a closely related Hellenic language) and, ultimately, Koine, Byzantine and Modern Greek (along with its variants). Proto-Greek speakers entered Greece sometime between 2200 and 1900 BCE, with the diversification into a southern and a northern group beginning by approximately 1700 BCE.
+Proto-Greek emerged from the diversification of the Proto-Indo-European language (PIE), the last phase of which gave rise to the later language families occurred ca. 2500 BCE. Pre-Proto-Greek, the Indo-European dialect from which Proto-Greek originated, emerged ca. 2400 BCE - 2200 BCE in an area which bordered pre-Proto-Indo-Iranian to the east and pre-Proto-Armenian and pre-Proto-Phrygian to the west, at the eastern borders of southeastern Europe. Speakers of what would become Proto-Greek, migrated from their homeland (which could have been northeast of the Black Sea) throughout Europe and reached Greece in a date set around the transition of the Early Bronze Age to the Middle Bronze Age. The evolution of Proto-Greek could be considered within the context of an early Paleo-Balkan sprachbund that makes it difficult to delineate exact boundaries between individual languages. The characteristically Greek representation of word-initial laryngeals by prothetic vowels is shared, for one, by the Armenian language, which also seems to share some other phonological and morphological peculiarities of Greek; this has led some linguists to propose a hypothetically closer relationship between Greek and Armenian, although evidence remains scant.
+In modern bibliography, models about the settlement and development of proto-Greek speakers in the Greek peninsula place it in the region in the period at the earliest around 2200-2000 BCE during the Early Helladic III. Asko Parpola and Christian Carpelan (2005) date the arrival of Proto-Greek speakers into the Greek peninsula to 2200 BCE, while Robert Drews (1994) dates it to c. 1900 BCE.
+A. L. Katona (2000) places the beginning of the migration of the Proto-Greek speakers from Ukraine towards the south ca. 2400-2300 BCE. Their proposed route of migration passed through Romania and the eastern Balkans to the Evros river valley from where their main body moved west. As such Katona as well as M.V Sakellariou agree that the main body of Greek speakers settled in a region that included southwestern Illyria, Epirus, northwestern Thessaly and western Macedonia. Older theories like those of Vladimir I. Georgiev placed Proto-Greek in northwestern Greece and adjacent areas (approximately up to Aulon river to the north including Paravaia, Tymphaia, Athamania, Dolopia, Amphilochia, and Acarnania as well as west and north Thessaly (Histiaeotis, Perrhaibia, Tripolis) and Pieria in Macedonia. during the Late Neolithic period . However, the dating of proto-Greek in Bronze Age Greece is compatible with the inherited lexicon from the common Proto-Indo-European language which excludes any possibility of it being present in Neolithic Greece.
+Ivo Hajnal dates the beginning of the diversification of Proto-Greek into the subsequent Greek dialects to a point not significantly earlier than 1700 BCE. The conventional division of the Greek dialects prior of 1955 differentiated them between a West Greek (consisting of Doric and Northwest Greek) and an East Greek (consisting of Aeolic, Arcado-Cypriot, and Attic-Ionic) group. However, after the decipherment of the Linear B script, Walter Porzig and Ernst Risch argued for a division between a Northern (consisting of Doric, Northwest Greek, and Aeolic) and a Southern (consisting of Mycenaean, Arcado-Cypriot, and Attic-Ionic) group, which remains fundamental until today.
+Proto-Greek is reconstructed with the following phonemes:
+
+
+
+
+Consonants
+
+
+Type
+Labial
+Alveolar
+Palatal
+Velar
+Labiovelar
+Glottal
+
+
+Nasal
+
+m
+n
+ɲ
+
+
+
+
+
+Plosive
+
+p b pʰ
+t d tʰ
+ť ď
+k g kʰ
+kʷ gʷ kʷʰ
+
+
+
+Affricate
+
+
+ts dz
+
+
+
+
+
+Fricative
+
+
+s
+
+
+
+h
+
+
+Liquid
+
+
+l r
+ľ ř
+
+
+
+
+
+Semivowel
+
+
+
+j
+
+w
+
+
+
+
+Vowels
+
+
+Type
+Front
+Center
+Back
+
+
+Close
+
+i ī
+
+u ū
+
+
+Mid
+
+e ē
+ə
+o ō
+
+
+Open
+
+
+a ā
+
+
+Diphthongs are ai ei oi ui, au eu ou, āi ēi ōi, and possibly āu ēu ōu; all are allophonic with the corresponding sequences of vowel and semivowel.
+Exactly one vowel in each word bears a pitch accent (equivalent to the Attic Greek acute accent).
+
+
+The primary sound changes separating Proto-Greek from the Proto-Indo-European language include the following. 
+Delabialization of labiovelars next to /u/, the "boukólos rule". This was a phonotactic restriction already in Proto-Indo-European, and continued to be productive in Proto-Greek. It ceased to be in effect when labiovelars disappeared from the language in post-Proto-Greek.
+Centumization: Merger of palatovelars and velars.
+Merging of sequences of velar + *w into the labiovelars, perhaps with compensatory lengthening of the consonant in one case: PIE *h₁éḱwos > PG *híkkʷos > Mycenaean i-qo /híkkʷos/, Attic híppos, Aeolic íkkos.
+Debuccalization of /s/ to /h/ in intervocalic and prevocalic positions (between two vowels, or if word-initial and followed by a vowel). Loss of prevocalic *s was not completed entirely, evidenced by sȳ́s ~ hȳ́s "pig" (from PIE *suh₁-), dasýs "dense" and dásos "dense growth, forest"; *som "with" is another example, contaminated with PIE *ḱom (Latin cum; preserved in Greek kaí, katá, koinós) to Mycenaean ku-su /ksun/, Homeric and Old Attic ksýn, later sýn. Furthermore, sélas "light in the sky, as in the aurora" and selḗnē/selā́nā "moon" may be more examples of the same if it derived from PIE *swel- "to burn" (possibly related to hḗlios "sun", Ionic hēélios < *sāwélios).
+Strengthening of word-initial y- to dy- > dz- (note that Hy- > Vy- regularly due to vocalization of laryngeals).
+Filos argues for a "probable" early loss of final non-nasal stop consonants: compare Latin quid and Sanskrit cid with Greek ti; however, Mycenaean texts are inconclusive in offering evidence on this matter, as the Linear B script did not explicitly mark final consonants. However, it appears that these stops were preserved word finally for unstressed words, reflected in ek "out of".
+Final /m/ > /n/.
+Syllabic resonants *m̥ *n̥ *l̥ and *r̥ that are not followed by a laryngeal are resolved to vowels or combinations of a vowel and consonantal resonant. This resulted in an epenthetic vowel of undetermined quality (denoted here as *ə). This vowel then usually developed into a but also o in some cases. Thus:
+*m̥, *n̥ > *ə, but > *əm, *ən before a sonorant. *ə appears as o in Mycenaean after a labial: pe-mo (spérmo) "seed" vs. usual spérma < *spérmn̥. Similarly, o often appears in Arcadian after a velar, e.g. déko "ten", hekotón "one hundred" vs. usual déka, hekatón < *déḱm̥, *sem-ḱm̥tóm.
+*l̥, *r̥ > *lə, *rə, but *əl, *ər before sonorants and analogously. *ə appears as o in Mycenaean, Aeolic and Arcadocypriot. Example: PIE *str̥-tos > usual stratós, Aeolic strótos "army"; post-PIE *ḱr̥di-eh₂ "heart" > Attic kardíā, Homeric kradíē, Pamphylian korzdia.Major changes included:
+Devoicing of voiced aspirates *bʰ, *dʰ, *ɡʰ, *ɡʷʰ to *pʰ, *tʰ, *kʰ, *kʷʰ. This change preceded and fed both stages of palatalization.
+Loss of aspiration before *s, e.g. heksō "I will have" < Post-PIE *seǵʰ-s-oh₂.
+Loss of aspiration before *y, detailed under "palatalization".Grassmann's law was a process of dissimilation in words containing multiple aspirates. It caused an initial aspirated sound to lose its aspiration when a following aspirated consonant occurred in the same word. It was a relatively late change in Proto-Greek history, and must have occurred independently of the similar dissimilation of aspirates (also known as Grassmann's law) in Indo-Iranian, although it may represent a common areal feature. The change may have even been post-Mycenaean.
+It postdates the Greek-specific de-voicing of voiced aspirates.
+It postdates the change of /s/ > /h/, which is then lost in the same environment: ékhō "I have" < *hekh- < PIE *seǵʰ-oh₂, but future heksō "I will have" < *heks- < Post-PIE *seǵʰ-s-oh₂.
+It postdates even the loss of aspiration before *y that accompanied second-stage palatalization (see below), which postdates both of the previous changes (as well as first-stage palatalization).
+On the other hand, it predates the development of the first aorist passive marker -thē- since the aspirate in that marker has no effect on preceding aspirates.Greek is unique among Indo-European languages in reflecting the three different laryngeals with distinct vowels. Most Indo-European languages can be traced back to a dialectal variety of late Proto-Indo-European (PIE) in which all three laryngeals had merged (after colouring adjacent short /e/ vowels), but Greek clearly cannot. For that reason, Greek is extremely important in reconstructing PIE forms.
+Greek shows distinct reflexes of the laryngeals in various positions:
+Most famously, between consonants, where original vocalic *h₁, *h₂, *h₃ are reflected as /e/, /a/, /o/ respectively (the so-called triple reflex). All other Indo-European languages reflect the same vowel from all three laryngeals (usually /a/, but /i/ or other vowels in Indo-Iranian):An initial laryngeal before a consonant (a *HC- sequence) leads to the same triple reflex, but most IE languages lost such laryngeals and a few reflect them initially before consonants. Greek vocalized them (leading to what are misleadingly termed prothetic vowels): Greek érebos "darkness" < PIE *h₁regʷos vs. Gothic riqiz- "darkness"; Greek áent- "wind" < *awent- < PIE *h₂wéh₁n̥t- vs. English wind, Latin ventum "wind", Breton gwent "wind".
+The sequence *CRHC (C = consonant, R = resonant, H = laryngeal) becomes CRēC, CRāC, CRōC from H = *h₁, *h₂, *h₃ respectively. (Other Indo-European languages again have the same reflex for all three laryngeals: *CuRC in Proto-Germanic, *CiRˀC/CuRˀC with acute register in Proto-Balto-Slavic, *CīRC/CūRC in Proto-Indo-Iranian, *CRāC in Proto-Italic and Proto-Celtic.) Sometimes, CeReC, CaRaC, CoRoC are found instead: Greek thánatos "death" vs. Doric Greek thnātós "mortal", both apparently reflecting  *dʰn̥h₂-tos. It is sometimes suggested that the position of the accent was a factor in determining the outcome.
+The sequence *CiHC tends to become *CyēC, *CyāC, *CyōC from H = *h₁, *h₂, *h₃ respectively, with later palatalization (see below). Sometimes, the outcome CīC is found, as in most other Indo-European languages, or the outcome CiaC in the case of *Cih₂C.All of the cases may stem from an early insertion of /e/ next to a laryngeal not adjacent to a vowel in the Indo-European dialect ancestral to Greek (subsequently coloured to /e/, /a/, /o/ by the particular laryngeal in question) prior to the general merger of laryngeals:
+*CHC > *CHeC > CeC/CaC/CoC.
+*HC- > *HeC- > eC-/aC-/oC-.
+*CRHC > *CReHC > CRēC/CRāC/CRōC; or, *CRHC > *CeRHeC > *CeReC/CeRaC/CeRoC > CeReC/CaRaC/CoRoC by assimilation.
+*CiHC > *CyeHC > CyēC/CyāC/CyōC; or, *Cih₂C > *Cih₂eC > *CiHaC > *CiyaC > CiaC; or, *CiHC remains without vowel insertion > CīC.A laryngeal adjacent to a vowel develops along the same lines as other Indo-European languages:
+The sequence *CRHV (C = consonant, R = resonant, H = laryngeal, V = vowel) passes through *CR̥HV, becoming CaRV.
+The sequence *CeHC becomes CēC/CāC/CōC.
+The sequence *CoHC becomes CōC.
+In the sequence *CHV (including CHR̥C, with a vocalized resonant), the laryngeal colors a following short /e/, as expected, but it otherwise disappears entirely (as in most other Indo-European languages but not Indo-Iranian whose laryngeal aspirates a previous stop and prevents the operation of Brugmann's law).
+In a *VHV sequence (a laryngeal between vowels, including a vocalic resonant R̥), the laryngeal again colours any adjacent short /e/ but otherwise vanishes early on. That change appears to be uniform across the Indo-European languages and was probably the first environment in which laryngeals were lost. If the first V was *i, *u or a vocalic resonant, a consonantal copy was apparently inserted in place of the laryngeal: *CiHV > *CiyV, *CuHV > *CuwV, *CR̥HV possibly > *CR̥RV, with R̥ always remaining as vocalic until the dissolution of vocalic resonants in the various daughter languages. Otherwise, a hiatus resulted, which was resolved in various ways in the daughter languages, typically by converting i, u and vocalic resonants, when it directly followed a vowel, back into a consonant and merging adjacent non-high vowels into a single long vowel.Consonants followed by consonantal *y were palatalized, producing various affricate consonants (still represented as a separate sound in Mycenaean) and geminated palatal consonants. Any aspiration was lost in the process. The palatalized consonants later simplified, mostly losing their palatal character. Palatalization occurred in two separate stages. The first stage affected only dental consonants, and the second stage affected all consonants.
+The first palatalization caused dentals + *y to ultimately become alveolar affricates:
+Alongside these changes, the inherited clusters *ts, *ds and *tʰs all merged into *ts.
+In the second palatalization, all consonants were affected. It took place following the resolution of syllabic laryngeals and sonorants. The following table, based on American linguist Andrew Sihler, shows the developments.
+In post-Proto-Greek times, the resulting palatal consonants and clusters were resolved in varying ways. Most notably, *ň and *ř were resolved into plain sonorants plus a palatal on-glide, which eventually turned the preceding vowel into a diphthong.
+Between the first and the second palatalizations, new clusters *tsy and *dzy were formed by restoring a lost *y after the newly formed *ts and *dz. That occurred only in morphologically transparent formations by analogy with similar formations in which *y was preceded by other consonants. In formations that were morphologically opaque and not understood as such by speakers of the time, the restoration did not take place and so *ts and *dz remained. Hence, depending on the type of formation, the pre-Proto-Greek sequences *ty, *tʰy and *dy have different outcomes in the later languages. In particular, medial *ty becomes Attic s in opaque formations but tt in transparent formations.
+The outcome of PG medial *ts in Homeric Greek is s after a long vowel, and vacillation between s and ss after a short vowel: tátēsi dat. pl. "rug" < tátēt-, possí(n)/posí(n) dat. pl. "foot" < pod-. This was useful for the composer of the Iliad and Odyssey, since possí with double s scans as long-short, while posí with single s scans as short-short. Thus the writer could use each form in different positions in a line.
+Examples of initial *ts:
+PIE *tyegʷ- "avoid" > PG *tsegʷ- > Greek sébomai "worship, be respectful" (Ved. tyaj- "flee")
+PIE *dʰyeh₂- "notice" > PG *tsā- > Dor. sā́ma, Att. sêma "sign" (Ved. dhyā́- "thought, contemplation")Examples of medial *ts (morphologically opaque forms, first palatalization only):
+PreG *tótyos "as much" > PG *tótsos > Att. tósos, Hom. tósos/tóssos (cf. Ved. táti, Lat. tot "so much/many")
+PIE *médʰyos "middle" > PG *métsos > Att. mésos, Hom. mésos/méssos, Boeot. méttos, other dial. mésos (cf. Ved. mádhya-, Lat. medius)Examples of medial *ťť (morphologically transparent forms, first and second palatalization):
+PIE *h₁erh₁-t-yoh₂ "I row" > PG *eréťťō > Attic eréttō, usual non-Attic eréssō (cf. erétēs "oarsman")
+PIE *krét-yōs > PreG *krétyōn "better" > PG *kréťťōn > Attic kreíttōn, usual non-Attic kréssōn (cf. kratús "strong" < PIE *kr̥tús)Osthoff's law: Shortening of long vowels before a sonorant in the same syllable. E.g. *dyēws "skyling, sky god" > Attic Greek Zeús /dzeús/.
+Cowgill's law: Raising of /o/ to /u/ between a resonant and a labial.Proto-Greek retained the Indo-European pitch accent, but developed a number of rules governing it:
+The law of limitation, also known as the trisyllabicity law, confined the accent to the antepenultimate, penultimate, or final syllable. Alternatively, it can be analyzed as restraining the accent to be within the last four morae of the word.
+Wheeler's Law, which also developed during Proto-Greek, causes oxytone words to become paroxytone when ending in a syllable sequence consisting of heavy-light-light (ex. *poikilós > poikílos).
+Loss of accent in finite verb forms. This probably began in verbs of independent clauses, a development also seen in Vedic Sanskrit, where they behave as clitics and bear no accent. The accentless forms later acquired a default recessive accent, placed as far left as the law of limitation allowed.
+Certain imperative forms, such as idé "go!", regularly escaped this process and retained their accent.
+Many Proto-Greek suffixes bore lexical stress. Accentuation rules applied post-Proto-Greek such as Vendryes's Law and Bartoli's Law modified how and if this would surface.Sound changes that postdate Proto-Greek, but predate the attested dialects, including Mycenaean Greek, include:
+Loss of s in consonant clusters, with compensatory lengthening of the preceding vowel (Attic, Ionic, Doric) or of the consonant (Aeolic): *ésmi "I am" > ḗmi, eîmi or émmi.
+Creation of secondary s from earlier affricates, *nty > *nts > ns. This was, in turn, followed by a change similar to the one described above, loss of the n with compensatory lengthening: *apónt-ya > apónsa > apoûsa, "absent", feminine.
+In southern dialects (including Mycenaean, but not Doric), -ti- > -si- (assibilation).The following changes are apparently post-Mycenaean because early stages are represented in Linear B:
+Loss of /h/ (from original /s/), except initially, e.g. Doric níkaas "having conquered" < *níkahas < *níkasas.
+Loss of /j/, e.g. treîs "three" < *tréyes.
+Loss of /w/ in many dialects (later than loss of /h/ and /j/). Example: étos "year" from *wétos.
+Loss of labiovelars, which were converted (mostly) into labials, sometimes into dentals (or velars next to /u/, as a result of an earlier sound change). See below for details. It had not yet happened in Mycenaean, as is shown by the fact that a separate letter ⟨q⟩ is used for such sounds.
+Contraction of adjacent vowels resulting from loss of /h/ and /j/ (and, to a lesser extent, from loss of /w/); more in Attic Greek than elsewhere.
+Rise of a distinctive circumflex accent, resulting from contraction and certain other changes.
+Loss of /n/ before /s/ (incompletely in Cretan Greek), with compensatory lengthening of the preceding vowel.
+Raising of ā to ē /ɛː/ in Attic and Ionic dialects (but not Doric). In Ionic, the change was general, but in Attic it did not occur after /i/, /e/ or /r/. (Note Attic kórē "girl" < *kórwā; loss of /w/ after /r/ had not occurred at that point in Attic.)
+Vendryes's Law in Attic, where a penultimate circumflex accent was retracted onto a preceding light syllable if the final syllable was also light: light-circumflex-light > acute-heavy-light. For example, hetoîmos > Attic hétoimos. (
+Analogical prosodic changes that converted a penultimate heavy acute accent to circumflex (retraction by one mora) if both the final and (if present) the preceding syllable were light. This produced alternations within a paradigm, for example Attic oînos "wine" nominative singular, but genitive singular oínou.Note that /w/ and /j/, when following a vowel and not preceding a vowel, combined early on with the vowel to form a diphthong and so were not lost.
+Loss of /h/ and /w/ after a consonant was often accompanied by compensatory lengthening of a preceding vowel.
+The development of labiovelars varies from dialect to dialect:
+Due to the PIE boukólos rule, labiovelars next to /u/ had already been converted to plain velars: boukólos "herdsman" < *gʷou-kʷólos (cf. boûs "cow" < *gʷou-) vs. aipólos "goatherd" < *ai(g)-kʷólos (cf. aíks, gen.  aigós "goat"); elakhús "small" < *h₁ln̥gʷʰ-ús vs. elaphrós "light" < *h₁ln̥gʷʰ-rós.
+In Attic and some other dialects (but not, for example, Aeolic), labiovelars before some front vowels became dentals. In Attic, kʷ and kʷʰ became t and th, respectively, before /e/ and /i/, while gʷ became d before /e/ (but not /i/). Cf. theínō "I strike, kill" < *gʷʰen-yō vs. phónos "slaughter" < *gʷʰón-os; delphús "womb" < *gʷelbʰ- (Sanskrit garbha-) vs. bíos "life" < *gʷih₃wos (Gothic qius "alive"), tís "who?" < *kʷis (Latin quis).
+All remaining labiovelars became labials, original kʷ kʷʰ gʷ becoming p ph b respectively. That happened to all labiovelars in some dialects like Lesbian; in other dialects, like Attic, it occurred to all labiovelars not converted into dentals. Many occurrences of dentals were later converted into labials by analogy with other forms: bélos "missile", bélemnon "spear, dart" (dialectal délemnon) by analogy with bállō "I throw (a missile, etc.)", bolḗ "a blow with a missile".
+Original PIE labiovelars had still remained as such even before consonants and so became labials also there. In many other centum languages such as Latin and most Germanic languages, the labiovelars lost their labialisation before consonants. (Greek pémptos "fifth" < *pénkʷtos; compare Old Latin quinctus.) This makes Greek of particular importance in reconstructing original labiovelars.The results of vowel contraction were complex from dialect to dialect. Such contractions occur in the inflection of a number of different noun and verb classes and are among the most difficult aspects of Ancient Greek grammar. They were particularly important in the large class of contracted verbs, denominative verbs formed from nouns and adjectives ending in a vowel. (In fact, the reflex of contracted verbs in Modern Greek, the set of verbs derived from Ancient Greek contracted verbs, represents one of the two main classes of verbs in that language.)
+Proto-Greek preserved the gender (masculine, feminine, neuter) and number (singular, dual, plural) distinctions of the nominal system of Proto-Indo-European. However, the evidence from Mycenaean Greek is inconclusive with regard to whether all eight cases continued to see complete usage, but this is more secure for the five standard cases of Classical Greek (nominative, genitive, dative, accusative and vocative) and probably also the instrumental in its usual plural suffix -pʰi and the variant /-ṓis/ for o-stem nouns. The ablative and locative are uncertain; at the time of Mycenaean texts they may have been undergoing a merger with the genitive and dative respectively. It is thought that the syncretism between cases proceeded faster for the plural, with dative and locative already merged as -si (the Proto-Indo-European locative plural having been *-su-). This merger may have been motivated by analogy to the locative singular -i-. Nevertheless, seven case distinctions are securely attested in Myceneaen in some domain, with the status of the ablative unclear.
+Significant developments attributed to the Proto-Greek period include:
+the replacement of PIE nominative plural *-ās and *-ōs by *-ai and *-oi.
+the genitive and dative dual suffix *-oi(i)n (Arcadian -oiun) appears to be exclusive to Greek.
+Genitive singular Proto-Indo-European *-āsyo is reflected as -āoThe Proto-Greek nominal system is thought to have included cases of gender change according to number, heteroclisy and stem alternation (ex. genitive form húdatos for húdōr "water").
+The superlative in -tatos becomes productive.
+The peculiar oblique stem gunaik- "women", attested from the Thebes tablets is probably Proto-Greek. It appears, at least as gunai- in Armenian as well.
+The pronouns hoûtos, ekeînos and autós are created. The use of ho, hā, to as articles is post-Mycenaean.
+Proto-Greek inherited the augment, a prefix e-, to verbal forms expressing past tense. That feature is shared only with Indo-Iranian and Phrygian (and to some extent, Armenian), lending some support to a "Graeco-Aryan" or "Inner PIE" proto-dialect. However, the augment down to the time of Homer remained optional and was probably little more than a free sentence particle, meaning "previously" in the proto-language, which may easily have been lost by most other branches. Greek, Phrygian, and Indo-Iranian also concur in the absence of r-endings in the middle voice, in Greek apparently already lost in Proto-Greek.
+The first person middle verbal desinences -mai, -mān replace -ai, -a. The third singular phérei is an innovation by analogy, replacing the expected Doric *phéreti, Ionic *phéresi (from PIE *bʰéreti).
+The future tense is created, including a future passive as well as an aorist passive.
+The suffix -ka- is attached to some perfects and aorists.
+Infinitives in -ehen, -enai and -men are created.
+Proto-Greek numerals were derived directly from Indo-European.
+"one": *héns (masculine), *hmía (feminine) (> Myc. e-me /heméi/ (dative); Att./Ion. εἷς (ἑνός), μία, heîs (henos), mía)
+"two": *dúwō (> Myc. du-wo /dúwoː/; Hom. δύω, dúō; Att.-Ion. δύο, dúo)
+"three": *tréyes (> Myc. ti-ri /trins/; Att./Ion. τρεῖς, treîs; Lesb. τρής, trḗs; Cret. τρέες, trées)
+"four": nominative *kʷétwores, genitive *kʷeturṓn (> Myc. qe-to-ro-we /kʷétroːwes/ "four-eared"; Att. τέτταρες, téttares; Ion. τέσσερες, tésseres; Boeot. πέτταρες, péttares; Thess. πίτταρες, píttares; Lesb. πίσυρες, písures; Dor. τέτορες, tétores)
+"five": *pénkʷe (> Att.-Ion. πέντε, pénte; Lesb., Thess. πέμπε, pémpe)
+"six":  *hwéks (> Att. ἕξ, héks; Dor. ϝέξ, wéks)
+"seven": *heptə́ (> Att. ἑπτά, heptá)
+"eight": *oktṓ (> Att. ὀκτώ, oktṓ)
+"nine": *ennéwə (> Att. ἐννέα, ennéa; Dor. ἐννῆ, ennê)
+"ten": *dékə (> Att. δέκα, déka)
+"hundred": *hekətón (> Att. ἑκατόν, hekatón)
+"thousand": *kʰéhliyoi (> Att. χίλιοι, khílioi)Proto-language
+Greeks
+Ancient Macedonian language
+Paleo-Balkan languages
+Pre-Greek substrate
+Proto-Indo-European languageBeekes, Robert Stephen Paul (1995). Comparative Indo-European Linguistics. Amsterdam: John Benjamins. ISBN 90-272-2150-2.

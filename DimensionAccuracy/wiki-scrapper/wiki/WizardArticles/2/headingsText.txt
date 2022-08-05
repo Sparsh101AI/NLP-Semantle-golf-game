@@ -1,0 +1,10 @@
+GenBank
+NCBI Bookshelf
+Basic Local Alignment Search Tool (BLAST)
+Entrez
+Gene
+Protein
+Pubchem database
+See also
+References
+External links

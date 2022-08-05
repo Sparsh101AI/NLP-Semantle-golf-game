@@ -1,0 +1,3 @@
+Deoxyinosine monophosphate (dIMP) is a nucleoside monophosphate and a derivative of inosinic acid. It can be formed by the deamination of the purine base in deoxyadenosine monophosphate (dAMP). The enzyme deoxyribonucleoside triphosphate pyrophosphohydrolase, encoded by YJR069C in S. cerevisiae and containing (d)ITPase and (d)XTPase activities, hydrolyses dITP, resulting in the release of pyrophosphate and dIMP.
+Xanthosine
+Xanthosine monophosphate

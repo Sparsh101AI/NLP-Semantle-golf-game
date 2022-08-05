@@ -1,0 +1,165 @@
+A geodetic datum or geodetic system (also: geodetic reference datum, geodetic reference system, or geodetic reference frame) is a global datum reference or reference frame for precisely representing the position of locations on Earth or other planetary bodies by means of geodetic coordinates. Datums are crucial to any technology or technique based on spatial location, including geodesy, navigation, surveying, geographic information systems, remote sensing, and cartography. A horizontal datum is used to measure a location across the Earth's surface, in latitude and longitude or another coordinate system; a vertical datum is used to measure the elevation or depth relative to a standard origin, such as mean sea level (MSL). Since the rise of the global positioning system (GPS), the ellipsoid and datum  WGS 84 it uses has supplanted most others in many applications. The WGS 84 is intended for global use, unlike most earlier datums.
+Before GPS, there was no precise way to measure the position of a location that was far from universal reference points, such as from the Prime Meridian at the  Greenwich Observatory for longitude, from the Equator for latitude, or from the nearest coast for sea level. Astronomical and chronological methods have limited precision and accuracy, especially over long distances. Even GPS requires a predefined framework on which to base its measurements, so WGS 84 essentially functions as a datum, even though it is different in some particulars from a traditional standard horizontal or vertical datum.
+A standard datum specification (whether horizontal or vertical) consists of several parts: a model for Earth's shape and dimensions, such as a reference ellipsoid or a geoid; an origin at which the ellipsoid/geoid is tied to a known (often monumented) location on or inside Earth (not necessarily at 0 latitude 0 longitude); and multiple  control points that have been precisely measured from the origin and monumented. Then the coordinates of other places are measured from the nearest control point through surveying. Because the ellipsoid or geoid differs between datums, along with their origins and orientation in space, the relationship between coordinates referred to one datum and coordinates referred to another datum is undefined and can only be approximated. Using local datums, the disparity on the ground between a point having the same horizontal coordinates in two different datums could reach kilometers if the point is far from the origin of one or both datums. This phenomenon is called datum shift.
+Because Earth is an imperfect ellipsoid, local datums can give a more accurate representation of some specific area of coverage than WGS 84 can. OSGB36, for example, is a better approximation to the geoid covering the British Isles than the global WGS 84 ellipsoid. However, as the benefits of a global system outweigh the greater accuracy, the global WGS 84 datum has become widely adopted.
+The spherical nature of Earth was known by the ancient Greeks, who also developed the concepts of latitude and longitude, and the first astronomical methods for measuring them. These methods, preserved and further developed by Muslim and Indian astronomers, were sufficient for the global explorations of the 15th and 16th Centuries. 
+However, the scientific advances of the Age of Enlightenment brought a recognition of errors in these measurements, and a demand for greater precision. This led to technological innovations such as the 1735 Marine chronometer by John Harrison, but also to a reconsideration of the underlying assumptions about the shape of Earth itself. Isaac Newton postulated that the conservation of momentum should make Earth  oblate (wider at the equator), while the early surveys of Jacques Cassini (1720) led him to believe Earth was  prolate (wider at the poles). The subsequent French geodesic missions (1735-1739) to  Lapland and  Peru corroborated Newton, but also discovered variations in gravity that would eventually lead to the geoid model.
+A contemporary development was the use of the trigonometric survey to accurately measure distance and location over great distances. Starting with the surveys of Jacques Cassini (1718) and the Anglo-French Survey (1784–1790), by the end of the 18th Century, survey control networks covered  France and  the United Kingdom. More ambitious undertakings such as the Struve Geodetic Arc across Eastern Europe (1816-1855) and the Great Trigonometrical Survey of India (1802-1871) took much longer, but resulted in more accurate estimations of the shape of the Earth ellipsoid. The first triangulation across the United States was not completed until 1899.
+The U.S. survey resulted in the North American Datum (horizontal) of 1927 (NAD27) and the Vertical Datum of 1929 (NAVD29), the first standard datums available for public use. This was followed by the release of national and regional datums over the next several decades. Improving measurements, including the use of early  satellites, enabled more accurate datums in the later 20th Century, such as NAD83 in North America, ETRS89 in Europe, and GDA94 in Australia. At this time global datums were also first developed for use in satellite navigation systems, especially the World Geodetic System (WGS 84) used in the U.S. global positioning system (GPS), and the International Terrestrial Reference System and Frame (ITRF) used in the European  Galileo system.
+The horizontal datum is the model used to measure positions on Earth. A specific point can have substantially different coordinates, depending on the datum used to make the measurement. There are hundreds of local horizontal datums around the world, usually referenced to some convenient local reference point. Contemporary datums, based on increasingly accurate measurements of the shape of Earth, are intended to cover larger areas. The WGS 84 datum, which is almost identical to the NAD83 datum used in North America and the ETRS89 datum used in Europe, is a common standard datum.
+A vertical datum is a reference surface for vertical positions, such as the elevations of Earth features including terrain, bathymetry, water level, and man-made structures.
+An approximate definition of sea level is the datum WGS 84, an ellipsoid, whereas a more accurate definition is Earth Gravitational Model 2008 (EGM2008), using at least 2,159 spherical harmonics. Other datums are defined for other areas or at other times; ED50 was defined in 1950 over Europe and differs from WGS 84 by a few hundred meters depending on where in Europe you look. 
+Mars has no oceans and so no sea level, but at least two martian datums have been used to locate places there.
+In geodetic coordinates, Earth's surface is approximated by an ellipsoid, and locations near the surface are described in terms of geodetic latitude (
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+), longitude (
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+), and ellipsoidal height (
+
+
+
+h
+
+
+{\displaystyle h}
+
+).
+The ellipsoid is completely parameterised by the semi-major axis 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and the flattening 
+
+
+
+f
+
+
+{\displaystyle f}
+
+.
+From 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ it is possible to derive the semi-minor axis 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, first eccentricity 
+
+
+
+e
+
+
+{\displaystyle e}
+
+ and second eccentricity 
+
+
+
+
+e
+′
+
+
+
+{\displaystyle e'}
+
+ of the ellipsoid
+The two main reference ellipsoids used worldwide are the GRS80
+and the WGS 84.
+A more comprehensive list of geodetic systems can be found here.
+The Global Positioning System (GPS) uses the World Geodetic System 1984 (WGS 84) to determine the location of a point near the surface of Earth.
+The difference in co-ordinates between datums is commonly referred to as datum shift. The datum shift between two particular datums can vary from one place to another within one country or region, and can be anything from zero to hundreds of meters (or several kilometers for some remote islands). The North Pole, South Pole and Equator will be in different positions on different datums, so True North will be slightly different. Different datums use different interpolations for the precise shape and size of Earth (reference ellipsoids). For example, in Sydney there is a 200 metres (700 feet) difference between GPS coordinates configured in GDA (based on global standard WGS 84) and AGD (used for most local maps), which is an unacceptably large error for some applications, such as surveying or site location for scuba diving.
+Datum conversion is the process of converting the coordinates of a point from one datum system to another. Because the survey networks upon which datums were traditionally based are irregular, and the error in early surveys is not evenly distributed, datum conversion cannot be performed using a simple parametric function. For example, converting from NAD27 to NAD83 is performed using NADCON (later improved as HARN), a raster grid covering North America, with the value of each cell being the average adjustment distance for that area in latitude and longitude. Datum conversion may frequently be accompanied by a change of map projection.
+A geodetic reference datum is a known and constant surface which is used to describe the location of unknown points on Earth. Since reference datums can have different radii and different center points, a specific point on Earth can have substantially different coordinates depending on the datum used to make the measurement. There are hundreds of locally developed reference datums around the world, usually referenced to some convenient local reference point. Contemporary datums, based on increasingly accurate measurements of the shape of Earth, are intended to cover larger areas. The most common reference Datums in use in North America are NAD27, NAD83, and WGS 84.
+The North American Datum of 1927 (NAD 27) is "the horizontal control datum for the United States that was defined by a location and azimuth on the Clarke spheroid of 1866, with origin at (the survey station) Meades Ranch (Kansas)." ... The geoidal height at Meades Ranch was assumed to be zero, as sufficient gravity data was not available, and this was needed to relate surface measurements to the datum. "Geodetic positions on the North American Datum of 1927 were derived from the (coordinates of and an azimuth at Meades Ranch) through a readjustment of the triangulation of the entire network in which Laplace azimuths were introduced, and the Bowie method was used." (http://www.ngs.noaa.gov/faq.shtml#WhatDatum )  NAD27 is a local referencing system covering North America.
+The North American Datum of 1983 (NAD 83) is "The horizontal control datum for the United States, Canada, Mexico, and Central America, based on a geocentric origin and the Geodetic Reference System 1980 (GRS80). "This datum, designated as NAD 83 ...is based on the adjustment of 250,000 points including 600 satellite Doppler stations which constrain the system to a geocentric origin." NAD83 may be considered a local referencing system.
+WGS 84 is the World Geodetic System of 1984. It is the reference frame used by the U.S. Department of Defense (DoD) and is defined by the National Geospatial-Intelligence Agency (NGA) (formerly the Defense Mapping Agency, then the National Imagery and Mapping Agency). WGS 84 is used by DoD for all its mapping, charting, surveying, and navigation needs, including its GPS "broadcast" and "precise" orbits. WGS 84 was defined in January 1987 using Doppler satellite surveying techniques. It was used as the reference frame for broadcast GPS Ephemerides (orbits) beginning January 23, 1987. At 0000 GMT January 2, 1994, WGS 84 was upgraded in accuracy using GPS measurements. The formal name then became WGS 84 (G730), since the upgrade date coincided with the start of GPS Week 730. It became the reference frame for broadcast orbits on June 28, 1994. At 0000 GMT September 30, 1996 (the start of GPS Week 873), WGS 84 was redefined again and was more closely aligned with International Earth Rotation Service (IERS) frame ITRF 94. It was then formally called WGS 84 (G873). WGS 84 (G873) was adopted as the reference frame for broadcast orbits on January 29, 1997. Another update brought it to WGS 84 (G1674).
+The WGS 84 datum, within two meters of the NAD83 datum used in North America, is the only world referencing system in place today. WGS 84 is the default standard datum for coordinates stored in recreational and commercial GPS units.
+Users of GPS are cautioned that they must always check the datum of the maps they are using. To correctly enter, display, and to store map related map coordinates, the datum of the map must be entered into the GPS map datum field.
+Examples of map datums are:
+WGS 84, 72, 66 and 60 of the World Geodetic System
+NAD83, the North American Datum which is very similar to WGS 84
+NAD27, the older North American Datum, of which NAD83 was basically a readjustment [1]
+OSGB36 of the Ordnance Survey of Great Britain
+ETRS89, the European Datum, related to ITRS
+ED50, the older European Datum
+GDA94, the Australian Datum
+JGD2011, the Japanese Datum, adjusted for changes caused by 2011 Tōhoku earthquake and tsunami
+Tokyo97, the older Japanese Datum
+KGD2002, the Korean Datum
+TWD67 and TWD97, different datum currently used in Taiwan.
+BJS54 and XAS80, old geodetic datum used in China
+GCJ-02 and BD-09, Chinese encrypted geodetic datum.
+PZ-90.11, the current geodetic reference used by GLONASS
+GTRF, the geodetic reference used by Galileo; currently defined as ITRF2005
+CGCS2000, or CGS-2000, the geodetic reference used by BeiDou Navigation Satellite System; based on ITRF97
+International Terrestrial Reference Frames (ITRF88, 89, 90, 91, 92, 93, 94, 96, 97, 2000, 2005, 2008, 2014), different realizations of the ITRS.
+Hong Kong Principal Datum, a vertical datum used in Hong Kong.
+SAD69 - South American Datum 1969The Earth's tectonic plates move relative to one another in different directions at speeds on the order of 50 to 100 mm (2.0 to 3.9 in) per year.  Therefore, locations on different plates are in motion relative to one another. For example, the longitudinal difference between a point on the equator in Uganda, on the African Plate, and a point on the equator in Ecuador, on the South American Plate, increases by about 0.0014 arcseconds per year. These tectonic movements likewise affect latitude.
+If a global reference frame (such as WGS84) is used, the coordinates of a place on the surface generally will change from year to year. Most mapping, such as within a single country, does not span plates. To minimize coordinate changes for that case, a different reference frame can be used, one whose coordinates are fixed to that particular plate. Examples of these reference frames are "NAD83" for North America and "ETRS89" for Europe.
+Axes conventions
+ECEF
+ECI (coordinates)
+Engineering datum
+Figure of the Earth
+Geographic coordinate conversion
+Grid reference
+International Terrestrial Reference System
+Kilometre zero
+Local tangent plane coordinates
+Ordnance Datum
+Milestone
+Planetary coordinate system
+Reference frame
+World Geodetic SystemList of geodetic parameters for many systems from University of Colorado
+Gaposchkin, E. M. and Kołaczek, Barbara (1981) Reference Coordinate Systems for Earth Dynamics Taylor & Francis ISBN 9789027712608
+Kaplan, Understanding GPS: principles and applications, 1 ed. Norwood, MA 02062, USA: Artech House, Inc, 1996.
+GPS Notes
+P. Misra and P. Enge, Global Positioning System Signals, Measurements, and Performance. Lincoln, Massachusetts: Ganga-Jamuna Press, 2001.
+Peter H. Dana: Geodetic Datum Overview – Large amount of technical information and discussion.
+US National Geodetic SurveyGeographicLib includes a utility CartConvert which converts between geodetic and geocentric (ECEF) or local Cartesian (ENU) coordinates.  This provides accurate results for all inputs including points close to the center of Earth.
+A collection of geodetic functions that solve a variety of problems in geodesy in Matlab.
+NGS FAQ – What is a geodetic datum?
+About the surface of the Earth on kartoweb.itc.nl

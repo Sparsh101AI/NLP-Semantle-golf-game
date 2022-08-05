@@ -1,0 +1,17 @@
+Terminology
+Note on conflicting terminology
+Notations for intervals
+Including or excluding endpoints
+Infinite endpoints
+Integer intervals
+Classification of intervals
+Properties of intervals
+Dyadic intervals
+Generalizations
+Multi-dimensional intervals
+Complex intervals
+Topological algebra
+See also
+References
+Bibliography
+External links

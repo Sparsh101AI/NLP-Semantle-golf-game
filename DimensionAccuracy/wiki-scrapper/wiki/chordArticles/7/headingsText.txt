@@ -1,0 +1,11 @@
+Apollonius' definition of a circle
+Proof using vectors in Euclidean spaces
+Proof using the angle bisector theorem
+Apollonius pursuit problem
+Circles sharing a radical axis
+Solutions to Apollonius' problem
+Apollonian gasket
+Isodynamic points of a triangle
+See also
+References
+Bibliography

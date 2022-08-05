@@ -1,0 +1,6 @@
+http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Social_transfers
+http://epp.eurostat.ec.europa.eu/NavTree_prod/AppLinkServices?pid=755_1906667_755_950435_950435&lang=en&appId=nui&appUrl=http%3A%2F%2Fappsso.eurostat.ec.europa.eu%2Fnui%2Fshow.do%3Fdataset%3Dgov_a_exp%26lang%3Den
+https://web.archive.org/web/20110812095826/http://epp.eurostat.ec.europa.eu/portal/page/portal/national_accounts/data/database
+https://ec.europa.eu/eurostat/web/national-accounts
+http://www.comptanat.fr/
+http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Final_consumption_expenditure

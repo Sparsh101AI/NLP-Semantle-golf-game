@@ -1,0 +1,13 @@
+https://en.wikipedia.org/w/index.php?title=Drest_X&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Drest+X%22
+//www.google.com/search?tbm=nws&q=%22Drest+X%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Drest+X%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Drest+X%22+-wikipedia
+//scholar.google.com/scholar?q=%22Drest+X%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Drest+X%22&acc=on&wc=on
+https://archive.org/stream/chroniclesofpict00sken#page/n7/mode/2up
+https://archive.org/stream/chroniclesofpict00sken/chroniclesofpict00sken_djvu.txt
+https://books.google.com/books?id=IKMtAQAAMAAJ&pg=PA143
+https://en.wikipedia.org/w/index.php?title=Template:Pictish_and_Scottish_monarchs&action=edit
+https://en.wikipedia.org/w/index.php?title=Drest_X&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Scotland-royal-stub&action=edit

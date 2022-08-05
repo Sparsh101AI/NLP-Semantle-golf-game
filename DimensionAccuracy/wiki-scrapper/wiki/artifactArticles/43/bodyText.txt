@@ -1,0 +1,6 @@
+Alon Yitzchack Halevy (until 2000: Levy) is an Israeli-American computer scientist and a leading researcher in the area of data integration. He was a research scientist at Google from 2005 to 2015, when he left to become head of Recruit Institute of Technology. He left Recruit in 2018 and joined Facebook AI in 2019. Until 2006, he  was a professor of computer science at the University of Washington. He received his PhD from Stanford University in 1993.
+He is a fellow of the ACM and a winner of the 2006 VLDB 10-year best paper award. He was a Sloan Fellow, and received the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2000. 
+He is the founder of two technology companies, Nimble Technology (now Actuate Corporation) and Transformic Inc.
+At Google he was involved in Google Fusion Tables.
+Alon Halevy's blog: http://alonhalevy.blogspot.com/
+Alon Halevy at the Mathematics Genealogy Project

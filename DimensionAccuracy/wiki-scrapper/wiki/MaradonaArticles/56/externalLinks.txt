@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Corriente_River&params=30_0_38_S_59_33_21_W_type:river_region:AR_dim:20km
+http://www.ambiente.gov.ar/?idarticulo=1106
+https://web.archive.org/web/20160423072225/http://www.ambiente.gov.ar/?idarticulo=1106
+http://tools.freeside.sk/geolocator/geolocator.html
+https://en.wikipedia.org/w/index.php?title=Corriente_River&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Corrientes-geo-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Corriente_River&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Argentina-river-stub&action=edit

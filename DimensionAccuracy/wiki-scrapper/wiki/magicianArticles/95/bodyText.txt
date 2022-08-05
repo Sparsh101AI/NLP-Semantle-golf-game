@@ -1,0 +1,35 @@
+Kishōtenketsu (起承転結) describes the structure and development of classic Chinese, Korean and Japanese narratives. The structure originated in China and was called qǐ chéng zhuǎn hé (起承轉合) and used in Chinese poetry as a four-line composition, such as Qijue. From there, it moved to Korea where it is called gi seung jeon gyeol (Hangul: 기승전결; Hanja: 起承轉結). Finally, the art style came to Japan, where it is referred to as kishōtengō (起承転合), from which the English word derives.
+There are variations of this dramatic structure based on region due to differences in how the Chinese characters are interpreted per the country and culture.
+The Chinese interpretation is:
+起: means start or introduction, usually meaning the reason something started
+承: meant handling, process, or hardships
+轉: turn, turning point, crescendo
+合: result.
+The Korean interpretation is
+기 : raising issues and introducing characters
+승 : the beginning of the action (But not to solve a problem, necessarily more for self realization)
+전 : a change in direction or reversal
+결 : the thing to be concluded and any lessons gained through the process or results.
+The Japanese interpretation of it is
+ kiku (起句)  is 'ki (起)': introduction, where 起 can mean rouse, wake up, get up 
+ shōku (承句)  is 'sho (承)': development, where 承 can also mean acquiesce, hear, listen to, be informed, receive 
+tenku (転句) is 'ten (転)': twist, where 転 can mean revolve, turn around, change 
+kekku (結句) is 'ketsu (結)': Conclusion, though 結 can also mean result; consequence; outcome; effect; or coming to fruition; bearing fruit 
+
+Media the structure is used in.
+The following is an example of how this might be applied to a fairytale.
+Introduction (ki): introducing characters, era, and other important information for understanding the setting of the story.
+Development (shō): follows leads towards the twist in the story. Major changes do not occur.
+Twist (ten): the story turns toward an unexpected development. This is the crux of the story, the yama (ヤマ) or climax. In case of several turns in the narrative, this is the biggest one.
+Conclusion (ketsu), also called ochi (落ち) or ending, wraps up the story.The same pattern is used to arrange arguments:
+Introduction (ki): In old times, copying information by hand was necessary. Some mistakes were made.
+Development (shō): Copying machines made it possible to make quick and accurate copies.
+Twist (ten): Traveling by car saves time, but you don't get much impression of the local beauty. Walking makes it a lot easier to appreciate nature close up.
+Conclusion (ketsu): Although photocopying is easier, copying by hand is sometimes better, because the information stays in your memory longer and can be used later.In the structure of narrative and yonkoma manga, and even for document, dissertation, and music. The style in kishōtenketsu applies to sentence or sentences, and even clause to chapter as well since it gives a structure from introduction to conclusion.
+The concept has also been used in game design, particularly in Nintendo's video games, most notably Super Mario games such as Super Mario Galaxy (2007) and Super Mario 3D World (2013); their designers Shigeru Miyamoto and Koichi Hayashida are known to utilize this concept for their game designs.
+Dramatic structure
+Contrastive rhetoric
+Cross-cultural communication
+Jo-ha-kyū, contrasting 3-part structure
+Writing
+Yonkoma

@@ -1,0 +1,87 @@
+The Dietary Reference Intake (DRI) is a system of nutrition recommendations from the National Academy of Medicine (NAM) of the National Academies (United States).  It was introduced in 1997 in order to broaden the existing guidelines known as Recommended Dietary Allowances (RDAs, see below).  The DRI values differ from those used in nutrition labeling on food and dietary supplement products in the U.S. and Canada, which uses Reference Daily Intakes (RDIs) and Daily Values (%DV) which were based on outdated RDAs from 1968 but were updated as of 2016.
+DRI provides several different types of reference values:
+Estimated Average Requirements (EAR), expected to satisfy the needs of 50% of the people in that age group based on a review of the scientific literature.
+Recommended Dietary Allowances (RDA), the daily dietary intake level of a nutrient considered sufficient by the Food and Nutrition Board of the Institute of Medicine to meet the requirements of 97.5% of healthy individuals in each life-stage and sex group. The definition implies that the intake level would cause a harmful nutrient deficiency in just 2.5%. It is calculated based on the EAR and is usually approximately 20% higher than the EAR (See Calculating the RDA).
+Adequate Intake (AI), where no RDA has been established, but the amount established is somewhat less firmly believed to be adequate for everyone in the demographic group.
+Tolerable upper intake levels (UL), to caution against excessive intake of nutrients (like vitamin A) that can be harmful in large amounts. This is the highest level of sustained daily nutrient consumption that is considered to be safe for, and cause no side effects in, 97.5% of healthy individuals in each life-stage and sex group. The definition implies that the intake level would cause a harmful nutrient excess in just 2.5%. The European Food Safety Authority (EFSA) has also established ULs which do not always agree with U.S. ULs. For example, adult zinc UL is 40 mg in U.S. and 25 mg in EFSA.
+Acceptable Macronutrient Distribution Ranges (AMDR), a range of intake specified as a percentage of total energy intake.  Used for sources of energy, such as fats and carbohydrates.DRIs are used by both the United States and Canada, and are intended for the general public and health professionals. Applications include:
+Composition of diets for schools, prisons, hospitals or nursing homes
+Industries developing new foods and dietary supplements
+Healthcare policy makers and public health officialsThe European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States, although numerical values may differ.
+Australia and New Zealand refer to the collective set of information as Nutrient Reference Values, with Recommended Dietary Intake (RDI) instead of RDA, but EAR, AI and UL defined the same as in the United States and Canada, although numerical values may differ.
+The recommended dietary allowance (RDA) was developed during World War II by Lydia J. Roberts, Hazel Stiebeling, and Helen S. Mitchell, all part of a committee established by the United States National Academy of Sciences in order to investigate issues of nutrition that might "affect national defense".
+The committee was renamed the Food and Nutrition Board in 1941, after which they began to deliberate on a set of recommendations of a standard daily allowance for each type of nutrient. The standards would be used for nutrition recommendations for the armed forces, for civilians, and for overseas population who might need food relief. Roberts, Stiebeling, and Mitchell surveyed all available data, created a tentative set of allowances for "energy and eight nutrients", and submitted them to experts for review (Nestle, 35).
+The final set of guidelines, called RDAs for Recommended Dietary Allowances, were accepted in 1941. The allowances were meant to provide superior nutrition for civilians and military personnel, so they included a "margin of safety". Because of food rationing during the war, the food guides created by government agencies to direct citizens' nutritional intake also took food availability into account.
+The Food and Nutrition Board subsequently revised the RDAs every five to ten years. In the early 1950s, United States Department of Agriculture nutritionists made a new set of guidelines that also included the number of servings of each food group in order to make it easier for people to receive their RDAs of each nutrient.
+The DRI was introduced in 1997 in order to broaden the existing system of RDAs.  DRIs were published over the period 1998 to 2001. In 2011, revised DRIs were published for calcium and vitamin D. None of the other DRIs have been revised since first published 1998 to 2001.
+Highest EARs and RDA/AIs and lowest ULs for people ages nine years and older, except pregnant or lactating women. ULs for younger children may be lower than RDA/AIs for older people. Females need more iron than males and generally need more nutrients when pregnant or lactating.
+
+NE: EARs have not yet been established or not yet evaluated; ND: ULs could not be determined, and it is recommended that intake from these nutrients be from food only, to prevent adverse effects.
+
+It is also recommended that the following substances not be added to food or dietary supplements. Research has been conducted into adverse effects, but was not conclusive in many cases:
+RDA/AI is shown below for males and females aged 19–50 years.
+The equations used to calculate the RDA are as follows:
+"If the standard deviation (SD) of the EAR is available and the requirement for the nutrient is symmetrically distributed, the RDA is set of two SDs above the EAR:
+
+
+
+
+R
+D
+A
+=
+E
+A
+R
++
+2
+S
+D
+(
+E
+A
+R
+)
+
+
+{\displaystyle RDA=EAR+2SD(EAR)}
+
+
+If data about variability in requirements are insufficient to calculate an SD, a coefficient of variation (CV) for the EAR of 10 percent is assumed, unless available data indicate a greater variation in requirements. If 10 percent is assumed to be the CV, then twice that amount when added to the EAR is defined as equal to the RDA. The resulting equation for the RDA is then
+
+
+
+
+R
+D
+A
+=
+1.2
+E
+A
+R
+
+
+{\displaystyle RDA=1.2EAR}
+
+
+This level of intake statistically represents 97.5 percent of the requirements of the population."
+In September 2007, the Institute of Medicine held a workshop entitled "The Development of DRIs 1994–2004: Lessons Learned and New Challenges".  At that meeting, several speakers stated that the current Dietary Recommended Intakes (DRI's) were largely based upon the very lowest rank in the quality of evidence pyramid, that is, opinion, rather than the highest level – randomized controlled clinical trials.  Speakers called for a higher standard of evidence to be utilized when making dietary recommendations. The only DRIs to have been revised since that meeting until 2011 are vitamin D and calcium.
+Percent of U.S. population ages 2+ meeting EAR or USDA healthy eating patterns in 2004
+Acceptable daily intake – upper limit on intake (United Kingdom)
+Canada's Food Guide
+Dietary Reference Values – EU/UK system of nutritional advice
+Dietary Reference Intake – US system of nutrition recommendations
+Mineral (nutrient)
+Essential amino acid
+Essential fatty acid
+Essential nutrient
+Food composition
+Food pyramid (nutrition)
+Healthy diet
+Protein quality
+Reference Daily Intake – US/Canada food nutrient labelling system
+Reference Intake – EU/UK food nutrient labelling system
+Therapeutic food#Composition
+Hypervitaminosis – vitamin toxicityDietary Reference Intakes at United States National Agricultural Library
+Current USA dietary guidelines 2020–2025

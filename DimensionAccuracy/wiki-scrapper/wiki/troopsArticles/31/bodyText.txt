@@ -1,0 +1,49 @@
+Emagic was a music software and hardware company based in Rellingen, Germany and a satellite office in Grass Valley, California.  On July 1, 2002 Emagic was bought by Apple Computer. Emagic's Windows-based product offerings were discontinued on September 30, 2002.
+The company was best known for its music sequencer, Logic. Logic stemmed from Creator, then Notator, made by C-Lab (the company's forerunner) for the Atari ST platform. In 1992, Emagic Soft- und Hardware GmbH was founded and Notator Logic was launched for Atari and Macintosh, followed by a version for Windows. The "Notator" was dropped from the name and the product was redesigned from the ground up, and the product became known under the name "Emagic Logic". Original copies of Emagic's Logic software retailed for US$699 (equivalent to $1,350 in 2021) and its plugins were $99–$299 apiece before Apple bundled them all together. When Apple bought Emagic, Logic had "Emagic" dropped from the title, and is now called Logic Pro. As a result of the purchase by Apple, the Windows version was discontinued.
+The other major software product that Emagic offered was SoundDiver, an editor/librarian for hardware synthesizers. It communicated via MIDI and offered easy patch and sound management. While there was a beta version for Mac OS X, production of SoundDiver was discontinued in 2005.
+Emagic formerly offered a line of audio interface hardware, the Audiowerk PCI cards, as well as USB units. A potential post-acquisition successor to these products, the unreleased Asteroid FireWire interface, was the subject of the Apple v. Does trade secret litigation.
+SuperTrack (for Commodore 64) - MIDI sequencer
+ScoreTrack - scorewriting
+Creator (for Atari ST) - MIDI sequencer
+Notator (for Atari ST) - MIDI sequencer and scorewriter
+Notator Alpha (for Atari ST) - cut-down educational version of Notator
+Aura (for Atari ST) - ear training
+Explorer 1000 - patch editor
+Explorer 32 - patch editor
+Explorer M1 - patch editor
+Midia - MIDI monitor/educational tool
+Polyframe - patch editor
+SoftLink
+Xalyser (for Atari ST) FM synthesizerUnitor (for Atari) - SMPTE/EBU synchroniser
+Unitor 2 (for Atari) - SMPTE synchroniser/MIDI interface
+Combiner (for Atari) - cartridge expansion interface
+Export (for Atari) - MIDI interface
+Falcon mk I, mk II and mk X
+Steady Eye - SMPTE/VITC synchroniser
+Human Touch - Audio synchroniserLogic
+MicroLogic
+Sound Diver
+Waveburner
+Epic TDM
+Guitar Tuner
+Space Designer
+HearMaster - music theory training
+ZAP - audio file compressionES1 synthesizer
+ES2 synthesizer
+EVP73 Fender Rhodes VST instrument
+EVP88 electric piano
+EXS24 sampler
+EXSP24 sample player
+EVB3 Hammond B3 instrument
+EVD6 Hohner Clavinet instrument
+EVOC20 vocoderLOG3 (for Atari ST) - MIDI interface
+LOG2mac - MIDI interface
+LOG2PC (c.1991) - ISA 1×1 MIDI interface card (rebranded Midiman MM-401 card)
+Audiowerk II - PCI soundcard
+Audiowerk8 - PCI soundcard
+Unitor 8 - 1U rackmount 8×8 MIDI interface
+AMT8 - 1U rackmount 8×8 MIDI interface
+MT4 - 2×4 MIDI interface
+EMI 6|2m - USB audio interface
+EMI 2|6 - USB audio interface
+Logic Control"Multitracking On A Budget". Electronics & Music Maker. June 1986. pp. 66–8. OCLC 317187644.Official site (archive.org)

@@ -1,0 +1,16 @@
+https://translate.google.com/translate?&u=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FGr%C3%A9asque&sl=fr&tl=en&prev=_t&hl=en
+https://deepl.com
+https://translate.google.com/
+//geohack.toolforge.org/geohack.php?pagename=Gr%C3%A9asque&params=43.4306_N_5.5392_E_type:city(4271)_region:FR-PAC
+//geohack.toolforge.org/geohack.php?pagename=Gr%C3%A9asque&params=43.4306_N_5.5392_E_type:city(4271)_region:FR-PAC
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-13046
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-13046
+http://www.ville-greasque.fr
+https://en.wikipedia.org/w/index.php?title=Template:Bouches-du-Rh%C3%B4ne_communes&action=edit
+https://viaf.org/viaf/242291405
+https://www.worldcat.org/identities/containsVIAFID/242291405
+https://catalogue.bnf.fr/ark:/12148/cb15247328x
+https://data.bnf.fr/ark:/12148/cb15247328x
+https://musicbrainz.org/area/17aef6bb-45cd-403a-be40-4a9a0e38067f
+https://en.wikipedia.org/w/index.php?title=Gr%C3%A9asque&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:BouchesRh%C3%B4ne-geo-stub&action=edit

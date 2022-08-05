@@ -1,0 +1,27 @@
+Bracket
+First Round
+Eastern Conference First Round
+(1) Boston Celtics vs. (8) Washington Bullets
+(2) Milwaukee Bucks vs. (7) Atlanta Hawks
+(3) Philadelphia 76ers vs. (6) New Jersey Nets
+(4) Detroit Pistons vs. (5) New York Knicks
+Western Conference First Round
+(1) Los Angeles Lakers vs. (8) Kansas City Kings
+(2) Utah Jazz vs. (7) Denver Nuggets
+(3) Portland Trail Blazers vs. (6) Phoenix Suns
+(4) Dallas Mavericks vs. (5) Seattle SuperSonics
+Conference Semifinals
+Eastern Conference Semifinals
+(1) Boston Celtics vs. (5) New York Knicks
+(2) Milwaukee Bucks vs. (6) New Jersey Nets
+Western Conference Semifinals
+(1) Los Angeles Lakers vs. (4) Dallas Mavericks
+(2) Utah Jazz vs. (6) Phoenix Suns
+Conference Finals
+Eastern Conference Finals
+(1) Boston Celtics vs. (2) Milwaukee Bucks
+Western Conference Finals
+(1) Los Angeles Lakers vs. (6) Phoenix Suns
+NBA Finals: (E1) Boston Celtics vs. (W1) Los Angeles Lakers
+References
+External links

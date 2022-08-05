@@ -1,0 +1,17 @@
+https://www.catalogueoflife.org/data/taxon/QC6C
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77176694-1
+https://gd.eppo.int/taxon/CMPVE
+https://eunis.eea.europa.eu/species/164970
+https://www.gbif.org/species/5411465
+https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=428119
+https://www.inaturalist.org/taxa/339961
+https://www.ipni.org/n/141299-1
+https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=361406
+https://www.nzor.org.nz/names/cc328fb6-e09a-4855-a2cf-6a09ef00a5e9
+http://www.theplantlist.org/tpl1.1/record/kew-366681
+http://legacy.tropicos.org/Name/50066326
+https://wcsp.science.kew.org/namedetail.do?name_id=366681
+http://www.worldfloraonline.org/taxon/wfo-0000829322
+https://en.wikipedia.org/w/index.php?title=Campanula_versicolor&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Campanulaceae-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Campanula_versicolor&action=edit

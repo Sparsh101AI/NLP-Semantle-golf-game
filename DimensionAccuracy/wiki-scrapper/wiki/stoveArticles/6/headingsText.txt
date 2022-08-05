@@ -1,0 +1,42 @@
+Syntax and semantics
+Data types
+Rules and facts
+Execution
+Loops and recursion
+Negation
+Programming in Prolog
+Hello World
+Compiler optimization
+Quicksort
+Design patterns of Prolog
+Higher-order programming
+Modules
+Parsing
+Meta-interpreters and reflection
+Turing completeness
+Implementation
+ISO Prolog
+Compilation
+Tail recursion
+Term indexing
+Hashing
+Tabling
+Implementation in hardware
+Limitations
+Extensions
+Types
+Modes
+Constraints
+Object-orientation
+Graphics
+Concurrency
+Web programming
+Adobe Flash
+Other
+Interfaces to other languages
+History
+Use in industry
+See also
+Related languages
+References
+Further reading

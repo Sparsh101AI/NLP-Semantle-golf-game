@@ -1,0 +1,17 @@
+//arxiv.org/abs/hep-th/0510040
+https://ui.adsabs.harvard.edu/abs/2005hep.th...10040A
+https://doi.org/10.1098%2Frspa.1930.0013
+https://ui.adsabs.harvard.edu/abs/1930RSPSA.126..360D
+https://doi.org/10.1098%2Frspa.1930.0013
+//www.jstor.org/stable/95359
+https://doi.org/10.1098%2Frspa.1931.0130
+https://ui.adsabs.harvard.edu/abs/1931RSPSA.133...60D
+https://doi.org/10.1098%2Frspa.1931.0130
+//www.jstor.org/stable/95639
+//arxiv.org/abs/0911.2102
+https://ui.adsabs.harvard.edu/abs/2011LMaPh..97..165F
+https://doi.org/10.1007%2Fs11005-011-0473-1
+//www.worldcat.org/issn/0377-9017
+https://api.semanticscholar.org/CorpusID:39764396
+https://books.google.com/books?id=2DAInxwvlHYC&q=Relativistic+quantum+mechanics&pg=PA1
+https://books.google.com/books?id=G7mq8NBz_ZsC&q=dirac+sea+number+operator+for+a+fermi+field&pg=SA10-PA4

@@ -1,0 +1,16 @@
+A binary system is a system of two astronomical bodies which are close enough that their gravitational attraction causes them to orbit each other around a barycenter (also see animated examples). More restrictive definitions require that this common center of mass is not located within the interior of either object, in order to exclude the typical planet–satellite systems and planetary systems.
+The most common binary systems are binary stars and binary asteroid, but brown dwarfs, planets, neutron stars, black holes and galaxies can also form binaries.
+A multiple system is like a binary system but consists of three or more objects such as for trinary stars and trinary asteroids.
+In a binary system, the brighter object is referred to as primary, and the other the secondary. 
+They are also classified based on orbit. Wide binaries are objects with orbits that keep them apart from one another. They evolve separately and have very little effect on each other. Close binaries are close to each other and are able to transfer mass from one another.
+They can also be classified based on how we observe them. Visual binaries are two stars separated enough that they can be viewed through a telescope or binoculars.
+Eclipsing binaries are where the objects' orbits are at an angle that when one passes in front of the other it causes an eclipse, as seen from Earth.
+Astrometric binaries are objects that seem to move around nothing as their companion object cannot be identified, it can only be inferred. The companion object may not be bright enough or may be hidden in the glare from the primary object.
+A related classification though not a binary system is optical binary, which refers to objects that are so close together in the sky that they appear to be a binary system, but are not. Such objects merely appear to be close together, but lie at different distances from the Solar System.
+When binary minor planets are similar in size, they may be called "binary companions" instead of referring to the smaller body as a satellite. Good examples of true binary companions are the 90 Antiope and the 79360 Sila–Nunam systems. Pluto and its largest moon Charon are sometimes described as a binary system because the barycenter (center of mass) of the two objects is not inside either of them.
+Binary asteroid
+Binary star
+Contact binary
+Contact binary (small Solar System body)
+Double planet
+Rotational Brownian motionNASA Astrobiology Institute Shows How Wide Binary Stars Form - NASAAstronomy: A Visual Guide by Mark A. Garlick

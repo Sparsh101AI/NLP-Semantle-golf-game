@@ -1,0 +1,22 @@
+Nicolaas Govert (Dick) de Bruijn (Dutch: [nikoːˈlaːs ˈxoːvərt də ˈbrœyn]; 9 July 1918 – 17 February 2012) was a Dutch mathematician, noted for his many contributions in the fields of analysis, number theory, combinatorics and logic.
+De Bruijn was born in The Hague where he attended elementary school between 1924 and 1930 and secondary school until 1934. He started studies in mathematics at Leiden University in 1936 but his studies were interrupted by the outbreak of World War II in 1939. He became a full-time Assistant in the Department of Mathematics of the Technological University of Delft in September 1939 while continuing his studies. He completed his undergraduate studies at the University of Leiden in 1941. He received his PhD in 1943 from Vrije Universiteit Amsterdam with a thesis entitled "Over modulaire vormen van meer veranderlijken" advised by Jurjen Ferdinand Koksma.
+From June 1944 he was a Scientific Associate working in Philips Research Laboratories in Eindhoven.
+He married Elizabeth de Groot on 30 August 1944. The couple had four children: Jorina Aleida (born 19 January 1947), Frans Willem (born 13 April 1948), Elisabeth (born 24 November 1950), and Judith Elizabeth (born 31 March 1963).
+De Bruijn started his academic career at the University of Amsterdam, where he was Professor of Mathematics from 1952 to 1960. In 1960 he moved to the Technical University Eindhoven where he was Professor of Mathematics until his retirement in 1984. Among his graduate students were Johannes Runnenburg (1960), Antonius Levelt (1961), S. Ackermans (1964), Jozef Beenakker (1966), W. van der Meiden (1967), Matheus Hautus (1970), Robert Nederpelt Lazarom (1973), Lambert van Benthem Jutting (1977), A. Janssen (1979), Diederik van Daalen (1980), and Harmannus Balsters (1986).
+In 1957 he was appointed member of the Royal Netherlands Academy of Arts and Sciences. He was Knighted with the Order of the Netherlands Lion.
+De Bruijn covered many areas of mathematics. He is especially noted for:
+the discovery of the De Bruijn sequence,
+discovering an algebraic theory of the Penrose tiling and, more generally, discovering the "projection" and "multigrid" methods for constructing quasi-periodic tilings,
+the De Bruijn–Newman constant,
+the De Bruijn–Erdős theorem, in graph theory,
+a different theorem of the same name: the De Bruijn–Erdős theorem, in incidence geometry,
+the BEST theorem in graph theory, and
+De Bruijn indices.He wrote one of the standard books in advanced asymptotic analysis (De Bruijn, 1958).
+In the late sixties, he designed the Automath language for representing mathematical proofs, so that they could be verified automatically (see automated theorem checking). Shortly before his death, he had been working on models for the human brain.
+Books, a selection:
+1943. Over modulaire vormen van meer veranderlijken
+1958. Asymptotic Methods in Analysis, North-Holland, Amsterdam.Articles, a selection:
+de Bruijn, Nicolaas Govert. "A combinatorial problem", 1946.  In Proceedings of the Section of Sciences, Vol. 49, No. 7, pp. 758–764. Koninklijke Nederlandse Akademie v. Wetenschappen.
+de Bruijn, Nicolaas Govert. "The mathematical language AUTOMATH, its usage, and some of its extensions." Symposium on automatic demonstration. Springer Berlin Heidelberg, 1970.
+de Bruijn, Nicolaas Govert. "Lambda calculus notation with nameless dummies, a tool for automatic formula manipulation, with application to the Church-Rosser theorem." Indagationes Mathematicae (Proceedings). Vol. 75. No. 5. North-Holland, 1972.Moser–de Bruijn sequenceNicolaas Govert de Bruijn's obituary
+Bruijn N.G. de at win.tue.nl (in Dutch)

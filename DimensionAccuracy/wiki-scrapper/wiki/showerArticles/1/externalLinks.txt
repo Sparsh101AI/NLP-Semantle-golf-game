@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=Jug&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Jug%22
+//www.google.com/search?tbm=nws&q=%22Jug%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Jug%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Jug%22+-wikipedia
+//scholar.google.com/scholar?q=%22Jug%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Jug%22&acc=on&wc=on
+http://www.etymonline.com/index.php?term=jug
+http://www.ournakedaustralia.com.au/drink-australian-beer-sizes/
+https://www.telegraph.co.uk/news/uknews/9010429/Glass-beer-tankards-make-return.html
+https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Jug

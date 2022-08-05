@@ -1,0 +1,80 @@
+A chess title is a title regulated by a chess governing body and bestowed upon players based on their performance and rank. Such titles are usually granted for life. The international chess governing body FIDE grants several titles, the most prestigious of which is Grandmaster; many national chess federations also grant titles such as "National Master". More broadly, the term "master" can refer to any highly skilled chess player.
+In general, a chess master is a player of such skill that they can usually beat most amateurs. Among chess players, the term is often abbreviated to master.
+The establishment of the world chess body, Fédération Internationale des Échecs (FIDE), saw the creation of titles superior to the "national master" titles. In 1950, FIDE created the titles "Grandmaster" and "International Master", the requirements for which were increasingly formalized over the years. In 1978, FIDE created the lesser title of "FIDE Master".
+From the beginning of recorded chess, to the establishment of the first chess organizations, the term master was applied informally, being simply a matter of popular acclaim. Strong players demonstrated their strength in play, and gained the informal reputation of being chess masters.
+As chess became more widespread in the latter half of the 19th century, the term began to be given out by organizations. One of the most prestigious events of the time was the DSB Congress, first organised by the Deutscher Schachbund (German Chess Federation) in 1876. The DSB's standard for the title of Master was the Meisterdrittel, i.e. to win at least one third of the games in the premiere tournament at a DSB Congress. The winner of the Hauptturnier or "reserve" event was entitled to compete in the premiere event in the next congress, with a chance to achieve the Meisterdrittel.
+Grandmaster (abbreviated as GM, sometimes International Grandmaster or IGM is used) is awarded to world-class chess masters. Apart from World Champion, Grandmaster is the highest title a chess player can attain. Before FIDE will confer the title on a player, the player must have an Elo chess rating (see below) of at least 2500 at one time and three favorable results (called norms) in tournaments involving other Grandmasters, including some from countries other than the applicant's. There are also other milestones a player can achieve to attain the title, such as winning the World Junior Championship.
+International Master (abbreviated as IM). The conditions are similar to GM, but less demanding. The minimum rating is 2400 for the IM title.
+FIDE Master (abbreviated as FM). The usual way for a player to qualify for the FIDE Master title is by achieving a FIDE Rating of 2300 or more.
+Candidate Master (abbreviated as CM). Similar to FM, but with a FIDE Rating of at least 2200.All the titles listed above are open to men and women. Separate women-only titles, such as Woman Grandmaster (WGM), are also available. Beginning with Nona Gaprindashvili in 1978, 39 women have also earned the unsegregated GM title.
+FIDE also awards titles for arbiters and trainers.
+Some national chess federations award titles such as "National Master" (NM). National chess federations are free to set whatever standards they want for such titles, which are not recognized by FIDE. Standards for "Master" titles in different countries vary, but are usually based on criteria such as achieving a certain rating (typically about 2200 Elo), achieving the required number of tournament performances ("norms") at a certain level, or featuring prominently in the country's national championship. In some cases, it may extend to honorary titles awarded to (for example) prominent chess administrators, business patrons or politicians. Since the introduction of the FIDE Master (FM) title in 1978, some federations such as those of Ireland and Germany have ceased awarding National Master titles, apparently regarding them as obsolete.
+In the Soviet Union, the Master title was conferred by the federal government and was connected to the title of Master of Sport. The first chess player to receive the title was Peter Romanovsky in 1934. Only players who featured prominently in the Soviet Chess Championship were considered for the title, and fewer than 100 awards were made altogether. The majority of these players also qualified for the FIDE International Master or Grandmaster title.
+The USCF currently gives a national title for achieving a 2200 rating (master):
+
+
+Title
+
+Rating
+
+
+Senior Master
+
+2400
+
+
+Life Master
+
+2300
+
+
+Master
+
+2200
+
+
+Candidate Master
+
+2000
+
+
+1st Category
+
+1800
+
+
+2nd Category
+
+1600
+
+
+3rd Category
+
+1400
+
+
+4th Category
+
+1200
+Chess expert is a title given by the United States Chess Federation (USCF). It is awarded to chess players rated from 2000 to 2199. Players rated above that are masters, while players below that are class players. Approximately 50,000 chess players have USCF ratings, of which approximately 2,500 are rated 2000 or better. Thus, chess experts are in the top 5% of all USCF tournament chess players. Since 2008, USCF has also awarded Candidate Master titles to players that achieve five performance-based 'norms' in tournaments and also hold a rating above 2000. Like the title of Master, Candidate Master titles are awarded for life.
+The title of chess expert is not awarded for life. Every time a tournament chess player plays a game, their rating goes up or down depending on the game's outcome and on how strong their opponent is. If the rating of a chess expert falls below 2000, they are not a chess expert any more (though they retain the title of Candidate Master, if it was earned according to the criteria above). This is in contrast to international titles awarded by FIDE, which are awarded for life. In European countries the term "expert" is not used. Instead, players of that level are called "Candidate Masters", although the FIDE Candidate Master title generally requires a higher rating (2200 FIDE).
+It is possible (and common), however, for players in the United States to have a rating that places them in the 'expert' category while still retaining the title of 'Life Master' or 'National Master'. The title of 'master' is awarded to anyone meeting the criteria laid down by the USCF, including having once been rated over 2200. Like the FIDE titles of FIDE Master, International Master, and Grandmaster, the title of 'Master' is awarded for life. Players with a rating below 2200, but who have earned the title of 'National Master' or 'Life Master', are, according to the USCF, still referred to as 'masters'.
+The first USCF rating list was published in December 1950. On that list, experts were players rated from 2100 to 2300 and masters were players rated from 2300 to 2500. However, within a few years, it was discovered that the ratings were rapidly deflating. As a result, the classifications were dropped by 100 points so that since then experts were rated between 2000 and 2200. In 1960, the USCF adopted the new Elo rating system replacing the original Harkness System. There have been continuous adjustments to that system ever since, with the primary purpose of stabilizing the rating system against the forces of inflation and deflation, so that a chess expert today will be approximately the same strength as a chess expert was twenty or forty years ago.
+This information stated here also applies in Canada, under the auspices of the Canadian Federation of Chess (CFC), with one difference being that Class E encompasses all players rated under 1200. Similar class distinctions may apply in other national chess federations as well.
+The United States Chess Federation (USCF) awards the Title of National Master to anyone who achieves a USCF rating of 2200, and the title of Senior Master to anyone who achieves a USCF rating of 2400 along with certain performance-based 'norms' during tournament play. The USCF also awards the Life Master title to anyone who holds a 2200 rating for a total of 300 or more games in his or her lifetime.
+In the United States, the title of "National Master" is awarded for life, regardless of whether the rating of a National Master subsequently goes below 2200. In August 2002, this position was codified (after being recognized as the existing status quo) by the USCF Policy Board with the passage of a motion stating "Any USCF member who has had a regular post tournament rating of 2200 or higher (published or not) has demonstrated a significant level of chess ability and is recognized by being automatically awarded the lifetime title of National Master."
+Life Master is a chess title awarded by the United States Chess Federation (USCF). To be awarded this title, one must hold a master's rating of over 2200 for at least 300 USCF-rated tournament chess games.
+During the 1990s, the USCF also awarded a "Life Master" title on the basis of a different and more complex system that was similar to the FIDE 'norm system' of awarding titles. This method of attaining Life Master became officially recognized by the USCF on January 1, 1996. The "class norm" system was later discontinued, and players who had or were subsequently granted the title on the 300-game basis were renamed "Original Life Masters." In practice, the distinction is rarely made. Original Life Masters had to play 300 games as a Master without going below 2200 in their rating or the count would start over again.
+As the name of this title implies, this title is held for life, regardless of any subsequent decrease in rating. Thus it is possible to have a player with a USCF rating of 2100 (or below) who is a Life Master. While this is uncommon for 'Original Life Masters' (since such a rating floor can only be dropped by the USCF itself), Original Life Masters  have a floor rating of 2200 .
+The Chess Federation of Canada awards the title of National Master to players who achieve a national rating of 2200, and three tournament performances ("norms") of 2300 or more. It also awards National Woman Master and National Candidate Master titles at 2000 rating, with three norms of 2100 or more.
+The English Chess Federation awards the title of National Master to players who achieve an ECF rating of 200 or more (equivalent to a FIDE rating of approximately 2250). It also awards a number of lesser titles.
+Up until 1991, the Irish Chess Federation awarded the title of Irish National Master to 15 players. The title has since fallen into disuse.
+The title of Australian Master was introduced in 1959, and was awarded by the Australian Chess Federation using a points based system, in which players were required to score 100 points from performances in major tournaments such as the Australian Chess Championship and state championships. According to Australian chess player and arbiter Shaun Press, the requirements were changed to a rating-based system some time during the 1980s, but the title was not held in high regard and is no longer awarded.
+The New Zealand Chess Federation awards the title of National Master using a points-based system, based on performances in the New Zealand Chess Championship and a few other tournaments. 100 points are required for the title of National Master, and 40 points for the title of Candidate Master. As of 31 January 2013, 22 players hold the National Master title, the majority of whom also have FIDE titles.
+Just as in over-the-board play, in problem chess the titles International Grandmaster, International Master and FIDE Master are awarded by FIDE via the PCCC (Permanent Commission for Chess Composition) for especially distinguished problem and study composers and solvers. (Unlike in over-the-board chess, however, there are no women-only equivalents to these titles in problem chess.)
+For composition, the title of Grandmaster for chess composition was established in 1959, with André Cheron, Arnoldo Ellerman, Alexander Gerbstmann, Jan Hartong, and Cyril Kipping being the first honorary recipients. In subsequent years, qualification for the IM title, as well as for the GM title (first awarded in 1972 to Genrikh Kasparyan, Lev Loshinsky, Comins Mansfield, and Eeltje Visserman) and the FM title (first awarded 1990) has been determined on the basis of the number of problems or studies a composer had selected for publication in the FIDE Albums. These albums are collections of the best problems and studies composed in a particular three-year period, as selected by FIDE-appointed judges. Each problem published in an album is worth 1 point; each study is worth 1⅔; joint compositions are worth the same divided by the number of composers. For the FIDE Master title, a composer must accumulate 12 points; for the International Master title, 25 points are needed; and for the Grandmaster title, a composer must have 70 points.
+For solvers, the GM (International Solving Grandmaster) and IM titles were both first awarded in 1982; the FM title followed in 1997. GM and IM titles can only be gained by participating in the official World Chess Solving Championship (WCSC): to become a GM, a solver must score at least 90 percent of the winner's points and on each occasion finish in at least tenth place three times within ten successive WCSCs. For the IM title they must score at least 80 percent of the winner's points and each time finish in at least fifteenth place twice within five successive WCSCs; alternatively, winning a single WCSC or scoring as many points as the winner in a single WCSC will earn the IM title. For the FM title, the solver must score at least 75 percent of the winner's points and each time finish within the top 40 percent of participants in any two PCCC-approved solving competitions.
+The title International Judge of Chess Compositions is given to individuals considered capable of judging composing tournaments at the highest level.
+The International Correspondence Chess Federation (ICCF) awards the titles International Master, Senior International Master and International Correspondence Chess Grandmaster—these are equivalent to similar titles awarded by FIDE for over-the-board chess. The ICCF also runs the World Correspondence Chess Championships. Because these events can last a long time, they may overlap: for instance, in February 2005 Joop van Oosterom was declared winner of the eighteenth Championship (which began in June 2003), though the winner of the seventeenth Championship (which began in March 2002) had not yet been determined.
+FIDE titles
+International Correspondence Chess Federation § Titles

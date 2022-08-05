@@ -1,0 +1,11 @@
+https://translate.google.com/translate?&u=https%3A%2F%2Fhr.wikipedia.org%2Fwiki%2FSeget&sl=hr&tl=en&prev=_t&hl=en
+https://deepl.com
+https://translate.google.com/
+//geohack.toolforge.org/geohack.php?pagename=Seget,_Croatia&params=43_32_00.12_N_16_13_59.88_E_region:HR-17_type:city(4854)
+http://web.dzs.hr/Eng/censuses/census2011/results/htm/E01_01_01/e01_01_01_zup17.html
+https://en.wikipedia.org/w/index.php?title=Template:Subdivisions_of_Split-Dalmatia_County&action=edit
+//geohack.toolforge.org/geohack.php?pagename=Seget,_Croatia&params=43_31_00.12_N_16_13_59.88_E_type:city_region:HR_source:frwiki
+https://viaf.org/viaf/316747617
+https://www.worldcat.org/identities/containsVIAFID/316747617
+https://en.wikipedia.org/w/index.php?title=Seget,_Croatia&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:SplitDalmatia-geo-stub&action=edit

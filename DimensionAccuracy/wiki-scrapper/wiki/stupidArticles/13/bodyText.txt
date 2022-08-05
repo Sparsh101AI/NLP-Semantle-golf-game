@@ -1,0 +1,4 @@
+Google Japanese Input (Google 日本語入力, Gūguru Nihongo Nyūryoku) is an input method published by Google for the entry of Japanese text on a computer. Since its dictionaries are generated automatically from the Internet, it supports typing of personal names, Internet slang, neologisms and related terms.
+Google also releases an open-source version without stable releases or quality assurance under the name mozc. As it is open source, it can be used on Linux-based systems, whereas Google Japanese Input is limited to Windows, MacOS, and Chrome OS. It does not use Google's closed-source algorithms for generating dictionary data from online sources.
+Google IME
+Google PinyinGoogle Japanese Input  (in Japanese)

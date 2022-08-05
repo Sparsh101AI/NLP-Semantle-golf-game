@@ -1,0 +1,16 @@
+//geohack.toolforge.org/geohack.php?pagename=Gare_du_Palais&params=46.8174_N_71.2139_W_region:CA-QC_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Gare_du_Palais&params=46.8174_N_71.2139_W_region:CA-QC_type:landmark
+http://www.viarail.ca/cgi-bin/genericXSLT?xml=QBEC.xml&xsl=en_station.xsl
+https://www.ville.quebec.qc.ca/culture_patrimoine/patrimoine/toponymie/repertoire/fiche.aspx?idFiche=1064
+https://web.archive.org/web/20070928205029/http://njussien.e-constraints.net/series/quebec/quebec-lieux.html
+http://njussien.e-constraints.net/series/quebec/quebec-lieux.html
+https://www.viarail.ca/sites/all/files/media/pdfs/schedules/winter2018/06-07_Quebec-SainteFoy-Montreal-Ottawa.pdf
+https://www.viarail.ca/sites/all/files/media/pdfs/schedules/winter2018/08-09_Ottawa-Montreal-SainteFoy-Quebec.pdf
+https://web.archive.org/web/20061101175248/http://www.pc.gc.ca/clmhc-hsmbc/gfp-hrs/qc_E.asp
+http://www.pc.gc.ca/clmhc-hsmbc/gfp-hrs/qc_e.asp
+http://www.bytownrailwaysociety.ca/phocadownload/branchline/1985/1985-12.pdf
+https://www.bonjourquebec.com/en-ca/listing/tourist-organizations-and-transportation/bus/bus-and-rail-stations/gare-du-palais-terminus-dautobus-de-gare-du-palais-4500244
+https://www.autobusbreton.com/horaire_quebec_stgeorges.php
+http://www.viarail.ca/cgi-bin/genericXSLT?xml=QBEC.xml&xsl=en_station.xsl
+https://viaf.org/viaf/316936521
+https://www.worldcat.org/identities/viaf-316936521/

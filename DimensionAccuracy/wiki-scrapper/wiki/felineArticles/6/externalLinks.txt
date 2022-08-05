@@ -1,0 +1,2 @@
+https://bioportal.bioontology.org/ontologies/FMA/?p=classes&conceptid=http%3A%2F%2Fpurl.org%2Fsig%2Font%2Ffma%2Ffma290277
+https://en.wikipedia.org/w/index.php?title=Template:Tooth_anatomy&action=edit

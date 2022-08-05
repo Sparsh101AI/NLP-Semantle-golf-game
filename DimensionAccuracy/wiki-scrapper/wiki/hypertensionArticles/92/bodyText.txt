@@ -1,0 +1,14 @@
+Calcium sulfide is the chemical compound with the formula CaS.  This white material crystallizes in cubes like rock salt.  CaS has been studied as a component in a process that would recycle gypsum, a product of flue-gas desulfurization. Like many salts containing sulfide ions, CaS typically has an odour of H2S, which results from small amount of this gas formed by hydrolysis of the salt.
+In terms of its atomic structure, CaS crystallizes in the same motif as sodium chloride indicating that the bonding in this material is highly ionic.  The high melting point is also consistent with its description as an ionic solid.  In the crystal, each S ion is surrounded by an octahedron of six Ca ions, and complementarily, each Ca ion surrounded by six S ions.
+CaS is produced by "carbothermic reduction" of calcium sulfate, which entails the conversion of carbon, usually as charcoal, to carbon dioxide:
+CaSO4  +  2 C  →  CaS  +  2 CO2and can react further:
+3 CaSO4  +  CaS  →  4 CaO  +  4 SO2In the second reaction the sulfate (+6 oxidation state) oxidizes the sulfide (-2 oxidation state) to sulfur dioxide (+4 oxidation state), while it is being reduced to sulfur dioxide itself (+4 oxidation state).
+CaS is also a byproduct in the Leblanc process, a once major industrial process for producing sodium carbonate.  In that process sodium sulfide reacts with calcium carbonate:
+Na2S  +  CaCO3  →  CaS  +  Na2CO3Millions of tons of this calcium sulfide byproduct was discarded, causing extensive pollution and controversy.
+Milk of lime, Ca(OH)2, reacts with elemental sulfur to give a "lime-sulfur", which has been used as an insecticide.  The active ingredient  is probably a calcium polysulfide, not CaS.
+Calcium sulfide decomposes upon contact with water, including moist air, giving a mixture of Ca(SH)2, Ca(OH)2, and Ca(SH)(OH).
+CaS  +  H2O  →  Ca(SH)(OH)
+Ca(SH)(OH)  +  H2O  →  Ca(OH)2  +  H2SIt reacts with acids such as hydrochloric acid to release toxic hydrogen sulfide gas.
+CaS + 2 HCl → CaCl2 + H2SCalcium sulfide is phosphorescent, and will glow a blood red for up to an hour after a light source is removed.
+Oldhamite is the name for mineralogical form of CaS. It is a rare component of some meteorites and has scientific importance in solar nebula research. Burning of coal dumps can also produce the compound.
+Glossary of meteoritics

@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Rackett&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Rackett%22
+//www.google.com/search?tbm=nws&q=%22Rackett%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Rackett%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Rackett%22+-wikipedia
+//scholar.google.com/scholar?q=%22Rackett%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Rackett%22&acc=on&wc=on
+https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Rackett
+https://en.wikipedia.org/w/index.php?title=Template:Double_reed&action=edit
+https://d-nb.info/gnd/4831785-8
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007548745005171
+https://id.loc.gov/authorities/subjects/sh86002470
+https://musicbrainz.org/instrument/0f12e34a-b764-4c50-82d4-72436f3f256a
+https://musicbrainz.org/instrument/dd93de8f-c32a-4bcf-8e90-4463c79676ea

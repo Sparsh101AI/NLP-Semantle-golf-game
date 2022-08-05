@@ -1,0 +1,17 @@
+The phylum Elusimicrobiota, previously known as "Termite Group 1", has been shown to be widespread in different ecosystems like marine environment, sewage sludge, contaminated sites and soils, and toxic wastes. The high abundance of Elusimicrobiota representatives is only evidenced for the lineage of symbionts found in termites and ants.
+The first organism to be cultured was Elusimicrobium minutum; however, other two species have been partially described and placed in a separate class, known as Microbiaendophisolisum.
+The currently accepted taxonomy is based solemnly on the List of Prokaryotic names with Standing in Nomenclature (LPSN)  and National Center for Biotechnology Information (NCBI)
+Phylum Elusimicrobiota Geissinger et al. 2021
+Class Elusimicrobia Geissinger et al. 2010
+Order Elusimicrobiales Geissinger et al. 2010
+Family Elusimicrobiaceae Geissinger et al. 2010
+Genus Elusimicrobium Geissinger et al. 2010
+Species E. minutum Geissinger et al. 2010
+Class Endomicrobia Zheng et al. 2018
+Order Endomicrobiales Zheng et al. 2018
+Family Endomicrobiaceae Zheng et al. 2018
+Genus Endomicrobium Zheng et al. 2018
+Species E. proavitum Zheng et al. 2018
+Species "Ca. E. pyrsonymphae" Stingl et al. 2005
+Species "Ca. E. superficiale" Izawa et al. 2017
+Species "Ca. E. trichonymphae" Stingl et al. 2005

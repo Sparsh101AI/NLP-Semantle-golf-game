@@ -1,0 +1,25 @@
+Colin G. DeYoung is an associate professor of psychology at the University of Minnesota (Minneapolis, Minnesota). His research is in the field of personality psychology and personality neuroscience.
+DeYoung earned his A.B. in the Mind, Brain, Behavior program of the History and Science concentration at Harvard University in 1998. He obtained his M.A. and Ph.D. in Psychology in 2000 and 2005, respectively, at the University of Toronto where he studied under Jordan B. Peterson.
+DeYoung's research in personality psychology has examined the theoretical structure of personality and the biological basis of personality.
+In contemporary psychology, the most commonly accepted model of personality structure is the "Big Five" or "Five Factor Model." Recent research using factor analysis has suggested that the five domains of the Big Five have two higher-order factors, referred to as metatraits. The two metatraits are Stability, which is composed of Big Five factors of Agreeableness, Conscientiousness, and Emotional Stability (the reverse of Neuroticism) and Plasticity, which includes the Big Five factors of Extraversion and Openness/Intellect (commonly referred to as Openness to Experience). Stability is defined by one's maintenance of stability and hypothesized to be related to the neurotransmitter serotonin, while Plasticity is seen in one's adaptability to novelty and hypothesized to be related to the neurotransmitter dopamine.
+DeYoung has also proposed an expanded classification of the Big Five dividing each of the Big Five into two sub-dimensions. DeYoung, Quilty and Peterson (2007) suggested the following aspects of the Big Five factors:
+Neuroticism:
+Volatility - irritability, anger, and difficulty controlling emotional impulses
+Withdrawal - susceptibility to anxiety, worry, depression, and sadness
+Agreeableness:
+Compassion - empathetic emotional affiliation
+Politeness - consideration and respect for others' needs and desires
+Conscientiousness:
+Industriousness - working hard and avoiding distraction
+Orderliness - organization and methodicalness
+Extraversion:
+Enthusiasm - positive emotion and sociability
+Assertiveness - drive and dominance
+Openness/Intellect (or Openness to Experience):
+Intellect - ingenuity, quickness, and intellectual engagement
+Openness - imagination, fantasy, and artistic and aesthetic interestsThe classification system utilizing these ten aspects allows for nuanced discrimination within the Big Five, which can reveal subtleties in differences in personality domains otherwise undetected.
+DeYoung et al.'s (2010) research indicates that the sizes of certain brain regions are related to four of the five different domains of the Five Factor Model. The volume of the medial orbitofrontal cortex, which is responsible for coding reward values, was positively associated with Extraversion. Neuroticism was related to reduced dorsomedial prefrontal cortex and posterior hippocampus volume and increased mid-cingulate gyrus volume, which are areas sensitive to threat and punishment and associated with negative emotion and emotional dysregulation. Reduced posterior left superior temporal sulcus and increased posterior cingulate cortex and fusiform gyrus volume were associated with Agreeableness and have been shown to be involved in interpretation of others' motives and beliefs. Increased volume in the middle frontal gyrus in the left lateral prefrontal cortex, an area responsible for maintaining and executing information and planned action, was positively correlated with Conscientiousness. Openness/Intellect (Openness to Experience) was the only member of the Big Five lacking a significant relationship to brain structure volume. However, other research by DeYoung et al. (2009) has shown that Openness/Intellect is related to brain function in prefrontal cortex.
+A helpful overview of 'Personality and the Brain' is provided by Glenn Wilson (2012) while Allen & DeYoung (2016) provide an overview article of 'Personality Neuroscience and the Five-factor model' in the Oxford Handbook of the Five Factor Model of Personality.
+Colin DeYoung Homepage
+Complete list of publications
+University of Minnesota Website

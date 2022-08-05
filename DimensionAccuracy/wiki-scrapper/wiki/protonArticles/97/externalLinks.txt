@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Pounce_(powder)&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Pounce%22+powder
+//www.google.com/search?tbm=nws&q=%22Pounce%22+powder+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Pounce%22+powder&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Pounce%22+powder+-wikipedia
+//scholar.google.com/scholar?q=%22Pounce%22+powder
+https://www.jstor.org/action/doBasicSearch?Query=%22Pounce%22+powder&acc=on&wc=on
+https://www.academia.edu/49510226
+https://doi.org/10.1007%2Fs11356-017-0522-0
+//www.worldcat.org/issn/0944-1344
+//pubmed.ncbi.nlm.nih.gov/29098586
+https://api.semanticscholar.org/CorpusID:22193671
+https://londonembroideryschool.com/2019/05/07/pro-tips-pounce-rubbing/
+https://en.wikipedia.org/w/index.php?title=Template:Pens&action=edit

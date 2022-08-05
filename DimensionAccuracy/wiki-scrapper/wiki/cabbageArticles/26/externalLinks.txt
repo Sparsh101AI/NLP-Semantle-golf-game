@@ -1,0 +1,10 @@
+https://commonchemistry.cas.org/detail?cas_rn=75920-32-0
+https://chemapps.stolaf.edu/jmol/jmol.php?model=%5BH%5D%5BGe%5D1C%3DCC%3DCC%3D1
+https://www.chemspider.com/Chemical-Structure.16739132.html
+https://pubchem.ncbi.nlm.nih.gov/compound/20056561
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID00560194
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=443835894&page2=Germabenzene
+https://doi.org/10.1016%2Fj.theochem.2009.10.038
+https://doi.org/10.1021%2Fja0262941
+//www.worldcat.org/issn/0002-7863
+https://doi.org/10.1021%2Fom010881y

@@ -1,0 +1,69 @@
+Israel Moiseevich Gelfand, also written Israïl Moyseyovich Gel'fand, or Izrail M. Gelfand (Yiddish: ישראל געלפֿאַנד, Russian: Изра́иль Моисе́евич Гельфа́нд, Ukrainian: Ізраїль Мойсейович Гельфанд; 2 September [O.S. 20 August] 1913 – 5 October 2009) was a prominent Soviet-American mathematician. He made significant contributions to many branches of mathematics, including group theory, representation theory and functional analysis. The recipient of many awards, including the Order of Lenin and the first Wolf Prize, he was a Foreign Fellow of the Royal Society and professor at Moscow State University and, after immigrating to the United States shortly before his 76th birthday, at Rutgers University. Gelfand is also a 1994 MacArthur Fellow.
+His legacy continues through his students, who include Endre Szemerédi, Alexandre Kirillov, Edward Frenkel, Joseph Bernstein, David Kazhdan, as well as his own son, Sergei Gelfand.
+A native of Kherson Governorate, Russian Empire (now, Odessa Oblast, Ukraine), Gelfand was born into a Jewish family in the small southern Ukrainian town of Okny. According to his own account, Gelfand was expelled from high school under the Soviets because his father had been a mill owner. Bypassing both high school and college, he proceeded to postgraduate study at the age of 19 at Moscow State University, where his advisor was the preeminent mathematician Andrei Kolmogorov.
+Gelfand is known for many developments including:
+the book Calculus of Variations (1963), which he co-authored with Sergei Fomin;
+ Gelfand's formula, which expresses the spectral radius as a limit of matrix norms.
+the Gelfand representation in Banach algebra theory;
+the Gelfand–Mazur theorem in Banach algebra theory;
+the Gelfand–Naimark theorem;
+the Gelfand–Naimark–Segal construction;
+Gelfand–Shilov spaces;
+the Gelfand–Pettis integral;
+the representation theory of the complex classical Lie groups;
+contributions to the theory of Verma modules in the representation theory of semisimple Lie algebras (with I. N. Bernstein and S. I. Gelfand);
+contributions to distribution theory and measures on infinite-dimensional spaces;
+the first observation of the connection of automorphic forms with representations (with Sergei Fomin);
+conjectures about the Atiyah–Singer index theorem;
+ordinary differential equations (Gelfand–Levitan theory);
+work on calculus of variations and soliton theory (Gelfand–Dikii equations);
+contributions to the philosophy of cusp forms;
+Gelfand–Fuchs cohomology of Lie algebras;
+Gelfand–Kirillov dimension;
+integral geometry;
+combinatorial definition of the Pontryagin class;
+Coxeter functors;
+general hypergeometric functions;
+Gelfand–Tsetlin patterns;
+Gelfand-Lokutsievski method;
+and many other results, particularly in the representation theory of classical groups.Gelfand ran a seminar at Moscow State University from 1945(?) until May 1989 (when it continued at Rutgers University), which covered a wide range of topics and was an important school for many mathematicians.
+The Gelfand–Tsetlin (also spelled Zetlin) basis is a widely used tool in theoretical physics and the result of Gelfand's work on the representation theory of the unitary group and Lie groups in general.
+Gelfand also published works on biology and medicine. For a long time he took an interest in cell biology and organized a research seminar on the subject.
+He worked extensively in mathematics education, particularly with correspondence education. In 1994, he was awarded a MacArthur Fellowship for this work.
+Gelfand was married to Zorya Shapiro, and their two sons, Sergei and Vladimir both live in the United States. The third son, Aleksandr, died of leukemia. Following the divorce from his first wife, Gelfand married his second wife, Tatiana; together they had a daughter, Tatiana. The family also includes four grandchildren and three great-grandchildren. Memories about I. Gelfand are collected at a dedicated website handled by his family.
+Gelfand held several honorary degrees and was awarded the Order of Lenin three times for his research. In 1977 he was elected a Foreign Member of the Royal Society. He won the Wolf Prize in 1978, Kyoto Prize in 1989 and MacArthur Foundation Fellowship in 1994. He held the presidency of the Moscow Mathematical Society between 1968 and 1970, and was elected a foreign member of the U.S. National Academy of Science, the American Academy of Arts and Sciences, the Royal Irish Academy, the American Mathematical Society and the London Mathematical Society.
+In an October 2003 article in The New York Times, written on the occasion of his 90th birthday, Gelfand is described as a scholar who is considered "among the greatest mathematicians of the 20th century", having exerted a tremendous influence on the field both through his own works and those of his students.
+Gelfand died at the Robert Wood Johnson University Hospital near his home in Highland Park, New Jersey. He was less than five weeks past his 96th birthday. His death was first reported on the blog of his former collaborator Andrei Zelevinsky and confirmed a few hours later by an obituary in the Russian online newspaper Polit.ru.
+Gelfand, I. M. (1998), Lectures on linear algebra, Courier Dover Publications, ISBN 978-0-486-66082-0
+Gelfand, I. M.; Fomin, Sergei V. (1963),  Silverman, Richard A. (ed.), Calculus of variations, Englewood Cliffs, N.J.: Prentice-Hall Inc., ISBN 978-0-486-41448-5, MR 0160139
+Gelfand, I.; Raikov, D.; Shilov, G. (1964) [1960], Commutative normed rings, Translated from the Russian, with a supplementary chapter, New York: Chelsea Publishing Co., ISBN 978-0-8218-2022-3, MR 0205105
+Gel'fand, I. M.; Shilov, G. E. (1964) [1958], Generalized functions. Vol. I: Properties and operations, Translated by Eugene Saletan, Boston, MA: Academic Press, ISBN 978-0-12-279501-5, MR 0166596
+Gelfand, I. M.; Shilov, G. E. (1968) [1958], Generalized functions. Vol. 2. Spaces of fundamental and generalized functions, Translated from the Russian by Morris D. Friedman, Amiel Feinstein and Christian P. Peltzer, Boston, MA: Academic Press, ISBN 978-0-12-279502-2, MR 0230128
+Gelfand, I. M.; Shilov, G. E. (1967) [1958], Generalized functions. Vol. 3: Theory of differential equations, Translated from the Russian by Meinhard E. Mayer, Boston, MA: Academic Press, MR 0217416
+Gelfand, I. M.; Vilenkin, N. Ya. (1964) [1961], Generalized functions. Vol. 4: Applications of harmonic analysis, Translated by Amiel Feinstein, Boston, MA: Academic Press, ISBN 978-0-12-279504-6, MR 0173945
+Gelfand, I. M.; Graev, M. I.; Vilenkin, N. Ya. (1966) [1962], Generalized functions. Vol. 5: Integral geometry and representation theory, Translated from the Russian by Eugene Saletan, Boston, MA: Academic Press, ISBN 978-0-12-279505-3, MR 0207913
+Gelfand, I. M.; Graev, M. I.; Pyatetskii-Shapiro, I. I. (1969), Representation theory and automorphic functions, Translated from the Russian by K. A. Hirsch, Philadelphia, Pa.: W. B. Saunders Co., ISBN 978-0-12-279506-0, MR 0233772
+Gelfand, Izrail M. (1987),  Gindikin, S. G.; Guillemin, V. W.; Kirillov, A. A.; Kostant, Bertram; Sternberg, Shlomo (eds.), Collected papers. Vol. I, Berlin, New York: Springer-Verlag, ISBN 978-3-540-13619-4, MR 0929821
+Gelfand, Izrail M. (1988),  Gindikin, S. G.; Guillemin, V. W.; Kirillov, A. A.; Kostant, Bertram; Sternberg, Shlomo (eds.), Collected papers. Vol. II, Berlin, New York: Springer-Verlag, ISBN 978-3-540-19035-6, MR 0929821
+Gelfand, I. M.; Shen, A. (1993), Algebra, Boston: Birkhäuser, ISBN 978-0-8176-3677-7
+Gelfand, Izrail M. (1989),  Gindikin, S. G.; Guillemin, V. W.; Kirillov, A. A.; Kostant, Bertram; Sternberg, Shlomo (eds.), Collected papers. Vol. III, Berlin, New York: Springer-Verlag, ISBN 978-3-540-19399-9, MR 0997939
+Gelfand, I. M.; Kapranov, M.M.; Zelevinsky, A.V. (1994), Discriminants, resultants, and multidimensional determinants, Boston: Birkhäuser, ISBN 978-0-8176-3660-9
+Gelfand, I. M.; Saul, M. (2001), Trigonometry, Boston: Birkhäuser, doi:10.1007/978-1-4612-0149-6, ISBN 978-0-8176-3914-3
+Gelfand, I. M.; Gindikin, S. G.; Graev, M. I. (2003), Selected topics in integral geometry, Translations of Mathematical Monographs, vol. 220, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2932-5, MR 2000133
+Borovik, Alexandre V.; Gelfand, I. M.; White, Neil (2003), Coxeter matroids, Progress in Mathematics, vol. 216, Boston, MA: Birkhäuser Boston, ISBN 978-0-8176-3764-4, MR 1989953
+Generalized Functions Volumes, 1-6, American Math Society, (2015)Gelfand duality
+Gelfand-Levitan-Marchenko equation
+Gelfand pair
+Gelfand mapping
+Gelfand ring
+Gelfand triple
+Anti-cosmopolitan campaignIsrael Moiseevich Gelfand, dedicated site, maintained by Tatiana V. Gelfand and Tatiana I. Gelfand
+Israel Gelfand - Daily Telegraph obituary
+Israel Gelfand - Guardian obituary
+Israel Gelfand at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "Israel Gelfand", MacTutor History of Mathematics archive, University of St Andrews
+Web page at Rutgers
+List of publications.
+Steele Prize citation.
+The unity of mathematics – In honor of the ninetieth birthday of I. M. Gelfand
+Interview: "A talk with professor I. M. Gelfand.", recorded by V. Retakh and A. Sosinsky, Kvant (1989), no. 1, 3–12 (in Russian). English translation in: Quantum (1991), no. 1, 20–26. (Link)

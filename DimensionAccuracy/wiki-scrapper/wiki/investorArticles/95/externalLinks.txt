@@ -1,0 +1,4 @@
+https://en.wikipedia.org/w/index.php?title=Template:Information_theory&action=edit
+http://www.inference.org.uk/mackay/itprnn/book.html
+https://doi.org/10.1109%2FTIT.1970.1054466
+https://archive.org/details/elementsofinform0000cove

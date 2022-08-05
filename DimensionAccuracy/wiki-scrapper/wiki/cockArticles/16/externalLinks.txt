@@ -1,0 +1,9 @@
+http://www.daviot.org/
+https://en.wikipedia.org/w/index.php?title=Template:Garioch,_Aberdeenshire_places&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Aberdeenshire_places&action=edit
+//geohack.toolforge.org/geohack.php?pagename=Daviot,_Aberdeenshire&params=57_20_N_2_25_W_region:GB_type:city
+https://viaf.org/viaf/151446789
+https://www.worldcat.org/identities/containsVIAFID/151446789
+https://id.loc.gov/authorities/names/n97880261
+https://en.wikipedia.org/w/index.php?title=Daviot,_Aberdeenshire&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Aberdeenshire-geo-stub&action=edit

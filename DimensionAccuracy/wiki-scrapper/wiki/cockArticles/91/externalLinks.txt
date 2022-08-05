@@ -1,0 +1,7 @@
+https://geohack.toolforge.org/geohack.php?pagename=Achnafauld&params=56.50527058054_N_3.8294028538047_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Achnafauld&params=56.505271_N_3.829403_W_region:GB_type:city
+//geohack.toolforge.org/geohack.php?pagename=Achnafauld&params=56.505271_N_3.829403_W_region:GB_type:city
+http://www.scottish-places.info/towns/townfirst1408.html
+https://en.wikipedia.org/w/index.php?title=Template:Perth_and_Kinross_towns_and_villages&action=edit
+https://en.wikipedia.org/w/index.php?title=Achnafauld&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:PerthKinross-geo-stub&action=edit

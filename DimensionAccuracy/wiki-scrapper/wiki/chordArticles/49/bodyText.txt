@@ -1,0 +1,316 @@
+In mathematics, the Weierstrass function is an example of a real-valued function that is continuous everywhere but differentiable nowhere. It is an example of a fractal curve. It is named after its discoverer Karl Weierstrass.
+The Weierstrass function has historically served the role of a pathological function, being the first published example (1872) specifically concocted to challenge the notion that every continuous function is differentiable except on a set of isolated points. Weierstrass's demonstration that continuity did not imply almost-everywhere differentiability upended mathematics, overturning several proofs that relied on geometric intuition and vague definitions of smoothness. These types of functions were denounced by contemporaries: Henri Poincaré famously described them as "monsters" and called Weierstrass' work "an outrage against common sense", while Charles Hermite wrote that they were a "lamentable scourge". The functions were impossible to visualize until the arrival of computers in the next century, and the results did not gain wide acceptance until practical applications such as models of Brownian motion necessitated infinitely jagged functions (nowadays known as fractal curves).
+In Weierstrass's original paper, the function was defined as a Fourier series:
+
+
+
+
+f
+(
+x
+)
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+a
+
+n
+
+
+cos
+⁡
+(
+
+b
+
+n
+
+
+π
+x
+)
+,
+
+
+{\displaystyle f(x)=\sum _{n=0}^{\infty }a^{n}\cos(b^{n}\pi x),}
+
+where 
+
+
+
+0
+<
+a
+<
+1
+
+
+{\displaystyle 0<a<1}
+
+,  
+
+
+
+b
+
+
+{\displaystyle b}
+
+ is a positive odd integer, and
+
+
+
+
+a
+b
+>
+1
++
+
+
+3
+2
+
+
+π
+.
+
+
+{\displaystyle ab>1+{\frac {3}{2}}\pi .}
+
+The minimum value of 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ for which there exists 
+
+
+
+0
+<
+a
+<
+1
+
+
+{\displaystyle 0<a<1}
+
+ such that these constraints are satisfied is 
+
+
+
+b
+=
+7
+
+
+{\displaystyle b=7}
+
+. This construction, along with the proof that the function is not differentiable over any interval, was first delivered by Weierstrass in a paper presented to the Königliche Akademie der Wissenschaften on 18 July 1872.
+Despite never being differentiable, the function is continuous: Since the terms of the infinite series which defines it are bounded by ±a and this has finite sum for 0 < a < 1, convergence of the sum of the terms is uniform by the Weierstrass M-test with Mn = a. Since each partial sum is continuous, by the uniform limit theorem, it follows that f is continuous. Additionally, since each partial sum is uniformly continuous, it follows that f is also uniformly continuous.
+It might be expected that a continuous function must have a derivative, or that the set of points where it is not differentiable should be countably infinite or finite. According to Weierstrass in his paper, earlier mathematicians including Gauss had often assumed that this was true. This might be because it is difficult to draw or visualise a continuous function whose set of nondifferentiable points is something other than a countable set of points. Analogous results for better behaved classes of continuous functions do exist, for example the Lipschitz functions, whose set of non-differentiability points must be a Lebesgue null set (Rademacher's theorem). When we try to draw a general continuous function, we usually draw the graph of a function which is Lipschitz or otherwise well-behaved.
+The Weierstrass function was one of the first fractals studied, although this term was not used until much later. The function has detail at every level, so zooming in on a piece of the curve does not show it getting progressively closer and closer to a straight line. Rather between any two points no matter how close, the function will not be monotone.
+The computation of the Hausdorff dimension D of the graph of the classical Weierstrass function was an open problem until 2018, while it was generally believed that D = 
+
+
+
+2
++
+
+log
+
+b
+
+
+⁡
+(
+a
+)
+<
+2
+
+
+{\displaystyle 2+\log _{b}(a)<2}
+
+. That D is strictly less than 2 follows from the conditions on 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ from above. Only after more than 30 years was this proved rigorously.
+The term Weierstrass function is often used in real analysis to refer to any function with similar properties and construction to Weierstrass's original example. For example, the cosine function can be replaced in the infinite series by a piecewise linear “zigzag” function. G. H. Hardy showed that the function of the above construction is nowhere differentiable with the assumptions 0 < a < 1, ab ≥ 1.
+It is convenient to write the Weierstrass function equivalently as
+
+
+
+
+
+W
+
+α
+
+
+(
+x
+)
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+b
+
+−
+n
+α
+
+
+cos
+⁡
+(
+
+b
+
+n
+
+
+π
+x
+)
+
+
+{\displaystyle W_{\alpha }(x)=\sum _{n=0}^{\infty }b^{-n\alpha }\cos(b^{n}\pi x)}
+
+for 
+
+
+
+α
+=
+−
+
+
+
+ln
+⁡
+(
+a
+)
+
+
+ln
+⁡
+(
+b
+)
+
+
+
+
+
+{\displaystyle \alpha =-{\frac {\ln(a)}{\ln(b)}}}
+
+.  Then Wα(x) is Hölder continuous of exponent α, which is to say that there is a constant C such that
+
+
+
+
+
+|
+
+
+W
+
+α
+
+
+(
+x
+)
+−
+
+W
+
+α
+
+
+(
+y
+)
+
+|
+
+≤
+C
+
+|
+
+x
+−
+y
+
+
+|
+
+
+α
+
+
+
+
+{\displaystyle |W_{\alpha }(x)-W_{\alpha }(y)|\leq C|x-y|^{\alpha }}
+
+for all x and y. Moreover, W1 is Hölder continuous of all orders α < 1 but not Lipschitz continuous.
+It turns out that the Weierstrass function is far from being an isolated example: although it is "pathological", it is also "typical" of continuous functions:
+In a topological sense: the set of nowhere-differentiable real-valued functions on [0, 1] is comeager in the vector space C([0, 1]; R) of all continuous real-valued functions on [0, 1] with the topology of uniform convergence.
+In a measure-theoretic sense: when the space C([0, 1]; R) is equipped with classical Wiener measure γ, the collection of functions that are differentiable at even a single point of [0, 1] has γ-measure zero. The same is true even if one takes finite-dimensional "slices" of C([0, 1]; R), in the sense that the nowhere-differentiable functions form a prevalent subset of C([0, 1]; R).Blancmange curve
+Koch snowflake
+Nowhere continuous functionDavid, Claire (2018), "Bypassing dynamical systems : A simple way to get the box-counting dimension of the graph of the Weierstrass function", Proceedings of the International Geometry Center, Academy of Sciences of Ukraine, 11 (2): 53–68, doi:10.15673/tmgc.v11i2.1028
+Falconer, K. (1984), The Geometry of Fractal Sets, Cambridge Tracts in Mathematics, vol. Book 85, Cambridge: Cambridge University Press, ISBN 978-0-521-33705-2
+Gelbaum, B Bernard R.; Olmstead, John M. H. (2003) [1964], Counterexamples in Analysis, Dover Books on Mathematics, Dover Publications, ISBN 978-0-486-42875-8
+Hardy, G. H. (1916), "Weierstrass's nondifferentiable function" (PDF), Transactions of the American Mathematical Society, American Mathematical Society, 17 (3): 301–325, doi:10.2307/1989005, JSTOR 1989005
+Weierstrass, Karl (18 July 1872), Über continuirliche Functionen eines reellen Arguments, die für keinen Werth des letzeren einen bestimmten Differentialquotienten besitzen, Königlich Preussische Akademie der Wissenschaften
+Weierstrass, Karl (1895), "Über continuirliche Functionen eines reellen Arguments, die für keinen Werth des letzeren einen bestimmten Differentialquotienten besitzen", Mathematische Werke von Karl Weierstrass, vol. 2, Berlin, Germany: Mayer & Müller, pp. 71–74
+English translation: Edgar, Gerald A. (1993), "On continuous functions of a real argument that do not possess a well-defined derivative for any value of their argument", Classics on Fractals, Studies in Nonlinearity, Addison-Wesley Publishing Company, pp. 3–9, ISBN 978-0-201-58701-2Weisstein, Eric W. "Weierstrass function". MathWorld. (a different Weierstrass Function which is also continuous and nowhere differentiable)
+Nowhere differentiable continuous function proof of existence using Banach's contraction principle.
+Nowhere monotonic continuous function proof of existence using the Baire category theorem.
+Johan Thim. "Continuous Nowhere Differentiable Functions". Master Thesis Lulea Univ of Technology 2003. Retrieved 28 July 2006.
+Weierstrass function in the complex plane Beautiful fractal.
+SpringerLink - Journal of Fourier Analysis and Applications, Volume 16, Number 1 Simple Proofs of Nowhere-Differentiability for Weierstrass's Function and Cases of Slow Growth
+Weierstrass functions: continuous but not differentiable anywhere

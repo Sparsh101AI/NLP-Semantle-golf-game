@@ -1,0 +1,17 @@
+https://en.wikipedia.org/w/index.php?title=Newburgh,_Aberdeenshire&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Newburgh%2C+Aberdeenshire%22
+//www.google.com/search?tbm=nws&q=%22Newburgh%2C+Aberdeenshire%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Newburgh%2C+Aberdeenshire%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Newburgh%2C+Aberdeenshire%22+-wikipedia
+//scholar.google.com/scholar?q=%22Newburgh%2C+Aberdeenshire%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Newburgh%2C+Aberdeenshire%22&acc=on&wc=on
+https://geohack.toolforge.org/geohack.php?pagename=Newburgh,_Aberdeenshire&params=57.31915936423_N_2.0049650183743_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Newburgh,_Aberdeenshire&params=57.31557_N_2.00164_W_region:GB_source:enwiki-osgb36(NK000250)_type:city(1560)
+//geohack.toolforge.org/geohack.php?pagename=Newburgh,_Aberdeenshire&params=57.31557_N_2.00164_W_region:GB_source:enwiki-osgb36(NK000250)_type:city(1560)
+https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/settlements-and-localities/mid-2020
+http://www.scottish-places.info/towns/townfirst4067.html
+http://www.undiscoveredscotland.co.uk/newburgh/newburgh/
+http://www.luminatechnologies.org/luminawws.html
+https://web.archive.org/web/20100528121347/http://www.luminatechnologies.org/luminawws.html
+https://en.wikipedia.org/w/index.php?title=Template:Formartine,_Aberdeenshire_places&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Aberdeenshire_places&action=edit

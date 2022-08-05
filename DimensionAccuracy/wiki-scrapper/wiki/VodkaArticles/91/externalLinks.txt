@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=P%C3%A1patesz%C3%A9r&params=47.3823_N_17.70191_E_region:HU_type:city(1255)
+//geohack.toolforge.org/geohack.php?pagename=P%C3%A1patesz%C3%A9r&params=47.3823_N_17.70191_E_region:HU_type:city(1255)
+http://www.terkepcentrum.hu/index.asp?go=map&tid=31255
+https://en.wikipedia.org/w/index.php?title=P%C3%A1patesz%C3%A9r&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Veszprem-geo-stub&action=edit

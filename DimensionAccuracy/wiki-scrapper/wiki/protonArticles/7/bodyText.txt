@@ -1,0 +1,127 @@
+In quantum mechanics, the total angular momentum quantum number parametrises the total angular momentum of a given particle, by combining its orbital angular momentum and its intrinsic angular momentum (i.e., its spin).
+If s is the particle's spin angular momentum and ℓ its orbital angular momentum vector, the total angular momentum j is
+
+
+
+
+
+j
+
+=
+
+s
+
++
+
+ℓ
+
+ 
+.
+
+
+{\displaystyle \mathbf {j} =\mathbf {s} +{\boldsymbol {\ell }}~.}
+
+
+The associated quantum number is the main total angular momentum quantum number j. It can take the following range of values, jumping only in integer steps:
+
+
+
+
+
+|
+
+ℓ
+−
+s
+
+|
+
+≤
+j
+≤
+ℓ
++
+s
+
+
+{\displaystyle |\ell -s|\leq j\leq \ell +s}
+
+
+where ℓ is the azimuthal quantum number (parameterizing the orbital angular momentum) and s is the spin quantum number (parameterizing the spin).
+The relation between the total angular momentum vector j and the total angular momentum quantum number j is given by the usual relation (see angular momentum quantum number)
+
+
+
+
+‖
+
+j
+
+‖
+=
+
+
+j
+
+(
+j
++
+1
+)
+
+
+
+ℏ
+
+
+{\displaystyle \Vert \mathbf {j} \Vert ={\sqrt {j\,(j+1)}}\,\hbar }
+
+
+The vector's z-projection is given by
+
+
+
+
+
+j
+
+z
+
+
+=
+
+m
+
+j
+
+
+
+ℏ
+
+
+{\displaystyle j_{z}=m_{j}\,\hbar }
+
+
+where mj is the secondary total angular momentum quantum number, and the 
+
+
+
+ℏ
+
+
+{\displaystyle \hbar }
+
+ is the reduced Planck's constant. It ranges from −j to +j in steps of one. This generates 2j + 1 different values of mj.
+The total angular momentum corresponds to the Casimir invariant of the Lie algebra so(3) of the three-dimensional rotation group.
+Canonical commutation relation § Uncertainty relation for angular momentum operators
+Principal quantum number
+Orbital angular momentum quantum number
+Magnetic quantum number
+Spin quantum number
+Angular momentum coupling
+Clebsch–Gordan coefficients
+Angular momentum diagrams (quantum mechanics)
+Rotational spectroscopyGriffiths, David J. (2004). Introduction to Quantum Mechanics (2nd ed.). Prentice Hall. ISBN 0-13-805326-X.
+Albert Messiah, (1966). Quantum Mechanics (Vols. I & II), English translation from French by G. M. Temmer. North Holland, John Wiley & Sons.
+Vector model of angular momentum
+LS and jj coupling

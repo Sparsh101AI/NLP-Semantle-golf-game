@@ -1,0 +1,30 @@
+History
+Technical details
+PostScript language
+File format
+Imaging model
+Vector graphics
+Raster images
+Text
+Transparency
+Additional features
+Logical structure and accessibility
+Optional Content Groups (layers)
+Encryption and signatures
+File attachments
+Metadata
+Accessibility
+Multimedia
+Forms
+Licensing
+Security
+Software
+Viewers and editors
+Printing
+Native display model
+Annotation
+Alternatives
+See also
+References
+Further reading
+External links

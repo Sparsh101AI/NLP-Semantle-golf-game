@@ -1,0 +1,10 @@
+ISO 843 is a system for the transliteration and/or transcription of Greek characters into Latin characters.
+It was released by the International Organization for Standardization in 1997. The transcription table is based on the first edition (1982) of the ELOT 743 transcription and transliteration system created by ELOT and officially adopted by the Greek government. The transliteration table provided major changes to the original one by ELOT, which in turn aligned to ISO 843 for the second edition of its ELOT 743 (2001).
+Exceptions:
+double vowels αυ are transliterated as au. The transliteration could also be "av" or "af", according to https://web.archive.org/web/20110809113951/http://www.passport.gov.gr/elot-743.html
+double vowels ευ are transliterated as eu
+double vowels ου are transliterated as ouISO 843 also includes a system for transcription, referred to as "Type 2" in the protocol.
+List of ISO standards
+List of ISO transliterations
+Romanization of GreekTransliteration of Non-Roman Scripts -A collection of writing systems and transliteration tables, by Thomas T. Pedersen.  PDF reference charts include ISO 843.
+Lingua::Translit Perl module covering a variety of writing systems. Transliteration according to several standards including ISO 843 and DIN 31634 for Greek.

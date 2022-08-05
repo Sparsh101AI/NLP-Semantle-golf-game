@@ -1,0 +1,12 @@
+https://www.ebi.ac.uk/ols/ontologies/rxno/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FRXNO_0000084
+https://web.archive.org/web/19980422182610/http://orgchem.chem.uconn.edu/namereact/barbier.html
+http://gallica.bnf.fr/ark:/12148/bpt6k30841.pleinepage.f110.langFR
+https://doi.org/10.3390%2F61200964
+https://doi.org/10.3390%2F61200964
+http://www.arkat-usa.org/ark/journal/2001/I10_Undheim/242/242.asp
+http://www.orgsyn.org/demo.aspx?prep=v77p0107
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC6236354
+https://doi.org/10.3390%2F60800655
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC6236354
+https://doi.org/10.1016%2F0040-4039%2895%2900351-C
+https://en.wikipedia.org/w/index.php?title=Template:Organic_reactions&action=edit

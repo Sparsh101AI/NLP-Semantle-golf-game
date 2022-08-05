@@ -1,0 +1,10 @@
+https://isni.org/isni/0000000018509455
+https://viaf.org/viaf/25551228
+https://www.worldcat.org/identities/viaf-25551228/
+https://authority.bibsys.no/authority/rest/authorities/html/14045263
+https://catalogue.bnf.fr/ark:/12148/cb16161030k
+https://data.bnf.fr/ark:/12148/cb16161030k
+https://d-nb.info/gnd/124987060
+http://data.bibliotheken.nl/id/thes/p285639625
+http://www.biografischportaal.nl/en/persoon/97988030
+https://www.deutsche-biographie.de/pnd124987060.html?language=en

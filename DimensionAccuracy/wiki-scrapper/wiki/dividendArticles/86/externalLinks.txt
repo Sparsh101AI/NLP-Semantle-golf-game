@@ -1,0 +1,11 @@
+http://git.savannah.gnu.org/cgit/gnugo.git
+http://www.gnu.org/software/gnugo
+https://www.gnu.org/software/gnugo/devel.html
+https://lists.gnu.org/archive/html/gnugo-announce/2009-02/msg00001.html
+https://git.savannah.gnu.org/cgit/gnugo.git/tree/ChangeLog
+http://www.computer-go.info/events/index.html
+https://web.archive.org/web/20070703231248/http://computer-go.softopia.or.jp/gifu2006/English/08.html
+http://computer-go.softopia.or.jp/gifu2006/English/08.html
+https://www.gnu.org/software/gnugo/
+https://en.wikipedia.org/w/index.php?title=Template:GNU&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Go_(game)&action=edit

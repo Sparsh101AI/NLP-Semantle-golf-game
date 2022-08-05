@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=Scoop_(theater)&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Scoop%22+theater
+//www.google.com/search?tbm=nws&q=%22Scoop%22+theater+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Scoop%22+theater&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Scoop%22+theater+-wikipedia
+//scholar.google.com/scholar?q=%22Scoop%22+theater
+https://www.jstor.org/action/doBasicSearch?Query=%22Scoop%22+theater&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Template:Stagecraft&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Artificial_light_sources&action=edit
+https://en.wikipedia.org/w/index.php?title=Scoop_(theater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Stagecraft-stub&action=edit

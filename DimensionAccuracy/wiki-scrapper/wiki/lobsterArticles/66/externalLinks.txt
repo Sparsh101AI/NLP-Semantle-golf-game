@@ -1,0 +1,14 @@
+http://www.dhl.com/en.html
+https://onlineshipping.dhl.com/wsi/SubmitCountryServlet?moduleKey=Login&countryCode=GB
+https://web.archive.org/web/20091130032431/http://www.dp-dhl.com/en/investors.html
+http://www.dp-dhl.com/en/investors.html
+http://wck2.companieshouse.gov.uk/b89a8cd7668a0d6fa3ef9be093fc1b29/compdetails
+http://www.caa.co.uk/default.aspx?categoryid=183&pagetype=90&pageid=340
+https://web.archive.org/web/20070311005729/http://www.caa.co.uk/default.aspx?categoryid=183&pagetype=90&pageid=340
+https://www.planespotters.net/airline/DHL-Air
+http://aerobernie.bplaced.net/ELAN.html
+https://aviation-safety.net/wikibase/247805
+http://www.dhl.com/
+https://en.wikipedia.org/w/index.php?title=Template:DHL_Aviation&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Airlines_of_the_United_Kingdom&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:IATA_members&action=edit

@@ -1,0 +1,5 @@
+Structure of PRC file
+PRC Header
+PRC Resource Header
+PRC Resources
+References

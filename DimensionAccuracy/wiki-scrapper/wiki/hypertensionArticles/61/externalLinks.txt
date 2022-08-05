@@ -1,0 +1,16 @@
+https://commonchemistry.cas.org/detail?cas_rn=365-08-2
+https://chemapps.stolaf.edu/jmol/jmol.php?model=CC1%3DCN%28C%28%3DO%29NC1%3DO%29C2CC%28C%28O2%29COP%28%3DO%29%28O%29OP%28%3DO%29%28O%29OP%28%3DO%29%28O%29O%29O
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=18077
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL363559
+https://www.chemspider.com/Chemical-Structure.58493.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.006.064
+http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?tab=summary&ligandId=5505
+//www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&term=thymidine+5'-triphosphate
+https://pubchem.ncbi.nlm.nih.gov/compound/64968
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=QOP4K539MU
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID30189998
+https://archive.org/details/acsstyleguideeff0000unse/page/244
+https://archive.org/details/acsstyleguideeff0000unse/page/244
+https://en.wikipedia.org/w/index.php?title=Template:Nucleobases,_nucleosides,_and_nucleotides&action=edit
+https://en.wikipedia.org/w/index.php?title=Thymidine_triphosphate&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Genetics-stub&action=edit

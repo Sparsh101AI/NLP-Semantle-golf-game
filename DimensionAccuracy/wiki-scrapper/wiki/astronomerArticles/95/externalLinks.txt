@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Crystal_Brook_(creek)&params=33_21_S_138_06_E_region:AU-SA_type:river
+//geohack.toolforge.org/geohack.php?pagename=Crystal_Brook_(creek)&params=33_21_S_138_06_E_region:AU-SA_type:river
+http://www.bonzle.com/c/a?a=p&p=202480&cmd=sp
+https://web.archive.org/web/20151207082745/http://maps.sa.gov.au/plb/
+http://maps.sa.gov.au/plb
+https://en.wikipedia.org/w/index.php?title=Template:Rivers_of_South_Australia&action=edit
+https://en.wikipedia.org/w/index.php?title=Crystal_Brook_(creek)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:SouthAustralia-river-stub&action=edit

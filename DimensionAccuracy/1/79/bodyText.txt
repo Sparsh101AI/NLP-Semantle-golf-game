@@ -1,0 +1,13 @@
+C1 domain (also known as phorbol esters/diacylglycerol binding domain) binds an important secondary messenger diacylglycerol (DAG), as well as the analogous phorbol esters. Phorbol esters can directly stimulate protein kinase C, PKC.
+Phorbol esters (such as PMA) are analogues of DAG and potent tumor promoters that cause a variety of physiological changes when administered to both cells and tissues. DAG activates a family of serine/threonine protein kinases, collectively known as protein kinase C (PKC). Phorbol esters can directly stimulate PKC.
+The N-terminal region of PKC, known as C1, binds PMA and DAG in a phospholipid and zinc-dependent fashion. The C1 region contains one or two copies of a cysteine-rich domain, which is about 50 amino-acid residues long, and which is essential for DAG/PMA-binding.
+The DAG/PMA-binding domain binds two zinc ions; the ligands of these metal ions are probably the six cysteines and two histidines that are conserved in this domain.
+AKAP13;    ARAF;      ARHGAP29;  ARHGEF2;   BRAF;      CDC42BPA;  CDC42BPB;  CDC42BPG;
+CHN1;      CHN2;      CIT;  CIC;     DGKA;      DGKB;      DGKD;      DGKE;      DGKG;
+DGKH;      DGKI;      DGKK;      DGKQ;      DGKZ;      GMIP;      HMHA1;     KSR1;
+KSR2;      MYO9A;     MYO9B;     PDZD8;     PRKCA;     PRKCB1;    PRKCD;     PRKCE;
+PRKCG;     PRKCH;     PRKCI;     PRKCN;     PRKCQ;     PRKCZ;     PRKD1;     PRKD2;
+PRKD3;     RACGAP1;   RAF1;      RASGRP;    RASGRP1;   RASGRP2;   RASGRP3;   RASGRP4;
+RASSF1;    RASSF5;    ROCK1;     ROCK2;     STAC;      STAC2;     STAC3;     TENC1;
+UNC13A;    UNC13B;    UNC13C;    VAV1;      VAV2;      VAV3;
+UMich Orientation of Proteins in Membranes families/superfamily-63 - Orientations of C1 domains in membranes (OPM)

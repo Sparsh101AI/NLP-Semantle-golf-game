@@ -1,0 +1,16 @@
+https://commonchemistry.cas.org/detail?cas_rn=2201-19-6
+https://pubchem.ncbi.nlm.nih.gov/compound/604690
+https://www.chemspider.com/Chemical-Structure.525655.html
+https://precision.fda.gov/uniisearch/srs/unii/8JY6P22UVD
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID00944617
+https://chemapps.stolaf.edu/jmol/jmol.php?model=CCN%28CC%29C1%28CCCCC1%29C2%3DCC%3DCC%3DC2
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=424837616&page2=Dieticyclidine
+//pubmed.ncbi.nlm.nih.gov/8095205
+//pubmed.ncbi.nlm.nih.gov/8450474
+https://en.wikipedia.org/w/index.php?title=Template:General_anesthetics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Hypnotics_and_sedatives&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Hallucinogens&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Dopamine_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Ionotropic_glutamate_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=Dieticyclidine&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Psychoactive-stub&action=edit

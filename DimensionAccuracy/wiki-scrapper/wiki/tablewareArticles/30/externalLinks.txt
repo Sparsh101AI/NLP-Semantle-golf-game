@@ -1,0 +1,9 @@
+https://geohack.toolforge.org/geohack.php?pagename=Westgate,_Newcastle_upon_Tyne&params=54.970930967166_N_1.6219420976569_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Westgate,_Newcastle_upon_Tyne&params=54.971_N_1.621_W_region:GB_type:city
+//geohack.toolforge.org/geohack.php?pagename=Westgate,_Newcastle_upon_Tyne&params=54.971_N_1.621_W_region:GB_type:city
+http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=13689616&c=Westgate&d=14&e=62&g=6358568&i=1001x1003x1032x1004&m=0&r=1&s=1436178031471&enc=1
+http://www.newcastle.gov.uk/core.nsf/a/wardinfowestgate
+https://en.wikipedia.org/w/index.php?title=Westgate,_Newcastle_upon_Tyne&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:TyneandWear-geo-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Westgate,_Newcastle_upon_Tyne&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:England-poli-stub&action=edit

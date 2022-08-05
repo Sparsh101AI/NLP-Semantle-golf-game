@@ -1,0 +1,15 @@
+//geohack.toolforge.org/geohack.php?pagename=6th_arrondissement_of_Paris&params=48_51_2_N_2_19_56_E_region:FR-IDF_type:city
+//geohack.toolforge.org/geohack.php?pagename=6th_arrondissement_of_Paris&params=48_51_2_N_2_19_56_E_region:FR-IDF_type:city
+https://en.wikipedia.org/w/index.php?title=Template:Arrondissements_of_Paris&action=edit
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-75106
+https://www.parisdigest.com/fashion/ruedesevres.htm
+http://corp.toei-anim.co.jp/english/outline/affiliated_companies.php#taeu
+https://web.archive.org/web/20151019043547/http://corp.toei-anim.co.jp/english/outline/affiliated_companies.php#taeu
+https://en.wikipedia.org/w/index.php?title=Template:Paris&action=edit
+https://viaf.org/viaf/123782944
+https://www.worldcat.org/identities/lccn-n83182386/
+https://catalogue.bnf.fr/ark:/12148/cb119555594
+https://data.bnf.fr/ark:/12148/cb119555594
+https://d-nb.info/gnd/4638539-3
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007559966105171
+https://id.loc.gov/authorities/names/n83182386

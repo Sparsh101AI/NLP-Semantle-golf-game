@@ -1,0 +1,12 @@
+https://books.google.com/books?id=xd25TXSSUcgC&pg=PA51
+https://books.google.com/books?id=kZtCAAAAQBAJ&pg=PA81
+//www.ams.org/mathscinet-getitem?mr=1782654
+https://books.google.com/books?id=Eb6uSLa2k6IC&pg=PA176
+http://projecteuclid.org/euclid.pjm/1103037323
+https://doi.org/10.2140%2Fpjm.1961.11.431
+//www.ams.org/mathscinet-getitem?mr=0126765
+https://books.google.com/books?id=N8lX2T-4njIC&pg=PA1
+https://doi.org/10.1145%2F12130.12172
+https://api.semanticscholar.org/CorpusID:8342016
+https://mathworld.wolfram.com/PolygonEdge.html
+https://mathworld.wolfram.com/PolyhedronEdge.html

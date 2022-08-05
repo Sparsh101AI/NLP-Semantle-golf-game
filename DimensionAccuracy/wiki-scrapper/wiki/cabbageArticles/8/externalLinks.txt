@@ -1,0 +1,14 @@
+https://commonchemistry.cas.org/detail?cas_rn=66-72-8
+https://commonchemistry.cas.org/detail?cas_rn=65-22-5
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DCc1c%28O%29c%28C%29ncc1CO
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=17310
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL102970
+https://www.chemspider.com/Chemical-Structure.1021.html
+https://www.drugbank.ca/drugs/DB00147
+https://echa.europa.eu/substance-information/-/substanceinfo/100.000.573
+https://www.kegg.jp/entry/C00250
+https://pubchem.ncbi.nlm.nih.gov/compound/1050
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=3THM379K8A
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=1416KF0QBC
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID4046020
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=464377081&page2=Pyridoxal

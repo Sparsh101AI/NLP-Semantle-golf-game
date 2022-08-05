@@ -1,0 +1,9 @@
+ISO 8501-1 – Preparation of steel substrates before application of paints and related products – Visual assessment of surface cleanliness – Part 1: Rust grades and preparation grades of uncoated steel substrates and of steel substrates after overall removal of previous coatings
+It is an ISO standard, hardback A5-format book in four languages (English, French, German and Swedish), which specifies a series of rust grades and preparation grades of steel surfaces. The various grades are defined by written descriptions together with photographs that are representative examples within the tolerance for each grade as described in words.
+It is applicable to hot rolling steel surfaces prepared for painting by methods such as blast-cleaning, hand and power tool cleaning and flame cleaning, although these methods rarely lead to comparable results. Essentially, these methods are intended for hot-rolled steel, but blast-cleaning methods, in particular, could also be used on cold rolling steel of sufficient thickness to withstand any deformation caused by the impact of the abrasive or the effects of power tool cleaning.
+This part of ISO 8501 is applicable also to steel substrates that show residues of firmly adhering paint and other foreign matter in addition to residual mill scale.
+ISO 8501-1:2007
+ISO 8501-1:1988
+ISO 8501-1:1988/Suppl:1994ISO 8501-2:1994.
+ISO 8501-3:2006
+ISO 8501-4:2006ISO Catalogue in the ISO website

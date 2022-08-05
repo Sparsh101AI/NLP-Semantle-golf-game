@@ -1,0 +1,103 @@
+Titanium alloys are alloys that contain a mixture of titanium and other chemical elements. Such alloys have very high tensile strength and toughness (even at extreme temperatures). They are low density so relatively light in weight, have extraordinary corrosion resistance and a low thermal expansion coefficient, which means they can withstand extreme temperatures. However, the high cost of both raw materials and processing limit their use to military applications, aircraft, spacecraft, bicycles, medical devices, jewelry, highly stressed components such as connecting rods on expensive sports cars and some premium sports equipment and consumer electronics.
+Although "commercially pure" titanium has acceptable mechanical properties and has been used for orthopedic and dental implants, for most applications titanium is alloyed with small amounts of aluminium and vanadium, typically 6% and 4% respectively, by weight. This mixture has a solid solubility which varies dramatically with temperature, allowing it to undergo precipitation strengthening. This heat treatment process is carried out after the alloy has been worked into its final shape but before it is put to use, allowing much easier fabrication of a high-strength product.
+Titanium alloys are generally classified into four main categories:
+Alpha alloys which contain neutral alloying elements (such as tin) and/ or alpha stabilisers (such as aluminium or oxygen) only. These are not heat treatable. Examples include: Ti-5Al-2Sn-ELI, Ti-8Al-1Mo-1V.
+Near-alpha alloys contain small amount of ductile beta-phase. Besides alpha-phase stabilisers, near-alpha alloys are alloyed with 1–2% of beta phase stabilizers such as molybdenum, silicon or vanadium. Examples include: Ti-6Al-2Sn-4Zr-2Mo, Ti-5Al-5Sn-2Zr-2Mo, IMI 685, Ti 1100.
+Alpha and beta alloys, which are metastable and generally include some combination of both alpha and beta stabilisers, and which can be heat treated. Examples include: Ti-6Al-4V, Ti-6Al-4V-ELI, Ti-6Al-6V-2Sn, Ti-6Al-7Nb.
+Beta and near beta alloys, which are metastable and which contain sufficient beta stabilisers (such as molybdenum, silicon and vanadium) to allow them to maintain the beta phase when quenched, and which can also be solution treated and aged to improve strength. Examples include: Ti-10V-2Fe-3Al, Ti–29Nb–13Ta–4.6Zr, Ti-13V-11Cr-3Al, Ti-8Mo-8V-2Fe-3Al, Beta C, Ti-15-3.Beta titanium alloys exhibit the BCC allotropic form of titanium (called beta). Elements used in this alloy are one or more of the following other than titanium in varying amounts. These are molybdenum, vanadium, niobium, tantalum, zirconium, manganese, iron, chromium, cobalt, nickel, and copper.
+The titanium alloys have excellent formability and can be easily welded.
+Beta titanium is nowadays largely utilized in the orthodontic field and was adopted for orthodontics use in the 1980s. This type of alloy replaced stainless steel for certain uses, as stainless steel had dominated orthodontics since the 1960s. It has strength/modulus of elasticity ratios almost twice those of 18-8 austenitic stainless steel, larger elastic deflections in springs, and reduced force per unit displacement 2.2 times below those of stainless steel appliances.
+Some of the beta titanium alloys can convert to hard and brittle hexagonal omega-titanium at cryogenic temperatures or under influence of ionizing radiation.
+The crystal structure of titanium at ambient temperature and pressure is close-packed hexagonal α phase with a c/a ratio of 1.587. At about 890 °C, the titanium undergoes an allotropic transformation to a body-centred cubic β phase which remains stable to the melting temperature.
+Some alloying elements, called alpha stabilizers, raise the alpha-to-beta transition temperature, while others (beta stabilizers) lower the transition temperature. Aluminium, gallium, germanium, carbon, oxygen and nitrogen are alpha stabilizers. Molybdenum, vanadium, tantalum, niobium, manganese, iron, chromium, cobalt, nickel, copper and silicon are beta stabilizers.
+Generally, beta-phase titanium is the more ductile phase and alpha-phase is stronger yet less ductile, due to the larger number of slip planes in the bcc structure of the beta-phase in comparison to the hcp alpha-phase. Alpha-beta-phase titanium has a mechanical property which is in between both.
+Titanium dioxide dissolves in the metal at high temperatures, and its formation is very energetic. These two factors mean that all titanium except the most carefully purified has a significant amount of dissolved oxygen, and so may be considered a Ti–O alloy. Oxide precipitates offer some strength (as discussed above), but are not very responsive to heat treatment and can substantially decrease the alloy's toughness.
+Many alloys also contain titanium as a minor additive, but since alloys are usually categorized according to which element forms the majority of the material, these are not usually considered to be "titanium alloys" as such. See the sub-article on titanium applications.
+Titanium alone is a strong, light metal. It is stronger than common, low-carbon steels, but 45% lighter. It is also twice as strong as weak aluminium alloys but only 60% heavier. Titanium has outstanding corrosion resistance to seawater, and thus is used in propeller shafts, rigging and other parts of boats that are exposed to seawater. Titanium and its alloys are used in airplanes, missiles, and rockets where strength, low weight, and resistance to high temperatures are important. Further, since titanium does not react within the human body, it and its alloys are used in artificial joints, screws, and plates for fractures, and for other biological implants. See: Titanium orthopedic implants.
+The ASTM International standard on titanium and titanium alloy seamless pipe references the following alloys, requiring the following treatment:
+"Alloys may be supplied in the following conditions: Grades 5, 23, 24, 25, 29, 35, or 36 annealed or aged; Grades 9, 18, 28, or 38 cold-worked and stress-relieved or annealed; Grades 9, 18, 23, 28, or 29 transformed-beta condition; and Grades 19, 20, or 21 solution-treated or solution-treated and aged.""Note 1—H grade material is identical to the corresponding numeric grade (that is, Grade 2H = Grade 2) except for the higher guaranteed minimum UTS, and may always be certified as meeting the requirements of its corresponding numeric grade. Grades 2H, 7H, 16H, and 26H are intended primarily for pressure vessel use.""The H grades were added in response to a user association request based on its study of over 5200 commercial Grade 2, 7, 16, and 26 test reports, where over 99% met the 58 ksi minimum UTS."Grade 1
+is the most ductile and softest titanium alloy.  It is a good solution for cold forming and corrosive environments. ASTM/ASME SB-265 provides the standards for commercially pure titanium sheet and plate.
+Grade 2
+Unalloyed titanium, standard oxygen.
+Grade 2H
+Unalloyed titanium (Grade 2 with 58 ksi minimum UTS).
+Grade 3
+Unalloyed titanium, medium oxygen.Grades 1-4 are unalloyed and considered commercially pure or "CP". Generally the tensile and yield strength goes up with grade number for these "pure" grades. The difference in their physical properties is primarily due to the quantity of interstitial elements. They are used for corrosion resistance applications where cost, ease of fabrication, and welding are important.
+Grade 5 also known as Ti6Al4V, Ti-6Al-4V or Ti 6-4
+not to be confused with Ti-6Al-4V-ELI (Grade 23), is the most commonly used alloy. It has a chemical composition of 6% aluminum, 4% vanadium, 0.25% (maximum) iron, 0.2% (maximum) oxygen, and the remainder titanium. It is significantly stronger than commercially pure titanium (grades 1-4) while having the same stiffness and thermal properties (excluding thermal conductivity, which is about 60% lower in Grade 5 Ti than in CP Ti). Among its many advantages, it is heat treatable. This grade is an excellent combination of strength, corrosion resistance, weld and fabricability."This alpha-beta alloy is the workhorse alloy of the titanium industry. The alloy is fully heat treatable in section sizes up to 15 mm and is used up to approximately 400 °C (750 °F). Since it is the most commonly used alloy – over 70% of all alloy grades melted are a sub-grade of Ti6Al4V, its uses span many aerospace airframe and engine component uses and also major non-aerospace applications in the marine, offshore and power generation industries in particular.""Applications: Blades, discs, rings, airframes, fasteners, components. Vessels, cases, hubs, forgings. Biomedical implants."Generally, Ti-6Al-4V is used in applications up to 400 degrees Celsius. It has a density of roughly 4420 kg/m, Young's modulus of 120 GPa, and tensile strength of 1000 MPa. By comparison, annealed type 316 stainless steel has a density of 8000 kg/m, modulus of 193 GPa, and tensile strength of 570 MPa. Tempered 6061 aluminium alloy has a density of 2700 kg/m, modulus of 69 GPa, and tensile strength of 310 MPa, respectively.Ti-6Al-4V standard specifications include:
+AMS: 4911, 4928, 4965, 4967, 6930, 6931, T-9046, T9047
+ASTM: B265, B348, F1472
+MIL: T9046 T9047
+DMS: 1592, 1570Grade 6
+contains 5% aluminium and 2.5% tin. It is also known as Ti-5Al-2.5Sn. This alloy is used in airframes and jet engines due to its good weldability, stability and strength at elevated temperatures.
+Grade 7
+contains 0.12 to 0.25% palladium. This grade is similar to Grade 2. The small quantity of palladium added gives it enhanced crevice corrosion resistance at low temperatures and high pH.
+Grade 7H
+is identical to Grade 7 with enhanced corrosion resistance.
+Grade 9
+contains 3.0% aluminium and 2.5% vanadium. This grade is a compromise between the ease of welding and manufacturing of the "pure" grades and the high strength of Grade 5. It is commonly used in aircraft tubing for hydraulics and in athletic equipment.
+Grade 11
+contains 0.12 to 0.25% palladium. This grade has enhanced corrosion resistance.
+Grade 12
+contains 0.3% molybdenum and 0.8% nickel.
+Grades 13, 14, and 15
+all contain 0.5% nickel and 0.05% ruthenium.
+Grade 16
+contains 0.04 to 0.08% palladium. This grade has enhanced corrosion resistance.
+Grade 16H
+contains 0.04 to 0.08% palladium.
+Grade 17
+contains 0.04 to 0.08% palladium. This grade has enhanced corrosion resistance.
+Grade 18
+contains 3% aluminium, 2.5% vanadium and 0.04 to 0.08% palladium. This grade is identical to Grade 9 in terms of mechanical characteristics. The added palladium gives it increased corrosion resistance.
+Grade 19
+contains 3% aluminium, 8% vanadium, 6% chromium, 4% zirconium, and 4% molybdenum.
+Grade 20
+contains 3% aluminium, 8% vanadium, 6% chromium, 4% zirconium, 4% molybdenum and 0.04% to 0.08% palladium.
+Grade 21
+contains 15% molybdenum, 3% aluminium, 2.7% niobium, and 0.25% silicon.
+Grade 23 also known as Ti-6Al-4V-ELI or TAV-ELI
+contains 6% aluminium, 4% vanadium, 0.13% (maximum) Oxygen. ELI stands for Extra Low Interstitial. Reduced interstitial elements oxygen and iron improve ductility and fracture toughness with some reduction in strength. TAV-ELI is the most commonly used medical implant-grade titanium alloy.
+Ti-6Al-4V-ELI standard specifications include:
+AMS: 4907, 4930, 6932, T9046, T9047
+ASTM: B265, B348, F136
+MIL: T9046 T9047Grade 24
+contains 6% aluminium, 4% vanadium and 0.04% to 0.08% palladium.
+Grade 25
+contains 6% aluminium, 4% vanadium and 0.3% to 0.8% nickel and 0.04% to 0.08% palladium.
+Grades 26, 26H, and 27
+all contain 0.08 to 0.14% ruthenium.
+Grade 28
+contains 3% aluminium, 2.5% vanadium and 0.08 to 0.14% ruthenium.
+Grade 29
+contains 6% aluminium, 4% vanadium and 0.08 to 0.14% ruthenium.
+ Grades 30 and 31
+contain 0.3% cobalt and 0.05% palladium.
+Grade 32
+contains 5% aluminium, 1% tin, 1% zirconium, 1% vanadium, and 0.8% molybdenum.
+ Grades 33 and 34
+contain 0.4% nickel, 0.015% palladium, 0.025% ruthenium, and 0.15% chromium .
+Grade 35
+contains 4.5% aluminium, 2% molybdenum, 1.6% vanadium, 0.5% iron, and 0.3% silicon.
+Grade 36
+contains 45% niobium.
+Grade 37
+contains 1.5% aluminium.
+Grade 38
+contains 4% aluminium, 2.5% vanadium, and 1.5% iron. This grade was developed in the 1990s for use as an armor plating. The iron reduces the amount of Vanadium needed as a beta stabilizer. Its mechanical properties are very similar to Grade 5, but has good cold workability similar to grade 9.Titanium alloys are heat treated for a number of reasons, the main ones being to increase strength by solution treatment and aging as well as to optimize special properties, such as fracture toughness, fatigue strength and high temperature creep strength.
+Alpha and near-alpha alloys cannot be dramatically changed by heat treatment. Stress relief and annealing are the processes that can be employed for this class of titanium alloys. The heat treatment cycles for beta alloys differ significantly from those for the alpha and alpha-beta alloys.  Beta alloys can not only be stress relieved or annealed, but also can be solution treated and aged. The alpha-beta alloys are two-phase alloys, comprising both alpha and beta phases at room temperature. Phase compositions, sizes, and distributions of phases in alpha-beta alloys can be manipulated within certain limits by heat treatment, thus permitting tailoring of properties.
+Alpha and near-alpha alloys
+The micro-structure of alpha alloys cannot be strongly manipulated by heat treatment since alpha alloys undergo no significant phase change. As a result, high strength can not be acquired for the alpha alloys by heat treatment. Yet, alpha and near-alpha titanium alloys can be stress relieved and annealed.
+Alpha-beta alloys
+By working as well as heat treatment of alpha-beta alloys below or above the alpha-beta transition temperature, large micro-structural changes can be achieved. This may give a substantial hardening of the material. Solution treatment plus aging is used to produce maximum strengths in alpha-beta alloys. Also, other heat treatments, including stress-relief heat treatments, are practiced for this group of titanium alloys as well.
+Beta alloys
+In commercial beta alloys, stress-relieving and aging treatments can be combined.Titanium is used regularly in aviation for its resistance to corrosion and heat, and its high strength-to-weight ratio. Titanium alloys are generally stronger than aluminium alloys, while being lighter than steel.
+Titanium alloys have been extensively used for the manufacturing of metal orthopedic joint replacements and bone plate surgeries. They are normally produced from wrought or cast bar stock by CNC, CAD-driven machining, or powder metallurgy production. Each of these techniques comes with inherent advantages and disadvantages. Wrought products come with an extensive material loss during machining into the final shape of the product and for cast samples the acquirement of a product in its final shape somewhat limits further processing and treatment (e.g. precipitation hardening), yet casting is more material effective. Traditional powder metallurgy methods are also more material efficient, yet acquiring fully dense products can be a common issue.
+With the emergence of solid freeform fabrication (3D printing) the possibility to produce custom-designed biomedical implants (e.g. hip joints) has been realized. While it is not applied currently on a larger scale, freeform fabrication methods offers the ability to recycle waste powder (from the manufacturing process) and makes for selectivity tailoring desirable properties and thus the performance of the implant. Electron Beam Melting (EBM) and Selective Laser Melting (SLM) are two methods applicable for freeform fabrication of Ti-alloys. Manufacturing parameters greatly influence the microstructure of the product, where e.g. a fast cooling rate in combination with low degree of melting in SLM leads to the predominant formation of martensitic alpha-prime phase, giving a very hard product.
+Ti-6Al-4V / Ti-6Al-4V-ELI
+This alloy has good biocompatibility, and is neither cytotoxic nor genotoxic.  Ti-6Al-4V suffers from poor shear strength and poor surface wear properties in certain loading conditions:Bio compatibility: Excellent, especially when direct contact with tissue or bone is required. Ti-6Al-4V's poor shear strength makes it undesirable for bone screws or plates. It also has poor surface wear properties and tends to seize when in sliding contact with itself and other metals. Surface treatments such as nitriding and oxidizing can improve the surface wear properties.
+Ti-6Al-7Nb
+This alloy was developed as a biomedical replacement for Ti-6Al-4V, because Ti-6Al-4V contains vanadium, an element that has demonstrated cytotoxic outcomes when isolated. Ti-6Al-7Nb contains 6% aluminium and 7% niobium.Ti6Al7Nb is a dedicated high strength titanium alloy with excellent biocompatibility for surgical implants. Used for replacement hip joints, it has been in clinical use since early 1986.NotesSourceshttp://www.tifab.com/subpages/tech_spec_grades.htm
+Datasheet for Beta Titanium
+Titanium Alloy Bar
+Phase Stability and Stress-Induced Transformations in Beta Titanium Alloys 

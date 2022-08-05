@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=Pebble&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Pebble%22
+//www.google.com/search?tbm=nws&q=%22Pebble%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Pebble%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Pebble%22+-wikipedia
+//scholar.google.com/scholar?q=%22Pebble%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Pebble%22&acc=on&wc=on
+http://www.visitmyharbour.com/harbours/east-coast/ore-alde-rivers/
+http://www.jpl.nasa.gov/news/news.php?release=2012-305
+https://en.wikipedia.org/w/index.php?title=Template:Coastal_geography&action=edit
+http://esu.com.ua/search_articles.php?id=28495

@@ -1,0 +1,29 @@
+Planar rigid body dynamics
+Rigid body in three dimensions
+Orientation or attitude descriptions
+Euler angles
+Tait–Bryan angles
+Orientation vector 
+Orientation matrix
+Orientation quaternion
+Newton's second law in three dimensions
+Rigid system of particles
+Mass properties
+Force-torque equations
+Rotation in three dimensions
+Virtual work of forces acting on a rigid body
+Virtual work
+Generalized forces
+D'Alembert's form of the principle of virtual work
+Static equilibrium
+Generalized inertia forces
+Dynamic equilibrium
+Lagrange's equations
+Linear and angular momentum
+System of particles
+Rigid system of particles
+Applications
+See also
+References
+Further reading
+External links

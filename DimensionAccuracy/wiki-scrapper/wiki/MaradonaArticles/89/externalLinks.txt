@@ -1,0 +1,6 @@
+https://data.j-league.or.jp/SFRT01/?competitionSectionIdLabel=Up+to+date&competitionIdLabel=J.LEAGUE+Division+1+1st&yearIdLabel=2002&yearId=2002&competitionId=145&competitionSectionId=0&search=search
+https://data.j-league.or.jp/SFRT01/?competitionSectionIdLabel=Up+to+date&competitionIdLabel=J.LEAGUE+Division+1+2nd&yearIdLabel=2002&competitionSectionIdLabel=Up+to+date&competitionIdLabel=J.LEAGUE+Division+1+1st&yearIdLabel=2002&yearId=2002&competitionId=146&competitionSectionId=0&search=search
+https://web.archive.org/web/20130211224714/http://www.j-league.or.jp/eng/results/
+https://en.wikipedia.org/w/index.php?title=Template:Japanese_Club_Football&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:2002_in_Japanese_football&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:J1_League_champions&action=edit

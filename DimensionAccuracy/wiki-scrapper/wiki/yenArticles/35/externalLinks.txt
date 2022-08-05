@@ -1,0 +1,12 @@
+//geohack.toolforge.org/geohack.php?pagename=Scy-Chazelles&params=49.1144_N_6.115_E_type:city(2675)_region:FR-GES
+//geohack.toolforge.org/geohack.php?pagename=Scy-Chazelles&params=49.1144_N_6.115_E_type:city(2675)_region:FR-GES
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-57642
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-57642
+https://web.archive.org/web/20080529043326/http://mairie-scy-chazelles.fr/default.php?id=30
+http://www.mairie-scy-chazelles.fr/default.php?id=30
+https://www.ibiblio.org/hyperwar/USA/USA-E-Lorraine/USA-E-Lorraine-8.html
+https://en.wikipedia.org/w/index.php?title=Template:Moselle_communes&action=edit
+https://viaf.org/viaf/241912108
+https://www.worldcat.org/identities/containsVIAFID/241912108
+https://catalogue.bnf.fr/ark:/12148/cb15266144s
+https://data.bnf.fr/ark:/12148/cb15266144s

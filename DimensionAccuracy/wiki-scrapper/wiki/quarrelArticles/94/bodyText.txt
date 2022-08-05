@@ -1,0 +1,89 @@
+The S-125 Neva/Pechora (Russian: С-125 "Нева"/"Печора", NATO reporting name SA-3 Goa) is a Soviet surface-to-air missile system that was designed by Aleksei Isaev to complement the S-25 and S-75. It has a shorter effective range and lower engagement altitude than either of its predecessors and also flies slower, but due to its two-stage design it is more effective against more maneuverable targets. It is also able to engage lower flying targets than the previous systems, and being more modern it is much more resistant to ECM than the S-75. The 5V24 (V-600) missiles reach around Mach 3 to 3.5 in flight, both stages powered by solid fuel rocket motors. The S-125, like the S-75, uses radio command guidance. The naval version of this system has the NATO reporting name SA-N-1 Goa and original designation M-1 Volna (Russian Волна – wave).
+The S-125 was first deployed between 1961 and 1964 around Moscow, augmenting the S-25 and S-75 sites already ringing the city, as well as in other parts of the USSR. In 1964, an upgraded version of the system, the S-125M "Neva-M" and later S-125M1 "Neva-M1" was developed. The original version was designated SA-3A by the US DoD and the new Neva-M named SA-3B and (naval) SA-N-1B. The Neva-M introduced a redesigned booster and an improved guidance system. The S-125 was not used against U.S. forces in Vietnam, because the Soviets feared that China (after the souring of Sino-Soviet relations in 1960), through which most, if not all of the equipment meant for North Vietnam had to travel, would try to copy the missile.
+The FAPA-DAA acquired a significant number of S-125s, and these were encountered during the first strike flown by SAAF Mirage F.1s against targets in Angola ever - in June 1980. While the SAAF reported two aircraft were damaged by SAMs during this action, Angola claimed to have shot down four.
+On 7 June 1980, while attacking SWAPO's Tobias Haneko Training Camp during Operation Sceptic (Smokeshell), SAAF Major Frans Pretorius and Captain IC du Plessis, both flying Mirage F.1s, were hit by S-125s. Pretorius's aircraft was hit in a fuel line and he had to perform a deadstick landing at AFB Ondangwa. Du Plessis's aircraft sustained heavier damage and had to divert to Ruacana forward airstrip, where he landed with only the main undercarriage extended. Both aircraft were repaired and returned to service.
+The Soviets supplied several S-125s to the Arab states in the late 1960s and 1970s, most notably Egypt and Syria. The S-125 saw extensive action during the War of Attrition and the Yom Kippur War. During the latter, the S-125, along with the S-75 Dvina and 2K12 Kub, formed the backbone of the Egyptian air defence network. In Egypt, March–July 1970 Soviet battalions of S-125 17 Shooting (35 missiles) shot down nine Israeli and one Egyptian planes. General Muhammed Ali Hafez (Air defense forces commander in the Egyptian Army) was the first man in the world to reuse the launched missiles in creating new ones . Israel recognized the 5 F-4 Phantoms in 1970 (1 more was W/O) and in 1973 another 6
+On the opening night of Desert Storm, on 17 January 1991, a B-52G was damaged by a missile. The source of the missile is disputed.. It could have been a S-125 or a 2K12 Kub, while other sources claim a MiG-29 fired a Vympel R-27R missile and damaged the bomber. However, the U.S. Air Force disputes these claims, stating the bomber was hit by an AGM-88 High-speed, Anti-Radiation Missile (HARM), fired by a friendly aircraft, that homed on the fire-control radar of the B-52's tail gun; the jet was subsequently renamed In HARM's Way. Shortly following this incident, General George Lee Butler announced that the gunner position on B-52 crews would be eliminated, and the gun turrets permanently deactivated, commencing on 1 October 1991.
+On 19 January, 1991, a USAF F-16 (serial 87-257) was shot down. The aircraft was struck by a S-125 just south of Baghdad. The pilot, Major Jeffrey Scott Tice, ejected safely  but became a POW. It was the 8th combat loss and the first daylight raid over Baghdad.
+A Yugoslav Army 250th Air Defense Missile Brigade 3rd battery equipped with S-125 system shot down a F-117 Nighthawk stealth attack aircraft on March 27, 1999 during the Kosovo War (the only recorded downing of a stealth aircraft) near village Budjanovci, about 45 km from Belgrade. The pilot LT.COL. Darrell Patrick Zelko ejected and was later found by US search and rescue forces. An S-125 also shot down a NATO F-16 fighter on May 2 (its pilot; Lt. Col David L. Goldfein, the commander of 555th Fighter Squadron, managed to eject and was later rescued by a combat search-and-rescue (CSAR) mission).
+Retired USAF Lieutenant Colonel Charlie Hainline stated in a 2020 interview that a second F-117A was damaged during the campaign, on 30 April 1999. The aircraft returned to Spangdahlem base, but it supposedly never flew again.
+During the war, different Yugoslav SAM sites, possibly including S-125s, also shot down some NATO UAVs.
+On 17 March 2015, a US MQ-1 Predator drone was shot down by a Syrian Air Defense Force S-125 missile while on an intelligence flight near the coastal town of Latakia.
+In December 2016, ISIS forces captured three S-125 launchers after they retook Palmyra from Syrian government troops.
+On April 14, 2018, American, British, and French forces launched a barrage of 103 air-to-surface and cruise missiles targeting eight Syrian military sites. The Russian military claimed that thirteen S-125 missiles launched in response destroyed five incoming missiles. However, the American Department of Defense stated no Allied missiles were shot down.
+The S-125 is somewhat mobile, an improvement over the S-75 system. The missiles are typically deployed on fixed turrets containing two or four but can be carried ready-to-fire on ZIL trucks in pairs. Reloading the fixed launchers takes a few minutes.
+The S-125 system uses two different missile versions and variants. 
+V-600 (or 5V24) has the smallest warhead with 60 kg of high explosive. It has a range of about 15 km.
+V-601 (or 5V27): the upgraded S-125M (1970) system uses the 5V27 missile, with a length of 6.09 m, a wing span of 2.2 m and a body diameter of 0.375 m. This missile weighs 953 kg at launch, and has a 70 kg warhead containing 33 kg of HE and 4,500 fragments. The minimum range is 3.5 km, and the maximum is 35 km (with the Pechora 2A). The intercept altitudes are between 100 m and 18 km. Other sources claim the intercept altitudes between 20 m and 14 km. The minimum range is 2.5 km, and the maximum is 22 km
+5V27D: the S-125M1 (1978) system uses the 5V27D missile. In the early 1980s, each system used one or two radar simulators to survive antiradar missiles.The launchers are accompanied by a command building or truck and three primary radar systems:
+P-15 "Flat Face" or P-15M(2) "Squat Eye" 380 kW C-band target acquisition radar (also used by the SA-6 and SA-8, range 250 km/155 miles)
+SNR-125 "Low Blow" 250 kW I/D-band tracking, fire control and guidance radar (range 40 km/25 miles, second mode 80 km/50 miles)
+PRV-11 "Side Net" E-band height finder (also used by SA-2, SA-4 and SA-5, range 28 km/17 miles, max height 32 km/105,000 ft)"Flat Face"/"Squat Eye" is mounted on a van ("Squat Eye" on a taller mast for better performance against low-altitude targets also an IFF [Identifies Friend or Foe]), "Low Blow" on a trailer and "Side Net" on a box-bodied trailer.
+Work on a naval version M-1 Volna (SA-N-1) started in 1956, along with work on a land version. It was first mounted on a rebuilt Kotlin class destroyer (Project 56K) Bravyi and tested in 1962. In the same year, the system was accepted. The basic missile was a V-600 (or 4K90) (range: from 4 to 15 km, altitude: from 0.1 to 10 km). Fire control and guidance is carried out by 4R90 Yatagan radar, with five parabolic antennas on a common head. Only one target can be engaged at a time (or two, for ships fitted with two Volna systems). In case of emergency, Volna could be also used against naval targets, due to short response time.
+The first launcher type was the two-missile ZIF-101, with a magazine for 16 missiles. In 1963 an improved two-missile launcher, ZIF-102, with a magazine for 32 missiles, was introduced to new ship classes. In 1967 Volna systems were upgraded to Volna-M (SA-N-1B) with V-601 (4K91) missiles (range: 4–22 km, altitude: 0.1–14 km).
+In 1974 - 1976 some systems were modernized to Volna-P standard, with an additional TV target tracking channel and better resistance to jamming. Later, improved V-601M missiles were introduced, with lower minimal attack altitude against aerial targets (system Volna-N).
+Some Indian frigates also carry the M-1 Volna system.
+Since Russia replaced all of its S-125 sites with SA-10 and SA-12 systems, they decided to upgrade the S-125 systems being removed from service to make them more attractive to export customers.
+Released in 2000, the Pechora-2 version features better range, multiple target engagement ability and a higher probability of kill (PK). The launcher is moved onto a truck allowing much shorter relocation times.
+It is also possible to fire the Pechora-2M system against cruise missiles. Deployment time 25 minutes, protected from the active interference, and anti-radiation missiles (total in practical shooting)Early warning radar is replaced by anti-stealth radar Kasta 2E2, target distance at 2.5–32 km, target altitude - 0.02–20 km, missile launchers can be positioned at up to 10 kilometers away from the control center. Speed up to 1000 m/s (target), Used rocket 5V27DE, by weight the warhead + 50% range of flight splinters + 350%. Probability of hitting the target 1st rocket: at a distance up to 25 km - 0,72-0,99,
+detection range with the radar cross section = 2 sq meters about 100 km, with RCS = 0.15 sq m - about 50 km, with no interference. When using active jamming - 40 km. ADMS "Pechora-2M" has the ability to interfacing with higher level command post and radar remote using telecode channels. Is equally effective at any time during the day and at night (optical location, daytime and nighttime, and also thermal imager) was awarded a contract to overhaul Egypt's S-125 SAM system. These refurbished weapons have been reintroduced as the S-125 Pechora 2M.
+In 2001, Poland began offering an upgrade to the S-125 known as the Newa SC. This replaced many analogue components with digital ones for improved reliability and accuracy. This upgrade also involves mounting the missile launcher on a WZT-1 tank chassis (a TEL), greatly improving mobility and also adds IFF capability and data links. Radar is mounted on an 8-wheeled heavy truck chassis (formerly used for Scud launchers).Serbian modifications include terminal/camera homing from radar base.
+Cuba also developed a similar upgrade to the Polish one, which was displayed in La Habana in 2006.
+Later the same year, the Russian version was upgraded again to the Pechora-M which upgraded almost all aspects of the system - the rocket motor, radar, guidance, warhead, fuse and electronics. There is an added laser/infra-red tracking device to allow launching of missiles without the use of the radar.There is also a version of the S-125 available from Russia with the warhead replaced with telemetry instrumentation, for use as target drones.
+In October 2010, Ukrainian Aerotechnica announced a modernized version of S-125 named S-125-2D Pechora. As of 2018 according to the UkrOboronProm, the S-125 surface-to-air missile underwent an integrated modification of all elements, including modernization of missiles, as well as the use of a new radar station built on solid-state elements. At more than 40 km, the Ukrainian S-125 modernization's engagement area is better than that of the Russian one.
+The Vietnamese state-owned agency Viettel Aerospace Institute has unveiled a modernization version of S-125, designated as the S-125-VT. It is expected to enter Vietnamese Air Defence operation in the near future. Algeria
+ Angola
+ Armenia
+ Azerbaijan
+ Bulgaria
+ Cuba
+ Egypt No less than 50 Pechora 2M in 2012 + ≈120
+ Ethiopia
+Tigray People's Liberation Front
+ Georgia
+ India 30 units (squadrons) of Pechoras
+ Libya
+ Moldova
+ Mongolia Pechora-2M
+ Mozambique Myanmar : 8 systems (batteries) of Pechora-2M air defence systems. 30 launching vehicles.
+ North Korea 140 batteries
+ Peru
+ Poland 12 Newa SC
+ Serbia 8 batteries
+ Syria 148 Pechora + 12Pechora-2M
+ South Sudan
+ Tajikistan
+ Tanzania
+ Turkmenistan
+ Turkey Ukrainian Pechora S-125-2D variant with new radar and electronics. To be deployed in Libya and Syria.
+ Kazakhstan Pechora-2TM
+ Ukraine
+ Venezuela 11 Pechora-2M Ordered 11 new systems, delivered 1 system in 2011 (up to 8 launchers)
+ Vietnam S-125-2TM and S-125-VT modernized variants
+ Yemen majority upgraded to Pechora-2M standard
+ Uganda
+ Zambia Afghanistan
+ Cambodia (scrapped in 2005)
+ Czechoslovakia (1973 - retired in the Czech Republic in 2002)
+ East Germany
+ Ecuador P-15 "Flat Face" radar. Unknown quantity in service.
+ Finland (retired in the 1990s)
+ Hungary (in service from 1978 to 1995)
+ Iraq (all destroyed in the 2003 invasion)
+ Islamic State Three launchers captured at Palmyra before being destroyed by the United States.
+ Mali (received in the 1980s, all 84 missiles dismantled and destroyed in 2014)
+ North Yemen
+ Romania (in service from 1986 to 1998)
+ Russia (retired in the 1990s)
+Missiles used as targets for training. RM-5V27 Pishal (in service as of 2011)
+ Somalia (inoperational by 1992)
+ Slovakia (retired in 2001)
+ South Yemen
+ Soviet Union
+ Yugoslavia 14 S-125 batteries with a total of about 60 launchersDescription of C-125 on the producer site in Russian
+MissileThreat.com page
+Federation of American Scientists page
+Jane's Defence news on Egyptian S-125 upgrade, April 2006
+Defencetalk on Egyptian S-125 upgrade, October 2006
+S-125 Missile Pictures
+S-125M1 Neva (SA-3b Goa) SAM Simulator

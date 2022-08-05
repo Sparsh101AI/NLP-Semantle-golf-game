@@ -1,0 +1,20 @@
+Sample preparation
+Data collection
+Resonance assignment
+Homonuclear nuclear magnetic resonance
+Nitrogen-15 nuclear magnetic resonance
+Carbon-13 and nitrogen-15 nuclear magnetic resonance
+Restraint generation
+Distance restraints
+Angle restraints
+Orientation restraints
+Hydrogen–deuterium exchange
+Structure calculation
+Structure validation
+Dynamics
+NMR spectroscopy on large proteins
+Automation of the process
+See also
+References
+Further reading
+External links

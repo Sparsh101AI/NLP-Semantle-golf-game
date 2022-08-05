@@ -1,0 +1,135 @@
+Rukai is a Formosan language spoken by the Rukai people in Taiwan. It is a member of the Austronesian language family. The Rukai language comprises six dialects, which are Budai, Labuan, Maga, Mantauran, Tanan and Tona. The number of speakers of the six Rukai dialects is estimated to be about 10,000. Some of them are monolingual. There are varying degrees of mutual intelligibility among the Rukai dialects. Rukai is notable for its distinct grammatical voice system among the Formosan languages.
+Paul Jen-kuei Li considers Rukai to be the first language to have split from the Proto-Austronesian language. Below are the estimated divergence dates of various Formosan languages from Li (2008:215).
+Proto-Austronesian: 4,500 BCE
+Rukai: 3,000 BCE
+Tsouic: 2,500 BCE (split into Tsou and Southern Tsouic around 1,000 BCE)
+Most other splits: 2,000 to 0 BCE
+Western Plains: 1,000 CEClassifications by various scholars repeatedly find that Rukai is one of the, and often the, most divergent of the Austronesian languages. It is therefore prime evidence for reconstructing Proto-Austronesian. Ross (2009) notes that to date, reconstructions had not taken Rukai into account, and therefore cannot be considered valid for the entire family.
+Rukai is unique for being the only Formosan language without a focus system.
+Tanan Rukai is also the Formosan language with the largest consonant inventory, with 23 consonants and 4 vowels having length contrast. Tanan Rukai also makes an animate/inanimate instead of a personal/non-personal one as most other Formosan languages do.
+Mantauran is one of the most divergent dialects. Li (2001) classifies them as follows:
+Rukai
+Mantauran (萬山 Wanshan, also 'oponoho): 250–300 speakers
+(Main branch)
+Maga–Tona
+Maga (馬加 Majia)
+Tona (多納 Duona)
+Budai–Tanan (Rukai Proper)
+Budai (霧台 Wutai)
+Tanan (大南 Danan; also Taromak)According to Zeitoun (2007:4), there are a total of 6 Rukai dialects spoken in 12 different villages.
+Together, Maga, Tona, and Mantauran are also known as the "Lower Three Villages." Rukai have also recently in Sandimen Township and southern  Sanhe Village, Majia Township, where there are many Paiwan. Sanhe Village is also where the Budai Rukai originally lived in before they relocated to Wutai Township in the mid-1900s.
+Most Rukai dialects have four vowels and retroflex and interdental consonants.
+Budai Rukai has four vowels, /i ə a u/. /ə/ is not a schwa but a full vowel. Words ending phonemically in a consonant add an echo vowel, one of /i ə u/, which unlike morphophonemic vowels is often lost in derivation. /ə/ is used when the last vowel of the stem is /a/.
+Due to influence from Paiwan and Chinese, younger speakers sometimes pronounce /ð/ as [z], and in Tanan Rukai, younger speakers may merge /θ/ into /s/.
+In Mantauran Rukai, the voiced stops have spirantized: *b to /v/, *d and *ɖ to /ð/, and *g to /h/.
+The following table displays the consonant inventory of Mantauran Rukai, with written representations that differ from their IPA representations given in angle brackets (Zeitoun 2007):
+4 vowels, written a, i, e, oBasic Mantauran Rukai syllables take on a basic (C)V structure, with words usually ranging from 2 to 4 syllables long (Zeitoun 2007). There are four morphological processes.
+Affixation
+Stem modification
+Reduplication
+CompoundingThe following reduplication patterns occur in Budai Rukai (Austronesian Comparative Dictionary).
+Reduplication of the noun stemN + RED 'a great amount'
+N(umeral or period) + RED 'lasting for a period of...'Reduplication of the verb stemV + RED 'continuous, keep doing, do repeatedly'
+V + RED 'future'
+V (stative) + RED 'intensity, comparatively greater'In Budai Rukai, reduplication of a bound stem can also be used to create certain basic nouns and verbs, such as 'thunder,' 'mountain,' and 'to scrape' (Austronesian Comparative Dictionary).
+Based on an analysis of the Budai (Kucapungan) dialect, Rukai is said to be unusual among Formosan languages for having a dichotomous active-passive voice system, (Chen & Sung, 2005) which may include voices such agent, patient, locative, or instrumental focus. Stan Starosta considers this to be an indication that Rukai is the first offshoot of the Austronesian language family (Zeitoun, 2007). However, this dichotomy has been challenged (Chen, 2005).
+Active / Agent Focus (AF): prefix u-/w-
+Passive / Patient Focus (PF): prefix ki-Unlike most other Formosan languages, Rukai has an accusative case-marking system instead of an ergative one typical of Austronesian-aligned languages (Zeitoun 2007). There are two types of clauses in Mantauran Rukai:
+Nominal
+VerbalComplementalization can take on four strategies (Zeitoun 2007).
+Zero strategy (i.e. paratactic complements)
+Verb serialization
+Nominalization
+CausativizationDefinite objects can be topicalized in both active and passive sentences.
+Below are some Mantauran Rukai function words from Zeitoun (2007).
+la – and
+mani – thenZeitoun (2007) distinguishes eleven word classes in Mantauran Rukai:.
+Nouns
+Verbs
+Pronouns
+Demonstratives
+Numerals
+Adverbs
+Phrasal elements
+Clausal elements
+Interclausal elements
+Exclamations
+InterjectionsBelow are some Mantauran Rukai verb affixes from Zeitoun (2007).
+Dynamic verbs: o-; very rarely om- and m-
+Stative verbs: ma-
+Negating prefix: ki-
+Causative: pa-
+ʔini-Ca- "(one)self"
+mati- "well"
+k-in-a ... aə "... more"
+ʔako- "barely, just"
+ka- "in fact"
+mata ... aə "certainly"Below are Rukai pronouns from Zeitoun (1997). Note that Mantauran Rukai pronouns are usually bound.
+The list of Budai Rukai affixes below is sourced from Chen (2006:199-203).
+Prefixes
+a- 'become'
+ana- 'if'
+api- 'like', 'want'
+i- 'at', 'in'
+ki- 'to gather', 'to collect'
+ki- 'Dative Focus'
+ki- 'to dig
+ku- 'to remove'
+ku- 'Free Pronoun marker'
+ku- 'Past marker'
+la- 'Plural'
+lu- 'Future'
+ma- 'Stative Verb'
+ma- 'reciprocal'
+ma- 'dual (two people)'
+mu- 'to remove'
+mu- 'self-motion'
+muasaka- 'ordinal'
+nai- 'have done'
+ŋi- 'to move in certain direction'
+ŋi- '-self'
+ŋu- 'to ride'
+pa- 'causative'
+paŋu- 'by'
+sa- 'body parts'
+sa- 'when'
+si- 'verbal prefix'
+si- 'to wear'
+sini- 'from'
+su- 'to clean'
+su- 'belong'
+ta- 'to feel'
+taru- 'certain'
+tu- 'to mark'
+tua- 'to wash'
+θi- 'to release'
+u-/w- 'Agent Focus'Suffixes
+-a 'imperative'
+-a 'Accusative Case'
+-ana 'still', 'yet'
+-anə 'nominalize'
+-ŋa 'completive'
+-ŋa 'close to'Infixes
+⟨a⟩ 'past tense; non-future'
+⟨a⟩ 'realis'
+⟨in⟩ 'Goal subject', 'Past time'Circumfixes
+a⟩...⟨anə 'future state'
+a⟩...⟨anə 'nominalizer'
+ka⟩...⟨anə 'real or genuine'
+kala⟩...⟨anə 'season'
+sa⟩...⟨anə 'instrument'
+sanu⟩...⟨anə 'left-over'
+sanu⟩...⟨lə 'frequency'
+ta⟩...⟨anə 'time', 'location'Compound (Multiple) Affixes
+la-ma- 'plural marker'
+ɭi-tara- 'have to', must'
+sa-ka- 'household'
+sa-ka-u⟩...⟨anə ; the whole'
+sa-ka-si-... l-anə  the ... generation
+ta-ra-  for a period of time
+ta-ra-  be good at
+t-in-u⟩...⟨anə  personal relationThe following list of Mantauran Rukai affixes is sourced from Zeitoun (2007).
+The following list of Budai Rukai affixes is sourced from the Comparative Austronesian Dictionary (1995).
+Yuánzhùmínzú yǔyán xiànshàng cídiǎn 原住民族語言線上詞典 (in Chinese) – Rukai search page at the "Aboriginal language online dictionary" website of the Indigenous Languages Research and Development Foundation
+Rukai teaching and learning materials published by the Council of Indigenous Peoples of Taiwan (in Chinese)
+Rukai translation of President Tsai Ing-wen's 2016 apology to indigenous people – published on the website of the presidential office

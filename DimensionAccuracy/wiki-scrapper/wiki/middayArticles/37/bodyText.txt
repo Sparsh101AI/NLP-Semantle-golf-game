@@ -1,0 +1,7 @@
+In the context of telecommunications, a terminal is a device which ends a telecommunications link and is the point at which a signal enters or leaves a network. Examples of terminal equipment include telephones, fax machines, computer terminals, printers and workstations.
+An end instrument is a piece of equipment connected to the wires at the end of a telecommunications link. In telephony, this is usually a telephone connected to a local loop.  End instruments that relate to data terminal equipment include printers, computers, barcode readers, automated teller machines (ATMs) and the console ports of routers.
+Communication endpoint
+Data terminal equipment
+End system
+Host (network)
+Node (networking)Terminal equipmentDirective 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity (R&TTE Directive).

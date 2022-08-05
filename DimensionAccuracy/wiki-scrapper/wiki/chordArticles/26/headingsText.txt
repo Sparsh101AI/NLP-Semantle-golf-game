@@ -1,0 +1,18 @@
+Categories, objects, and morphisms
+Categories
+Morphisms
+Functors
+Natural transformations
+Other concepts
+Universal constructions, limits, and colimits
+Equivalent categories
+Further concepts and results
+Higher-dimensional categories
+Historical notes
+See also
+Notes
+References
+Citations
+Sources
+Further reading
+External links

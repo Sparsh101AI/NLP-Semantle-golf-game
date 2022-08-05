@@ -1,0 +1,21 @@
+Types
+Security mechanisms
+Authentication
+Routing
+Provider-provisioned VPN building-blocks
+User-visible PPVPN services
+OSI Layer 2 services
+VLAN
+Virtual private LAN service (VPLS)
+Pseudo wire (PW)
+Ethernet over IP tunneling
+IP-only LAN-like service (IPLS)
+OSI Layer 3 PPVPN architectures
+Unencrypted tunnels
+Trusted delivery networks
+VPNs in mobile environments
+Networking limitations
+Common misconceptions
+See also
+References
+Further reading

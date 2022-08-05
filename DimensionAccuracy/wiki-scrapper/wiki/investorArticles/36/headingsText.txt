@@ -1,0 +1,23 @@
+Definitions
+Projection matrix
+Examples
+Orthogonal projection
+Oblique projection
+Properties and classification
+Idempotence
+Complementarity of image and kernel
+Spectrum
+Product of projections
+Orthogonal projections
+Properties and special cases
+Formulas
+Oblique projections
+Finding projection with an inner product
+Canonical forms
+Projections on normed vector spaces
+Applications and further considerations
+Generalizations
+See also
+Notes
+References
+External links

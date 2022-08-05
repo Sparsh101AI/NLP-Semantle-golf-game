@@ -1,0 +1,33 @@
+Vetus Latina ("Old Latin" in Latin), also known as Vetus Itala ("Old Italian"), Itala ("Italian") and Old Italic, and denoted by the siglum 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathfrak {L}}}
+
+, is the collective name given to the Latin translations of biblical texts (both Old Testament and New Testament) that preceded the Vulgate (the Latin translation produced by Jerome in the late 4th century). 
+The Vetus Latina translations continued to be used alongside the Vulgate, but eventually the Vulgate became the standard Latin Bible used by the Catholic Church, especially after the Council of Trent (1545–1563) affirmed the Vulgate translation as authoritative for the text of Roman Catholics' Scriptures. However, the Vetus Latina texts survive in some parts of the liturgy (e.g., the Pater Noster).
+As the English translation of Vetus Latina is "Old Latin", they are also sometimes referred to as the Old Latin Bible, although they are written in the form of Latin known as Late Latin, not that known as Old Latin. The Vetus Latina manuscripts that are preserved today are dated from AD 350 to the 13th century.
+There is no single "Vetus Latina" Bible. Instead, Vetus Latina is a collection of biblical manuscript texts that are Latin translations of Septuagint and New Testament passages that preceded Jerome's Vulgate.  Some biblical books, such as the Psalms and 1 Esdras, had been independently translated into Latin several times, so the commonly designated 'Vetus Latina' version may not be the oldest surviving. 
+After comparing readings for Luke 24:4–5 in Vetus Latina manuscripts, Bruce Metzger counted "at least 27 variant readings in Vetus Latina manuscripts that have survived" for this passage alone. To these witnesses of previous translations, many scholars frequently add quotations of biblical passages that appear in the works of the Latin Fathers, some of which share readings with certain groups of manuscripts. As such, many of the Vetus Latina "versions" were generally not promulgated in their own right as translations of the Bible to be used in the whole Church; rather, many of the texts that form part of the Vetus Latina were prepared on an ad hoc basis for the local use of Christian communities, to illuminate another Christian discourse or sermon, or as the Latin half of a diglot manuscript (e.g. Codex Bezae). There are some Vetus Latina texts that seem to have aspired to greater stature or currency; several Vetus Latina manuscripts Gospels exist, containing the four canonical Gospels; the several manuscripts that contain them differ substantially from one another. Other biblical passages, however, are extant only in excerpts or fragments.
+The language of Vetus Latina translations is uneven in quality, as Augustine of Hippo lamented in De Doctrina Christiana (2, 16). Grammatical solecisms abound; some reproduce literally Greek or Hebrew idioms as they appear in the Septuagint. Likewise, the various Vetus Latina translations reflect the various versions of the Septuagint circulating, with the African manuscripts (such as the Codex Bobiensis) preserving readings of the Western text-type, while readings in the European manuscripts are closer to the Byzantine text-type. Many grammatical idiosyncrasies come from the use of Vulgar Latin grammatical forms in the text.
+When Jerome undertook the revision of Latin translations of Old Testament texts in the late 4th century, he checked the Septuagint and Vetus Latina translations against the Hebrew texts that were then available. He broke with church tradition and translated most of the Old Testament of his Vulgate from Hebrew sources rather than from the Greek Septuagint. His choice was severely criticized by Augustine, his contemporary; a flood of still less moderate criticism came from those who regarded Jerome as a forger. While on the one hand he argued for the superiority of the Hebrew texts in correcting the Septuagint on both philological and theological grounds, on the other, in the context of accusations of heresy against him, Jerome would acknowledge the Septuagint texts as well.
+Jerome's Vulgate offered a single, stylistically consistent Latin text translated from the original tongues, and the Vetus Latina translations gradually fell out of use. Jerome, in a letter, complains that his new version was initially disliked by Christians who were familiar with the phrasing of the old translations. However, as copies of the complete Bible were infrequently found, Vetus Latina translations of various books were copied into manuscripts alongside Vulgate translations, inevitably exchanging readings.
+Vetus Latina translations of single books continued to be found in manuscripts as late as the 13th century; especially in those books where the Vulgate version is not from Jerome, as with the New Testament outside the Gospels. However, the Vulgate generally displaced the Vetus Latina as the standard Latin translation of the Bible to be used by the Catholic church, especially after the Council of Trent (1545–1563).
+Below are some comparisons of the Vetus Latina with text from critical editions of the Vulgate.
+The following comparison is of Luke 6:1–4, taken from the Vetus Latina text in the Codex Bezae:
+The Vetus Latina text survives in places in the Catholic liturgy, such as the following verse well known from Christmas carols, Luke 2:14, whilst the Vulgate is closer to the Byzantine tradition:
+The Vetus Latina text means, "Glory [belongs] to God among the high, and peace [belongs] to men of good will on earth". The Vulgate text means "Glory [belongs] to God among the most high and peace among men of good will on earth".
+Probably the most well known difference between the Vetus Latina and the Vulgate is in the Pater Noster, where the phrase from the Vetus Latina, Panem nostrum cotidianum, "our daily bread", becomes Panem nostrum supersubstantialem, "our supersubstantial bread" in the Vulgate; the Vetus Latina form being retained in the Roman Missal for liturgical use.
+Latin Psalters
+List of New Testament Latin manuscriptsThe Vetus Latina Institut, Beuron/Germany (former website)
+Vetus Latina – Resources for the study of the Old Latin Bible (in English, German, and Latin)
+Vetus Latina Iohannes – An electronic edition of the manuscripts of John
+The old Latin Acts of the Apostles – About the edition of the Latin versions of the Books of Acts (in German)
+Tanakh.info – Polyglot of the Tanakh featuring the text of Old Latin version of the Old Testament with a new English translation.

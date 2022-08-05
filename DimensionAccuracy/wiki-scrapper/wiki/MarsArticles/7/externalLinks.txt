@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Tombaugh_(crater)&params=3.5_N_198.2_W_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Tombaugh_(crater)&params=3.5_N_198.2_W_globe:mars_type:landmark
+http://planetarynames.wr.usgs.gov/Feature/14166
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Tombaugh_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mars-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Tombaugh_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Crater-stub&action=edit

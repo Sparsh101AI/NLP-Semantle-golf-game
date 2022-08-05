@@ -1,0 +1,309 @@
+Blood alcohol content (BAC), also called blood alcohol concentration or blood alcohol level, is a measurement of alcohol intoxication used for legal or medical purposes; it is expressed as mass of alcohol per volume or mass of blood. For example, a BAC of 0.10 by volume (0.10% or one tenth of one percent) means that there is 0.10 g of alcohol for every 100 ml of blood, which is the same as 21.7 mmol/l. A BAC of 0.10 by mass (0.10%) is 0.10 g of alcohol per 100 g of blood (23 mmol/l). A BAC of 0.0 is sober; in different countries the maximum permitted BAC when driving ranges from about 0.04% to 0.08%; BAC levels over 0.08% are considered very impaired; above 0.4% is potentially fatal.
+Blood alcohol content can be estimated by a method developed by Swedish professor Erik Widmark [sv] in the 1920s:
+
+
+
+
+E
+B
+A
+C
+=
+
+
+A
+
+r
+×
+W
+t
+
+
+
+×
+100
+%
+−
+β
+×
+T
+
+
+{\displaystyle EBAC={\frac {A}{r\times Wt}}\times 100\%-\beta \times T}
+
+where:
+A is the mass of alcohol consumed.
+r is the ratio of body water to total weight. It varies between individuals but averages about 0.68 for men and 0.55 for women, since women tend to have a higher percentage of fat.
+Wt is body weight.
+β is the rate at which alcohol is metabolized. It is approximately 0.017% per hour.
+T is the amount time during which alcohol was present in the blood (usually time since consumption began).Sometimes the above is multiplied by 1.055 g/mL, the density of blood.
+In terms of fluid ounces of alcohol consumed and weight in pounds, the formula can be written as
+
+
+
+
+E
+B
+A
+C
+=
+8
+×
+
+fl oz
+
+
+/
+
+
+weight in pounds
+
+−
+β
+×
+T
+
+
+{\displaystyle EBAC=8\times {\text{fl oz}}/{\text{weight in pounds}}-\beta \times T}
+
+for a man or
+
+
+
+
+E
+B
+A
+C
+=
+10
+×
+
+fl oz
+
+
+/
+
+
+weight in pounds
+
+−
+β
+×
+T
+
+
+{\displaystyle EBAC=10\times {\text{fl oz}}/{\text{weight in pounds}}-\beta \times T}
+
+for a woman.
+Regarding metabolism (β) in the formula; females demonstrated a higher average rate of elimination (mean, 0.017; range, 0.014–0.021 g/210 L) than males (mean, 0.015; range, 0.013–0.017 g/210 L). Female subjects on average had a higher percentage of body fat (mean, 26.0; range, 16.7–36.8%) than males (mean, 18.0; range, 10.2–25.3%). Additionally, men are, on average, heavier than women but it is not strictly accurate to say that the water content of a person alone is responsible for the dissolution of alcohol within the body, because alcohol does dissolve in fatty tissue as well. When it does, a certain amount of alcohol is temporarily taken out of the blood and briefly stored in the fat. For this reason, most calculations of alcohol to body mass simply use the weight of the individual, and not specifically their water content.
+Examples:
+80 kg male drinking 3 drinks of 10 grams each, in two hours:
+
+
+
+E
+B
+A
+C
+=
+0.030
+
+/
+
+(
+0.68
+⋅
+80
+)
+×
+100
+%
+−
+(
+0.015
+⋅
+2
+)
+≈
+0.025
+%
+
+
+{\displaystyle EBAC=0.030/(0.68\cdot 80)\times 100\%-(0.015\cdot 2)\approx 0.025\%}
+
+70 kg woman drinking 2.5 drinks of 10 grams each, in two hours:
+
+
+
+E
+B
+A
+C
+=
+0.025
+
+/
+
+(
+0.55
+⋅
+70
+)
+×
+100
+%
+−
+(
+0.017
+⋅
+2
+)
+≈
+0.031
+%
+
+
+{\displaystyle EBAC=0.025/(0.55\cdot 70)\times 100\%-(0.017\cdot 2)\approx 0.031\%}
+
+Note: This chart defines a standard drink as 0.6 fluid ounces (14 g) of ethanol, whereas other definitions exist, for example 10 grams of ethanol.
+Standard drink sizes (Australia)
+375 ml can of light beer (2.7% alcohol) = 0.8 standard drinks
+375 ml can of mid-strength beer (3.5% alcohol) = 1 standard drink
+375 ml can of full strength beer (4.8% alcohol) = 1.4 standard drinks
+100 ml glass of wine (13.5% alcohol) = 1 standard drink
+150 ml glass of wine (13.5% alcohol) = 1.5 standard drinks
+30 ml shot of spirits (40% alcohol) = 0.95 standard drinks
+440 ml can of pre-mix spirits (approx. 5% alcohol) = 1.7 standard drinks
+440 ml can pre-mix spirits (approx. 7% alcohol) = 2.4 standard drinksThe National Institute on Alcohol Abuse and Alcoholism (NIAAA) define the term "binge drinking" as a pattern of drinking that brings a person's blood alcohol concentration (BAC) to 0.08 grams percent or above.  This typically happens when men consume five or more drinks, and when women consume four or more drinks, in about two hours.
+There are several different units in use around the world for defining blood alcohol concentration. Measures of mass (never volume) of alcohol per volume of blood or per mass of blood are used. 1 milliliter of blood has a mass of approximately 1.06 grams, so that units by volume are about 6% greater than if mass-based.
+The amount of alcohol on the breath can also be measured, without requiring drawing blood, by blowing into a breathalyzer. The amount of alcohol measured on the breath is generally accepted as proportional to the amount of alcohol present in the blood, at a rate of 1:2100, so blood alcohol can be estimated from a brethalyzer reading. For example, a breathalyzer measurement of 0.10 mg/L of breath alcohol characterises 0.0001×2100 g/L, or 0.21 g/L of blood alcohol (equivalent to 0.21 permille).
+While a variety of units or criteria are used in different jurisdictions, many countries use the g/L unit, clearer than if expressed as a percentage. Usual units are listed below. For example the U.S. uses a concentration unit of 1% w/v (percent mass/volume, equivalent to 10 g/l or 1 g per 100 ml).
+For purposes of law enforcement, blood alcohol content is used to define intoxication and provides a rough measure of impairment. Although the degree of impairment may vary among individuals with the same blood alcohol content, it can be measured objectively and is therefore legally useful and difficult to contest in court. Most countries forbid operation of motor vehicles and heavy machinery above prescribed levels of blood alcohol content. Operation of boats and aircraft is also regulated.
+The alcohol level at which a person is considered legally impaired to drive varies by country. The list below gives limits by country. These are typically blood alcohol content limits for the operation of a vehicle. Most limits are specified by volume; a few countries use BAC by mass, equivalent to a figure about 6% higher by volume.
+It is illegal to have any measurable alcohol in the blood while driving in these countries. Most jurisdictions have a tolerance slightly higher than zero to account for false positives and naturally occurring alcohol in the body. Some of the following jurisdictions have a general prohibition of alcohol.
+Australia—Drivers who are learners or holders of a Provisional/Probationary licence
+Bangladesh
+Brazil
+Brunei
+Canada—new drivers undergoing graduated licensing in Ontario, British Columbia, Newfoundland and Labrador and Alberta; drivers under the age of 22 in Manitoba, New Brunswick, Northwest Territories, Nova Scotia, Ontario, Saskatchewan and in Quebec receive a 30-day suspension and 7-day vehicle seizure. Drivers in Alberta who are in the graduated licensing program, regardless of age, are subject to the same 30-day/7-day suspensions/seizure policy.
+Colombia —Zero Alcohol Tolerance law is effective since December 2013 
+Czech Republic
+Estonia
+Fiji
+Germany—for learner drivers, all drivers 18–21 and newly licensed drivers of any age for first two years of licence
+Hungary
+Israel—24 µg per 100 ml (0.024%) of breath (penalties only apply above 26 µg per 100 ml (0.026%) of breath following lawsuits about sensitivity of devices used). New drivers, drivers under 24 years of age and commercial drivers 5 µg per 100 ml of breath.(0.005%) 
+Italy—for drivers in their first three years after gaining a driving license
+Japan—drivers under the age of 20 because of not reaching legal drinking age.
+Kuwait
+New Zealand—drivers under the age of 20; drivers convicted of excess breath alcohol may be required to gain a zero-limit license.
+Nepal
+Oman
+Qatar
+Pakistan
+Paraguay
+Romania—beyond 0.04% drivers will not only receive a fine and have their license suspended, the offense will also be added to their criminal records.
+Russian Federation—0% introduced in 2010, but discontinued in September 2013
+Saudi Arabia
+Slovakia
+Uruguay
+United Arab Emirates
+VietnamChina
+Faroe Islands
+Netherlands (for drivers in their first five years after gaining a driving license)
+Norway (road vehicles and sea vessels over 15 m), alternatively 0.1 mg/L of breath.
+Poland (0.02% – 0.05% is a petty offence, over 0.05% is a criminal offence)
+Puerto Rico
+Russia (0.018% since September 2013)
+Serbia
+Sweden
+Ukraine
+United States—drivers under the age of 21 must have 0.02% or less on the federal level; however, most states have Zero Tolerance laws emplaced. Otherwise the limit is 0.08%, except in Utah, where it is 0.05%.Belarus
+Bosnia and Herzegovina (0.031%)
+Chile
+India
+Japan
+KoreaLithuania (0.00% for car drivers in their first three years after gaining a driving license, motorcycle and truck drivers)Argentina: 0.02% for motorbikes, 0.00% for truck, taxi, and bus drivers, 0.00% in the provinces of Cordoba and Salta
+Australia (BAC stated by mass, not volume): 0.00% for Australian Capital Territory learner, provisional and convicted DUI drivers (changed down from 0.02% on December 1, 2010), 0.02% for truck/bus/taxi, 0.00% for learner drivers, provisional/probationary drivers (regardless of age), truck and bus drivers, driving instructors and DUI drivers in all other states
+Austria: no limit for pedestrians; 0.08% for cycling; 0.05% generally for cars <7.5 t (driving licence B) and motorbikes (A); but 0,01% during learning (for driver and teacher or L17-assistant). During probation period (at least the first 3 years) or up to the age of 21, when license was handed out after July 1, 2017, when older (at least the first 2 years) or up to the age of 20 (A1, AM, L17, F), trucks (C >7.5 t), bus (D), drivers of taxi and public transport
+Belgium (also for cyclists)
+Bulgaria
+Canada: (BAC stated by mass, not volume) Alberta, British Columbia, Ontario, Manitoba, Newfoundland, Nova Scotia, New Brunswick—provincial offence. Drivers have not committed a criminal offense, however a 3-day licence suspension and 3-day vehicle seizure occurs.
+Costa Rica
+Croatia: professional drivers, driving instructors and drivers of the vehicle categories C1, C1+E, C, C+E, D, D+E and H; the limit for other drivers is 0.50 mg/g, but they do get an additional separate fine if they cause an accident while having a blood alcohol level between 0 and 0,50 mg/g
+Denmark (excl. Faroe Islands)
+Finland
+France: 0.025% for bus drivers. Between 0.05% and 0.08%, drivers can be fined €135 and have six points removed from their licence. Above 0.08%, the punishment is more severe with possible imprisonment of up to two years, heavy fines and licence suspension.
+Germany (0.0% for learner drivers, all drivers 18–21 and newly licensed drivers of any age for first two years of licence; also, if the BAC exceeds 0.03%, driving is illegal if the driver is showing changes in behavior ("Relative Fahruntüchtigkeit"))
+Greece (0.02% for drivers in their first two years after gaining a driving license)
+Hong Kong
+Iceland: New laws yet to take effect will change the limit to 0.02%.
+Ireland: 0.02% for professional, learner and novice drivers(drivers in their first two years after gaining a driving license)
+Israel: 24 µg per 100 ml (0.024%) of breath (penalties only apply above 26 µg per 100 ml (0.026%) of breath due to lawsuits about sensitivity of devices used). This is equivalent to a BAC of 0.05. New drivers, drivers under 24 years of age and commercial drivers 5 µg per 100 ml of breath. This is equivalent to a BAC of 0.01.
+Italy: 0.00% for drivers in their first three years after gaining a driving license
+Latvia: 0.02% for drivers in their first two years after gaining a driving license
+Luxembourg
+Malta: 0.02% for drivers with a  probationary driving licence and drivers of commercial vehicles, and 0.00% for drivers of buses, coaches and other passenger carrying vehicles.
+Mauritius
+Netherlands: 0.02% for drivers in their first five years after gaining a driving license
+New Zealand
+North Macedonia: 0.00% for drivers in their first two years after gaining a driving license
+Peru
+Philippines: 0.00% for taxicab and public transport drivers
+Portugal: 0.02% for drivers holding a driver's licence for less than three years, professional drivers, and drivers of taxis, heavy vehicles, emergency vehicles, public transport of children and carrying dangerous goods.
+Scotland: Scotland's drink-drive limit was reduced, by law, on 5 December 2014 from 0.08 to any of the following: 22 mcg of alcohol in 100 ml of breath, 50 mg of alcohol in 100 ml of blood, or 67 mg of alcohol in 100 ml of urine
+Slovenia: 0.00% for drivers in their first two years after gaining a drivers licence, drivers under 21 and professional drivers, such as buses, trucks.
+South Africa: 0.02% for professional drivers; to be changed for all to 0.00% by June 2020
+Spain (0.03% for drivers in their first two years after gaining a driving license and common carriers, such as buses and trucks)
+Switzerland (0.00% for  learner drivers, drivers which are in their first three years after gaining a drivers licence and for driving instructors)
+Thailand: 0.02% for drivers who (1) hold a probationary driving licence or; (2) have a licence for different vehicle category or; (3) are under 20 years old or; (4) are disqualified and attempt to drive illegally
+Taiwan: breath alcohol limit decreased from 0.25 to 0.15 from 13 June 2013
+Turkey
+United States – UtahThe BahamasHondurasCanada
+England and Wales; 0.02% for operators of fixed-wing aircraft
+Liechtenstein
+Malaysia: 0.00 for Probationary Driving Licence holders
+Mexico
+New Zealand: Criminal offence
+Norway: legal limit for sea vessels under 15 m
+Northern Ireland: The government of Northern Ireland intends to reduce the general limit to 0.05%.
+Puerto Rico: For drivers 18 years and older
+Singapore
+Trinidad and Tobago
+United States: Every state imposes mandatory penalties for operating a vehicle with a BAC level of 0.08% or greater, except Utah where the limit is 0.05%. Even below those levels drivers can have civil liability and other criminal guilt (e.g., in Arizona driving impairment to any degree caused by alcohol consumption can be a civil or criminal offense in addition to other offenses at higher blood alcohol content levels). Drivers under 21 (the most common U.S. legal drinking age) are held to stricter standards under zero tolerance laws adopted in varying forms in all states: commonly 0.01% to 0.05%. See Alcohol laws of the United States by state. Federal Motor Carrier Safety Administration: 0.04% for drivers of a commercial vehicle requiring a commercial driver's license and 0.01% for operators of common carriers, such as buses.Cayman IslandsIn certain countries, alcohol limits are determined by the breath alcohol content (BrAC), not to be confused with blood alcohol content (BAC).
+In Greece, the BrAC limit is 250 micrograms of alcohol per litre of breath. The limit in blood is 0.50 g/l. The BrAC limit for drivers in their first two years after gaining a driving license and common carriers are more restricted to 100 micrograms per litre of breath.
+BrAC 250–400 = €200 fine.
+BrAC 400–600 = €700 fine, plus suspension of driving license for 90 days (introduced in 2007)
+BrAC >600 = 2 months imprisonment, plus suspension of driving license for 180 days, plus €1,200 fine
+In Hong Kong, the BrAC limit is 220 micrograms per litre of breath (as well as other defined limits)
+In The Netherlands and Finland, the BrAC limit is 220 micrograms of alcohol per litre of breath (μg/l, colloquially known as "ugl" because some types of breathalyzer show the μ as 'u' due to screen size limitations).
+In New Zealand, the BrAC limit is 250 micrograms of alcohol per litre of breath for those aged 20 years or over, and zero (meaning illegal to have any measurable breath alcohol content) for those aged under 20 years.
+In Singapore, the BrAC limit is 350 micrograms of alcohol per litre of breath.
+In Spain the BrAC limit is 250 micrograms of alcohol per litre of breath and 150 micrograms per litre of breath for drivers in their first two years after gaining a driving license and common carriers.
+In England and Wales the BrAC limit is 350 micrograms of alcohol per litre of breath (as well as the above defined blood alcohol content).
+In Scotland the BrAC limit is 220 micrograms of alcohol per litre of breath (as well as the above defined blood alcohol content).
+In Trinidad and Tobago the BrAC limit is 35 micrograms of alcohol per 100 millilitres of breath (as well as the above defined blood alcohol content).For South Korea, the penalties for different blood alcohol content levels include
+0.01–0.049 = No penalty
+0.05–0.09 = 100 days license suspension
+>0.10 = Cancellation of car license.Blood alcohol tests assume the individual being tested is average in various ways. For example, on average the ratio of blood alcohol content to breath alcohol content (the partition ratio) is 2100 to 1. In other words, there are 2100 parts of alcohol in the blood for every part in the breath. However, the actual ratio in any given individual can vary from 1300:1 to 3100:1, or even more widely. This ratio varies not only from person to person, but within one person from moment to moment.  Thus a person with a true blood alcohol level of 0.08% but a partition ratio of 1700:1 at the time of testing would have a 0.10 reading on a Breathalyzer calibrated for the average 2100:1 ratio.
+After fatal accidents, it is common to check the blood alcohol levels of involved persons. However, soon after death, the body begins to putrefy, a biological process which produces ethanol. This can make it difficult to conclusively determine the blood alcohol content in autopsies, particularly in bodies recovered from water. For instance, following the Moorgate tube crash, the driver had a blood alcohol concentration of 80 mg/100 ml, but it could not be established how much of this could be attributed to natural decomposition.
+Retrograde extrapolation is the mathematical process by which someone's blood alcohol concentration at the time of driving is estimated by projecting backwards from a later chemical test. This involves estimating the absorption and elimination of alcohol in the interim between driving and testing. The rate of elimination in the average person is commonly estimated at 0.015 to 0.020 grams per deciliter per hour (g/dl/h), although again this can vary from person to person and in a given person from one moment to another. Metabolism can be affected by numerous factors, including such things as body temperature, the type of alcoholic beverage consumed, and the amount and type of food consumed.
+In an increasing number of states, laws have been enacted to facilitate this speculative task: the blood alcohol content at the time of driving is legally presumed to be the same as when later tested.  There are usually time limits put on this presumption, commonly two or three hours, and the defendant is permitted to offer evidence to rebut this presumption.
+Forward extrapolation can also be attempted. If the amount of alcohol consumed is known, along with such variables as the weight and sex of the subject and period and rate of consumption, the blood alcohol level can be estimated by extrapolating forward. Although subject to the same infirmities as retrograde extrapolation—guessing based upon averages and unknown variables—this can be relevant in estimating BAC when driving and/or corroborating or contradicting the results of a later chemical test.
+Alcohol is absorbed throughout the gastrointestinal tract, but more slowly in the stomach than in the small or large intestine. For this reason, alcohol consumed with food is absorbed more slowly, because it spends a longer time in the stomach. Furthermore, alcohol dehydrogenase is present in the stomach lining. After absorption, the alcohol passes to the liver through the hepatic portal vein, where it undergoes a first pass of metabolism before entering the general bloodstream.
+Alcohol is removed from the bloodstream by a combination of metabolism, excretion, and evaporation. Alcohol is metabolized mainly by the group of six enzymes collectively called alcohol dehydrogenase. These convert the ethanol into acetaldehyde (an intermediate more toxic than ethanol). The enzyme acetaldehyde dehydrogenase then converts the acetaldehyde into non-toxic acetic acid.
+Many physiologically active materials are removed from the bloodstream (whether by metabolism or excretion) at a rate proportional to the current concentration, so that they exhibit exponential decay with a characteristic half-life (see pharmacokinetics). This is not true for alcohol, however. Typical doses of alcohol actually saturate the enzymes' capacity, so that alcohol is removed from the bloodstream at an approximately constant rate. This rate varies considerably between individuals. Another sex-based difference is in the elimination of alcohol. People under 25, women, or people with liver disease may process alcohol more slowly. Falsely high BAC readings may be seen in patients with kidney or liver disease or failure.
+Such persons also have impaired acetaldehyde dehydrogenase, which causes acetaldehyde levels to peak higher, producing more severe hangovers and other effects such as flushing and tachycardia.  Conversely, members of certain ethnicities that traditionally did not use alcoholic beverages have lower levels of alcohol dehydrogenases and thus "sober up" very slowly but reach lower aldehyde concentrations and have milder hangovers.  The rate of detoxification of alcohol can also be slowed by certain drugs which interfere with the action of alcohol dehydrogenases, notably aspirin, furfural (which may be found in fusel alcohol), fumes of certain solvents, many heavy metals, and some pyrazole compounds. Also suspected of having this effect are cimetidine, ranitidine, and acetaminophen (paracetamol).
+Currently, the only known substance that can increase the rate of alcohol metabolism is fructose. The effect can vary significantly from person to person, but a 100 g dose of fructose has been shown to increase alcohol metabolism by an average of 80%. Fructose also increases false positives of high BAC readings in anyone with proteinuria and hematuria, due to kidney-liver metabolism.
+The peak of blood alcohol level (or concentration of alcohol) is reduced after a large meal.
+There have been reported cases of blood alcohol content higher than 1%:
+In 1982, a 24-year-old woman was admitted to the UCLA emergency room with a serum alcohol content of 1.51%, corresponding to a blood alcohol content of 1.33%. She was alert and oriented to person and place and survived. Serum alcohol concentration is not equal to nor calculated in the same way as blood alcohol content.
+In 1984, a 30-year-old man survived a blood alcohol concentration of 1.5% after vigorous medical intervention that included dialysis and intravenous therapy with fructose.
+In 1995, a man from Wrocław, Poland, caused a car accident near his hometown. He had a blood alcohol content of 1.48%; he was tested five times, with each test returning the same reading. He died a few days later of injuries from the accident.
+In 2004, an unidentified Taiwanese woman died of alcohol intoxication after immersion for twelve hours in a bathtub filled with 40% ethanol. Her blood alcohol content was 1.35%. It was believed that she had immersed herself as a response to the SARS epidemic.
+In South Africa, a man driving a Mercedes-Benz Vito light van containing 15 sheep allegedly stolen from nearby farms was arrested on December 22, 2010, near Queenstown in Eastern Cape. His blood had an alcohol content of 1.6%. Also in the vehicle were five boys and a woman, who were also arrested.
+On 26 October 2012, a man from Gmina Olszewo-Borki, Poland, who died in a car accident, recorded a blood alcohol content of 2.23%; however, the blood sample was collected from a wound and thus possibly contaminated.
+On 26 July 2013 a 40-year-old man from Alfredówka, Poland, was found by Municipal Police Patrol from Nowa Dęba lying in the ditch along the road in Tarnowska Wola. At the hospital, it was recorded that the man had a blood alcohol content of 1.374%. The man survived.Carnegie Library of Pittsburgh. Science and Technology Department. The Handy Science Answer Book. Pittsburgh: The Carnegie Library, 1997. ISBN 978-0-7876-1013-5.
+Perham, Nick; Moore, Simon C.; Shepherd, Jonathan; Cusens, Bryany (2007). "Identifying drunkenness in the night-time economy". Addiction. 102 (3): 377–80. doi:10.1111/j.1360-0443.2006.01699.x. PMID 17298644.
+Taylor, L., and S. Oberman. Drunk Driving Defense, 6th edition. New York: Aspen Law and Business, 2006. ISBN 978-0-7355-5429-0.Estimated alcohol

@@ -1,0 +1,6 @@
+Bemesetron (MDL-72222) is a drug which acts as an antagonist at the 5HT3 receptor. It has antiemetic effects comparable to metoclopramide, however it is not used clinically, instead its main application is in scientific research studying the involvement of the 5HT3 receptor in the actions of drugs of abuse.
+Tropanserin
+Tropisetron
+Zatosetron
+Ricasetron
+Granisetron

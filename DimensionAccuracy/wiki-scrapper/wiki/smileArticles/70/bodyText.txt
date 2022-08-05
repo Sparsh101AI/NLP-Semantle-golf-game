@@ -1,0 +1,13 @@
+In biochemistry, a lyase is an enzyme that catalyzes the breaking (an elimination reaction) of various chemical bonds by means other than hydrolysis (a substitution reaction) and oxidation, often forming a new double bond or a new ring structure. The reverse reaction is also possible (called a Michael reaction). For example, an enzyme that catalyzed this reaction would be a lyase:
+ATP → cAMP + PPiLyases differ from other enzymes in that they require only one substrate for the reaction in one direction, but two substrates for the reverse reaction.
+Systematic names are formed as "substrate group-lyase." Common names include decarboxylase, dehydratase, aldolase, etc. When the product is more important, synthase may be used in the name, e.g. phosphosulfolactate synthase (EC 4.4.1.19, Michael addition of sulfite to phosphoenolpyruvate).
+A combination of both an elimination and a Michael addition is seen in O-succinylhomoserine (thiol)-lyase (MetY or MetZ) which catalyses first the γ-elimination of O-succinylhomoserine (with succinate as a leaving group) and then the addition of sulfide to the vinyl intermediate, this reaction was first classified as a lyase (EC 4.2.99.9), but was then reclassified as a transferase (EC 2.5.1.48).
+Lyases are classified as EC 4 in the EC number classification of enzymes. Lyases can be further classified into seven subclasses:
+EC 4.1 includes lyases that cleave carbon–carbon bonds, such as decarboxylases (EC 4.1.1), aldehyde lyases (EC 4.1.2), oxo acid lyases (EC 4.1.3), and others (EC 4.1.99)
+EC 4.2 includes lyases that cleave carbon–oxygen bonds, such as dehydratases
+EC 4.3 includes lyases that cleave carbon–nitrogen bonds
+EC 4.4 includes lyases that cleave carbon–sulfur bonds
+EC 4.5 includes lyases that cleave carbon–halide bonds
+EC 4.6 includes lyases that cleave phosphorus–oxygen bonds, such as adenylyl cyclase and guanylyl cyclase
+EC 4.99 includes other lyases, such as ferrochelataseSome lyases associate with biological membranes as peripheral membrane proteins or anchored through a single transmembrane helix.
+List of EC numbers of enzymes belonging to category EC 4EC 4 Introduction from the Department of Chemistry at Queen Mary, University of London

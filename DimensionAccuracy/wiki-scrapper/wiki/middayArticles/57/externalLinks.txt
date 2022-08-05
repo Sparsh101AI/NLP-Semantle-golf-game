@@ -1,0 +1,14 @@
+https://archive.org/details/MSXDOS2TOOLS
+https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/cal.html
+https://docs.oracle.com/cd/E26502_01/html/E29030/cal-1.html#scrolltoc
+https://www.opengroup.org/onlinepubs/9699919799/utilities/cal.html
+https://9p.io/magic/man2html/1/cal
+http://man.cat-v.org/inferno/1/cal
+https://linux.die.net/man/1/cal
+//www.freebsd.org/cgi/man.cgi?query=cal&sektion=1
+https://man.netbsd.org/cal.1
+https://man.openbsd.org/cal.1
+https://web.archive.org/web/20160221144829/http://www.csd.uwo.ca/staff/magi/personal/humour/Computer_Audience/'cal%209%201752'%20explained.html
+https://en.wikipedia.org/w/index.php?title=Template:Unix_commands&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Plan_9_commands&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Calendaring_software&action=edit

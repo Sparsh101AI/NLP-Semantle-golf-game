@@ -1,0 +1,14 @@
+https://ui.adsabs.harvard.edu/abs/2004RuCRv..73.1041T
+https://doi.org/10.1070%2FRC2004v073n11ABEH000855
+https://zenodo.org/record/1431121
+https://doi.org/10.1080%2F14786445008646627
+http://web.lemoyne.edu/~giunta/williamson.html
+https://doi.org/10.1002%2Fanie.201306884
+//pubmed.ncbi.nlm.nih.gov/24273149
+http://handle.unsw.edu.au/1959.4/51780
+//arxiv.org/abs/1410.8255
+https://doi.org/10.1179%2F1743676111Y.0000000059
+https://api.semanticscholar.org/CorpusID:98265180
+https://doi.org/10.1007%2Fs11172-006-0106-5
+https://api.semanticscholar.org/CorpusID:195234048
+https://en.wikipedia.org/w/index.php?title=Template:Coordination_complexes&action=edit

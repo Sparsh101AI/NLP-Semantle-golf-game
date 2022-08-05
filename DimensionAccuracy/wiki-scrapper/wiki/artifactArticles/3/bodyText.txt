@@ -1,0 +1,21 @@
+The concept of T-shaped skills, or T-shaped persons is a metaphor used in job recruitment to describe the abilities of persons in the workforce. The vertical bar on the letter T represents the depth of related skills and expertise in a single field, whereas the horizontal bar is the ability to collaborate across disciplines with experts in other areas and to apply knowledge in areas of expertise other than one's own.
+The earliest popular reference is by David Guest in 1991. Tim Brown, CEO of the IDEO design consultancy, endorsed this approach to résumé assessment as a method to build interdisciplinary work teams for creative processes.  Earlier references can be found; in the 1980s the term "T-shaped man" was used internally by McKinsey & Company for recruiting and developing consultants and partners, both male and female.
+The term T-shaped skills is also common in the agile software development world and refers to the need for cross-skilled developers and testers in an agile team, e.g. a scrum team.
+Versatilist
+Generalizing specialist
+Technical craftsperson
+Renaissance developer
+Master generalistOther shapes have also been proposed:
+X-shaped for leadership
+I-shaped for individual depth-skill without communication skills
+tree-shaped for a person with depth in many areas or branches of a field
+Multiple Mountains shaped (coined by Forrest Z. Shooster) for individuals with depth in overlapping several fields rather than a shallow depth in many or a singular depth in one field who specialize in the overlap between those fieldsΓ- and Μ-shaped individuals (gamma and mu, respectively) have been described by Brittany Fiore in her ethnographic work of data science research communities to indicate people with supporting strengths in computationally- and software-intensive fields.
+Similarly, π-shaped skills (after the Greek letter pi) refer to "a broad mastery of general management skills atop a few spikes of deep functional or domain expertise".
+Recruitment
+Full stack developers are expected to work in all the subsystems.T-shaped
+Want to plan campaigns? Best get your 'I's crossed
+An Interview with IDEO CEO Tim Brown
+T-shaped professionals, T-shaped skills, hybrid managers 
+International Society of Service Innovation Professionals (ISSIP) co-sponsored T-Summit 
+T-Shaped Innovators: Identifying the Right Talent to Support Service Innovation
+T-shaped Learning for the New Technologist, NEF White Paper 2012 (now STEM Foundation)

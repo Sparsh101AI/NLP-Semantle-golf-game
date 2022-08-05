@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Van_Asch_Van_Wijck_Mountains&params=4_20_N_55_40_W_region:SR_type:mountain
+//geohack.toolforge.org/geohack.php?pagename=Van_Asch_Van_Wijck_Mountains&params=4_20_N_55_40_W_region:SR_type:mountain
+http://www.suriname.nu/701vips/aschvanwijck.html
+https://en.wikipedia.org/w/index.php?title=Van_Asch_Van_Wijck_Mountains&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Suriname-geo-stub&action=edit

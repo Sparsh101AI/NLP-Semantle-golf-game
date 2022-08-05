@@ -1,0 +1,23 @@
+A form is a document with spaces (also named fields or placeholders) in which to write or select, for a  series of documents with similar contents. The documents usually have the printed parts in common, except, possibly, for a serial number. 
+Forms, when completed, may be a statement, a request, an order, etc.; a check may be a form. Also there are forms for taxes; filling one in is a duty to have determined how much tax one owes, and/or the form is a request for a refund. See also Tax return.
+Forms may be filled out in duplicate (or triplicate, meaning three times) when the information gathered on the form needs to be distributed to several departments within an organization. This can be done using carbon paper.
+Forms have existed for a significant amount of time, with historians of law having discovered preprinted legal forms from the early 19th century that greatly simplified the task of drafting complaints and various other legal pleadings.
+Advantages of forms include the following:
+One has to write less (while the printing is almost universally done in some automatic way)
+One is told or reminded what information has to be supplied
+There is uniformity, for convenience in processing
+Information is collected in writing and so can be reexamined later (the form can also include a signature field to allow someone to take responsibility for the accuracy of the information provided).
+Simpler tasks, such as collecting or distributing data, can be separated in the workflow from more skilled processes, such as making decisions. Issuing and processing the forms may then be done by less skilled staff, or by a computer. The de-skilled task becomes issuing or completing the appropriate form for the circumstances, and then passing it on to the next step in the workflow. This might reduce costs and increase the volume of work that can be handled.A form on a computer allows for conveniently typing in the variable parts (the input data).
+A blank form is like a usual document, with some outlined parts with spaces. Blank forms are generally not copyrightable in the US.
+Part of the document that never changes. Usually a frame with title and textual instructions.
+Boxes or spaces where the user can write or type to fill in the form.
+Database
+Questionnaire
+XForms
+Form (web)
+Form (programming)
+Forms processing
+Oracle Forms
+Windows Forms
+Master-detail
+Enterprise Forms Automation

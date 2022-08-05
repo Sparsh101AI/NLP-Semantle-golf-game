@@ -1,0 +1,6 @@
+//geohack.toolforge.org/geohack.php?pagename=Megara_Hyblaea&params=37_12_14.04_N_15_10_54.84_E_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Megara_Hyblaea&params=37_12_14.04_N_15_10_54.84_E_type:landmark
+https://en.wikipedia.org/w/index.php?title=Template:Ancient_Greece_topics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Archaeological_sites_in_Sicily&action=edit
+https://viaf.org/viaf/247304660
+https://www.worldcat.org/identities/containsVIAFID/247304660

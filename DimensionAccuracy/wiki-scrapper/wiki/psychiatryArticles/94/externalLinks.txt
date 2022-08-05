@@ -1,0 +1,6 @@
+http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN
+https://en.wikipedia.org/w/index.php?title=Template:Csongr%C3%A1d&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Hungary%27s_most_flowery_settlements&action=edit
+//geohack.toolforge.org/geohack.php?pagename=Pusztam%C3%A9rges&params=46_20_N_19_41_E_region:HU_type:city
+https://en.wikipedia.org/w/index.php?title=Pusztam%C3%A9rges&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Csongrad-geo-stub&action=edit

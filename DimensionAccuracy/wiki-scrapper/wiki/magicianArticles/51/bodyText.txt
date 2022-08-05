@@ -1,0 +1,10 @@
+The voiced retroflex plosive or stop is a type of consonantal sound, used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is ⟨ɖ⟩, and the equivalent X-SAMPA symbol is d`. Like all the retroflex consonants, the IPA symbol is formed by adding a rightward-pointing hook extending from the bottom of a d, the letter that is used for the corresponding alveolar consonant. Many South Asian languages, such as Hindi and Urdu, have a two-way contrast between plain and murmured (breathy voice) [ɖ].
+
+Features of the voiced retroflex stop:
+Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive.
+Its place of articulation is retroflex, which prototypically means it is articulated subapical (with the tip of the tongue curled up), but more generally, it means that it is postalveolar without being palatalized. That is, besides the prototypical subapical articulation, the tongue contact can be apical (pointed) or laminal (flat).
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.African D
+Index of phonetics articlesList of languages with [ɖ] on PHOIBLE

@@ -1,0 +1,161 @@
+The names for numerals in Slovene are formed in a similar way to that found in other Slavic languages. An exception is the formation of numerals from 21 to 99, in which the unit is placed in front of the decade ("four-and-twenty"), as in German. Many numerals alter their form according to grammatical case, and those from 1 to 4 also according to gender.
+The cardinal numbers 1 to 10 are: èn, dvá, tríje, štírje, pét, šést, sédem, ósem, devét, desét. The first four decline for gender, the rest do not. When counting or reciting numbers, the feminine form is normally used.
+Èn declines as a regular adjective, with three genders èn, êna, êno and full case forms. There is also a longer form of the masculine nominative singular, êden, which is used when the numeral does not modify a noun directly. Èn has plural forms, which occur with nouns used only in the plural form (pluralia tantum), but no dual forms.
+Dvá, tríje and štírje decline for gender, but are irregular. Dvá occurs only in the dual, tríje and štírje occur only in the plural.
+
+
+
+
+
+
+
+masculine
+
+feminine
+
+neuter
+
+
+nominative
+
+dvá
+dvé
+dvé
+
+
+accusative
+
+dvá
+dvé
+dvé
+
+
+genitive
+
+dvéh
+dvéh
+dvéh
+
+
+dative
+
+dvéma
+dvéma
+dvéma
+
+
+locative
+
+dvéh
+dvéh
+dvéh
+
+
+instrumental
+
+dvéma
+dvéma
+dvéma
+
+
+
+
+
+masculine
+
+feminine
+
+neuter
+
+
+tríje
+trí
+trí
+
+
+trí
+trí
+trí
+
+
+tréh
+tréh
+tréh
+
+
+trém
+trém
+trém
+
+
+tréh
+tréh
+tréh
+
+
+trémi
+trémi
+trémi
+
+
+
+
+
+masculine
+
+feminine
+
+neuter
+
+
+štírje
+štíri
+štíri
+
+
+štíri
+štíri
+štíri
+
+
+štírih
+štírih
+štírih
+
+
+štírim
+štírim
+štírim
+
+
+štírih
+štírih
+štírih
+
+
+štírimi
+štírimi
+štírimi
+
+The numbers from 5 onwards do not decline for gender. They also behave somewhat differently when modifying a noun. When placed in the nominative or accusative case, the following noun is put in the genitive plural case, while the numeral remains in the nominative/accusative. In the other cases, the numeral and noun are both in the same case.
+All numerals from 5 to 99 decline the same, but the numbers 5 to 10 have changes in the stem when an ending is attached: šêst-, sêdm-, ôsm-, devêt-, desêt-. Pét is given here.
+The numbers 11 to 19 are formed by suffixing -nájst to the base number: enájst, dvanájst, trinájst, štirinájst, petnájst, šestnájst, sedemnájst, osemnájst, devetnájst.
+The decades 20 to 90 are formed by suffixing -deset to the base number (but 20 is irregular): dvájset, trídeset, štírideset, pétdeset, šéstdeset, sédemdeset, ósemdeset, devétdeset. When combined with a unit, the order of unit and decade is reversed, unlike in English and Serbo-Croatian, but like in German. The unit comes first in the feminine form, then the decade, joined together by in 'and', and both elements retain their individual accents: ênaindvájset, dváindvájset, tríindvájset, štíriindvájset, etc.
+All decades decline like pét above.
+100 is stó, and declines as pét, but has the stem stôt- when an ending is attached. Multiples of 100 are formed like the decades, by suffixing -sto to the base number in the feminine form: dvésto, trísto, štíristo, pétsto, šéststo, etc. Enájststo 'eleven hundred', dvanájststo "twelve hundred', and so on are used as alternatives to combinations using 'thousand' (see below), as in English.
+Combinations of a hundred and a lower number are formed by placing the lower number after the hundred, as a separate word and in the feminine form: stó êna '101', stó dvé '102', ... stó desét '110', stó enájst '111', ... stó dvájset '120', stó ênaindvájset '121', ... devetsto devetindevetdeset '999'.
+1000 is tísoč, and behaves a masculine noun, with its own dual and plural forms. Multiples of 1000 are formed like a numeral modifying any other noun, but tísoč itself does not decline according to the preceding number: dvá tísoč, trí tísoč, štíri tísoč, pét tísoč etc.
+Combinations of a thousand and a lower number are formed as they are with hundreds: tísoč êna (1001), ... tísoč stó (1100), ... pét tísoč pétsto pétinpétdeset (5555), ... devétsto devétindevétdeset tísoč devétsto devétindevétdeset (999,999).
+Slovene uses the long scale: milijón (1,000,000), milijárda (1,000,000,000), bilijón (1,000,000,000,000), bilijárda (1,000,000,000,000,000) and so on. These are nouns with distinct genders, alternating masculine and feminine; milijón is masculine, milijárda is feminine, etc.
+Multiples and combinations are formed the same as the thousands. However, the nouns for the millions themselves decline for number as well, and are placed in the genitive plural case following numbers that require this: dvá milijóna (2 million), dvá milijóna êna (2,000,001), ... tríje milijóni (3,000,000), ... sédem milijónov petnájst tísoč sédemindvájset (7,015,027), ... devétsto devétindevétdeset milijónov devétsto devétindevétdeset tísoč devétsto devétindevétdeset (999,999,999), ... dvé milijárdi (2,000,000,000), ... trí milijárde (3,000,000,000).
+The ordinal numbers are regular adjectives in Slovene. They have only definite forms, so the masculine nominative singular ends in -i. In writing, ordinals may be written in digit form followed by a period, as in German: 1., 2., 3., 4. and so on.
+The ordinals from 1st to 4th are formed irregularly: pŕvi, drúgi, trétji, četŕti.
+From 5th to 99th, ordinals are formed simply by declining the corresponding cardinal number as a regular adjective. If the last syllable is stressed, a closed long e or o becomes open. Thus: pêti/pêta/pêto (5th), šêsti/šêsta/šêsto (6th), sêdmi/sêdma/sêdmo (7th), ... devétindevétdeseti/a/o (99th). 100th and 1000th are formed the same way: stôti/a/o, tísoči/a/o. For the millions and above, -ti is suffixed and the vowels are not changed: milijónti/a/o (millionth), milijárdti/a/o (billionth).
+In ordinals from 100th and above, if the number is formed by multiple words, only the last word is changed into an ordinal. The others remain the same as the cardinal. So 200th is dvéstoti, but 201st is dvésto pŕvi.
+Adverbial numbers indicate a repetition, and come in two forms, corresponding to the cardinal and ordinal numbers.
+The cardinal adverbials are formed by suffixing -krat to a cardinal number: ênkrat (once), dvákrat (twice), tríkrat (thrice/three times), štírikrat (four times), petkrat (five times) and so forth. For example: Osel gre samo enkrat na led. ("A donkey goes onto ice only once", equivalent to "Fool me once shame on you, fool me twice, shame on me.")
+The ordinal adverbials are formed by suffixing -č  or -krat to the masculine nominative singular form of an ordinal number: pŕvič/pŕvikrat (first time), drúgič/drúgikrat (second time), trétjič/trétjikrat (third time), četŕtič/četŕtikrat (fourth time), pêtič/pêtikrat (fifth time) and so forth. For example: Ko drugič poskusiš, uvidiš, da že kar znaš. ("When you try it the second time around, you realize that you already know it quite well.")
+Collective numbers are used for plural mass nouns, as well as to emphasise diversity of what is counted. Those from 2 to 5 are: dvoje, troje, četvero, petero: for example, dvoje oči, dvoje vrat, troje ljudi (two eyes, two doors, three people).
+Multiplicative numbers are adjectives that denote a certain multiplication of something, similar to suffixing -fold in English. They are formed in two possible ways, with more or less the same meaning:
+enójen, dvójen, trójen, četvóren, petórno (single, double, triple, quadraple, fivefold/quintuple) – used to name the number of parts (dvojni ulomek (double fraction))
+enkraten, dvakraten, trikraten, štirikraten, petkraten (essentially the same meaning, but less often used)

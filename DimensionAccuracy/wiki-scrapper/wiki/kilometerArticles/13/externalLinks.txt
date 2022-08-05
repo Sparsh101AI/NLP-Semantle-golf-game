@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=Whip_pan&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Whip+pan%22
+//www.google.com/search?tbm=nws&q=%22Whip+pan%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Whip+pan%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Whip+pan%22+-wikipedia
+//scholar.google.com/scholar?q=%22Whip+pan%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Whip+pan%22&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Template:Cinematic_techniques&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Special_effects&action=edit
+https://en.wikipedia.org/w/index.php?title=Whip_pan&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Filmmaking-stub&action=edit

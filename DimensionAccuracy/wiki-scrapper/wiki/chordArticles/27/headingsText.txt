@@ -1,0 +1,18 @@
+Definition
+Examples
+Properties
+Coordinates 
+Change of basis
+Related notions
+Free module
+Analysis
+Example
+Geometry
+Random basis
+Proof that every vector space has a basis
+See also
+Notes
+References
+General references
+Historical references
+External links

@@ -1,0 +1,21 @@
+The transsulfuration pathway is a metabolic pathway involving the interconversion of cysteine and homocysteine through the intermediate cystathionine. Two transsulfurylation pathways are known: the forward and the reverse.
+The forward pathway is present in several bacteria, such as Escherichia coli and Bacillus subtilis, and involves the transfer of the thiol group from cysteine to homocysteine (methionine precursor with the S-methyl group), thanks to the γ-replacement of the acetyl or succinyl group of a homoserine  with cysteine via its thiol group to form cystathionine (catalysed by cystathionine γ-synthase, which is encoded by metB in E. coli and metI in B. subtilis). Cystathionine is then cleaved by means of the β-elimination of the homocysteine portion of the molecule leaving behind an unstable imino acid, which is attacked by water to form pyruvate and ammonia (catalysed by the metC-encoded cystathionine β-lyase).
+The production of homocysteine through transsulfuration allows the conversion of this intermediate to methionine, through a methylation reaction carried out by methionine synthase.
+The reverse pathway is present in several organisms, including humans, and involves the transfer of the thiol group from homocysteine to cysteine via a similar mechanism. In Klebsiella pneumoniae the cystathionine β-synthase is encoded by mtcB, while the γ-lyase is encoded by mtcC.
+Humans are auxotrophic for methionine, hence it is called an "essential amino acid" by nutritionists, but are not for cysteine due to the reverse trans-sulfurylation pathway. Mutations in this pathway lead to a disease known as homocystinuria, due to homocysteine accumulation.
+All four transsulfuration enzymes require vitamin B6 in its active form (pyridoxal phosphate or PLP). Three of these enzymes (cystathionine γ-synthase excluded) are part of the Cys/Met metabolism PLP-dependent enzyme family (type I PLP enzymes).
+There are five different structurally related types of PLP enzymes. Members of this family belong to the type I and are:
+in the transsulfurylation route for methionine biosynthesis:
+Cystathionine γ-synthase (metB) which joins an activated homoserine ester (acetyl or succinyl) with cysteine to form cystathionine
+Cystathionine β-lyase (metC) which splits cystathionine into homocysteine and a deaminated alanine (pyruvate and ammonia)
+in the direct sulfurylation pathway for methionine biosynthesis:
+O-acetyl homoserine sulfhydrylase (metY) which adds a thiol group to an activated homoserine ester
+O-succinylhomoserine sulfhydrylase (metZ) which adds a thiol group to an activated homoserine ester
+in the reverse transsulfurylation pathway for cysteine biosynthesis:
+Cystathionine γ-lyase (no common gene name) which joins an activated serine ester (acetyl or succinyl) with homocysteine to form cystathionine
+Not Cystathionine β-synthase which is a PLP enzyme type II
+cysteine biosynthesis from serine:
+O-acetyl serine sulfhydrylase (cysK or cysM) which adds a thiol group to an activated serine ester
+methionine degradation:
+Methionine gamma-lyase (mdeA) which breaks down methionine at the thioether and amine boundsNote: MetC, metB, metZ are closely related and have fuzzy boundaries so fall under the same NCBI orthologue cluster (COG0626).
+The direct sulfurylation pathways for the synthesis of cysteine or homocysteine proceeds via the replacement of the acetyl/succinyl group with free sulfide (via the cysK or cysM -encoded cysteine synthase. and the metZ or metY -encoded homocysteine synthase,

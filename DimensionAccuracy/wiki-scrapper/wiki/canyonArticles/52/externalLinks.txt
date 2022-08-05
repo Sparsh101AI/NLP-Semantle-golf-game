@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=Template:U.S._city_population_tables&action=edit
+https://apps.gis.ucla.edu/geodata/dataset/us_census_urban_areas#:~:text=The%20U.S.%20Census%20Bureau%20identifies%20two%20types%20of,residential,%20commercial,%20and%20other%20non-residential%20urban%20land%20uses.
+http://www2.census.gov/geo/docs/reference/ua/ua_list_all.txt
+https://www2.census.gov/geo/pdfs/reference/fedreg/fedregv75n163.pdf
+http://www.bls.gov/sae/saemd.htm
+http://www.bls.gov/oes/current/msa_def.htm
+https://web.archive.org/web/20020613030345/http://www.census.gov/geo/www/ua/ua2k.txt
+https://www.census.gov/geo/www/ua/2010urbanruralclass.html
+https://www.census.gov/geo/www/ua/fedregv75n163.pdf
+https://www.census.gov/
+https://www.census.gov/programs-surveys/geography/about/faq/2010-urban-area-faq.html
+https://web.archive.org/web/20141218204847/http://www.census.gov/popest/data/index.html
+https://web.archive.org/web/20131014182213/http://www.census.gov/geo/www/ua/ua_2k.html
+https://www.census.gov/geo/www/maps/ua2kmaps.htm
+https://en.wikipedia.org/w/index.php?title=Template:USCensus_Geography&action=edit

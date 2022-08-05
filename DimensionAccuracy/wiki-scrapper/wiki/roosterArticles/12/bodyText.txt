@@ -1,0 +1,15 @@
+Myzozoa is a grouping of specific phyla within Alveolata, that either feed through myzocytosis, or were ancestrally capable of feeding through myzocytosis.
+Many protozoan orders are included within Myzozoa.
+It is sometimes described as a phylum, containing the major subphyla Dinozoa and Apicomplexa, plus minor subphyla.
+The term Myzozoa superseded the previous term "Miozoa", by the same authority, and gave a slightly altered meaning.
+Within Myzozoa, there are around four phyla:
+Apicomplexa – parasitic protozoa that lack axonemal locomotive structures except in gametes
+Dinoflagellates – mostly marine flagellates many of which have chloroplasts
+Chromerida – a marine phylum of photosynthetic protozoa
+PerkinsozoaThe term/group Myzozoa was not considered in a resolution of protist groups by Adl et al. 2012. Strict taxonomy only considers common traits possessed by all organisms of the group. Some organisms within each of the component groups of Myzozoa have lost the ability for Myzocytosis. Further, as taxonomy pays no account of molecular phylogeny, one current classification has all alveolate taxa other than apicomplexans, ciliates and dinoflagellates, named under the grab bag term "Protalveolata". The difficulty of placing very early dinozoans either within or outside the group "dinoflagellates" continues to favour classifications such as Protalveolata, as does the potential polyphyly between the two genera of "colpodellids" Voromonas and Colpodella.
+The most closely related large clade to the myzozoans are the ciliates.
+Both of these groups of organisms – unlike the majority of eukaryotes studied to date – seem to have a linear mitochondrial genome. Most other eukaryotes that have had their mitochondrial genomes examined have circular genomes. However, the taxonomic term Myzozoa specifically excludes ciliates which are rather under the higher taxonomic rank Alveolata. Thus, Alveoata includes two large groups: Myzozoa and Ciliophora  plus the smaller groups discussed above.
+All Myzozoa appears to have evolved form an ancestor that possessed plastids, required through endosymbiosis.
+The branching order within both Myzozoa and Protalveolata, is only partly understood. Three groups – the Colpodellids, Chromerida and the Apicomplexa – appear to be sister clades. Three other groups – the Perkinsids, Syndiniales and Oxyrrhis are distantly related to the dinoflagellates.
+Perkinsus marinus and the Apicomplexa both have histones while the dinoflagellates appear to have lost theirs.
+Chromerida are ancestrally myzocytotic, on the basis of evidence for myzocytosis by the chromerid Vitrella brassicaformis.

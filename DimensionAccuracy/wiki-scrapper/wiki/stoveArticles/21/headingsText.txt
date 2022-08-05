@@ -1,0 +1,15 @@
+Logical foundations
+First implementations
+Decidability of the problem
+Related problems
+Industrial uses
+First-order theorem proving
+Benchmarks, competitions, and sources
+Popular techniques
+Software systems
+Free software
+Proprietary software
+See also
+Notes
+References
+External links

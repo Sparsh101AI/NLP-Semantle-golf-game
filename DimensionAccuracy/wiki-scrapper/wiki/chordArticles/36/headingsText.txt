@@ -1,0 +1,34 @@
+History
+Real functions
+Definition
+Definition in terms of limits of functions
+Definition in terms of neighborhoods
+Definition in terms of limits of sequences
+Weierstrass and Jordan definitions (epsilon–delta) of continuous functions
+Definition in terms of control of the remainder
+Definition using oscillation
+Definition using the hyperreals
+Construction of continuous functions
+Examples of discontinuous functions
+Properties
+A useful lemma
+Intermediate value theorem
+Extreme value theorem
+Relation to differentiability and integrability
+Pointwise and uniform limits
+Directional and semi-continuity
+Continuous functions between metric spaces
+Uniform, Hölder and Lipschitz continuity
+Continuous functions between topological spaces
+Continuity at a point
+Alternative definitions
+Sequences and nets 
+Closure operator and interior operator definitions
+Filters and prefilters
+Properties
+Homeomorphisms
+Defining topologies via continuous functions
+Related notions
+See also
+References
+Bibliography

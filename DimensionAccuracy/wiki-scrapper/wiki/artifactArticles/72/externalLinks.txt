@@ -1,0 +1,10 @@
+https://books.google.com/books?id=QGPHAl9GE-IC
+http://www.edwardbosworth.com/My5155_Slides/Chapter09/ComputerArchitectureOverview.htm
+http://www.edwardbosworth.com/My5155_Slides/Chapter11/CPUBusStructure.htm
+http://class.ece.iastate.edu/tyagi/cpre583/documents/garp.pdf
+https://web.archive.org/web/20170922233250/http://class.ece.iastate.edu/tyagi/cpre583/documents/garp.pdf
+https://doi.org/10.1145/301177.301504
+https://doi.org/10.1145%2F301177.301504
+https://ieeexplore.ieee.org/document/514545/;jsessionid=MYQQA-0VMOI3jrTe_LSwPUmf2Be40nidbIiIztKGURh20Ig67Xk2!-1937166891
+https://doi.org/10.1109%2FAPCCAS.1994.514545
+https://en.wikipedia.org/w/index.php?title=Template:Processor_technologies&action=edit

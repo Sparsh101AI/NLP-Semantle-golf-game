@@ -1,0 +1,17 @@
+In chemistry, a hydration reaction is a chemical reaction in which a substance combines with water. In organic chemistry, water is added to an unsaturated substrate, which is usually an alkene or an alkyne. This type of reaction is employed industrially to produce ethanol, isopropanol, and butan-2-ol.
+Several million tons of ethylene glycol are produced annually by the hydration of oxirane, a cyclic compound also known as ethylene oxide:
+C2H4O + H2O → HO–CH2CH2–OHAcid catalysts are typically used.
+For the hydration of alkenes, the general chemical equation of the reaction is the following:
+RRC=CH2  + H2O → RRC(OH)-CH3A hydroxyl group (OH) attaches to one carbon of the double bond, and a proton (H) adds to the other. The reaction is highly exothermic. In the first step, the alkene acts as a nucleophile and attacks the proton, following Markovnikov's rule. In the second step an H2O molecule bonds to the other, more highly substituted carbon. The oxygen atom at this point has three bonds and carries a positive charge (i.e., the molecule is an oxonium). Another water molecule comes along and takes up the extra proton. This reaction tends to yield many undesirable side products, (for example diethyl ether in the process of creating ethanol) and in its simple form described here is not considered very useful for the production of alcohol.
+Two approaches are taken. Traditionally the alkene is treated with sulfuric acid to give alkyl sulphate esters. In the case of ethanol production, this step can be written:
+H2SO4 + C2H4 → C2H5-O-SO3HSubsequently, this sulphate ester is hydrolyzed to regenerate sulphuric acid and release ethanol:
+C2H5-O-SO3H + H2O → H2SO4 + C2H5OHThis two step route is called the "indirect process".
+In the "direct process," the acid protonates the alkene, and water reacts with this incipient carbocation to give the alcohol. The direct process is more popular because it is simpler. The acid catalysts include phosphoric acid and several solid acids.
+Here an example reaction mechanism of the hydration of 1-methylcyclohexene to 1-methylcyclohexanol:
+Many alternative routes are available for producing alcohols, including the hydroboration–oxidation reaction, the oxymercuration–reduction reaction, the Mukaiyama hydration, the reduction of ketones and aldehydes and as a biological method fermentation.
+Any unsaturated organic compound is susceptible to hydration. Acetylene hydrates to give acetaldehyde: The process typically relies on mercury catalysts and has been discontinued in the West but is still practiced in China. The Hg center binds to a C≡C bond, which is then attacked by water. The reaction is
+H2O + C2H2 → CH3CHONitriles undergo hydration to give amides:
+H2O + RCN → RC(O)NH2This reaction is employed in the production of acrylamide.
+Aldehydes and to some extent even ketones, hydrate to geminal diols. The reaction is especially dominant for formaldehyde, which, in the presence of water, exists significantly as dihydroxymethane.
+Conceptually similar reactions include hydroamination and hydroalkoxylation, which involve adding amines and alcohols to alkenes.
+Hydration is an important process in many other applications; one example is the production of Portland cement by the crosslinking of calcium oxides and silicates that is induced by water. Hydration is the process by which desiccants function.

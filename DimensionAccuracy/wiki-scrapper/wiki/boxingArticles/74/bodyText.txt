@@ -1,0 +1,11 @@
+In accounting and finance, earnings before interest and taxes (EBIT) is a measure of a firm's profit that includes all incomes and expenses (operating and non-operating) except interest expenses and income tax expenses (for individuals).
+Operating income and operating profit are sometimes used as a synonym for EBIT when a firm does not have non-operating income and non-operating expenses.
+EBIT = (Net income) + Interest + Taxes = Earnings before interest, taxes, depreciation, and amortizationEBITDA – (Depreciation and Amortization expenses)(Operating income) = (Gross income) – Operating expensesOPEX = EBIT – (non-operating profit) + (non-operating expenses)A professional investor contemplating a change to the capital structure of a firm (e.g., through a leveraged buyout) first evaluates a firm's fundamental earnings potential (reflected by earnings before interest, taxes, depreciation and amortization (EBITDA) and EBIT), and then determines the optimal use of debt versus equity (equity value).
+To calculate EBIT, expenses (e.g. the cost of goods sold, selling and administrative expenses) are subtracted from revenues. Net income is later obtained by subtracting interest and taxes from the result.
+Earnings before taxes (EBT) is the money retained by the firm before deducting the money to be paid for taxes. EBT excludes the money paid for interest. Thus, it can be calculated by subtracting the interest from EBIT (earnings before interest and taxes).
+Earnings before interest, taxes, and amortization (EBITA)
+Earnings before interest, taxes, and depreciation (EBITD)
+Earnings before interest, taxes, depreciation, amortization, and restructuring or rent costs (EBITDAR)
+Earnings before interest, taxes, depreciation, and amortization (EBITDA)
+EV/EBITDA
+Operating income before depreciation and amortization (OIBDA)

@@ -1,0 +1,13 @@
+Order: Sirenia (manatees and dugongs)
+Order: Rodentia (rodents)
+Order: Lagomorpha (lagomorphs)
+Order: Eulipotyphla (shrews, hedgehogs, gymnures, moles and solenodons)
+Order: Chiroptera (bats)
+Order: Cetacea (whales)
+Order: Carnivora (carnivorans)
+Order: Perissodactyla (odd-toed ungulates)
+Order: Artiodactyla (even-toed ungulates)
+Locally extinct
+See also
+References
+External links

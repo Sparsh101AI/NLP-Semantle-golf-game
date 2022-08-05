@@ -1,0 +1,10 @@
+https://web.archive.org/web/20160322121351/http://www.iso.org/iso/registration_authorities_guidelines_for_committees.pdf
+http://www.iso.org/iso/registration_authorities_guidelines_for_committees.pdf
+https://datatracker.ietf.org/doc/html/rfc2028#section-3.7
+https://datatracker.ietf.org/doc/html/rfc2028
+https://doi.org/10.17487%2FRFC2028
+https://datatracker.ietf.org/doc/html/rfc2028
+http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=16645
+http://www.omg.org/
+http://www.iso.org/
+http://www.omg.org/spec/EDMC-FIBO/FBC/FunctionalEntities/RegistrationAuthorities.rdf

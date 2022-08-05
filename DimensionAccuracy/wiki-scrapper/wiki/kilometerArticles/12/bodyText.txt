@@ -1,0 +1,80 @@
+Registration authorities exist for many standards organizations, such as ANNA (Association of National Numbering Agencies for ISIN), the Object Management Group, W3C, IEEE and others. In general, registration authorities all perform a similar function, in promoting the use of a particular standard through facilitating its use. This may be by applying the standard, where appropriate, or by verifying that a particular application satisfies the standard's tenants. Maintenance agencies, in contrast, may change an element in a standard based on set rules – such as the creation or change of a currency code when a currency is created or revalued (i.e. TRL to TRY for Turkish lira). The Object Management Group has an additional concept of certified provider, which is deemed an entity permitted to perform some functions on behalf of the registration authority, under specific processes and procedures documented within the standard for such a role.
+An ISO registration authority (RAs) is not authorized to update standards but provides a registration function to facilitate implementation of an International Standard (e.g. ISBN number for books). Frequently, facilitating the implementation of an ISO standard’s requirements is best suited, by its nature, to one entity, an RA. This, de facto, creates a monopoly situation and this is why care needs to be taken with respect to the functions carried out and the fees charged to avoid an abuse of such a situation.  In most cases, there is a formal legal contract in place between the standards body, such as the ISO General Secretariat, and the selected registration authority.
+ISO registration authorities differ from a maintenance agency.  Maintenance agencies are authorized to update particular elements in an International Standard and as a matter of policy, the secretariats of MAs are assigned to bodies forming part of the ISO system (member bodies or organizations to which a member body delegates certain tasks in its country). The membership of MAs and their operating procedures are subject to approval by the Technical Management Board.
+While registration authorities for a particular standard typically do not change, the position is not formally guaranteed and is subject to review and reassignment to a different firm or organization. In some cases, the concept of a registration authority may not exist for a standard at all.
+By further example, the equivalent registration authority organization for Internet standards is the Internet Assigned Numbers Authority.
+ISO and ISO/IEC standards having registration authorities are:
+ISO 4—defines a uniform system for the abbreviation of journal titles
+ISO 639—lists short codes for language names
+ISO 2108—International Standard Book Numbers (ISBNs)
+ISO/IEC 2375—Procedure for registration of escape sequences and coded character sets, which governs registrations for ISO/IEC 646 (7-bit character codes) and ISO/IEC 2022 (extended character codes)
+ISO 3166—codes for the representation of names of countries and their subdivisions
+ISO 3297—used to identify a print or electronic periodical publication (ISSN)
+ISO 3779—used to uniquely identify motor vehicles
+ISO 3780—used to uniquely identify motor vehicles
+ISO 3901—code for uniquely identifying sound recordings and music video recordings
+ISO 4100—code used to uniquely identify manufacturers of vehicle parts
+ISO 4217—describing three-letter codes to define the names of currencies
+ISO 4343—numerical control of machines
+ISO 6166—uniquely identifies a fungible security
+ISO 6346—unique codes to freight containers
+ISO/IEC 6523—uniquely identifying organizations in computer data interchange
+ISO 7350—text communication – (see also ISO/IEC 10367 – 8-bit character codes)
+ISO 7372—lists international standard data elements
+ISO/IEC 7812—governing identification cards
+ISO/IEC 7816—electronic identification cards
+ISO/IEC 7942—standard for low-level computer graphics
+ISO 8583—standard for systems that exchange electronic transactions made by cardholders
+ISO 8632—metafile for the storage and transfer of picture description information
+ISO 8651—standard for low-level computer graphics
+ISO 8802—Information processing systems
+ISO 8805—standard for low-level computer graphics
+ISO/IEC 8806—standard for low-level computer graphics
+ISO 8824—formal notation used for describing data transmitted by telecommunications protocols
+ISO/IEC 9070—Information technology – SGML support facilities – Registration procedures for public text owner identifiers. Describes the procedures whereby assignments of owner prefixes to owners of public text are made.
+ISO 9141—vehicle's self-diagnostic and reporting capability
+ISO 9281—information technology – picture coding methods
+ISO 9362—standard format of Bank Identifier Codes
+ISO/IEC 9592—API standard for rendering 3D computer graphics
+ISO/IEC 9593—API standard for rendering 3D computer graphics
+ISO 9636—information technology – computer graphics
+ISO 9834—information technology – open systems interconnection
+ISO 9897—freight containers – general communication codes
+ISO 9973—information technology – computer graphics
+ISO 9979—register of cryptographic algorithms
+ISO 10036—describes how to add glyphs to an international standard for glyphs
+ISO 10160—defines the terminology that is used for interlibrary loan transactions
+ISO 10161—defines the interlibrary loan application protocol
+ISO 10383—defines codes for stock markets
+ISO 10444—information and documentation – international standard technical report number
+ISO 10486—Car radio identification number
+ISO 10641—information technology – computer graphics and image processing
+ISO 10957—ten-character alphanumeric identifier for printed music
+ISO 10962—classification of financial instruments
+ISO 11076—aerospace—aircraft de-icing/anti-icing methods with fluids
+ISO 11576—IT – registration of algorithms for lossless compression
+ISO 13499—describes the exchange of multimedia vehicle safety test data
+ISO 13522—IT – coding of multimedia and hypermedia information
+ISO 13764—space data and information transfer systems
+ISO 13800—IT – registration of identifiers and attributes for volume and file structure
+ISO 13818—generic coding of moving pictures and associated audio
+ISO/IEC 14496—MPEG-4
+ISO 15022—securities messaging standard
+ISO 15292—registration of procedures used in computer security evaluation
+ISO 15511—assigns a unique number to every library in the world
+ISO 15706—unique identifier for audiovisual works and related versions
+ISO 15707—unique identifier for musical works
+ISO/IEC 15897—registration of new POSIX locales and POSIX charmaps
+ISO 15924—codes for the representation of names of writing systems
+ISO 18245—the assignment of Merchant Category Codes
+ISO/IEC 21000—MPEG-21
+ISO 23950—protocol for searching and retrieving information from remote computer databases
+ISO/IEC 24727—Identification cards – integrated circuit card programming interfaces
+ISO 17316—an international identifier system for identifying links between entities in the field of information and documentationAuthority control
+IEEE registration authority
+International Cultivar Registration Authority
+Internet Assigned Numbers Authority
+National Internet registry
+Public-key infrastructure(OMG) Object Management Group
+(ISO) International Organization for Standardization
+OMG RDF Document describing Registration Authorities

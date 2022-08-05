@@ -1,0 +1,9 @@
+Example
+The VCF header
+The columns of a VCF
+Common INFO fields
+Common FORMAT fields
+Tools to analyse VCF files
+See also
+References
+External links

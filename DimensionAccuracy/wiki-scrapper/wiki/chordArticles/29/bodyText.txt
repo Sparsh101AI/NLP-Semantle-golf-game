@@ -1,0 +1,1784 @@
+In functional analysis, a branch of mathematics, a compact operator is a linear operator 
+
+
+
+T
+:
+X
+→
+Y
+
+
+{\displaystyle T:X\to Y}
+
+, where 
+
+
+
+X
+,
+Y
+
+
+{\displaystyle X,Y}
+
+ are normed vector spaces, with the property that 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ maps bounded subsets of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ to relatively compact subsets of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ (subsets with compact closure in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+). Such an operator is necessarily a bounded operator, and so continuous. Some authors require that 
+
+
+
+X
+,
+Y
+
+
+{\displaystyle X,Y}
+
+ are Banach, but the definition can be extended to more general spaces.
+Any bounded operator 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ that has finite rank is a compact operator; indeed, the class of compact operators is a natural generalization of the class of finite-rank operators in an infinite-dimensional setting. When 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is a Hilbert space, it is true that any compact operator is a limit of finite-rank operators, so that the class of compact operators can be defined alternatively as the closure of the set of finite-rank operators in the norm topology. Whether this was true in general for Banach spaces (the approximation property) was an unsolved question for many years; in 1973 Per Enflo gave a counter-example, building on work by Grothendieck and Banach.
+The origin of the theory of compact operators is in the theory of integral equations, where integral operators supply concrete examples of such operators. A typical Fredholm integral equation gives rise to a compact operator K on function spaces; the compactness property is shown by equicontinuity. The method of approximation by finite-rank operators is basic in the numerical solution of such equations. The abstract idea of Fredholm operator is derived from this connection.
+A linear map 
+
+
+
+T
+:
+X
+→
+Y
+
+
+{\displaystyle T:X\to Y}
+
+ between two topological vector spaces is said to be compact if there exists a neighborhood 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of the origin in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ such that 
+
+
+
+T
+(
+U
+)
+
+
+{\displaystyle T(U)}
+
+ is a relatively compact subset of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+.
+Let 
+
+
+
+X
+,
+Y
+
+
+{\displaystyle X,Y}
+
+ be normed spaces and 
+
+
+
+T
+:
+X
+→
+Y
+
+
+{\displaystyle T:X\to Y}
+
+ a linear operator. Then the following statements are equivalent, and some of them are used as the principal definition by different authors
+
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is a compact operator;
+the image of the unit ball of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ under 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is relatively compact in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+;
+the image of any bounded subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ under 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is relatively compact in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+;
+there exists a neighbourhood 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of the origin in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and a compact subset 
+
+
+
+V
+⊆
+Y
+
+
+{\displaystyle V\subseteq Y}
+
+ such that 
+
+
+
+T
+(
+U
+)
+⊆
+V
+
+
+{\displaystyle T(U)\subseteq V}
+
+;
+for any bounded sequence 
+
+
+
+(
+
+x
+
+n
+
+
+
+)
+
+n
+∈
+
+N
+
+
+
+
+
+{\displaystyle (x_{n})_{n\in \mathbb {N} }}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, the sequence 
+
+
+
+(
+T
+
+x
+
+n
+
+
+
+)
+
+n
+∈
+
+N
+
+
+
+
+
+{\displaystyle (Tx_{n})_{n\in \mathbb {N} }}
+
+ contains a converging subsequence.If in addition 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is Banach, these statements are also equivalent to:
+the image of any bounded subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ under 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is totally bounded in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+.If a linear operator is compact, then it is continuous.
+In the following, 
+
+
+
+X
+,
+Y
+,
+Z
+,
+W
+
+
+{\displaystyle X,Y,Z,W}
+
+ are Banach spaces, 
+
+
+
+B
+(
+X
+,
+Y
+)
+
+
+{\displaystyle B(X,Y)}
+
+ is the space of bounded operators 
+
+
+
+X
+→
+Y
+
+
+{\displaystyle X\to Y}
+
+ under the operator norm, and 
+
+
+
+K
+(
+X
+,
+Y
+)
+
+
+{\displaystyle K(X,Y)}
+
+ denotes the space of compact operators 
+
+
+
+X
+→
+Y
+
+
+{\displaystyle X\to Y}
+
+. 
+
+
+
+
+Id
+
+X
+
+
+
+
+{\displaystyle \operatorname {Id} _{X}}
+
+ denotes the identity operator on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, 
+
+
+
+B
+(
+X
+)
+=
+B
+(
+X
+,
+X
+)
+
+
+{\displaystyle B(X)=B(X,X)}
+
+, and 
+
+
+
+K
+(
+X
+)
+=
+K
+(
+X
+,
+X
+)
+
+
+{\displaystyle K(X)=K(X,X)}
+
+.
+
+
+
+
+K
+(
+X
+,
+Y
+)
+
+
+{\displaystyle K(X,Y)}
+
+ is a closed subspace of 
+
+
+
+B
+(
+X
+,
+Y
+)
+
+
+{\displaystyle B(X,Y)}
+
+ (in the norm topology). Equivalently,
+given a sequence of compact operators  
+
+
+
+(
+
+T
+
+n
+
+
+
+)
+
+n
+∈
+
+N
+
+
+
+
+
+{\displaystyle (T_{n})_{n\in \mathbf {N} }}
+
+ mapping 
+
+
+
+X
+→
+Y
+
+
+{\displaystyle X\to Y}
+
+ (where 
+
+
+
+X
+,
+Y
+
+
+{\displaystyle X,Y}
+
+are Banach) and given that 
+
+
+
+(
+
+T
+
+n
+
+
+
+)
+
+n
+∈
+
+N
+
+
+
+
+
+{\displaystyle (T_{n})_{n\in \mathbf {N} }}
+
+ converges to 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ with respect to the operator norm, 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is then compact.
+Conversely, if 
+
+
+
+X
+,
+Y
+
+
+{\displaystyle X,Y}
+
+ are Hilbert spaces, then every compact operator from 
+
+
+
+X
+→
+Y
+
+
+{\displaystyle X\to Y}
+
+ is the limit of finite rank operators. Notably, this "approximation property" is false for general Banach spaces X and Y.
+
+
+
+
+B
+(
+Y
+,
+Z
+)
+∘
+K
+(
+X
+,
+Y
+)
+∘
+B
+(
+W
+,
+X
+)
+⊆
+K
+(
+W
+,
+Z
+)
+.
+
+
+{\displaystyle B(Y,Z)\circ K(X,Y)\circ B(W,X)\subseteq K(W,Z).}
+
+   In particular, 
+
+
+
+K
+(
+X
+)
+
+
+{\displaystyle K(X)}
+
+ forms a two-sided ideal in 
+
+
+
+B
+(
+X
+)
+
+
+{\displaystyle B(X)}
+
+.
+Any compact operator is strictly singular, but not vice versa.
+A bounded linear operator between Banach spaces is compact if and only if its adjoint is compact (Schauder's theorem).
+If 
+
+
+
+T
+:
+X
+→
+Y
+
+
+{\displaystyle T:X\to Y}
+
+ is bounded and compact, then:
+the closure of the range of 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is separable.
+if the range of 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is closed in Y, then the range of 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is finite-dimensional.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a Banach space and there exists an invertible bounded compact operator 
+
+
+
+T
+:
+X
+→
+X
+
+
+{\displaystyle T:X\to X}
+
+ then 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is necessarily finite-dimensional.Now suppose that 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a Banach space and 
+
+
+
+T
+:
+X
+→
+X
+
+
+{\displaystyle T:X\to X}
+
+ is a compact linear operator, and 
+
+
+
+
+T
+
+∗
+
+
+:
+
+X
+
+∗
+
+
+→
+
+X
+
+∗
+
+
+
+
+{\displaystyle T^{*}:X^{*}\to X^{*}}
+
+ is the adjoint or transpose of T.
+For any 
+
+
+
+T
+∈
+K
+(
+X
+)
+
+
+{\displaystyle T\in K(X)}
+
+, then 
+
+
+
+
+
+Id
+
+X
+
+
+
+−
+T
+
+
+{\displaystyle {\operatorname {Id} _{X}}-T}
+
+  is a Fredholm operator of index 0.  In particular, 
+
+
+
+Im
+
+(
+
+
+Id
+
+X
+
+
+
+−
+T
+)
+
+
+{\displaystyle \operatorname {Im} \,({\operatorname {Id} _{X}}-T)}
+
+  is closed.  This is essential in developing the spectral properties of compact operators.  One can notice the similarity between this property and the fact that, if 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ and 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ are subspaces of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ where 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is closed and 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ is finite-dimensional, then 
+
+
+
+M
++
+N
+
+
+{\displaystyle M+N}
+
+ is also closed.
+If 
+
+
+
+S
+:
+X
+→
+X
+
+
+{\displaystyle S:X\to X}
+
+ is any bounded linear operator then both 
+
+
+
+S
+∘
+T
+
+
+{\displaystyle S\circ T}
+
+ and 
+
+
+
+T
+∘
+S
+
+
+{\displaystyle T\circ S}
+
+ are compact operators.
+If 
+
+
+
+λ
+≠
+0
+
+
+{\displaystyle \lambda \neq 0}
+
+ then the range of 
+
+
+
+T
+−
+λ
+
+Id
+
+X
+
+
+
+
+{\displaystyle T-\lambda \operatorname {Id} _{X}}
+
+ is closed and the kernel of 
+
+
+
+T
+−
+λ
+
+Id
+
+X
+
+
+
+
+{\displaystyle T-\lambda \operatorname {Id} _{X}}
+
+ is finite-dimensional.
+If 
+
+
+
+λ
+≠
+0
+
+
+{\displaystyle \lambda \neq 0}
+
+ then the following are finite and equal: 
+
+
+
+dim
+⁡
+ker
+⁡
+
+(
+
+T
+−
+λ
+
+Id
+
+X
+
+
+
+)
+
+=
+dim
+⁡
+X
+
+/
+
+Im
+⁡
+
+(
+
+T
+−
+λ
+
+Id
+
+X
+
+
+
+)
+
+=
+dim
+⁡
+ker
+⁡
+
+(
+
+
+T
+
+∗
+
+
+−
+λ
+
+Id
+
+
+X
+
+∗
+
+
+
+
+
+)
+
+=
+dim
+⁡
+
+X
+
+∗
+
+
+
+/
+
+Im
+⁡
+
+(
+
+
+T
+
+∗
+
+
+−
+λ
+
+Id
+
+
+X
+
+∗
+
+
+
+
+
+)
+
+
+
+{\displaystyle \dim \ker \left(T-\lambda \operatorname {Id} _{X}\right)=\dim X/\operatorname {Im} \left(T-\lambda \operatorname {Id} _{X}\right)=\dim \ker \left(T^{*}-\lambda \operatorname {Id} _{X^{*}}\right)=\dim X^{*}/\operatorname {Im} \left(T^{*}-\lambda \operatorname {Id} _{X^{*}}\right)}
+
+
+The spectrum 
+
+
+
+σ
+(
+T
+)
+
+
+{\displaystyle \sigma (T)}
+
+ of 
+
+
+
+T
+
+
+{\displaystyle T}
+
+, is compact, countable, and has at most one limit point, which would necessarily be the origin.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is infinite-dimensional then 
+
+
+
+0
+∈
+σ
+(
+T
+)
+
+
+{\displaystyle 0\in \sigma (T)}
+
+.
+If 
+
+
+
+λ
+≠
+0
+
+
+{\displaystyle \lambda \neq 0}
+
+ and 
+
+
+
+λ
+∈
+σ
+(
+T
+)
+
+
+{\displaystyle \lambda \in \sigma (T)}
+
+ then 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ is an eigenvalue of both 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ and 
+
+
+
+
+T
+
+∗
+
+
+
+
+{\displaystyle T^{*}}
+
+.
+For every 
+
+
+
+r
+>
+0
+
+
+{\displaystyle r>0}
+
+ the set 
+
+
+
+
+E
+
+r
+
+
+=
+
+{
+
+λ
+∈
+σ
+(
+T
+)
+:
+
+|
+
+λ
+
+|
+
+>
+r
+
+}
+
+
+
+{\displaystyle E_{r}=\left\{\lambda \in \sigma (T):|\lambda |>r\right\}}
+
+ is finite, and for every non-zero 
+
+
+
+λ
+∈
+σ
+(
+T
+)
+
+
+{\displaystyle \lambda \in \sigma (T)}
+
+ the range of 
+
+
+
+T
+−
+λ
+
+Id
+
+X
+
+
+
+
+{\displaystyle T-\lambda \operatorname {Id} _{X}}
+
+ is a proper subset of X.A crucial property of compact operators is the Fredholm alternative, which asserts that the existence of solution of linear equations of the form
+
+
+
+
+(
+λ
+K
++
+I
+)
+u
+=
+f
+
+
+{\displaystyle (\lambda K+I)u=f}
+
+
+(where K is a compact operator, f is a given function, and u is the unknown function to be solved for) behaves much like as in finite dimensions. The spectral theory of compact operators then follows, and it is due to Frigyes Riesz (1918).  It shows that a compact operator K on an infinite-dimensional Banach space has spectrum that is either a finite subset of C which includes 0, or the spectrum is a countably infinite subset of C which has 0 as its only limit point.  Moreover, in either case the non-zero elements of the spectrum are eigenvalues of K with finite multiplicities (so that K − λI has a finite-dimensional kernel for all complex λ ≠ 0).
+An important example of a compact operator is compact embedding of Sobolev spaces, which, along with the Gårding inequality and the Lax–Milgram theorem, can be used to convert an elliptic boundary value problem into a Fredholm integral equation. Existence of the solution and spectral properties then follow from the theory of compact operators; in particular, an elliptic boundary value problem on a bounded domain has infinitely many isolated eigenvalues. One consequence is that a solid body can vibrate only at isolated frequencies, given by the eigenvalues, and arbitrarily high vibration frequencies always exist.
+The compact operators from a Banach space to itself form a two-sided ideal in the algebra of all bounded operators on the space. Indeed, the compact operators on an infinite-dimensional separable Hilbert space form a maximal ideal, so the quotient algebra, known as the Calkin algebra, is simple.  More generally, the compact operators form an operator ideal.
+For Hilbert spaces, another equivalent definition of compact operators is given as follows.
+An operator 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ on an infinite-dimensional Hilbert space 
+
+
+
+
+
+H
+
+
+
+
+{\displaystyle {\mathcal {H}}}
+
+
+
+
+
+
+T
+:
+
+
+H
+
+
+→
+
+
+H
+
+
+
+
+{\displaystyle T:{\mathcal {H}}\to {\mathcal {H}}}
+
+is said to be compact if it can be written in the form
+
+
+
+
+T
+=
+
+∑
+
+n
+=
+1
+
+
+∞
+
+
+
+λ
+
+n
+
+
+⟨
+
+f
+
+n
+
+
+,
+⋅
+⟩
+
+g
+
+n
+
+
+
+,
+
+
+{\displaystyle T=\sum _{n=1}^{\infty }\lambda _{n}\langle f_{n},\cdot \rangle g_{n}\,,}
+
+where 
+
+
+
+{
+
+f
+
+1
+
+
+,
+
+f
+
+2
+
+
+,
+…
+}
+
+
+{\displaystyle \{f_{1},f_{2},\ldots \}}
+
+ and 
+
+
+
+{
+
+g
+
+1
+
+
+,
+
+g
+
+2
+
+
+,
+…
+}
+
+
+{\displaystyle \{g_{1},g_{2},\ldots \}}
+
+ are orthonormal sets (not necessarily complete), and 
+
+
+
+
+λ
+
+1
+
+
+,
+
+λ
+
+2
+
+
+,
+…
+
+
+{\displaystyle \lambda _{1},\lambda _{2},\ldots }
+
+ is a sequence of positive numbers with limit zero, called the singular values of the operator.  The singular values can accumulate only at zero. If the sequence becomes stationary at zero, that is 
+
+
+
+
+λ
+
+N
++
+k
+
+
+=
+0
+
+
+{\displaystyle \lambda _{N+k}=0}
+
+ for some 
+
+
+
+N
+∈
+
+N
+
+,
+
+
+{\displaystyle N\in \mathbb {N} ,}
+
+ and every 
+
+
+
+k
+=
+1
+,
+2
+,
+…
+
+
+{\displaystyle k=1,2,\dots }
+
+, then the operator has finite rank, i.e, a finite-dimensional range and can be written as
+
+
+
+
+T
+=
+
+∑
+
+n
+=
+1
+
+
+N
+
+
+
+λ
+
+n
+
+
+⟨
+
+f
+
+n
+
+
+,
+⋅
+⟩
+
+g
+
+n
+
+
+
+.
+
+
+{\displaystyle T=\sum _{n=1}^{N}\lambda _{n}\langle f_{n},\cdot \rangle g_{n}\,.}
+
+The bracket 
+
+
+
+⟨
+⋅
+,
+⋅
+⟩
+
+
+{\displaystyle \langle \cdot ,\cdot \rangle }
+
+ is the scalar product on the Hilbert space; the sum on the right hand side converges in the operator norm.
+An important subclass of compact operators is the trace-class or nuclear operators.
+Let X and Y be Banach spaces.  A bounded linear operator T : X → Y is called completely continuous if, for every weakly convergent sequence 
+
+
+
+(
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (x_{n})}
+
+ from X, the sequence 
+
+
+
+(
+T
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (Tx_{n})}
+
+ is norm-convergent in Y  (Conway 1985, §VI.3).  Compact operators on a Banach space are always completely continuous.  If X is a reflexive Banach space, then every completely continuous operator T : X → Y is compact.
+Somewhat confusingly, compact operators are sometimes referred to as "completely continuous" in older literature, even though they are not necessarily completely continuous by the definition of that phrase in modern terminology.
+Every finite rank operator is compact.
+For 
+
+
+
+
+ℓ
+
+p
+
+
+
+
+{\displaystyle \ell ^{p}}
+
+ and a sequence (tn) converging to zero, the multiplication operator (Tx)n = tn xn is compact.
+For some fixed g ∈ C([0, 1]; R), define the linear operator T from C([0, 1]; R) to C([0, 1]; R) by 
+
+
+
+(
+T
+f
+)
+(
+x
+)
+=
+
+∫
+
+0
+
+
+x
+
+
+f
+(
+t
+)
+g
+(
+t
+)
+
+
+d
+
+t
+.
+
+
+{\displaystyle (Tf)(x)=\int _{0}^{x}f(t)g(t)\,\mathrm {d} t.}
+
+That the operator T is indeed compact follows from the Ascoli theorem.
+More generally, if Ω is any domain in R and the integral kernel k : Ω × Ω → R is a Hilbert–Schmidt kernel, then the operator T on L(Ω; R) defined by 
+
+
+
+(
+T
+f
+)
+(
+x
+)
+=
+
+∫
+
+Ω
+
+
+k
+(
+x
+,
+y
+)
+f
+(
+y
+)
+
+
+d
+
+y
+
+
+{\displaystyle (Tf)(x)=\int _{\Omega }k(x,y)f(y)\,\mathrm {d} y}
+
+ is a compact operator.
+By Riesz's lemma, the identity operator is a compact operator if and only if the space is finite-dimensional.Compact embedding
+Compact operator on Hilbert space
+Fredholm alternative
+Fredholm integral equations
+Fredholm operator
+Spectral theory of compact operators
+Strictly singular operatorConway, John B. (1985). A course in functional analysis. Springer-Verlag. Section 2.4. ISBN 978-3-540-96042-3.
+Conway, John B. (1990). A Course in Functional Analysis. Graduate Texts in Mathematics. Vol. 96 (2nd ed.). New York: Springer-Verlag. ISBN 978-0-387-97245-9. OCLC 21195908.
+Enflo, P. (1973). "A counterexample to the approximation problem in Banach spaces". Acta Mathematica. 130 (1): 309–317. doi:10.1007/BF02392270. ISSN 0001-5962. MR 0402468.
+Kreyszig, Erwin (1978). Introductory functional analysis with applications. John Wiley & Sons. ISBN 978-0-471-50731-4.
+Kutateladze, S.S. (1996). Fundamentals of Functional Analysis. Texts in Mathematical Sciences. Vol. 12 (2nd ed.). New York: Springer-Verlag. p. 292. ISBN 978-0-7923-3898-7.
+Lax, Peter (2002). Functional Analysis. New York: Wiley-Interscience. ISBN 978-0-471-55604-6. OCLC 47767143.
+Narici, Lawrence; Beckenstein, Edward (2011). Topological Vector Spaces. Pure and applied mathematics (Second ed.). Boca Raton, FL: CRC Press. ISBN 978-1584888666. OCLC 144216834.
+Renardy, M.; Rogers, R. C. (2004). An introduction to partial differential equations. Texts in Applied Mathematics. Vol. 13 (2nd ed.). New York: Springer-Verlag. p. 356. ISBN 978-0-387-00444-0. (Section 7.5)
+Rudin, Walter (1991). Functional Analysis. International Series in Pure and Applied Mathematics. Vol. 8 (Second ed.). New York, NY: McGraw-Hill Science/Engineering/Math. ISBN 978-0-07-054236-5. OCLC 21163277.
+Schaefer, Helmut H.; Wolff, Manfred P. (1999). Topological Vector Spaces. GTM. Vol. 8 (Second ed.). New York, NY: Springer New York Imprint Springer. ISBN 978-1-4612-7155-0. OCLC 840278135.
+Trèves, François (2006) [1967]. Topological Vector Spaces, Distributions and Kernels. Mineola, N.Y.: Dover Publications. ISBN 978-0-486-45352-1. OCLC 853623322.

@@ -1,0 +1,14 @@
+//geohack.toolforge.org/geohack.php?pagename=Daedalus_(crater)&params=5.9_S_179.4_E_globe:moon_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Daedalus_(crater)&params=5.9_S_179.4_E_globe:moon_type:landmark
+http://www.lpi.usra.edu/resources/mapcatalog/LunarFarsideCharts/LFC-1%201stEd/LFC-1%202ndEd/LFC-1A/
+https://www.newscientist.com/article.ns?id=dn1735
+http://planetarynames.wr.usgs.gov/
+https://archive.org/details/isbn_9780936389271
+http://host.planet4589.org/astro/lunar/
+https://ui.adsabs.harvard.edu/abs/1971SSRv...12..136M
+https://doi.org/10.1007%2FBF00171763
+https://api.semanticscholar.org/CorpusID:122125855
+https://archive.org/details/patrickmooreonmo00patr
+https://archive.org/details/celestialobjects00webb
+http://www.lpi.usra.edu/research/lunar_orbiter/bin/info.shtml?41
+https://en.wikipedia.org/w/index.php?title=Template:Craters_on_the_Moon:_C%E2%80%93F&action=edit

@@ -1,0 +1,5 @@
+L-type asteroids are relatively uncommon asteroids with a strongly reddish spectrum shortwards of 0.75 μm, and a featureless flat spectrum longwards of this. In comparison with the K-type, they exhibit a more reddish spectrum at visible wavelengths and a flat spectrum in the infrared.
+These asteroids were described as "featureless" S-types in the Tholen classification. The L-type was formally introduced in the SMASS classification, although previous studies had noted the unusual spectra of two of its members 387 Aquitania and 980 Anacostia.
+There are 41 asteroids classified as L-types in the SMASS taxonomy.
+The Ld type is a grouping proposed in the SMASS classification for asteroids with an L-like flat spectrum longwards of 0.75 μm, but even redder in visible wavelengths, like the D-type. An example may be 728 Leonisis, although it has also been classified as an A-type.
+Asteroid spectral types

@@ -1,0 +1,122 @@
+The de Havilland Canada DHC-1 Chipmunk is a tandem, two-seat, single-engined primary trainer aircraft designed and developed by Canadian aircraft manufacturer de Havilland Canada. It was developed shortly after the Second World War and sold in large numbers during the immediate post-war years, being typically employed as a replacement for the de Havilland Tiger Moth biplane.
+The Chipmunk was the first postwar aviation project conducted by de Havilland Canada. It performed its maiden flight on 22 May 1946 and was introduced to operational service that same year. During the late 1940s and 1950s, the Chipmunk was procured in large numbers by military air services such as the Royal Canadian Air Force (RCAF), Royal Air Force (RAF), and several other nations' air forces, where it was often utilised as their standard primary trainer aircraft. The type produced under licence by de Havilland in the United Kingdom, who would produce the vast majority of Chipmunks, as well as by OGMA (Oficinas Gerais de Material Aeronáutico) in Portugal.
+The type was slowly phased out of service beginning in the late 1950s, although in the ab initio elementary training role, this did not happen in the Royal Air Force until 1996, when it was replaced by the Scottish Aviation Bulldog.
+Many Chipmunks that had been in military use were sold to civilians, either to private owners or to companies, where they were typically used for a variety of purposes, often involving the type's excellent flying characteristics and its capability for aerobatic manoeuvres. More than 70 years after the type having first entered service, hundreds of Chipmunks remain airworthy and are in operation around the world. The Portuguese Air Force still operates six Chipmunks, which serve with Esquadra 802, as of 2018.
+The aircraft is named after the chipmunk, a small rodent.
+Immediately following the conclusion of the Second World War, there was a desire within Canadian aviation circles to take advantage during the peace years of the recently expanded aircraft manufacturing industry which had been rapidly built up in Canada. Out of this desire, it was decided to embark on developing aircraft which would replace designs rendered obsolete by the rapid advances made during the war in the aviation field. One such company, de Havilland Aircraft of Canada Ltd, was interested in developing its own aircraft designs, and chose to focus on producing a contemporary aircraft for pilot training, specifically intending for the envisioned type to serve as a successor to the de Havilland Tiger Moth biplane trainer, which had been produced by the thousands before and during the Second World War, and saw military service with a number of nations in that conflict.
+Wsiewołod Jakimiuk, a Polish pre-war engineer, served as the principal designer and led the design team in the development of the new aircraft, which became known as the Chipmunk. He designed a cantilever monoplane that incorporated numerous advances over typical trainer aircraft then in widespread service. These included an enclosed cockpit complete with a rear-sliding canopy, and various aerodynamic features to manage the aircraft's flight performance. Strakes were fitted to deter spin conditions and stall breaker strips along the inboard leading edges of the wing ensured that a stall would originate in this position as opposed to the outboard section. The Chipmunk would become the first indigenous aircraft design to be produced by de Havilland Canada.
+The Chipmunk prototype, CF-DIO-X, first flew on 22 May 1946 at Downsview, Toronto, piloted by Pat Fillingham, a test pilot who had been seconded from the parent de Havilland company. The prototype was powered by a 145 hp (108 kW) de Havilland Gipsy Major 1C air-cooled reciprocating engine, this was replaced on the production version of the Chipmunk by a 145 hp (108 kW) inline de Havilland Gipsy Major 8 engine.
+de Havilland Canada constructed the type at its factory in Downsview, Toronto, Ontario, where it produced 217 Chipmunks during the 1940s and 1950s, the final example of which having been completed during 1956. In addition, 1,000 Chipmunks were produced under licence in the United Kingdom by British aircraft manufacturer de Havilland; manufacturing was initially performed at the company's facility at Hatfield Aerodrome, Hertfordshire; it was later decided to transfer production to another of its plants, located at Hawarden Aerodrome, Broughton near Chester. A further 66 Chipmunks were licence-manufactured by OGMA (Oficinas Gerais de Material Aeronáutico), at Alverca from 1955 to 1961 in Portugal for the Portuguese Air Force.
+Both British-built and early Canadian-built Chipmunks are notably different from the later Canadian-built RCAF/Lebanese versions. The later Canadian-built aircraft were fitted with a bubble canopy, which replaced the multi-panelled sliding canopy that had been used upon early Canadian-produced Chipmunks, along with all of the Portuguese and British-built aircraft. On the early-built canopy, the rearmost panels intentionally bulged in order to provide the instructor's position with superior visibility. British-built Chipmunks also differed by a number of adjustments to suit the expressed preferences of the RAF. These included the repositioning of the undercarriage legs, anti-spin strakes, landing lights, and an all-round stressed airframe.
+At one point, work was being conducted on a derivative of the Chipmunk which featured an extensive cabin modification to accommodate a side-by-side seating arrangement; the aircraft, which was referred to as the DHC-2, ultimately remained unbuilt. The DHC-2 designation was subsequently reallocated to the company's next product, the DHC-2 Beaver.
+The de Havilland Canada DHC-1 Chipmunk is a two-seat, single-engine aircraft that has been heavily used as a primary trainer aircraft. The basic configuration of the aircraft included a low-mounted wing and a two-place tandem cockpit, which was fitted with a clear perspex canopy covers the pilot/student (front) and instructor/passenger (rear) positions and provided all-round visibility. The Chipmunk uses a conventional tailwheel landing gear arrangement and is fitted with fabric-covered flight control surfaces; the wing is also fabric-covered aft of the spar. In terms of handling, the Chipmunk exhibited a gentle and responsive flight attitude. Early production aircraft were only semi-aerobatic, while later production models were almost all fully aerobatic.
+The structure of the Chipmunk makes heavy use of metal, the majority of the airframe being composed of a stress-skinned alloy; this allowed the adoption of thinner wings and consequently provided for increased performance as well as a greater degree of durability. Numerous features were incorporated so that the type could better perform as a trainer, including hand-operated single-slotted wing flaps, anti-spin strakes, disc brakes on the wheeled undercarriage, a thin propeller composed of a solid lightweight alloy, the adoption of an engine-driven vacuum pump in place of external venturi tubes to power cockpit instrumentation, electric and Coffman cartridge engine starters as alternative options, cockpit lighting, onboard radio system, and an external identification light underneath the starboard wing.
+In civilian service, individual aircraft would often be modified. Examples of these adaptations include extensive modifications that enabled it to perform competitive aerobatics, for which aircraft are often re-engined and fitted with constant speed propellers and inverted fuel systems; larger numbers of Chipmunks have been tasked as dedicated glider tows. It has become commonplace for Chipmunks to be re-engined, typically using the 180 hp Lycoming O-360.
+The Royal Air Force (RAF) had been one of the operators to quickly take notice of the new Canadian trainer, and encouraged its formal evaluation with an eye towards procuring it. Accordingly, a total of three Chipmunk aircraft were transported to the United Kingdom, where they underwent an evaluation by the Aeroplane and Armament Experimental Establishment (A&AEE) at RAF Boscombe Down, Wiltshire. Based upon this favourable evaluation, the British Air Ministry proceeded to formulate and release Air Ministry specification T.8/48 around the type as a replacement for the de Havilland Tiger Moth biplane then in use. This specification was also contested by the rival Fairey Primer, which lost out to the Chipmunk and ultimately did not enter production.
+The fully aerobatic Chipmunk was ordered to serve as an ab initio trainer for new pilots. The RAF received 735 Chipmunks, which were designated in British service as the de Havilland Chipmunk T.10; these aircraft had been manufactured in the United Kingdom by de Havilland, the parent company of de Havilland Canada.
+The Chipmunk T.10 initially served with Reserve Flying Squadrons (RFS) of the RAF Volunteer Reserve (VR), as well as the University Air Squadrons. During 1958, multiple Chipmunks were pressed into service in Cyprus for conducting internal security flights during the height of civil unrest during the Cyprus dispute. Eight disassembled aircraft were flown out in the holds of Blackburn Beverley transports; following their reassembly, these Chipmunks, which were operated by No. 114 Squadron, were operated for some months into 1959.
+From 1956 to 1990, the Chipmunks of the RAF Gatow Station Flight were used to conduct covert reconnaissance missions by BRIXMIS over the Berlin area. A number of Chipmunk T.10s were also used by the Army Air Corps and Fleet Air Arm to conduct primary training. Notably, Prince Philip had his first flying lesson in a Chipmunk in 1952; he has declared the type to be his favourite aircraft.
+Until 1996, Chipmunks remained in service with Air Training Corps (ATC) for Air Experience Flights (AEFs); the final of these AEF flights to use the Chipmunk was No. 10 Air Experience Flight, RAF Woodvale, when they were replaced by the Scottish Aviation Bulldog. The last Chipmunks in military service are still operated by the British historic flights – the RAF Battle of Britain Memorial Flight (including one of the Gatow aircraft), the Royal Navy and Army historic flights, to keep their pilots current on tailwheel aircraft. In addition, the cockpit sections of some former RAF Chipmunks have been used as ground training aids; these are colloquially known as "Chippax" trainers.
+In 1995 and 1996 the RAF planned for a pair of Chipmunks to circumnavigate the northern hemisphere to establish a route for light aircraft from Europe to North America via Russia. The RAF chose the Chipmunk because of its reliability and ability to operate with minimal ground support. Modifications were made before the journey, including expanding fuel capacity and updating navigation equipment. The Chipmunks were accompanied on the journey by a support aircraft. In 1996, the RAF started the journey, but had to stop in Moscow due to forest fires in central Siberia. The RAF successfully completed the journey in 1997, flying 16,259 miles over 64 days, visiting 62 airfields along the way. One of the two Chipmunks was added to the collection at the RAF Museum. The other belongs to a private owner, who has restored the Chipmunk to its condition during the round-the-world flight and flies it to aviation events.
+In 1948 the RCAF accepted its first DHC-1 Chipmunk trainers, having received the first batch of a production run of 217 Chipmunks that would be manufactured in Canada. The Chipmunk was the first Canadian-designed aircraft to be made abroad under licence and as such, the majority of the home-grown production were destined for the RCAF. However, Canadian-built Chipmunks were also delivered to some overseas customers, including Egypt, Lebanon and Thailand.
+Of the 113 Chipmunks that entered RCAF service, 79 were assigned to serve as ab initio trainers, while 34 were assigned to flying clubs for use in refresher training for RCAF Reserve pilots. The type remained in use as a trainer until the early 1970s, the last example being retired from service by the Canadian Armed Forces in 1972, three years after unification of the Canadian Armed Forces. The Chipmunk's long service was due, in part, to its fully aerobatic capabilities and superb flying characteristics, which had contributed towards pilots frequently referring to it as being "a delight to fly".
+On 2 June 2015, with the landing of his Chipmunk at Pearson International Airport in Toronto, Ontario, Canada, retired de Havilland Canada test pilot George Neal established a new world record for the oldest active licensed pilot at the age of 96 years 194 days.
+The Portuguese Air Force (FAP) received its first DHC-1 Chipmunk Mk. 20 in 1951, being delivered to the Military Aeronautical School in Sintra. It was the first of an eventual 76 that would be delivered, replacing its almost two decade old de Havilland Tiger Moths. Its first 10 were constructed in the United Kingdom while the following 66 were licence-built by OGMA in Portugal. The Chipmunks would fly with the Elementary Flying Training Squadron (Esquadra de Instrução Elementar de Pilotagem).
+By 1986 only 36 Chipmunks still remained in service, flying with Esquadra de Instrução 101. With the Chipmunks being a 40-year-old design and with the annual attrition rate of the fleet being two aircraft, in October 1987 a decision was made by the FAP to replace the Chipmunks with 18 Aérospatiale TB 30 Epsilons. Epsilon deliveries was made throughout 1989, with all remaining Chipmunks being withdrawn from service by the time the last Epsilon was delivered. Shortly afterwards 7 Chipmunks were handed over to the Air Force Academy (AFA) to be used for glider towing.
+In 1997 a major reform was made to the FAP's training syllabus which led to the need for cost savings. This resulted in the 7 AFA Chipmunks being used by the FAP for an initial screen testing programme for potential pilots – the Estágio de Seleção de Voo (ESV). The 7 Chipmunks (serials – 1306, 1312, 1315, 1316, 1319, 1335, 1339) were first upgraded before being put into use. These upgrades consisted of replacing the Gipsy Major engines with the more powerful Lycoming O-360, adding a metal propeller, a new radio and an IFF transponder. Five of these aircraft were upgraded by OGMA at Alverca do Ribatejo, while the other two were converted by Indústrias Aeronáuticas de Coimbra (IAC). The first two upgraded Chipmunks were delivered to Esquadra 802 in July 1997 and began their screening programme the next month on 18 August. On 17 March 1998 an upgraded Chipmunk (serial – 1312) crashed on take-off at Sintra causing it to be written off, neither of the occupants – an Angolan student and Portuguese instructor – were harmed. As of 2018, Esquadra 802 still operates the remaining 6 Chipmunks.
+From the 1950s, the Chipmunk also became a popular civilian aircraft, having been used for various roles, such as pilot training, aerobatics and crop spraying. The majority of civilian aircraft are ex-military that had been resold and frequently modernised. It is also a mechanically sound aircraft and, consequently, many ex-RCAF Chipmunks have since remained operational for decades with private owners and operators around the world. By 2001, several hundred Chipmunks were reportedly operational in private service.
+DHC-1A-1 (Chipmunk T.1)
+Powered by de Havilland Gipsy Major 1C engine, only partially aerobatic.
+DHC-1A-2
+Powered by de Havilland Gipsy Major 10 engine, only partially aerobatic.
+DHC-1B-1
+Powered by de Havilland Gipsy Major 1C engine, fully aerobatic.
+DHC-1B-2
+Powered by de Havilland Gipsy Major 10 engine, fully aerobatic.
+DHC-1B-2-S1
+Powered by de Havilland Gipsy Major 10 for Royal Egyptian Air Force.
+DHC-1B-2-S2
+Powered by de Havilland Gipsy Major 10 for Royal Thai Air Force.
+DHC-1B-2-S3 (Chipmunk T.2)
+Powered by de Havilland Gipsy Major 10 for RCAF refresher training operated by Royal Canadian Flying Clubs.
+DHC-1B-2-S4
+Version for Chile.
+DHC-1B-2-S5 (Chipmunk T.2)
+Additional units built for Royal Canadian Air Force.Chipmunk T.10 (Mk 10)
+de Havilland Gipsy Major 8 engined version for the Royal Air Force, 735 built.
+Chipmunk Mk 20
+Military export version of T.10 powered by de Havilland Gipsy Major 10 Series 2 engine, 217 built.
+Chipmunk Mk 21
+Civil version of Mk 20 but fitted to civil standards, 28 built.
+Chipmunk Mk 22
+T.10 converted for civilian use. Conversion also involves restamping the Gipsy Major 8 (which is military) to a model 10-2 (which is civil).
+Chipmunk Mk 22A
+Mk 22 with fuel tankage increased to 12 Imperial gallons per side.
+Chipmunk Mk 23
+Five converted T.10s powered by de Havilland Gipsy Major 10 Series 2 engine and with agricultural spray equipment.Chipmunk Mk 20
+Military version powered by de Havilland Gipsy Major 10 Series 2 (145 hp) engine, 10 built in UK followed by 66 built by OGMA. From 1989 onward, seven aircraft where updated and modified at OGMA (5) and Indústrias Aeronáuticas de Coimbra (2) to be used by the 802 Sqn. "Águias" (Eagles) – Air Force Academy squadron. The main modification was the installation of a more powerful 180 hp Lycoming O-360 engine. Their main tasks are related to supporting the Air Force cadets' aerial activities, mainly initial aptitude screening, glider tow and initial flight proficiency.Masefield Variant
+Modifications or conversions by Bristol Aircraft Ltd. Modifications could be made on Chipmunk Mk 20, Mk 21, Mk 22 and 22A aircraft. The Chipmunks could be fitted with luggage compartments in the wings, a blown canopy, landing gear fairings and enlarged fuel tanks.
+Super Chipmunk
+Single-seat aerobatic aircraft, powered by a 194 kW (260 hp) Avco Lycoming GO-435 piston engine, equipped with revised flying surfaces and retractable landing gear; four conversions.Turbo Chipmunk
+In 1967–1968 a Chipmunk Mk 22A was converted, tested and flown by Hants and Sussex Aviation. The Chipmunk was fitted with an 86.42-kW (116-shp) Rover 90 turboprop engine. and extra fuel capacity.
+Aerostructures Sundowner
+One Australian Chipmunk was fitted with a 180 hp (134 kW) Lycoming O-360 flat-four piston engine, wingtip tanks, clear-view canopy and metal wing skinning as the Sundowner touring aircraft.
+Sasin Spraymaster
+Three Australian Chipmunks were converted into single-seat agricultural spraying aircraft.Supermunk
+A prototype glider-tug designed and produced by officials of the British Gliding Association (BGA) led by the Chief Technical Officer, R.B. "Dick" Stratton (formerly flight test engineer for Saunders-Roe Aircraft ltd.). The prototype Supermunk aircraft (G-BBNA) was converted from a Chipmunk by fitting 180 hp (134 kW) Avco Lycoming O-360-A4A engines for use as glider tugs. Four further Chipmunks were converted by and are operated by the Royal Air Force Gliding & Soaring Association (RAFGSA), the five Supermunks are still in service (March 2020) and used for club launches, adventure training courses and major gliding competitions in the United Kingdom and Europe. A similar modification was carried out to seven Chipmunks used by the Portuguese Air Force Academy as basic training aircraft and as glider tugs.Scholl Super ChipmunkA number of Chipmunks were modified as aerobatic aircraft in the United States as the "Super Chipmunk".  Along with an uprated engine, the aircraft underwent an extensive makeover including clipping its wings, adding retractable landing gear, conversion to a single-seat layout, adding an autopilot and being fitted with a red, white and blue wingtip and tail smoke system.  The control stick received a three-inch (76 mm) extension for greater control during extreme aerobatic maneuvers.  For over 25 years the Super Chipmunk in its distinctive bright colour scheme of blue stars and sunburst effect was displayed by the aerobatic pilot Art Scholl. Four Super Chipmunk conversions were modified, Scholl's N13A and N13Y, Harold Krier's N6311V and Skip Volk's N1114V.  Another more recent "Super Chipmunk" was converted by air show performer, Jim "Fang" Maroney who similarly modified an ex-RCAF example by strengthening the airframe, replacing the original 145 hp (108 kW) engine with a 260 hp (190 kW) version incorporating an inverted fuel and oil system, clipping three feet off the wings and adding 30% more rudder and 10% more elevator. A spatted landing gear was retained. Another similarly modified "Super Chipmunk", N1804Q, is owned and flown by air show pilot Greg Aldridge. N13Y is now on display at the National Air and Space Museum, Smithsonian Institution, Udvar-Hazy Center at Washington-Dulles International Airport., while N1114V is preserved at the EAA AirVenture Museum at Oshkosh, Wisconsin, USA.Today, the Chipmunk remains popular with specialized flying clubs and is also operated by private individuals located in many countries worldwide.
+ BelgiumBelgian Air Force In 1948, the Belgian Air Force acquired two DHC-1s for evaluation as a possible replacement for their de Havilland Tiger Moth trainers. In the end, they chose the Stampe-Vertongen SV.4 instead and the two Chipmunks were sold off to the civilian market in 1955. (retired) BurmaBurma Air Force (retired) CanadaRoyal Canadian Air Force (retired) CeylonRoyal Ceylon Air Force (retired) DenmarkRoyal Danish Air Force (retired) EgyptEgyptian Air Force (retired) GhanaGhana Air Force (retired) IrelandIrish Air Corps (retired) IraqIraqi Air Force (retired) IsraelIsraeli Air Force – One aircraft only. (retired) JordanRoyal Jordanian Air Force (retired) KenyaKenya Air Force (retired) LebanonLebanese Air Force (retired) MalaysiaRoyal Malaysian Air Force (retired) PortugalPortuguese Air Force (six in use)
+Squadron 802, Águias (Sintra)
+Air Force Academy (Academia de Força Aérea, Sintra) Saudi ArabiaRoyal Saudi Air Force - 12 Chipmunk T.10s received in 1955. (retired) SpainSpanish Air Force – One aircraft only. (retired) SyriaSyrian Air Force (retired) Southern RhodesiaRhodesian Air Training Group 4 Flying Training School. One aircraft WG354 preserved by the South African Air Force Museum. (retired) ThailandRoyal Thai Air Force, developed as RTAF-4. (retired) United KingdomBritish Army – Army Air Corps (retired)
+Basic Fixed Wing Flight
+Army Air Corps Historic Aircraft Flight
+Royal Air Force (retired, in use with Battle of Britain Memorial Flight)
+RAFVR RFS
+No.8 Sqn
+No.31 Sqn
+No.114 Sqn
+No.275 Sqn
+No.613 Sqn
+No.663 Sqn
+RAF Gatow (Berlin) Station Flight
+University Air Squadrons
+Air Experience Flights (Air Training Corps)
+Battle of Britain Memorial Flight
+Royal Navy – Fleet Air Arm (retired, in use with Royal Navy Historic Flight)
+771 NAS
+781 NAS
+727 NAS Britannia Royal Naval College Flight
+Royal Navy Historic Flight UruguayUruguayan Air Force (retired) ZambiaZambian Air Force (retired)General characteristics
+Crew: 2
+Length: 25 ft 5 in (7.75 m)
+Wingspan: 34 ft 4 in (10.46 m)
+Height: 7 ft 1 in (2.16 m)
+Wing area: 172 sq ft (16.0 m)
+Airfoil: root: NACA 1415; tip: USA 35B
+Empty weight: 1,517 lb (688 kg)
+Gross weight: 2,014 lb (914 kg)
+Max takeoff weight: 2,200 lb (998 kg)
+Powerplant: 1 × de Havilland Gipsy Major 1C 4-cylinder air-cooled inverted in-line piston engine, 145 hp (108 kW)
+Propellers: 2-bladed fixed-pitch propellerPerformance
+Maximum speed: 138 mph (222 km/h, 120 kn) at sea level
+Cruise speed: 103 mph (166 km/h, 90 kn)
+Range: 259 mi (417 km, 225 nmi)
+Service ceiling: 15,800 ft (4,800 m)
+Rate of climb: 900 ft/min (4.6 m/s)
+Wing loading: 11.71 lb/sq ft (57.2 kg/m)
+Power/mass: .072 hp/lb (0.118 kW/kg)
+Aircraft of comparable role, configuration, and era
+Fairchild PT-19
+Fokker S.11
+HAL HT-2
+LWD Junak
+Miles Magister
+Percival Prentice
+Yakovlev UT-2
+Zlín Z 26
+Related lists
+List of aircraft of the Royal Air ForceRAF Museum
+National Air Force Museum of Canada
+"The D.H. Chipmunk" a 1947 Flight article
+"The Turbine Chipmunk" a 1967 Flight article on the Rover TP.90 experiments
+"In Vogue Again: The de Havilland Chipmunk" a 1974 Flight article
+Article on the RAF BBMF (Battle of Britain Memorial Flight)

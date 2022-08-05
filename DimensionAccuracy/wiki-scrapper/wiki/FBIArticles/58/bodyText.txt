@@ -1,0 +1,69 @@
+The Hughes TH-55 Osage is a piston-powered light training helicopter produced for the United States Army. It was also produced as the Model 269 family of light utility helicopters, some of which were marketed as the Model 300. The Model 300C was produced and further developed by Schweizer after 1983.
+In 1955, Hughes Tool Company's Aircraft Division carried out a market survey which showed that there was a demand for a low-cost, lightweight two-seat helicopter. The division began building the Model 269 in September 1955. It was initially designed with a fully glazed cockpit with seating for two pilots, or a pilot and passenger. It also had an open-framework fuselage and a three-blade articulated rotor. The prototype flew on 2 October 1956, but it wasn't until 1960 that the decision was made to develop the helicopter for production. The original truss-work tailboom was replaced with a tubular tailboom and the cockpit was restructured and refined prior to being put into production, resulting in the Model 269A. With this model, Hughes successfully captured a large portion of the civilian helicopter market with an aircraft that would prove itself popular in agriculture, police work and other duties.
+The Hughes 269 was designed with a fully articulated, three-blade main rotor designed by Drago Jovanovich, and a two-blade tail rotor that would remain as distinctive characteristics of all its variants. It also has shock absorber-damped, skid-type landing gear. The flight controls are directly linked to the swashplate of the helicopter so there are no hydraulic systems in the 269. There are generally two sets of controls, although this was optional on the civil 269A. For three-seat aircraft, the middle collective control stick is removable and a seat cushion can be put in its place for the third passenger.
+In 1958, prior to full-time production, Hughes provided five preproduction Model 269A examples to the U.S. Army for evaluation as a light observation helicopter to replace the aging OH-13 Sioux and OH-23 Raven. Designated as the YHO-2HU the helicopter was eventually turned down. On 9 April 1959, the 269A received certification from the FAA. Hughes continued to concentrate on civil production, and deliveries of the Model 269A began in 1961. By mid-1963 about 20 aircraft were being produced a month and by the spring of 1964, 314 had been built.
+While the U.S. Army had not found the Model 269A adequate for combat missions, in 1964 it adopted a modified version of the 269A as its training helicopter to replace the TH-23 and designated it the TH-55A Osage. 792 TH-55 helicopters would be delivered by 1969, and it would remain in service as the U.S. Army's primary helicopter trainer until it was replaced in 1988 by the UH-1 Huey. At the time of its replacement, over 60,000 U.S. Army pilots had trained on TH-55 making it the U.S. Army's longest serving training helicopter. In addition to the U.S. Army, Hughes delivered TH-55/269/300s to other military customers.
+In 1964, Hughes introduced the slightly larger three-seat Model 269B which it marketed as the Hughes 300. That same year, the Hughes 269 set an endurance record of 101 hours. To set the record, two pilots took turns piloting the aircraft and hovered in ground-effect for fueling. To ensure no cheating, eggs were attached to the bottom of the skid gear to register any record-ending landing.
+The Hughes 300 was followed in 1969 by the improved Hughes 300C (sometimes 269C), which first flew on 6 March 1969 and received FAA certification in May 1970. This new model introduced a more powerful 190 hp (140 kW) Lycoming HIO-360-D1A engine and an increased-diameter rotor, giving a payload increase of 45%, plus overall performance improvements. It was this model that Schweizer began building under license from Hughes in 1983. In 1986, Schweizer acquired all rights to the helicopter from McDonnell Douglas, who had purchased Hughes Helicopters in 1984, and renamed it McDonnell Douglas Helicopter Systems. For a few years after, Schweizer acquired the FAA Type Certificate  known as the Schweizer-Hughes 300. While Schweizer made over 250 minor improvements, the basic design remained unchanged.
+Between Hughes and Schweizer, and including foreign-licensed production civil and military training aircraft, nearly 3,000 copies of the Model 269/300 have been built and flown over the last 50 years. That would have been the end of the story, but Schweizer continued to develop the model 300 by adding a turbine and redesigning the body to create the model 330m, and then further developed the dynamic components to take greater advantage of the power of the turbine engine; this led to the development of the Model 333.
+Hughes 269
+Two prototype aircraft powered by a 180 hp Lycoming O-360-A engine and had a truss tailboom. First flown on 2 October 1956.
+269A
+Replacing the prototype's truss tailboom with a simple aluminum tube as the tailboom, the 269A came with the option for several models of Lycoming O-360 engines: the carbureted O-360-C2D, restricted to 165 hp (123 kW) in the 269A, or the carbureted HO-360-B1A/B1B or fuel-injected HIO-360-B1A/B1B, all rated for 180 hp (134 kW) in the 269A. Customers also had the option for dual controls, and a 19 gal (72 liter) auxiliary tank. The maximum weight was 1,550 lb (703 kg); later this could be increased to 1,600 lb (726 kg) if certain modifications were performed.
+YHO-2
+Five 269A aircraft were evaluated by the U.S. Army for an observation helicopter in 1957-58, originally designated XH-42. The Army did not order the YHO-2 due to lack of funds.
+269A-1 "Model 200"
+The 269A-1, which Hughes marketed as the Model 200, was an improved version of the 269A certified by the FAA on 23 August 1963. Powered by the 180 hp (134 kW) fuel-injected Lycoming HIO-360-B1A or -B1B, and with its maximum weight increased to 1,670 lb (757 kg), the Model 200 also had the option for either a 30 gal (114 liter) or 25 gal (95 liter) main fuel tank. Hughes sold two versions of the Model 200: the ordinary Model 200 Utility and the Model 200 Deluxe with added custom interior decor and electrically operated trim for the cyclic control.
+TH-55A
+Military version of the 269A-1 (Model 200) built for the U.S. Army as its standard primary training helicopter and named after the Osage Native American tribe; student pilots nicknamed it the "Mattel Messerschmitt". Although basically the same as the Model 200, the TH-55A was fitted with military radio and instrumentation. 792 TH-55As were purchased by the Army between 1964 and 1967. An experimental TH-55A was fitted with an Allison 250-C18 turboshaft engine, and another would be fitted with a 185 hp (138 kW) Wankel RC 2-60 rotary engine.
+TH-55J
+38 license-produced versions of the TH-55A, built by Kawasaki for the Japanese Ground Self-Defense Force.
+269B "Model 300"
+Featuring a three-seat cockpit, the 269B was powered by a 190 hp (141 kW) Lycoming HIO-360-A1A engine and was marketed as the Hughes Model 300. Optional floats were also available on the 300, the first time available on any 269-variant.
+280U
+single-seat, utility version of the 269B with an electric clutch and trim system. The 280U could be fitted with spraying equipment for agricultural applications.
+300AG
+269B designed specifically for agricultural spraying with a 30 gal (114 liter) chemical tank on each side of the fuselage, and a 35 feet (10.67 m) spray boom.
+300B
+269B with a Quiet Tail Rotor installed to reduce exterior noise levels to that of a light airplane. The QTR was installed on all production models starting in June 1967 and offered as a kit for previously built aircraft.269C "Model 300C"
+The 300C was powered by a 190 hp (141 kW) Lycoming HIO-360-D1A and had a larger diameter main rotor  - 26 ft 10 in (8.18 m) compared to 25 ft 4 in (7.72 m). The larger rotor and engine giving it a 45% performance increase over previous 269-models. Hughes and Schweizer both marketed the 269C as the Model 300C.
+NH-300C
+License-built 269C by Italian aircraft manufacturing firm BredaNardi.
+300C Sky Knight
+Police patrol version of the Model 300C.
+TH-300C
+Military training version. AlgeriaAlgerian Air Force BrazilBrazilian Navy ColombiaColombian Air Force Costa RicaMinistry of Public Security
+ GreeceHellenic Army - operates 20 Breda Nardi NH300C in training role. HaitiHaiti Air Force HondurasHonduran Air Force IndiaIndian Navy JapanJapanese Ground Self-Defense Force PeruPeruvian Air Force Sierra LeoneSierra Leone Air Arm SpainSpanish Air Force SwedenSwedish Army TaiwanRepublic of China Army ThailandRoyal Thai Army TurkeyTurkish Army United StatesUnited States ArmyGeneral characteristics
+Crew: 2
+Length: 28 ft 10.75 in (8.8075 m)
+Height: 8 ft 2.75 in (2.5083 m) overall
+Empty weight: 958 lb (435 kg)
+Gross weight: 1,550 lb (703 kg)
+Max takeoff weight: 1,670 lb (757 kg) certificated1,850 lb (839 kg) maximum weight with restricted operationsFuel capacity: 30 US gal (25 imp gal; 110 l) in external mounted tank with provision for a 10 US gal (8.3 imp gal; 38 l) auxiliary tank.
+Powerplant: 1 × Lycoming HIO-360-A1A 4-cylinder air-cooled horizontally-opposed piston engine., 180 hp (130 kW)   (HIO-360-B1A in TH-55A)Main rotor diameter:  25 ft 3.5 in (7.709 m)
+Main rotor area: 503 sq ft (46.7 m) 
+Blade section: NACA 0015Performance
+Maximum speed: 87 mph (140 km/h, 76 kn)
+Cruise speed: 80 mph (130 km/h, 70 kn) maximum66 mph (57 kn; 106 km/h) economical.Never exceed speed: 87 mph (140 km/h, 76 kn) 
+Maximum water contact speed (on floats): 20 mph (17 kn; 32 km/h)
+Maximum water taxi speed (on floats): 10 mph (9 kn; 16 km/h)
+Range: 300 mi (480 km, 260 nmi) with maximum fuel and no reserve.
+Endurance: 3 hours 30 minutes with maximum fuel.
+Service ceiling: 13,000 ft (4,000 m) 
+Hover ceiling IGE: 7,700 ft (2,347 m)
+Hover ceiling OGE: 5,800 ft (1,768 m)
+Rate of climb: 1,140 ft/min (5.8 m/s)
+Disk loading: 3.3 lb/sq ft (16 kg/m)
+Power/mass: 0.1075 hp/lb (0.1767 kW/kg)
+Related development
+Schweizer 300Aircraft of comparable role, configuration, and era
+Bell 47
+OH-23 Raven
+Robinson R22Abulo, Samuel A.  "The Story of the PC/INP Air Unit." The Constable & INP Journal, 17 July–August 1985, pp. 27–31.
+Apostolo, Giorgio. The Illustrated Encyclopedia of Helicopters. New York: Bonanza Books, 1984. ISBN 0-517-439352.
+Elliot, Bryn (March–April 1997). "Bears in the Air: The US Air Police Perspective". Air Enthusiast. No. 68. pp. 46–51. ISSN 0143-5450.
+Elliott, Bryn (May–June 1999). "On the Beat: The First 60 Years of Britain's Air Police, Part Two". Air Enthusiast (81): 64–69. ISSN 0143-5450.
+Frawley, Gerard. The International Directory of Civil Aircraft, 2003-2004. Fyshwick ACT, Australia: Aerospace Publications Pty Ltd, 2003. ISBN 1-875671-58-7.
+Frawley, Gerard. The International Directory of Military Aircraft. Fyshwick ACT, Australia: Aerospace Publications Pty Ltd, 2002. ISBN 1-875671-55-2.
+Gunston, Bill. The Illustrated Encyclopedia of the World's Modern Military Aircraft. New York: Crescent Books, 1978. ISBN 0-517-22477-1.
+Hirschberg, Michael J. and David K. Daley. US and Russian Helicopter Development In the 20th Century. 2000.US and Russian Helicopter Development In the 20th Century

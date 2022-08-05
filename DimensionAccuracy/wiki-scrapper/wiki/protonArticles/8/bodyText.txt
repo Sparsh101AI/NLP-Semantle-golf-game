@@ -1,0 +1,41 @@
+In particle physics, a massless particle is an elementary particle whose invariant mass is zero. The two known massless particles are both gauge bosons: the photon (carrier of electromagnetism) and the gluon (carrier of the strong force). However, gluons are never observed as free particles, since they are confined within hadrons. Neutrinos were originally thought to be massless. However, because neutrinos change flavor as they travel, at least two of the types of neutrinos must have mass. The discovery of this phenomenon, known as neutrino oscillation, led to Canadian scientist Arthur B. McDonald and Japanese scientist Takaaki Kajita sharing the 2015 Nobel prize in physics.
+
+
+
+Name
+Symbol
+Antiparticle
+Charge (e)
+Spin
+Interaction mediated
+Existence
+
+
+Photon
+γ
+Self
+0
+1
+Electromagnetism
+Confirmed
+
+
+Gluon
+g
+Self
+0
+1
+Strong interaction
+Confirmed
+
+
+Graviton
+G
+Self
+0
+2
+Gravitation
+Unconfirmed
+
+Relativistic particle
+Gravitational waves

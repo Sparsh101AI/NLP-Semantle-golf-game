@@ -1,0 +1,39 @@
+History and development
+GIS software
+Geospatial data management
+Aspects of geographic data
+Data modeling
+Data acquisition
+Primary data capture
+Secondary data capture
+Projections, coordinate systems, and registration
+Data quality
+Raster-to-vector translation
+Spatial ETL
+Spatial analysis
+Terrain analysis
+Proximity analysis
+Data analysis
+Topological modeling
+Geometric networks
+Cartographic modeling
+Map overlay
+Geostatistics
+Address geocoding
+Reverse geocoding
+Multi-criteria decision analysis
+GIS data mining
+Data output and cartography
+Terrain depiction
+Web mapping
+Applications
+Open Geospatial Consortium standards
+Adding the dimension of time
+Semantics
+Societal implications
+In education
+In local government
+See also
+References
+Further reading
+External links

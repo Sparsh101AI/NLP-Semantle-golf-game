@@ -1,0 +1,15 @@
+The Virtual International Authority File (VIAF) is an international authority file. It is a joint project of several national libraries and operated by the Online Computer Library Center (OCLC).
+Discussion about having a common international authority started in the late 1990s. After a series of failed attempts to come up with a unique common authority file, the new idea was to link existing national authorities. This would present all the benefits of a common file without requiring a large investment of time and expense in the process.
+The VIAF concept was introduced at the 2003 World Library and Information Congress, hosted by the International Federation of Library Associations. The project was initiated by the US Library of Congress (LC), the German National Library (DNB) and the OCLC on 6 August 2003. The Bibliothèque nationale de France (BnF) joined the project on 5 October 2007.
+The project transitioned to being a service of the OCLC on 4 April 2012.
+The aim is to link the national authority files (such as the German Name Authority File) to a single virtual authority file. In this file, identical records from the different data sets are linked together. A VIAF record receives a standard data number, contains the primary "see" and "see also" records from the original records, and refers to the original authority records. The data is made available online and are available for research and data exchange and sharing. Reciprocal updating uses the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) protocol.
+The file numbers are also being added to Wikipedia biographical articles and are incorporated into Wikidata.
+Christine L. Borgman groups VIAF with the International Standard Name Identifier and ORCID systems, describing all three as "loosely coordinated efforts to standardize name forms". Borgman characterizes all three systems as attempts to solve the problem of author name disambiguation, which has grown in scale as the quantity of data multiplies. She notes that VIAF, unlike the other two systems, is led by libraries, as opposed to individual authors or creators.
+VIAF's clustering algorithm is run every month.  As more data are added from participating libraries, clusters of authority records may coalesce or split, leading to some fluctuation in the VIAF identifier of certain authority records.
+Authority control
+Faceted Application of Subject Terminology (FAST)
+Integrated Authority File (GND)
+International Standard Authority Data Number (ISADN)
+International Standard Name Identifier (ISNI)
+Wikipedia's authority control template for articlesBorgman, Christine L. (2015). Big Data, Little Data, No Data: Scholarship in the Networked World. MIT Press. ISBN 978-0-262-32786-2. OCLC 900409008.Official website 
+VIAF at OCLC

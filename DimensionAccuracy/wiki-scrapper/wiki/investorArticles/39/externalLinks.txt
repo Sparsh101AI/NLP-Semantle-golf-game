@@ -1,0 +1,15 @@
+https://commonchemistry.cas.org/detail?cas_rn=639068-99-8
+https://pubchem.ncbi.nlm.nih.gov/compound/10091392
+https://www.chemspider.com/Chemical-Structure.8266929.html
+https://precision.fda.gov/uniisearch/srs/unii/1U7V49NTQG
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL1209709
+https://chemapps.stolaf.edu/jmol/jmol.php?model=COc3cccc%28c13%29c%28C%28%3DO%29N%28CC2C%29CCN2C%29cn1CC4CCCCC4
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=459852163&page2=Org+28611
+https://doi.org/10.1039%2Fc0md00022a
+https://doi.org/10.1177%2F0269881108091551
+//pubmed.ncbi.nlm.nih.gov/18635703
+https://api.semanticscholar.org/CorpusID:43609218
+https://clinicaltrials.gov/ct2/show/NCT00782951
+https://en.wikipedia.org/w/index.php?title=Template:Cannabinoids&action=edit
+https://en.wikipedia.org/w/index.php?title=Org_28611&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Cannabinoid-stub&action=edit

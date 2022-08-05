@@ -1,0 +1,14 @@
+//www.google.com/search?as_eq=wikipedia&q=%22William+Mangion%22
+//www.google.com/search?tbm=nws&q=%22William+Mangion%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22William+Mangion%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22William+Mangion%22+-wikipedia
+//scholar.google.com/scholar?q=%22William+Mangion%22
+https://www.jstor.org/action/doBasicSearch?Query=%22William+Mangion%22&acc=on&wc=on
+http://www.william-mangion.com
+https://en.wikipedia.org/w/index.php?title=Template:Malta_in_the_Eurovision_Song_Contest&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Eurovision_Song_Contest_1993&action=edit
+https://musicbrainz.org/artist/ce5283ff-a080-44a6-85a0-432c1e61d601
+https://en.wikipedia.org/w/index.php?title=William_Mangion&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Malta-bio-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=William_Mangion&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Europe-singer-stub&action=edit

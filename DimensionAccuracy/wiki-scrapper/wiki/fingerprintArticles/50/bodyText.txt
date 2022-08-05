@@ -1,0 +1,178 @@
+C-value is the amount, in picograms, of DNA contained within a haploid nucleus (e.g. a gamete) or one half the amount in a diploid somatic cell of a eukaryotic organism. In some cases (notably among diploid organisms), the terms C-value and genome size are used interchangeably; however, in polyploids the C-value may represent two or more genomes contained within the same nucleus. Greilhuber et al. have suggested some new layers of terminology and associated abbreviations to clarify this issue, but these somewhat complex additions are yet to be used by other authors.
+Many authors have incorrectly assumed that the 'C' in "C-value" refers to "characteristic", "content", or "complement".  Even among authors who have attempted to trace the origin of the term, there had been some confusion because Hewson Swift did not define it explicitly when he coined it in 1950. In his original paper, Swift appeared to use the designation "1C value", "2C value", etc., in reference to "classes" of DNA content (e.g., Gregory 2001, 2002); however, Swift explained in personal correspondence to Prof. Michael D. Bennett in 1975 that "I am afraid the letter C stood for nothing more glamorous than 'constant', i.e., the amount of DNA that was characteristic of a particular genotype" (quoted in Bennett and Leitch 2005). This is in reference to the report in 1948 by Vendrely and Vendrely of a "remarkable constancy in the nuclear DNA content of all the cells in all the individuals within a given animal species" (translated from the original French). Swift's study of this topic related specifically to variation (or lack thereof) among chromosome sets in different cell types within individuals, but his notation evolved into "C-value" in reference to the haploid DNA content of individual species and retains this usage today.
+C-values vary enormously among species. In animals they range more than 3,300-fold, and in land plants they differ by a factor of about 1,000. Protist genomes have been reported to vary more than 300,000-fold in size, but the high end of this range (Amoeba) has been called into question.  Variation in C-values bears no relationship to the complexity of the organism or the number of genes contained in its genome; for example, some single-celled protists have genomes much larger than that of humans. This observation was deemed counterintuitive before the discovery of non-coding DNA. It became known as the C-value paradox as a result.  However, although there is no longer any paradoxical aspect to the discrepancy between C-value and gene number, this term remains in common usage.  For reasons of conceptual clarification, the various puzzles that remain with regard to genome size variation instead have been suggested to more accurately comprise a complex but clearly defined puzzle known as the C-value enigma.  C-values correlate with a range of features at the cell and organism levels, including cell size, cell division rate, and, depending on the taxon, body size, metabolic rate, developmental rate, organ complexity, geographical distribution, or extinction risk (for recent reviews, see Bennett and Leitch 2005; Gregory 2005).
+The C-value enigma or C-value paradox is the complex puzzle surrounding the extensive variation in nuclear genome size among eukaryotic species. At the center of the C-value enigma is the observation that genome size does not correlate with organismal complexity; for example, some single-celled protists have genomes much larger than that of humans.
+Some prefer the term C-value enigma because it explicitly includes all of the questions that will need to be answered if a complete understanding of genome size evolution is to be achieved (Gregory 2005). Moreover, the term paradox implies a lack of understanding of one of the most basic features of eukaryotic genomes: namely that they are composed primarily of non-coding DNA. Some have claimed that the term paradox also has the unfortunate tendency to lead authors to seek simple one-dimensional solutions to what is, in actuality, a multi-faceted puzzle. For these reasons, in 2003 the term "C-value enigma" was endorsed in preference to "C-value paradox" at the Second Plant Genome Size Discussion Meeting and Workshop at the Royal Botanic Gardens, Kew, UK,
+and an increasing number of authors have begun adopting this term.
+In 1948, Roger and Colette Vendrely reported a "remarkable constancy in the nuclear DNA content of all the cells in all the individuals within a given animal species", which they took as evidence that DNA, rather than protein, was the substance of which genes are composed. The term C-value reflects this observed constancy. However, it was soon found that C-values (genome sizes) vary enormously among species and that this bears no relationship to the presumed number of genes (as reflected by the complexity of the organism).   For example, the cells of some salamanders may contain 40 times more DNA than those of humans. Given that C-values were assumed to be constant because genetic information is encoded by DNA, and yet bore no relationship to presumed gene number, this was understandably considered paradoxical; the term "C-value paradox" was used to describe this situation by C.A. Thomas Jr. in 1971.
+The discovery of non-coding DNA in the early 1970s resolved the main question of the C-value paradox: genome size does not reflect gene number in eukaryotes since most of their DNA is non-coding and therefore does not consist of genes. The human genome, for example, comprises less than 2% protein-coding regions, with the remainder being various types of non-coding DNA (especially transposable elements).
+The term "C-value enigma" represents an update of the more common but outdated term "C-value paradox" (Thomas 1971), being ultimately derived from the term "C-value" (Swift 1950) in reference to haploid nuclear DNA contents. The term was coined by Canadian biologist Dr. T. Ryan Gregory of the University of Guelph in 2000/2001. In general terms, the C-value enigma relates to the issue of variation in the amount of non-coding DNA found within the genomes of different eukaryotes.
+The C-value enigma, unlike the older C-value paradox, is explicitly defined as a series of independent but equally important component questions, including:
+What types of non-coding DNA are found in different eukaryotic genomes, and in what proportions?
+From where does this non-coding DNA come, and how is it spread and/or lost from genomes over time?
+What effects, or perhaps even functions, does this non-coding DNA have for chromosomes, nuclei, cells, and organisms?
+Why do some species exhibit remarkably streamlined chromosomes, while others possess massive amounts of non-coding DNA?
+
+Table 1: Relative Molecular Masses of Nucleotides†
+
+
+Nucleotide
+
+Chemical formula
+
+Relative molecular mass (Da)
+
+
+2′-deoxyadenosine 5′-monophosphate
+C10H14N5O6P
+331.2213
+
+
+2′-deoxythymidine 5′-monophosphate
+C10H15N2O8P
+322.2079
+
+
+2′-deoxyguanosine 5′-monophosphate
+C10H14N5O7P
+347.2207
+
+
+2′-deoxycytidine 5′-monophosphate
+C9H14N3O7P
+307.1966
+
+†Source of table: Doležel et al., 2003
+
+The formulas for converting the number of nucleotide pairs (or base pairs) to picograms of DNA and vice versa are:
+genome size (bp) = (0.978 x 10) x DNA content (pg)
+DNA content (pg) = genome size (bp) / (0.978 x 10)
+1 pg = 978 Mbp
+By using the data in Table 1, relative masses of nucleotide pairs can be calculated as follows: A/T = 615.383 and G/C = 616.3711, bearing in mind that formation of one phosphodiester linkage involves a loss of one H2O molecule. Further, phosphates of nucleotides in the DNA chain are acidic, so at physiologic pH the H ion is dissociated. Provided the ratio of A/T to G/C pairs is 1:1 (the GC-content is 50%), the mean relative mass of one nucleotide pair is 615.8771.
+The relative molecular mass may be converted to an absolute value by multiplying it by the atomic mass unit (1 u) in picograms. Thus, 615.8771 is multiplied by 1.660539 × 10 pg. Consequently, the mean mass per nucleotide pair would be 1.023 × 10 pg, and 1 pg of DNA would represent 0.978 × 10 base pairs (978 Mbp).
+No species has a GC-content of exactly 50% (equal amounts of A/T and G/C nucleotide bases) as assumed by Doležel et al.  However, as a G/C pair is only heavier than an A/T pair by about 1/6 of 1%, the effect of variations in GC content is small.  The actual GC content varies between species, between chromosomes, and between isochores (sections of a chromosome with like GC content).  Adjusting Doležel's calculation for GC content, the theoretical variation in base pairs per picogram ranges from 977.0317 Mbp/pg for 100% GC content to 978.6005 Mbp/pg for 0% GC content (A/T being lighter, has more Mbp/pg), with a midpoint of 977.8155 Mbp/pg for 50% GC content.
+The human genome varies in size; however, the current estimate of the nuclear haploid size of the reference human genome is 3,031,042,417 bp for the X gamete and 2,932,228,937 bp for the Y gamete. The X gamete and Y gamete both contain 22 autosomes whose combined lengths comprise the majority of the genome in both gametes.  The X gamete contains an X chromosome, while the Y gamete contains a Y chromosome.  The larger size of the X chromosome is responsible for the difference in the size of the two gametes. When the gametes are combined, the XX female zygote has a size of 6,062,084,834 bp while the XY male zygote has a size 5,963,271,354 bp. However, the base pairs of the XX female zygote are distributed among 2 homologous groups of 23 heterologous chromosomes each, while the base pairs of the XY male zygote are distributed among 2 homologous groups of 22 heterologous chromosomes each plus 2 heterologous chromosomes. Although each zygote has 46 chromosomes, 23 chromosomes of the XX female zygote are heterologous while 24 chromosomes of the XY male zygote are heterologous. As a result, the C-value for the XX female zygote is 3.099361 while the C-value for the XY male zygote is 3.157877.
+The human genome's GC content is about 41%.  Accounting for the autosomal, X, and Y chromosomes, human haploid GC contents are 40.97460% for X gametes, and 41.01724% for Y gametes.
+Summarizing these numbers:
+
+
+Table 2: Human Genome Size
+
+
+Cell
+
+Chromosomes Description
+
+Type
+
+Ploidy
+
+Base Pairs (bp)
+
+GC Content (%)
+
+Density (Mbp/pg)
+
+Mass (pg)
+
+C-Value
+
+
+Sperm or egg
+23 heterologous chromosomes
+X Gamete
+Haploid
+3,031,042,417
+40.97460%
+977.9571
+3.099361
+3.099361
+
+
+Sperm only
+23 heterologous chromosomes
+Y Gamete
+Haploid
+2,932,228,937
+41.01724%
+977.9564
+2.998323
+2.998323
+
+
+Zygote
+46 chromosomes consisting of 2 homologous sets of 23 heterologous chromosomes each
+XX Female
+Diploid
+6,062,084,834
+40.97460%
+977.9571
+6.198723
+3.099361
+
+
+Zygote
+46 chromosomes consisting of 2 homologous sets of 22 heterologous chromosomes each plus 2 heterologous chromosomes
+XY Male
+Mostly diploid
+5,963,271,354
+40.99557%
+977.9567
+6.097684
+3.157877
+
+See also[edit]
+
+Animal Genome Size Database
+Cell nucleus
+Comparative genomics
+Genome
+Genome size
+Human genome
+Noncoding DNA, junk DNA
+Plant DNA C-values Database
+Selfish DNA
+Transposable elements
+
+References[edit]
+
+
+^ Greilhuber J, Doležel J, Lysák M, Bennett MD (2005). "The origin, evolution and proposed stabilization of the terms 'genome size' and 'C-value' to describe nuclear DNA contents". Annals of Botany. 95 (1): 255–60. doi:10.1093/aob/mci019. PMC 4246724. PMID 15596473.
+
+^ Swift H (1950). "The constancy of deoxyribose nucleic acid in plant nuclei". Proceedings of the National Academy of Sciences of the USA. 36 (11): 643–654. Bibcode:1950PNAS...36..643S. doi:10.1073/pnas.36.11.643. PMC 1063260. PMID 14808154.
+
+^ Gregory TR (2001). "Coincidence, coevolution, or causation? DNA content, cell size, and the C-value enigma". Biological Reviews. 76 (1): 65–101. doi:10.1017/S1464793100005595. PMID 11325054.
+
+^ Gregory TR (2002). "A bird's-eye view of the C-value enigma: genome size, cell size, and metabolic rate in the class Aves". Evolution. 56 (1): 121–30. doi:10.1111/j.0014-3820.2002.tb00854.x. PMID 11913657.
+
+^    Bennett MD, Leitch IJ (2005). "Genome size evolution in plants".  In T.R. Gregory (ed.). The Evolution of the Genome. San Diego: Elsevier. pp. 89–162.
+
+^ Vendrely R, Vendrely C; Vendrely (1948). "La teneur du noyau cellulaire en acide désoxyribonucléique à travers les organes, les individus et les espèces animales : Techniques et premiers résultats". Experientia (in French). 4 (11): 434–436. doi:10.1007/bf02144998. PMID 18098821. S2CID 22272730.
+
+^   Gregory T.R. (2005). "Genome size evolution in animals".  In T.R. Gregory (ed.). The Evolution of the Genome. San Diego: Elsevier. pp. 3–87.
+
+^   "Second Plant Genome Size Discussion Meeting and Workshop". Archived from the original on 2008-12-01. Retrieved 2015-04-19.
+
+^ Vendrely R, Vendrely C (1948). "La teneur du noyau cellulaire en acide désoxyribonucléique à travers les organes, les individus et les espèces animales: Techniques et premiers résultats". Experientia. 4 (11): 434–436. doi:10.1007/bf02144998. PMID 18098821. S2CID 22272730.
+
+^ Dawkins, Richard; Wong, Yan (2016). The Ancestor's Tale. ISBN 978-0544859937.
+
+^ "Animal Genome Size Database". Retrieved 14 May 2013.
+
+^ Elgar, G.; Vavouri, T. (2008). "Tuning in to the signals: Noncoding sequence conservation in vertebrate genomes". Trends in Genetics. 24 (7): 344–352. doi:10.1016/j.tig.2008.04.005. PMID 18514361.
+
+^    Doležel J, Bartoš J, Voglmayr H, Greilhuber J (2003). "Letter to the editor: Nuclear DNA Content and Genome Size of Trout and Human". Cytometry. 51A (2): 127–128. doi:10.1002/cyto.a.10013. PMID 12541287.
+
+^ Lander, ES; Linton, LM; Birren, B; Nusbaum, C; Zody, MC; Baldwin, J; Devon, K; Dewar, K;  et al. (2001). "International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome" (PDF). Nature. 409 (6822): 860–921. doi:10.1038/35057062. PMID 11237011.
+
+^ "Assembly Statistics for GRCh38.p2". Genome Reference Consortium. 8 December 2014. Retrieved 8 February 2015.
+
+^ Stylianos E. Antonarakis (2010). Vogel and Motulsky's Human Genetics: Problems and Approaches (PDF). Berlin Heidelberg: Springer-Verlag. p. 32. ISBN 978-3-540-37654-5. Archived from the original (PDF) on 24 September 2015. Retrieved 8 February 2015.
+
+^ Kokocinski, Felix. "Bioinformatics work notes". GC content of human chromosomes. Archived from the original on 10 February 2015. Retrieved 8 February 2015.
+
+
+External links[edit]
+Animal Genome Size Database
+Plant DNA C-values Database
+Fungal Genome Size Database

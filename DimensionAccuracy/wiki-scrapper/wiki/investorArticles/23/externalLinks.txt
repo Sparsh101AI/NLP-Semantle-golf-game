@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Von_Neumann_(crater)&params=40.4_N_153.2_E_globe:moon_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Von_Neumann_(crater)&params=40.4_N_153.2_E_globe:moon_type:landmark
+http://planetarynames.wr.usgs.gov/
+https://archive.org/details/isbn_9780936389271
+http://host.planet4589.org/astro/lunar/
+https://ui.adsabs.harvard.edu/abs/1971SSRv...12..136M
+https://doi.org/10.1007%2FBF00171763
+https://api.semanticscholar.org/CorpusID:122125855
+https://archive.org/details/patrickmooreonmo00patr
+https://archive.org/details/celestialobjects00webb

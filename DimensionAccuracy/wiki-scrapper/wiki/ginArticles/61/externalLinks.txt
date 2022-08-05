@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Bassin-Bleu&params=19_47_0_N_72_48_0_W_region:HT_type:city(33926)
+//geohack.toolforge.org/geohack.php?pagename=Bassin-Bleu&params=19_47_0_N_72_48_0_W_region:HT_type:city(33926)
+https://en.wikipedia.org/w/index.php?title=Template:Communes_of_Haiti&action=edit
+https://en.wikipedia.org/w/index.php?title=Bassin-Bleu&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Haiti-geo-stub&action=edit

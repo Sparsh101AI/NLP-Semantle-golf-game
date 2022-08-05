@@ -1,0 +1,1622 @@
+
+This list contains a list of EC numbers for the third group, EC 3, hydrolases, placed in numerical order as determined by the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology. All official information is tabulated at the website of the committee. The database is developed and maintained by Andrew McDonald.
+EC 3.1.1.1: carboxylesterase
+EC 3.1.1.2: arylesterase
+EC 3.1.1.3: triacylglycerol lipase
+EC 3.1.1.4: phospholipase A2
+EC 3.1.1.5: lysophospholipase
+EC 3.1.1.6: acetylesterase
+EC 3.1.1.7: acetylcholinesterase
+EC 3.1.1.8: cholinesterase
+EC 3.1.1.9: deleted, a side reaction of EC 3.1.1.8 cholinesterase
+EC 3.1.1.10: tropinesterase
+EC 3.1.1.11: pectinesterase
+EC 3.1.1.12: deleted, identical with EC 3.1.1.1 carboxylesterase
+EC 3.1.1.13: sterol esterase
+EC 3.1.1.14: chlorophyllase
+EC 3.1.1.15: L-arabinonolactonase
+EC 3.1.1.16: deleted, mixture of EC 5.3.3.4 (muconolactone Δ-isomerase) and EC 3.1.1.24 (3-oxoadipate enol-lactonase)
+EC 3.1.1.17: gluconolactonase
+EC 3.1.1.18: deleted, Now included with EC 3.1.1.17 gluconolactonase
+EC 3.1.1.19: uronolactonase
+EC 3.1.1.20: tannase
+EC 3.1.1.21: deleted, now known to be catalysed by EC 3.1.1.1, carboxylesterase and EC 3.1.1.3, triacylglycerol lipase.
+EC 3.1.1.22: hydroxybutyrate-dimer hydrolase
+EC 3.1.1.23: acylglycerol lipase
+EC 3.1.1.24: 3-oxoadipate enol-lactonase
+EC 3.1.1.25: 1,4-lactonase
+EC 3.1.1.26: galactolipase
+EC 3.1.1.27: 4-pyridoxolactonase
+EC 3.1.1.28: acylcarnitine hydrolase
+EC 3.1.1.29: aminoacyl-tRNA hydrolase
+EC 3.1.1.30: D-arabinonolactonase
+EC 3.1.1.31: 6-phosphogluconolactonase
+EC 3.1.1.32: phospholipase A1
+EC 3.1.1.33: 6-acetylglucose deacetylase
+EC 3.1.1.34: lipoprotein lipase
+EC 3.1.1.35: dihydrocoumarin hydrolase
+EC 3.1.1.36: limonin-D-ring-lactonase
+EC 3.1.1.37: steroid-lactonase
+EC 3.1.1.38: triacetate-lactonase
+EC 3.1.1.39: actinomycin lactonase
+EC 3.1.1.40: orsellinate-depside hydrolase
+EC 3.1.1.41: cephalosporin-C deacetylase
+EC 3.1.1.42: chlorogenate hydrolase
+EC 3.1.1.43: α-amino-acid esterase
+EC 3.1.1.44: 4-methyloxaloacetate esterase
+EC 3.1.1.45: carboxymethylenebutenolidase
+EC 3.1.1.46: deoxylimonate A-ring-lactonase
+EC 3.1.1.47: 1-alkyl-2-acetylglycerophosphocholine esterase
+EC 3.1.1.48: fusarinine-C ornithinesterase
+EC 3.1.1.49: sinapine esterase
+EC 3.1.1.50: wax-ester hydrolase
+EC 3.1.1.51: phorbol-diester hydrolase
+EC 3.1.1.52: phosphatidylinositol deacylase
+EC 3.1.1.53: sialate O-acetylesterase
+EC 3.1.1.54: acetoxybutynylbithiophene deacetylase
+EC 3.1.1.55: acetylsalicylate deacetylase
+EC 3.1.1.56: methylumbelliferyl-acetate deacetylase
+EC 3.1.1.57: 2-pyrone-4,6-dicarboxylate lactonase
+EC 3.1.1.58: N-acetylgalactosaminoglycan deacetylase
+EC 3.1.1.59: juvenile-hormone esterase
+EC 3.1.1.60: bis(2-ethylhexyl)phthalate esterase
+EC 3.1.1.61: protein-glutamate methylesterase
+EC 3.1.1.62: Now listed as EC 3.5.1.47, N-acetyldiaminopimelate deacetylase
+EC 3.1.1.63: 11-cis-retinyl-palmitate hydrolase
+EC 3.1.1.64: retinoid isomerohydrolase
+EC 3.1.1.65: L-rhamnono-1,4-lactonase
+EC 3.1.1.66: 5-(3,4-diacetoxybut-1-ynyl)-2,2′-bithiophene deacetylase
+EC 3.1.1.67: fatty-acyl-ethyl-ester synthase
+EC 3.1.1.68: xylono-1,4-lactonase
+EC 3.1.1.69: Now EC 3.5.1.89, N-acetylglucosaminylphosphatidylinositol deacetylase
+EC 3.1.1.70: cetraxate benzylesterase
+EC 3.1.1.71: acetylalkylglycerol acetylhydrolase
+EC 3.1.1.72: acetylxylan esterase
+EC 3.1.1.73: feruloyl esterase
+EC 3.1.1.74: cutinase
+EC 3.1.1.75: poly(3-hydroxybutyrate) depolymerase
+EC 3.1.1.76: poly(3-hydroxyoctanoate) depolymerase
+EC 3.1.1.77: acyloxyacyl hydrolase
+EC 3.1.1.78: polyneuridine-aldehyde esterase
+EC 3.1.1.79: hormone-sensitive lipase
+EC 3.1.1.80: acetylajmaline esterase
+EC 3.1.1.81: quorum-quenching N-acyl-homoserine lactonase
+EC 3.1.1.82: pheophorbidase
+EC 3.1.1.83: monoterpene ε-lactone hydrolase
+EC 3.1.1.84: cocaine esterase
+EC 3.1.1.85: pimelyl-(acyl-carrier protein) methyl ester esterase
+EC 3.1.1.86: rhamnogalacturonan acetylesterase
+EC 3.1.1.87: fumonisin B1 esterase
+EC 3.1.1.88: pyrethroid hydrolase
+EC 3.1.1.89: protein phosphatase methylesterase-1
+EC 3.1.1.90: all-trans-retinyl ester 13-cis isomerohydrolase
+EC 3.1.1.91: 2-oxo-3-(5-oxofuran-2-ylidene)propanoate lactonase
+EC 3.1.1.92: 4-sulfomuconolactone hydrolase
+EC 3.1.1.93: mycophenolic acid acyl-glucuronide esterase
+EC 3.1.1.94: versiconal hemiacetal acetate esterase *
+EC 3.1.1.95: aclacinomycin methylesterase *
+EC 3.1.1.96: D-aminoacyl-tRNA deacylase *
+EC 3.1.1.97: methylated diphthine methylhydrolase *
+EC 3.1.1.98: [Wnt protein] O-palmitoleoyl-L-serine hydrolase *
+EC 3.1.1.99: 6-deoxy-6-sulfogluconolactonase *
+EC 3.1.1.100: chlorophyllide a hydrolase *
+EC 3.1.1.101: poly(ethylene terephthalate) hydrolase *
+EC 3.1.1.102: mono(ethylene terephthalate) hydrolase *
+EC 3.1.1.103: teichoic acid D-alanine hydrolase *
+EC 3.1.1.104: 5-phospho-D-xylono-1,4-lactonase *
+EC 3.1.1.105: 3-O-acetylpapaveroxine carboxylesterase *
+EC 3.1.1.106: O-acetyl-ADP-ribose deacetylase *
+EC 3.1.1.107: apo-salmochelin esterase *
+EC 3.1.1.108: iron(III)-enterobactin esterase *
+EC 3.1.1.109: iron(III)-salmochelin esterase *
+EC 3.1.1.110: xylono-1,5-lactonase *
+EC 3.1.1.111: phosphatidylserine sn-1 acylhydrolase *
+EC 3.1.1.112: isoamyl acetate esterase *
+EC 3.1.1.113: ethyl acetate hydrolase *
+EC 3.1.1.114: methyl acetate hydrolase *
+EC 3.1.1.115: D-apionolactonase *
+EC 3.1.1.116: sn-1-specific diacylglycerol lipase *
+EC 3.1.1.117: (4-O-methyl)-D-glucuronate—lignin esterase *
+EC 3.1.1.118: phospholipid sn-1 acylhydrolase **No Wikipedia articleEC 3.1.2.1: acetyl-CoA hydrolase
+EC 3.1.2.2: palmitoyl-CoA hydrolase
+EC 3.1.2.3: succinyl-CoA hydrolase
+EC 3.1.2.4: 3-hydroxyisobutyryl-CoA hydrolase
+EC 3.1.2.5: hydroxymethylglutaryl-CoA hydrolase
+EC 3.1.2.6: hydroxyacylglutathione hydrolase
+EC 3.1.2.7: glutathione thiolesterase
+EC 3.1.2.8: Now included with EC 3.1.2.6 hydroxyacylglutathione hydrolase
+EC 3.1.2.9: S-acetoacetylhydrolipoate hydrolase deleted
+EC 3.1.2.10: formyl-CoA hydrolase
+EC 3.1.2.11: acetoacetyl-CoA hydrolase
+EC 3.1.2.12: S-formylglutathione hydrolase
+EC 3.1.2.13: S-succinylglutathione hydrolase
+EC 3.1.2.14: oleoyl-[acyl-carrier-protein] hydrolase
+EC 3.1.2.15: covered by EC 3.4.19.12, ubiquitinyl hydrolase 1
+EC 3.1.2.16: citrate lyase deacetylase
+EC 3.1.2.17: (S)-methylmalonyl-CoA hydrolase
+EC 3.1.2.18: ADP-dependent short-chain-acyl-CoA hydrolase
+EC 3.1.2.19: ADP-dependent medium-chain-acyl-CoA hydrolase
+EC 3.1.2.20: acyl-CoA hydrolase
+EC 3.1.2.21: dodecanoyl-(acyl-carrier-protein) hydrolase
+EC 3.1.2.22: palmitoyl[protein] hydrolase
+EC 3.1.2.23: 4-hydroxybenzoyl-CoA thioesterase
+EC 3.1.2.24: transferred entry now EC 3.13.1.3, 2′-hydroxybiphenyl-2-sulfinate desulfinase.
+EC 3.1.2.25: phenylacetyl-CoA hydrolase
+EC 3.1.2.26: Now EC 2.8.3.25, bile acid CoA transferase
+EC 3.1.2.27: choloyl-CoA hydrolase
+EC 3.1.2.28: 1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EC 3.1.2.29: fluoroacetyl-CoA thioesterase
+EC 3.1.2.30: (3S)-malyl-CoA thioesterase *
+EC 3.1.2.31:	dihydromonacolin L-[lovastatin nonaketide synthase] thioesterase *
+EC 3.1.2.32: 2-aminobenzoylacetyl-CoA thioesterase **No Wikipedia articleEC 3.1.3.1: alkaline phosphatase
+EC 3.1.3.2: acid phosphatase
+EC 3.1.3.3: phosphoserine phosphatase
+EC 3.1.3.4: phosphatidate phosphatase
+EC 3.1.3.5: 5′-nucleotidase
+EC 3.1.3.6: 3′-nucleotidase
+EC 3.1.3.7: 3′(2′),5′-bisphosphate nucleotidase
+EC 3.1.3.8: 3-phytase
+EC 3.1.3.9: glucose-6-phosphatase
+EC 3.1.3.10: glucose-1-phosphatase
+EC 3.1.3.11: fructose-bisphosphatase
+EC 3.1.3.12: trehalose-phosphatase
+EC 3.1.3.13: Recent studies have shown that this is a partial activity of EC 5.4.2.11, phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+EC 3.1.3.14: methylphosphothioglycerate phosphatase
+EC 3.1.3.15: histidinol-phosphatase
+EC 3.1.3.16: protein serine/threonine phosphatase
+EC 3.1.3.17: (phosphorylase) phosphatase
+EC 3.1.3.18: phosphoglycolate phosphatase
+EC 3.1.3.19: glycerol-2-phosphatase
+EC 3.1.3.20: phosphoglycerate phosphatase
+EC 3.1.3.21: glycerol-1-phosphatase
+EC 3.1.3.22: mannitol-1-phosphatase
+EC 3.1.3.23: sugar-phosphatase
+EC 3.1.3.24: sucrose-phosphatase
+EC 3.1.3.25: inositol-phosphate phosphatase
+EC 3.1.3.26: 4-phytase
+EC 3.1.3.27: phosphatidylglycerophosphatase
+EC 3.1.3.28: ADP-phosphoglycerate phosphatase
+EC 3.1.3.29: N-acylneuraminate-9-phosphatase
+EC 3.1.3.30: The activity may be that of an acid phosphatase
+EC 3.1.3.31: nucleotidase
+EC 3.1.3.32: polynucleotide 3′-phosphatase
+EC 3.1.3.33: polynucleotide 5′-phosphatase
+EC 3.1.3.34: deoxynucleotide 3′-phosphatase
+EC 3.1.3.35: thymidylate 5′-phosphatase
+EC 3.1.3.36: phosphoinositide 5-phosphatase
+EC 3.1.3.37: sedoheptulose-bisphosphatase
+EC 3.1.3.38: 3-phosphoglycerate phosphatase
+EC 3.1.3.39: streptomycin-6-phosphatase
+EC 3.1.3.40: guanidinodeoxy-scyllo-inositol-4-phosphatase
+EC 3.1.3.41: 4-nitrophenylphosphatase
+EC 3.1.3.42: glycogen-synthase-D] phosphatase
+EC 3.1.3.43: [pyruvate dehydrogenase (acetyl-transferring)]-phosphatase
+EC 3.1.3.44: [acetyl-CoA carboxylase]-phosphatase
+EC 3.1.3.45: 3-deoxy-manno-octulosonate-8-phosphatase
+EC 3.1.3.46: fructose-2,6-bisphosphate 2-phosphatase
+EC 3.1.3.47: [hydroxymethylglutaryl-CoA reductase (NADPH)]-phosphatase
+EC 3.1.3.48: protein-tyrosine-phosphatase
+EC 3.1.3.49: [pyruvate kinase]-phosphatase
+EC 3.1.3.50: sorbitol-6-phosphatase
+EC 3.1.3.51: dolichyl-phosphatase
+EC 3.1.3.52: [3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)]-phosphatase
+EC 3.1.3.53: [myosin-light-chain] phosphatase
+EC 3.1.3.54: fructose-2,6-bisphosphate 6-phosphatase
+EC 3.1.3.55: caldesmon-phosphatase
+EC 3.1.3.56: inositol-polyphosphate 5-phosphatase
+EC 3.1.3.57: inositol-1,4-bisphosphate 1-phosphatase
+EC 3.1.3.58: sugar-terminal-phosphatase
+EC 3.1.3.59: alkylacetylglycerophosphatase
+EC 3.1.3.60: phosphoenolpyruvate phosphatase
+EC 3.1.3.61: deleted, as its existence has not been established
+EC 3.1.3.62: multiple inositol-polyphosphate phosphatase
+EC 3.1.3.63: 2-carboxy-D-arabinitol-1-phosphatase
+EC 3.1.3.64: phosphatidylinositol-3-phosphatase
+EC 3.1.3.65: Now included with EC 3.1.3.64, phosphatidylinositol-3-phosphatase
+EC 3.1.3.66: phosphatidylinositol-3,4-bisphosphate 4-phosphatase
+EC 3.1.3.67: phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase
+EC 3.1.3.68: 2-deoxyglucose-6-phosphatase
+EC 3.1.3.69: glucosylglycerol 3-phosphatase
+EC 3.1.3.70: mannosyl-3-phosphoglycerate phosphatase
+EC 3.1.3.71: 2-phosphosulfolactate phosphatase
+EC 3.1.3.72: 5-phytase
+EC 3.1.3.73: adenosylcobalamin/α-ribazole phosphatase
+EC 3.1.3.74: pyridoxal phosphatase
+EC 3.1.3.75: phosphoethanolamine/phosphocholine phosphatase
+EC 3.1.3.76: lipid-phosphate phosphatase
+EC 3.1.3.77: acireductone synthase
+EC 3.1.3.78: phosphatidylinositol-4,5-bisphosphate 4-phosphatase
+EC 3.1.3.79: mannosylfructose-phosphate phosphatase
+EC 3.1.3.80: 2,3-bisphosphoglycerate 3-phosphatase
+EC 3.1.3.81: diacylglycerol diphosphate phosphatase
+EC 3.1.3.82: D-glycero-β-D-manno-heptose 1,7-bisphosphate 7-phosphatase
+EC 3.1.3.83: D-glycero-α-D-manno-heptose 1,7-bisphosphate 7-phosphatase
+EC 3.1.3.84: ADP-ribose 1′′-phosphate phosphatase
+EC 3.1.3.85: glucosyl-3-phosphoglycerate phosphatase
+EC 3.1.3.86: phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase
+EC 3.1.3.87: 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+EC 3.1.3.88: 5′′-phosphoribostamycin phosphatase
+EC 3.1.3.89: 5′-deoxynucleotidase *
+EC 3.1.3.90: maltose 6′-phosphate phosphatase *
+EC 3.1.3.91: 7-methylguanosine nucleotidase *
+EC 3.1.3.92: kanosamine-6-phosphate phosphatase *
+EC 3.1.3.93: L-galactose 1-phosphate phosphatase *
+EC 3.1.3.94: D-galactose 1-phosphate phosphatase *
+EC 3.1.3.95: phosphatidylinositol-3,5-bisphosphate 3-phosphatase *
+EC 3.1.3.96: pseudouridine 5′-phosphatase *
+EC 3.1.3.97: 3′,5′-nucleoside bisphosphate phosphatase *
+EC 3.1.3.98: geranyl diphosphate phosphohydrolase, transferred to EC 3.6.1.68, geranyl diphosphate phosphohydrolase
+EC 3.1.3.99: IMP-specific 5′-nucleotidase *
+EC 3.1.3.100: thiamine phosphate phosphatase *
+EC 3.1.3.101: validoxylamine A 7′-phosphate phosphatase *
+EC 3.1.3.102: FMN hydrolase *
+EC 3.1.3.103: 3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphatase *
+EC 3.1.3.104: 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase *
+EC 3.1.3.105: N-acetyl-D-muramate 6-phosphate phosphatase *
+EC 3.1.3.106: 2-lysophosphatidate phosphatase *
+EC 3.1.3.107: amicoumacin phosphatase *
+EC 3.1.3.108: nocturnin ** No Wikipedia articleEC 3.1.4.1: phosphodiesterase I
+EC 3.1.4.2: glycerophosphocholine phosphodiesterase
+EC 3.1.4.3: lecithinase C
+EC 3.1.4.4: phospholipase D
+EB 3.1.4.5: Now EC 3.1.21.1, deoxyribonuclease I
+EB 3.1.4.6: Now EC 3.1.22.1, deoxyribonuclease II
+EB 3.1.4.7: Now EC 3.1.31.1, micrococcal nuclease
+EB 3.1.4.8: Now EC 3.1.27.3, ribonuclease T1
+EB 3.1.4.9: Now EC 3.1.30.2, Serratia marcescens nuclease
+EB 3.1.4.10: Now EC 4.6.1.13, phosphatidylinositol diacylglycerol-lyase
+EC 3.1.4.11: phosphoinositide phospholipase C
+EC 3.1.4.12: sphingomyelin phosphodiesterase
+EC 3.1.4.13: serine-ethanolaminephosphate phosphodiesterase
+EC 3.1.4.14: [acyl-carrier-protein] phosphodiesterase
+EB 3.1.4.15: transferred to EC 2.7.7.89, adenylyl-[glutamateammonia ligase] phosphorylase
+EC 3.1.4.16: 2′,3′-cyclic-nucleotide 2′-phosphodiesterase
+EC 3.1.4.17: 3′,5′-cyclic-nucleotide phosphodiesterase
+EB 3.1.4.18: Now EC 3.1.16.1, spleen exonuclease
+EB 3.1.4.19: Now EC 3.1.13.3, oligonucleotidase
+EB 3.1.4.20: Now EC 3.1.13.1, exoribonuclease II
+EB 3.1.4.21: Now EC 3.1.30.1, Aspergillus nuclease S1
+EB 3.1.4.22: Now EC 3.1.27.5, pancreatic ribonuclease
+EB 3.1.4.23: Now EC 3.1.27.1, ribonuclease T2
+EB 3.1.4.24: deleted
+EB 3.1.4.25: Now EC 3.1.11.1, exodeoxyribonuclease I
+EB 3.1.4.26: deleted
+EB 3.1.4.27: Now EC 3.1.11.2, exodeoxyribonuclease III
+EB 3.1.4.28: Now EC 3.1.11.3, exodeoxyribonuclease (lambda-induced)
+EB 3.1.4.29: deleted
+EB 3.1.4.30: Now EC 3.1.21.2, deoxyribonuclease IV (phage-T4-induced)
+EB 3.1.4.31: now EC 3.1.11.4
+EB 3.1.4.32: deleted
+EB 3.1.4.33: deleted
+EB 3.1.4.34: deleted
+EC 3.1.4.35: 3',5'-cyclic-GMP phosphodiesterase
+EC 3.1.4.36: now with EC 3.1.4.43
+EC 3.1.4.37: 2',3'-cyclic-nucleotide 3'-phosphodiesterase
+EC 3.1.4.38: glycerophosphocholine cholinephosphodiesterase
+EC 3.1.4.39: alkylglycerophosphoethanolamine phosphodiesterase
+EC 3.1.4.40: CMP-N-acylneuraminate phosphodiesterase
+EC 3.1.4.41: sphingomyelin phosphodiesterase D
+EC 3.1.4.42: glycerol-1,2-cyclic-phosphate 2-phosphodiesterase
+EC 3.1.4.43: glycerophosphoinositol inositolphosphodiesterase
+EC 3.1.4.44: glycerophosphoinositol glycerophosphodiesterase
+EC 3.1.4.45: N-acetylglucosamine-1-phosphodiester α-N-acetylglucosaminidase
+EC 3.1.4.46: glycerophosphodiester phosphodiesterase
+EB 3.1.4.47: Now EC 4.6.1.14, glycosylphosphatidylinositol diacylglycerol-lyase
+EC 3.1.4.48: dolichylphosphate-glucose phosphodiesterase
+EC 3.1.4.49: dolichylphosphate-mannose phosphodiesterase
+EC 3.1.4.50: glycosylphosphatidylinositol phospholipase D
+EC 3.1.4.51: glucose-1-phospho-D-mannosylglycoprotein phosphodiesterase
+EC 3.1.4.52: cyclic-guanylate-specific phosphodiesterase
+EC 3.1.4.53: 3′,5′-cyclic-AMP phosphodiesterase
+EC 3.1.4.54: N-acetylphosphatidylethanolamine-hydrolysing phospholipase D
+EC 3.1.4.55: phosphoribosyl 1,2-cyclic phosphate phosphodiesterase *
+EC 3.1.4.56: 7,8-dihydroneopterin 2′,3′-cyclic phosphate phosphodiesterase
+EC 3.1.4.57: phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase *
+EC 3.1.4.58: RNA 2′,3′-cyclic 3′-phosphodiesterase *
+EC 3.1.4.59: cyclic-di-AMP phosphodiesterase *
+EC 3.1.4.60: pApA phosphodiesterase *
+EC 3.1.4.61: cyclic 2,3-diphosphoglycerate hydrolase **No Wikipedia articleEC 3.1.5.1: dGTPaseEC 3.1.6.1: arylsulfatase (type I)
+EC 3.1.6.2: steryl-sulfatase
+EC 3.1.6.3: glycosulfatase
+EC 3.1.6.4: N-acetylgalactosamine-6-sulfatase
+EC 3.1.6.5: deleted
+EC 3.1.6.6: choline-sulfatase
+EC 3.1.6.7: cellulose-polysulfatase
+EC 3.1.6.8: cerebroside-sulfatase
+EC 3.1.6.9: chondro-4-sulfatase
+EC 3.1.6.10: chondro-6-sulfatase
+EC 3.1.6.11: disulfoglucosamine-6-sulfatase
+EC 3.1.6.12: N-acetylgalactosamine-6-sulfatase
+EC 3.1.6.13: iduronate-2-sulfatase
+EC 3.1.6.14: N-acetylglucosamine-6-sulfatase
+EC 3.1.6.15: N-sulfoglucosamine-3-sulfatase
+EC 3.1.6.16: monomethyl-sulfatase
+EC 3.1.6.17: D-lactate-2-sulfatase
+EC 3.1.6.19: (R)-specific secondary-alkylsulfatase (type III) *
+EC 3.1.6.20: S-sulfosulfanyl-L-cysteine sulfohydrolase *
+EC 3.1.6.21: linear primary-alkylsulfatase *
+EC 3.1.6.22: branched primary-alkylsulfatase **No Wikipedia articleEC 3.1.7.1: prenyl-diphosphatase
+EC 3.1.7.2: guanosine-3′,5′-bis(diphosphate) 3′-diphosphatase
+EC 3.1.7.3: monoterpenyl-diphosphatase
+EC 3.1.7.4:  Now recognized as two enzymes EC 4.2.1.133, copal-8-ol diphosphate synthase and EC 4.2.3.141 sclareol synthase
+EC 3.1.7.5: geranylgeranyl diphosphate diphosphatase
+EC 3.1.7.6: farnesyl diphosphatase
+EC 3.1.7.7: Now EC 4.2.3.194, (–)-drimenol synthase
+EC 3.1.7.8: Now known to be partial activity of EC 2.5.1.153, adenosine tuberculosinyltransferase.
+EC 3.1.7.9: Now known to be partial activity of EC 2.5.1.153, adenosine tuberculosinyltransferase
+EC 3.1.7.10: (13E)-labda-7,13-dien-15-ol synthase
+EC 3.1.7.11: geranyl diphosphate diphosphatase
+EC 3.1.7.12: (+)-kolavelool synthase **No Wikipedia articleEC 3.1.8.1: aryldialkylphosphatase
+EC 3.1.8.2: diisopropyl-fluorophosphataseEC 3.1.11.1: exodeoxyribonuclease I
+EC 3.1.11.2: exodeoxyribonuclease III
+EC 3.1.11.3: exodeoxyribonuclease (lambda-induced)
+EC 3.1.11.4: exodeoxyribonuclease (phage SP3-induced)
+EC 3.1.11.5: exodeoxyribonuclease V
+EC 3.1.11.6: exodeoxyribonuclease VII
+EC 3.1.11.7: Now EC 3.6.1.71, adenosine-5′-diphospho-5′-[DNA] diphosphatase
+EC 3.1.11.8: Now EC 3.6.1.70, guanosine-5′-diphospho-5′-[DNA] diphosphataseEC 3.1.13.1: exoribonuclease II
+EC 3.1.13.2: exoribonuclease H
+EC 3.1.13.3: oligonucleotidase
+EC 3.1.13.4: poly(A)-specific ribonuclease
+EC 3.1.13.5: ribonuclease DEC 3.1.14.1: yeast ribonucleaseEC 3.1.15.1: venom exonucleaseEC 3.1.16.1: spleen exonucleaseEC 3.1.21.1: deoxyribonuclease I
+EC 3.1.21.2: deoxyribonuclease IV
+EC 3.1.21.3: type I site-specific deoxyribonuclease
+EC 3.1.21.4: type II site-specific deoxyribonuclease
+EC 3.1.21.5: type III site-specific deoxyribonuclease
+EC 3.1.21.6: CC-preferring endodeoxyribonuclease
+EC 3.1.21.7: deoxyribonuclease V
+EC 3.1.21.8: T4 deoxyribonuclease II *
+EC 3.1.21.9: T4 deoxyribonuclease IV *
+EC 3.1.21.10: crossover junction endodeoxyribonuclease **No Wikipedia articleEC 3.1.22.1: deoxyribonuclease II
+EC 3.1.22.2: Aspergillus deoxyribonuclease K1
+EC 3.1.22.3: now EC 3.1.21.7
+EC 3.1.22.4: crossover junction endodeoxyribonuclease
+EC 3.1.22.5: deoxyribonuclease XDeleted sub-subclasses.
+EC 3.1.25.1: deoxyribonuclease (pyrimidine dimer)
+EC 3.1.25.2: Now EC 4.2.99.18, DNA-(apurinic or apyrimidinic site) lyaseEC 3.1.26.1: Physarum polycephalum ribonuclease
+EC 3.1.26.2: ribonuclease α
+EC 3.1.26.3: ribonuclease III
+EC 3.1.26.4: ribonuclease H
+EC 3.1.26.5: ribonuclease P
+EC 3.1.26.6: ribonuclease IV
+EC 3.1.26.7: ribonuclease P4
+EC 3.1.26.8: ribonuclease M5
+EC 3.1.26.9: ribonuclease (poly-(U)-specific)
+EC 3.1.26.10: ribonuclease IX
+EC 3.1.26.11: tRNase Z
+EC 3.1.26.12: ribonuclease E
+EC 3.1.26.13: retroviral ribonuclease HEC 3.1.27.1: Now EC 4.6.1.19, ribonuclease T2, since the primary reaction is that of a lyase
+EC 3.1.27.2: Now EC 4.6.1.22, Bacillus subtilis ribonuclease, since the reaction catalysed is that of a lyase
+EC 3.1.27.3: Now EC 4.6.1.24, ribonuclease T1, since the primary reaction is that of a lyase
+EC 3.1.27.4: Now EC 4.6.1.20, ribonuclease U2, since the primary reaction is that of a lyase
+EC 3.1.27.5: Now EC 4.6.1.18, pancreatic ribonuclease.
+EC 3.1.27.6: Now EC 4.6.1.21, Enterobacter ribonuclease, since the primary reaction is that of a lyase
+EC 3.1.27.7: ribonuclease F
+EC 3.1.27.8: ribonuclease V
+EC 3.1.27.9: Now EC 4.6.1.16, tRNA-intron lyase
+EC 3.1.27.10: Now EC 4.6.1.23, ribotoxin,EC 3.1.30.1: Aspergillus nuclease S1
+EC 3.1.30.2: Serratia marcescens nucleaseEC 3.1.31.1: micrococcal nucleaseEC 3.2.1.1: α-amylase
+EC 3.2.1.2: β-amylase
+EC 3.2.1.3: glucan 1,4-α-glucosidase
+EC 3.2.1.4: cellulase
+EC 3.2.1.5: deleted
+EC 3.2.1.6: endo-1,3(4)-β-glucanase
+EC 3.2.1.7: inulinase
+EC 3.2.1.8: endo-1,4-β-xylanase
+EC 3.2.1.9: deleted
+EC 3.2.1.10: oligo-1,6-glucosidase
+EC 3.2.1.11: dextranase
+EC 3.2.1.12: Now included with EC 3.2.1.54 cyclomaltodextrinase
+EC 3.2.1.13: Now included with EC 3.2.1.54 cyclomaltodextrinase
+EC 3.2.1.14: chitinase
+EC 3.2.1.15: polygalacturonase
+EC 3.2.1.16: deleted
+EC 3.2.1.17: lysozyme
+EC 3.2.1.18: exo-α-sialidase
+EC 3.2.1.19: deleted
+EC 3.2.1.20: α-glucosidase
+EC 3.2.1.21: β-glucosidase
+EC 3.2.1.22: α-galactosidase
+EC 3.2.1.23: β-galactosidase
+EC 3.2.1.24: α-mannosidase
+EC 3.2.1.25: β-mannosidase
+EC 3.2.1.26: β-fructofuranosidase
+EC 3.2.1.27: deleted
+EC 3.2.1.28: α,α-trehalase
+EC 3.2.1.29: Now included with EC 3.2.1.52, β-N-acetylhexosaminidase
+EC 3.2.1.30: N-acetyl-β-d-glucosaminidase
+EC 3.2.1.31: β-glucuronidase
+EC 3.2.1.32: endo-1,3-β-xylanase
+EC 3.2.1.33: amylo-α-1,6-glucosidase
+EC 3.2.1.34: Now included with EC 3.2.1.35 hyalurononglucosaminidase
+EC 3.2.1.35: hyaluronoglucosaminidase
+EC 3.2.1.36: hyaluronoglucuronidase
+EC 3.2.1.37: xylan 1,4-β-xylosidase
+EC 3.2.1.38: β-D-fucosidase
+EC 3.2.1.39: glucan endo-1,3-β-D-glucosidase
+EC 3.2.1.40: α-L-rhamnosidase
+EC 3.2.1.41: pullulanase
+EC 3.2.1.42: GDP-glucosidase
+EC 3.2.1.43: β-L-rhamnosidase
+EC 3.2.1.44: Now EC 3.2.1.211, endo-(13)-fucoidanase and EC 3.2.1.212, endo-(14)-fucoidanase
+EC 3.2.1.45: glucosylceramidase
+EC 3.2.1.46: galactosylceramidase
+EC 3.2.1.47: Now known to be catalyzed by EC 3.2.1.22, α-galactosidase
+EC 3.2.1.48: sucrose α-glucosidase
+EC 3.2.1.49: α-N-acetylgalactosaminidase
+EC 3.2.1.50: α-N-acetylglucosaminidase
+EC 3.2.1.51: α-L-fucosidase
+EC 3.2.1.52: β-N-acetylhexosaminidase
+EC 3.2.1.53: β-N-acetylgalactosaminidase
+EC 3.2.1.54: cyclomaltodextrinase
+EC 3.2.1.55: non-reducing end α-L-arabinofuranosidase
+EC 3.2.1.56: glucuronosyl-disulfoglucosamine glucuronidase
+EC 3.2.1.57: isopullulanase
+EC 3.2.1.58: glucan 1,3-b-glucosidase
+EC 3.2.1.59: glucan endo-1,3-α-glucosidase
+EC 3.2.1.60: glucan 1,4-α-maltotetraohydrolase
+EC 3.2.1.61: mycodextranase
+EC 3.2.1.62: glycosylceramidase
+EC 3.2.1.63: 1,2-α-L-fucosidase
+EC 3.2.1.64: 2,6-β-fructan 6-levanbiohydrolase
+EC 3.2.1.65: levanase
+EC 3.2.1.66: quercitrinase
+EC 3.2.1.67: galacturan 1,4-a-galacturonidase
+EC 3.2.1.68: isoamylase
+{{EC number|3.2.1.69: Now included with EC 3.2.1.41 pullulanase
+EC 3.2.1.70: glucan 1,6-α-glucosidase
+EC 3.2.1.71: glucan endo-1,2-β-glucosidase
+EC 3.2.1.72: xylan 1,3-β-xylosidase
+EC 3.2.1.73: licheninase
+EC 3.2.1.74: glucan 1,4-β-glucosidase
+EC 3.2.1.75: glucan endo-1,6-β-glucosidase
+EC 3.2.1.76: L-iduronidase
+EC 3.2.1.77: mannan 1,2-(1,3)-α-mannosidase
+EC 3.2.1.78: mannan endo-1,4-β-mannosidase
+EC 3.2.1.79: Now included with EC 3.2.1.55 α-N-arabinofuranosidase
+EC 3.2.1.80: fructan β-fructosidase
+EC 3.2.1.81: β-agarase
+EC 3.2.1.82: exo-poly-α-digalacturonosidas
+EC 3.2.1.83: κ-carrageenase
+EC 3.2.1.84: glucan 1,3-α-glucosidase
+EC 3.2.1.85: 6-phospho-β-galactosidase
+EC 3.2.1.86: 6-phospho-β-glucosidase
+EC 3.2.1.87: capsular-polysaccharide endo-1,3-α-galactosidase
+EC 3.2.1.88: non-reducing end β-L-arabinopyranosidase
+EC 3.2.1.89: arabinogalactan endo-β-1,4-galactanase
+EC 3.2.1.90: Deleted, not sufficiently characterised.
+EC 3.2.1.91: cellulose 1,4-β-cellobiosidase (non-reducing end)
+EC 3.2.1.92: peptidoglycan β-N-acetylmuramidase
+EC 3.2.1.93: α,α-phosphotrehalase
+EC 3.2.1.94: glucan 1,6-α-isomaltosidase
+EC 3.2.1.95: dextran 1,6-α-isomaltotriosidase
+EC 3.2.1.96: mannosyl-glycoprotein endo-β-N-acetylglucosaminidase
+EC 3.2.1.97: endo-α-N-acetylgalactosaminidase
+EC 3.2.1.98: glucan 1,4-α-maltohexaosidase
+EC 3.2.1.99: arabinan endo-1,5-α-L-arabinanase
+EC 3.2.1.100: mannan 1,4-mannobiosidase
+EC 3.2.1.101: mannan endo-1,6-α-mannosidase
+EC 3.2.1.102: blood-group-substance endo-1,4-β-galactosidase
+EC 3.2.1.103: keratan-sulfate endo-1,4-β-galactosidase
+EC 3.2.1.104: steryl-β-glucosidase
+EC 3.2.1.105: 3α(S)-strictosidine β-glucosidase
+EC 3.2.1.106: mannosyl-oligosaccharide glucosidase
+EC 3.2.1.107: protein-glucosylgalactosylhydroxylysine glucosidase
+EC 3.2.1.108: lactase
+EC 3.2.1.109: endogalactosaminidase
+EC 3.2.1.110: identical to EC 3.2.1.97, glycopeptide α-N-acetylgalactosaminidase
+EC 3.2.1.111: 1,3-α-L-fucosidase
+EC 3.2.1.112: 2-deoxyglucosidase
+EC 3.2.1.113: mannosyl-oligosaccharide 1,2-α-mannosidase
+EC 3.2.1.114: mannosyl-oligosaccharide 1,3-1,6-α-mannosidas
+EC 3.2.1.115: branched-dextran exo-1,2-α-glucosidase
+EC 3.2.1.116: glucan 1,4-α-maltotriohydrolase
+EC 3.2.1.117: amygdalin β-glucosidase
+EC 3.2.1.118: prunasin β-glucosidase
+EC 3.2.1.119: vicianin β-glucosidase
+EC 3.2.1.120: oligoxyloglucan β-glycosidase
+EC 3.2.1.121: polymannuronate hydrolase
+EC 3.2.1.122: maltose-6′-phosphate glucosidase
+EC 3.2.1.123: endoglycosylceramidase
+EC 3.2.1.124: 3-deoxy-2-octulosonidase
+EC 3.2.1.125: raucaffricine β-glucosidase
+EC 3.2.1.126: coniferin β-glucosidase
+EC 3.2.1.127: 1,6-α-L-fucosidase
+EC 3.2.1.128: glycyrrhizin hydrolase
+EC 3.2.1.129: endo-α-sialidase
+EC 3.2.1.130: glycoprotein endo-α-1,2-mannosidase
+EC 3.2.1.131: xylan α-1,2-glucuronosidase
+EC 3.2.1.132: chitosanase
+EC 3.2.1.133: glucan 1,4-α-maltohydrolase
+EC 3.2.1.134: difructose-anhydride synthase
+EC 3.2.1.135: neopullulanase
+EC 3.2.1.136: glucuronoarabinoxylan endo-1,4-β-xylanase
+EC 3.2.1.137: mannan exo-1,2-1,6-α-mannosidase
+EC 3.2.1.138: Now EC 4.2.2.15, anhydrosialidase
+EC 3.2.1.139: α-glucuronidase
+EC 3.2.1.140: lacto-N-biosidase
+EC 3.2.1.141: 4-α-D-{(1→4)-α-D-glucano}trehalose trehalohydrolase
+EC 3.2.1.142: limit dextrinase
+EC 3.2.1.143: poly(ADP-ribose) glycohydrolase
+EC 3.2.1.144: 3-deoxyoctulosonase
+EC 3.2.1.145: galactan 1,3-β-galactosidase
+EC 3.2.1.146: β-galactofuranosidase
+EC 3.2.1.147: thioglucosidase
+EC 3.2.1.148: The activity is most probably attributable to EC 4.4.1.21, S-ribosylhomocysteine lyase
+EC 3.2.1.149: β-primeverosidase
+EC 3.2.1.150: oligoxyloglucan reducing-end-specific cellobiohydrolase
+EC 3.2.1.151: xyloglucan-specific endo-β-1,4-glucanase
+EC 3.2.1.152: mannosylglycoprotein endo-β-mannosidase
+EC 3.2.1.153: fructan β-(2,1)-fructosidase
+EC 3.2.1.154: fructan β-(2,6)-fructosidase
+EC 3.2.1.155: xyloglucan-specific endo-processive β-1,4-glucanase
+EC 3.2.1.156: oligosaccharide reducing-end xylanase
+EC 3.2.1.157: ι-carrageenase
+EC 3.2.1.158: α-agarase
+EC 3.2.1.159: α-neoagaro-oligosaccharide hydrolase
+EC 3.2.1.160: identical to EC 3.2.1.155, xyloglucan-specific exo-β-1,4-glucanase
+EC 3.2.1.161: β-apiosyl-β-glucosidase
+EC 3.2.1.162: λ-carrageenase
+EC 3.2.1.163: 1,6-α-D-mannosidase
+EC 3.2.1.164: galactan endo-1,6-β-galactosidase
+EC 3.2.1.165: exo-1,4-β-D-glucosaminidase
+EC 3.2.1.166: heparanase
+EC 3.2.1.167: baicalin-β-D-glucuronidase
+EC 3.2.1.168: hesperidin 6-O-α-L-rhamnosyl-β-D-glucosidase
+EC 3.2.1.169: protein O-GlcNAcas
+EC 3.2.1.170: mannosylglycerate hydrolase
+EC 3.2.1.171: rhamnogalacturonan hydrolase
+EC 3.2.1.172: unsaturated rhamnogalacturonyl hydrolase
+EC 3.2.1.173: rhamnogalacturonan galacturonohydrolase
+EC 3.2.1.174: rhamnogalacturonan rhamnohydrolase
+EC 3.2.1.175: β-D-glucopyranosyl abscisate β-glucosidase
+EC 3.2.1.176: cellulose 1,4-β-cellobiosidase (reducing end)
+EC 3.2.1.177: α-D-xyloside xylohydrolase
+EC 3.2.1.178: β-porphyranase
+EC 3.2.1.179: gellan tetrasaccharide unsaturated glucuronyl hydrolase
+EC 3.2.1.180: unsaturated chondroitin disaccharide hydrolase
+EC 3.2.1.181: galactan endo-β-1,3-galactanase
+EC 3.2.1.182: 4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl glucoside β-D-glucosidase
+EC 3.2.1.183: UDP-N-acetylglucosamine 2-epimerase (hydrolysing)
+EC 3.2.1.184: UDP-N,N′-diacetylbacillosamine 2-epimerase (hydrolysing)
+EC 3.2.1.185: non-reducing end β-L-arabinofuranosidase *
+EC 3.2.1.186: protodioscin 26-O-β-D-glucosidase *
+EC 3.2.1.187: (Ara-f)3-Hyp β-L-arabinobiosidase *
+EC 3.2.1.188: avenacosidase *
+EC 3.2.1.189: dioscin glycosidase (diosgenin-forming) *
+EC 3.2.1.190: dioscin glycosidase (3-O-β-D-Glc-diosgenin-forming) *
+EC 3.2.1.191: ginsenosidase type III *
+EC 3.2.1.192: ginsenoside Rb1 β-glucosidase *
+EC 3.2.1.193: ginsenosidase type I *
+EC 3.2.1.194: ginsenosidase type IV *
+EC 3.2.1.195: 20-O-multi-glycoside ginsenosidase *
+EC 3.2.1.196: limit dextrin α-1,6-maltotetraose-hydrolase *
+EC 3.2.1.197: β-1,2-mannosidase *
+EC 3.2.1.198: α-mannan endo-1,2-α-mannanase *
+EC 3.2.1.199: sulfoquinovosidase *
+EC 3.2.1.200: exo-chitinase (non-reducing end) *
+EC 3.2.1.201: exo-chitinase (reducing end) *
+EC 3.2.1.202: endo-chitodextinase *
+EC 3.2.1.203: carboxymethylcellulase *
+EC 3.2.1.204: 1,3-α-isomaltosidase *
+EC 3.2.1.205: isomaltose glucohydrolase *
+EC 3.2.1.206: oleuropein β-glucosidase *
+EC 3.2.1.207: mannosyl-oligosaccharide α-1,3-glucosidase *
+EC 3.2.1.208: glucosylglycerate hydrolase *
+EC 3.2.1.209: endoplasmic reticulum Man9GlcNAc2 1,2-α-mannosidase *
+EC 3.2.1.210: endoplasmic reticulum Man8GlcNAc2 1,2-α-mannosidase *
+EC 3.2.1.211: endo-(1→3)-fucoidanase *
+EC 3.2.1.212: endo-(1→4)-fucoidanase *
+EC 3.2.1.213: galactan exo-1,6-β-galactobiohydrolase (non-reducing end) *
+EC 3.2.1.214: exo β-1,2-glucooligosaccharide sophorohydrolase (non-reducing end) **No Wikipedia articleEC 3.2.2.1: purine nucleosidase
+EC 3.2.2.2: inosine nucleosidase
+EC 3.2.2.3: uridine nucleosidase
+EC 3.2.2.4: AMP nucleosidase
+EC 3.2.2.5: NAD glycohydrolase
+EC 3.2.2.6: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase
+EC 3.2.2.7: adenosine nucleosidase
+EC 3.2.2.8: ribosylpyrimidine nucleosidase
+EC 3.2.2.9: adenosylhomocysteine nucleosidase
+EC 3.2.2.10: pyrimidine-5′-nucleotide nucleosidase
+EC 3.2.2.11: β-aspartyl-N-acetylglucosaminidase
+EC 3.2.2.12: inosinate nucleosidase
+EC 3.2.2.13: 1-methyladenosine nucleosidase
+EC 3.2.2.14: NMN nucleosidase
+EC 3.2.2.15: DNA-deoxyinosine glycosylase
+EC 3.2.2.16: methylthioadenosine nucleosidase
+EC 3.2.2.17: deoxyribodipyrimidine endonucleosidase
+EC 3.2.2.18: Now included with EC 3.5.1.52, peptide-N-(N-acetyl-β-glucosaminyl)asparagine amidase
+EC 3.2.2.19: ADP-ribosylarginine hydrolase
+EC 3.2.2.20: DNA-3-methyladenine glycosylase I
+EC 3.2.2.21: DNA-3-methyladenine glycosylase II, MAG1
+EC 3.2.2.22: rRNA 'N-glycosylase
+EC 3.2.2.23: DNA-formamidopyrimidine glycosylase
+EC 3.2.2.24:  ADP-ribosyl-[dinitrogen reductase] hydrolase
+EC 3.2.2.25: N-methyl nucleosidase
+EC 3.2.2.26: futalosine hydrolase
+EC 3.2.2.27: uracil-DNA glycosylase
+EC 3.2.2.28: double-stranded uracil-DNA glycosylase
+EC 3.2.2.29: thymine-DNA glycosylase
+EC 3.2.2.30: aminodeoxyfutalosine nucleosidase *
+EC 3.2.2.31: adenine glycosylase **No Wikipedia articleDeleted sub-subclass
+EC 3.3.1.1: adenosylhomocysteinase
+EC 3.3.1.2: S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+EC 3.3.1.3: The activity is most probably attributable to EC 4.4.1.21, S-ribosylhomocysteine lyaseEC 3.3.2.1: isochorismatase
+EC 3.3.2.2: alkenylglycerophosphocholine hydrolase
+EC 3.3.2.3}}: Now known to comprise two enzymes, microsomal epoxide hydrolase (EC 3.3.2.9) and soluble epoxide hydrolase (EC 3.3.2.10)
+EC 3.3.2.4: trans-epoxysuccinate hydrolase
+EC 3.3.2.5: Now included in EC 3.3.2.2, lysoplasmalogenase
+EC 3.3.2.6: [[leukotriene-A4 hydrolase leukotriene-A4 hydrolase]]
+EC 3.3.2.7: hepoxilin-epoxide hydrolase
+EC 3.3.2.8: limonene-1,2-epoxide hydrolase
+EC 3.3.2.9: microsomal epoxide hydrolase
+EC 3.3.2.10: soluble epoxide hydrolase
+EC 3.3.2.11: cholesterol-5,6-oxide hydrolase
+EC 3.3.2.12: oxepin-CoA hydrolase *
+EC 3.3.2.13: chorismatase *
+EC 3.3.2.14: 2,4-dinitroanisole O-demethylase *
+EC 3.3.2.15: trans-2,3-dihydro-3-hydroxyanthranilic acid synthase **No Wikipedia articleEC 3.4.1.1: Now EC 3.4.11.1, leucyl aminopeptidase
+EC 3.4.1.2: Now EC 3.4.11.2, membrane alanyl aminopeptidase
+EC 3.4.1.3: Now EC 3.4.11.4, tripeptide aminopeptidase
+EC 3.4.1.4: Now EC 3.4.11.5, prolyl aminopeptidaseEC 3.4.2.1: Now EC 3.4.17.1, carboxypeptidase A
+EC 3.4.2.2: Now EC 3.4.17.2, carboxypeptidase B
+EC 3.4.2.3: Now EC 3.4.17.4, Gly-Xaa carboxypeptidaseEC 3.4.3.1: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.3.2: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.3.3: Now EC 3.4.13.3, Xaa-His dipeptidase
+EC 3.4.3.4: Now EC 3.4.13.5, Xaa-methyl-His dipeptidase
+EC 3.4.3.5: Now EC 3.4.11.2, membrane alanyl aminopeptidase
+EC 3.4.3.6: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.3.7: Now EC 3.4.13.9, Xaa-Pro dipeptidaseEC 3.4.4.1:  Now EC 3.4.23.1, pepsin A
+EC 3.4.4.2:  Now EC 3.4.23.2, pepsin B
+EC 3.4.4.3:  Now EC 3.4.23.4, chymosin
+EC 3.4.4.4: Now EC 3.4.21.4, trypsin
+EC 3.4.4.5:  Now EC 3.4.21.1, chymotrypsin
+EC 3.4.4.6:  Now EC 3.4.21.1, chymotrypsin
+EC 3.4.4.7:  Now covered by EC 3.4.21.36, pancreatic elastase and EC 3.4.21.37, leukocyte elastase
+EC 3.4.4.8:  Now EC 3.4.21.9, enteropeptidase
+EC 3.4.4.9:  Now EC 3.4.14.1, dipeptidyl-peptidase I
+EC 3.4.4.10:  Now EC 3.4.22.2, papain
+EC 3.4.4.11:  Now EC 3.4.22.6, chymopapain
+EC 3.4.4.12:  Now EC 3.4.22.3, ficain
+EC 3.4.4.13:  Now EC 3.4.21.5, thrombin
+EC 3.4.4.14:  Now EC 3.4.21.7, plasmin
+EC 3.4.4.15:  Now EC 3.4.23.15, renin
+EC 3.4.4.16:  Now covered by the microbial serine proteinases EC 3.4.21.62 (subtilisin), EC 3.4.21.63 (oryzin), EC 3.4.21.64 (endopeptidase K), EC 3.4.21.65 (thermomycolin), EC 3.4.21.66 (thermitase) and EC 3.4.21.67 (ndopeptidase So)
+EC 3.4.4.17:  Now covered by the microbial aspartic proteinases EC 3.4.23.20 (penicillopepsin), EC 3.4.23.21 (rhizopuspepsin), EC 3.4.23.22 (endothiapepsin), EC 3.4.23.23 (mucorpepsin), EC 3.4.23.24 (candidapepsin), EC 3.4.23.25 (saccharopepsin), EC 3.4.23.26 (rhodotorulapepsin), EC 3.4.21.103 (physarolisin), EC 3.4.23.28 (acrocylindropepsin), EC 3.4.23.29 (polyporopepsin) and EC 3.4.23.30 (pycnoporopepsin)
+EC 3.4.4.18:  Now EC 3.4.22.10, streptopain
+EC 3.4.4.19:  Now EC 3.4.24.3, microbial collagenase
+EC 3.4.4.20:  Now EC 3.4.22.8, clostripain
+EC 3.4.4.21:  Now EC 3.4.21.34 (plasma kallikrein) and EC 3.4.21.35 (tissue kallikrein)
+EC 3.4.4.22: now EC 3.4.23.3, gastricsin
+EC 3.4.4.23: now EC 3.4.23.5, cathepsin D
+EC 3.4.4.24: now covered by EC 3.4.22.32 (stem bromelain) and EC 3.4.22.33 (fruit bromelain)
+EC 3.4.4.25:  deletedEC 3.4.11.1: leucyl aminopeptidase
+EC 3.4.11.2: membrane alanyl aminopeptidase
+EC 3.4.11.3: cystinyl aminopeptidase
+EC 3.4.11.4: tripeptide aminopeptidase
+EC 3.4.11.5: prolyl aminopeptidase
+EC 3.4.11.6: aminopeptidase B
+EC 3.4.11.7: glutamyl aminopeptidase
+EC 3.4.11.8: Now EC 3.4.19.3, pyroglutamyl-peptidase I
+EC 3.4.11.9: Xaa-Pro aminopeptidase
+EC 3.4.11.10: bacterial leucyl aminopeptidase
+EC 3.4.11.11: Deleted
+EC 3.4.11.12: Deleted
+EC 3.4.11.13: Clostridial aminopeptidase
+EC 3.4.11.14: cytosol alanyl aminopeptidase
+EC 3.4.11.15: aminopeptidase Y
+EC 3.4.11.16: Xaa-Trp aminopeptidase
+EC 3.4.11.17: tryptophanyl aminopeptidase
+EC 3.4.11.18: methionyl aminopeptidase
+EC 3.4.11.19: D-stereospecific aminopeptidase
+EC 3.4.11.20: aminopeptidase Ey
+EC 3.4.11.21: aspartyl aminopeptidase
+EC 3.4.11.22: aminopeptidase I
+EC 3.4.11.23: PepB aminopeptidase
+EC 3.4.11.24: aminopeptidase S
+EC 3.4.11.25: β-peptidyl aminopeptidase
+EC 3.4.11.26: intermediate cleaving peptidase 55EC 3.4.12.1: now EC 3.4.16.5 (carboxypeptidase C) and EC 3.4.16.6 (carboxypeptidase D)
+EC 3.4.12.2: now EC 3.4.17.1, carboxypeptidase A
+EC 3.4.12.3: now EC 3.4.17.2, carboxypeptidase B
+EC 3.4.12.4: now EC 3.4.16.2, lysosomal Pro-Xaa carboxypeptidase
+EC 3.4.12.5: now EC 3.5.1.28, N-acetylmuramoyl-L-alanine amidase
+EC 3.4.12.6: now EC 3.4.17.8, muramoyl-pentapeptidase carboxypeptidase
+EC 3.4.12.7: now EC 3.4.17.3, lysine carboxypeptidase
+EC 3.4.12.8: now EC 3.4.17.4, Gly-Xaa carboxypeptidase
+EC 3.4.12.9: aspartate carboxypeptidase
+EC 3.4.12.10: now EC 3.4.19.9, γ-glutamyl hydrolase
+EC 3.4.12.11: now EC 3.4.17.6, alanine carboxypeptidase
+EC 3.4.12.12: now EC 3.4.16.5 (carboxypeptidase C) and EC 3.4.16.6 (carboxypeptidase D)
+EC 3.4.12.13: γ-glutamylglutamate carboxypeptidaseEC 3.4.13.1: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.13.2: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.13.3: The activity is covered by EC 3.4.13.18, cytosol nonspecific dipeptidase and EC 3.4.13.20, β-Ala-His dipeptidase.
+EC 3.4.13.4: Xaa-Arg dipeptidase
+EC 3.4.13.5: Xaa-methyl-His dipeptidase
+EC 3.4.13.6: Now EC 3.4.11.2, membrane alanyl aminopeptidase
+EC 3.4.13.7: Glu-Glu dipeptidase
+EC 3.4.13.8: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.13.9: Xaa-Pro dipeptidase
+EC 3.4.13.10: Now EC 3.4.19.5, β-aspartyl-peptidase
+EC 3.4.13.11: T Now EC 3.4.13.19, membrane dipeptidase
+EC 3.4.13.12: Met-Xaa dipeptidase
+EC 3.4.13.13: Now EC 3.4.13.3, Xaa-His dipeptidase
+EC 3.4.13.14: Deleted
+EC 3.4.13.15: Now EC 3.4.13.18, cytosol nonspecific dipeptidase
+EC 3.4.13.16: Deleted
+EC 3.4.13.17: non-stereospecific dipeptidase
+EC 3.4.13.18: cytosol nonspecific dipeptidase
+EC 3.4.13.19: membrane dipeptidase
+EC 3.4.13.20: β-Ala-His dipeptidase
+EC 3.4.13.21: dipeptidase E
+EC 3.4.13.22: D-Ala-D-Ala dipeptidase
+EC 3.4.13.23: cysteinylglycine-S-conjugate dipeptidase **No Wikipedia articleEC 3.4.14.1: dipeptidyl-peptidase I
+EC 3.4.14.2: dipeptidyl-peptidase II
+EC 3.4.14.3: Now EC 3.4.19.1, acylaminoacyl-peptidase
+EC 3.4.14.4: dipeptidyl-peptidase III
+EC 3.4.14.5: dipeptidyl-peptidase IV
+EC 3.4.14.6: dipeptidyl-dipeptidase
+EC 3.4.14.7: Deleted
+EC 3.4.14.8: Now EC 3.4.14.10, tripeptidyl-peptidase II
+EC 3.4.14.9: tripeptidyl-peptidase I
+EC 3.4.14.10: tripeptidyl-peptidase II
+EC 3.4.14.11: Xaa-Pro dipeptidyl-peptidase
+EC 3.4.14.12: Xaa-Xaa-Pro tripeptidyl-peptidase
+EC 3.4.14.13: γ-D-glutamyl-Llysine dipeptidyl-peptidase *
+EC 3.4.14.14: [mycofactocin precursor peptide] peptidase **No Wikipedia articleEC 3.4.15.1: peptidyl-dipeptidase A
+EC 3.4.15.2: Now EC 3.4.19.2, peptidyl-glycinamidase
+EC |3.4.15.3: Now EC 3.4.15.5, peptidyl-dipeptidase Dcp
+EC 3.4.15.4: Peptidyl-dipeptidase B
+EC 3.4.15.5: Peptidyl-dipeptidase Dcp
+EC 3.4.15.6: cyanophycinaseEC 3.4.16.1: Transferred entry: serine carboxypeptidase. Now EC 3.4.16.6, carboxypeptidase D
+EC 3.4.16.2: lysosomal Pro-Xaa carboxypeptidase
+EC 3.4.16.3: Now included with EC 3.4.16.5, carboxypeptidase C
+EC 3.4.16.4: serine-type D-Ala-D-Ala carboxypeptidase
+EC 3.4.16.5: carboxypeptidase C
+EC 3.4.16.6: carboxypeptidase DEC 3.4.17.1: carboxypeptidase A
+EC 3.4.17.2: carboxypeptidase B
+EC 3.4.17.3: lysine carboxypeptidase
+EC 3.4.17.4: Gly-Xaa carboxypeptidase
+EC 3.4.17.5: Deleted
+EC 3.4.17.6: alanine carboxypeptidase
+EC 3.4.17.7: Now EC 3.5.1.28, N-acetylmuramoyl-L-alanine amidase
+EC 3.4.17.8: muramoylpentapeptide carboxypeptidase
+EC 3.4.17.9: Now included with EC 3.4.17.4, Gly-Xaa carboxypeptidase
+EC 3.4.17.10: carboxypeptidase E
+EC 3.4.17.11: glutamate carboxypeptidase
+EC 3.4.17.12: carboxypeptidase M
+EC 3.4.17.13: Muramoyltetrapeptide carboxypeptidase
+EC 3.4.17.14: zinc D-Ala-D-Ala carboxypeptidase
+EC 3.4.17.15: carboxypeptidase A2
+EC 3.4.17.16: membrane Pro-Xaa carboxypeptidase
+EC 3.4.17.17: tubulinyl-Tyr carboxypeptidase
+EC 3.4.17.18: carboxypeptidase T
+EC 3.4.17.19: Carboxypeptidase Taq
+EC 3.4.17.20: carboxypeptidase U
+EC 3.4.17.21: Glutamate carboxypeptidase II
+EC 3.4.17.22: metallocarboxypeptidase D
+EC 3.4.17.23: angiotensin-converting enzyme 2
+EC 3.4.17.24: tubulin-glutamate carboxypeptidase **No Wikipedia articleEC 3.4.18.1: cathepsin XEC 3.4.19.1: acylaminoacyl-peptidase
+EC 3.4.19.2: peptidyl-glycinamidase
+EC 3.4.19.3: pyroglutamyl-peptidase I
+EC 3.4.19.4: Deleted
+EC 3.4.19.5: β-aspartyl-peptidase
+EC 3.4.19.6: pyroglutamyl-peptidase II
+EC 3.4.19.7: N-formylmethionyl-peptidase
+EC 3.4.19.8: now EC 3.4.17.21, glutamate carboxypeptidase II
+EC 3.4.19.9: folate γ-glutamyl hydrolase
+EC 3.4.19.10: Now EC 3.5.1.28, N-acetylmuramoyl-L-alanine amidase
+EC 3.4.19.11: γ-Dglutamyl-meso-diaminopimelate peptidase
+EC 3.4.19.12: ubiquitinyl hydrolase 1
+EC 3.4.19.13: glutathione γ-glutamate hydrolase
+EC 3.4.19.14: leukotriene-C4 hydrolase
+EC 3.4.19.15: desampylase *
+EC 3.4.19.16: glucosinolate γ-glutamyl hydrolase **No Wikipedia articleEC 3.4.21.1: chymotrypsin
+EC 3.4.21.2: chymotrypsin C
+EC 3.4.21.3: metridin
+EC 3.4.21.4: trypsin
+EC 3.4.21.5: thrombin
+EC 3.4.21.6: coagulation factor Xa
+EC 3.4.21.7: plasmin
+EC 3.4.21.8: Now EC 3.4.21.34 (plasma kallikrein) and EC 3.4.21.35 (tissue kallikrein
+EC 3.4.21.9: enteropeptidase
+EC 3.4.21.10: acrosin
+EC 3.4.21.11: Now EC 3.4.21.37, leukocyte elastase
+EC 3.4.21.12: α-lytic endopeptidase
+EC 3.4.21.13: Now EC 3.4.16.6, carboxypeptidase D
+EC 3.4.21.14: now EC 3.4.21.67 endopeptidase So
+EC 3.4.21.15: Now EC 3.4.21.63, oryzin
+EC 3.4.21.16: Deleted
+EC 3.4.21.17: Deleted
+EC 3.4.21.18: Deleted
+EC 3.4.21.19: glutamyl endopeptidase
+EC 3.4.21.20: cathepsin G
+EC 3.4.21.21: coagulation factor VIIa
+EC 3.4.21.22: coagulation factor IXa
+EC 3.4.21.23: Deleted
+EC 3.4.21.24: Deleted
+EC 3.4.21.25: cucumisin
+EC 3.4.21.26: prolyl oligopeptidase
+EC 3.4.21.27: coagulation factor XIa
+EC 3.4.21.28: Now EC 3.4.21.74, venombin A
+EC 3.4.21.29: Now EC 3.4.21.74, venombin A
+EC 3.4.21.30: Now EC 3.4.21.74, venombin A
+EC 3.4.21.31:  Now EC 3.4.21.73, u-plasminogen activator
+EC 3.4.21.32: brachyurin
+EC 3.4.21.33: Deleted
+EC 3.4.21.34: plasma kallikrein
+EC 3.4.21.35: tissue kallikrein
+EC 3.4.21.36: pancreatic elastase
+EC 3.4.21.37: leukocyte elastase
+EC 3.4.21.38: coagulation factor XIIa
+EC 3.4.21.39: chymase
+EC 3.4.21.40: Deleted
+EC 3.4.21.41: Complement subcomponent C
+EC 3.4.21.42: complement subcomponent C
+EC 3.4.21.43: classical-complement-pathway C3/C5 convertase
+EC 3.4.21.44: Now EC 3.4.21.43, classical-complement-pathway C3/C5 convertase
+EC 3.4.21.45: complement factor I
+EC 3.4.21.46: complement factor D
+EC 3.4.21.47: alternative-complement-pathway C3/C5 convertase
+EC 3.4.21.48: cerevisin
+EC 3.4.21.49: hypodermin C
+EC 3.4.21.50: lysyl endopeptidase
+EC 3.4.21.51: Deleted
+EC 3.4.21.52: Deleted
+EC 3.4.21.53: edopeptidase La
+EC 3.4.21.54: γ-renin
+EC 3.4.21.55: venombin AB
+EC 3.4.21.56: Now considered to be EC 3.4.21.25, cucumisin
+EC 3.4.21.57: leucyl endopeptidase
+EC 3.4.21.58: Deleted
+EC 3.4.21.59: tryptase
+EC 3.4.21.60: scutelarin
+EC 3.4.21.61: kexin
+EC 3.4.21.62: subtilisin
+EC 3.4.21.63: oryzin
+EC 3.4.21.64: endopeptidase K
+EC 3.4.21.65: thermomycolin
+EC 3.4.21.66: thermitase
+EC 3.4.21.67: endopeptidase So
+EC 3.4.21.68: t-plasminogen activator
+EC 3.4.21.69: protein C (activated)
+EC 3.4.21.70: pancreatic endopeptidase E
+EC 3.4.21.71: pancreatic elastase II
+EC 3.4.21.72: IgA-specific serine endopeptidase
+EC 3.4.21.73: u-plasminogen activator
+EC 3.4.21.74: venombin A
+EC 3.4.21.75: furin
+EC 3.4.21.76: myeloblastin
+EC 3.4.21.77: semenogelase
+EC 3.4.21.78: granzyme A
+EC 3.4.21.79: granzyme B
+EC 3.4.21.80: streptogrisin A
+EC 3.4.21.81: streptogrisin B
+EC 3.4.21.82: glutamyl endopeptidase II
+EC 3.4.21.83: oligopeptidase B
+EC 3.4.21.84: limulus clotting factor C
+EC 3.4.21.85: limulus clotting factor B
+EC 3.4.21.86: limulus clotting enzyme
+EC 3.4.21.87: Now EC 3.4.23.49, omptin
+EC 3.4.21.88: repressor LexA
+EC 3.4.21.89: signal peptidase I
+EC 3.4.21.90: togavirin
+EC 3.4.21.91: flavivirin
+EC 3.4.21.92: endopeptidase Clp
+EC 3.4.21.93: proprotein convertase 1
+EC 3.4.21.94: proprotein convertase 2
+EC 3.4.21.95: snake venom factor V activator
+EC 3.4.21.96: lactocepin
+EC 3.4.21.97: assemblin
+EC 3.4.21.98: hepacivirin
+EC 3.4.21.99: spermosin
+EC 3.4.21.100: sedolisin
+EC 3.4.21.101: xanthomonalisin
+EC 3.4.21.102: C-terminal processing peptidase
+EC 3.4.21.103: physarolisin
+EC 3.4.21.104: mannan-binding lectin-associated serine protease-2
+EC 3.4.21.105: rhomboid protease
+EC 3.4.21.106: hepsin
+EC 3.4.21.107: peptidase Do
+EC 3.4.21.108: HtrA2 peptidase
+EC 3.4.21.109: matriptase
+EC 3.4.21.110: C5a peptidase
+EC 3.4.21.111: aqualysin 1
+EC 3.4.21.112: site-1 protease
+EC 3.4.21.113: pestivirus NS3 polyprotein peptidase
+EC 3.4.21.114: equine arterivirus serine peptidase
+EC 3.4.21.115: infectious pancreatic necrosis birnavirus Vp4 peptidase
+EC 3.4.21.116: SpoIVB peptidase
+EC 3.4.21.117: stratum corneum chymotryptic enzyme
+EC 3.4.21.118: kallikrein 8
+EC 3.4.21.119: kallikrein 13
+EC 3.4.21.120: oviductin
+EC 3.4.21.121: Lys-Lys/Arg-Xaa endopeptidase **No Wikipedia articleEC 3.4.22.1: cathepsin B
+EC 3.4.22.2: papain
+EC 3.4.22.3: ficain
+EC3.4.22.4: Now EC 3.4.22.32 (stem bromelain) and EC 3.4.22.33 (fruit bromelain)
+EC3.4.22.5: Now EC 3.4.22.32 (stem bromelain) and EC 3.4.22.33 (fruit bromelain)
+EC 3.4.22.6: chymopapain
+EC 3.4.22.7: asclepain
+EC 3.4.22.8: clostripain
+EC3.4.22.9: Now EC 3.4.21.48, cerevisin
+EC 3.4.22.10: streptopain
+EC3.4.22.11: Now EC 3.4.24.56, insulysin
+EC3.4.22.12: Now EC 3.4.19.9, γ-glutamyl hydrolase
+EC3.4.22.13: Deleted
+EC 3.4.22.14: actinidain
+EC 3.4.22.15: cathepsin L
+EC 3.4.22.16: cathepsin H
+EC3.4.22.17: Now EC 3.4.22.53, calpain-2
+EC3.4.22.18: Now EC 3.4.21.26, prolyl oligopeptidase
+EC3.4.22.19: Now EC 3.4.24.15, thimet oligopeptidase
+EC3.4.22.20: Deleted
+EC3.4.22.21: Now EC 3.4.25.1, proteasome endopeptidase complex
+EC3.4.22.22: Now EC 3.4.24.37, saccharolysin
+EC3.4.22.23: Now EC 3.4.21.61, kexin
+EC 3.4.22.24: Cathepsin T
+EC 3.4.22.25: Glycyl endopeptidase
+EC 3.4.22.26: Cancer procoagulant
+EC 3.4.22.27: cathepsin S
+EC 3.4.22.28: picornain 3C
+EC 3.4.22.29: picornain 2A
+EC 3.4.22.30: Caricain
+EC 3.4.22.31: Ananain
+EC 3.4.22.32: Stem bromelain
+EC 3.4.22.33: Fruit bromelain
+EC 3.4.22.34: Legumain
+EC 3.4.22.35: Histolysain
+EC 3.4.22.36: caspase-1
+EC 3.4.22.37: Gingipain R
+EC 3.4.22.38: Cathepsin K
+EC 3.4.22.39: adenain
+EC 3.4.22.40: bleomycin hydrolase
+EC 3.4.22.41: cathepsin F
+EC 3.4.22.42: cathepsin O
+EC 3.4.22.43: cathepsin V
+EC 3.4.22.44: nuclear-inclusion-a endopeptidase
+EC 3.4.22.45: helper-component proteinase
+EC 3.4.22.46: L-peptidase
+EC 3.4.22.47: gingipain K
+EC 3.4.22.48: staphopain
+EC 3.4.22.49: separase
+EC 3.4.22.50: V-cath endopeptidase
+EC 3.4.22.51: cruzipain
+EC 3.4.22.52: calpain-1
+EC 3.4.22.53: calpain-2
+EC 3.4.22.54: calpain-3
+EC 3.4.22.55: caspase-2
+EC 3.4.22.56: caspase-3
+EC 3.4.22.57: caspase-4
+EC 3.4.22.58: caspase-5
+EC 3.4.22.59: caspase-6
+EC 3.4.22.60: caspase-7
+EC 3.4.22.61: caspase-8
+EC 3.4.22.62: caspase-9
+EC 3.4.22.63: caspase-10
+EC 3.4.22.64: caspase-11
+EC 3.4.22.65: peptidase 1 (mite)
+EC 3.4.22.66: calicivirin
+EC 3.4.22.67: zingipain
+EC 3.4.22.68: Ulp1 peptidase
+EC 3.4.22.69: SARS coronavirus main proteinase
+EC 3.4.22.70: sortase A
+EC 3.4.22.71: sortase BEC 3.4.23.1: pepsin A
+EC 3.4.23.2: pepsin B
+EC 3.4.23.3: gastricsin
+EC 3.4.23.4: chymosin
+EC 3.4.23.5: cathepsin D
+EC 3.4.23.6:  now EC 3.4.23.30 pycnoporopepsin
+EC 3.4.23.7: Now EC 3.4.23.20, penicillopepsin
+EC 3.4.23.8: Now EC 3.4.23.25, saccharopepsin
+EC 3.4.23.9: Now EC 3.4.23.21, rhizopuspepsin
+EC 3.4.23.10: Now EC 3.4.23.22, endothiapepsin
+EC 3.4.23.11: Deleted entry
+EC 3.4.23.12: nepenthesin
+EC 3.4.23.13: Deleted
+EC 3.4.23.14: Deleted
+EC 3.4.23.15: renin
+EC 3.4.23.16: HIV-1 retropepsin
+EC 3.4.23.17: pro-opiomelanocortin converting enzyme
+EC 3.4.23.18: aspergillopepsin I
+EC 3.4.23.19: aspergillopepsin II
+EC 3.4.23.20: penicillopepsin
+EC 3.4.23.21: rhizopuspepsin
+EC 3.4.23.22: endothiapepsin
+EC 3.4.23.23: mucorpepsin
+EC 3.4.23.24: candidapepsin
+EC 3.4.23.25: saccharopepsin
+EC 3.4.23.26: rhodotorulapepsin
+EC 3.4.23.27: Now EC 3.4.21.103, physarolisin
+EC 3.4.23.28: acrocylindropepsin
+EC 3.4.23.29: polyporopepsin
+EC 3.4.23.30: pycnoporopepsin
+EC 3.4.23.31: scytalidopepsin A
+EC 3.4.23.32: scytalidopepsin B
+EC 3.4.23.33: Now EC 3.4.21.101, xanthomonalisin
+EC 3.4.23.34: cathepsin E
+EC 3.4.23.35: barrierpepsin
+EC 3.4.23.36: signal peptidase II
+EC 3.4.23.37: Now EC 3.4.21.100, pseudomonalisin
+EC 3.4.23.38: plasmepsin I
+EC 3.4.23.39: plasmepsin II
+EC 3.4.23.40: phytepsin
+EC 3.4.23.41: yapsin 1
+EC 3.4.23.42: thermopsin
+EC 3.4.23.43: prepilin peptidase
+EC 3.4.23.44: nodavirus endopeptidase
+EC 3.4.23.45: memapsin 1
+EC 3.4.23.46: memapsin 2
+EC 3.4.23.47: HIV-2 retropepsin
+EC 3.4.23.48: plasminogen activator Pla
+EC 3.4.23.49: omptin
+EC 3.4.23.50: human endogenous retrovirus K endopeptidase
+EC 3.4.23.51: HycI peptidase
+EC 3.4.23.52: preflagellin peptidaseEC 3.4.24.1: atrolysin A
+EC 3.4.24.2: Deleted entry: Sepia proteinase
+EC 3.4.24.3: microbial collagenase
+EC 3.4.24.4: now EC 3.4.24.40 serralysin
+EC 3.4.24.5: Deleted entry: lens neutral proteinase. Now included with EC 3.4.22.53 (calpain-2) and EC 3.4.25.1 (proteasome endopeptidase complex)
+EC 3.4.24.6: leucolysin
+EC 3.4.24.7: interstitial collagenase
+EC 3.4.24.8: Transferred entry: Achromobacter iophagus collagenase. Now EC 3.4.24.3, microbial collagenase
+EC 3.4.24.9: Deleted entry: Trichophyton schoenleinii collagenase
+EC 3.4.24.10: Deleted entry: Trichophyton mentagrophytes keratinase
+EC 3.4.24.11: neprilysin
+EC 3.4.24.12: envelysin
+EC 3.4.24.13: IgA-specific metalloendopeptidase
+EC 3.4.24.14: procollagen N-endopeptidase
+EC 3.4.24.15: thimet oligopeptidase
+EC 3.4.24.16: neurolysin
+EC 3.4.24.17: stromelysin 1
+EC 3.4.24.18: meprin A
+EC 3.4.24.19: procollagen C-endopeptidase
+EC 3.4.24.20: peptidyl-Lys metalloendopeptidase
+EC 3.4.24.21: astacin
+EC 3.4.24.22: stromelysin 2
+EC 3.4.24.23: matrilysin
+EC 3.4.24.24: gelatinase a
+EC 3.4.24.25: vibriolysin
+EC 3.4.24.26: pseudolysin
+EC 3.4.24.27: thermolysin
+EC 3.4.24.28: bacillolysin
+EC 3.4.24.29: aureolysin
+EC 3.4.24.30: coccolysin
+EC 3.4.24.31: mycolysin
+EC 3.4.24.32: β-lytic metalloendopeptidase
+EC 3.4.24.33: peptidyl-Asp metalloendopeptidase
+EC 3.4.24.34: neutrophil collagenase
+EC 3.4.24.35: gelatinase B
+EC 3.4.24.36: leishmanolysin
+EC 3.4.24.37: saccharolysin
+EC 3.4.24.38: gametolysin
+EC 3.4.24.39: deuterolysin
+EC 3.4.24.40: serralysin
+EC 3.4.24.41: atrolysin B
+EC 3.4.24.42: atrolysin C
+EC 3.4.24.43: atroxase
+EC 3.4.24.44: atrolysin E
+EC 3.4.24.45: atrolysin F
+EC 3.4.24.46: adamalysin
+EC 3.4.24.47: horrilysin
+EC 3.4.24.48: ruberlysin
+EC 3.4.24.49: bothropasin
+EC 3.4.24.50: bothrolysin
+EC 3.4.24.51: ophiolysin
+EC 3.4.24.52: trimerelysin I
+EC 3.4.24.53: trimerelysin II
+EC 3.4.24.54: mucrolysin
+EC 3.4.24.55: pitrilysin
+EC 3.4.24.56: insulysin
+EC 3.4.24.57: O-sialoglycoprotein endopeptidase
+EC 3.4.24.58: russellysin
+EC 3.4.24.59: mitochondrial intermediate peptidase
+EC 3.4.24.60: dactylysin
+EC 3.4.24.61: nardilysin
+EC 3.4.24.62: magnolysin
+EC 3.4.24.63: meprin B
+EC 3.4.24.64: mitochondrial processing peptidase
+EC 3.4.24.65: macrophage elastase
+EC 3.4.24.66: choriolysin L
+EC 3.4.24.67: choriolysin H
+EC 3.4.24.68: tentoxilysin
+EC 3.4.24.69: bontoxilysin
+EC 3.4.24.70: oligopeptidase A
+EC 3.4.24.71: endothelin-converting enzyme 1
+EC 3.4.24.72: fibrolase
+EC 3.4.24.73: jararhagin
+EC 3.4.24.74: fragilysin
+EC 3.4.24.75: lysostaphin
+EC 3.4.24.76: flavastacin
+EC 3.4.24.77: snapalysin
+EC 3.4.24.78: gpr endopeptidase
+EC 3.4.24.79: pappalysin-1
+EC 3.4.24.80: membrane-type matrix metalloproteinase-1
+EC 3.4.24.81: ADAM10 endopeptidase
+EC 3.4.24.82: ADAMTS-4 endopeptidase
+EC 3.4.24.83: anthrax lethal factor endopeptidase
+EC 3.4.24.84: Ste24 endopeptidase
+EC 3.4.24.85: S2P endopeptidase
+EC 3.4.24.86: ADAM 17 endopeptidase
+EC 3.4.24.87: ADAMTS13 endopeptidaseEC 3.4.25.1: proteasome endopeptidase complex
+EC 3.4.25.2: HslU—HslV peptidaseEC 3.4.99.1: acrocylindricum proteinase. Now EC 3.4.23.28, acrocylindropepsin
+EC 3.4.99.2: Deleted entry: agavain
+EC 3.4.99.3: Deleted entry: angiotensinase
+EC 3.4.99.4: Transferred entry: aspartylendopeptidase. Now EC 3.4.23.12, nepenthesin
+EC 3.4.99.5: Transferred entry: Clostridium histolyticum collagenase 2. Now EC 3.4.24.3, microbial collagenase
+EC 3.4.99.6: Transferred entry: crayfish low-molecular-weight proteinase. Now EC 3.4.24.21, astacin
+EC 3.4.99.7: Deleted entry: euphorbain
+EC 3.4.99.8: Deleted entry: Gliocladium proteinase
+EC 3.4.99.9: Deleted entry: hurain. Now considered EC 3.4.21.25, cucumisin
+EC 3.4.99.10: Transferred entry: insulinase. Now EC 3.4.24.56, insulysin
+EC 3.4.99.11: Deleted entry: Streptomyces alkalophilic keratinase
+EC 3.4.99.12: Deleted entry: Trichophyton mentagrophytes keratinase
+EC 3.4.99.13: Transferred entry: β-lytic proteinase (Mycobacterium sorangium). Now EC 3.4.24.32, β-lytic metalloendopeptidase
+EC 3.4.99.14: Deleted entry: mexicanain
+EC 3.4.99.15: Deleted entry: Paecilomyces proteinase
+EC 3.4.99.16: Deleted entry: Penicillium notatum extracellular proteinase
+EC 3.4.99.17: Deleted entry: peptidoglycan endopeptidase
+EC 3.4.99.18: Deleted entry: pinguinain
+EC 3.4.99.19: Transferred entry: renin. Now EC 3.4.23.15, renin
+EC 3.4.99.20: Deleted entry: scopulariopsis proteinase
+EC 3.4.99.21: Deleted entry: solanain. Now considered EC 3.4.21.25, cucumisin
+EC 3.4.99.22: Transferred entry: staphylokinase. Now EC 3.4.24.29, aureolysin
+EC 3.4.99.23: Deleted entry: tabernamontanain. Now considered EC 3.4.21.25, cucumisin
+EC 3.4.99.24: Deleted entry: Tenebrio α-proteinase
+EC 3.4.99.25: Transferred entry: trametes acid proteinase. Now EC 3.4.23.21, rhizopuspepsin
+EC 3.4.99.26: Transferred entry: urokinase. Now EC 3.4.21.68, t-plasminogen activator
+EC 3.4.99.27: Deleted entry: Echis carinatus prothrombin-activating proteinase
+EC 3.4.99.28: Transferred entry: Oxyuranus scutellatus prothrombin-activating proteinase. Now EC 3.4.21.60, scutelarin
+EC 3.4.99.29: Deleted entry: Myxobacter AL-1 proteinase I
+EC 3.4.99.30: Transferred entry: Myxobacter AL-1 proteinase II. Now EC 3.4.24.20, peptidyl-Lys metalloendopeptidase
+EC 3.4.99.31: Transferred entry: tissue endopeptidase degrading collagenase synthetic substrate. Now EC 3.4.24.15, thimet oligopeptidase
+EC 3.4.99.32: Transferred entry: Armillaria mellea neutral proteinase. Now EC 3.4.24.20, peptidyl-Lys metalloendopeptidase
+EC 3.4.99.33: Deleted entry: cathepsin R
+EC 3.4.99.34: Deleted entry: mytilidase
+EC 3.4.99.35: Transferred entry: premurein-leader peptidase. Now EC 3.4.23.36, signal peptidase II
+EC 3.4.99.36: Transferred entry: leader peptidase. Now EC 3.4.21.89, signal peptidase I
+EC 3.4.99.37: Deleted entry: RecA peptidase
+EC 3.4.99.38: Transferred entry: pro-opiomelanotropin-converting proteinase. Now EC 3.4.23.17, pro-opiomelanocortin converting enzyme
+EC 3.4.99.39: Deleted entry: pseudomurein endopeptidase
+EC 3.4.99.40: Deleted entry: pro-gonadoliberin proteinase
+EC 3.4.99.41: Transferred entry: mitochondrial processing peptidase. Now EC 3.4.24.64, mitochondrial processing peptidase
+EC 3.4.99.42: Deleted entry: leucyllysine endopeptidase
+EC 3.4.99.43: Transferred entry: thermopsin. Now EC 3.4.23.42, thermopsin
+EC 3.4.99.44: Transferred entry: pitrilysin. Now EC 3.4.24.55, pitrilysin
+EC 3.4.99.45: Transferred entry: insulinase. Now EC 3.4.24.56, insulysin
+EC 3.4.99.46: Transferred entry: multicatalytic endopeptidase complex. Now EC 3.4.25.1, proteasome endopeptidase complexEC 3.5.1.1: asparaginase
+EC 3.5.1.2: glutaminase
+EC 3.5.1.3: ω-amidase
+EC 3.5.1.4: amidase
+EC 3.5.1.5: urease
+EC 3.5.1.6: β-ureidopropionase
+EC 3.5.1.7: ureidosuccinase
+EC 3.5.1.8: formylaspartate deformylase
+EC 3.5.1.9: arylformamidase
+EC 3.5.1.10: formyltetrahydrofolate deformylase
+EC 3.5.1.11: penicillin amidase
+EC 3.5.1.12: biotinidase
+EC 3.5.1.13: aryl-acylamidase
+EC 3.5.1.14: N-acyl-aliphatic-L-amino acid amidohydrolase
+EC 3.5.1.15: aspartoacylase
+EC 3.5.1.16: acetylornithine deacetylase
+EC 3.5.1.17: acyl-lysine deacylase
+EC 3.5.1.18: succinyl-diaminopimelate desuccinylase
+EC 3.5.1.19: nicotinamidase
+EC 3.5.1.20: citrullinase
+EC 3.5.1.21: N-acetyl-β-alanine deacetylas
+EC 3.5.1.22: pantothenase
+EC 3.5.1.23: ceramidase
+EC 3.5.1.24: choloylglycine hydrolase
+EC 3.5.1.25: N-acetylglucosamine-6-phosphate deacetylase
+EC 3.5.1.26: N-(β-N-acetylglucosaminyl)-L-asparaginase
+EC 3.5.1.27: The activity is covered by EC 3.5.1.88, peptide deformylase
+EC 3.5.1.28: N-acetylmuramoyl-L-alanine amidase
+EC 3.5.1.29: 2-(acetamidomethylene)succinate hydrolase
+EC 3.5.1.30: 5-aminopentanamidase
+EC 3.5.1.31: formylmethionine deformylase
+EC 3.5.1.32: hippurate hydrolase
+EC 3.5.1.33: N-acetylglucosamine deacetylase
+EC 3.5.1.34: Identical with EC 3.4.13.5, Xaa-methyl-His dipeptidase
+EC 3.5.1.35: Dglutaminase
+EC 3.5.1.36: N-methyl-2-oxoglutaramate hydrolase
+EC 3.5.1.37: Delete, identical with EC 3.5.1.26 N-(β-N-acetylglucosaminyl)-L-asparaginase
+EC 3.5.1.38: glutamin-(asparagin-)ase
+EC 3.5.1.39: alkylamidase
+EC 3.5.1.40: acylagmatine amidase
+EC 3.5.1.41: chitin deacetylase
+EC 3.5.1.42: nicotinamide-nucleotide amidase
+EC 3.5.1.43: peptidyl-glutaminase
+EC 3.5.1.44: protein-glutamine glutaminase
+EC 3.5.1.45: Now listed only as EC 6.3.4.6 urea carboxylase
+EC 3.5.1.46: 6-aminohexanoate-dimer hydrolase
+EC 3.5.1.47: N-acetyldiaminopimelate deacetylase
+EC 3.5.1.48: acetylspermidine deacetylase
+EC 3.5.1.49: formamidase
+EC 3.5.1.50: pentanamidase
+EC 3.5.1.51: 4-acetamidobutyryl-CoA deacetylase
+EC 3.5.1.52: peptide-N-(N-acetyl-β-glucosaminyl)asparagine amidase
+EC 3.5.1.53: N-carbamoylputrescine amidase
+EC 3.5.1.54: allophanate hydrolase
+EC 3.5.1.55: long-chain-fatty-acyl-glutamate deacylase
+EC 3.5.1.56: N,N-dimethylformamidase
+EC 3.5.1.57: tryptophanamidase
+EC 3.5.1.58: N-benzyloxycarbonylglycine hydrolase
+EC 3.5.1.59: N-carbamoylsarcosine amidase
+EC 3.5.1.60: N-(long-chain-acyl)ethanolamine deacylase
+EC 3.5.1.61: mimosinase
+EC 3.5.1.62: acetylputrescine deacetylase
+EC 3.5.1.63: 4-acetamidobutyrate deacetylase
+EC 3.5.1.64: N-benzyloxycarbonylleucine hydrolase
+EC 3.5.1.65: theanine hydrolase
+EC 3.5.1.66: 2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase
+EC 3.5.1.67: 4-methyleneglutaminase
+EC 3.5.1.68: N-formylglutamate deformylase
+EC 3.5.1.69: glycosphingolipid deacylase
+EC 3.5.1.70: aculeacin-A deacylase
+EC 3.5.1.71: N-feruloylglycine deacylase
+EC 3.5.1.72: D-benzoylarginine-4-nitroanilide amidase
+EC 3.5.1.73: carnitinamidase
+EC 3.5.1.74: chenodeoxycholoyltaurine hydrolase
+EC 3.5.1.75: urethanase
+EC 3.5.1.76: arylalkyl acylamidase
+EC 3.5.1.77: N-carbamoyl-D-amino-acid hydrolase
+EC 3.5.1.78: glutathionylspermidine amidase
+EC 3.5.1.79: phthalyl amidase
+EC 3.5.1.80: Identical to EC 3.5.1.25, N-acetylglucosamine-6-phosphate deacetylase
+EC 3.5.1.81: N-acylD-amino-acid deacylase
+EC 3.5.1.82: N-acyl-D-glutamate deacylase
+EC 3.5.1.83: N-acyl-D-aspartate deacylase
+EC 3.5.1.84: biuret amidohydrolase
+EC 3.5.1.85: (S)-N-acetyl-1-phenylethylamine hydrolase
+EC 3.5.1.86: mandelamide amidase
+EC 3.5.1.87: N-carbamoyl-L-amino-acid hydrolase
+EC 3.5.1.88: peptide deformylase
+EC 3.5.1.89: N-acetylglucosaminylphosphatidylinositol deacetylase
+EC 3.5.1.90: adenosylcobinamide hydrolase
+EC 3.5.1.91: N-substituted formamide deformylase
+EC 3.5.1.92: pantetheine hydrolase
+EC 3.5.1.93: glutaryl-7-aminocephalosporanic-acid acylase
+EC 3.5.1.94: γ-glutamyl-γ-aminobutyrate hydrolase
+EC 3.5.1.95: N-malonylurea hydrolase
+EC 3.5.1.96: succinylglutamate desuccinylase
+EC 3.5.1.97: acyl-homoserine-lactone acylase
+EC 3.5.1.98: histone deacetylase
+EC 3.5.1.99: fatty acid amide hydrolase
+EC 3.5.1.100: (R)-amidase
+EC 3.5.1.101: L-proline amide hydrolase
+EC 3.5.1.102: 2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5′-monophosphate deformylase
+EC 3.5.1.103: N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-α-D 
+-glucopyranoside deacetylase
+EC 3.5.1.104: peptidoglycan-N-acetylglucosamine deacetylase
+EC 3.5.1.105: chitin disaccharide deacetylase
+EC 3.5.1.106: N-formylmaleamate deformylase
+EC 3.5.1.107: maleamate amidohydrolase
+EC 3.5.1.108: UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EC 3.5.1.109: sphingomyelin deacylase
+EC 3.5.1.110: ureidoacrylate amidohydrolase
+EC 3.5.1.111: 2-oxoglutaramate amidase
+EC 3.5.1.112: 2′-N-acetylparomamine deacetylase
+EC 3.5.1.113: 2′′′-acetyl-6′′′-hydroxyneomycin C deacetylase
+EC 3.5.1.114: N-acyl-aromatic-L-amino acid amidohydrolase *
+EC 3.5.1.115: mycothiol S-conjugate amidase *
+EC 3.5.1.116: ureidoglycolate amidohydrolase *
+EC 3.5.1.117: 6-aminohexanoate-oligomer endohydrolase *
+EC 3.5.1.118: γ-glutamyl hercynylcysteine S-oxide hydrolase *
+EC 3.5.1.119: Pup amidohydrolase *
+EC 3.5.1.120: Now EC 3.5.99.11, 2-aminomuconate deaminase (2-hydroxymuconate-forming)
+EC 3.5.1.121: protein N-terminal asparagine amidohydrolase *
+EC 3.5.1.122: protein N-terminal glutamine amidohydrolase *
+EC 3.5.1.123: γ-glutamylanilide hydrolase *
+EC 3.5.1.124: protein deglycase *
+EC 3.5.1.125: N-acetyl-L-2,4-diaminobutanoate deacetylase *
+EC 3.5.1.126: oxamate amidohydrolase *
+EC 3.5.1.127: jasmonoyl-L-amino acid hydrolase *
+EC 3.5.1.128: deaminated glutathione amidase *
+EC 3.5.1.129: N-(cytidine 5′-diphosphoramidyl)-L-glutamine hydrolase *
+EC 3.5.1.130: [amino group carrier protein]-lysine hydrolase *
+EC 3.5.1.131: 1-carboxybiuret hydrolase *
+EC 3.5.1.132: [amino group carrier protein]-ornithine hydrolase *
+EC 3.5.1.133: N-acyl-L-glutamine aminoacylase *
+EC 3.5.1.134: (indol-3-yl)acetyl-L-aspartate hydrolase *
+EC 3.5.1.135: N-acetylcytidine amidohydrolase *
+EC 3.5.1.136: N,N′-diacetylchitobiose non-reducing end deacetylase **No Wikipedia articleEC 3.5.2.1: barbiturase
+EC 3.5.2.2: dihydropyrimidinase
+EC 3.5.2.3: dihydroorotase
+EC 3.5.2.4: carboxymethylhydantoinase
+EC 3.5.2.5: allantoinase
+EC 3.5.2.6: β-lactamase
+EC 3.5.2.7: imidazolonepropionase
+EC 3.5.2.8: Now included with EC 3.5.2.6 β-lactamase
+EC 3.5.2.9: 5-oxoprolinase (ATP-hydrolysing)
+EC 3.5.2.10: creatininase
+EC 3.5.2.11: L-lysine-lactamase
+EC 3.5.2.12: 6-aminohexanoate-cyclic-dimer hydrolase
+EC 3.5.2.13: 2,5-dioxopiperazine hydrolase
+EC 3.5.2.14: N-methylhydantoinase (ATP-hydrolysing)
+EC 3.5.2.15: cyanuric acid amidohydrolase
+EC 3.5.2.16: maleimide hydrolase
+EC 3.5.2.17: hydroxyisourate hydrolase
+EC 3.5.2.18: enamidase
+EC 3.5.2.19: streptothricin hydrolase
+EC 3.5.2.20: isatin hydrolase **No Wikipedia articleEC 3.5.3.1: arginase
+EC 3.5.3.2: guanidinoacetase
+EC 3.5.3.3: creatinase
+EC 3.5.3.4: allantoicase
+EC 3.5.3.5: formimidoylaspartate deiminase
+EC 3.5.3.6: arginine deiminase
+EC 3.5.3.7: guanidinobutyrase
+EC 3.5.3.8: formimidoylglutamase
+EC 3.5.3.9: allantoate deiminase
+EC 3.5.3.10: D-arginase
+EC 3.5.3.11: agmatinase
+EC 3.5.3.12: agmatine deiminase
+EC 3.5.3.13: formimidoylglutamate deiminase
+EC 3.5.3.14: amidinoaspartase
+EC 3.5.3.15: protein-arginine deiminase
+EC 3.5.3.16: methylguanidinase
+EC 3.5.3.17: guanidinopropionase
+EC 3.5.3.18: dimethylargininase
+EC 3.5.3.19: Now EC 3.5.1.116, ureidoglycolate amidohydrolase
+EC 3.5.3.20: diguanidinobutanase
+EC 3.5.3.21: Methylenediurea deaminase
+EC 3.5.3.22: proclavaminate amidinohydrolase
+EC 3.5.3.23: N-succinylarginine dihydrolase
+EC 3.5.3.24: N-aminopropylagmatine ureohydrolase *
+EC 3.5.3.25: N-hydroxy-L-arginine amidinohydrolase *
+EC 3.5.3.26: (S)-ureidoglycine aminohydrolase **No Wikipedia articleEC 3.5.4.1: cytosine deaminase
+EC 3.5.4.2: adenine deaminase
+EC 3.5.4.3: guanine deaminase
+EC 3.5.4.4: adenosine deaminase
+EC 3.5.4.5: cytidine deaminase
+EC 3.5.4.6: AMP deaminase
+EC 3.5.4.7: ADP deaminase
+EC 3.5.4.8: aminoimidazolase
+EC 3.5.4.9: methenyltetrahydrofolate cyclohydrolase
+EC 3.5.4.10: IMP cyclohydrolase
+EC 3.5.4.11: pterin deaminase
+EC 3.5.4.12: dCMP deaminase
+EC 3.5.4.13: dCTP deaminase
+EC 3.5.4.14: Now included in EC 3.5.4.5, (deoxy)cytidine deaminase
+EC 3.5.4.15: guanosine deaminase
+EC 3.5.4.16: GTP cyclohydrolase I
+EC 3.5.4.17: adenosine-phosphate deaminase
+EC 3.5.4.18: ATP deaminase
+EC 3.5.4.19: phosphoribosyl-AMP cyclohydrolase
+EC 3.5.4.20: pyrithiamine deaminase
+EC 3.5.4.21: creatinine deaminase
+EC 3.5.4.22: 1-pyrroline-4-hydroxy-2-carboxylate deaminase
+EC 3.5.4.23: blasticidin-S deaminase
+EC 3.5.4.24: sepiapterin deaminase
+EC 3.5.4.25: GTP cyclohydrolase II
+EC 3.5.4.26: diaminohydroxyphosphoribosylaminopyrimidine deaminase
+EC 3.5.4.27: methenyltetrahydromethanopterin cyclohydrolase
+EC 3.5.4.28: S-adenosylhomocysteine deaminase
+EC 3.5.4.29: GTP cyclohydrolase IIa
+EC 3.5.4.30: dCTP deaminase (dUMP-forming)
+EC 3.5.4.31: S-methyl-5′-thioadenosine deaminase
+EC 3.5.4.32: 8-oxoguanine deaminase
+EC 3.5.4.33:  tRNA(adenine) deaminase *
+EC 3.5.4.34:  tRNA(adenine) deaminase *
+EC 3.5.4.35:  tRNA(cytosine) deaminase *
+EC 3.5.4.36:  mRNA(cytosine) deaminase *
+EC 3.5.4.37:  double-stranded RNA adenine deaminase *
+EC 3.5.4.38:  single-stranded DNA cytosine deaminase *
+EC 3.5.4.39:  GTP cyclohydrolase IV *
+EC 3.5.4.40:  aminodeoxyfutalosine deaminase *
+EC 3.5.4.41:  5′-deoxyadenosine deaminase *
+EC 3.5.4.42:  N-isopropylammelide isopropylaminohydrolase *
+EC 3.5.4.43:  hydroxydechloroatrazine ethylaminohydrolase *
+EC 3.5.4.44:  ectoine hydrolase *
+EC 3.5.4.45:  melamine deaminase *
+EC 3.5.4.46:  cAMP deaminase **No Wikipedia articleEC 3.5.5.1: nitrilase
+EC 3.5.5.2: ricinine nitrilase
+EC 3.5.5.3: C 4.2.1.104, cyanate hydratase
+EC 3.5.5.4: cyanoalanine nitrilase
+EC 3.5.5.5: arylacetonitrilase
+EC 3.5.5.6: bromoxynil nitrilase
+EC 3.5.5.7: aliphatic nitrilase
+EC 3.5.5.8: thiocyanate hydrolaseEC 3.5.99.1: riboflavinase
+EC 3.5.99.2: aminopyrimidine aminohydrolase
+EC 3.5.99.3: Now EC 3.5.4.43, hydroxydechloroatrazine ethylaminohydrolase
+EC 3.5.99.4: Now EC 3.5.4.42, N-isopropylammelide isopropylaminohydrolase
+EC 3.5.99.5: 2-aminomuconate deaminase
+EC 3.5.99.6: glucosamine-6-phosphate deaminase
+EC 3.5.99.7: 1-aminocyclopropane-1-carboxylate deaminase
+EC 3.5.99.8: 5-nitroanthranilic acid aminohydrolase
+EC 3.5.99.9: 2-nitroimidazole nitrohydrolase
+EC 3.5.99.10: 2-iminobutanoate/2-iminopropanoate deaminase *
+EC 3.5.99.11: 2-aminomuconate deaminase (2-hydroxymuconate-forming) **No Wikipedia articleEC 3.6.1.1: inorganic diphosphatase
+EC 3.6.1.2: trimetaphosphatase
+EC 3.6.1.3: adenosinetriphosphatase
+EC 3.6.1.4: Now included with EC 3.6.1.3 adenosinetriphosphatase
+EC 3.6.1.5: apyrase
+EC 3.6.1.6: nucleoside diphosphate phosphatase
+EC 3.6.1.7: acylphosphatase
+EC 3.6.1.8: ATP diphosphatase
+EC 3.6.1.9: nucleotide diphosphatase
+EC 3.6.1.10: endopolyphosphatase
+EC 3.6.1.11: exopolyphosphatase
+EC 3.6.1.12: dCTP diphosphatase
+EC 3.6.1.13: ADP-ribose diphosphatase
+EC 3.6.1.14: adenosine-tetraphosphatase
+EC 3.6.1.15: nucleoside-triphosphatase
+EC 3.6.1.16: CDP-glycerol diphosphatase
+EC 3.6.1.17: bis(5′-nucleosyl)-tetraphosphatase (asymmetrical))
+EC 3.6.1.18: FAD diphosphatase
+EC 3.6.1.19: Now EC 3.6.1.9, nucleotide diphosphatase
+EC 3.6.1.20: 5′-acylphosphoadenosine hydrolase
+EC 3.6.1.21: ADP-sugar diphosphatase
+EC 3.6.1.22: NAD diphosphatase
+EC 3.6.1.23: dUTP diphosphatase
+EC 3.6.1.24: nucleoside phosphoacylhydrolase
+EC 3.6.1.25: triphosphatase
+EC 3.6.1.26: CDP-diacylglycerol diphosphatase
+EC 3.6.1.27: undecaprenyl-diphosphatase
+EC 3.6.1.28: thiamine-triphosphatase
+EC 3.6.1.29: bis(5′-adenosyl)-triphosphatase
+EC 3.6.1.30:  Now covered by EC 3.6.1.59 [mGpppX diphosphatase] and EC 3.6.1.62 [mGpppN-mRNA hydrolase].
+EC 3.6.1.31: phosphoribosyl-ATP diphosphatase
+EC 3.6.1.32: Now EC 3.6.4.1, myosin ATPase
+EC 3.6.1.33: Now EC 3.6.4.2, dynein ATPase
+EC 3.6.1.34: Transferred entry: H-transporting ATP synthase. Now EC 3.6.3.14, H-transporting two-sector ATPase
+EC 3.6.1.35: Now EC 3.6.3.6, H-exporting ATPase
+EC 3.6.1.36: Now EC 3.6.3.10, H/K-exchanging ATPase
+EC 3.6.1.37: Now EC 3.6.3.9, Na/K-exchanging ATPase
+EC 3.6.1.38: Now EC 3.6.3.8, Ca-transporting ATPase
+EC 3.6.1.39: thymidine-triphosphatase
+EC 3.6.1.40: guanosine-5′-triphosphate,3′-diphosphate phosphatase
+EC 3.6.1.41: bis(5′-nucleosyl)-tetraphosphatase (symmetrical)
+EC 3.6.1.42: guanosine-diphosphatase
+EC 3.6.1.43: dolichyldiphosphatase
+EC 3.6.1.44: oligosaccharide-diphosphodolichol diphosphatase
+EC 3.6.1.45: UDP-sugar diphosphatase
+EC 3.6.1.46: Now EC 3.6.5.1, heterotrimeric G-protein GTPase
+EC 3.6.1.47: Now EC 3.6.5.3, protein-synthesizing GTPase
+EC 3.6.1.49: Now EC 3.6.5.4, signal-recognition-particle GTPase
+EC 3.6.1.50: Now EC 3.6.5.5, dynamin GTPase
+EC 3.6.1.51: Now EC 3.6.5.6, tubulin GTPase
+EC 3.6.1.52: diphosphoinositol-polyphosphate diphosphatase
+EC 3.6.1.53: Mn-dependent ADP-ribose/CDP-alcohol diphosphatase
+EC 3.6.1.54: UDP-2,3-diacylglucosamine diphosphatase
+EC 3.6.1.55: 8-oxo-dGTP diphosphatase
+EC 3.6.1.56: 2-hydroxy-dATP diphosphatase
+EC 3.6.1.57: UDP-2,4-diacetamido-2,4,6-trideoxy-β-L-altropyranose hydrolase
+EC 3.6.1.58: 8-oxo-dGDP phosphatase
+EC 3.6.1.59: 5′-(N-methyl 5′-triphosphoguanosine)-[mRNA] diphosphatase
+EC 3.6.1.60: diadenosine hexaphosphate hydrolase (AMP-forming)
+EC 3.6.1.61: diadenosine hexaphosphate hydrolase (ATP-forming)
+EC 3.6.1.62: 5′-(N-methylguanosine 5′-triphospho)-[mRNA] hydrolase
+EC 3.6.1.63: α-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+EC 3.6.1.64: inosine diphosphate phosphatase *
+EC 3.6.1.65: (d)CTP diphosphatase *
+EC 3.6.1.66: XTP/dITP diphosphatase *
+EC 3.6.1.67: dihydroneopterin triphosphate diphosphatase *
+EC 3.6.1.68: geranyl diphosphate phosphohydrolase *
+EC 3.6.1.69: 8-oxo-(d)GTP phosphatase *
+EC 3.6.1.70: guanosine-5′-diphospho-5′-[DNA] diphosphatase *
+EC 3.6.1.71: adenosine-5′-diphospho-5′-[DNA] diphosphatase *
+EC 3.6.1.72: DNA-3′-diphospho-5′-guanosine diphosphatase *
+EC 3.6.1.73: inosine/xanthosine triphosphatase *
+EC 3.6.1.74: mRNA 5′-phosphatase **No Wikipedia articleEC 3.6.2.1: adenylylsulfatase
+EC 3.6.2.2: phosphoadenylylsulfataseEC 3.6.3.1: phospholipid-translocating ATPase
+EC 3.6.3.2: Now EC 7.2.2.14, P-type Mg transporter
+EC 3.6.3.3: Now EC 7.2.2.21, Cd-exporting ATPase
+EC 3.6.3.4: Now EC 7.2.2.9, Cu-exporting ATPase
+EC 3.6.3.5: Now EC 7.2.2.12, Zn-exporting ATPase
+EC 3.6.3.6: Now EC 7.1.2.1, P-type H-exporting transporter
+EC 3.6.3.7: Now EC 7.2.2.3, P-type Na transporter
+EC 3.6.3.8:  Now EC 7.2.2.10, Ca-transporting ATPase
+EC 3.6.3.9: Now EC 7.2.2.13, Na/K-exchanging ATPase
+EC 3.6.3.10: Now EC 7.2.2.19, H/K-exchanging ATPase
+EC 3.6.3.11: Cl-transporting ATPase. The activity was only ever studied in crude extracts, and is an artifact
+EC 3.6.3.12: Now EC 7.2.2.6, K-transporting ATPase
+EC 3.6.3.13:Identical to EC 3.6.3.1, phospholipid-translocating ATPase
+EC 3.6.3.14: Now EC 7.1.2.2, H-transporting two-sector ATPase
+EC 3.6.3.15: Now EC 7.2.2.1, Na-transporting two-sector ATPase
+EC 3.6.3.16: Now EC 7.3.2.7, arsenite-transporting ATPase
+EC 3.6.3.17:  Now covered by various ABC-type monosaccharide transporters in sub-subclass EC 7.5.2
+EC 3.6.3.18: Now EC 7.5.2.2, ABC-type oligosaccharide transporter
+EC 3.6.3.19: Now EC 7.5.2.1, ABC-type maltose transporter
+EC 3.6.3.20: Now EC 7.6.2.10, glycerol-3-phosphate-transporting ATPase
+EC 3.6.3.21: Now EC 7.4.2.1, ABC-type polar-amino-acid transporter
+EC 3.6.3.22: Now EC 7.4.2.2, ABC-type nonpolar-amino-acid transporter
+EC 3.6.3.23: Now EC 7.4.2.6, oligopeptide-transporting ATPase
+EC 3.6.3.24: Now EC 7.2.2.11, nickel-transporting ATPase
+EC 3.6.3.25: Now EC 7.3.2.3, sulfate-transporting ATPase
+EC 3.6.3.26: Now EC 7.3.2.4, nitrate-transporting ATPase
+EC 3.6.3.27:  Now EC 7.3.2.1, ABC-type phosphate transporter
+EC 3.6.3.28:  Now EC 7.3.2.2, ABC-type phosphonate transporter
+EC 3.6.3.29: Now EC 7.3.2.5, molybdate-transporting ATPase
+EC 3.6.3.30: Now EC 7.2.2.7, Fe-transporting ATPase
+EC 3.6.3.31:  Now EC 7.6.2.11, polyamine-transporting ATPase
+EC 3.6.3.32: Now EC 7.6.2.9, quaternary-amine-transporting ATPase
+EC 3.6.3.33: Now EC 7.6.2.8, vitamin B12-transporting ATPase
+EC 3.6.3.34: now recognized to be at least three separate enzymes EC 7.2.2.16, iron(III) hydroxamate ABC transporter, EC 7.2.2.17, ferric enterobactin ABC transporter, and EC 7.2.2.18, ferric citrate ABC transporter
+EC 3.6.3.35: Now EC 7.2.2.5, manganese-transporting ATPase
+EC 3.6.3.36: Now EC 7.6.2.7, taurine-transporting ATPase
+EC 3.6.3.37: Now EC 7.6.2.6, guanine-transporting ATPase
+EC 3.6.3.38: Now EC 7.6.2.12, ABC-type capsular-polysaccharide transporter
+EC 3.6.3.39: Now EC 7.5.2.5, lipopolysaccharide-transporting ATPase
+EC 3.6.3.40: Now EC 7.5.2.4, teichoic-acid-transporting ATPase
+EC 3.6.3.41: Now EC 7.6.2.5, heme-transporting ATPase
+EC 3.6.3.42: Now EC 7.5.2.3, β-glucan-transporting ATPase
+EC 3.6.3.43: Now EC 7.4.2.5, peptide-transporting ATPase
+EC 3.6.3.44: Now EC 7.6.2.2, ABC-type xenobiotic transporter
+EC 3.6.3.45: Now included with EC 3.6.3.44, xenobiotic-transporting ATPase
+EC 3.6.3.46: Now EC 7.2.2.2, ABC-type Cd transporter
+EC 3.6.3.47: Now EC 7.6.2.4, fatty-acyl-CoA-transporting ATPase
+EC 3.6.3.48: Now EC 7.4.2.7 as α-factor-pheromone transporting ATPase
+EC 3.6.3.49:  Now EC 5.6.1.6, channel-conductance-controlling ATPase
+EC 3.6.3.50: Now EC 7.4.2.8, protein-secreting ATPase
+EC 3.6.3.51: Now EC 7.4.2.3, mitochondrial protein-transporting ATPase
+EC 3.6.3.52: Now EC 7.4.2.4, chloroplast protein-transporting ATPase
+EC 3.6.3.53: Now EC 7.2.2.15, Ag-exporting ATPase
+EC 3.6.3.54:  Now EC 7.2.2.8, Cu-exporting ATPase
+EC 3.6.3.55: Now EC 7.3.2.6, tungstate-importing ATPaseEC 3.6.4.1: Now EC 5.6.1.8, myosin ATPase
+EC 3.6.4.2: Now EC 5.6.1.2, dynein ATPase
+EC 3.6.4.3: Now EC 5.6.1.1, microtubule-severing ATPase
+EC 3.6.4.4: Now EC 5.6.1.3, plus-end-directed kinesin ATPase
+EC 3.6.4.5: Now EC 5.6.1.4, minus-end-directed kinesin ATPase
+EC 3.6.4.6: vesicle-fusing ATPase
+EC 3.6.4.7: peroxisome-assembly ATPase
+EC 3.6.4.8: Now EC 5.6.1.5, proteasome ATPase
+EC 3.6.4.9: Now EC 5.6.1.7, chaperonin ATPase
+EC 3.6.4.10: non-chaperonin molecular chaperone ATPase
+EC 3.6.4.11: Deleted, the activity has been shown not to take place
+EC 3.6.4.12: DNA helicase
+EC 3.6.4.13: RNA helicaseEC 3.6.5.1: heterotrimeric G-protein GTPase
+EC 3.6.5.2: small monomeric GTPase
+EC 3.6.5.3: protein-synthesizing GTPase
+EC 3.6.5.4: signal-recognition-particle GTPase
+EC 3.6.5.5: dynamin GTPase
+EC 3.6.5.6: tubulin GTPaseEC 3.7.1.1: oxaloacetase
+EC 3.7.1.2: fumarylacetoacetase
+EC 3.7.1.3: kynureninase
+EC 3.7.1.4: phloretin hydrolase
+EC 3.7.1.5: acylpyruvate hydrolase
+EC 3.7.1.6: acetylpyruvate hydrolase
+EC 3.7.1.7: β-diketone hydrolase
+EC 3.7.1.8: 2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+EC 3.7.1.9: 2-hydroxymuconate-semialdehyde hydrolase
+EC 3.7.1.10: cyclohexane-1,3-dione hydrolase
+EC 3.7.1.11: cyclohexane-1,2-dione hydrolase
+EC 3.7.1.12: cobalt-precorrin 5A hydrolase
+EC 3.7.1.13: 2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoate hydrolase
+EC 3.7.1.14: 2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+EC 3.7.1.15: Now EC 4.2.1.138, (+)-caryolan-1-ol synthase
+EC 3.7.1.16: Now EC 3.3.2.12, oxepin-CoA hydrolase
+EC 3.7.1.17: 4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+EC 3.7.1.18: 6-oxocamphor hydrolase
+EC 3.7.1.19: 2,6-dihydroxypseudooxynicotine hydrolase
+EC 3.7.1.20: 3-fumarylpyruvate hydrolase
+EC 3.7.1.21: 6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase *
+EC 3.7.1.22: 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (ring-opening)
+EC 3.7.1.23:  maleylpyruvate hydrolase *
+EC 3.7.1.24: 2,4-diacetylphloroglucinol hydrolase *
+EC 3.7.1.25: 2-hydroxy-6-oxohepta-2,4-dienoate hydrolase *
+EC 3.7.1.26: 2,4-didehydro-3-deoxy-L-rhamnonate hydrolase *
+EC 3.7.1.27: neryl diphosphate diphosphatase *
+EC 3.7.1.28: 3-oxoisoapionate-4-phosphate transcarboxylase/hydrolase **No Wikipedia articleEC 3.8.1.1: Covered by EC 3.8.1.5, haloalkane dehalogenase.
+EC 3.8.1.2: (S)-2-haloacid dehalogenase
+EC 3.8.1.3: haloacetate dehalogenase
+EC 3.8.1.4: Now EC 1.97.1.10, thyroxine 5′-deiodinase
+EC 3.8.1.5: haloalkane dehalogenase
+EC 3.8.1.6: 4-chlorobenzoate dehalogenase
+EC 3.8.1.7: 4-chlorobenzoyl-CoA dehalogenase
+EC 3.8.1.8: atrazine chlorohydrolase
+EC 3.8.1.9: (R)-2-haloacid dehalogenase
+EC 3.8.1.10: 2-haloacid dehalogenase (configuration-inverting)
+EC 3.8.1.11: 2-haloacid dehalogenase (configuration-retaining)EC 3.8.2.1: Now EC 3.1.8.2, diisopropyl-fluorophosphataseEC 3.9.1.1: phosphoamidase
+EC 3.9.1.2: protein arginine phosphatase *
+EC 3.9.1.3: phosphohistidine phosphatase **No Wikipedia articleEC 3.10.1.1: N-sulfoglucosamine sulfohydrolase
+EC 3.10.1.2: cyclamate sulfohydrolaseEC 3.11.1.1: phosphonoacetaldehyde hydrolase
+EC 3.11.1.2: phosphonoacetate hydrolase
+EC 3.11.1.3: phosphonopyruvate hydrolaseEC 3.12.1.1: trithionate hydrolaseEC 3.13.1.1: UDP-sulfoquinovose synthase
+EC 3.13.1.2: Deleted, the activity is most probably attributable to EC 4.4.1.21, S-ribosylhomocysteine lyase
+EC 3.13.1.3: 2′-hydroxybiphenyl-2-sulfinate desulfinase
+EC 3.13.1.4: 3-sulfinopropanoyl-CoA desulfinase *
+EC 3.13.1.5: carbon disulfide hydrolase
+EC 3.13.1.6: [CysO sulfur-carrier protein]-S-L-cysteine hydrolase *
+EC 3.13.1.7: Carbonyl sulfide hydrolase
+EC 3.13.1.8: S-adenosyl-L-methionine hydrolase (adenosine-forming *
+EC 3.13.1.9: S-inosyl-L-homocysteine hydrolase **No Wikipedia article

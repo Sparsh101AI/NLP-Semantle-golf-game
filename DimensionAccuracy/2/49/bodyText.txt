@@ -1,0 +1,41 @@
+Ditema tsa Dinoko (Sesotho for "Ditema syllabary"), also known by its IsiZulu name, Isibheqe Sohlamvu, and various other related names in different languages, is a constructed writing system (specifically, a featural syllabary) for the siNtu or Southern Bantu languages (for example, for Sesotho, Setswana, IsiZulu, IsiXhosa, SiSwati, SiPhuthi, Xitsonga, EMakhuwa, ChiNgoni, SiLozi, or Tshivenḓa), developed in the 2010s from antecedent ideographic traditions of the Southern African region. Its visual appearance is inspired by these, including the traditional litema arts style. It was developed between 2014 and 2016 by a group of South African linguists and software programmers with the goal of creating a denser writing system to avoid the slowness in reading caused by the word length and visual homogeneity of Southern Bantu languages written in the Roman alphabet.
+The Ditema / Isibheqe syllabary has the capacity to represent the full phonological range of these sintu languages (in the Nguni, Sotho-Tswana, Venḓa, Tsonga and Tonga-Inhambane groups) consistently under one orthography. This includes languages that are unstandardised in the Latin alphabet such as the East Sotho languages (Sepulana, Sekutswe and Hipai), or the Tekela languages, which, with the exception of SiSwati, are not official languages. Orthographic support for these languages is for instance evidenced in the ingungwana grapheme, which indicates vowel nasality — a feature of Tekela languages.
+The script operates as a syllabary, as each freestanding symbol represents a syllable, with graphemes for consonant and vowel sounds combined into syllable blocks (amabheqe), in a similar fashion to Hangeul. When the syllable being represented is not a syllabic nasal, these symbols are formed from a triangular or chevron-shaped grapheme representing the nucleus of the syllable, with the attached ongwaqa or consonant graphemes representing the onset of the syllable or its mode of articulation. Syllabic nasals are represented as circles that fill the whole ibheqe or syllable block.
+The vowel graphemes (onkamisa) form the basis of each ibheqe or syllable block, as the nucleus of each syllable, with the ongwaqa or consonant graphemes positioned in and around them.
+The direction of each ibheqe indicates the quality of the vowel for each of the seven vowel phonemes:
+Intombi, the upward facing triangle: /i/
+Isoka, the downward facing triangle: /a/
+Umkhonto, the upward facing chevron: /u/
+The leftward facing triangle: /ɛ/
+The rightward facing triangle: /ɔ/
+The leftward facing chevron: /e/
+The rightward facing chevron: /o/There is an eighth "vowel" represented by the downward facing chevron, which is an empty vowel, and is mostly used for foreign words to represent a standalone consonant, often as a syllable coda, which does not occur in siNtu languages having CV phonology.
+
+The apex of the triangle or chevron corresponds to vowel height or frontedness, with high vowels /i/ and /u/ pointing upwards and the low vowel /a/ pointing downwards. Likewise, the front vowels /ɛ/ and /e/ point leftwards and the back vowels /ɔ/ and /o/ point rightwards.
+
+Vowel nasality is indicated with the ingungwana grapheme, which is a solid dot outside the triangle separated from the apex, as in the word phãsi below:
+Consonants (ongwaqa) are composed of one or more graphemes, at least one of which indicates the place and manner of articulation and thereafter they represent co-articulations or onset clusters and the articulatory mode, whether it be voiced, prenasalised, implosive, ejective, modal, or a combination thereof.
+The position of the consonant graphemes largely corresponds to the place of articulation:
+Labials and nasals are positioned outside the triangle at the apex.
+Alveolars are across the middle of the triangle from side to side.
+Velars and palatals are at the base.
+Laterals are outside the triangle on one side.
+Dentals are two lines across the triangle from side to side, parallel to each other.The shape of the consonant grapheme corresponds to the manner of articulation:
+Curved lines indicate fricatives.
+Their straight line counterparts in the same positions indicate plosives.
+Approximants and trills are represented with two lines either parallel or at a right angle to each other, with a tap or flap being the latter arrangement, one line bisecting the other at its centrepoint without crossing it.
+Retroflex whistled consonants and postalveolar fricatives are represented as loops.
+Nasals are represented as circles at the apex of the triangle. Lines inside the circles distinguish the nasals from each other.
+Clicks are a bottomless hourglass shape.
+Syllabic laterals and trills are represented with duplication of the ordinary lateral and trill graphemes.Syllabic nasals or amaqanda are unique in that they occupy the entire ibheqe space as circles. They are distinguished from each other with lines inside them that operate according to the same principles as above.
+These graphemes can combine with each other in an order in accordance with the phonotactics of sintu languages, and they also can combine with the articulatory mode graphemes.
+
+There are three graphemic markers of articulatory mode:
+For unvoiced consonants, a solid dot within the triangle indicates a glotallised (ejected) consonant or a modal click consonant.
+For voiced consonants the solid dot inside the triangle indicates an implosive consonant or, in the case of languages where there are no implosives, a modal consonant.
+The absence of the dot indicates breathy voice in the case of voiced consonants, and aspiration in the case of voiceless consonants.
+Uphimbo, or the voicing line, running from the apex of the triangle to the base (or until inline with the ends of the chevron), indicates consonant voicing.
+If the voicing line occurs as the only ungwaqa in the ibheqe, it indicates a voiced glottal fricative /ɦ/.
+In languages that distinguish between breathy voiced and modal nasals/trills, the voicing line indicates breathy voice when occurring with these consonant graphemes.
+Prenasalised consonants are marked with an open circle at the apex of the triangle called ingungu. These occur with other consonant graphemes, and are distinct from the bilabial nasal /m/ that occurs on its own. No additional lines need be added to the ingungu when it occurs with other ongwaqa as the place of articulation is given by them and need not be marked in the nasal grapheme.
+For clicks, the ingungu marks a nasal click consonant, with the prenasalised clicks (e.g. <nkq>) requiring the addition of a solid dot (glottalisation), in which case the ingungu denotes prenasalisation.Ditema (Ditema tsa Dinoko / Isibheqe Sohlamvu) at Omniglot

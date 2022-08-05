@@ -1,0 +1,6 @@
+https://quantcast.github.com/qfs
+https://github.com/quantcast/qfs/tree/1.1.4
+http://strata.oreilly.com/2012/09/qfs-improves-performance-of-hadoop-file-system.html
+http://gigaom.com/data/quantcast-releases-bigger-faster-stronger-hadoop-file-system/
+https://quantcast.github.com/qfs
+https://en.wikipedia.org/w/index.php?title=Template:File_systems&action=edit

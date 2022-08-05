@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Moyenvic&params=48.7781_N_6.5631_E_type:city(345)_region:FR-GES
+//geohack.toolforge.org/geohack.php?pagename=Moyenvic&params=48.7781_N_6.5631_E_type:city(345)_region:FR-GES
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-57490
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-57490
+https://en.wikipedia.org/w/index.php?title=Template:Moselle_communes&action=edit
+https://viaf.org/viaf/124474092
+https://www.worldcat.org/identities/lccn-n91104357/
+https://catalogue.bnf.fr/ark:/12148/cb152659949
+https://data.bnf.fr/ark:/12148/cb152659949
+https://d-nb.info/gnd/4242397-1
+https://id.loc.gov/authorities/names/n91104357
+https://en.wikipedia.org/w/index.php?title=Moyenvic&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:SarrebourgCh%C3%A2teauSalins-geo-stub&action=edit

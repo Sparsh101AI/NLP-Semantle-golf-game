@@ -1,0 +1,21 @@
+The M107 155 mm projectile was the standard 155 mm high explosive (HE) projectile for howitzers of the US Army and US Marine Corps. A bursting round with fragmentation and blast effects, the M107 is being superseded in the US military by the M795.
+The M107 is a development of the M102 155 mm shell that was developed in the 1930s from the French Schneider 155 mm projectile for the Model 1917 Howitzer. The M107 differs from the M102 mainly in having a wider rotating or driving band.
+The body consists of a hollow steel shell containing high explosive (either TNT or Composition B) painted olive drab with yellow markings. A fuze adapter is screwed into the body and brazed in place. An eyebolt lifting plug is screwed into the fuze well to assist in transportation. The plug is removed and replaced with a fuze for firing. The complete projectile weighs 43.2 kg, is 800 mm long and contains 15.8% explosive by weight. It is a separate-loading projectile—propellant bags or MACS charges are loaded separately.
+The M107 can be fired more than 13 miles and on detonation it produces approximately 1,950 fragments. 
+The M107 was approved for use in 1958 and issued to the army from 1959. Its intended replacement is the M795, manufacture of which began in 1999.
+The M114 howitzer can fire an M107 up to 18.5 km using M4A2 "White Bag" propellant. Modified M107 rounds with base bleed and new aerodynamics can extend this range to around 32 km.
+Despite relatively lackluster performance (Jane's describes it as having "an indifferent charge to weight ratio", "unsophisticated aerodynamic shape", "erratic fragmentation") compared to more modern high explosive rounds, it continues to be used by many countries, in particular in training exercises because of its low cost, high availability and smaller danger area than more modern designs. Its limited effectiveness also make it a useful option in peace support operations.
+The M107 is manufactured by several nations, sometimes with variations in the fill and or filling method, or other details, and is given a national designation. For example, those produced to UK requirements are designated L21, not M107; German examples were designated DM21.
+By the 1970s, the M107 was an out-of-date design, and some European armies started replacing their war stocks with modern designs such as L15. However, the M107 was retained for training purposes, because it was cheap and, being less lethal, had a smaller peacetime safety area, an important consideration given the small European training areas.
+Range: 17.5 km with 39 calibar barrel
+Weight as fired: 43.2 kilograms (95 lb)
+Explosive content: TNT 6.86 kilograms (15.1 lb)
+Length (excluding fuze): 605.3 mm
+Body diameter: 154.71 mm
+Driving band diameter: 157.98 mm
+Fuzes (with supplemental charge):
+PD M51A5, M728 family, M557, M572, M739, M564, M577, M582, M732
+Fuzes (without supplemental charge):
+M728
+Manufacturer: American Ordnance LLC & Scranton Army Ammunition PlantList of artillery
+List of crew served weapons of the US Armed ForcesJane's Ammunition Handbook 2003–2004M107 155mm Projectile

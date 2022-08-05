@@ -1,0 +1,17 @@
+Types of optimization
+Factors affecting optimization
+Common themes
+Specific techniques
+Loop optimizations
+Data-flow optimizations
+SSA-based optimizations
+Code generator optimizations
+Functional language optimizations
+Other optimizations
+Interprocedural optimizations
+Practical considerations
+History
+List of static code analyses
+See also
+References
+External links

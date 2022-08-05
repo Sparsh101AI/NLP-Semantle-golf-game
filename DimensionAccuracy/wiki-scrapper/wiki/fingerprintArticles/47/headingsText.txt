@@ -1,0 +1,26 @@
+Background
+Example: Pyruvate kinase
+Units of protein structure
+Tertiary structure
+Limits on size
+Quaternary structure
+Domain swapping
+Domains as evolutionary modules
+Multidomain proteins
+Origin
+Types of organization
+Domains are autonomous folding units
+Folding
+Advantage of domains in protein folding
+Domains and protein flexibility
+Domain definition from structural co-ordinates
+Methods
+Example domains
+Domains of unknown function
+See also
+References
+Key papers
+External links
+Structural domain databases
+Sequence domain databases
+Functional domain databases

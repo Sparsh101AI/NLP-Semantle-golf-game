@@ -1,0 +1,42 @@
+Amarok /ˈæmərɒk/ is a free and open-source music player. It is available for Unix-like, as well as for Windows and macOS systems. Although Amarok is part of the KDE project, it is released independently of the central KDE Software Compilation release cycle. Amarok is released under the terms of the GPL-2.0-or-later.
+The project was originally started by Mark Kretschmann as a means of improving XMMS due to several usability problems, which interfered with the addition of new files to the playlist due to several user interface elements existing for one task. The original amaroK was created based upon the idea of a two-pane interface seen in Midnight Commander, and the first version of the software released solely by Kretschmann, was based upon the ideal of allowing users to drag-and-drop music into an interface in which the playlist was displayed on the right and information on the left.
+After the initial release of AmaroK, several developers joined the project to form the “Three M’s” the first of whom was Max Howell, who acted as an interface designer and programmer for the project, alongside Muesli (Christian Muehlhaeuser), who also provided user interface insight and programming till the late 1.4 versions.
+The program was originally named amaroK after a Mike Oldfield album of the same name. Later the artwork changed to reference Amarok, a wolf in Inuit mythology. The app's capitalization was changed to Amarok in June 2006.
+A new major version of Amarok, version 2.0, was released on December 12, 2008. On June 3, 2009, version 2.1 was released which reintroduced a few of the 1.4 features which had been missing from the initial 2.0 release and introduced some features such as native ReplayGain support for the first time.
+Amarok serves many functions in addition to the basic function of playing music files. For example, Amarok can be used to organize a library of music into folders according to genre, artist, and album, can edit tags attached to most music formats, associate album art, attach lyrics, and automatically "score" music by keeping play count statistics.
+Although a more technical list of features is listed below, here are the primary functions or uses for Amarok:
+Playing media files in various formats including but not limited to (depending on the setup) FLAC, Ogg, Opus, MP3, AAC, WAV, Windows Media Audio, Apple Lossless, WavPack, TTA and Musepack. Amarok does not play digital music files embedded with DRM.
+Tagging digital music files (currently FLAC, Ogg Vorbis, WMA, AAC, MP3, and RealMedia).
+Associating cover art with a particular album and retrieving the cover art from Amazon.
+Creating and editing playlists, including smart and dynamic playlists. The dynamic playlists can use such information as the "score" given to a song by an Amarok script, and the play count which is stored in the database.
+Synchronizing, retrieving, playing, or uploading music to the following digital music players: iPod, iriver iFP, Creative NOMAD, Creative ZEN, MTP, Rio Karma and USB devices with VFAT (generic MP3 players) support.
+Displaying artist information from Wikipedia and retrieving song lyrics.
+Last.fm support, including submitting played tracks (including those played on some digital music players) to Last.fm, retrieving similar artists and playing Last FM streams.
+Podcast.From version 1.4.4, Amarok introduced the integration of Magnatune, a non-DRM digital music store, enabling users to purchase music in Ogg, FLAC, WAV, and MP3 formats.
+Some of these features depend on other programs or libraries that must be installed on the computer to operate.
+Three main window panes: playlist browser, collection and player window.
+Systray (panel notification area) icon support.
+Song collection, which includes specific folders on the filesystem.
+Searching Files/Artists/Album/Genre in Collection can be performed using Simple and Advanced options
+Intelligent Playlists support (Dynamic Playlists)
+Integration with online services such as Magnatune, Jamendo, MP3tunes, Last.fm and Shoutcast.
+Songs can be rated both dynamically (based on how much the song is played) and by hand (giving a rating of 1-5 stars to the song).
+Amarok File Tracking (since 1.4.3): Stores file checksum in the collection. This allows the file to be moved around in the filesystem without Amarok losing track of the song statistics.
+Collection filter (newest songs, highest rated, most played, etc.).
+Support for Phonon engine. The backend of Phonon dictates which media types of Amarok can play and how they play. When using Xine, Amarok supports crossfading, but not seeking in seek pointless FLAC files. When using Gstreamer, Amarok supports seeking and gapless playback, but not crossfading.
+Support for moodbars.
+Uses TagLib for tags.
+Amarok can be controlled via D-Bus.
+Amarok Scripts, for example, when writing lyrics fetching plugins, can be written in QtScript.Amarok 2 was released on 10 December 2008. New features include:
+Tight integration with online services such as Magnatune, Jamendo, MP3tunes, Last.fm and Shoutcast.
+Completely overhauled scripting API and plugin support to allow better integration into Amarok.
+Migration from the KDE 3 to KDE Software Compilation 4, and utilization of core technologies such as Solid, Phonon, and Plasma.The user interface had been redesigned to make context information like lyrics and albums from the same artist more accessible and allow the user to decide which information is available by adding applets to the Context View in the middle.
+Service Framework: This integrates networked music sources directly into Amarok. This includes online music stores, media servers, Web music lockers, and more. Due to this the users can get easy access to music provided by Magnatune, Jamendo, Last.fm, MP3Tunes Locker and Ampache.
+Biased Playlists: Biased Playlists extend the old Dynamic Playlists. They allow users to define an automatically populated playlist, based on specific probability-driven criteria called "biases".
+Context View: This view occupies the central place of the Amarok's window, replacing the old Context Browser from the 1.x series. It displays contextual information about the music one plays, like the album cover, track rating, labels, lyrics, artist information, related songs and artists and track mood.
+Other Features: Additional changes in Amarok 2.0 include a new SVG-based scalable theme, advanced scripting, dynamic collections, usability changes, updated media device handling, new podcast manager and support for more software platforms.The transition from version 1.4 to version 2 was criticized by many users. As a consequence, some new projects have been established, based on Amarok version 1.4.x.
+Amarok Live was a live CD Linux distribution created as a co-promotion with magnatune.com to promote the idea of Free Software and Open Music. The self-bootable CD was distributed with songs mostly selected from the Magnatune library by the developers.
+Clementine is a fork of Amarok 1.4 to port it to the Qt 4 framework.
+Exaile is a GTK+ clone of Amarok 1.4.
+Gereqi is a clone of Amarok 1.4, written in PySide.
+Pana was a fork of Amarok 1.4. The intention was to keep the original program alive. The author has now discontinued the project.Official website

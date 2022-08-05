@@ -1,0 +1,13 @@
+https://en.wikipedia.org/w/index.php?title=Statistical_process_control&action=edit
+https://www.harfordcontrol.com/solution/weight-control/
+https://www.stickyminds.com/article/statistical-process-control-applicable-software-development-processes
+http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf
+//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.315
+https://doi.org/10.1109%2FMC.1987.1663532
+https://doi.org/10.1080%2F08982110500403581
+https://catalog.hathitrust.org/Record/003053820?type%5B%5D=all&lookfor%5B%5D=Statistical%20quality%20control%201946&filter%5B%5D=authorStr%3AGrant%2C%20Eugene%20Lodewick%2C%20b.%201897&ft=
+https://doi.org/10.1007%2Fbf00485351
+http://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/
+http://www.itl.nist.gov/div898/handbook/index2.htm
+https://en.wikipedia.org/w/index.php?title=Template:Statistics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Six_Sigma_tools&action=edit

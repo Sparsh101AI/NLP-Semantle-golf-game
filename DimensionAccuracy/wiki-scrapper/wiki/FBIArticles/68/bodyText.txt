@@ -1,0 +1,20 @@
+A semi or full-automatic firearm which is said to fire from a closed bolt is one where, when ready to fire, a round is in the chamber and the bolt and working parts are forward.  When the trigger is pulled, the firing pin or striker fires the round; the action is cycled by the energy of the shot, sending the bolt to the rear, which extracts and ejects the empty cartridge case; and the bolt goes forward, feeding a fresh round from the magazine into the chamber, ready for the next shot.
+When World War I era machine guns were being tried for use on aircraft, the Lewis gun was found not to be usable with a gun synchronizer for forward firing through the propeller, due to its firing cycle starting with an open bolt.  Maxim style arms fired with a cycle starting with a closed bolt, and since the bullet firing from the gun started the firing cycle, it was much easier to set the synchronizer to trigger the gun only when the propeller's blade was not directly in front of the gun's muzzle.  These included: 
+Vickers machine gun
+Both the rectangular-receiver lMG 08 and lightened-receiver LMG 08/15 Spandau gun, and Parabellum LMG 14 gun
+Improvements introduced by Swedish armaments designer Carl Gustave Swebilius to the American M1895 Colt–Browning machine gun for aircraft use, creating the M1917 and M1918 Marlin-Rockwell machine guns for the USAASA closed bolt design has both advantages and disadvantages when compared to an open bolt design:
+More accurate for the first round and for semi-automatic fire:
+No movement of heavy working parts prior to firing to potentially inhibit accuracy.
+Round sits consistently in the chamber.
+Potentially shorter delay between operator pulling the trigger and round being fired (also known as lock time).
+Cleaner operation – less potential for dust and other foreign debris to enter the gun, since the action remains closed unless the weapon is firing.
+Action can be locked forward to further reduce noise in a suppressed weapon.
+Can carry an additional round in the chamber, increasing ammunition capacity to one beyond the magazine's limit.More complicated and expensive to manufacture.
+Less heat dissipation from closed chamber (increased danger of cooking off)
+The extra round in the chamber can be a safety hazard, as even when the magazine is removed, the round in the chamber will still be ready to fire, and must be manually ejected.Closed-bolt designs are often used in rifles. The improved accuracy of closed-bolt weapons is more desirable, while the poorer heat dissipation is less of an issue for slower-firing weapons. In contrast, open-bolt designs are more often used in automatic weapons, such as machine guns. For fast-firing automatic weapons, heat will rapidly build up from sustained firing, but accuracy is of less importance. Thus, the improved heat dissipation of open-bolt designs is generally more desirable in automatic weapons.
+Examples of closed-bolt firearms include:
+Examples of mixed mode firearms (capable of operating from either an open bolt or closed bolt) include:
+FG 42
+FN SCAR - Heat Adaptive Modular Rifle
+LWRC Infantry Automatic Rifle - M6A4
+M1941 Johnson machine gunAction (firearms)How Does it Work: Open Bolt vs Closed Bolt Firearms

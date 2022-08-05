@@ -1,0 +1,15 @@
+Chronotropic effects (from chrono-, meaning time, and tropos, "a turn") are those that change the heart rate.
+Chronotropic drugs may change the heart rate and rhythm by affecting the electrical conduction system of the heart and the nerves that influence it, such as by changing the rhythm produced by the sinoatrial node. Positive chronotropes increase heart rate; negative chronotropes decrease heart rate.
+A dromotrope affects atrioventricular node (AV node) conduction. A positive dromotrope increases AV nodal conduction, and a negative dromotrope decreases AV nodal conduction. A lusitrope is an agent that affects diastolic relaxation.
+Many positive inotropes affect preload and afterload.
+Chronotropic variables in systolic myocardial left and right. Left sided systolic chronotropy can be appreciated as Aortic Valve open to close time. Right sided variables are represented by pulmonary valve open to close time. Inverted as diastolic chronotropy, the variables are aortic valve close to open and pulmonic close to open time. Pharmaceutical manipulation of chronotropic properties was perhaps first appreciated by the introduction of digitalis, though it turns out that digitalis has an inotropic effect rather than a chronotropic effect.
+Beta blockers such as metoprolol
+Acetylcholine
+Digoxin
+Pacemaker current (i.e. HCN channel) inhibitors (e.g. ivabradine)Most Adrenergic agonists
+Atropine
+Dopamine
+Epinephrine
+Isoproterenol
+Milrinone
+Theophylline

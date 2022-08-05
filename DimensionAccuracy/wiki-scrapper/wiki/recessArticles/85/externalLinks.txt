@@ -1,0 +1,6 @@
+http://www.lucianoberio.org/en/node/1154
+https://viaf.org/viaf/231928087
+https://www.worldcat.org/identities/lccn-nb2012004454/
+//geohack.toolforge.org/geohack.php?pagename=Oneglia&params=43_53_N_8_02_E_region:IT_type:city_source:GNS-enwiki
+https://en.wikipedia.org/w/index.php?title=Oneglia&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Liguria-geo-stub&action=edit

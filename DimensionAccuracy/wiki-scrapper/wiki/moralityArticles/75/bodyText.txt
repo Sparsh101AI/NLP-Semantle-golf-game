@@ -1,0 +1,8 @@
+Healthy Together is a proprietary public health and safety platform that builds technology solutions for government, education and enterprise. The platforms use is to increase the reach and efficacy of public health initiatives, improve health equity and ensure pandemic readiness. Software solutions are available in the United States of America with current deployments in Utah, Florida and Oklahoma.
+Healthy Together is a public health technology company that launched in March 2020. Healthy Together specializes in disease management and nutritional benefit programs such as Supplemental Nutrition Assistance Program and WIC.
+The platform is currently used by the Florida Department of Health to deliver real-time test results to residents. Over 36% of households in Florida have adopted the mobile application.
+The platform is also used at universities in Utah and Oklahoma with plans to expand to other states and enterprise customers.
+Systems are HIPAA compliant and System and Organization Controls certified.
+Data is encrypted in transit and at rest. Internal infrastructure is continuously audited via Center for Internet Security benchmarks to ensure customer data is private and secure.
+Official Website
+Government CIO Outlook

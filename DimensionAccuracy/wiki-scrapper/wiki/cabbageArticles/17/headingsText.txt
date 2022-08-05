@@ -1,0 +1,32 @@
+History
+Name of the technology
+Flow cytometers
+Hardware
+Fluidics system of a flow cytometer
+Hydrodynamic focusing
+Acoustic-assisted hydrodynamic focusing
+Optics and electronics
+Optical filters
+Prisms, gratings, and spectral flow cytometry
+Imaging flow cytometry
+Data analysis
+Compensation
+Gating
+Computational analysis
+FMO controls
+Cell sorting by flow cytometry
+Labels
+Fluorescent labels
+Quantum dots
+Isotope labeling
+Cytometric bead array
+Impedance flow cytometry
+Measurable parameters
+Applications
+Aquatic research
+Cell proliferation assay
+See also
+Notes
+References
+Further reading
+External links

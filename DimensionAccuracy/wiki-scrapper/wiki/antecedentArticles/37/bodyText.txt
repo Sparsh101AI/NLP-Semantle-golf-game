@@ -1,0 +1,233 @@
+In music, metre (Commonwealth spelling) or meter (American spelling) refers to regularly recurring patterns and accents such as bars and beats. Unlike rhythm, metric onsets are not necessarily sounded, but are nevertheless implied by the performer (or performers) and expected by the listener.
+A variety of systems exist throughout the world for organising and playing metrical music, such as the Indian system of tala and similar systems in Arabic and African music.
+Western music inherited the concept of metre from poetry, where it denotes: the number of lines in a verse; the number of syllables in each line; and the arrangement of those syllables as long or short, accented or unaccented. The first coherent system of rhythmic notation in modern Western music was based on rhythmic modes derived from the basic types of metrical unit in the quantitative metre of classical ancient Greek and Latin poetry.
+Later music for dances such as the pavane and galliard consisted of musical phrases to accompany a fixed sequence of basic steps with a defined tempo and time signature. The English word "measure", originally an exact or just amount of time, came to denote either a poetic rhythm, a bar of music, or else an entire melodic verse or dance involving sequences of notes, words, or movements that may last four, eight or sixteen bars.
+Metre is related to and distinguished from pulse, rhythm (grouping), and beats:
+The term metre is not very precisely defined. Stewart MacPherson preferred to speak of "time" and "rhythmic shape", while Imogen Holst preferred "measured rhythm". However, Justin London has written a book about musical metre, which "involves our initial perception as well as subsequent anticipation of a series of beats that we abstract from the rhythm surface of the music as it unfolds in time". This "perception" and "abstraction" of rhythmic bar is the foundation of human instinctive musical participation, as when we divide a series of identical clock-ticks into "tick–tock–tick–tock". "Rhythms of recurrence" arise from the interaction of two levels of motion, the faster providing the pulse and the slower organizing the beats into repetitive groups. In his book The Rhythms of Tonal Music, Joel Lester notes that, "[o]nce a metric hierarchy has been established, we, as listeners, will maintain that organization as long as minimal evidence is present".
+"Meter may be defined as a regular, recurring pattern of strong and weak beats. This recurring pattern of durations is identified at the beginning of a composition by a meter signature (time signature). ... Although meter is generally indicated by time signatures, it is important to realize that meter is not simply a matter of notation". A definition of musical metre requires the possibility of identifying a repeating pattern of accented pulses – a "pulse-group" – which corresponds to the foot in poetry. Frequently a pulse-group can be identified by taking the accented beat as the first pulse in the group and counting the pulses until the next accent.
+Frequently metres can be subdivided into a pattern of duples and triples. For example, a 4 metre consists of three units of a 8 pulse group, and a 8 metre consists of two units of a 8 pulse group. In turn, metric bars may comprise 'metric groups' - for example, a musical phrase or melody might consist of two bars x 4.
+The level of musical organisation implied by musical metre includes the most elementary levels of musical form. Metrical rhythm, measured rhythm, and free rhythm are general classes of rhythm and may be distinguished in all aspects of temporality:
+Metrical rhythm, by far the most common class in Western music, is where each time value is a multiple or fraction of a fixed unit (beat, see paragraph below), and normal accents reoccur regularly, providing systematic grouping (bars, divisive rhythm).
+Measured rhythm is where each time value is a multiple or fraction of a specified time unit but there are not regularly recurring accents (additive rhythm).
+Free rhythm is where there is neither.Some music, including chant, has freer rhythm, like the rhythm of prose compared to that of verse. Some music, such as some graphically scored works since the 1950s and non-European music such as Honkyoku repertoire for shakuhachi, may be considered ametric. The music term senza misura is Italian for "without metre", meaning to play without a beat, using time to bar how long it will take to play the bar.
+Metric structure includes metre, tempo, and all rhythmic aspects that produce temporal regularity or structure, against which the foreground details or durational patterns of any piece of music are projected. Metric levels may be distinguished: the beat level is the metric level at which pulses are heard as the basic time unit of the piece. Faster levels are division levels, and slower levels are multiple levels. A rhythmic unit is a durational pattern which occupies a period of time equivalent to a pulse or pulses on an underlying metric level.
+
+
+
+In duple metre, each measure is divided into two beats, or a multiple thereof (quadruple metre).
+For example, in the time signature 4, each bar contains two (2) quarter-note (4) beats. In the time signature 8, each bar contains two dotted-quarter-note beats.
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+Corresponding quadruple metres are 4, which has four quarter-note beats per measure, and 8, which has four dotted-quarter-note beats per bar.
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Triple metre is a metre in which each bar is divided into three beats, or a multiple thereof. For example, in the time signature 4, each bar contains three (3) quarter-note (4) beats, and with a time signature of 8, each bar contains three dotted-quarter beats.
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+Metres with more than four beats are called quintuple metres (5), sextuple metres (6), septuple metres (7), etc.
+In classical music theory it is presumed that only divisions of two or three are perceptually valid, so in metres not divisible by 2 or 3, such as quintuple metre, say 4, is assumed to either be equivalent to a measure of 4 followed by a measure of 4, or the opposite: 4 then 4. Higher metres which are divisible by 2 or 3 are considered equivalent to groupings of tuple or triple metre measures, thus, 4, for example, is rarely used because it is considered equivalent to two measures of 4. See: hypermetre and additive rhythm and divisive rhythm.
+Higher metres are used more commonly in analysis, if not performance, of cross-rhythms, as lowest number possible which may be used to count a polyrhythm is the lowest common denominator (LCD) of the two or more metric divisions. For example, much African music is recorded in Western notation as being in 8, the LCD of 4 and 3.
+
+Simple metre and compound metre are distinguished by the way the beats are subdivided.
+
+Simple metre (or simple time) is a metre in which each beat of the bar divides naturally into two (as opposed to three) equal parts. The top number in the time signature will be 2, 3, 4, 5, etc.
+For example, in the time signature 4, each bar contains three quarter-note beats, and each of those beats divides into two eighth notes, making it a simple metre. More specifically, it is a simple triple metre because there are three beats in each measure; simple duple (two beats) or simple quadruple (four) are also common metres.
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Compound metre (or compound time), is a metre in which each beat of the bar divides naturally into three equal parts. That is, each beat contains a triple pulse. The top number in the time signature will be 6, 9, 12, 15, 18, 24, etc.
+Compound metres are written with a time signature that shows the number of divisions of beats in each bar as opposed to the number of beats. For example, compound duple (two beats, each divided into three) is written as a time signature with a numerator of six, for example, 8. Contrast this with the time signature 4, which also assigns six eighth notes to each measure, but by convention connotes a simple triple time: 3 quarter-note beats.
+Examples of compound metre include 8 (compound duple metre), 8 (compound triple metre), and 8 (compound quadruple metre).
+
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+
+Audio playback is not supported in your browser. You can download the audio file.
+Although 4 and 8 are not to be confused, they use bars of the same length, so it is easy to "slip" between them just by shifting the location of the accents. This interpretational switch has been exploited, for example, by Leonard Bernstein, in the song "America":
+Compound metre divided into three parts could theoretically be transcribed into musically equivalent simple metre using triplets. Likewise, simple metre can be shown in compound through duples. In practice, however, this is rarely done because it disrupts conducting patterns when the tempo changes. When conducting in 8, conductors typically provide two beats per bar; however, all six beats may be performed when the tempo is very slow.
+Compound time is associated with "lilting" and dancelike qualities. Folk dances often use compound time. Many Baroque dances are often in compound time: some gigues, the courante, and sometimes the passepied and the siciliana.
+
+The concept of metre in music derives in large part from the poetic metre of song and includes not only the basic rhythm of the foot, pulse-group or figure used but also the rhythmic or formal arrangement of such figures into musical phrases (lines, couplets) and of such phrases into melodies, passages or sections (stanzas, verses) to give what Holst (1963) calls "the time pattern of any song".
+Traditional and popular songs may draw heavily upon a limited range of metres, leading to interchangeability of melodies. Early hymnals commonly did not include musical notation but simply texts that could be sung to any tune known by the singers that had a matching metre. For example, The Blind Boys of Alabama rendered the hymn "Amazing Grace" to the setting of The Animals' version of the folk song "The House of the Rising Sun". This is possible because the texts share a popular basic four-line (quatrain) verse-form called ballad metre or, in hymnals, common metre, the four lines having a syllable-count of 8–6–8–6 (Hymns Ancient and Modern Revised), the rhyme-scheme usually following suit: ABAB. There is generally a pause in the melody in a cadence at the end of the shorter lines so that the underlying musical metre is 8–8–8–8 beats, the cadences dividing this musically into two symmetrical "normal" phrases of four bars each.
+In some regional music, for example Balkan music (like Bulgarian music, and the Macedonian 3+2+2+3+2 metre), a wealth of irregular or compound metres are used. Other terms for this are "additive metre" and "imperfect time".
+
+Metre is often essential to any style of dance music, such as the waltz or tango, that has instantly recognizable patterns of beats built upon a characteristic tempo and bar. The Imperial Society of Teachers of Dancing defines the tango, for example, as to be danced in 4 time at approximately 66 beats per minute. The basic slow step forwards or backwards, lasting for one beat, is called a "slow", so that a full "right–left" step is equal to one 4 bar.
+But step-figures such as turns, the corte and walk-ins also require "quick" steps of half the duration, each entire figure requiring 3–6 "slow" beats. Such figures may then be "amalgamated" to create a series of movements that may synchronise to an entire musical section or piece. This can be thought of as an equivalent of prosody (see also: prosody (music)).
+
+In music of the common practice period (about 1600–1900), there are four different families of time signature in common use:
+Simple duple: two or four beats to a bar, each divided by two, the top number being "2" or "4" (4, 8, 2 ... 4, 8, 2 ...). When there are four beats to a bar, it is alternatively referred to as "quadruple" time.
+Simple triple: three beats to a bar, each divided by two, the top number being "3" (4, 8, 2 ...)
+Compound duple: two beats to a bar, each divided by three, the top number being "6" (8, 16, 4 ...) Similarly compound quadruple, four beats to a bar, each divided by three, the top number being "12" (8, 16, 4 ...)
+Compound triple: three beats to a bar, each divided by three, the top number being "9" (8, 16, 4)If the beat is divided into two the metre is simple, if divided into three it is compound. If each bar is divided into two it is duple and if into three it is triple. Some people also label quadruple, while some consider it as two duples. Any other division is considered additively, as a bar of five beats may be broken into duple+triple (12123) or triple+duple (12312) depending on accent. However, in some music, especially at faster tempos, it may be treated as one unit of five.
+
+In 20th-century concert music, it became more common to switch metre—the end of Igor Stravinsky's The Rite of Spring (shown below) is an example. This practice is sometimes called mixed metres.
+A metric modulation is a modulation from one metric unit or metre to another.
+The use of asymmetrical rhythms – sometimes called aksak rhythm (the Turkish word for "limping") – also became more common in the 20th century: such metres include quintuple as well as more complex additive metres along the lines of 2+2+3 time, where each bar has two 2-beat units and a 3-beat unit with a stress at the beginning of each unit. Similar metres are often used in Bulgarian folk dances and Indian classical music.
+
+Hypermetre is large-scale metre (as opposed to smaller-scale metre). Hypermeasures consist of hyperbeats. "Hypermeter is metre, with all its inherent characteristics, at the level where bars act as beats". For example, the four-bar hypermeasures are the prototypical structure for country music, in and against which country songs work. In some styles, two- and four-bar hypermetres are common.
+The term was coined, together with "hypermeasures", by Edward T. Cone (1968), who regarded it as applying to a relatively small scale, conceiving of a still larger kind of gestural "rhythm" imparting a sense of "an extended upbeat followed by its downbeat" London (2012) contends that in terms of multiple and simultaneous levels of metrical "entrainment" (evenly spaced temporal events "that we internalize and come to expect", p. 9), there is no in-principle distinction between metre and hypermetre; instead, they are the same phenomenon occurring at different levels.
+Lee (1985) and Middleton have described musical metre in terms of deep structure, using generative concepts to show how different metres (4, 4, etc.) generate many different surface rhythms. For example, the first phrase of The Beatles' "A Hard Day's Night", excluding the syncopation on "night", may be generated from its metre of 4:
+
+
+4
+
+4
+
+4
+
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+
+
+
+4
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+8
+
+8
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's
+
+been
+
+a
+
+hard
+
+day's
+
+night...
+
+
+The syncopation may then be added, moving "night" forward one eighth note, and the first phrase is generated.
+
+With polymetre, the bar sizes differ, but the beat remains constant. Since the beat is the same, the various metres eventually agree. (Four bars of 4 = seven bars of 4). An example is the second moment, titled "Scherzo polimetrico", of Edmund Rubbra's Second String Quartet (1951), in which a constant triplet texture holds together overlapping bars of 8, 8, and 8, and barlines rarely coincide in all four instruments.
+With polyrhythm, the number of beats varies within a fixed bar length. For example, in a 4:3 polyrhythm, one part plays 4 while the other plays 4, but the 4 beats are stretched so that three beats of 4 are played in the same time as four beats of 4. More generally, sometimes rhythms are combined in a way that is neither tactus nor bar preserving—the beat differs and the bar size also differs. See Polytempi.
+Research into the perception of polymetre shows that listeners often either extract a composite pattern that is fitted to a metric framework, or focus on one rhythmic stream while treating others as "noise". This is consistent with the Gestalt psychology tenet that "the figure–ground dichotomy is fundamental to all perception". In the music, the two metres will meet each other after a specific number of beats. For example, a 4 metre and 4 metre will meet after 12 beats.
+In "Toads of the Short Forest" (from the album Weasels Ripped My Flesh), composer Frank Zappa explains: "At this very moment on stage we have drummer A playing in 8, drummer B playing in 4, the bass playing in 4, the organ playing in 8, the tambourine playing in 4, and the alto sax blowing his nose". "Touch And Go", a hit single by The Cars, has polymetric verses, with the drums and bass playing in 4, while the guitar, synthesizer, and vocals are in 4 (the choruses are entirely in 4). Magma uses extensively 8 on 4 (e.g. Mëkanïk Dëstruktïẁ Kömmandöh) and some other combinations. King Crimson's albums of the eighties have several songs that use polymetre of various combinations.
+Polymetres are a defining characteristic of the music of Meshuggah, whose compositions often feature unconventionally timed rhythm figures cycling over a 4 base.
+
+Polymetres
+
+
+ Beat-preserving polymetre 4 with 4
+
+ Beat-preserving polymetre 4 with 4
+
+ Measure-preserving polyrhythm 4 with 4
+
+
+ Beat-preserving polymetre 4 with 8
+
+ Beat-preserving polymetre 4 with 8
+
+ Beat-preserving polymetre 4 with 8
+
+
+ Measure-preserving polyrhythm 2:3
+
+ Measure-preserving polyrhythm 4:3
+
+ Measure-preserving polyrhythm 5:4
+
+Various metres
+
+
+ 8 at tempo of 90 bpm
+
+ 8 at tempo of 90 bpm
+
+ 8 at tempo of 90 bpm
+
+
+ 4 at a tempo of 60 bpm
+
+ 4 at a tempo of 60 bpm
+
+ 4 at a tempo of 60 bpm
+Metre (hymn)
+Metre (poetry)
+Hymn tune
+List of musical works in unusual time signaturesAnon. (1999). "Polymeter." Baker's Student Encyclopedia of Music, 3 vols., ed. Laura Kuhn. New York: Schirmer-Thomson Gale; London: Simon & Schuster. ISBN 0-02-865315-7. Online version 2006: Archived 27 May 2011 at the Wayback Machine
+Anon. [2001]. "Polyrhythm". Grove Music Online. (Accessed 4 April 2009)
+Hindemith, Paul (1974). Elementary Training for Musicians, second edition (rev. 1949). Mainz, London, and New York: Schott. ISBN 0-901938-16-5.
+Honing, Henkjan (2002). "Structure and Interpretation of Rhythm and Timing." Tijdschrift voor Muziektheorie 7(3):227–232. (pdf)
+Larson, Steve (2006). "Rhythmic Displacement in the Music of Bill Evans". In Structure and Meaning in Tonal Music: Festschrift in Honor of Carl Schachter, edited by L. Poundie Burstein and David Gagné, 103–122. Harmonologia Series, no. 12. Hillsdale, New York: Pendragon Press. ISBN 1-57647-112-8.
+Waters, Keith (1996). "Blurring the Barline: Metric Displacement in the Piano Solos of Herbie Hancock". Annual Review of Jazz Studies 8:19–37.

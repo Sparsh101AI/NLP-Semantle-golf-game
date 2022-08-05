@@ -1,0 +1,431 @@
+In ring theory, a branch of mathematics, a semisimple algebra is an associative artinian algebra over a field which has trivial Jacobson radical (only the zero element of the algebra is in the Jacobson radical). If the algebra is finite-dimensional this is equivalent to saying that it can be expressed as a Cartesian product of simple subalgebras.
+The Jacobson radical of an algebra over a field is the ideal consisting of all elements that annihilate every simple left-module. The radical contains all nilpotent ideals, and if the algebra is finite-dimensional, the radical itself is a nilpotent ideal.  A finite-dimensional algebra is then said to be semisimple if its radical contains only the zero element.
+An algebra A is called simple if it has no proper ideals and A = {ab | a, b ∈ A}  ≠ {0}. As the terminology suggests, simple algebras are semisimple. The only possible ideals of a simple algebra A are A and {0}. Thus if A is simple, then A is not nilpotent. Because A is an ideal of A and A is simple, A = A. By induction, A = A for every positive integer n, i.e. A is not nilpotent.
+Any self-adjoint subalgebra A of n × n matrices with complex entries is semisimple. Let Rad(A) be the radical of A. Suppose a matrix M is in Rad(A). Then M*M lies in some nilpotent ideals of A, therefore (M*M) = 0 for some positive integer k. By positive-semidefiniteness of M*M, this implies M*M = 0. So M x is the zero vector for all x, i.e. M = 0.
+If {Ai} is a finite collection of simple algebras, then their Cartesian product A=Π Ai is semisimple. If (ai) is an element of Rad(A) and e1 is the multiplicative identity in A1 (all simple algebras possess a multiplicative identity), then (a1, a2, ...) · (e1, 0, ...) = (a1, 0..., 0) lies in some nilpotent ideal of Π Ai. This implies, for all b in A1, a1b is nilpotent in A1, i.e. a1 ∈ Rad(A1). So a1 = 0. Similarly, ai = 0 for all other i.
+It is less apparent from the definition that the converse of the above is also true, that is, any finite-dimensional semisimple algebra is isomorphic to a Cartesian product of a finite number of simple algebras.
+Let A be a finite-dimensional semisimple algebra, and
+
+
+
+
+{
+0
+}
+=
+
+J
+
+0
+
+
+⊂
+⋯
+⊂
+
+J
+
+n
+
+
+⊂
+A
+
+
+{\displaystyle \{0\}=J_{0}\subset \cdots \subset J_{n}\subset A}
+
+be a composition series of A, then A is isomorphic to the following Cartesian product:
+
+
+
+
+A
+≃
+
+J
+
+1
+
+
+×
+
+J
+
+2
+
+
+
+/
+
+
+J
+
+1
+
+
+×
+
+J
+
+3
+
+
+
+/
+
+
+J
+
+2
+
+
+×
+.
+.
+.
+×
+
+J
+
+n
+
+
+
+/
+
+
+J
+
+n
+−
+1
+
+
+×
+A
+
+/
+
+
+J
+
+n
+
+
+
+
+{\displaystyle A\simeq J_{1}\times J_{2}/J_{1}\times J_{3}/J_{2}\times ...\times J_{n}/J_{n-1}\times A/J_{n}}
+
+where each
+
+
+
+
+
+J
+
+i
++
+1
+
+
+
+/
+
+
+J
+
+i
+
+
+
+
+
+{\displaystyle J_{i+1}/J_{i}\,}
+
+is a simple algebra.
+The proof can be sketched as follows. First, invoking the assumption that A is semisimple, one can show that the J1 is a simple algebra (therefore unital). So J1 is a unital subalgebra and an ideal of J2. Therefore, one can decompose
+
+
+
+
+
+J
+
+2
+
+
+≃
+
+J
+
+1
+
+
+×
+
+J
+
+2
+
+
+
+/
+
+
+J
+
+1
+
+
+.
+
+
+{\displaystyle J_{2}\simeq J_{1}\times J_{2}/J_{1}.}
+
+By maximality of J1 as an ideal in J2 and also the semisimplicity of A, the algebra
+
+
+
+
+
+J
+
+2
+
+
+
+/
+
+
+J
+
+1
+
+
+
+
+
+{\displaystyle J_{2}/J_{1}\,}
+
+is simple. Proceed by induction in similar fashion proves the claim. For example, J3 is the Cartesian product of simple algebras
+
+
+
+
+
+J
+
+3
+
+
+≃
+
+J
+
+2
+
+
+×
+
+J
+
+3
+
+
+
+/
+
+
+J
+
+2
+
+
+≃
+
+J
+
+1
+
+
+×
+
+J
+
+2
+
+
+
+/
+
+
+J
+
+1
+
+
+×
+
+J
+
+3
+
+
+
+/
+
+
+J
+
+2
+
+
+.
+
+
+{\displaystyle J_{3}\simeq J_{2}\times J_{3}/J_{2}\simeq J_{1}\times J_{2}/J_{1}\times J_{3}/J_{2}.}
+
+The above result can be restated in a different way. For a semisimple algebra A = A1 ×...× An expressed in terms of its simple factors, consider the units ei ∈ Ai. The elements Ei = (0,...,ei,...,0) are idempotent elements in A and they lie in the center of A. Furthermore, Ei A = Ai, EiEj = 0 for i ≠ j,  and Σ Ei = 1, the multiplicative identity in A.
+Therefore, for every semisimple algebra A, there exists idempotents {Ei} in the center of A, such that
+EiEj = 0 for i ≠ j (such a set of idempotents is called central orthogonal),
+Σ Ei = 1,
+A is isomorphic to the Cartesian product of simple algebras E1 A ×...× En A.A theorem due to Joseph Wedderburn completely classifies finite-dimensional semisimple algebras over a field 
+
+
+
+k
+
+
+{\displaystyle k}
+
+.  Any such algebra is isomorphic to a finite product 
+
+
+
+∏
+
+M
+
+
+n
+
+i
+
+
+
+
+(
+
+D
+
+i
+
+
+)
+
+
+{\displaystyle \prod M_{n_{i}}(D_{i})}
+
+ where the 
+
+
+
+
+n
+
+i
+
+
+
+
+{\displaystyle n_{i}}
+
+ are natural numbers, the 
+
+
+
+
+D
+
+i
+
+
+
+
+{\displaystyle D_{i}}
+
+ are division algebras over 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, and 
+
+
+
+
+M
+
+
+n
+
+i
+
+
+
+
+(
+
+D
+
+i
+
+
+)
+
+
+{\displaystyle M_{n_{i}}(D_{i})}
+
+ is the algebra of 
+
+
+
+
+n
+
+i
+
+
+×
+
+n
+
+i
+
+
+
+
+{\displaystyle n_{i}\times n_{i}}
+
+ matrices over 
+
+
+
+
+D
+
+i
+
+
+
+
+{\displaystyle D_{i}}
+
+. This product is unique up to permutation of the factors.
+This theorem was later generalized by Emil Artin to semisimple rings. This more general result is called the Artin-Wedderburn theorem.
+Springer Encyclopedia of Mathematics

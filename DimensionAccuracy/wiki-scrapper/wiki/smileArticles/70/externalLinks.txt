@@ -1,0 +1,12 @@
+https://www.uniprot.org/keywords/456
+http://membranome.org/protein_classes/12
+https://web.archive.org/web/20120716211104/http://www.chem.qmul.ac.uk/iubmb/enzyme/EC4/intro.html
+https://en.wikipedia.org/w/index.php?title=Template:Enzymes&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Carbon%E2%80%93carbon_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Carbon%E2%80%93oxygen_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Carbon%E2%80%93nitrogen_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Carbon%E2%80%93sulfur_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Carbon%E2%80%93halide_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Phosphorus%E2%80%93oxygen_lyases&action=edit
+https://en.wikipedia.org/w/index.php?title=Lyase&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Enzyme-stub&action=edit

@@ -1,0 +1,100 @@
+A green wall is a vertical built structure intentionally covered by vegetation. Green walls include a vertically applied growth medium such as soil, substitute substrate, or hydroculture felt; as well as an integrated hydration and fertigation delivery system. They are also referred to as living walls or vertical gardens, and widely associated with the delivery of many beneficial ecosystem services.
+Green walls differ from the more established vertical greening typology of 'green facades' as they have the growth medium supported on the vertical face of the host wall (as described below), while green facades have the growth medium only at the base (either in a container or as a ground bed). Green facades typically support climbing plants that climb up the vertical face of the host wall, while green walls can accommodate a variety of plant species. Green walls may be implanted indoors or outdoors; as freestanding installations or attached to existing host walls; and applied in a variety of sizes.
+Stanley Hart White, a Professor of Landscape Architecture at the University of Illinois from 1922 to 1959, patented a 'vegetation-Bearing Architectonic Structure and System' in 1938, though his invention did not progress beyond prototypes in his backyard in Urbana, Illinois. The popularising of green walls is often credited to Patrick Blanc, a French botanist specialised in tropical forest undergrowth. He worked with architect Adrien Fainsilber and engineer Peter Rice to implement the first successful large indoor green wall or Mur Vegetal in 1986 at the Cité des Sciences et de l'Industrie in Paris, and has since been involved with the design and implementation of a number of notable installations (e.g. Musée du quai Branly, collaborating with architect Jean Nouvel).
+Green walls have seen a surge in popularity in recent times. An online database provided by greenroof.com for example had reported 80% of the 61 large-scale outdoor green walls listed as constructed after 2009, with 93% after 2007.
+Many notable green walls have been installed at institutional buildings and public places, with both outdoor and indoor installations gaining significant attention. As of 2015, the largest green wall is said to cover 2,700 square meters (29,063 square feet) and is located at the Los Cabos International Convention Centre designed by Mexican architect Fernando Romero.
+Green walls are often constructed of modular panels that hold a growing medium and can be categorized according to the type of growth media used: loose media, mat media, and structural media.
+Media Free systems utilize a method of selecting plant species which are best suited to the climate where the green wall is located, and as a result, these media free systems do not require soil substrates, fertilizers, or reticulated watering systems. These Media Free systems result in green walls which are considerably lighter than other methods, and also require significantly less maintenance, while the risk of liquid migration into adjoining structural walls is eliminated. The plant species which can be used in Media Free systems varies depending on the location of the planned green wall. Xeric plants, such as Tillandsias, can be used because they absorb available atmospheric water and nutrients via trichome leaf cells, and their roots have developed to hold onto a support structure, unlike other plants which use their roots as a medium to absorb nutrients. The other benefit of Tillandsias within a Media Free system is that these plants use a crassulacean acid metabolism to photosynthesize, and they have evolved to withstand long periods of heat and drought, and as a result, these plants grow slowly and require minimal maintenance. These Media Free green walls often use a structural steel frame that is infilled with wire mesh, which is then attached to the façade of the structure, and plants are individually attached to this wire mesh. These frames are offset from the supporting structure to allow airflow between the green wall and the supporting structure, and this offset results in additional cooling to the adjoining building. Every three-to-five-years, any additional plant growth can be harvested to reduce weight, and these plant pups can be utilized for additional green walls. As long as suitable species are matched to the climate of the green wall’s location, then potential plant losses across any three-to-five-year period is minor. As there is no watering system involved this method eliminates potential mold, algae and moss problems that can plague other systems.
+Freestanding media are portable living walls that are flexible for interior landscaping. Zauben living walls are designed with hydroponic technology that conserves 75% more water than plants grown in soil, self-irrigates, and includes moisture sensors.
+Loose medium walls tend to be "soil-on-a-shelf" or "soil-in-a-bag" type systems.  Loose medium systems have their soil packed into a shelf or bag and are then installed onto the wall.  These systems require their media to be replaced at least once a year on exteriors and approximately every two years on interiors.  Loose soil systems are not well suited for areas with any seismic activity.  Most importantly, because these systems can easily have their medium blown away by wind-driven rain or heavy winds, these should not be used in applications over 2.5 m high.  There are some systems in Asia that have solved the loose media erosion problem by use of shielding systems to hold the media within the green wall system even when soil liquefaction occurs under seismic load.  In these systems, the plants can still up-root themselves in the liquified soil under seismic load, and therefore it is required that the plants be secured to the system to prevent them from falling from the wall.  Loose-soil systems without physical media erosion systems are best suited for the home gardener where occasional replanting is desired from season to season or year to year.  Loose-soil systems with physical media erosion systems are well suited for all green wall applications.
+Mat type systems tend to be either coir fiber or felt mats. Mat media are quite thin, even in multiple layers, and as such cannot support vibrant root systems of mature plants for more than three to five years before the roots overtake the mat and water is not able to adequately wick through the mats. The method of reparation of these systems is to replace large sections of the system at a time by cutting the mat out of the wall and replacing it with new mat. This process compromises the root structures of the neighboring plants on the wall and often kills many surrounding plants in the reparation process. These systems are best used on the interior of a building and are a good choice in areas with low seismic activity and small plants that will not grow to a weight that could rip the mat apart under their own weight over time.  It is important to note that mat systems are particularly water inefficient and often require constant irrigation due to the thin nature of the medium and its inability to hold water and provide a buffer for the plant roots. This inefficiency often requires that these systems have a water re-circulation system put into place at an additional cost. Mat media are better suited for small installations no more than eight feet in height where repairs are easily completed.
+Semi-open cell polyurethane sheet media utilising an egg crate pattern has successfully been used in recent years for both outdoor roof gardens and vertical walls. The water holding capacity of these engineered polyurethanes vastly exceeds that of coir and felt based systems. Polyurethanes do not biodegrade, and hence stay viable as an active substrate for 20+ years. Vertical wall systems utilising polyurethane sheeting typically employ a sandwich construction where a water proof membrane is applied to the back, the polyurethane sheeting (typically two sheets with irrigation lines in between) is laid and then a mesh or anchor braces/bars secure the assembly to the wall. Pockets are cut into the face of the first urethane sheet into which plants are inserted. Soil is typically removed from the roots of any plants prior to insertion into the urethane mattress substrate. A flaked or chopped noodle version of the same polyurethane material can also be added to existing structural media mixes to boost water retention.
+Structural media are growth medium "blocks" that are not loose, nor mats, but which incorporate the best features of both into a block that can be manufactured into various sizes, shapes and thicknesses.  These media have the advantage that they do not break down for 10 to 15 years, can be made to have a higher or lower water holding capacity depending on the plant selection for the wall, can have their pH and EC's customized to suit the plants, and are easily handled for maintenance and replacement.
+There is also some discussion involving "active" living walls.  An active living wall actively pulls or forces air through the plants le quality to the point that the installation of other air quality filtration systems can be removed to provide a cost-savings.  Therefore, the added cost of design, planning and implementation of an active living wall is still in question.  With further research and UL standards to support the air quality data from the living wall, building code may one day allow for our buildings to have their air filtered by plants.
+The area of air quality and plants is continuing to be researched.  Early studies in this area include NASA studies performed in the 1970s and 1980s by B. C. Wolverton.  There was also a study performed at the University of Guelph by Alan Darlington. Other research has shown the effect the plants have on the health of office workers.
+Green walls are found most often in urban environments where the plants reduce overall temperatures of the building. "The primary cause of heat build-up in cities is insolation, the absorption of solar radiation by roads and buildings in the city and the storage of this heat in the building material and its subsequent re-radiation. Plant surfaces however, as a result of transpiration, do not rise more than 4–5 °C above the ambient and are sometimes cooler."
+Living walls may also be a means for water reuse. The plants may purify slightly polluted water (such as greywater) by absorbing the dissolved nutrients. Bacteria mineralize the organic components to make them available to the plants. A study is underway at the Bertschi School in Seattle, Washington, using a GSky Pro Wall system, however, no publicly available data on this is available at this time.
+Living walls are particularly suitable for cities, as they allow good use of available vertical surface areas. They are also suitable in arid areas, as the circulating water on a vertical wall is less likely to evaporate than in horizontal gardens.
+The living wall could also function for urban agriculture, urban gardening, or for its beauty as art. It is sometimes built indoors to help alleviate sick building syndrome.
+Living walls are also acknowledged for remediation of poor air quality, both to internal and external areas.
+Green walls provide an additional layer of insulation that can protect buildings from heavy rainwater which leads to management of heavy storm water and provides thermal mass. They also help reduce the temperature of a building because vegetation absorbs large amounts of solar radiation. This can reduce energy demands and cleanse the air from VOC’s (Volatile Organic Compounds) released by paints, furniture, and adhesives. Off-gassing from VOCs can cause headaches, eye irritation, and airway irritation and internal air pollution. Green walls can also purify the air from mould growth in building interiors that can cause asthma and allergies. Vegetation in green walls can help with the mitigation of the heat island effect and contribute to urban biodiversity.
+Indoor green walls can have a therapeutic effect from exposure to vegetation. The aesthetic feel and visual appearance of green walls are other examples of the benefits - but also affects the indoor climate with reduced CO2 level, noise level and air pollution abatement. However, to have the optimal effect on the indoor climate it is important that the plants in the green wall has the best conditions for growth, both when talking about watering, fertilizing and the right amount of light. To have the best result on all of the aforementioned, some green wall systems has special and patented technologies that is developed to the benefit of the plants.
+Another example in urban areas is green walls provide acoustic protection and reduces the noise through sound absorption.
+Thomas Pugh, a biogeochemist at the Karlsruhe Institute of Technology in Germany, created a computer model of a green wall with a broad selection of vegetation. The study showed results of the green wall absorbing nitrogen dioxide and particulate matter. In street canyons where polluted air is trapped, green walls can absorb the polluted air and purify the streets.
+Green facades are plants that climb or hang along the walls. Plants can grow upward or downward.
+There are two classifications to green facades: direct and indirect. Direct green facades are attached to the wall while indirect green facades incorporates a structure that will support it for plants. Indirect green facades include two different solutions: continuous and modular. Modular and continuous systems secure the living wall and further protect so it can hold itself from the changing weather. Modular green facades have vessels for rooting plants and come in forms such as trays, vessels, planter tiles, or flexible bags.
+Living walls have a uniform way of growing plants. There is more technology and installation involved. They have permeable screens where each plant is individually put in and in the application is lightweight.
+Living walls require varying levels of maintenance, and the frequency and costs of this maintenance is largely dependant on the media system that the living wall uses. Media Free living walls typically only require maintenance once every three to six years. This is partly due to the slow growth and resilience of the highly selective choice of suitable plants, as well as not having to rely on any irrigation systems, pumps, nutrients or filtration systems. Media Free living walls usually do not require any weed removal, as the majority of weeds need a soil substrate in order to grow. Another benefit of Media Free systems is that the select range of species usually aren’t affected by any diseases. And unlike other Media systems where maintenance usually involves the removal of dead plants, Media Free walls usually require the removal of living plants in order to thin the plant coverage, and once removed, this additional plant growth can be used on other living walls.
+The majority of Freestanding Media, Loose Media, Mat Media, Sheet Media and Structural Media systems require irrigation systems, pumps, nutrients and filtration systems, which all need to be regularly monitored and occasionally replaced. PNK and Ph levels need to be monitored and maintained. Pruning dead plants and weeds will keep the wall healthy, and gaps need to be filled. Plants need to be close together in order to improve aesthetics. The right plants need to be chosen for the right places because the ones with disease can contaminate others surrounding it. In order to have a wall growing all year round, 95 percent of the plants need to be evergreen. Perennials are best for seasonal green walls. It is necessary to choose plants that can withstand disease since replacement is costly. Plants grown vegetatively are potentially at a greater risk of disease than plants which are grown from seed which can have greater genetic diversity. The lifespans of plants will also need to be considered when assessing long term green walls. There are specific plants best suited for different environments. Different plants for shade, sun, wind, or a combination of them will need to be considered for longer lifespans.
+Aechmea
+Tillandsia
+VrieseaBasil
+Bay laurel
+Caraway
+Chamomile
+Chives
+Coriander
+Curry plant
+Dill
+Lavender
+Lemon balm
+Lemongrass
+Marjoram
+Mint
+Oregano
+Parsley
+Rosemary
+Sage
+Sorrel
+Tarragon
+ThymeChard
+Cherry tomatoes
+Dwarf cabbages
+Lettuce
+Radishes
+Rocket
+Silverbeet
+Small chili peppers
+Spinach
+Strawberries
+WatercressAchillea
+Acorus
+Armeria maritima
+Bergenia
+Bidens
+Calamintha nepeta
+Carex
+Convolvulus cneorum
+Erica
+Geranium
+Lavender
+Liriope
+Pansy
+Rosemary
+Sedum
+Solidago
+Thyme
+WestringiaAdiantum
+Asplenium
+Begonia
+Bergenia
+Chlorophytum comosum
+Erica
+Euphorbia
+Heuchera
+Polystichum
+SnowdropClapp, L., & Klotz, H. (2018). Vertical gardens. London ; Sydney ; Auckland: New Holland.
+Coronado, S. (2015). Grow a living wall - create vertical gardens with purpose: Pollinators - he. Cool Springs Press.
+Hyatt, B. (2017, June 29). The ins and outs of green wall installation and maintenance. Retrieved March 2, 2019, from https://www.totallandscapecare.com/landscaping/green-wall-maintenance/
+Manso, Maria; Castro-Gomes, João (January 2015). "Green wall systems: A review of their characteristics". Renewable and Sustainable Energy Reviews. 41: 863–871. doi:10.1016/j.rser.2014.07.203. S2CID 110322582.
+Gunawardena, K., & Steemers, K. (2019). Living walls in indoor environments. Building and Environment, 148 (January 2019), 478–487. Living walls in indoor environments
+Pictures: Green Walls May Cut Pollution in Cities. (2016, May 17). Retrieved from https://news.nationalgeographic.com/news/2013/03/pictures/130325-green-walls-environment-cities-science-pollution/
+Reggev, K. (2018, January 18). Living Green Walls 101: Their Benefits and How They're Made. Retrieved March 2, 2019, from https://www.dwell.com/article/living-green-walls-101-their-benefits-and-how-theyre-made-350955f3
+Gunawardena, K.R.; Wells, M.J.; Kershaw, T. (2017). "Utilising green and bluespace to mitigate urban heat island intensity". Science of the Total Environment. Elsevier BV. 584–585: 1040–1055. Bibcode:2017ScTEn.584.1040G. doi:10.1016/j.scitotenv.2017.01.158. ISSN 0048-9697. PMID 28161043. Tree-dominated greenspace offers greater heat stress relief when most required. Badly designed bluespace may exacerbate heat-stress during oppressive conditions.
+Thomas A. M. Pugh; A. Robert MacKenzie; J. Duncan Whyatt; C. Nicholas Hewitt (2012). "The effectiveness of green infrastructure for improvement of air quality in urban street canyons" (PDF). Environmental Science & Technology. 46 (14): 7692–7699. Bibcode:2012EnST...46.7692P. doi:10.1021/es300826w. PMID 22663154.
+Visone, M. (2019). Down to the Vertical Gardens. Compasses, 32, 33-40. Down to the Vertical GardensBuilding-integrated agriculture
+Folkewall
+Green roof
+The Hanging Gardens of Babylon
+Hügelkultur
+Vertical farmingGreen Infrastructure Resource Guide

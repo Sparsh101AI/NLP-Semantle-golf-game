@@ -1,0 +1,32 @@
+Diadenosine hexaphosphate hydrolase (ATP-forming) (EC 3.6.1.61, Ndx1) is an enzyme with systematic name P1,P6-bis(5'-adenosyl)hexaphosphate nucleotidohydrolase (ATP-forming). This enzyme catalyses the following chemical reaction
+(1) P1,P6-bis(5'-adenosyl)hexaphosphate + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ 2 ATP
+(2) P1,P5-bis(5'-adenosyl)pentaphosphate + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ ATP + ADP
+(3) P1,P4-bis(5'-adenosyl)tetraphosphate + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ ATP + AMPThe enzyme requires the presence of the divalent cations (Mn, Mg, Zn, and Co).
+Diadenosine+hexaphosphate+hydrolase+(ATP-forming) at the US National Library of Medicine Medical Subject Headings (MeSH)

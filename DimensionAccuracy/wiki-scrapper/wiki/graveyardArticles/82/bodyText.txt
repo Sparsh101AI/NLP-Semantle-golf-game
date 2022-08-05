@@ -1,0 +1,518 @@
+This is a list of the mammal species recorded in Russia. There are 266 mammal species in Russia, of which five are critically endangered, thirteen are endangered, twenty-six are vulnerable, and six are near threatened. One of the species listed for Russia is extinct and one can no longer be found in the wild. All the mammals of Russia are in the subclass Theria and infraclass Eutheria, being all placental.
+The following tags are used to highlight each species' conservation status as assessed by the International Union for Conservation of Nature:
+Sirenia is an order of fully aquatic, herbivorous mammals that inhabit rivers, estuaries, coastal marine waters, swamps, and marine wetlands. All four species are endangered.
+Family: Dugongidae
+Genus: Hydrodamalis
+Steller's sea cow, H. gigas EXRodents make up the largest order of mammals, with over 40% of mammalian species. They have two incisors in the upper and lower jaw which grow continually and must be kept short by gnawing. Most rodents are small though the capybara can weigh up to 45 kg (99 lb).
+Suborder: Sciurognathi
+Family: Castoridae (beavers)
+Genus: Castor
+North American beaver, C. canadensis LC introduced
+Eurasian beaver, C. fiber LC
+Family: Sciuridae (squirrels)
+Subfamily: Sciurinae
+Tribe: Sciurini
+Genus: Sciurus
+Red squirrel, S. vulgaris LC
+Tribe: Pteromyini
+Genus: Pteromys
+Siberian flying squirrel, P. volans LC
+Subfamily: Xerinae
+Tribe: Marmotini
+Genus: Marmota
+Gray marmot, M. baibacina LC
+Bobak marmot, Marmota bobak
+Black-capped marmot, Marmota camtschatica
+Forest-steppe marmot, Marmota kastschenkoi
+Tarbagan marmot, Marmota sibirica
+Genus: Spermophilus
+Daurian ground squirrel, Spermophilus dauricus
+Red-cheeked ground squirrel, Spermophilus erythrogenys
+Russet ground squirrel, Spermophilus major
+Little ground squirrel, Spermophilus pygmaeus
+Speckled ground squirrel, Spermophilus suslicus
+Long-tailed ground squirrel, Spermophilus undulatus
+Genus: Eutamias
+Siberian chipmunk, E. sibiricus LC
+Family: Gliridae (dormice)
+Subfamily: Leithiinae
+Genus: Dryomys
+Forest dormouse, Dryomys nitedula
+Genus: Muscardinus
+Hazel dormouse, Muscardinus avellanarius
+Subfamily: Glirinae
+Genus: Glis
+European edible dormouse, Glis glis
+Family: Dipodidae (jerboas)
+Subfamily: Allactaginae
+Genus: Allactaga
+Small five-toed jerboa, Allactaga elater
+Great jerboa, Allactaga major
+Genus: Pygeretmus
+Dwarf fat-tailed jerboa, Pygeretmus pumilio
+Subfamily: Cardiocraniinae
+Genus: Salpingotus
+Heptner's pygmy jerboa, Salpingotus heptneri
+Subfamily: Dipodinae
+Genus: Dipus
+Northern three-toed jerboa, Dipus sagitta
+Genus: Stylodipus
+Thick-tailed three-toed jerboa, Stylodipus telum
+Subfamily: Sicistinae
+Genus: Sicista
+Northern birch mouse, Sicista betulina
+Caucasian birch mouse, Sicista caucasica
+Long-tailed birch mouse, Sicista caudata EN
+Kazbeg birch mouse, Sicista kazbegica DD
+Kluchor birch mouse, Sicista kluchorica DD
+Altai birch mouse, Sicista napaea
+Severtzov's birch mouse, Sicista severtzovi
+Strand's birch mouse, Sicista strandi
+Southern birch mouse, Sicista subtilis
+Family: Spalacidae
+Subfamily: Myospalacinae
+Genus: Myospalax
+False zokor, Myospalax aspalax
+Transbaikal zokor, Myospalax epsilanus
+Siberian zokor, Myospalax myospalax
+Transbaikal zokor, Myospalax psilurus
+Subfamily: Spalacinae
+Genus: Spalax
+Russian mole rat, Spalax giganteus VU
+Greater mole rat, Spalax microphthalmus VU
+Family: Cricetidae
+Subfamily: Cricetinae
+Genus: Cricetus
+European hamster, C. cricetus CR
+Genus: Cricetulus
+Chinese striped hamster, Cricetulus barabensis
+Long-tailed dwarf hamster, Cricetulus longicaudatus
+Grey dwarf hamster, Cricetulus migratorius
+Genus: Mesocricetus
+Ciscaucasian hamster, Mesocricetus raddei
+Genus: Phodopus
+Campbell's dwarf hamster, Phodopus campbelli
+Roborovski hamster, Phodopus roborovskii
+Winter white Russian dwarf hamster, Phodopus sungorus
+Genus: Tscherskia
+Greater long-tailed hamster, Tscherskia triton
+Subfamily: Arvicolinae
+Genus: Alticola
+Gobi Altai mountain vole, Alticola barakshin
+Lemming vole, Alticola lemminus
+Large-eared vole, Alticola macrotis
+Flat-headed vole, Alticola strelzowi
+Tuva silver vole, Alticola tuvinicus
+Genus: Arvicola
+European water vole, A. amphibius LC
+Genus: Chionomys
+Caucasian snow vole, Chionomys gud
+Robert's snow vole, Chionomys roberti
+Genus: Clethrionomys
+Bank vole, Clethrionomys glareolus
+Grey red-backed vole, Clethrionomys rufocanus
+Northern red-backed vole, Clethrionomys rutilus
+Shikotan vole, Clethrionomys sikotanensis
+Genus: Dicrostonyx
+Arctic lemming, Dicrostonyx torquatus
+Wrangel lemming, Dicrostonyx vinogradovi DD
+Genus: Lagurus
+Steppe lemming, Lagurus lagurus
+Genus: Lasiopodomys
+Brandt's vole, Lasiopodomys brandtii
+Genus: Lemmus
+Amur lemming, Lemmus amurensis
+Norway lemming, Lemmus lemmus
+Brown lemming, Lemmus sibiricus
+Genus: Microtus
+Field vole, Microtus agrestis
+Common vole, Microtus arvalis
+Daghestan pine vole, Microtus daghestanicus
+Evorsk vole, Microtus evoronensis DD
+Reed vole, Microtus fortis
+Narrow-headed vole, Microtus gregalis
+North Siberian vole, Microtus hyperboreus
+Maximowicz's vole, Microtus maximowiczii
+Middendorf's vole, Microtus middendorffi
+Mongolian vole, Microtus mongolicus
+Muisk vole, Microtus mujanensis DD
+Nasarov's vole, Microtus nasarovi
+Altai vole, Microtus obscurus
+Tundra vole, Microtus oeconomus LC
+Southern vole, Microtus rossiaemeridionalis
+Sakhalin vole, Microtus sachalinensis
+European pine vole, Microtus subterraneus
+Genus: Myopus
+Wood lemming, Myopus schisticolor NT
+Family: Muridae (mice, rats, voles, gerbils, hamsters, etc.)
+Subfamily: Gerbillinae
+Genus: Meriones
+Mid-day jird, Meriones meridianus
+Tamarisk jird, Meriones tamariscinus
+Mongolian jird, Meriones unguiculatus
+Subfamily: Murinae
+Genus: Apodemus
+Striped field mouse, Apodemus agrarius
+Yellow-necked mouse, Apodemus flavicollis
+Yellow-breasted field mouse, Apodemus fulvipectus
+Korean field mouse, Apodemus peninsulae
+Black Sea field mouse, Apodemus ponticus
+Wood mouse, Apodemus sylvaticus LC
+Ural field mouse, Apodemus uralensis
+Genus: Micromys
+Eurasian harvest mouse, Micromys minutus
+Genus: Rattus
+Brown rat, R. norvegicus LC introduced
+Black rat, R. rattus LCThe lagomorphs comprise two families, Leporidae (hares and rabbits), and Ochotonidae (pikas). Though they can resemble rodents, and were classified as a superfamily in that order until the early 20th century, they have since been considered a separate order. They differ from rodents in a number of physical characteristics, such as having four incisors in the upper jaw rather than two.
+Family: Leporidae (rabbits, hares)
+Genus: Lepus
+European hare, L. europaeus LC
+Manchurian hare, L. mandshuricus LC
+Mountain hare, L. timidus LC
+Tolai hare, L. tolai LC
+Genus: Oryctolagus
+European rabbit, O. cuniculus EN introduced
+Family: Ochotonidae (pikas)
+Genus: Ochotona
+Alpine pika, O. alpina LC
+Daurian pika, O.  dauurica
+Northern pika, O. hyperborea
+Pallas's pika, O. pallasi
+Steppe pika, O. pusilla LCEulipotyphlans are insectivorous mammals. Shrews and solenodons resemble mice, hedgehogs carry spines, gymnures look more like large rats, while moles are stout-bodied burrowers.
+Family: Erinaceidae (hedgehogs)
+Subfamily: Erinaceinae
+Genus: Erinaceus
+Amur hedgehog, Erinaceus amurensis
+Southern white-breasted hedgehog, Erinaceus concolor
+West European hedgehog, Erinaceus europaeus
+Genus: Mesechinus
+Daurian hedgehog, Mesechinus dauuricusFamily: Soricidae (shrews)
+Subfamily: Crocidurinae
+Genus: Crocidura
+Gueldenstaedt's shrew, Crocidura gueldenstaedtii
+Ussuri white-toothed shrew, Crocidura lasiura
+Bicolored shrew, Crocidura leucodon
+Siberian shrew, Crocidura sibirica
+Lesser white-toothed shrew, C. suaveolens LC
+Subfamily: Soricinae
+Tribe: Nectogalini
+Genus: Neomys
+Eurasian water shrew, Neomys fodiens
+Tribe: Soricini
+Genus: Sorex
+Common shrew, Sorex araneus
+Laxmann's shrew, Sorex caecutiens
+Kamchatka shrew, Sorex camtschatica
+Siberian large-toothed shrew, Sorex daphaenodon
+Slender shrew, Sorex gracillimus
+Taiga shrew, Sorex isodon
+Paramushir shrew, Sorex leucogaster VU
+Eurasian least shrew, Sorex minutissimus
+Eurasian pygmy shrew, Sorex minutus
+Ussuri shrew, Sorex mirabilis
+Portenko's shrew, Sorex portenkoi
+Radde's shrew, Sorex raddei
+Flat-skulled shrew, Sorex roboratus
+Caucasian shrew, Sorex satunini
+Tundra shrew, Sorex tundrensis
+Long-clawed shrew, Sorex unguiculatus
+Caucasian pygmy shrew, Sorex volnuchini
+Family: Talpidae (moles)
+Subfamily: Talpinae
+Tribe: Desmanini
+Genus: Desmana
+Russian desman, Desmana moschata VU
+Tribe: Talpini
+Genus: Mogera
+Large mole, Mogera robusta
+Genus: Talpa
+Siberian mole, Talpa altaica
+Caucasian mole, Talpa caucasica
+European mole, Talpa europaea
+Levantine mole, Talpa levantisThe bats' most distinguishing feature is that their forelimbs are developed as wings, making them the only mammals capable of flight. Bat species account for about 20% of all mammals.
+Family: Vespertilionidae
+Subfamily: Myotinae
+Genus: Myotis
+Sakhalin myotis, M. abei DD
+Bechstein's bat, M. bechsteini NT
+Lesser mouse-eared bat, M. blythii LC
+Far eastern myotis, M. bombinus LC
+Brandt's bat, M. brandti LC
+Long-fingered bat, M. capaccinii VU
+Pond bat, M. dasycneme NT
+Daubenton's bat, M. daubentonii LC
+Geoffroy's bat, M. emarginatus LC
+Fraternal myotis, Myotis frater LC
+Ikonnikov's bat, Myotis ikonnikovi LC
+Big-footed myotis, Myotis macrodactylus LC
+Whiskered bat, M. mystacinus LC
+Natterer's bat, M. nattereri LC
+Subfamily: Vespertilioninae
+Genus: Barbastella
+Western barbastelle, B. barbastellus NT
+Genus: Eptesicus
+Gobi big brown bat, Eptesicus gobiensis LC
+Northern bat, Eptesicus nilssoni LC
+Serotine bat, Eptesicus serotinus LC
+Genus: Nyctalus
+Birdlike noctule, Nyctalus aviator LC
+Greater noctule bat, N. lasiopterus NT
+Lesser noctule, N. leisleri LC
+Common noctule, N. noctula LC
+Genus: Pipistrellus
+Nathusius' pipistrelle, P. nathusii LC
+Genus: Plecotus
+Brown long-eared bat, P. auritus LC
+Genus: Vespertilio
+Parti-coloured bat, Vespertilio murinus LC
+Asian parti-colored bat, Vespertilio superans LC
+Subfamily: Murininae
+Genus: Murina
+Greater tube-nosed bat, Murina leucogaster LC
+Ussuri tube-nosed bat, Murina ussuriensis EN
+Subfamily: Miniopterinae
+Genus: Miniopterus
+Common bent-wing bat, M. schreibersii VU
+Family: Molossidae
+Genus: Tadarida
+European free-tailed bat, T. teniotis LC
+Family: Rhinolophidae
+Subfamily: Rhinolophinae
+Genus: Rhinolophus
+Mediterranean horseshoe bat, R. euryale NT
+Greater horseshoe bat, R. ferrumequinum LC
+Lesser horseshoe bat, R. hipposideros LC
+Mehely's horseshoe bat, R. mehelyi VUThe order Cetacea includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life with a spindle-shaped nearly hairless body, protected by a thick layer of blubber, and forelimbs and tail modified to provide propulsion underwater.
+Suborder: Mysticeti
+Family: Balaenidae
+Genus: Balaena
+Bowhead whale, Balaena mysticetus
+Genus: Eubalaena
+North Pacific right whale, Eubalaena japonica EN
+Family: Balaenopteridae
+Subfamily: Balaenopterinae
+Genus: Balaenoptera
+Minke whale, Balaenoptera acutorostrata
+Sei whale, Balaenoptera borealis EN
+Blue whale, Balaenoptera musculus EN
+Fin whale, Balaenoptera physalus EN
+Subfamily: Megapterinae
+Genus: Megaptera
+Humpback whale, Megaptera novaeangliae VU
+Family: Eschrichtiidae
+Genus: Eschrichtius
+Gray whale, Eschrichtius robustus
+Suborder: Odontoceti
+Superfamily: Platanistoidea
+Family: Physeteridae
+Genus: Physeter
+Sperm whale, Physeter macrocephalus VU
+Family: Kogiidae
+Genus: Kogia
+Pygmy sperm whale, K. breviceps DD
+Dwarf sperm whale, K. sima
+Family: Monodontidae
+Genus: Monodon
+Narwhal, Monodon monoceros DD
+Genus: Delphinapterus
+Beluga, Delphinapterus leucas VU
+Family: Phocoenidae
+Genus: Phocoena
+Harbour porpoise, Phocoena phocoena VU
+Genus: Phocoenoides
+Dall's porpoise, Phocoenoides dalli
+Family: Ziphidae
+Genus: Ziphius
+Cuvier's beaked whale, Ziphius cavirostris DD
+Genus: Berardius
+Giant beaked whale, Berardius bairdii
+Subfamily: Hyperoodontinae
+Genus: Hyperoodon
+Bottlenose whale, Hyperoodon ampullatus
+Genus: Mesoplodon
+Stejneger's beaked whale, Mesoplodon stejnegeri DD
+Family: Delphinidae (marine dolphins)
+Genus: Lagenorhynchus
+White-beaked dolphin, Lagenorhynchus albirostris LC
+Atlantic white-sided dolphin, Lagenorhynchus acutus LC
+Pacific white-sided dolphin, Lagenorhynchus obliquidens
+Genus: Tursiops
+Bottlenose dolphin, Tursiops truncatus DD
+Genus: Stenella
+Striped dolphin, Stenella coeruleoalba
+Genus: Delphinus
+Short-beaked common dolphin, Delphinus delphis
+Genus: Lissodelphis
+Northern right whale dolphin, Lissodelphis borealis
+Genus: Grampus
+Risso's dolphin, Grampus griseus DD
+Genus: Pseudorca
+False killer whale, Pseudorca crassidens
+Genus: Orcinus
+Orca, O. orca DDThere are over 260 species of carnivorans, the majority of which feed primarily on meat. They have a characteristic skull shape and dentition. 
+Suborder: Feliformia
+Family: Felidae (cats)
+Subfamily: Felinae
+Genus: Felis
+Jungle cat, F. chaus LC
+European wildcat, F. silvestris
+Genus: Lynx
+Eurasian lynx, L. lynx LC
+Genus Otocolobus
+Pallas's cat, O. manul LC
+Genus: Prionailurus
+Leopard cat, P. bengalensis LC
+Subfamily: Pantherinae
+Genus: Panthera
+Leopard, P. pardus VU
+Amur leopard, P. p. orientalis CR
+Persian leopard, P. p. tulliana EN
+Tiger, P. tigris EN
+Siberian tiger, P. t. tigris EN
+Snow leopard, P. uncia VU
+Suborder: Caniformia
+Family: Canidae (dogs, foxes)
+Genus: Vulpes
+Corsac fox, V. corsac LC
+Arctic fox, V. lagopus LC
+Red fox, V. vulpes LC
+Genus: Nyctereutes
+Raccoon dog, N. procyonoides LC
+Genus: Canis
+Golden jackal, C. aureus LC
+Gray wolf, C. lupus LC
+Tundra wolf, C. l. albus
+Steppe wolf, C. l. campestris
+Mongolian wolf, C. l. chanco
+Eurasian wolf, C. l. lupus
+Family: Ursidae (bears)
+Genus: Ursus
+Brown bear, U. arctos LC
+Eurasian brown bear, U. a. arctos
+Kamchatka brown bear, U. a. beringianus
+East Siberian brown bear, U. a. arctos
+Ussuri brown bear, U. a. lasiotus
+Polar bear, U. maritimus VU
+Asiatic black bear, U. thibetanus VU
+Ussuri black bear, U. t. ussuricus
+Family: Mustelidae (mustelids)
+Genus: Enhydra
+Sea otter, E. lutris EN
+Genus: Gulo
+Wolverine, G. gulo LC
+Genus: Lutra
+Eurasian otter, L. lutra NT
+Genus: Martes
+Yellow-throated marten, M. flavigula LC
+European pine marten, M. martes LC
+Beech marten, M. foina LC
+Sable, M. zibellina LC
+Genus: Meles
+Caucasian badger, M. canescens NE
+European badger, M. meles LC
+Asian badger, M. leucurus LC
+Genus: Mustela
+Mountain weasel, M. altaica NT
+Stoat, M. erminea LC
+Steppe polecat, M. eversmannii LC
+Japanese weasel, M. itatsi NT introduced, possibly extirpated
+European mink, M. lutreola CR
+Least weasel, M. nivalis LC
+European polecat, M. putorius LC
+Siberian weasel, M. sibirica LC
+Genus: Neogale
+American mink, N. vison LC introduced
+Genus: Vormela
+Marbled polecat, V. peregusna VU
+Family: Otariidae (eared seals, sealions)
+Genus: Callorhinus
+Northern fur seal, C. ursinus VU
+Genus: Eumetopias
+Steller sea lion, E. jubatus EN
+Genus: Zalophus
+Japanese sea lion, Z. japonicus EX vagrant
+Family: Odobenidae
+Genus: Odobenus
+Walrus, O. rosmarus LC
+Family: Phocidae (earless seals)
+Genus: Cystophora
+Hooded seal, C. cristata LC
+Genus: Erignathus
+Bearded seal, E. barbatus LC
+Genus: Halichoerus
+Grey seal, H. grypus LC
+Genus: Histriophoca
+Ribbon seal, H. fasciata LC
+Genus: Pagophilus
+Harp seal, P. groenlandicus LC
+Genus: Phoca
+Spotted seal, P. largha LC
+Common seal, P. vitulina LC
+Genus: Pusa
+Caspian seal, P. caspica VU
+Ringed seal, P. hispida LC
+Baikal seal, P. sibirica NTThe odd-toed ungulates are browsing and grazing mammals. They are usually large to very large, and have relatively simple stomachs and a large middle toe.
+Family: Equidae (horses etc.)
+Genus: Equus
+Wild horse, E. ferus EN reintroduced
+Przewalski's horse, E. f. przewalskii EN reintroduced
+Onager, E. hemionus NT
+Mongolian wild ass, E. h. hemionus NT
+Turkmenian kulan, E. h. kulan ENThe even-toed ungulates are ungulates whose weight is borne about equally by the third and fourth toes, rather than mostly or entirely by the third as in perissodactyls. There are about 220 artiodactyl species, including many that are of great economic importance to humans.
+Family: Suidae (pigs)
+Subfamily: Suinae
+Genus: Sus
+Wild boar, S. scrofa LC
+Family: Moschidae
+Genus: Moschus
+Siberian musk deer, M. moschiferus VU
+Family: Cervidae (deer)
+Subfamily: Cervinae
+Genus: Cervus
+Wapiti, C. canadensis LC
+Red deer, C. elaphus LC
+Sika deer, C. nippon LC
+Manchurian sika deer, C. n. mantchuricus
+Subfamily: Capreolinae
+Genus: Alces
+Moose, A. alces LC
+Genus: Capreolus
+Roe deer, C. capreolus LC
+Siberian roe deer, C. pygargus LC
+Genus: Rangifer
+Reindeer, R. tarandus VU
+Family: Bovidae (cattle, antelope, sheep, goats)
+Subfamily: Antilopinae
+Genus: Procapra
+Mongolian gazelle, P. gutturosa LC
+Genus: Saiga
+Saiga antelope, S. tatarica CR
+Subfamily: Bovinae
+Genus: Bos
+Wild yak, B. mutus VU extirpated
+Genus: Bison
+American bison, B. bison NT introduced
+Wood bison, B. b. athabascae introduced
+European bison, B. bonasus NT reintroduced
+Subfamily: Caprinae
+Genus: Capra
+Wild goat, C. aegagrus NT
+West Caucasian tur, C. caucasica EN
+East Caucasian tur, C. cylindricornis NT
+Siberian ibex, C. sibrica NT
+Genus: Nemorhaedus
+Chinese goral, N. caudatus VU
+Genus: Ovibos
+Muskox, O. moschatus LC
+Genus: Ovis
+Argali, O. ammon NT
+Snow sheep, O. nivicola LC
+Genus: Rupicapra
+Chamois, R. rupicapra LCThe following species are locally extinct in the country:
+Wild yak, Bos mutus (unclear if extant in Russia after 1500)
+Dhole, Cuon alpinus
+Mediterranean monk seal, Monachus monachusList of chordate orders
+Lists of mammals by region
+List of prehistoric mammals
+Mammal classification
+List of mammals described in the 2000s"Animal Diversity Web". University of Michigan Museum of Zoology. 1995–2006. Retrieved 22 May 2007.

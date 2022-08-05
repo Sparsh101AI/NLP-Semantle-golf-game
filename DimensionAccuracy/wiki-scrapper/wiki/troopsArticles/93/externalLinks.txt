@@ -1,0 +1,5 @@
+http://ipcomm.de/protocol/IEC62351/en/sheet.html
+https://web.archive.org/web/20150924001524/http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002003738
+http://www.iec.ch/search/?q=62351
+https://en.wikipedia.org/w/index.php?title=Template:List_of_International_Electrotechnical_Commission_standards&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Automation_protocols&action=edit

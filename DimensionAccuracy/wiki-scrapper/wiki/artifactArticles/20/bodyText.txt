@@ -1,0 +1,42 @@
+Mars atmospheric entry is the entry into the atmosphere of Mars. High velocity entry into Martian air creates a CO2-N2 plasma, as opposed to O2-N2 for Earth air. Mars entry is affected by the radiative effects of hot CO2 gas and Martian dust suspended in the air. Flight regimes for entry, descent, and landing systems include aerocapture, hypersonic, supersonic, and subsonic.
+Thermal protection systems and atmospheric friction have been used historically to reduce most of the kinetic energy that needs to be lost prior to landing, with parachutes and, sometimes, a final bit of retropropulsion used in the final landing.  High-altitude high-velocity retropropulsion is being researched for future transport flights landing heavier cargos.
+For example, Mars Pathfinder entered in 1997. About 30 minutes prior to entry, the cruise stage and entry capsule separated. When the capsule hit the atmosphere it decelerated from about 7.3 km/s to 0.4 km/s (16330 mph to 900 mph) over three minutes. As it descended the parachute opened to slow it down further, and soon after the heat shield was released. During entry a signal was relayed back to Earth, including semaphore signals for important events.
+
+
+ Comparison of altitude (y-axis) and velocity (x-axis) of various Mars landers
+
+ Parachute of Phoenix lander open as it descends in the Martian atmosphere. This picture was taken by the Mars Reconnaissance Orbiter with HiRISE
+
+ MSL heat shield
+
+Some examples of spacecraft that have attempted to land on the surface of Mars:
+Mars 2 (1971) – entered atmosphere but crashed
+Mars 3 (1971) – entered atmosphere, soft landed, lost after 20 seconds of data transmission from the surface
+Mars 6 (1973) – entered atmosphere but crashed
+Viking 1 (1975) – successfully landed
+Viking 2 (1975) – successfully landed
+Mars Pathfinder  (entered atmosphere in 1997)
+Beagle 2 (lost, confirmed landed but derelict in 2015)
+MER-A
+MER-B
+Mars Polar Lander (lost)
+Deep Space 2 (lost)
+Phoenix lander
+Mars Science Laboratory (Curiosity (rover))
+Schiaparelli EDM lander (lost)
+InSight lander  (entered atmosphere in 2018)
+Mars 2020 (Perseverance rover and Ingenuity helicopter)
+Tianwen-1 lander and remote camera and Zhurong roverA deployable decelerator like a parachute can slow down a spacecraft after a heat shield. Typically a Disk-Gap-Band parachute has been used, but another possibility are trailing or attached inflatable     entry devices. Inflatable types include sphere w/ fence, teardrop w/ fence, isotensoid, torus, or tension cone and attached types include isotensoid, tension cone, and stacked toroid blunted cone. Viking Program era researchers were the true pioneers of this technology, and development had to be restarted after decades of neglect. Those latest studies have shown that tension cone, isotensoid, and stacked torus may be the best types to pursue.
+Finland's MetNet probe may use an expandable entry shield if it is sent. Martian air can also be used for aerobraking to orbital velocity (aerocapture), rather than descent and landing. Supersonic retro-propulsion is another concept to shed velocity.
+NASA is carrying out research on retropropulsive deceleration technologies to develop new approaches to Mars atmospheric entry.  A key problem with propulsive techniques is handling the fluid flow problems and attitude control of the descent vehicle during the supersonic retropropulsion phase of the entry and deceleration.  More specifically, NASA is carrying out thermal imaging infrared sensor data-gathering studies of the SpaceX booster controlled-descent tests that are currently, as of 2014, underway.
+The research team is particularly interested in the 70–40-kilometer (43–25 mi) altitude range of the SpaceX "reentry burn" on the Falcon 9 Earth-entry tests as this is the "powered flight through the Mars-relevant retropulsion regime" that models Mars entry and descent conditions, although SpaceX is of course interested also in the final engine burn and lower velocity retropropulsive landing as well since that is a critical technology for their reusable booster development program which they hope to use for Mars landings in the 2020s.
+The following data were compiled by Mars Science Laboratory's Entry, Descent and Landing team at NASA's Jet Propulsion Laboratory. It provides a timeline of critical mission events that occurred on the evening of August 5 PDT (early on August 6 EDT).
+
+Curiosity's EDL team releases a timeline for mission milestones (depicted in this artist's concept) surrounding the landing of the Mars rover.
+
+Concept art for a Mars lander concept as it approaches the surface, illustrating how identifying a safe landing spot is a concern.
+Mars landing
+Venus atmospheric entry
+Hypercone (spacecraft)Atmospheric entry profiles from the Mars Exploration Rovers (.pdf)
+Overview of Dust Effects During Mars Atmospheric entries (.pdf)
+Ensuring safe landings on Mars - Nature 2009

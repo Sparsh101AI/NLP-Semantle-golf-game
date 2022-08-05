@@ -1,0 +1,12 @@
+History
+Description
+U+0000 to U+D7FF and U+E000 to U+FFFF
+Code points from U+010000 to U+10FFFF
+U+D800 to U+DFFF
+Examples
+Byte-order encoding schemes
+Usage
+See also
+Notes
+References
+External links

@@ -1,0 +1,9 @@
+ IEC 62264 is an international standard for enterprise-control system integration. This standard is based upon ANSI/ISA-95.
+IEC 62264 consists of the following parts detailed in separate IEC 62264 standard documents:
+Part 1:2013 Object Models and Attributes of Manufacturing Operations (Second edition 2013-05) 
+Part 2:2013 Object model attributes (Second edition 2013-06) 
+Part 3:2016 Activity models of manufacturing operations management (Second edition 2016-12) 
+Part 4:2015 Objects models attributes for manufacturing operations management integration 
+Part 5:2016 Business to manufacturing transactions
+Publicly Available Specification - Pre-standard Part 6:2016 Messaging Service ModelANSI/ISA-95
+Enterprise control"IEC 62264-1", "IEC 62264-2", "IEC 62264-3", "IEC 62264-4", "IEC 62264-5", "IEC 62264-6" at International Electrotechnical Commission

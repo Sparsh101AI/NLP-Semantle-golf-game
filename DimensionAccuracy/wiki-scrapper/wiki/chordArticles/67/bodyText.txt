@@ -1,0 +1,295 @@
+In mathematics, especially in functional analysis, the Tsirelson space is the first example of a Banach space in which neither an ℓ space nor a c0 space can be embedded. The Tsirelson space is reflexive.
+It was introduced by B. S. Tsirelson in 1974. The same year, Figiel and Johnson published a related article (Figiel & Johnson (1974)) where they used the notation T for the dual of  Tsirelson's example. Today, the letter T is the standard notation for the dual of the original example, while the original Tsirelson example is denoted by T*. In T* or in T, no subspace is isomorphic, as Banach space, to an ℓ space, 1 ≤ p < ∞, or to c0.
+All classical Banach spaces known to Banach (1932), spaces of continuous functions, of differentiable functions or of integrable functions, and all the Banach spaces used in functional analysis for the next forty years, contain some ℓ or c0. Also, new attempts in the early '70s to promote a geometric theory of Banach spaces led to ask  whether or not every infinite-dimensional Banach space has a subspace isomorphic to some ℓ or to c0.
+The radically new Tsirelson construction is at the root of several further developments in Banach space theory: the arbitrarily distortable space of Schlumprecht (Schlumprecht (1991)), on which depend Gowers' solution to Banach's hyperplane problem and the Odell–Schlumprecht solution to the distortion problem. Also, several results of Argyros et al. are based on ordinal refinements of the Tsirelson construction, culminating with the solution by Argyros–Haydon of the scalar plus compact problem.
+On the vector space ℓ of bounded scalar sequences  x = {xj } j∈N, let Pn denote the linear operator which sets to zero all coordinates xj of x for which j ≤ n.
+A finite sequence 
+
+
+
+{
+
+x
+
+n
+
+
+
+}
+
+n
+=
+1
+
+
+N
+
+
+
+
+{\displaystyle \{x_{n}\}_{n=1}^{N}}
+
+ of vectors in ℓ is called block-disjoint if there are natural numbers 
+
+
+
+
+{
+
+a
+
+n
+
+
+,
+
+b
+
+n
+
+
+
+}
+
+n
+=
+1
+
+
+N
+
+
+
+
+
+{\displaystyle \textstyle \{a_{n},b_{n}\}_{n=1}^{N}}
+
+ so that  
+
+
+
+
+a
+
+1
+
+
+≤
+
+b
+
+1
+
+
+<
+
+a
+
+2
+
+
+≤
+
+b
+
+2
+
+
+<
+⋯
+≤
+
+b
+
+N
+
+
+
+
+{\displaystyle a_{1}\leq b_{1}<a_{2}\leq b_{2}<\cdots \leq b_{N}}
+
+, and so that 
+
+
+
+(
+
+x
+
+n
+
+
+
+)
+
+i
+
+
+=
+0
+
+
+{\displaystyle (x_{n})_{i}=0}
+
+ when 
+
+
+
+i
+<
+
+a
+
+n
+
+
+
+
+{\displaystyle i<a_{n}}
+
+ or 
+
+
+
+i
+>
+
+b
+
+n
+
+
+
+
+{\displaystyle i>b_{n}}
+
+, for each n from 1 to N.
+The unit ball  B∞  of ℓ is compact and metrizable for the topology of pointwise convergence (the product topology). The crucial step in the Tsirelson construction is to let K be the smallest pointwise closed subset of  B∞  satisfying the following two properties:
+a. For every integer  j  in N, the unit vector ej and all multiples 
+
+
+
+λ
+
+e
+
+j
+
+
+
+
+{\displaystyle \lambda e_{j}}
+
+, for |λ| ≤ 1, belong to K.
+b. For any integer N ≥ 1, if 
+
+
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+N
+
+
+)
+
+
+
+{\displaystyle \textstyle (x_{1},\ldots ,x_{N})}
+
+ is a block-disjoint sequence in K, then 
+
+
+
+
+
+
+
+1
+2
+
+
+
+P
+
+N
+
+
+(
+
+x
+
+1
+
+
++
+⋯
++
+
+x
+
+N
+
+
+)
+
+
+
+
+{\displaystyle \textstyle {{1 \over 2}P_{N}(x_{1}+\cdots +x_{N})}}
+
+ belongs to K.This set K satisfies the following stability property:
+c. Together with every element x of K, the set K contains all vectors y in  ℓ such that |y| ≤ |x| (for the pointwise comparison).It is then shown that K is actually a subset of c0, the Banach subspace of ℓ consisting of scalar sequences tending to zero at infinity. This is done by proving that
+d: for every element x in K, there exists an integer n such that 2 Pn(x) belongs to K,and iterating this fact. Since K is pointwise compact and contained in  c0, it is weakly compact in c0. Let V be the closed convex hull of K in c0. It is also a weakly compact set in c0. It is shown that V satisfies b, c and d.
+The Tsirelson space T* is the Banach space whose unit ball is V. The unit vector basis is an unconditional basis for T* and T* is reflexive. Therefore, T* does not contain an isomorphic copy of c0. The other ℓ spaces, 1 ≤ p < ∞, are ruled out by condition b.
+The Tsirelson space T* is reflexive (Tsirel'son (1974)) and finitely universal, which means that for some constant C ≥ 1, the space T* contains C-isomorphic copies of every finite-dimensional normed space, namely, for every finite-dimensional normed space X, there exists a subspace Y of the Tsirelson space with multiplicative Banach–Mazur distance to X less than C. Actually, every finitely universal Banach space contains almost-isometric copies of every finite-dimensional normed space, meaning that C can be replaced by 1 + ε for every ε > 0. Also, every infinite-dimensional subspace of T* is finitely universal. On the other hand, every infinite-dimensional subspace in the dual  T of T* contains almost isometric copies of 
+
+
+
+
+
+
+ℓ
+
+n
+
+
+1
+
+
+
+
+
+
+{\displaystyle \scriptstyle {\ell _{n}^{1}}}
+
+, the n-dimensional ℓ-space, for all n.
+The Tsirelson space T is distortable, but it is not known whether it is arbitrarily distortable.
+The space T* is a minimal Banach space. This means that every infinite-dimensional Banach subspace of T* contains a further subspace isomorphic to T*. Prior to the construction of T*, the only known examples of minimal spaces were ℓ and c0. The dual space T is not minimal.
+The space T* is polynomially reflexive.
+The symmetric Tsirelson space S(T) is polynomially reflexive and it has the approximation property. As with T, it is reflexive and no ℓ space can be embedded into it.
+Since it is symmetric, it can be defined even on an uncountable supporting set, giving an example of non-separable polynomially reflexive Banach space.
+Distortion problem
+Sequence space, Schauder basis
+James' spaceTsirel'son, B. S. (1974), "'Not every Banach space contains an imbedding of ℓ or c0", Functional Analysis and Its Applications, 8: 138–141, doi:10.1007/BF01078599, MR 0350378.
+Banach, Stefan (1932). Théorie des Opérations Linéaires [Theory of Linear Operations] (PDF). Monografie Matematyczne (in French). Vol. 1. Warszawa: Subwencji Funduszu Kultury Narodowej. Zbl 0005.20901. Archived from the original (PDF) on 2014-01-11. Retrieved 2020-07-11.
+Figiel, T.; Johnson, W. B. (1974), "A uniformly convex Banach space which contains no ℓ", Compositio Mathematica, 29: 179–190, MR 0355537.
+Casazza, Peter G.; Shura, Thaddeus J. (1989), Tsirelson's Space, Lecture Notes in Mathematics, vol. 1363, Berlin: Springer-Verlag, ISBN 3-540-50678-0, MR 0981801.
+Johnson, William B.; J. Lindenstrauss, Joram, eds. (2001), Handbook of the Geometry of Banach Spaces, vol. 1, Elsevier.
+Johnson, William B.; J. Lindenstrauss, Joram, eds. (2003), Handbook of the Geometry of Banach Spaces, vol. 2, Elsevier.
+Lindenstrauss, Joram (1970), "Some aspects of the theory of Banach spaces", Advances in Mathematics, 5: 159–180, doi:10.1016/0001-8708(70)90032-0.
+Lindenstrauss, Joram (1971), "The geometric theory of the classical Banach spaces", Actes du Congrès Intern. Math., Nice 1970: 365–372.
+Lindenstrauss, Joram; Tzafriri, Lior (1977), Classical Banach Spaces I, Sequence Spaces, Ergebnisse der Mathematik und ihrer Grenzgebiete, vol. 92, Berlin: Springer-Verlag, ISBN 3-540-08072-4.
+Milman, V. D. (1970), "Geometric theory of Banach spaces. I. Theory of basic and minimal systems", Uspekhi Mat. Nauk (in Russian), 25 no. 3: 113–174. English translation in Russian Math. Surveys 25 (1970), 111-170.
+Schlumprecht, Thomas (1991), "An arbitrary distortable Banach space", Israel Journal of Mathematics, 76: 81–95, arXiv:math/9201225, doi:10.1007/bf02782845, ISSN 0021-2172, MR 1177333.Boris Tsirelson's reminiscences on his web page

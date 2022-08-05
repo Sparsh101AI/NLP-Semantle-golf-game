@@ -1,0 +1,45 @@
+Roman Urdu (Urdu: رومن اردو) is the name used for the Urdu language written with the Latin script, also known as the Roman script.
+According to the Urdu scholar Habib R. Sulemani: "Roman Urdu is strongly opposed by the traditional Arabic script lovers. Despite this opposition it is still used by most on the internet and computers due to limitations of most technologies as they do not have the Urdu script. Although, this script is under development and thus the net users are using the Roman script in their own ways. Popular websites like Jang Group have devised their own schemes for Roman Urdu. This is of great advantage for those who are not able to read the Arabic script. MSN, Yahoo and some desi-chat-rooms are working as laboratories for the evolving new script and language (Roman Urdu)."
+Romanized Urdu is mutually intelligible with  Romanized Hindi in informal contexts, unlike Urdu written in the Urdu alphabet and Hindi in Devanagari. Multinational corporations often use it as a cost effective method for printing and advertising in order to market their products in both Pakistan and India.
+Although the idea of romanising Urdu had been suggested several times, it was General Ayub Khan who most seriously suggested adopting the Latin alphabet for Urdu and all Pakistani languages during his rule of the country. The suggestion was inspired to an extent by Atatürk's adoption of the Latin alphabet for Turkish in Turkey.
+In India, where the Devanagari script is used, Roman Urdu was widely used in the Indian Army, as well as in Christian mission schools, especially for translations of the Bible.
+The Hunterian transliteration system mostly avoids diacritics and non-standard characters.
+
+Khudáwand merá chaupán hai; mujhe kamí na hogí. 
+Wuh mujhe harí harí charágáhoṉ meṉ bithátá hai: Wuh mujhe ráhat ke chashmoṉ ke pás le játá hai. Wuh merí ján bahál kartá hai: Wuh mujhe apne nám kí khátir sadáqat kí ráhon par le chaltá hai. 
+Balki khwáh maut ke sáye kí wádí meṉ se merá guzar ho, Maiṉ kisí balá se nahíṉ darúṉgá; kyúnkṉki tú mere sáth hai: Tere 'asá aur terí láthí se mujhe tasallí hai. 
+Tú mere dushmanoṉ ke rúbarú mere áge dastarkhwán bichhátá hai: Tú ne mere sir par tel malá hai, merá piyála labrez hotá hai. 
+Yaqínan bhalái aur rahmat 'umr bhar mere sáth sáth raheṉgí: Aur maiṉ hamesha Khudáwand ke ghar meṉ sukúnat karúṉgá.
+(Kita'b I Muqaddas: Zabu'r 23 az Dáúd)
+
+
+ ख़ुदावन्द मेरा चौपान है; मुझे कमी ना होगी। 
+ वह मुझे हरी हरी चिरागाहों में बिठाता है: वह मुझे राहत के चश्मों के पास ले जाता है। 
+ वह मेरी जान बहाल करता है: वह मुझे अपने नाम की ख़ातिर सदाक़त की राहों पर ले चलता है। 
+ बलके ख़्वाह मौत के साये की वादी में से मेरा गुज़र हो, मैं किसी बला से नहीं ड़रूंगा; क्योंकि तू मेरे साथ है: तेरे अला और तेरी लाठी से मुझे तसल्ली है। 
+ तू मेरे दुश्मनों के रूबरू मेरे आगे दस्तरख़्वान बिछाता है: तू ने मेरे सर पर तेल मला है, मेरा पियाला लब्रेज़ होता है। 
+ यक़ीनन भलाई और रेहमत उमर भर मेरे साथ साथ रहेंगी: और मैं हमेशा ख़ुदावन्द के घर में सकूनत करूंगा।
+(किताब-ए मुक़द्दस के ज़ुबूर २३ अज़ दाऊद)
+
+Urdu was the dominant native language among Christians of Karachi, Uttar Pradesh, and Rajasthan in the 20th century and is still used today by some people in these states. Pakistani and Indian Christians often used the Roman script for writing Urdu. The Bible Society of India publishes Roman Urdu Bibles, which enjoyed sale late into the 1960s (though they are still published today). Church songbooks are also common in Roman Urdu. However, its usage in Christian contexts is declining in India with the wider use of Hindi and English in the states.
+Bollywood, India's major film industry, uses a version of Roman script as the main script for its film titles. This is because Bollywood films have an appeal for viewers across South Asia and even in the Middle East. The Devanāgarī script is used mostly by Hindi speakers while the Perso-Arabic script is used primarily by Urdu speakers. The language used in Bollywood films is often called Hindi, but most dialogues are actually written in Hindustani—they can be understood by Urdu and Hindi speakers alike. Because the film industry wants to reach the largest possible audience, just using the Devanāgarī or Perso-Arabic script would be unfavorable for the Bollywood industry as few individuals are literate in both scripts. For this reason, the neutral Roman script is used for Bollywood film titles, though some films include the Hindi and Urdu scripts as well.
+The similar circumstances are also applied with Pakistan's Lollywood filming industry, where, along with the Urdu name or title of the movie, a Roman Urdu title is always provided for viewers.
+Roman Urdu used on the Internet is non standard and has irregular spelling. Users who use Roman Urdu on the Internet try to imitate English orthography. In most cases they are unaware of the fact that English spelling is not always phonetic.
+There are several Romanization standards for writing Urdu among them the most prominent are Uddin and Begum Urdu-Hindustani Romanization, ALA-LC romanization and ArabTeX.
+There are two main problems with existing Roman Urdu schemes. Either they are not reversible to Urdu script or they don't allow pronouncing the Urdu words properly. Another shortcoming is that a lot of Roman Urdu schemes confuse the Urdu letter 'Choti He' which has the sound of voiceless glottal fricative with 'Do Chasham He' which is used as a digraph for aspirated consonants in Urdu script. The digraphs "Sh" for letter Shin and "Zh" for letter Zhe also cause problems as they could be interpreted as the letter Sin and 'Choti He' or letter Ze and 'Choti He' respectively. Most Roman Urdu schemes also do not take much consideration of Urdu orthography and the spelling system.
+The system of Romanisation used most often by native speakers differs from the formal systems presented in most English language sources. It contains no diacritics or special characters, usually just the 26 letters of the core English alphabet. Informal Romanised Urdu is mutually intelligible with Romanised Hindi and the distinction between the languages can be controversial.
+While the Urdu alphabet is derived from the Arabic alphabet informal Romanised Urdu is less eccentric than informal Romanised Arabic. Informal Romanised Urdu does not use numerals, and rarely uses mixed case, because the Arabic letters that lack a clear equivalent in the English Latin alphabet (e.g. ء ع ذ ص ض ط ظ) are often silent in Urdu or pronounced identically to other letters (e.g. ت س ز). So, this system of Urdu Romanisation is used in some slightly more formal contexts than informal Romanised Arabic.
+One example is the word عورت "aurat". Formal transliterations often include a punctuation mark (') or special character (ʻ) for the ayn ع but this is omitted by Urdu speakers such as in the context of the Aurat March Urdu:  عورت مارچ  on International Women's Day. Adding the special characters makes it harder to type and would cause things such as twitter hashtags to break. The discussion on social media about these events is often in informal Romanised Urdu, with frequent code-switching between Urdu and English, but the handwritten or expertly typeset signs at the events are mostly in either English, Urdu in the traditional script, or local languages.
+Hindustani orthography
+Hindustani language
+Urdu
+Uddin and Begum Hindustani Romanisation
+Hindi
+Hindustan
+Pakistan
+India
+Christianity in PakistanDua, Hans R. (1994b). Urdu. In Asher (Ed.) (pp. 4863–4864).
+Insha, Ibn e. (2002) Urdu Ki Aakhri Kitab. New Delhi: Kitab Wala. ISBN 81-85738-57-2.
+B.S.I. Kita'b I Muqaddas. Bangalore: The Bible Society of India, 1994. ISBN 81-221-3230-8. Urdu phrasebook travel guide from Wikivoyage
+ Hindi phrasebook travel guide from Wikivoyage
+The Urdu Latin alphabet by Adnaan Mahmood

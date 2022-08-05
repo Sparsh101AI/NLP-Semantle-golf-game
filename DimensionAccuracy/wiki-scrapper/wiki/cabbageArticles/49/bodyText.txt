@@ -1,0 +1,8 @@
+The hydroperoxyl radical, also known as the hydrogen superoxide, is the protonated form of superoxide with the chemical formula  HO2.  This species plays an important role in the atmosphere and as a reactive oxygen species in cell biology.
+The molecule has a bent structure.
+The superoxide anion, O2, and the hydroperoxyl radical exist in equilibrium in aqueous solution:
+O2 + H2O ⇌ HO2 + OHThe pKa of HO2 is 4.88.  Therefore, about 0.3% of any superoxide present in the cytosol of a typical cell is in the protonated form.
+It oxidizes nitric oxide to nitrogen dioxide:
+NO  +  HO2  →   NO2  +  HOTogether with its conjugate base superoxide, hydroperoxyl is an important reactive oxygen species. Unlike O2, which has reducing properties, HO2 can act as an oxidant in a number of biologically important reactions, such as the abstraction of hydrogen atoms from tocopherol and polyunstaturated fatty acids in the lipid bilayer. As such, it may be an important initiator of lipid peroxidation.
+Gaseous hydroperoxyl is involved in reaction cycles that destroy stratospheric ozone. It is also present in the troposphere, where it is essentially a byproduct of the oxidation of carbon monoxide and of hydrocarbons by the hydroxyl radical.
+Because dielectric constant has a strong effect on pKa, and the dielectric constant of air is quite low, superoxide produced (photochemically) in the atmosphere is almost exclusively present as HO2. As HO2 is quite reactive, it acts as a "cleanser" of the atmosphere by degrading certain organic pollutants. As such, the chemistry of HO2 is of considerable geochemical importance.

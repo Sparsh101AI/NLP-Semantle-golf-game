@@ -1,0 +1,4227 @@
+In mathematics, a real-valued function is called convex if the line segment between any two points on the graph of the function does not lie below the graph between the two points. Equivalently, a function is convex if its epigraph (the set of points on or above the graph of the function) is a convex set. A twice-differentiable function of a single variable is convex if and only if its second derivative is nonnegative on its entire domain. Well-known examples of convex functions of a single variable include the quadratic function 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x^{2}}
+
+ and the exponential function 
+
+
+
+
+e
+
+x
+
+
+
+
+{\displaystyle e^{x}}
+
+.   In simple terms, a convex function refers to a function whose graph is shaped like a cup 
+
+
+
+∪
+
+
+{\displaystyle \cup }
+
+, while a concave function's graph is shaped like a cap 
+
+
+
+∩
+
+
+{\displaystyle \cap }
+
+.
+Convex functions play an important role in many areas of mathematics. They are especially important in the study of optimization problems where they are distinguished by a number of convenient properties. For instance, a strictly convex function on an open set has no more than one minimum. Even in infinite-dimensional spaces, under suitable additional hypotheses, convex functions continue to satisfy such properties and as a result, they are the most well-understood functionals in the calculus of variations. In probability theory, a convex function applied to the expected value of a random variable is always bounded above by the expected value of the convex function of the random variable.  This result, known as Jensen's inequality, can be used to deduce inequalities such as the arithmetic–geometric mean inequality and Hölder's inequality.
+Let 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ be a convex subset of a real vector space and let 
+
+
+
+f
+:
+X
+→
+
+R
+
+
+
+{\displaystyle f:X\to \mathbb {R} }
+
+ be a function.
+Then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is called convex if and only if any of the following equivalent conditions hold:
+The second statement characterizing convex functions that are valued in the real line 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ is also the statement used to define convex functions that are valued in the extended real number line 
+
+
+
+[
+−
+∞
+,
+∞
+]
+=
+
+R
+
+∪
+{
+±
+∞
+}
+,
+
+
+{\displaystyle [-\infty ,\infty ]=\mathbb {R} \cup \{\pm \infty \},}
+
+ where such a function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is allowed to (but is not required to) take 
+
+
+
+±
+∞
+
+
+{\displaystyle \pm \infty }
+
+ as a value. The first statement is not used because it permits 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ to take 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ or 
+
+
+
+1
+
+
+{\displaystyle 1}
+
+ as a value, in which case, if 
+
+
+
+f
+
+(
+
+x
+
+1
+
+
+)
+
+=
+±
+∞
+
+
+{\displaystyle f\left(x_{1}\right)=\pm \infty }
+
+ or 
+
+
+
+f
+
+(
+
+x
+
+2
+
+
+)
+
+=
+±
+∞
+,
+
+
+{\displaystyle f\left(x_{2}\right)=\pm \infty ,}
+
+ respectively, then 
+
+
+
+t
+f
+
+(
+
+x
+
+1
+
+
+)
+
++
+(
+1
+−
+t
+)
+f
+
+(
+
+x
+
+2
+
+
+)
+
+
+
+{\displaystyle tf\left(x_{1}\right)+(1-t)f\left(x_{2}\right)}
+
+ would be undefined (because the multiplications 
+
+
+
+0
+⋅
+∞
+
+
+{\displaystyle 0\cdot \infty }
+
+ and 
+
+
+
+0
+⋅
+(
+−
+∞
+)
+
+
+{\displaystyle 0\cdot (-\infty )}
+
+ are undefined). The sum 
+
+
+
+−
+∞
++
+∞
+
+
+{\displaystyle -\infty +\infty }
+
+ is also undefined so a convex extended real-valued function is typically only allowed to take exactly one of 
+
+
+
+−
+∞
+
+
+{\displaystyle -\infty }
+
+ and 
+
+
+
++
+∞
+
+
+{\displaystyle +\infty }
+
+ as a value. 
+The second statement can also be modified to get the definition of strict convexity, where the latter is obtained by replacing 
+
+
+
+
+≤
+
+
+
+{\displaystyle \,\leq \,}
+
+ with the strict inequality 
+
+
+
+
+<
+.
+
+
+{\displaystyle \,<.}
+
+ 
+Explicitly, the map 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is called strictly convex if and only if for all real 
+
+
+
+0
+<
+t
+<
+1
+
+
+{\displaystyle 0<t<1}
+
+ and all 
+
+
+
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+∈
+X
+
+
+{\displaystyle x_{1},x_{2}\in X}
+
+ such that 
+
+
+
+
+x
+
+1
+
+
+≠
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{1}\neq x_{2}}
+
+:
+
+
+
+
+f
+
+(
+
+t
+
+x
+
+1
+
+
++
+(
+1
+−
+t
+)
+
+x
+
+2
+
+
+
+)
+
+<
+t
+f
+
+(
+
+x
+
+1
+
+
+)
+
++
+(
+1
+−
+t
+)
+f
+
+(
+
+x
+
+2
+
+
+)
+
+
+
+{\displaystyle f\left(tx_{1}+(1-t)x_{2}\right)<tf\left(x_{1}\right)+(1-t)f\left(x_{2}\right)}
+
+
+A strictly convex function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a function that the straight line between any pair of points on the curve 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is above the curve 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ except for the intersection points between the straight line and the curve.
+The function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is said to be concave (resp. strictly concave) if 
+
+
+
+−
+f
+
+
+{\displaystyle -f}
+
+ (
+
+
+
+f
+
+
+{\displaystyle f}
+
+ multiplied by -1) is convex (resp. strictly convex ).
+The term convex is often referred to as convex down or concave upward, and the term concave is often referred as concave down or convex upward. If the term "convex" is used without an "up" or "down" keyword,  then it refers strictly to a cup shaped graph 
+
+
+
+∪
+
+
+{\displaystyle \cup }
+
+.  As an example, Jensen's inequality refers to an inequality involving a convex or convex-(up), function.
+Many properties of convex functions have the same simple formulation for functions of many variable as for functions of one variable. See below the properties for the case of many variables, as some of them are not listed for functions of one variable. 
+Suppose 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a function of one real variable defined on an interval, and let 
+
+
+
+R
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+=
+
+
+
+f
+(
+
+x
+
+2
+
+
+)
+−
+f
+(
+
+x
+
+1
+
+
+)
+
+
+
+x
+
+2
+
+
+−
+
+x
+
+1
+
+
+
+
+
+
+
+{\displaystyle R(x_{1},x_{2})={\frac {f(x_{2})-f(x_{1})}{x_{2}-x_{1}}}}
+
+ (note that 
+
+
+
+R
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+
+
+{\displaystyle R(x_{1},x_{2})}
+
+ is the slope of the purple line in the above drawing; the function 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ is symmetric in 
+
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+,
+
+
+{\displaystyle (x_{1},x_{2}),}
+
+ means that 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ does not change by exchanging 
+
+
+
+
+x
+
+1
+
+
+
+
+{\displaystyle x_{1}}
+
+ and 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{2}}
+
+). 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex if and only if 
+
+
+
+R
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+
+
+{\displaystyle R(x_{1},x_{2})}
+
+ is monotonically non-decreasing in 
+
+
+
+
+x
+
+1
+
+
+,
+
+
+{\displaystyle x_{1},}
+
+ for every fixed 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{2}}
+
+ (or vice versa). This characterization of convexity is quite useful to prove the following results.
+A convex function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ of one real variable defined on some open interval 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is continuous on 
+
+
+
+C
+.
+
+
+{\displaystyle C.}
+
+ 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ admits left and right derivatives, and these are monotonically non-decreasing. As a consequence, 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is differentiable at all but at most countably many points, the set on which 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is not differentiable can however still be dense. If 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is closed, then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ may fail to be continuous at the endpoints of 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ (an example is shown in the examples section).
+A differentiable function of one variable is convex on an interval if and only if its derivative is monotonically non-decreasing on that interval. If a function is differentiable and convex then it is also continuously differentiable.
+A differentiable function of one variable is convex on an interval if and only if its graph lies above all of its tangents: 
+
+
+
+f
+(
+x
+)
+≥
+f
+(
+y
+)
++
+
+f
+′
+
+(
+y
+)
+(
+x
+−
+y
+)
+
+
+{\displaystyle f(x)\geq f(y)+f'(y)(x-y)}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ in the interval.
+A twice differentiable function of one variable is convex on an interval if and only if its second derivative is non-negative there; this gives a practical test for convexity. Visually, a twice differentiable convex function "curves up", without any bends the other way (inflection points). If its second derivative is positive at all points then the function is strictly convex, but the converse does not hold. For example, the second derivative of 
+
+
+
+f
+(
+x
+)
+=
+
+x
+
+4
+
+
+
+
+{\displaystyle f(x)=x^{4}}
+
+ is 
+
+
+
+
+f
+″
+
+(
+x
+)
+=
+12
+
+x
+
+2
+
+
+
+
+{\displaystyle f''(x)=12x^{2}}
+
+, which is zero for 
+
+
+
+x
+=
+0
+,
+
+
+{\displaystyle x=0,}
+
+ but 
+
+
+
+
+x
+
+4
+
+
+
+
+{\displaystyle x^{4}}
+
+ is strictly convex.
+This property and the above property in terms of "...its derivative is monotonically non-decreasing..." are not equal since if 
+
+
+
+
+f
+″
+
+
+
+{\displaystyle f''}
+
+ is non-negative on an interval 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then 
+
+
+
+
+f
+′
+
+
+
+{\displaystyle f'}
+
+ is monotonically non-decreasing on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ while its converse is not true, for example, 
+
+
+
+
+f
+′
+
+
+
+{\displaystyle f'}
+
+ is monotonically non-decreasing on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ while its derivative 
+
+
+
+
+f
+″
+
+
+
+{\displaystyle f''}
+
+ is not defined at some points on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+.
+If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a convex function of one real variable, and 
+
+
+
+f
+(
+0
+)
+≤
+0
+
+
+{\displaystyle f(0)\leq 0}
+
+, then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is superadditive on the positive reals, that is 
+
+
+
+f
+(
+a
++
+b
+)
+≥
+f
+(
+a
+)
++
+f
+(
+b
+)
+
+
+{\displaystyle f(a+b)\geq f(a)+f(b)}
+
+ for positive real numbers 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+.A function is midpoint convex on an interval 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ if for all 
+
+
+
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+∈
+C
+
+
+{\displaystyle x_{1},x_{2}\in C}
+
+ 
+
+
+
+f
+
+(
+
+
+
+
+x
+
+1
+
+
++
+
+x
+
+2
+
+
+
+2
+
+
+)
+
+≤
+
+
+
+f
+(
+
+x
+
+1
+
+
+)
++
+f
+(
+
+x
+
+2
+
+
+)
+
+2
+
+
+.
+
+
+{\displaystyle f\left({\frac {x_{1}+x_{2}}{2}}\right)\leq {\frac {f(x_{1})+f(x_{2})}{2}}.}
+
+ This condition is only slightly weaker than convexity. For example, a real-valued Lebesgue measurable function that is midpoint-convex is convex: this is a theorem of Sierpinski. In particular, a continuous function that is midpoint convex will be convex.A function 
+
+
+
+f
+:
+X
+→
+[
+−
+∞
+,
+∞
+]
+
+
+{\displaystyle f:X\to [-\infty ,\infty ]}
+
+ valued in the extended real numbers 
+
+
+
+[
+−
+∞
+,
+∞
+]
+=
+
+R
+
+∪
+{
+±
+∞
+}
+
+
+{\displaystyle [-\infty ,\infty ]=\mathbb {R} \cup \{\pm \infty \}}
+
+ is convex if and only if its epigraph 
+
+
+
+{
+(
+x
+,
+r
+)
+∈
+X
+×
+
+R
+
+ 
+:
+ 
+r
+≥
+f
+(
+x
+)
+}
+
+
+{\displaystyle \{(x,r)\in X\times \mathbb {R} ~:~r\geq f(x)\}}
+
+ is a convex set.
+A differentiable function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ defined on a convex domain is convex if and only if 
+
+
+
+f
+(
+x
+)
+≥
+f
+(
+y
+)
++
+∇
+f
+(
+y
+)
+⋅
+(
+x
+−
+y
+)
+
+
+{\displaystyle f(x)\geq f(y)+\nabla f(y)\cdot (x-y)}
+
+ holds for all 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ in the domain.
+A twice differentiable function of several variables is convex on a convex set if and only if its Hessian matrix of second partial derivatives is positive semidefinite on the interior of the convex set.
+For a convex function 
+
+
+
+f
+,
+
+
+{\displaystyle f,}
+
+ the sublevel sets 
+
+
+
+{
+x
+:
+f
+(
+x
+)
+<
+a
+}
+
+
+{\displaystyle \{x:f(x)<a\}}
+
+ and 
+
+
+
+{
+x
+:
+f
+(
+x
+)
+≤
+a
+}
+
+
+{\displaystyle \{x:f(x)\leq a\}}
+
+ with 
+
+
+
+a
+∈
+
+R
+
+
+
+{\displaystyle a\in \mathbb {R} }
+
+ are convex sets. A function that satisfies this property is called a quasiconvex function and may fail to be a convex function.
+Consequently, the set of global minimisers of a convex function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a convex set: 
+
+
+
+
+argmin
+
+
+f
+
+
+{\displaystyle {\operatorname {argmin} }\,f}
+
+ - convex.
+Any local minimum of a convex function is also a global minimum.  A strictly convex function will have at most one global minimum.
+Jensen's inequality applies to every convex function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+. If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a random variable taking values in the domain of 
+
+
+
+f
+,
+
+
+{\displaystyle f,}
+
+ then 
+
+
+
+E
+⁡
+(
+f
+(
+X
+)
+)
+≥
+f
+(
+E
+⁡
+(
+X
+)
+)
+,
+
+
+{\displaystyle \operatorname {E} (f(X))\geq f(\operatorname {E} (X)),}
+
+ where 
+
+
+
+E
+
+
+{\displaystyle \operatorname {E} }
+
+ denotes the mathematical expectation. Indeed, convex functions are exactly those that satisfies the hypothesis of Jensen's inequality.
+A first-order homogeneous function of two positive variables 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+,
+
+
+{\displaystyle y,}
+
+ (that is, a function satisfying 
+
+
+
+f
+(
+a
+x
+,
+a
+y
+)
+=
+a
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle f(ax,ay)=af(x,y)}
+
+ for all positive real 
+
+
+
+a
+,
+x
+,
+y
+>
+0
+
+
+{\displaystyle a,x,y>0}
+
+) that is convex in one variable must be convex in the other variable.
+
+
+
+−
+f
+
+
+{\displaystyle -f}
+
+ is concave if and only if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex.
+If 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is any real number then 
+
+
+
+r
++
+f
+
+
+{\displaystyle r+f}
+
+ is convex if and only if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex.
+Nonnegative weighted sums:
+if 
+
+
+
+
+w
+
+1
+
+
+,
+…
+,
+
+w
+
+n
+
+
+≥
+0
+
+
+{\displaystyle w_{1},\ldots ,w_{n}\geq 0}
+
+ and 
+
+
+
+
+f
+
+1
+
+
+,
+…
+,
+
+f
+
+n
+
+
+
+
+{\displaystyle f_{1},\ldots ,f_{n}}
+
+ are all convex, then so is 
+
+
+
+
+w
+
+1
+
+
+
+f
+
+1
+
+
++
+⋯
++
+
+w
+
+n
+
+
+
+f
+
+n
+
+
+.
+
+
+{\displaystyle w_{1}f_{1}+\cdots +w_{n}f_{n}.}
+
+ In particular, the sum of two convex functions is convex.
+this property extends to infinite sums, integrals and expected values as well (provided that they exist).
+Elementwise maximum: let 
+
+
+
+{
+
+f
+
+i
+
+
+
+}
+
+i
+∈
+I
+
+
+
+
+{\displaystyle \{f_{i}\}_{i\in I}}
+
+ be a collection of convex functions. Then 
+
+
+
+g
+(
+x
+)
+=
+
+sup
+
+i
+∈
+I
+
+
+
+f
+
+i
+
+
+(
+x
+)
+
+
+{\displaystyle g(x)=\sup _{i\in I}f_{i}(x)}
+
+ is convex. The domain of 
+
+
+
+g
+(
+x
+)
+
+
+{\displaystyle g(x)}
+
+ is the collection of points where the expression is finite. Important special cases:
+If 
+
+
+
+
+f
+
+1
+
+
+,
+…
+,
+
+f
+
+n
+
+
+
+
+{\displaystyle f_{1},\ldots ,f_{n}}
+
+ are convex functions then so is 
+
+
+
+g
+(
+x
+)
+=
+max
+
+{
+
+
+f
+
+1
+
+
+(
+x
+)
+,
+…
+,
+
+f
+
+n
+
+
+(
+x
+)
+
+}
+
+.
+
+
+{\displaystyle g(x)=\max \left\{f_{1}(x),\ldots ,f_{n}(x)\right\}.}
+
+
+Danskin's theorem: If 
+
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle f(x,y)}
+
+ is convex in 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ then 
+
+
+
+g
+(
+x
+)
+=
+
+sup
+
+y
+∈
+C
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle g(x)=\sup \nolimits _{y\in C}f(x,y)}
+
+ is convex in 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ even if 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is not a convex set.
+Composition:
+If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ and 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ are convex functions and 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is non-decreasing over a univariate domain, then 
+
+
+
+h
+(
+x
+)
+=
+g
+(
+f
+(
+x
+)
+)
+
+
+{\displaystyle h(x)=g(f(x))}
+
+ is convex. As an example, if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex, then so is 
+
+
+
+
+e
+
+f
+(
+x
+)
+
+
+
+
+{\displaystyle e^{f(x)}}
+
+. because 
+
+
+
+
+e
+
+x
+
+
+
+
+{\displaystyle e^{x}}
+
+ is convex and monotonically increasing.
+If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is concave and 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is convex and non-increasing over a univariate domain, then 
+
+
+
+h
+(
+x
+)
+=
+g
+(
+f
+(
+x
+)
+)
+
+
+{\displaystyle h(x)=g(f(x))}
+
+ is convex.
+Convexity is invariant under affine maps:  that is, if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex with domain 
+
+
+
+
+D
+
+f
+
+
+⊆
+
+
+R
+
+
+m
+
+
+
+
+{\displaystyle D_{f}\subseteq \mathbf {R} ^{m}}
+
+, then so is 
+
+
+
+g
+(
+x
+)
+=
+f
+(
+A
+x
++
+b
+)
+
+
+{\displaystyle g(x)=f(Ax+b)}
+
+, where 
+
+
+
+A
+∈
+
+
+R
+
+
+m
+×
+n
+
+
+
+, 
+
+b
+∈
+
+
+R
+
+
+m
+
+
+
+
+{\displaystyle A\in \mathbf {R} ^{m\times n}{\text{, }}b\in \mathbf {R} ^{m}}
+
+ with domain 
+
+
+
+
+D
+
+g
+
+
+⊆
+
+
+R
+
+
+n
+
+
+.
+
+
+{\displaystyle D_{g}\subseteq \mathbf {R} ^{n}.}
+
+
+Minimization: If 
+
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle f(x,y)}
+
+ is convex in 
+
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle (x,y)}
+
+ then 
+
+
+
+g
+(
+x
+)
+=
+
+inf
+
+y
+∈
+C
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle g(x)=\inf \nolimits _{y\in C}f(x,y)}
+
+ is convex in 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ provided that 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is a convex set and that 
+
+
+
+g
+(
+x
+)
+≠
+−
+∞
+.
+
+
+{\displaystyle g(x)\neq -\infty .}
+
+
+If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is convex, then its perspective 
+
+
+
+g
+(
+x
+,
+t
+)
+=
+t
+f
+
+(
+
+
+
+x
+t
+
+
+
+)
+
+
+
+{\displaystyle g(x,t)=tf\left({\tfrac {x}{t}}\right)}
+
+ with domain 
+
+
+
+
+{
+
+(
+x
+,
+t
+)
+:
+
+
+
+x
+t
+
+
+
+∈
+Dom
+⁡
+(
+f
+)
+,
+t
+>
+0
+
+}
+
+
+
+{\displaystyle \left\lbrace (x,t):{\tfrac {x}{t}}\in \operatorname {Dom} (f),t>0\right\rbrace }
+
+ is convex.
+A function 
+
+
+
+f
+:
+X
+→
+
+R
+
+
+
+{\displaystyle f:X\to \mathbb {R} }
+
+ defined on a vector space is convex and satisfies 
+
+
+
+f
+(
+0
+)
+≤
+0
+
+
+{\displaystyle f(0)\leq 0}
+
+ if and only if 
+
+
+
+f
+(
+a
+x
++
+b
+y
+)
+≤
+a
+f
+(
+x
+)
++
+b
+f
+(
+y
+)
+
+
+{\displaystyle f(ax+by)\leq af(x)+bf(y)}
+
+ for any 
+
+
+
+x
+,
+y
+∈
+X
+
+
+{\displaystyle x,y\in X}
+
+ and any non-negative real numbers 
+
+
+
+a
+,
+b
+≥
+0
+
+
+{\displaystyle a,b\geq 0}
+
+ that satisfy 
+
+
+
+a
++
+b
+≤
+1.
+
+
+{\displaystyle a+b\leq 1.}
+
+The concept of strong convexity extends and parametrizes the notion of strict convexity. A strongly convex function is also strictly convex, but not vice versa.
+A differentiable function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is called strongly convex with parameter 
+
+
+
+m
+>
+0
+
+
+{\displaystyle m>0}
+
+ if the following inequality holds for all points 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ in its domain:
+
+
+
+
+(
+∇
+f
+(
+x
+)
+−
+∇
+f
+(
+y
+)
+
+)
+
+T
+
+
+(
+x
+−
+y
+)
+≥
+m
+‖
+x
+−
+y
+
+‖
+
+2
+
+
+2
+
+
+
+
+{\displaystyle (\nabla f(x)-\nabla f(y))^{T}(x-y)\geq m\|x-y\|_{2}^{2}}
+
+
+or, more generally,
+
+
+
+
+⟨
+∇
+f
+(
+x
+)
+−
+∇
+f
+(
+y
+)
+,
+x
+−
+y
+⟩
+≥
+m
+‖
+x
+−
+y
+
+‖
+
+2
+
+
+
+
+{\displaystyle \langle \nabla f(x)-\nabla f(y),x-y\rangle \geq m\|x-y\|^{2}}
+
+
+where 
+
+
+
+‖
+⋅
+‖
+
+
+{\displaystyle \|\cdot \|}
+
+ is any norm. Some authors, such as  refer to functions satisfying this inequality as elliptic functions.
+An equivalent condition is the following:
+
+
+
+
+f
+(
+y
+)
+≥
+f
+(
+x
+)
++
+∇
+f
+(
+x
+
+)
+
+T
+
+
+(
+y
+−
+x
+)
++
+
+
+m
+2
+
+
+‖
+y
+−
+x
+
+‖
+
+2
+
+
+2
+
+
+
+
+{\displaystyle f(y)\geq f(x)+\nabla f(x)^{T}(y-x)+{\frac {m}{2}}\|y-x\|_{2}^{2}}
+
+
+It is not necessary for a function to be differentiable in order to be strongly convex. A third definition for a strongly convex function, with parameter 
+
+
+
+m
+,
+
+
+{\displaystyle m,}
+
+ is that, for all 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ in the domain and 
+
+
+
+t
+∈
+[
+0
+,
+1
+]
+,
+
+
+{\displaystyle t\in [0,1],}
+
+
+
+
+
+
+f
+(
+t
+x
++
+(
+1
+−
+t
+)
+y
+)
+≤
+t
+f
+(
+x
+)
++
+(
+1
+−
+t
+)
+f
+(
+y
+)
+−
+
+
+1
+2
+
+
+m
+t
+(
+1
+−
+t
+)
+‖
+x
+−
+y
+
+‖
+
+2
+
+
+2
+
+
+
+
+{\displaystyle f(tx+(1-t)y)\leq tf(x)+(1-t)f(y)-{\frac {1}{2}}mt(1-t)\|x-y\|_{2}^{2}}
+
+
+Notice that this definition approaches the definition for strict convexity as 
+
+
+
+m
+→
+0
+,
+
+
+{\displaystyle m\to 0,}
+
+ and is identical to the definition of a convex function when 
+
+
+
+m
+=
+0.
+
+
+{\displaystyle m=0.}
+
+ Despite this, functions exist that are strictly convex but are not strongly convex for any 
+
+
+
+m
+>
+0
+
+
+{\displaystyle m>0}
+
+ (see example below).
+If the function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is twice continuously differentiable, then it is strongly convex with parameter 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ if and only if 
+
+
+
+
+∇
+
+2
+
+
+f
+(
+x
+)
+⪰
+m
+I
+
+
+{\displaystyle \nabla ^{2}f(x)\succeq mI}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in the domain, where 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ is the identity and 
+
+
+
+
+∇
+
+2
+
+
+f
+
+
+{\displaystyle \nabla ^{2}f}
+
+ is the Hessian matrix, and the inequality 
+
+
+
+⪰
+
+
+{\displaystyle \succeq }
+
+ means that 
+
+
+
+
+∇
+
+2
+
+
+f
+(
+x
+)
+−
+m
+I
+
+
+{\displaystyle \nabla ^{2}f(x)-mI}
+
+ is positive semi-definite. This is equivalent to requiring that the minimum eigenvalue of 
+
+
+
+
+∇
+
+2
+
+
+f
+(
+x
+)
+
+
+{\displaystyle \nabla ^{2}f(x)}
+
+ be at least 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ for all 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+ If the domain is just the real line, then 
+
+
+
+
+∇
+
+2
+
+
+f
+(
+x
+)
+
+
+{\displaystyle \nabla ^{2}f(x)}
+
+ is just the second derivative 
+
+
+
+
+f
+″
+
+(
+x
+)
+,
+
+
+{\displaystyle f''(x),}
+
+ so the condition becomes 
+
+
+
+
+f
+″
+
+(
+x
+)
+≥
+m
+
+
+{\displaystyle f''(x)\geq m}
+
+. If 
+
+
+
+m
+=
+0
+
+
+{\displaystyle m=0}
+
+ then this means the Hessian is positive semidefinite (or if the domain is the real line, it means that 
+
+
+
+
+f
+″
+
+(
+x
+)
+≥
+0
+
+
+{\displaystyle f''(x)\geq 0}
+
+), which implies the function is convex, and perhaps strictly convex, but not strongly convex.
+Assuming still that the function is twice continuously differentiable, one can show that the lower bound of 
+
+
+
+
+∇
+
+2
+
+
+f
+(
+x
+)
+
+
+{\displaystyle \nabla ^{2}f(x)}
+
+ implies that it is strongly convex. Using Taylor's Theorem there exists
+
+
+
+
+z
+∈
+{
+t
+x
++
+(
+1
+−
+t
+)
+y
+:
+t
+∈
+[
+0
+,
+1
+]
+}
+
+
+{\displaystyle z\in \{tx+(1-t)y:t\in [0,1]\}}
+
+
+such that
+
+
+
+
+f
+(
+y
+)
+=
+f
+(
+x
+)
++
+∇
+f
+(
+x
+
+)
+
+T
+
+
+(
+y
+−
+x
+)
++
+
+
+1
+2
+
+
+(
+y
+−
+x
+
+)
+
+T
+
+
+
+∇
+
+2
+
+
+f
+(
+z
+)
+(
+y
+−
+x
+)
+
+
+{\displaystyle f(y)=f(x)+\nabla f(x)^{T}(y-x)+{\frac {1}{2}}(y-x)^{T}\nabla ^{2}f(z)(y-x)}
+
+
+Then
+
+
+
+
+(
+y
+−
+x
+
+)
+
+T
+
+
+
+∇
+
+2
+
+
+f
+(
+z
+)
+(
+y
+−
+x
+)
+≥
+m
+(
+y
+−
+x
+
+)
+
+T
+
+
+(
+y
+−
+x
+)
+
+
+{\displaystyle (y-x)^{T}\nabla ^{2}f(z)(y-x)\geq m(y-x)^{T}(y-x)}
+
+
+by the assumption about the eigenvalues, and hence we recover the second strong convexity equation above.
+A function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is strongly convex with parameter m if and only if the function
+
+
+
+
+x
+↦
+f
+(
+x
+)
+−
+
+
+m
+2
+
+
+‖
+x
+
+‖
+
+2
+
+
+
+
+{\displaystyle x\mapsto f(x)-{\frac {m}{2}}\|x\|^{2}}
+
+
+is convex.
+The distinction between convex, strictly convex, and strongly convex can be subtle at first glance. If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is twice continuously differentiable and the domain is the real line, then we can characterize it as follows:
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ convex if and only if 
+
+
+
+
+f
+″
+
+(
+x
+)
+≥
+0
+
+
+{\displaystyle f''(x)\geq 0}
+
+ for all 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ strictly convex if 
+
+
+
+
+f
+″
+
+(
+x
+)
+>
+0
+
+
+{\displaystyle f''(x)>0}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ (note: this is sufficient, but not necessary).
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ strongly convex if and only if 
+
+
+
+
+f
+″
+
+(
+x
+)
+≥
+m
+>
+0
+
+
+{\displaystyle f''(x)\geq m>0}
+
+ for all 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+For example, let 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ be strictly convex, and suppose there is a sequence of points 
+
+
+
+(
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (x_{n})}
+
+ such that 
+
+
+
+
+f
+″
+
+(
+
+x
+
+n
+
+
+)
+=
+
+
+
+1
+n
+
+
+
+
+
+{\displaystyle f''(x_{n})={\tfrac {1}{n}}}
+
+. Even though 
+
+
+
+
+f
+″
+
+(
+
+x
+
+n
+
+
+)
+>
+0
+
+
+{\displaystyle f''(x_{n})>0}
+
+, the function is not strongly convex because 
+
+
+
+
+f
+″
+
+(
+x
+)
+
+
+{\displaystyle f''(x)}
+
+ will become arbitrarily small.
+A twice continuously differentiable function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ on a compact domain 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that satisfies 
+
+
+
+
+f
+″
+
+(
+x
+)
+>
+0
+
+
+{\displaystyle f''(x)>0}
+
+ for all 
+
+
+
+x
+∈
+X
+
+
+{\displaystyle x\in X}
+
+ is strongly convex. The proof of this statement follows from the extreme value theorem, which states that a continuous function on a compact set has a maximum and minimum.
+Strongly convex functions are in general easier to work with than convex or strictly convex functions, since they are a smaller class. Like strictly convex functions, strongly convex functions have unique minima on compact sets.
+A uniformly convex function, with modulus 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+, is a function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ that, for all 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ in the domain and 
+
+
+
+t
+∈
+[
+0
+,
+1
+]
+,
+
+
+{\displaystyle t\in [0,1],}
+
+ satisfies
+
+
+
+
+f
+(
+t
+x
++
+(
+1
+−
+t
+)
+y
+)
+≤
+t
+f
+(
+x
+)
++
+(
+1
+−
+t
+)
+f
+(
+y
+)
+−
+t
+(
+1
+−
+t
+)
+ϕ
+(
+‖
+x
+−
+y
+‖
+)
+
+
+{\displaystyle f(tx+(1-t)y)\leq tf(x)+(1-t)f(y)-t(1-t)\phi (\|x-y\|)}
+
+
+where 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is a function that is non-negative and vanishes only at 0. This is a generalization of the concept of strongly convex function; by taking 
+
+
+
+ϕ
+(
+α
+)
+=
+
+
+
+m
+2
+
+
+
+
+α
+
+2
+
+
+
+
+{\displaystyle \phi (\alpha )={\tfrac {m}{2}}\alpha ^{2}}
+
+ we recover the definition of strong convexity.
+It is worth noting that some authors require the modulus 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ to be an increasing function, but this condition is not required by all authors.
+The function 
+
+
+
+f
+(
+x
+)
+=
+
+x
+
+2
+
+
+
+
+{\displaystyle f(x)=x^{2}}
+
+ has 
+
+
+
+
+f
+″
+
+(
+x
+)
+=
+2
+>
+0
+
+
+{\displaystyle f''(x)=2>0}
+
+, so f is a convex function.  It is also strongly convex (and hence strictly convex too), with strong convexity constant 2.
+The function 
+
+
+
+f
+(
+x
+)
+=
+
+x
+
+4
+
+
+
+
+{\displaystyle f(x)=x^{4}}
+
+ has 
+
+
+
+
+f
+″
+
+(
+x
+)
+=
+12
+
+x
+
+2
+
+
+≥
+0
+
+
+{\displaystyle f''(x)=12x^{2}\geq 0}
+
+, so f is a convex function.  It is strictly convex, even though the second derivative is not strictly positive at all points.  It is not strongly convex.
+The absolute value function 
+
+
+
+f
+(
+x
+)
+=
+
+|
+
+x
+
+|
+
+
+
+{\displaystyle f(x)=|x|}
+
+ is convex (as reflected in the triangle inequality), even though it does not have a derivative at the point 
+
+
+
+x
+=
+0.
+
+
+{\displaystyle x=0.}
+
+  It is not strictly convex.
+The function 
+
+
+
+f
+(
+x
+)
+=
+
+|
+
+x
+
+
+|
+
+
+p
+
+
+
+
+{\displaystyle f(x)=|x|^{p}}
+
+ for 
+
+
+
+p
+≥
+1
+
+
+{\displaystyle p\geq 1}
+
+ is convex.
+The exponential function 
+
+
+
+f
+(
+x
+)
+=
+
+e
+
+x
+
+
+
+
+{\displaystyle f(x)=e^{x}}
+
+ is convex.  It is also strictly convex, since 
+
+
+
+
+f
+″
+
+(
+x
+)
+=
+
+e
+
+x
+
+
+>
+0
+
+
+{\displaystyle f''(x)=e^{x}>0}
+
+, but it is not strongly convex since the second derivative can be arbitrarily close to zero.  More generally, the function 
+
+
+
+g
+(
+x
+)
+=
+
+e
+
+f
+(
+x
+)
+
+
+
+
+{\displaystyle g(x)=e^{f(x)}}
+
+ is logarithmically convex if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a convex function.  The term "superconvex" is sometimes used instead.
+The function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ with domain [0,1] defined by 
+
+
+
+f
+(
+0
+)
+=
+f
+(
+1
+)
+=
+1
+,
+f
+(
+x
+)
+=
+0
+
+
+{\displaystyle f(0)=f(1)=1,f(x)=0}
+
+ for 
+
+
+
+0
+<
+x
+<
+1
+
+
+{\displaystyle 0<x<1}
+
+ is convex; it is continuous on the open interval 
+
+
+
+(
+0
+,
+1
+)
+,
+
+
+{\displaystyle (0,1),}
+
+ but not continuous at 0 and 1.
+The function 
+
+
+
+
+x
+
+3
+
+
+
+
+{\displaystyle x^{3}}
+
+ has second derivative 
+
+
+
+6
+x
+
+
+{\displaystyle 6x}
+
+; thus it is convex on the set where 
+
+
+
+x
+≥
+0
+
+
+{\displaystyle x\geq 0}
+
+ and concave on the set where 
+
+
+
+x
+≤
+0.
+
+
+{\displaystyle x\leq 0.}
+
+
+Examples of functions that are monotonically increasing but not convex include 
+
+
+
+f
+(
+x
+)
+=
+
+
+x
+
+
+
+
+{\displaystyle f(x)={\sqrt {x}}}
+
+ and 
+
+
+
+g
+(
+x
+)
+=
+log
+⁡
+x
+
+
+{\displaystyle g(x)=\log x}
+
+.
+Examples of functions that are convex but not monotonically increasing include 
+
+
+
+h
+(
+x
+)
+=
+
+x
+
+2
+
+
+
+
+{\displaystyle h(x)=x^{2}}
+
+ and 
+
+
+
+k
+(
+x
+)
+=
+−
+x
+
+
+{\displaystyle k(x)=-x}
+
+.
+The function 
+
+
+
+f
+(
+x
+)
+=
+
+
+
+1
+x
+
+
+
+
+
+{\displaystyle f(x)={\tfrac {1}{x}}}
+
+ has 
+
+
+
+
+f
+″
+
+(
+x
+)
+=
+
+
+
+2
+
+x
+
+3
+
+
+
+
+
+
+
+{\displaystyle f''(x)={\tfrac {2}{x^{3}}}}
+
+ which is greater than 0 if 
+
+
+
+x
+>
+0
+
+
+{\displaystyle x>0}
+
+ so 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ is convex on the interval 
+
+
+
+(
+0
+,
+∞
+)
+
+
+{\displaystyle (0,\infty )}
+
+. It is concave on the interval 
+
+
+
+(
+−
+∞
+,
+0
+)
+
+
+{\displaystyle (-\infty ,0)}
+
+.
+The function 
+
+
+
+f
+(
+x
+)
+=
+
+
+
+1
+
+x
+
+2
+
+
+
+
+
+
+
+{\displaystyle f(x)={\tfrac {1}{x^{2}}}}
+
+ with 
+
+
+
+f
+(
+0
+)
+=
+∞
+
+
+{\displaystyle f(0)=\infty }
+
+, is convex on the interval 
+
+
+
+(
+0
+,
+∞
+)
+
+
+{\displaystyle (0,\infty )}
+
+ and convex on the interval 
+
+
+
+(
+−
+∞
+,
+0
+)
+
+
+{\displaystyle (-\infty ,0)}
+
+, but not convex on the interval 
+
+
+
+(
+−
+∞
+,
+∞
+)
+
+
+{\displaystyle (-\infty ,\infty )}
+
+, because of the singularity at 
+
+
+
+x
+=
+0.
+
+
+{\displaystyle x=0.}
+
+LogSumExp function, also called softmax function, is a convex function.
+The function 
+
+
+
+−
+log
+⁡
+det
+(
+X
+)
+
+
+{\displaystyle -\log \det(X)}
+
+ on the domain of positive-definite matrices is convex.
+Every real-valued linear transformation is convex but not strictly convex, since if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is linear, then 
+
+
+
+f
+(
+a
++
+b
+)
+=
+f
+(
+a
+)
++
+f
+(
+b
+)
+
+
+{\displaystyle f(a+b)=f(a)+f(b)}
+
+. This statement also holds if we replace "convex" by "concave".
+Every real-valued affine function, that is, each function of the form 
+
+
+
+f
+(
+x
+)
+=
+
+a
+
+T
+
+
+x
++
+b
+,
+
+
+{\displaystyle f(x)=a^{T}x+b,}
+
+ is simultaneously convex and concave.
+Every norm is a convex function, by the triangle inequality and positive homogeneity.
+The spectral radius of a nonnegative matrix is a convex function of its diagonal elements.Bertsekas, Dimitri (2003). Convex Analysis and Optimization. Athena Scientific.
+Borwein, Jonathan, and Lewis, Adrian. (2000). Convex Analysis and Nonlinear Optimization. Springer.
+Donoghue, William F. (1969). Distributions and Fourier Transforms. Academic Press.
+Hiriart-Urruty, Jean-Baptiste, and Lemaréchal, Claude. (2004). Fundamentals of Convex analysis. Berlin: Springer.
+Krasnosel'skii M.A., Rutickii Ya.B. (1961). Convex Functions and Orlicz Spaces. Groningen: P.Noordhoff Ltd.
+Lauritzen, Niels (2013). Undergraduate Convexity. World Scientific Publishing.
+Luenberger, David (1984). Linear and Nonlinear Programming. Addison-Wesley.
+Luenberger, David (1969). Optimization by Vector Space Methods. Wiley & Sons.
+Rockafellar, R. T. (1970). Convex analysis. Princeton: Princeton University Press.
+Thomson, Brian (1994). Symmetric Properties of Real Functions. CRC Press.
+Zălinescu, C. (2002). Convex analysis in general vector spaces. River Edge, NJ: World Scientific Publishing  Co., Inc. pp. xx+367. ISBN 981-238-067-1. MR 1921556."Convex function (of a real variable)", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+"Convex function (of a complex variable)", Encyclopedia of Mathematics, EMS Press, 2001 [1994]

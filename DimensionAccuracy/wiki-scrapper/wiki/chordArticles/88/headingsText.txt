@@ -1,0 +1,23 @@
+History
+Solving a quartic equation, special cases
+Degenerate case
+Evident roots: 1 and −1 and −k
+Biquadratic equations
+Quasi-symmetric equations
+Multiple roots
+The general case
+Converting to a depressed quartic
+Solving a depressed quartic when b≠0
+Ferrari's solution
+Folding the second perfect square
+Summary of Ferrari's method
+Ferrari's solution in the special case of real coefficients
+Obtaining alternative solutions the hard way
+Alternative methods
+Quick and memorable solution from first principles
+Galois theory and factorization
+Approximate methods
+See also
+References
+Notes
+External links

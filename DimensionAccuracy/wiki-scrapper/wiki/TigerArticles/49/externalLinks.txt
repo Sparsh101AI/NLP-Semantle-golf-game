@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Manresa_State_Beach&params=36.920837_N_121.856329_W_region:US_type:landmark_dim:1km
+//geohack.toolforge.org/geohack.php?pagename=Manresa_State_Beach&params=36.920837_N_121.856329_W_region:US_type:landmark_dim:1km
+http://www.parks.ca.gov/pages/795/files/09-10%20statistical%20report%20final%20online.pdf
+http://www.parks.ca.gov/?page_id=545
+https://web.archive.org/web/20111102123526/http://www.thatsmypark.org/cp-parks-beaches/manresa-state-parks/
+https://en.wikipedia.org/w/index.php?title=Template:Protected_areas_of_California&action=edit
+https://en.wikipedia.org/w/index.php?title=Manresa_State_Beach&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:SantaCruzCountyCA-geo-stub&action=edit

@@ -1,0 +1,30 @@
+The United Nations geoscheme is a system which divides 249 countries and territories in the world into six regional, 17 subregional, and nine intermediate regional groups. It was devised by the United Nations Statistics Division (UNSD) based on the M49 coding classification. The creators note that "the assignment of countries or areas to specific groupings is for statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories".
+The schema was created for statistical analysis and consists of macro-geographical regions arranged to the extent possible according to continents. Within each region, smaller geographical sub-regions and sometimes intermediate regions contain countries. Countries are also grouped nongeographically into selected economic and other sets.
+Antarctica is the only geographical region which does not comprise any sub-regions or country-level areas.
+The UNSD geoscheme does not set a standard for the entire United Nations System, and it often differs from geographical definitions used by the autonomous United Nations specialized agencies for their own organizational convenience. For instance, the UNSD includes Cyprus and Georgia in Western Asia, yet the United Nations Industrial Development Organization and UNESCO include them in Europe. This "statistical" definition also differs from United Nations Regional Groups
+Other alternative groupings include the World Bank regional classification, CIA World Factbook regions and Internet Corporation for Assigned Names and Numbers Geographic Regions.
+Northern Africa
+Sub-Saharan Africa
+Eastern Africa
+Middle Africa
+Southern Africa
+Western AfricaLatin America and the Caribbean
+Caribbean
+Central America
+South America
+Northern America The Caribbean, Central America, and Northern America together form the geographical continent of North America.
+Central Asia
+Eastern Asia
+South-eastern Asia
+Southern Asia
+Western AsiaEastern Europe (including Northern Asia)
+Northern Europe
+Channel Islands
+Southern Europe
+Western EuropeAustralia and New Zealand
+Melanesia
+Micronesia
+PolynesiaList of countries by United Nations geoscheme
+Regions of Europe
+United Nations Regional Groups
+United Nations Statistics Division

@@ -1,0 +1,9 @@
+Adoption
+Features
+Limitations
+Delayed allocation and potential data loss
+Implementation
+Compatibility with Windows and Macintosh
+See also
+References
+External links

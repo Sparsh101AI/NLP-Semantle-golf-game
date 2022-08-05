@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Baywood,_Louisiana&params=30_41_28_N_90_52_59_W_region:US-LA_type:city
+//geohack.toolforge.org/geohack.php?pagename=Baywood,_Louisiana&params=30_41_28_N_90_52_59_W_region:US-LA_type:city
+https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/542966
+http://louisiana.hometownlocator.com/la/east-baton-rouge/baywood.cfm
+http://www.hometownlocator.com/
+https://en.wikipedia.org/w/index.php?title=Template:East_Baton_Rouge_Parish,_Louisiana&action=edit
+https://en.wikipedia.org/w/index.php?title=Baywood,_Louisiana&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Louisiana-geo-stub&action=edit

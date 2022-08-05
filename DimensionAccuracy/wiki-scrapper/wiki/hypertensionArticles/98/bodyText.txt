@@ -1,0 +1,167 @@
+Dentition pertains to the development of teeth and their arrangement in the mouth. In particular, it is the characteristic arrangement, kind, and number of teeth in a given species at a given age. That is, the number, type, and morpho-physiology (that is, the relationship between the shape and form of the tooth in question and its inferred function) of the teeth of an animal.
+Animals whose teeth are all of the same type, such as most non-mammalian vertebrates, are said to have homodont dentition, whereas those whose teeth differ morphologically are said to have heterodont dentition. The dentition of animals with two successions of teeth (deciduous, permanent) is referred to as diphyodont, while the dentition of animals with only one set of teeth throughout life is monophyodont. The dentition of animals in which the teeth are continuously discarded and replaced throughout life is termed polyphyodont. The dentition of animals in which the teeth are set in sockets in the jawbones is termed thecodont.
+The evolutionary origin of the vertebrate dentition remains contentious. Current theories suggest either an "outside-in" or "inside-out" evolutionary origin to teeth, with the dentition arising from odontodes on the skin surface moving into the mouth, or vice versa. Despite this debate, it is accepted that vertebrate teeth are homologous to the dermal denticles found on the skin of basal Gnathostomes (i.e. Chondrichtyans). Since the origin of teeth some 450 mya, the vertebrate dentition has diversified within the reptiles, amphibians, and fish: however most of these groups continue to possess a long row of pointed or sharp-sided, undifferentiated teeth (homodont) that are completely replaceable. The mammalian pattern is significantly different. The teeth in the upper and lower jaws in mammals have evolved a close-fitting relationship such that they operate together as a unit. "They 'occlude', that is, the chewing surfaces of the teeth are so constructed that the upper and lower teeth are able to fit precisely together, cutting, crushing, grinding or tearing the food caught between."
+All mammals except the monotremes, the xenarthrans, the pangolins, and the cetaceans have up to four distinct types of teeth, with a maximum number for each. These are the incisor (cutting), the canine, the premolar, and the molar (grinding). The incisors occupy the front of the tooth row in both upper and lower jaws. They are normally flat, chisel-shaped teeth that meet in an edge-to-edge bite. Their function is cutting, slicing, or gnawing food into manageable pieces that fit into the mouth for further chewing. The canines are immediately behind the incisors. In many mammals, the canines are pointed, tusk-shaped teeth, projecting beyond the level of the other teeth. In carnivores, they are primarily offensive weapons for bringing down prey. In other mammals such as some primates, they are used to split open hard-surfaced food. In humans, the canine teeth are the main components in occlusal function and articulation. The mandibular teeth function against the maxillary teeth in a particular movement that is harmonious to the shape of the occluding surfaces. This creates the incising and grinding functions. The teeth must mesh together the way gears mesh in a transmission. If the interdigitation of the opposing cusps and incisal edges are not directed properly the teeth will wear abnormally (attrition), break away irregular crystalline enamel structures from the surface (abrasion), or fracture larger pieces (abfraction). This is a three-dimensional movement of the mandible in relation to the maxilla. There are three points of guidance: the two posterior points provided by the temporomandibular joints and the anterior component provided by the incisors and canines. The incisors mostly control the vertical opening of the chewing cycle when the muscles of mastication move the jaw forwards and backwards (protrusion/retrusion). The canines come into function guiding the vertical movement when the chewing is side to side (lateral). The canines alone can cause the other teeth to separate at the extreme end of the cycle (cuspid guided function) or all the posterior teeth can continue to stay in contact (group function). The entire range of this movement is the envelope of mastacatory function. The initial movement inside this envelope is directed by the shape of the teeth in contact and the Glenoid Fossa/Condyle shape. The outer extremities of this envelope are limited by muscles, ligaments and the acticular disc of the TMJ. Without the guidance of anterior incisors and canines, this envelope of function can be destructive to the remaining teeth resulting in periodontal trauma from occlusion seen as wear, fracture or tooth loosening and loss. The premolars and molars are at the back of the mouth. Depending on the particular mammal and its diet, these two kinds of teeth prepare pieces of food to be swallowed by grinding, shearing, or crushing. The specialised teeth—incisors, canines, premolars, and molars—are found in the same order in every mammal. In many mammals, the infants have a set of teeth that fall out and are replaced by adult teeth. These are called deciduous teeth, primary teeth, baby teeth or milk teeth. Animals that have two sets of teeth, one followed by the other, are said to be diphyodont. Normally the dental formula for milk teeth is the same as for adult teeth except that the molars are missing.
+Because every mammal's teeth are specialised for different functions, many mammal groups have lost the teeth that are not needed in their adaptation. Tooth form has also undergone evolutionary modification as a result of natural selection for specialised feeding or other adaptations. Over time, different mammal groups have evolved distinct dental features, both in the number and type of teeth and in the shape and size of the chewing surface.
+The number of teeth of each type is written as a dental formula for one side of the mouth, or quadrant, with the upper and lower teeth shown on separate rows. The number of teeth in a mouth is twice that listed, as there are two sides. In each set, incisors (I) are indicated first, canines (C) second, premolars (P) third, and finally molars (M), giving I:C:P:M. So for example, the formula 2.1.2.3 for upper teeth indicates 2 incisors, 1 canine, 2 premolars, and 3 molars on one side of the upper mouth. The deciduous dental formula is notated in lowercase lettering preceded by the letter d: for example: di:dc:dp.
+An animal's dentition for either deciduous or permanent teeth can thus be expressed as a dental formula, written in the form of a fraction, which can be written as I.C.P.MI.C.P.M, or I.C.P.M / I.C.P.M. For example, the following formulae show the deciduous and usual permanent dentition of all catarrhine primates, including humans:
+Deciduous: 
+
+
+
+(
+d
+
+i
+
+2
+
+
+−
+d
+
+c
+
+1
+
+
+−
+d
+
+m
+
+2
+
+
+)
+
+/
+
+(
+d
+
+i
+
+2
+
+
+−
+d
+
+c
+
+1
+
+
+−
+d
+
+m
+
+2
+
+
+)
+×
+2
+=
+20.
+
+
+{\displaystyle (di^{2}-dc^{1}-dm^{2})/(di_{2}-dc_{1}-dm_{2})\times 2=20.}
+
+ This can also be written as di2.dc1.dm2di2.dc1.dm2. Superscript and subscript denote upper and lower jaw, i.e. do not indicate mathematical operations; the numbers are the count of the teeth of each type. The dashes (-) in the formula are likewise not mathematical operators, but spacers, meaning "to": for instance the human formula is 2.1.2.2-32.1.2.2-3 meaning that people may have 2 or 3 molars on each side of each jaw. 'd' denotes deciduous teeth (i.e. milk or baby teeth); lower case also indicates temporary teeth. Another annotation is 2.1.0.22.1.0.2, if the fact that it pertains to deciduous teeth is clearly stated, per examples found in some texts such as The Cambridge Dictionary of Human Biology and Evolution
+Permanent: 
+
+
+
+(
+
+I
+
+2
+
+
+−
+
+C
+
+1
+
+
+−
+
+P
+
+2
+
+
+−
+
+M
+
+3
+
+
+)
+
+/
+
+(
+
+I
+
+2
+
+
+−
+
+C
+
+1
+
+
+−
+
+P
+
+2
+
+
+−
+
+M
+
+3
+
+
+)
+×
+2
+=
+32.
+
+
+{\displaystyle (I^{2}-C^{1}-P^{2}-M^{3})/(I_{2}-C_{1}-P_{2}-M_{3})\times 2=32.}
+
+ This can also be written as 2.1.2.32.1.2.3. When the upper and lower dental formulae are the same, some texts write the formula without a fraction (in this case, 2.1.2.3), on the implicit assumption that the reader will realise it must apply to both upper and lower quadrants. This is seen, for example, throughout The Cambridge Dictionary of Human Biology and Evolution.The greatest number of teeth in any known placental land mammal was 48, with a formula of 3.1.5.33.1.5.3. However, no living placental mammal has this number. In extant placental mammals, the maximum dental formula is 3.1.4.33.1.4.3 for pigs. Mammalian tooth counts are usually identical in the upper and lower jaws, but not always. For example, the aye-aye has a formula of 1.0.1.31.0.0.3, demonstrating the need for both upper and lower quadrant counts.
+Teeth are numbered starting at 1 in each group. Thus the human teeth are :I2, C1, P3, P4, M1, M2, and M3. (See next paragraph for premolar naming etymology.) In humans, the third molar is known as the wisdom tooth, whether or not it has erupted.
+Regarding premolars, there is disagreement regarding whether the third type of deciduous tooth is a premolar (the general consensus among mammalogists) or a molar (commonly held among human anatomists). There is thus some discrepancy between nomenclature in zoology and in dentistry. This is because the terms of human dentistry, which have generally prevailed over time, have not included mammalian dental evolutionary theory. There were originally four premolars in each quadrant of early mammalian jaws. However, all living primates have lost at least the first premolar. "Hence most of the prosimians and platyrrhines have three premolars. Some genera have also lost more than one. A second premolar has been lost in all catarrhines. The remaining permanent premolars are then properly identified as P2, P3 and P4 or P3 and P4; however, traditional dentistry refers to them as P1 and P2".
+The order in which teeth emerge through the gums is known as the dental eruption sequence. Rapidly developing anthropoid primates such as macaques, chimpanzees, and australopithecines have an eruption sequence of M1 I1 I2 M2 P3 P4 C M3, whereas anatomically modern humans have the sequence M1 I1 I2 C P3 P4 M2 M3. The later that tooth emergence begins, the earlier the anterior teeth (I1–P4) appear in the sequence.
+Dentition, or the study of teeth, is an important area of study for archaeologists, especially those specializing in the study of older remains. Dentition affords many advantages over studying the rest of the skeleton itself (osteometry). The structure and arrangement of teeth is constant and, although it is inherited, does not undergo extensive change during environmental change, dietary specializations, or alterations in use patterns. The rest of the skeleton is much more likely to exhibit change because of adaptation. Teeth also preserve better than bone, and so the sample of teeth available to archaeologists is much more extensive and therefore more representative.
+Dentition is particularly useful in tracking ancient populations' movements, because there are differences in the shapes of incisors, the number of grooves on molars, presence/absence of wisdom teeth, and extra cusps on particular teeth. These differences can not only be associated with different populations across space, but also change over time so that the study of the characteristics of teeth could say which population one is dealing with, and at what point in that population's history they are.
+A dinosaur's dentition included all the teeth in its jawbones, which consist of the dentary, maxillary, and in some cases the premaxillary bones. The maxilla is the main bone of the upper jaw. The premaxilla is a smaller bone forming the anterior of the animal's upper jaw. The dentary is the main bone that forms the lower jaw (mandible). The predentary is a smaller bone that forms the anterior end of the lower jaw in ornithischian dinosaurs; it is always edentulous and supported a horny beak.
+Unlike modern lizards, dinosaur teeth grew individually in the sockets of the jawbones, which are known as the alveoli. These differ from teeth of other vertebrates, which are directly fused to the bones of the jaw. Teeth that were lost were replaced by teeth below the roots in each tooth socket. Occlusion refers to the closing of the dinosaur's mouth, where the teeth from the upper and lower parts of the jaw meet. If the occlusion causes teeth from the maxillary or premaxillary bones to cover the teeth of the dentary and predentary, the dinosaur is said to have an overbite, the most common condition in this group. The opposite condition is considered to be an underbite, which is rare in theropod dinosaurs.
+The majority of dinosaurs had teeth that were similarly shaped throughout their jaws but varied in size. Dinosaur tooth shapes included cylindrical, peg-like, teardrop-shaped, leaf-like, diamond-shaped and blade-like. A dinosaur that has a variety of tooth shapes is said to have heterodont dentition. An example of this are dinosaurs of the group Heterodontosauridae and the enigmatic early dinosaur, Eoraptor. While most dinosaurs had a single row of teeth on each side of their jaws, others had dental batteries where teeth in the cheek region were fused together to form compound teeth. Individually these teeth were not suitable for grinding food, but when joined together with other teeth they would form a large surface area for the mechanical digestion of tough plant materials. This type of dental strategy is observed in ornithopod and ceratopsian dinosaurs as well as the duck-billed hadrosaurs, which had more than one hundred teeth in each dental battery. The teeth of carnivorous dinosaurs, called ziphodont, were typically blade-like or cone-shaped, curved, with serrated edges. This dentition was adapted for grasping and cutting through flesh. In some cases, as observed in the railroad-spike-sized teeth of Tyrannosaurus rex, the teeth were designed to puncture and crush bone. Some dinosaurs had procumbent teeth, which projected forward in the mouth.
+Deciduous teeth
+Dental notation
+Dentistry
+Dentition analysis
+Odontometrics
+Permanent teeth
+Phalangeal formula
+Teething
+Tooth eruptionSome articles have helpful discussions on dentition, which will be listed as identified.
+LemurDaris R. Swindler (2002), "Chapter 1: Introduction (pp. 1–11) and Chapter 2: Dental anatomy (pp. 12–20)." (PDF), Primate Dentition: An Introduction to the Teeth of Non-human Primates, Cambridge: Cambridge University Press, ISBN 978-0-521-65289-6 See also preview pages in Google books
+Feldhamer, George A.; Lee C. Drickhamer; Stephen H. Vessey; Joseph F. Merritt; Carey Krajewski (2007), "4: Evolution and Dental Characteristics", Mammalogy: Adaptation, Diversity, Ecology, Baltimore, Maryland: Johns Hopkins University Press, pp. 48–67, ISBN 978-0-8018-8695-9, retrieved 7 June 2010 (link provided to title page to give reader choice of scrolling straight to relevant chapter or perusing other material).Colorado State's Dental Anatomy Page
+For image of skulls and more information on dental formula of mammals.

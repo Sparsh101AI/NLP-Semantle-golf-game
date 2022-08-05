@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Golfmantle</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="../static/css/styles.css">
+
+	<!-- favicon / touch icons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="../static/images/favicon_package/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../static/images/favicon_package/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../static/images/favicon_package/favicon-16x16.png">
+	<link rel="manifest" href="../static/images/favicon_package/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- jquery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.4/math.min.js"></script>
+
+	<!-- icon kit -->
+	<script src="https://kit.fontawesome.com/08bea279a4.js" crossorigin="anonymous"></script>
+
+	<!-- google fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<div id="overlayContainer">
+		<div class="overlayContent">
+			<button class="iconBtn xBtn" onclick="hideOverlays()">
+				<i class="fa-solid fa-square-xmark fa-2x"></i>
+			</button>
+			<h1><i class="fa-solid fa-gear"></i> Settings</h1>
+			<div>
+				<input type="checkbox" id="oldWordsSetting" checked="true">
+				<label for="oldWordsSetting">Show previous words that you entered</label>
+			</div>
+			<div>
+				<input type="checkbox" id="showPercentSetting">
+				<label for="showPercentSetting">Show semantic score instead of percent</label>
+			</div>
+			<div>
+				<input type="checkbox" id="showBannedSetting" checked="true">
+				<label for="showBannedSetting">Hide explicit words</label>
+			</div>
+			<div>
+				<input type="checkbox" id="generateHintsSetting" checked="true">
+				<label for="generateHintsSetting">Show hints inside of obstacles</label>
+			</div>
+			<div>
+				<input type="checkbox" id="audioAutoPlaySetting">
+				<label for="audioAutoPlaySetting">When a word is submitted, the pronounciation audio is played automatically</label>
+			</div>
+			<div>
+				<input type="checkbox" id="smallerWords">
+				<label for="smallerWords">make the words that are displayed smaller</label>
+			</div>
+			<div>
+				<input type="checkbox" id="smartExpressions">
+				<label for="smallerWords">evaluate word expressions using 300D vectors rather than 2D vectors</label>
+			</div>
+		</div>
+		<div class="overlayContent">
+			<button class="iconBtn xBtn" onclick="hideOverlays()">
+				<i class="fa-solid fa-square-xmark fa-2x"></i>
+			</button>
+			<h1><i class="fa-solid fa-circle-info"></i> Info</h1>
+			<p>Shoot your ball into the hole by entering words that are semantically similar to the goal word. Keep
+				guessing until you get it in, the less shots the better!</p>
+			<p>Golfmantle is a visual extension of <a href="semantle.com">semantle</a> by David Turner.</p>
+			<p>Created by Group 2 for UAlberta HIP 2022</p>
+			<p>Word2vec data from Google</p>
+		</div>
+		<div class="overlayContent" id="win">
+			<h1>You win!</h1>
+			<h2 id="holeInOne" hidden>...and it was a hole in one!</h2>
+			<p>The secret word was "<span id="secretWord"></span>"!</p>
+			<p>You can play again and even try out different datasets that we have added!</p>
+			<button class="submitBtn button" id="playAgain" onclick="hideOverlays()">
+				Play Again
+			</button>
+		</div>
+	</div>
+
+	<div class="header">
+		<img src="../static/images/golf_mantle_banner.png" width="375" height="110" id="golfmantleLogo">
+		<div>
+			<button class="iconBtn" onclick="showOverlay(0)">
+				<i class="fa-solid fa-gear fa-xl"></i>
+			</button>
+			<button class="iconBtn" onclick="showOverlay(1)">
+				<i class="fa-solid fa-circle-info fa-xl"></i>
+			</button>
+		</div>
+	</div>
+
+	<div class="mainContainer">
+		<div class="card">
+			<div id="canvasContainer">
+				<p><strong>SHOTS: </strong><span id="moves">0</span></p>
+				<div id="similarityBox" hidden>
+					<p>"<strong id="lastWord">undefined</strong>" is <strong id="similarity">0</strong> similar to the secret
+						word.</p>
+				</div>
+			</div>
+
+			<p id="errorText"><i class="fa-solid fa-circle-exclamation"></i>Error: That is not a valid word!</p>
+
+			<p id="hintText"><i class="fa-solid"></i></p>
+			<div class="inputContainer">
+				<input type="text" id="wordInput" placeholder="Enter word" autocomplete="off">
+				<input type="button" value="Shoot" id="submitBtn" class="button">
+				<input type="button" value="Restart" id="restartBtn" class="button">
+				<input type="button" value="Hint" id="hintBtn" class="button">
+			</div>
+
+			<div class="inputContainer">
+				<p>Changing to a different dataset will reset your current match!</p>
+			</div>
+
+			<div class="inputContainer">
+				<select id="modeInput">
+					<option value="../static/corpora/semantle_vectors/2DVectors.json">Default</option>
+					<option value="../static/corpora/potter_vectors/potter_vectors.json">Harry Potter</option>
+					<option value="../static/corpora/star_wars_vectors/2DStarwars.json">Star Wars</option>
+					<option value="../static/corpora/1984_vectors/2DNineteenEightyFour.json">1984</option>
+					<option value="../static/corpora/dune_vectors/2DDune.json">Dune</option>
+					<option value="../static/corpora/hamilton_vectors/2DHamilton.json">Hamilton</option>
+					<option value="../static/corpora/lotr_vectors/2DLOTR.json">Lord of the Rings</option>
+					<option value="../static/corpora/romeo_juliet_vectors/2DRomeoJuliet.json">Romeo & Juliet</option>
+					<option value="../static/corpora/the_godfather_vectors/2DTheGodfather.json">The Godfather</option>
+					<option value="../static/corpora/the_hunger_games_vectors/2DTheHungerGames.json">The Hunger Games</option>
+					<option value="../static/corpora/titanic_vectors/2DTitanic.json">The Titanic</option>
+					<option value="../static/corpora/toy_story_vectors/2DToyStory.json">Toy Story</option>
+					<option value="../static/corpora/comp_sci_text/2DCompSciText.json">Computer Science Textbook</option>
+					<option value="../static/corpora/cpp_vectors/CPlusPlus.json">C++ Textbook</option>
+					<option value="../static/corpora/semantle_10k_vectors/2Dtsne.json">normalized semantle 10k</option>
+					<option value="../static/corpora/semantle_25k_vectors/2Dtsne.json">normalized semantle 25k</option>
+				</select>
+			</div>
+
+			<div class="inputContainer">
+				<input type="button" value="display words (will cause lag)" id="showBtn" class="button">
+			</div>
+			<div class="inputContainer">
+				<p> Get cosine similarity of two words: </p>
+				<input type="text" id="cosInput1" class = 'cosInput' placeholder="Enter word" autocomplete="off">
+				<input type="text" id="cosInput2" class = 'cosInput' placeholder="Enter word" autocomplete="off">
+				<input type="button" value="enter" id="cosineBtn" class="button">
+			</div>
+			<div class="inputContainer">
+				<p> find surrounding words: </p>
+				<input type="text" id="revealInput" class = 'cosInput' placeholder="Enter word" autocomplete="off">
+				<input type="button" value="enter" id="revealBtn" class="button">
+			</div>
+		</div>
+
+		<div id="definitionContainer" class="card" hidden>
+			<h3>Definition</h3>
+			<h1 id="definitionWord">Word</h1>
+			<h2 id="definitionTextPronounce">Pronounciation</h2>
+			<!-- <p id="definitionText">Definition</p> -->
+			<ol id="definitionText"></ol>
+			<h3 id="synonymsTitle" hidden>Synonyms</h3>
+			<div id="definitionSynonyms"></div>
+			<h3 id="antonymsTitle" hidden>Antonyms</h3>
+			<div id="definitionAntonyms"></div>
+			<audio controls id="definitionAudioPlayer">
+				<source id="definitonAudioSource" src="" type="audio/mpeg">
+				Your browser does not support the audio element.
+			</audio>
+			<p><i><strong>Pro Tip</strong>: You can auto-play pronounciations by enabling the setting in the settings menu!</i></p>
+		</div>
+
+		<script>
+			function showOverlay(index) {
+				$("#overlayContainer").css({ "visibility": "visible", "opacity": 1 });
+				$(".overlayContent")[index].style.display = "block";
+				setTimeout(() => {
+					$(".overlayContent")[index].style.transform = "translateY(0)";
+				}, 100)
+			}
+
+			function hideOverlays() {
+				$("#overlayContainer").css({ "visibility": "hidden", "opacity": 0 });
+				$(".overlayContent").css("transform", "translateY(-2000px)");
+				setTimeout(() => {
+					$(".overlayContent").css("display", "none");
+				}, 1000)
+			}
+		</script>
+	</div>
+
+	<script src="../static/js/expression_parser.js"></script>
+	<script src="../static/js/generation.js"></script>
+	<script src="../static/js/collision.js"></script>
+	<script src="../static/js/Ball.js"></script>
+	<script src="../static/js/input.js"></script>
+	<script src="../static/js/corpus_loader.js"></script>
+	<script src="../static/js/naughtyWords.js"></script>
+	<script src="../static/js/main.js"></script>
+</body>
+
+</html>

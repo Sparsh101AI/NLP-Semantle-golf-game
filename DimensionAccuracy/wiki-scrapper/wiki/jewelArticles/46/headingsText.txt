@@ -1,0 +1,49 @@
+History and versions
+HLA 1.3
+HLA 1516-2000
+HLA 1516-2010 (HLA Evolved)
+HLA 1516-20XX (HLA 4)
+Technical overview
+Common HLA terminology
+Interface specification
+Federation Management Services
+Declaration Management Services
+Object Management Services
+Ownership Management Services
+Time Management Services
+Data Distribution Management Services (DDM)
+Support services
+Management Object Model
+Object model template (OMT)
+Identification Table
+Object Classes Structure Table
+Attribute Table
+Interaction Class Structure Table
+Parameter Table
+Dimensions table
+Time representation table
+User-supplied tag table
+Synchronization table
+Transportation type table
+Update rate table
+Switches table
+Datatypes
+Basic Data Representation Table
+Simple Datatypes Table
+Enumerated Datatypes Table
+Array Datatypes Table
+Fixed Record Datatypes Table
+Variant Record Datatypes Table
+Notes table
+HLA rules
+HLA Evolved
+Federation Conformance
+STANAG 4603
+Related standards
+Base Object Model
+Alternatives
+Criticism
+External links
+See also
+References
+External links

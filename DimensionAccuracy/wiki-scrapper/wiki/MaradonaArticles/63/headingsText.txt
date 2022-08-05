@@ -1,0 +1,45 @@
+Challenges of smartphone mobile security
+Threats
+Consequences
+Attacks based on communication
+Attack based on SMS and MMS
+Attacks based on communication networks
+Attacks based on the GSM networks
+Attacks based on Wi-Fi
+Principle of Bluetooth-based attacks
+Attacks based on vulnerabilities in software applications
+Web browser
+Operating system
+Attacks based on hardware vulnerabilities
+Electromagnetic Waveforms
+Juice Jacking
+Jail-breaking and rooting
+Password cracking
+Malicious software (malware)
+The three phases of malware attacks
+Infection
+Accomplishment of its goal
+Spread to other systems
+Examples of malware
+Viruses and trojans
+Ransomware
+Spyware
+Number of malware
+Portability of malware across platforms
+Countermeasures
+Security in operating systems
+Security software
+Resource monitoring in the smartphone
+Network surveillance
+Manufacturer surveillance
+User awareness
+Enable Android Device Encryption
+Centralized storage of text messages
+Limitations of certain security measures
+Next Generation of mobile security
+See also
+Notes
+References
+Books
+Articles
+Further reading

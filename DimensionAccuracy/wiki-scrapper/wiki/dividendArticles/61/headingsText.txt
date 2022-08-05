@@ -1,0 +1,25 @@
+Motivation
+Taylor's theorem in one real variable
+Statement of the theorem
+Explicit formulas for the remainder
+Estimates for the remainder
+Example
+Relationship to analyticity
+Taylor expansions of real analytic functions
+Taylor's theorem and convergence of Taylor series
+Taylor's theorem in complex analysis
+Example
+Generalizations of Taylor's theorem
+Higher-order differentiability
+Taylor's theorem for multivariate functions
+Example in two dimensions
+Proofs
+Proof for Taylor's theorem in one real variable
+Alternate proof for Taylor's theorem in one real variable
+Derivation for the mean value forms of the remainder
+Derivation for the integral form of the remainder
+Derivation for the remainder of multivariate Taylor polynomials
+See also
+Footnotes
+References
+External links

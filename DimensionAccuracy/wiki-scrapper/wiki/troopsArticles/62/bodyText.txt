@@ -1,0 +1,43 @@
+The Arab sign-language family is a family of sign languages spread across the Arab Middle East. Its extent is not yet known, because only some of the sign languages in the region have been compared.
+A language planning project for a single Arabic Sign Language is being conducted by the Council of Arab Ministers of Social Affairs (CAMSA), with much of the vocabulary voted on by regional Deaf associations. However, so far only a dictionary has been compiled; grammar has not been addressed, so the result cannot be considered a language.
+Unlike spoken Arabic, Arabic sign languages (ArSLs) are not diglossic. This means that there is one version of an Arabic sign language used by a community, rather than two versions, i.e. colloquial and formal, as is the case with the Arabic language.
+The sentence structure of ArSLs is relatively flexible, similar to spoken and written Arabic. One sentence can be signed in different word orders, such as Verb-Subject-Object (V-S-O), Subject-Verb-Object (S-V-O), Object-Verb-Subject (O-V-S) and Verb-Object-Subject (V-O-S.)
+The tense (present, future or past) of a sentence is usually referred to in the beginning of that sentence, except when they need to be changed during a conversation. In this case, the tense can be shifted towards the middle or the end of the sentence.
+According to M.A. Abdel-Fattah, a linguistic scholar, the vocabulary of ArSLs could originate from:
+Loan words from both Europe and America,
+"Creations"; having existing gestures for verbal words, whether written or spoken,
+"Miming" physical objects or actions,
+Compounding two or more signs to create a unique sign, such as "dentist" which is a combination of "doctor" and "teeth".In ArSLs, just like other sign languages, the context of the word depends on the shape of the hand, alongside its position and movement relative to the body. To aid in the meaning of the sign, facial expressions and facial movements are also used.
+Most signs in ArSLs are limited to nouns and verbs, but for prepositions and intensifiers, it is the execution of the sign which indicates the two. For example, in Libyan Sign Language, the sign "every day" involves touching the nose with the index finger and repeating it three times.
+According to Abdel-Fatteh, certain vocabulary in ArSLs are synosigns, antosigns, homosigns and compounds.
+ The Alphabet of Arabic Sign Language Synosigns are two distinct signs with the same meaning. In ArSLs, these are uncommon. An example of a synosign is in Jordanian Sign Language, where the sign for 'girl' can be done in two different ways.
+Antosigns are two signs corresponding to opposite words; with both signs having opposite movements. An example of antosigns are the signs for "morning" and "night", where the sign for "night" is movement-wise the reverse of the sign for "morning."
+A homosign is a sign that can be used for multiple words and the interpretation of which depends on the topic of the conversation.
+Compounds are signs that use two or more existing signs to convey an idea. The words for which signs need to be compounded don't typically have corresponding signs. For example, the signs for "doctor" and "teeth" would need to be compounded to sign "dentist."Despite having many sign language varieties in the Middle East under the broader "Arabic Sign Language", it is unlikely that any of these languages are related to each other. Among the national sign languages which may be related are the following, listed in alphabetical order:
+Egyptian Sign Language is used by the deaf community in Egypt.
+Emirati Sign Language is a unified sign language for the deaf community in the UAE.
+Iraqi Sign Language is used by the deaf community in Iraq.
+Kuwaiti Sign Language is the sign language used by the hearing-impaired people of Kuwait.
+Levantine Arabic Sign Language is utilized by the people residing in the Levant region and includes Jordanian Sign Language (LIU) and Palestinian Sign Language, among others.
+Libyan Sign Language is the sign language of the deaf community in Libya.
+Omani Sign Language
+Qatari Sign Language is a unified sign language for the deaf community in Qatar.
+Saudi Sign Language is used by the deaf community in Saudi Arabia.
+Yemeni Sign Language is the sign language used in Yemen.
+Other languages of the region appear to not be related. Moroccan Sign Language derives from American Sign Language, and Tunisian Sign Language from Italian Sign Language. There are numerous local Sudanese sign languages which are not even related to each other, and there are many other Arab village sign languages in the region, such as Al-Sayyid Bedouin Sign Language and Ghardaia Sign Language, which are not related to the national languages.
+To unify the Arab World with one distinct sign language that can be understood throughout the MENA region, a dictionary for a standard Arabic Sign Language (ArSL) has been produced in 2004 by the Council of Arab Ministers of Social Affairs (CAMSA). This dictionary consists of a combination of signs from a wide range of mostly unrelated Arab sign languages such as Egyptian Sign Language and Jordanian Sign Language.  
+This "Standardized" Arabic Sign Language has been applied by interpreters in news outlets like Al-Jazeera in their news broadcasting, including simultaneous interpreting.
+However, the introduction of ArSL has been met with backlash by the deaf community, because it is not the native sign language of any country in the region. There are also wide disparities between the vocabulary of the standardized version and the national sign languages. As a result, it is difficult for the deaf community in the Middle East to understand the Standardized version and so use it.
+An international survey was conducted by Hilde Haualand in 2009, which investigated the accessibility of sign language interpreters, as well as the training and support the Deaf community receives. This survey included the MENA region. Regions that were investigated in the survey included Algeria, Bahrain, Egypt, Iraq, Kuwait, Lebanon, Mauritania, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Tunisia, UAE and Yemen.
+A participant representing each country in the survey answered five yes/no questions, which included:
+If the deaf could access government services
+If there is a "Sign Language interpreting service" in their country
+If Interpreters have any interpreting qualifications
+if there is a Code of Ethics for Interpreters
+If the government was responsible for their salariesA yes response to each of these questions yields one point, with five points being the maximum for any country. Qatar was the only country in the survey that had five points, meaning they satisfied all the aforementioned five criteria relating to accessibility. Bahrain and Kuwait satisfied the first four questions. Oman, Egypt, Iraq, Saudi Arabia, Tunisia and UAE had three points, meaning they had answered "yes" to the first three questions. Algeria, Morocco and Lebanon had two points and Yemen had one point.
+Al-Fityani, K. (2007). "Arab Sign Languages: A lexical comparison". Center for Research in Language Technical Reports. 19 (1): 3–13.
+Al-Fityani, K., & Padden, C. 2010. Sign Language geography in the Arab world. In D. Brentari (Ed.), Sign languages: A Cambridge Survey, 433–450. New York: Cambridge University Press.
+Hendriks, Bernadet (12 November 2009). "Jordanian Sign Language: Aspects of grammar from a cross-linguistic perspective: (University of Amsterdam, 2008)". Sign Language & Linguistics. 12 (1): 101–110. doi:10.1075/sll.12.1.06hen.
+Padden, Carol. 2010. "Sign Language Geography", in Mathur & Napoli, eds, Deaf around the World, Gallaudet
+Richardson, Kristina (2017). "New Evidence for Early Modern Ottoman Arabic and Turkish Sign Systems". Sign Language Studies. 17 (2): 172–192. doi:10.1353/sls.2017.0001. JSTOR 26191034. S2CID 44038104. Project MUSE 648902.
+https://www.un.org/esa/socdev/enable/rights/contrib-arab1.htm

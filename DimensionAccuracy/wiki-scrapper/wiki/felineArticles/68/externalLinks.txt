@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Buena_Vista,_Bolivia&params=17_27_32_S_63_39_33_W_
+//geohack.toolforge.org/geohack.php?pagename=Buena_Vista,_Bolivia&params=17_27_32_S_63_39_33_W_region:BO_type:city
+https://pubmed.ncbi.nlm.nih.gov/1
+https://doi.org/10.1016%2F0006-2944%2875%2990147-7
+//www.worldcat.org/issn/0006-2944
+//pubmed.ncbi.nlm.nih.gov/1
+https://web.archive.org/web/20110812223910/http://buenavistabolivia.com/en/info-de-buenavista/historia/
+http://buenavistabolivia.com/en/info-de-buenavista/historia/
+https://web.archive.org/web/20080914035322/http://www.aguabolivia.org/situacionaguaX/Riego/mapas/santacruz/ichilo.htm
+https://web.archive.org/web/20150223080259/http://www.populstat.info/
+https://viaf.org/viaf/151704912
+https://www.worldcat.org/identities/containsVIAFID/151704912
+https://id.loc.gov/authorities/names/nr00038171

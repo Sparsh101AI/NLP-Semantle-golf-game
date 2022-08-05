@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Ikerasak_Heliport&params=70_29_53_N_051_18_11_W_region:GL_type:airport
+//geohack.toolforge.org/geohack.php?pagename=Ikerasak_Heliport&params=70_29_53_N_051_18_11_W_region:GL_type:airport
+http://www.mit.gl/dagens-flyvninger/helipladser/ikerasak/
+https://naviair-public.sharepoint.com/AIM%20Documents/AIP%20Gr%C3%B8nland/AIP%20PART%203%20-%20FLYVEPLADSER%20(AD)/AD%204%20HELIPORTS/BG_AD_4_BGIA_en.pdf
+https://web.archive.org/web/20100422211033/http://book.airgreenland.com/
+http://book.airgreenland.com/
+http://airgreenland.com/information/bestillingafrejse/rejseprodukter
+https://web.archive.org/web/20100713230958/http://airgreenland.com/information/bestillingafrejse/rejseprodukter
+https://en.wikipedia.org/w/index.php?title=Template:Airports_in_Greenland&action=edit

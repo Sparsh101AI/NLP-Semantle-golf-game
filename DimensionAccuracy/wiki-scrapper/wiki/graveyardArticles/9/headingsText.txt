@@ -1,0 +1,52 @@
+History
+Features and uses
+Size and portability
+Inputs
+Probes
+Front panel controls
+Focus control
+Intensity control
+Astigmatism
+Beam finder
+Graticule
+Timebase controls
+Holdoff control
+Vertical sensitivity, coupling, and polarity controls
+Vertical position control
+Horizontal sensitivity control
+Horizontal position control
+Dual-trace controls
+Delayed-sweep controls
+Sweep trigger controls
+Basic types of sweep
+Triggered sweep
+Holdoff
+Example
+Automatic sweep mode
+Recurrent sweeps
+Single sweeps
+Delayed sweeps
+Dual and multiple-trace oscilloscopes
+The vertical amplifier
+X-Y mode
+Z input
+Bandwidth
+Other features
+Examples of use
+Pictures of use
+Automotive use
+Selection
+Software
+Types and models
+Cathode-ray oscilloscope (CRO)
+Dual-beam oscilloscope
+Analog storage oscilloscope
+Digital oscilloscopes
+Mixed-signal oscilloscopes
+Mixed-domain oscilloscopes
+Handheld oscilloscopes
+PC-based oscilloscopes
+Related instruments
+See also
+References
+External links

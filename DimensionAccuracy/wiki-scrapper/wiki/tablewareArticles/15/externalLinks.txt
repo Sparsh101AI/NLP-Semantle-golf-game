@@ -1,0 +1,12 @@
+https://en.wikipedia.org/w/index.php?title=Green_sauce&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Green+sauce%22
+//www.google.com/search?tbm=nws&q=%22Green+sauce%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Green+sauce%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Green+sauce%22+-wikipedia
+//scholar.google.com/scholar?q=%22Green+sauce%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Green+sauce%22&acc=on&wc=on
+https://www.faz.net/aktuell/rhein-main/was-sind-typische-frankfurter-gerichte-17500567/gruene-sosse-17500550.html
+http://ec.europa.eu/agriculture/quality/door/registeredName.html?denominationId=4351&locale=de
+//eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:52015XC1022%252803%2529
+//eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:Ver%C3%B6ffentlichung+2015%2FC+350%2F13
+https://d-nb.info/gnd/7703937-3

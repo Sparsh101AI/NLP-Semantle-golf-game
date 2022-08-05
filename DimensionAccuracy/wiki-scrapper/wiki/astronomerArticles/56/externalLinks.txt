@@ -1,0 +1,10 @@
+https://ui.adsabs.harvard.edu/abs/1971AJ.....76..167W
+https://doi.org/10.1086%2F111100
+https://ui.adsabs.harvard.edu/abs/1980M&P....22..141B
+https://doi.org/10.1007%2FBF00898423
+https://api.semanticscholar.org/CorpusID:119442634
+https://ui.adsabs.harvard.edu/abs/1996CeMDA..65..175M
+https://doi.org/10.1007%2FBF00048446
+https://api.semanticscholar.org/CorpusID:121242252
+https://en.wikipedia.org/w/index.php?title=Commensurability_(astronomy)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Astronomy-stub&action=edit

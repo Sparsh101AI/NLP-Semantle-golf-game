@@ -1,0 +1,16 @@
+History
+Types
+Purpose, or domain of use
+Nature or domain of execution
+Programming tools
+Topics
+Architecture
+Execution
+Quality and reliability
+License
+Patents
+Design and implementation
+See also
+References
+Sources
+External links

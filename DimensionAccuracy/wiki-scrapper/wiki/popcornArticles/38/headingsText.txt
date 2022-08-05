@@ -1,0 +1,40 @@
+Introduction to Bayes' rule
+Formal explanation
+Alternatives to Bayesian updating
+Formal description of Bayesian inference
+Definitions
+Bayesian inference
+Bayesian prediction
+Inference over exclusive and exhaustive possibilities
+General formulation
+Multiple observations
+Parametric formulation
+Mathematical properties
+Interpretation of factor
+Cromwell's rule
+Asymptotic behaviour of posterior
+Conjugate priors
+Estimates of parameters and predictions
+Examples
+Probability of a hypothesis
+Making a prediction
+In frequentist statistics and decision theory
+Model selection
+Probabilistic programming
+Applications
+Statistical data analysis
+Computer applications
+Bioinformatics and healthcare applications
+In the courtroom
+Bayesian epistemology
+Other
+Bayes and Bayesian inference
+History
+See also
+References
+Citations
+Sources
+Further reading
+Elementary
+Intermediate or advanced
+External links

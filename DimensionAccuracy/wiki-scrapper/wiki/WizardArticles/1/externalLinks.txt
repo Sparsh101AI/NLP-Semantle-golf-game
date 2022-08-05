@@ -1,0 +1,13 @@
+http://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/papilionoidea/nymphalidae/nymphalinae/rhinopalpa/
+http://tolweb.org/Rhinopalpa_polynice/70221
+https://www.biolib.cz/en/taxon/id622213
+http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=26719
+https://www.catalogueoflife.org/data/taxon/4S9JS
+https://eol.org/pages/157851
+https://www.gbif.org/species/1905142
+https://www.inaturalist.org/taxa/469330
+https://www.irmng.org/aphia.php?p=taxdetails&id=11138313
+https://www.nhm.ac.uk/our-science/data/lepindex/detail/?taxonno=158627
+https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=311128
+https://en.wikipedia.org/w/index.php?title=Rhinopalpa&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Nymphalinae-stub&action=edit

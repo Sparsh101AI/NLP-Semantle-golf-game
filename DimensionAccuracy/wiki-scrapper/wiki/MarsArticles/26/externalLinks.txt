@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Galdakao_(crater)&params=13.34_S_176.63_W_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Galdakao_(crater)&params=13.34_S_176.63_W_globe:mars_type:landmark
+https://planetarynames.wr.usgs.gov/Feature/2070
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Galdakao_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mars-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Galdakao_(crater)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Crater-stub&action=edit

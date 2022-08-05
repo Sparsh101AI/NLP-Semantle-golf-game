@@ -1,0 +1,50 @@
+Election law is a discipline falling at the juncture of constitutional law and political science. It researches "the politics of law and the law of politics". The conceptual knowledge behind election law focuses on who votes, when that person can vote, and the construction behind the tabulated totals.
+Some of the questions that are addressed by election law are:
+Which people are entitled to vote in an election (e.g. age, residency or literacy requirements, or poll taxes), and the procedures by which such persons must register to vote or present identification in order to vote
+Which people are entitled to hold office (for example, age, residency, birth or citizenship requirements), and the procedures candidates must follow to appear on the ballot (such as the formatting and filing of nominating petitions) and rules governing write-in candidates
+The rules about what subjects may be submitted to a direct popular vote through a referendum or plebiscite, and the rules that governmental agencies or citizen groups must follow to place questions on the ballot for public consideration
+The framework by which political parties may organize their internal government, and how they select candidates to run for political office (e.g. primary elections)
+The financing of elections (e.g. contribution limits, rules for public financing of elections, the public disclosure of contributors, and rules governing interest groups other than a candidate's campaign organization)
+The requirements for creating districts which elect representatives to a legislative assembly (examples include congressional districts, ridings or wards within a Municipality)
+What restrictions are placed on campaign advocacy (such as rules on anonymous adds, false advertising, and limits on free speech)
+How votes are cast at an election (including whether to use a paper ballot, or some other form of recording votes such as a mechanical voting machine or electronic voting device, and how information is presented to voters on the ballot or device)
+How votes are counted at an election, recounts, and election challenges
+Whether, and how, voters or candidates may file legal actions in a court of law or administrative agency to enforce their rights or contest the outcome of an election
+Definition of electoral fraud and other crimes against the electoral system
+The sources of election law (for example, constitutions, national statutes, state statutes, or judicial decisions) and the interplay between these sources of lawThe French electoral code addresses most of the elections. However, other texts frame this material for special elections. Thus the Constitution but fixed some general basic provisions concerning the presidential election, the legislative and senatorial elections.
+For litigation election, the court depends on the concerned election. The Constitutional Council is responsible for the most important elections: presidential elections and senatorial elections or referendums. In contrast, to the municipal or district elections the administrative tribunal has jurisdiction, then the appeal is to the State Council. Finally, for the regional and European elections, the Council of State which has jurisdiction at first and last resort.
+In decisions on electoral matters, the law takes into account the results: if an essential principle is violated, the election is canceled but if fraud is "classic" (ballot stuffing, failure to register as voters, vote the dead ...) but the election was won (after counting of ballots invalidated) with a large or very large lead, the judge then cancels rarely the result.
+The Italian Constitution fixes some general basic provisions concerning the legislative elections.
+Electoral disputes in Italy are complex because they are divided between several court orders. For example, with regard to the dispute concerning registration of candidates for ballots or litigation election, the administrative court has jurisdiction. For eligibility and disfranchisement, the judge is the ordinary tribunal.
+If a fraud is proven by the judge, it does not cancel necessarily the elections, unless they think that the result of election without the fraud would not have been identical. The survival of the acts already performed by the elected organs would seem solved by abundant case law that protects innocent trust of third parties.
+Elections in Mexico are held every 6 years to elect a president and every 3 years to elect a legislature. These elections determine who, on the national level, takes the position of the head of state – the president – as well as the legislature. At the local level, each of Mexico's 31 constituent states elects a governor to serve a six-year term; they also elect legislative deputies who sit in state congresses, and municipal presidents (presidentes municipales, or mayors). Mexico City, the national capital, elects a head of government in lieu of a mayor, city assemblymen in lieu of state congressional deputies, and borough mayors in lieu of municipal mayors.
+The president, vice-president, and the senators are elected for a six-year term, while the members of the House of Representatives, governors, vice-governors, members of the Sangguniang Panlalawigan (provincial board members), mayors, vice-mayors, members of the Sangguniang Panlungsod/members of the Sangguniang Bayan (city/municipal councilors), barangay officials, and the members of the Sangguniang Kabataan (youth councilors) are elected to serve for a three-year term.
+Synchronized with the national elections are the local elections. The voter may vote for any of the following:
+Provincial-level:
+One governor
+One vice governor
+One to seven Sangguniang Panlalawigan members (provincial board)
+City- or municipal-level:
+One mayor
+One vice mayor
+Four to twelve Sangguniang Panlungsod/Sangguniang Bayan members (city or municipal council, respectively)If the city the voter is residing in a highly urbanized city, or independent component city. or in Pateros, the voter can not vote for any of the provincial-level positions.
+Elections in the United States are held for government officials at the federal, state, and local levels. At the federal level, the nation's head of state, the president, is elected indirectly by the people of each state, through an Electoral College. Today, these electors almost always vote with the popular vote of their state. All members of the federal legislature, the Congress, are directly elected by the people of each state. There are many elected offices at state level, each state having at least an elective governor and legislature. There are also elected offices at the local level, in counties, cities, towns, townships, boroughs, and villages; as well as for special districts and school districts which may transcend county and municipal boundaries.
+In the United Kingdom, election law is legislated for by The Houses of Parliament. The statutory governance of UK Election law comes from acts of parliament such as the Fixed-term Parliaments Act 2011. The Electoral Commission's mandate and establishment was set out in the Political Parties, Elections and Referendums Act 2000 (PPERA), and ranges from the regulation of political donations and expenditure by political and third parties through to promoting greater participation in the electoral process.
+The Electoral Administration Act 2006 made a number of improvements to electoral registration, improving the security arrangements for absent voting, allowing observers to attend elections and a major change in reducing the minimum age for candidates at UK parliamentary elections. It also introduced the performance standards regime for electoral services.
+Category:Election law in the United Kingdom
+Court of Disputed Returns
+Right of foreigners to vote
+Universal suffrage
+DisfranchisementElection Law Journal – A scholarly journal devoted to election law
+Election Law @ Moritz – a repository of Election Law news and commentary from academics and practitioners, compiled at the Ohio State Michael E. Moritz College of Law.
+Electoral Studies – A scholarly journal devoted to the study of elections
+Samuel Issacharoff, Pamela S. Karlan & Richard H. Pildes. The Law of Democracy: Legal Structure of the Political Process. 4th Rev. Ed. Foundation Press, 2012.
+Daniel H. Lowenstein, Richard L. Hasen & Daniel P. Tokaji, Election Law: Cases and Materials. 5th Ed. Carolina Press, 2012.
+Joshua A. Douglas & Eugene D. Mazo. Election Law Stories. Ed. Foundation Press, 2016.
+Dennis F. Thompson, Just Elections: Creating a Fair Electoral Process in the U.S. University of Chicago Press, 2004. ISBN 978-0226797649
+Electoral Administration Act 2006
+David Schultz & Jurij Toplak. Routledge Handbook of Election Law. Routledge, 2022.aceproject.org—A large online community and repository of electoral knowledge
+Voting and Election Laws
+Right to free elections in the case law of the ECtHR
+EL@M: Election Law @ Moritz
+American Bar Association Standing Committee on Election Law

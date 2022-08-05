@@ -1,0 +1,28 @@
+The Paris metropolitan area (French: aire d'attraction de Paris) is a statistical area that describes the reach of commuter movement to and from Paris, France and its surrounding suburbs.
+In 2020 France's national INSEE statistical bureau introduced the concept "aire d'attraction d'une ville" (functional area), replacing the former "aire urbaine" (urban area). A functional area consists of an urban cluster and the surrounding commuting zone. This concept is consistent with the functional urban area as defined by Eurostat.
+Created and used from 1996 by France's national INSEE statistical bureau to match international demographic standards, the aire urbaine (literally: 'urban area') was a statistical unit that described the suburban development around centres of urban growth. In 2011, the INSEE reclassified its largest aires urbaines into aires métropolitaines (literally: metropolitan areas) and grandes aires urbaines ('large urban areas'). With this change, the Paris metropolitan area became the largest in France.
+In France, use of the term 'Paris metropolitan area' is limited to demographic and statistical studies, and, to date, it is not used in economic statistics — the traditional administrative subdivisions commune, département, and région are still referenced for this — though the media will employ it when referring to the electoral tendencies of France's largest cities. In 2010 the government passed a law that invited France's largest city 'metropoles' to work together as an intercommunitary entities (more or less described by the INSEE concept), but the lack of response by the following year moved the government to make the cooperation for many of France's largest cities obligatory, and Paris became a case study all on its own.
+This latter initiative created the "Métropole du Grand Paris" (official translation: 'Greater Paris metropolitan authority'), a Paris-centred intercommunal cooperation effort enacted from January 1, 2016. The territory it covers is much smaller than the INSEE 'Paris metropolitan area' statistical area: it includes Paris, its neighbouring three departments (or 'petite couronne'), and a few bordering communes in the departments beyond.
+As of 2022, the INSEE statistical Paris metropolitan area covers 1,929 communes. With its 18,941 km (7,313 sq mi), it extends significantly beyond Paris' administrative Île-de-France region (12,012 km (4,638 sq mi)). Outside the Île-de-France region, it covers part of the departments Aisne, Aube, Eure, Eure-et-Loir, Loiret, Marne, Oise, Seine-Maritime and Yonne.
+The Paris metropolitan area expands at each population census due to the rapid population growth in the Paris area. New communes (municipalities) surrounding Paris are included when they meet the commuter threshold required. At the 1968 census, the earliest date for which population figures were retrospectively computed for French aire urbaines, the Paris metropolitan area had 8,368,459 inhabitants in an area that only encompassed 279 communes in central Île-de-France.
+By the 1999 census the Paris metropolitan area was slightly larger than Île-de-France and had 11,174,743 inhabitants in 14,518 km². At the 2010 revision, the aire urbaine of Paris had 1,751 communes.
+The area had a population of 14,684,473 as of 2021, making it the largest urban region in the European Union. Nearly 20% of France's population resides in the region.
+The table below shows the population growth of the Paris metropolitan area (aire urbaine), i.e. the urban area (pôle urbain) and the commuter belt (couronne périurbaine) surrounding it. (Note: the area shown in red and pink in the map above):
+
+
+
+
+1968 :  8,368,459
+1975 :  9,096,000
+1982 :  9,362,000
+1990 :  10,291,851 (1,155 communes; 9,679 km²)
+1999 :  11,174,743 (1,584 communes; 14,518 km²)
+2010 :  12,223,100 (1,751 communes; 17,194 km²)
+2021 :  14,684,473 (1,929 communes; 18,941 km²)
+
+
+Paris metropolitan area has a GDP (PPP) of around $1.075 trillion, the largest in Europe ahead of London.
+Grand Paris
+Functional areas of France
+Île-de-France(in French) Document about the functioning of Paris Metropolitan Area
+(in French) Document about the extension of Paris Metropolitan Area

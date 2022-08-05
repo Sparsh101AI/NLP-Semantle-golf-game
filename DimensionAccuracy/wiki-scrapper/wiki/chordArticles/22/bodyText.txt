@@ -1,0 +1,26 @@
+In geometry, a polytope (e.g. a polygon or polyhedron) or a tiling  is isogonal or vertex-transitive if all its vertices are equivalent under the symmetries of the figure. This implies that each vertex is surrounded by the same kinds of face in the same or reverse order, and with the same angles between corresponding faces.
+Technically, one says that for any two vertices there exists a symmetry of the polytope mapping the first isometrically onto the second. Other ways of saying this are that the group of automorphisms of the polytope acts transitively on its vertices, or that the vertices lie within a single symmetry orbit.
+All vertices of a finite n-dimensional isogonal figure exist on an (n−1)-sphere.
+The term isogonal has long been used for polyhedra. Vertex-transitive is a synonym borrowed from modern ideas such as symmetry groups and graph theory.
+The pseudorhombicuboctahedron – which is not isogonal – demonstrates that simply asserting that "all vertices look the same" is not as restrictive as the definition used here, which involves the group of isometries preserving the polyhedron or tiling.
+All regular polygons, apeirogons and regular star polygons are isogonal. The dual of an isogonal polygon is an isotoxal polygon.
+Some even-sided polygons and apeirogons which alternate two edge lengths, for example a rectangle, are isogonal.
+All planar isogonal 2n-gons have dihedral symmetry (Dn, n = 2, 3, ...) with reflection lines across the mid-edge points.
+An isogonal polyhedron and 2D tiling has a single kind of vertex. An isogonal polyhedron with all regular faces is also a uniform polyhedron and can be represented by a vertex configuration notation sequencing the faces around each vertex. Geometrically distorted variations of uniform polyhedra and tilings can also be given the vertex configuration.
+Isogonal polyhedra and 2D tilings may be further classified:
+Regular if it is also isohedral (face-transitive) and isotoxal (edge-transitive); this implies that every face is the same kind of regular polygon.
+Quasi-regular if it is also isotoxal (edge-transitive) but not isohedral (face-transitive).
+Semi-regular if every face is a regular polygon but it is not  isohedral (face-transitive) or isotoxal (edge-transitive).  (Definition varies among authors; e.g. some exclude solids with dihedral symmetry, or nonconvex solids.)
+Uniform if every face is a regular polygon, i.e. it is regular, quasiregular or semi-regular.
+Semi-uniform if its elements are also isogonal.
+Scaliform if all the edges are the same length.
+Noble if it is also isohedral (face-transitive).These definitions can be extended to higher-dimensional polytopes and tessellations.  All uniform polytopes are isogonal, for example, the uniform 4-polytopes and convex uniform honeycombs.
+The dual of an isogonal polytope is an isohedral figure, which is transitive on its facets.
+A polytope or tiling may be called k-isogonal if its vertices form k transitivity classes. A more restrictive term, k-uniform is defined as an k-isogonal figure constructed only from regular polygons. They can be represented visually with colors by different uniform colorings.
+Edge-transitive (Isotoxal figure)
+Face-transitive (Isohedral figure)Peter R. Cromwell, Polyhedra, Cambridge University Press 1997, ISBN 0-521-55432-2, p. 369 Transitivity
+Grünbaum, Branko; Shephard, G. C. (1987). Tilings and Patterns. W. H. Freeman and Company. ISBN 0-7167-1193-1. (p. 33 k-isogonal tiling, p. 65 k-uniform tilings)Weisstein, Eric W. "Vertex-transitive graph". MathWorld.
+Isogonal Kaleidoscopical Polyhedra Vladimir L. Bulatov, Physics Department, Oregon State University, Corvallis, Presented at Mosaic2000, Millennial Open Symposium on the Arts and Interdisciplinary Computing, 21–24 August 2000, Seattle, WA VRML models
+Steven Dutch uses the term k-uniform for enumerating k-isogonal tilings
+List of n-uniform tilings
+Weisstein, Eric W. "Demiregular tessellations". MathWorld. (Also uses term k-uniform for k-isogonal)

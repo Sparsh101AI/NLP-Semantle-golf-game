@@ -1,0 +1,17 @@
+https://doi.org/10.2305%2FIUCN.UK.2010-3.RLTS.T183367A8100806.en
+https://www.library.ca.gov/california-history/state-symbols/#tab-mf
+http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Hypsypops&speciesname=rubicundus
+https://animaldiversity.org/accounts/Hypsypops/
+http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=125514
+https://www.catalogueoflife.org/data/taxon/3P4S9
+https://www.fishbase.ca/summary/3648
+https://www.gbif.org/species/2398736
+https://www.inaturalist.org/taxa/53693
+https://www.irmng.org/aphia.php?p=taxdetails&id=11374071
+https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=170120
+https://apiv3.iucnredlist.org/api/v3/taxonredirect/183367
+https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=161905
+https://www.marinespecies.org/aphia.php?p=taxdetails&id=281130
+https://www.irmng.org/aphia.php?p=taxdetails&id=10570677
+https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=615636
+https://www.marinespecies.org/aphia.php?p=taxdetails&id=312075

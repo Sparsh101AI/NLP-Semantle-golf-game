@@ -1,0 +1,6 @@
+//geohack.toolforge.org/geohack.php?pagename=Rioville,_Nevada&params=36_9_0_N_114_23_57_W_type:landmark_region:US-AZ
+//geohack.toolforge.org/geohack.php?pagename=Rioville,_Nevada&params=36_9_0_N_114_23_57_W_type:landmark_region:US-AZ
+http://www.ansac.az.gov/UserFiles/PDF/08182014/X028_FMIBurtellLingenfelterSteamboats/FMI%20Lingenfelter%20Steamboats/Steamboats%20on%20the%20Colorado%20River%201852-1916.pdf
+https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/849516
+https://en.wikipedia.org/w/index.php?title=Template:Clark_County,_Nevada&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Steamboats_of_the_Colorado_River&action=edit

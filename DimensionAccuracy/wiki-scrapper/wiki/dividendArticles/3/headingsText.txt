@@ -1,0 +1,20 @@
+History
+Definition
+Definition: as m-ary function
+Definition: as iterated 1-ary function
+Computation
+TRS, based on 2-ary function
+TRS, based on iterated 1-ary function
+TRS, based on hyperoperators
+Huge numbers
+Table of values
+Properties
+General remarks
+Not primitive recursive
+Inverse
+Use as benchmark
+See also
+Notes
+References
+Bibliography
+External links

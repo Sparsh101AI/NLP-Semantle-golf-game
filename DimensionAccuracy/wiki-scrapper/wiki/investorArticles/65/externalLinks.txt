@@ -1,0 +1,16 @@
+https://commonchemistry.cas.org/detail?cas_rn=581813-10-7
+https://pubchem.ncbi.nlm.nih.gov/compound/10317515
+https://www.chemspider.com/Chemical-Structure.8492979.html
+https://precision.fda.gov/uniisearch/srs/unii/87UKL3XE5X
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL285066
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC4N5CCCC5C%28%3DO%29N%28CN3CCN%28c2c1ccccc1ccc2%29CC3%29C4
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=414040667&page2=CSP-2503
+https://doi.org/10.1016%2Fj.ejphar.2005.01.032
+//pubmed.ncbi.nlm.nih.gov/15777774
+https://doi.org/10.1016%2FS0960-894X%2803%2900160-4
+//pubmed.ncbi.nlm.nih.gov/12668005
+https://doi.org/10.1021%2Fjm048999e
+//pubmed.ncbi.nlm.nih.gov/15801844
+https://en.wikipedia.org/w/index.php?title=Template:Anxiolytics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Serotonin_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Piperazines&action=edit

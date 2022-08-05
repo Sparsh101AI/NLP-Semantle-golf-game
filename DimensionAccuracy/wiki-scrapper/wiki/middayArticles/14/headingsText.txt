@@ -1,0 +1,17 @@
+Features
+Message management
+Junk filtering
+Extensions and themes
+Standards support
+File formats supported
+Big file linking
+HTML formatting and code insertion
+Limitations and known issues
+Cross-platform support
+Android version
+Internationalization and localization
+Security
+History
+Releases
+References
+External links

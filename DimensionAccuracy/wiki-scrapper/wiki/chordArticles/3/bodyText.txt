@@ -1,0 +1,59 @@
+The tangent-secant theorem  describes the relation of line segments created by a secant and a tangent line with the associated circle. 
+This result is found as Proposition 36 in Book 3 of Euclid's Elements. 
+Given a secant g intersecting the circle at points G1 and G2 and a tangent t intersecting the circle at point T and given that g and t intersect at point P, the following equation holds:
+
+
+
+
+
+|
+
+P
+T
+
+
+|
+
+
+2
+
+
+=
+
+|
+
+P
+
+G
+
+1
+
+
+
+|
+
+⋅
+
+|
+
+P
+
+G
+
+2
+
+
+
+|
+
+
+
+{\displaystyle |PT|^{2}=|PG_{1}|\cdot |PG_{2}|}
+
+The tangent-secant theorem can be proven using similar triangles (see graphic).
+Like the intersecting chords theorem and the intersecting secants theorem, the tangent-secant theorem represents one of the three basic cases of a more general theorem about two intersecting lines and a circle, namely, the power of point theorem.
+S. Gottwald: The VNR Concise Encyclopedia of Mathematics. Springer, 2012, ISBN 9789401169820, pp. 175-176
+Michael L. O'Leary: Revolutions in Geometry. Wiley, 2010, ISBN 9780470591796,  p. 161
+Schülerduden - Mathematik I. Bibliographisches Institut & F.A. Brockhaus, 8. Auflage, Mannheim 2008, ISBN 978-3-411-04208-1, pp. 415-417 (German)Tangent Secant Theorem at proofwiki.org
+Power of a Point Theorem auf cut-the-knot.org
+Weisstein, Eric W. "Chord". MathWorld.

@@ -1,0 +1,81 @@
+ISO/IEC 7816 is an international standard related to electronic identification cards with contacts, especially smart cards, and more recently, contactless mobile devices, managed jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC).
+It is developed by ISO/IEC JTC 1 (Joint Technical Committee 1) / SC 17 (Subcommittee 17).
+The following describes the different parts of this standard.
+Note: abstracts and dates, when present, are mere quotations from the ISO website, and are neither guaranteed at the time of edition nor in the future.ISO/IEC 7816-1:2011 Part 1: Cards with contacts—Physical characteristics
+ISO/IEC 7816-2:2007 Part 2: Cards with contacts—Dimensions and location of the contacts
+ISO/IEC 7816-3:2006 Part 3: Cards with contacts—Electrical interface and transmission protocols
+ISO/IEC 7816-4:2013 Part 4: Organization, security and commands for interchange
+ISO/IEC 7816-5:2004 Part 5: Registration of application providers
+ISO/IEC 7816-6:2016 Part 6: Interindustry data elements for interchange
+ISO/IEC 7816-7:1999 Part 7: Interindustry commands for Structured Card Query Language (SCQL)
+ISO/IEC 7816-8:2016 Part 8: Commands and mechanisms for security operations
+ISO/IEC 7816-9:2017 Part 9: Commands for card management
+ISO/IEC 7816-10:1999 Part 10: Electronic signals and answer to reset for synchronous cards
+ISO/IEC 7816-11:2017 Part 11: Personal verification through biometric methods
+ISO/IEC 7816-12:2005 Part 12: Cards with contacts—USB electrical interface and operating procedures
+ISO/IEC 7816-13:2007 Part 13: Commands for application management in a multi-application environment
+ISO/IEC 7816-15:2016 Part 15: Cryptographic information applicationCreated in 1987, updated in 1998, amended in 2003, updated in 2011.
+This part describes the physical characteristics of the card, primarily by reference to ISO/IEC 7810 Identification cards — Physical characteristics, but also with other characteristics such as mechanical strength.
+Created in 1988, updated in 1999, amended in 2004, updated in 2007. The standard defines an eight (or six) pin interface; the first pin is located at the bottom-right corner for the image given. Pins 4 and 8 are occasionally omitted.
+Created in 1989, amended in 1992 (addition of the T=1 protocol), amended in 1994 (revision of Protocol Type Selection), updated in 1997 (including addition of 3 Volt operation), amended in 2002 (including addition of 1.8 Volt operation), last updated in 2006 (including removal of Vpp).
+Created in 1995, updated in 2005, 2013 and 2020.
+According to its abstract, it specifies:
+contents of command-response pairs exchanged at the interface,
+means of retrieval of data elements and data objects in the card,
+structures and contents of historical bytes to describe operating characteristics of the card,
+structures for applications and data in the card, as seen at the interface when processing commands,
+access methods to files and data in the card,
+a security architecture defining access rights to files and data in the card,
+means and mechanisms for identifying and addressing applications in the card,
+methods for secure messaging,
+access methods to the algorithms processed by the card. It does not describe these algorithms.It does not cover the internal implementation within the card or the outside world.
+ISO/IEC 7816-4:2020 is independent of the physical interface technology, and applies equally to contact cards, proximity cards and vicinity cards.
+Created in 1995, updated in 2004.
+According to its abstract, ISO/IEC 7816-5 defines how to use an application identifier to ascertain the presence of and/or perform the retrieval of an application in a card.
+ISO/IEC 7816-5:2004 shows how to grant the uniqueness of application identifiers through the international registration of a part of this identifier, and defines
+the registration procedure,
+the authorities in charge thereof,
+the availability of the register which links the registered parts of the identifiers and the relevant application providers.Created in 1996, updated in 2004, amended in 2006, updated in 2016.
+According to its abstract, it specifies the Data Elements (DEs) used for interindustry interchange based on integrated circuit cards (ICCs) both with contacts and without contacts. It gives the identifier, name, description, format, coding and layout of each DE and defines the means of retrieval of DEs from the card.
+Created in 1999.
+Created in 1995, updated in 2004, updated in 2016.
+According to its abstract, it specifies interindustry commands for integrated circuit cards (either with contacts or without contacts) that may be used for cryptographic operations. These commands are complementary to and based on the commands listed in ISO/IEC 7816-4.
+Annexes are provided that give examples of operations related to digital signatures, certificates and the import and export of asymmetric keys.
+The choice and conditions of use of cryptographic mechanisms may affect card exportability. The evaluation of the suitability of algorithms and protocols is outside the scope of ISO/IEC 7816-8.
+Created in 1995, updated in 2004, updated in 2017.
+According to its abstract, it specifies interindustry commands for integrated circuit cards (both with contacts and without contacts) for card and file management, e.g. file creation and deletion. These commands cover the entire life cycle of the card and therefore some commands may be used before the card has been issued to the cardholder or after the card has expired.
+An annex is provided that shows how to control the loading of data (secure download) into the card, by means of verifying the access rights of the loading entity and protection of the transmitted data with secure messaging. The loaded data may contain, for example, code, keys and applets.
+Created in 1999.
+This part specifies the power, signal structures, and the structure for the answer to reset between an integrated circuit card(s) with synchronous transmission and an interface device such as a terminal.
+Created in 2004, updated in 2017.
+This part of ISO/IEC 7816 specifies security-related interindustry commands to be used for personal verification through biometric methods in integrated circuit cards. It also defines the data structure and data access methods for use of the card as a carrier of the biometric reference and/or as the device to perform the verification of the cardholder’s biometric probe (on-card biometric comparison). Identification of persons using biometric methods is outside the scope of this standard.
+Created in 2005.
+According to its abstract, it specifies the operating conditions of an integrated circuit card that provides a USB interface. An integrated circuit card with a USB interface is named USB-ICC.
+ISO/IEC 7816-12:2005 specifies:
+the electrical conditions when a USB-ICC is operated by an interface device - for those contact fields that are not used, when the USB interface is applied;
+the USB standard descriptors and the USB-ICC class specific descriptor;
+the data transfer between host and USB-ICC using bulk transfers or control transfers;
+the control transfers which allow two different protocols named version A and version B;
+the (optional) interrupt transfers to indicate asynchronous events;
+status and error conditions.ISO/IEC 7816-12:2005 provides two protocols for control transfers. This is to support the protocol T=0 (version A) or to use the transfer on APDU level (version B). ISO/IEC 7816-12:2005 provides the state diagrams for the USB-ICC for each of the transfers (bulk transfers, control transfers version A and version B). Examples of possible sequences which the USB-ICC must be able to handle are given in an informative annex.
+The USB CCID device class defines a standard for communicating with ISO/IEC 7816 smart cards over USB.
+This part specifies commands for application management in a multi-application environment.
+Created in 2004, amended in 2004, 2007, 2008, updated in 2016.
+According to its abstract, it specifies a card application. This application contains information on cryptographic functionality. Further, ISO/IEC 7816-15:2016 defines a common syntax (in ASN.1) and format for the cryptographic information and mechanisms to share this information whenever appropriate.
+ISO/IEC 7816-15:2016 supports the following capabilities:
+storage of multiple instances of cryptographic information in a card;
+use of the cryptographic information;
+retrieval of the cryptographic information;
+cross-referencing of the cryptographic information with DOs defined in ISO/IEC 7816 when appropriate;
+different authentication mechanisms; and
+multiple cryptographic algorithms.ISO/IEC 14443, a proximity card standard related to smart cards, on a different physical communication support.
+ISO/IEC 15693, a vicinity card standard related to smart cards, on a different physical communication support.
+List of ISO standards
+Smart cardOverview of ISO/IEC 7816 parts 1-4
+ISO/IEC JTC1/SC17 Working Groups Archived 2007-06-07 at the Wayback Machine
+DS8007 and Smart Card Interface Fundamentals
+Tutorial - Introduction to Smart Cards - David B Everett (1992)
+read and write ISO 7816 smart cards using a PIC  -Simple Operating System for Smartcard Education
+various types of identification cards using the ID-1 format defined in ISO standard 7810
+Spelunking Credit Cards with Ruby // Speaker Deck - Sau Sheong Chang
+Interface for ISO 7816 Smart Cards

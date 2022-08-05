@@ -1,0 +1,6 @@
+//geohack.toolforge.org/geohack.php?pagename=John_H._Chapman_Space_Centre&params=45.5198_N_73.3936_W_type:landmark_region:CA-QC
+//geohack.toolforge.org/geohack.php?pagename=John_H._Chapman_Space_Centre&params=45.5198_N_73.3936_W_type:landmark_region:CA-QC
+http://www.asc-csa.gc.ca/eng/default.asp
+http://www.tbs-sct.gc.ca/dfrp-rbif/pn-nb/11818-eng.aspx
+http://www.science.ca/scientists/scientistprofile.php?pID=135
+https://en.wikipedia.org/w/index.php?title=Template:Canadian_Space_Agency&action=edit

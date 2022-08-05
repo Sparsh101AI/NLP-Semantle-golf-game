@@ -1,0 +1,76 @@
+History
+1987–2003: Creation
+ 2003: Mini cards
+ 2004–2005: Micro cards
+2006–2008: SDHC and SDIO
+2009–2019: SDXC
+2019–present: SDUC
+Capacity
+ SD (SDSC)
+SDHC
+SDXC
+SDUC
+exFAT filesystem
+Comparison
+Speed
+Bus
+Default Speed
+High Speed
+ Ultra High Speed (UHS)
+UHS-I
+UHS-II
+UHS-III
+ SD Express
+ microSD Express
+Bus speed Comparison
+Compatibility
+Class
+(Original) Speed Class
+UHS Speed Class
+Video Speed Class
+Comparison
+Application Performance Class
+"×" rating
+Real-world performance
+Features
+Card security
+Commands to disable writes
+Write-protect notch
+Card password
+smartSD cards
+ Vendor enhancements
+SDIO cards
+Compatibility
+Markets
+Mobile phones
+Counterfeits
+Digital cameras
+Personal computers
+Embedded systems
+Music distribution
+Technical details
+Physical size
+Standard
+MiniSD
+ microSD
+Transfer modes
+Interface
+Command interface
+Electrical interface
+Achieving higher card speeds
+File system
+MBR and FAT
+Other file systems
+Risks of reformatting
+Power consumption
+Storage capacity and compatibilities
+SDSC cards above 1 GB
+Storage capacity calculations
+Version 1
+Versions 2 and 3
+Openness of specification
+Comparison to other flash memory formats
+Data recovery
+See also
+References
+External links

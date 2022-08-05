@@ -1,0 +1,11 @@
+http://www.mhs.mb.ca/docs/municipalities/rural.shtml
+http://www.mhs.mb.ca/docs/municipalities/amalgamations.shtml
+http://www.rmofminiota.com/
+http://geodepot.statcan.ca/GeoSearch2006/GeoSearch2006.jsp?resolution=H&lang=E&otherLang=F&census=Yes&DisplayData=Yes&NewImage=yes&layer=csd&IdentName=Miniota%20(RM)&IdentUID=4615041
+https://en.wikipedia.org/w/index.php?title=Template:MBDivision15&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Subdivisions_of_Manitoba&action=edit
+https://viaf.org/viaf/137157614
+https://www.worldcat.org/identities/containsVIAFID/137157614
+//geohack.toolforge.org/geohack.php?pagename=Rural_Municipality_of_Miniota&params=50_11_47_N_100_58_45_W_type:city_region:CA_source:AcmeMapper_scale:500000
+https://en.wikipedia.org/w/index.php?title=Rural_Municipality_of_Miniota&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Manitoba-geo-stub&action=edit

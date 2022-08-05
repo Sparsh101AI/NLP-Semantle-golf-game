@@ -1,0 +1,60 @@
+Bacterial phyla constitute the major lineages of the domain Bacteria. While the exact definition of a bacterial phylum is debated, a popular definition is that a bacterial phylum is a monophyletic lineage of bacteria whose 16S rRNA genes share a pairwise sequence identity of ~75% or less with those of the members of other bacterial phyla.
+It has been estimated that ~1,300 bacterial phyla exist. As of May 2020, 41 bacterial phyla are formally accepted by the LPSN, 89 bacterial phyla are recognized on the Silva database, dozens more have been proposed, and hundreds likely remain to be discovered. As of 2017, approximately 72% of widely recognized bacterial phyla were candidate phyla (i.e. have no cultured representatives).
+There are no fixed rules to the nomenclature of bacterial phyla. It was proposed that the suffix "-bacteria" be used for phyla.
+The following is a list of bacterial phyla that have been proposed.
+Despite the unclear branching order for most bacterial phyla, several groups of phyla consistently cluster together and are referred to as supergroups or superphyla. In some instances, bacterial clades clearly consistently cluster together but it is unclear what to call the group. For example, the Candidate Phyla Radiation includes the Patescibacteria group which includes Microgenomates group which includes over 11 bacterial phyla.
+The CPR is a descriptive term referring to a massive monophyletic radiation of candidate phyla that exists within the Bacterial domain. It includes two main clades, the Microgenomates and Parcubacteria groups, each containing the eponymous superphyla and a few other phyla.
+The superphylum Patescibacteria was originally proposed to encompass the phyla Microgenomates (OP11), Parcubacteria (OD1), and Gracilibacteria (GNO2 / BD1-5). More recent phylogenetic analyses show that the last common ancestor of these taxa is the same node as that of CPR.
+The Sphingobacteria (FCB group) includes Bacteroidota, Calditrichota, Chlorobiota, candidate phylum "Cloacimonetes", Fibrobacterota, Gemmatimonadota, Ignavibacteriota, candidate phylum "Latescibacteria", candidate phylum "Marinimicrobia", and candidate phylum "Zixibacteria".
+Microgenomates was originally thought to be a single phylum although evidence suggests it actually encompasses over 11 bacterial phyla, including Curtisbacteria, Daviesbacteria, Levybacteria, Gottesmanbacteria, Woesebacteria, Amesbacteria, Shapirobacteria, Roizmanbacteria, Beckwithbacteria, Collierbacteria, Pacebacteria.
+Parcubacteria was originally described as a single phylum using fewer than 100 16S rRNA sequences. With a greater diversity of 16S rRNA sequences from uncultured organisms now available, it is estimated it may consist of up to 28 bacterial phyla. In line with this, over 14 phyla have now been described within the Parcubacteria group, including Kaiserbacteria, Adlerbacteria, Campbellbacteria, Nomurabacteria, Giovannonibacteria, Wolfebacteria, Jorgensenbacteria, Yanofskybacteria, Azambacteria, Moranbacteria, Uhrbacteria, and Magasanikbacteria.
+It has been proposed that some classes of the phylum Proteobacteria may be phyla in their own right, which would make Proteobacteria a superphylum. For example, the Deltaproteobacteria group does not consistently form a monophyletic lineage with the other Proteobacteria classes.
+The Planctobacteria (PVC group) includes Chlamydiota, Lentisphaerota, candidate phylum "Omnitrophica", Planctomycetota, candidate phylum "Poribacteria", and Verrucomicrobiota.
+The proposed superphylum, Terrabacteria, includes Actinomycetota, "Cyanobacteria"/"Melainabacteria"-group, Deinococcota, Chloroflexota, Bacillota, and candidate phylum OP10.
+Several candidate phyla (Microgenomates, Omnitrophica, Parcubacteria, and Saccharibacteria) and several accepted phyla (Elusimicrobiota, Caldisericota, and Armatimonadota) have been suggested to actually be superphyla that were incorrectly described as phyla because rules for defining a bacterial phylum are lacking or due to a lack of sequence diversity in databases when the phylum was first established. For example, it is suggested that candidate phylum Parcubacteria is actually a superphylum that encompasses 28 subordinate phyla and that phylum Elusimicrobia is actually a superphylum that encompasses 7 subordinate phyla.
+Given the rich history of the field of bacterial taxonomy and the rapidity of changes therein in modern times, it is often useful to have a historical perspective on how the field has progressed in order to understand references to antiquated definitions or concepts.
+When bacterial nomenclature was controlled under the Botanical Code, the term division was used, but now that bacterial nomenclature (with the exception of cyanobacteria) is controlled under the Bacteriological Code, the term phylum is preferred.
+In 1987, Carl Woese, regarded as the forerunner of the molecular phylogeny revolution, divided Eubacteria into 11 divisions based on 16S ribosomal RNA (SSU) sequences, listed below.
+Purple Bacteria and their relatives (later renamed Proteobacteria)
+alpha subdivision (purple non-sulfur bacteria, rhizobacteria, Agrobacterium, Rickettsiae, Nitrobacter)
+beta subdivision (Rhodocyclus, (some) Thiobacillus, Alcaligenes, Spirillum, Nitrosovibrio)
+gamma subdivision (enterics, fluorescent pseudomonads, purple sulfur bacteria, Legionella, (some) Beggiatoa)
+delta subdivision (Sulfur and sulfate reducers (Desulfovibrio), Myxobacteria, Bdellovibrio)
+Gram-positive Eubacteria
+High-G+C species (later renamed Actinobacteria) (Actinomyces, Streptomyces, Arthrobacter, Micrococcus, Bifidobacterium)
+Low-G+C species (later renamed Firmicutes) (Clostridium, Peptococcus, Bacillus, Mycoplasma)
+Photosynthetic species (Heliobacteria)
+Species with Gram-negative walls (Megasphaera, Sporomusa)
+Cyanobacteria and chloroplasts (Aphanocapsa, Oscillatoria, Nostoc, Synechococcus, Gloeobacter, Prochloron)
+Spirochetes and relatives
+Spirochetes (Spirochaeta, Treponema, Borrelia)
+Leptospiras (Leptospira, Leptonema)
+Green sulfur bacteria (Chlorobium, Chloroherpeton)
+Bacteroides, Flavobacteria and relatives (later renamed Bacteroidetes
+Bacteroides (Bacteroides, Fusobacterium)
+Flavobacterium group (Flavobacterium, Cytophaga, Saprospira, Flexibacter)
+Planctomyces and relatives (later renamed Planctomycetes)
+Planctomyces group (Planctomyces, Pasteuria [sic])
+Thermophiles (Isocystis pallida)
+Chlamydiae (Chlamydia psittaci, Chlamydia trachomatis)
+Radioresistant micrococci and relatives (later renamed Deinococcus–Thermus or Thermi)
+Deinococcus group (Deinococcus radiodurans)
+Thermophiles (Thermus aquaticus)
+Green non-sulfur bacteria and relatives (later renamed Chloroflexi)
+Chloroflexus group (Chloroflexus, Herpetosiphon)
+Thermomicrobium group (Thermomicrobium roseum)
+Thermotogae (Thermotoga maritima)Traditionally, phylogeny was inferred and taxonomy established based on studies of morphology. The advent of molecular phylogenetics has allowed for improved elucidation of the evolutionary relationship of species by analyzing their DNA and protein sequences, for example their ribosomal DNA. The lack of easily accessible morphological features, such as those present in animals and plants, hampered early efforts of classification and resulted in erroneous, distorted and confused classification, an example of which, noted Carl Woese, is Pseudomonas whose etymology ironically matched its taxonomy, namely "false unit". Many bacterial taxa were re-classified or re-defined using molecular phylogenetics.
+The advent of molecular sequencing technologies has allowed for the recovery of genomes directly from environmental samples (i.e. bypassing culturing), leading to rapid expansion of our knowledge of the diversity of bacterial phyla. These techniques are genome-resolved metagenomics and single-cell genomics.
+Bacterial taxonomy#Phyla endings
+International Code of Nomenclature of Bacteria
+Branching order of bacterial phyla (Woese, 1987)
+Branching order of bacterial phyla (Gupta, 2001)
+Branching order of bacterial phyla (Cavalier-Smith, 2002)
+Branching order of bacterial phyla (Rappe and Giovanoni, 2003)
+Branching order of bacterial phyla (Battistuzzi et al.,2004)
+Branching order of bacterial phyla (Ciccarelli et al., 2006)
+Branching order of bacterial phyla after ARB Silva Living Tree
+Branching order of bacterial phyla (Genome Taxonomy Database, 2018)
+List of Bacteria genera
+List of bacterial orders
+List of sequenced bacterial genomes

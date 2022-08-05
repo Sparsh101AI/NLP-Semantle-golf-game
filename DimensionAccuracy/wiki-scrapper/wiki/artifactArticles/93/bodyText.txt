@@ -1,0 +1,29 @@
+In mathematics, an almost perfect number (sometimes also called slightly defective or least deficient number) is a natural number n such that the sum of all divisors of n (the sum-of-divisors function σ(n)) is equal to 2n − 1, the sum of all proper divisors of n, s(n) = σ(n) − n, then being equal to n − 1. The only known almost perfect numbers are powers of 2 with non-negative exponents (sequence A000079 in the OEIS). Therefore the only known odd almost perfect number is 2 = 1, and the only known even almost perfect numbers are those of the form 2 for some positive number k; however, it has not been shown that all almost perfect numbers are of this form.  It is known that an odd almost perfect number greater than 1 would have at least six prime factors.
+If m is an odd almost perfect number then m(2m − 1) is a Descartes number. Moreover if a and b are positive odd integers such that 
+
+
+
+b
++
+3
+<
+a
+<
+
+
+m
+
+/
+
+2
+
+
+
+
+{\displaystyle b+3<a<{\sqrt {m/2}}}
+
+ and such that 4m − a and 4m + b are both primes, then m(4m − a)(4m + b) would be an odd weird number.
+Guy, R. K. (1994). "Almost Perfect, Quasi-Perfect, Pseudoperfect, Harmonic, Weird, Multiperfect and Hyperperfect Numbers". Unsolved Problems in Number Theory (2nd ed.). New York: Springer-Verlag. pp. 16, 45–53.
+Sándor, József; Mitrinović, Dragoslav S.; Crstici, Borislav, eds. (2006). Handbook of number theory I. Dordrecht: Springer-Verlag. p. 110. ISBN 1-4020-4215-9. Zbl 1151.11300.
+Sándor, Jozsef; Crstici, Borislav, eds. (2004). Handbook of number theory II. Dordrecht: Kluwer Academic. pp. 37–38. ISBN 1-4020-2546-7. Zbl 1079.11001.
+Singh, S. (1997). Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem. New York: Walker. p. 13.Weisstein, Eric W. "Almost perfect number". MathWorld.

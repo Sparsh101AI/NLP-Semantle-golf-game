@@ -1,0 +1,1417 @@
+The Human Development Index (HDI) is a statistic composite index of life expectancy, education (mean years of schooling completed and expected years of schooling upon entering the education system), and per capita income indicators, which is used to rank countries into four tiers of human development. A country scores a higher level of HDI when the lifespan is higher, the education level is higher, and the gross national income GNI (PPP) per capita is higher. It was developed by  Pakistani economist Mahbub ul Haq and was further used to measure a country's development by the United Nations Development Programme (UNDP)'s Human Development Report Office.
+The 2010 Human Development Report introduced an Inequality-adjusted Human Development Index (IHDI). While the simple HDI remains useful, it stated that "the IHDI is the actual level of human development (accounting for inequality), while the HDI can be viewed as an index of 'potential' human development (or the maximum level of HDI) that could be achieved if there were no inequality."
+The index is based on the human development approach, developed by Mahbub ul Haq, anchored in Amartya Sen's work on human capabilities, often framed in terms of whether people are able to "be" and "do" desirable things in life. Examples include – being: well fed, sheltered, healthy; doing: work, education, voting, participating in community life. The freedom of choice is central – someone choosing to be hungry (e.g. when fasting for religious reasons) is quite different from someone who is hungry because they cannot afford to buy food, or because the country is in a famine.
+The index does not take into account several factors, such as the net wealth per capita or the relative quality of goods in a country. This situation tends to lower the ranking for some of the most advanced countries, such as the G7 members and others.
+The origins of the HDI are found in the annual Human Development Reports produced by the Human Development Report Office of the United Nations Development Programme (UNDP). These were devised and launched by Pakistani economist Mahbub ul Haq in 1990, and had the explicit purpose "to shift the focus of development economics from national income accounting to people-centered policies". Haq believed that a simple composite measure of human development was needed to convince the public, academics, and politicians that they can and should evaluate development not only by economic advances but also improvements in human well-being.
+
+
+Published on 4 November 2010 (and updated on 10 June 2011), the 2010 Human Development Report calculated the HDI combining three dimensions:
+A long and healthy life: Life expectancy at birth
+Education: Mean years of schooling and expected years of schooling
+A decent standard of living: GNI per capita (PPP international dollars)In its 2010 Human Development Report, the UNDP began using a new method of calculating the HDI. The following three indices are used:
+1. Life Expectancy Index (LEI) 
+
+
+
+=
+
+
+
+
+
+LE
+
+
+−
+20
+
+
+85
+−
+20
+
+
+
+
+
+{\displaystyle ={\frac {{\textrm {LE}}-20}{85-20}}}
+
+
+LEI is equal to 1 when life expectancy at birth is 85 years, and 0 when life expectancy at birth is 20 years.2. Education Index (EI) 
+
+
+
+=
+
+
+
+
+
+MYSI
+
+
++
+
+
+EYSI
+
+
+
+2
+
+
+
+
+{\displaystyle ={\frac {{\textrm {MYSI}}+{\textrm {EYSI}}}{2}}}
+
+
+2.1 Mean Years of Schooling Index (MYSI) 
+
+
+
+=
+
+
+
+MYS
+
+15
+
+
+
+
+{\displaystyle ={\frac {\textrm {MYS}}{15}}}
+
+
+Fifteen is the projected maximum of this indicator for 2025.
+2.2 Expected Years of Schooling Index (EYSI) 
+
+
+
+=
+
+
+
+EYS
+
+18
+
+
+
+
+{\displaystyle ={\frac {\textrm {EYS}}{18}}}
+
+
+Eighteen is equivalent to achieving a master's degree in most countries.3. Income Index (II) 
+
+
+
+=
+
+
+
+ln
+⁡
+(
+
+
+GNIpc
+
+
+)
+−
+ln
+⁡
+(
+100
+)
+
+
+ln
+⁡
+(
+75
+,
+000
+)
+−
+ln
+⁡
+(
+100
+)
+
+
+
+
+
+{\displaystyle ={\frac {\ln({\textrm {GNIpc}})-\ln(100)}{\ln(75,000)-\ln(100)}}}
+
+
+II is 1 when GNI per capita is $75,000 and 0 when GNI per capita is $100.Finally, the HDI is the geometric mean of the previous three normalized indices:
+
+
+
+
+
+
+HDI
+
+
+=
+
+
+
+
+
+LEI
+
+
+⋅
+
+
+EI
+
+
+⋅
+
+
+II
+
+
+
+
+3
+
+
+
+.
+
+
+{\displaystyle {\textrm {HDI}}={\sqrt[{3}]{{\textrm {LEI}}\cdot {\textrm {EI}}\cdot {\textrm {II}}}}.}
+
+
+LE: Life expectancy at birth
+MYS: Mean years of schooling (i.e. years that a person aged 25 or older has spent in formal education)
+EYS: Expected years of schooling (i.e. total expected years of schooling for children under 18 years of age)
+GNIpc: Gross national income at purchasing power parity per capita
+
+The HDI combined three dimensions last used in its 2009 report:
+Life expectancy at birth, as an index of population health and longevity to HDI
+Knowledge and education, as measured by the adult literacy rate (with two-thirds weighting) and the combined primary, secondary, and tertiary gross enrollment ratio (with one-third weighting).
+Standard of living, as indicated by the natural logarithm of gross domestic product per capita at purchasing power parity.This methodology was used by the UNDP until their 2011 report.
+The formula defining the HDI is promulgated by the United Nations Development Programme (UNDP). In general, to transform a raw variable, say 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, into a unit-free index between 0 and 1 (which allows different indices to be added together), the following formula is used:
+
+
+
+
+x
+
+ index
+
+=
+
+
+
+x
+−
+a
+
+
+b
+−
+a
+
+
+
+
+
+{\displaystyle x{\text{ index}}={\frac {x-a}{b-a}}}
+
+where 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ are the lowest and highest values the variable 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ can attain, respectively.
+The Human Development Index (HDI) then represents the uniformly weighted sum with 1⁄3 contributed by each of the following factor indices:
+Life Expectancy Index = 
+
+
+
+
+
+
+L
+E
+−
+25
+
+
+85
+−
+25
+
+
+
+
+
+{\displaystyle {\frac {LE-25}{85-25}}}
+
+
+Education Index = 
+
+
+
+
+
+2
+3
+
+
+×
+A
+L
+I
++
+
+
+1
+3
+
+
+×
+G
+E
+I
+
+
+{\displaystyle {\frac {2}{3}}\times ALI+{\frac {1}{3}}\times GEI}
+
+
+Adult Literacy Index (ALI) = 
+
+
+
+
+
+
+A
+L
+R
+−
+0
+
+
+100
+−
+0
+
+
+
+
+
+{\displaystyle {\frac {ALR-0}{100-0}}}
+
+
+Gross Enrollment Index (GEI) = 
+
+
+
+
+
+
+C
+G
+E
+R
+−
+0
+
+
+100
+−
+0
+
+
+
+
+
+{\displaystyle {\frac {CGER-0}{100-0}}}
+
+
+GDP = 
+
+
+
+
+
+
+log
+⁡
+
+(
+
+G
+D
+P
+p
+c
+
+)
+
+−
+log
+⁡
+
+(
+100
+)
+
+
+
+log
+⁡
+
+(
+40000
+)
+
+−
+log
+⁡
+
+(
+100
+)
+
+
+
+
+
+
+{\displaystyle {\frac {\log \left(GDPpc\right)-\log \left(100\right)}{\log \left(40000\right)-\log \left(100\right)}}}
+
+
+The Human Development Report 2020 by the United Nations Development Programme was released on 15 December 2020, and calculates HDI values based on data collected in 2019. The list comprises countries and territories with very high human development:
+ = increase.
+ = steady.
+ = decrease.
+
+
+
+
+
+Rank
+
+Country or Territory
+
+HDI
+
+
+2019 data (2020 report)​
+
+Change over 5 years (2014)​
+
+2019 data (2020 report)​
+
+Average annual HDI growth (2010-2019)​
+
+
+Very high human development
+
+
+1
+
+ Norway
+0.957
+ 0.20%
+
+
+2
+ (7)
+ Ireland
+0.955
+ 0.65%
+
+
+2
+
+  Switzerland
+0.955
+ 0.16%
+
+
+4
+ (7)
+ Hong Kong
+0.949
+ 0.54%
+
+
+4
+ (4)
+ Iceland
+0.949
+ 0.62%
+
+
+6
+ (3)
+ Germany
+0.947
+ 0.24%
+
+
+7
+ (3)
+ Sweden
+0.945
+ 0.41%
+
+
+8
+ (2)
+ Australia
+0.944
+ 0.17%
+
+
+8
+ (1)
+ Netherlands
+0.944
+ 0.32%
+
+
+10
+ (6)
+ Denmark
+0.940
+ 0.28%
+
+
+11
+ (2)
+ Finland
+0.938
+ 0.26%
+
+
+11
+
+ Singapore
+0.938
+ 0.35%
+
+
+13
+
+ United Kingdom
+0.932
+ 0.24%
+
+
+14
+ (1)
+ Belgium
+0.931
+ 0.25%
+
+
+14
+ (3)
+ New Zealand
+0.931
+ 0.30%
+
+
+16
+ (1)
+ Canada
+0.929
+ 0.34%
+
+
+17
+ (3)
+ United States
+0.926
+ 0.12%
+
+
+18
+
+ Austria
+0.922
+ 0.22%
+
+
+19
+ (1)
+ Israel
+0.919
+ 0.29%
+
+
+19
+ (2)
+ Japan
+0.919
+ 0.39%
+
+
+19
+
+ Liechtenstein
+0.919
+ 0.18%
+
+
+22
+ (2)
+ Slovenia
+0.917
+ 0.35%
+
+
+23
+ (1)
+ South Korea
+0.916
+ 0.33%
+
+
+23
+
+ Luxembourg
+0.916
+ 0.22%
+
+
+25
+ (1)
+ Spain
+0.904
+ 0.40%
+
+
+26
+ (1)
+ France
+0.901
+ 0.28%
+
+
+27
+ (1)
+ Czech Republic
+0.900
+ 0.38%
+
+
+28
+ (2)
+ Malta
+0.895
+ 0.54%
+
+
+29
+ (2)
+ Estonia
+0.892
+ 0.51%
+
+
+29
+ (1)
+ Italy
+0.892
+ 0.16%
+
+
+31
+ (6)
+ United Arab Emirates
+0.890
+ 0.91%
+
+
+32
+ (3)
+ Greece
+0.888
+ 0.29%
+
+
+
+
+
+
+
+
+
+Rank
+
+Country or Territory
+
+HDI
+
+
+2019 data (2020 report)​
+
+Change over 5 years (2014)​
+
+2019 data (2020 report)​
+
+Average annual HDI growth (2010-2019)​
+
+
+33
+
+ Cyprus
+0.887
+ 0.40%
+
+
+34
+
+ Lithuania
+0.882
+ 0.66%
+
+
+35
+
+ Poland
+0.880
+ 0.52%
+
+
+36
+ (4)
+ Andorra
+0.868
+ 0.40%
+
+
+37
+ (3)
+ Latvia
+0.866
+ 0.55%
+
+
+38
+ (1)
+ Portugal
+0.864
+ 0.46%
+
+
+39
+ (2)
+ Slovakia
+0.860
+ 0.38%
+
+
+40
+ (1)
+ Hungary
+0.854
+ 0.30%
+
+
+40
+ (4)
+ Saudi Arabia
+0.854
+ 0.60%
+
+
+42
+ (6)
+ Bahrain
+0.852
+ 0.70%
+
+
+43
+
+ Chile
+0.851
+ 0.65%
+
+
+43
+ (2)
+ Croatia
+0.851
+ 0.48%
+
+
+45
+
+ Qatar
+0.848
+ 0.19%
+
+
+46
+ (2)
+ Argentina
+0.845
+ 0.21%
+
+
+47
+ (6)
+ Brunei
+0.838
+ 0.15%
+
+
+48
+ (2)
+ Montenegro
+0.829
+ 0.37%
+
+
+49
+ (2)
+ Romania
+0.828
+ 0.31%
+
+
+50
+ (3)
+ Palau
+0.826
+ 0.55%
+
+
+51
+ (7)
+ Kazakhstan
+0.825
+ 0.86%
+
+
+52
+ (1)
+ Russia
+0.824
+ 0.60%
+
+
+53
+ (4)
+ Belarus
+0.823
+ 0.39%
+
+
+54
+ (5)
+ Turkey
+0.820
+ 1.16%
+
+
+55
+ (1)
+ Uruguay
+0.817
+ 0.49%
+
+
+56
+ (2)
+ Bulgaria
+0.816
+ 0.39%
+
+
+57
+ (5)
+ Panama
+0.815
+ 0.58%
+
+
+58
+ (3)
+ Bahamas
+0.814
+ 0.12%
+
+
+58
+ (6)
+ Barbados
+0.814
+ 0.23%
+
+
+60
+ (3)
+ Oman
+0.813
+ 0.43%
+
+
+61
+ (7)
+ Georgia
+0.812
+ 0.87%
+
+
+62
+ (3)
+ Costa Rica
+0.810
+ 0.64%
+
+
+62
+ (1)
+ Malaysia
+0.810
+ 0.54%
+
+
+64
+ (5)
+ Kuwait
+0.806
+ 0.25%
+
+
+64
+ (3)
+ Serbia
+0.806
+ 0.57%
+
+
+66
+ (2)
+ Mauritius
+0.804
+ 0.76%
+
+
+
+
+The Inequality-adjusted Human Development Index (IHDI) "can be interpreted as the level of human development when inequality is accounted for. The relative difference between IHDI and HDI values is the loss due to inequality in distribution of the HDI within the country." The list comprises countries and territories with very high and high human development: 
+
+
+
+
+
+
+Rank
+
+Country
+
+2019 estimates (2020 report)
+
+
+IHDI
+
+HDI
+
+Overall loss (%)
+
+Growth since 2010
+
+
+Very high human development
+
+
+1
+ Norway
+0.899
+0.957
+6.1
+ 0.021
+
+
+2
+ Iceland
+0.894
+0.949
+5.8
+ 0.055
+
+
+3
+  Switzerland
+0.889
+0.955
+6.9
+ 0.015
+
+
+4
+ Finland
+0.888
+0.938
+5.3
+ 0.040
+
+
+5
+ Ireland
+0.885
+0.955
+7.3
+ 0.066
+
+
+6
+ Denmark
+0.883
+0.940
+6.1
+ 0.025
+
+
+7
+ Sweden
+0.882
+0.945
+6.7
+ 0.033
+
+
+8
+ Netherlands
+0.878
+0.944
+7.0
+ 0.036
+
+
+9
+ Slovenia
+0.875
+0.917
+4.6
+ 0.047
+
+
+10
+ Germany
+0.869
+0.947
+8.2
+ 0.016
+
+
+11
+ Australia
+0.867
+0.944
+8.2
+ 0.011
+
+
+12
+ Czech Republic
+0.860
+0.900
+4.4
+ 0.042
+
+
+13
+ Belgium
+0.859
+0.931
+7.7
+ 0.026
+
+
+14
+ New Zealand
+0.859
+0.931
+7.7
+NA
+
+
+15
+ Austria
+0.857
+0.922
+7.0
+ 0.021
+
+
+16
+ United Kingdom
+0.856
+0.932
+8.2
+ 0.032
+
+
+17
+ Canada
+0.848
+0.929
+8.7
+ 0.025
+
+
+18
+ Japan
+0.843
+0.919
+8.3
+ 0.053
+
+
+19
+ Estonia
+0.829
+0.892
+7.1
+ 0.051
+
+
+20
+ Luxembourg
+0.826
+0.916
+9.8
+ 0.009
+
+
+21
+ Hong Kong
+0.824
+0.949
+13.2
+NA
+
+
+22
+ Malta
+0.823
+0.895
+8.0
+ 0.033
+
+
+23
+ France
+0.820
+0.901
+9.0
+ 0.022
+
+
+24
+ South Korea
+0.815
+0.916
+11.0
+ 0.074
+
+
+25
+ Israel
+0.814
+0.919
+11.4
+ 0.031
+
+
+26
+ Singapore
+0.813
+0.938
+13.3
+NA
+
+
+
+
+
+
+Rank
+
+Country
+
+2019 estimates (2020 report)
+
+
+IHDI
+
+HDI
+
+Overall loss (%)
+
+Growth since 2010
+
+
+27
+ Poland
+0.813
+0.880
+7.6
+ 0.063
+
+
+28
+ United States
+0.808
+0.926
+12.7
+ 0.004
+
+
+29
+ Slovakia
+0.807
+0.860
+6.2
+ 0.032
+
+
+30
+ Cyprus
+0.805
+0.887
+9.2
+ 0.048
+
+
+High human development
+
+
+31
+ Hungary
+0.791
+0.854
+7.4
+ 0.032
+
+
+31
+ Lithuania
+0.791
+0.882
+10.3
+ 0.055
+
+
+31
+ Greece
+0.791
+0.888
+10.9
+ 0.014
+
+
+34
+ Italy
+0.783
+0.892
+12.2
+ 0.010
+
+
+34
+ Latvia
+0.783
+0.866
+9.6
+ 0.050
+
+
+34
+ Croatia
+0.783
+0.851
+8.0
+ 0.092
+
+
+34
+ Spain
+0.783
+0.904
+13.4
+ 0.004
+
+
+38
+ Belarus
+0.771
+0.823
+6.3
+ 0.050
+
+
+39
+ Kazakhstan
+0.766
+0.825
+7.2
+ 0.105
+
+
+40
+ Portugal
+0.761
+0.864
+11.9
+ 0.031
+
+
+41
+ Montenegro
+0.749
+0.829
+9.7
+ 0.026
+
+
+42
+ Russia
+0.740
+0.824
+10.2
+ 0.049
+
+
+43
+ Romania
+0.730
+0.828
+11.8
+ 0.022
+
+
+44
+ Argentina
+0.729
+0.845
+13.7
+ 0.063
+
+
+45
+ Ukraine
+0.728
+0.779
+6.4
+ 0.035
+
+
+46
+ Bulgaria
+0.721
+0.816
+11.6
+ 0.022
+
+
+47
+ Georgia
+0.716
+0.812
+11.8
+ 0.093
+
+
+48
+ Uruguay
+0.712
+0.817
+12.7
+ 0.055
+
+
+49
+ Chile
+0.709
+0.851
+16.7
+ 0.058
+
+
+50
+ Albania
+0.708
+0.795
+10.9
+ 0.058
+
+
+51
+ Oman
+0.706
+0.813
+13.2
+NA
+
+
+52
+ Serbia
+0.705
+0.806
+12.5
+ 0.021
+
+
+
+The list below displays the top-ranked country from each year of the Human Development Index. Norway has been ranked the highest sixteen times, Canada eight times, and Japan and Iceland twice.
+The year represents the time period from which the statistics for the index were derived. In parentheses is the year when the report was published.
+
+The HDI has extended its geographical coverage: David Hastings, of the United Nations Economic and Social Commission for Asia and the Pacific, published a report geographically extending the HDI to 230+ economies, whereas the UNDP HDI for 2009 enumerates 182 economies and coverage for the 2010 HDI dropped to 169 countries.
+The Human Development Index has been criticized on a number of grounds, including alleged lack of consideration of technological development or contributions to the human civilization, focusing exclusively on national performance and ranking, lack of attention to development from a global perspective, measurement error of the underlying statistics, and on the UNDP's changes in formula which can lead to severe misclassification in the categorisation of "low", "medium", "high" or "very high" human development countries.
+Economists Hendrik Wolff, Howard Chong and Maximilian Auffhammer discuss the HDI from the perspective of data error in the underlying health, education and income statistics used to construct the HDI. They identified three sources of data error which are due to (i) data updating, (ii) formula revisions and (iii) thresholds to classify a country's development status and conclude that 11%, 21% and 34% of all countries can be interpreted as currently misclassified in the development bins due to the three sources of data error, respectively. The authors suggest that the United Nations should discontinue the practice of classifying countries into development bins because: the cut-off values seem arbitrary, can provide incentives for strategic behavior in reporting official statistics, and have the potential to misguide politicians, investors, charity donors and the public who use the HDI at large.
+In 2010, the UNDP reacted to the criticism and updated the thresholds to classify nations as low, medium, and high human development countries. In a comment to The Economist in early January 2011, the Human Development Report Office responded to a 6 January 2011 article in the magazine which discusses the Wolff et al. paper. The Human Development Report Office states that they undertook a systematic revision of the methods used for the calculation of the HDI, and that the new methodology directly addresses the critique by Wolff et al. in that it generates a system for continuously updating the human-development categories whenever formula or data revisions take place.
+In 2013, Salvatore Monni and Alessandro Spaventa emphasized that in the debate of GDP versus HDI, it is often forgotten that these are both external indicators that prioritize different benchmarks upon which the quantification of societal welfare can be predicated. The larger question is whether it is possible to shift the focus of policy from a battle between competing paradigms to a mechanism for eliciting information on well-being directly from the population.
+Human Development Index
+Human Development Tools and Rankings

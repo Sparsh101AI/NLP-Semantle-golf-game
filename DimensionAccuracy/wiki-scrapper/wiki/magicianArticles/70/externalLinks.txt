@@ -1,0 +1,13 @@
+https://ui.adsabs.harvard.edu/abs/1996Sci...271..315C
+https://doi.org/10.1126%2Fscience.271.5247.315
+//pubmed.ncbi.nlm.nih.gov/8553065
+https://api.semanticscholar.org/CorpusID:32437757
+https://doi.org/10.1146%2Fannurev.cellbio.14.1.137
+//pubmed.ncbi.nlm.nih.gov/9891781
+https://web.archive.org/web/20190503204746/http://cellularmicrobiologyprogram.org.au/
+https://doi.org/10.1016%2Fj.tim.2007.01.004
+//pubmed.ncbi.nlm.nih.gov/17275310
+https://doi.org/10.1038%2Fnrmicro1948
+//pubmed.ncbi.nlm.nih.gov/18622407
+https://api.semanticscholar.org/CorpusID:1525798
+https://en.wikipedia.org/w/index.php?title=Template:Branches_of_biology&action=edit

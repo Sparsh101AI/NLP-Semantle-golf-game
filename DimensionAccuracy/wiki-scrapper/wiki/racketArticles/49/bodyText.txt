@@ -1,0 +1,64 @@
+Kei is an Austronesian language spoken in a small region of the Moluccas, a province of Indonesia.
+Keiese is mainly spoken in the Kei archipelago in Maluku Tenggara (The Southeast Moluccas), belonging to the province of Maluku, Indonesia. It has a population of around 140.000 people (source unknown), half of which lives in the only two cities, Tual and Langgur: respectively the Islamic and Christian capitals of the archipelago. Both cities belong to the Kei Kecil district. The other half of the population lives in the coastal villages of the archipelago.
+Keiese is an Austronesian language, traditionally grouped in the Central Malayo-Polynesian (CMP) language family that knows several subgroups, one of which is Kei-Tanimbar. This tiny family splits up one more time into Yamdena-Onin and Kei-Fordata, the latter of which contains Keiese. The main dialects are the Northern and Southern Mainland dialects, spoken on Kei Besar, and the Islands Dialect, spoken on the other islands. The Islands Dialect has some sub dialects, of which the Kei Kecil dialect has the most speakers and prestige. All grammatical descriptions in this article are derived from the Kei Kecil dialect.
+Keiese is referred to with different names derived from at least three backgrounds. “Kei” is assumed to be coined by Portuguese colonists. They called it stone (“kayos”) for its rocky bottom. However, whereas the most inhabited island (Kei Kecil) is indeed a rocky atoll, the biggest island of the archipelago (Kei Besar) is a fertile volcanic island. Dutch missionaries would call the language “Keiees” (lit. “Keiese”). Indonesians know the language today, as “Bahasa Kei/Kai”, always pronounced as [ke]. Ethnologue mentions a second way to refer to the language: “Saumlaki”. Saumlaki is a small island that belongs to the Tanimbar archipelago, of which its languages are not proven to be directly historically related to Kei. The third way to talk about the language is in the language itself. The pronunciation is best transcribed as [eʋa:v], which cannot be translated for simply being a proper name. Spellings that are used by scholars are Eiwav, Eivav, Ewaw, Ewab, Ewaf, Evav, Ewav and Evaf, for it is arguable whether the two consonants are phonemically distinct or not.
+It is difficult to estimate the number of speakers of Keiese. According to Ethnologue, the number lies around 85,000, out of a total of 140,000 inhabitants. In 1985, Tetelepta et al. wrote that the total number of Keiese speakers in the two capitals of Kei Kecil and the capital of Kei Besar was 12,353 people. It is likely that this number must be doubled when including the speakers in coastal villages. Ma Kang Yuen however, who studied the language in 154 villages (out of a bit more than 200) on Kei Kecil for several years in the first decade of the 21st century, claims to have never met a fluent speaker. This was later confirmed by Yuri Villa Rikkers, who visited the archipelago for a brief linguistic study in 2014.
+Keiese knows approximately 16 consonants, 8 vowels and 4 diphthongs. The Keiese people have not yet concluded on an official spelling system.
+As is common among Austronesian languages, consonant clusters are usually avoided. Word stress is usually found on the last syllable.
+Verbal Inflection in Keiese is about agreement marking on the verb, based on the person and number of the subject of a sentence. These subjects may be formed by nouns or by free personal pronouns that know a clusivity distinction as is common in Austronesian languages.
+They each correspond to a verbal prefix.
+The sentences below (Villa Rikkers, 2014) show how these forms combine.
+First person singular
+Second person singular
+Third person singular
+First person plural (addressee excluded)
+First person plural (addressee included)
+Second person plural
+Third person plural
+Keiese discriminates between alienable and unalienable nouns by using different strategies to express possession. Alienable nouns select possessive pronouns.
+For example, "my boat" must be translated as "nɪŋ habo", for boats may have different owners at different times. Unalienable nouns select possessive suffixes.
+The numeral system uses numeral roots (NR) that combine with both numeral classifiers (CLF) and autonomous numerals (NUM). The numeral roots are given below.
+The formation of numbers is illustrated in the table below.
+Engelenhoven, A. van. submitted. Dressed, undressed or both: the case of Ewaw in Southeast Maluku. In Isolating word structure in Austronesian languages, ed. by David Gil, John McWhorter & Scott Pauw.
+Farfar, J.J. 1959. Bahasa Kai: sedikit tentang bahasa Kai di pulau-pulau Kai (Maluku Tenggara). [Bahasa Kei: a little bit about the Kei language in the Kei Islands (Southeast Maluku)] Medan Bahasa IX(1): 44-47.
+Geurtjens, H. 1921a. Spraakleer der Keieesche taal. Bataviaasch Genootschap van Kunsten en Wetenschappen, Weltevreden Albrecht & Co.
+Hageman, Dany. 2004. Derivationele morfologie van het Ewaw [Derivational Morphology of Ewaw], MA Thesis at Leiden University.
+Hungan, A.J. 1990. Perkembangan lagu-lagu bahasa Kei dalam upacara agama Katolik. [The development of Kei language songs in Catholic programs] IN DEMy Resusun, et al., Hasil seminar Masa Lalu dan Masa Depan Bahasa Kei.
+Kusters, P., S.J. n.d. Keieesch Woordenboek (+spraakkunst). [Kei dictionary (+grammar)] Koekdruk. Year unknown
+Tetelepta, J., et al. 1982. Bahasa Kei (Ewab, ..). [The Kei language ..] Ambon: Proyek Penilitian Bahasa dan Sastera Indonesia dan Daerah Maluku.
+Tetelepta, J., et al. 1985. Struktur bahasa kei. [Structure of the Kei language] Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan [73PL?].
+Travis, E., 1990. Ejaan bahasa Kei. [Orthography of the Kei language] in Resusun, D., et al. 1990.
+Travis, E. 1990-MS. The Kei language: a proposed orthography. Ambon: UNPATTI-SIL.
+Travis, E. 1987-MS. Perbendaharaan kata bahasa Kei dengan arti dalam bahasa Indonesia. [Kei vocabulary with Indonesian meanings] Ambon: UNPATTI-SIL.
+Travis, E., 1990 MS. The Kei language: a phonological description. Ambon: UNPATTI-SIL.
+Travis, E. 1991-MS. Pedoman umum ejaan bahasa Kei (Evav) [edisi pertama]. General guide to Kei (Evav) orthography [first edition)] Ambon: UNPATTI-SIL.
+Travis, E. 1990. Sistem tulisan bahasa Kei. [The Kei alphabet] IN DEMy Resusun, et al., Hasil seminar Masa Lalu dan Masa Depan Bahasa Kei.
+Vliegen, MSC. n.d. Keieesch woordenboek (+spraakkunst) [Keiese dictionary (+grammar)] (koekdruk). [no pub.].
+Villa Rikkers, Y. 2014. Topics in Evaf Morphology: a Comparative Analysis of Inflectional Categories in an Austronesian Language of the Southeast Moluccas. Universiteit Leiden.
+Unknown author. 1968, Tatabahasa Bahasa Kei (percobaan) [Grammar of the Kei language], based on Geurtjens.Eijbergen, H.C. van, (compiler). 1865. Korte woordenlijst van de taal der Aroe- en Kei-Eilanden. [Short wordlist of the language of the Aru and Kei Islands]. Tijdschrift voor Indische Taal-, Land- en Volkenkunde 14:557-568.
+Geurtjens, H. 1921b. Woordenlijst der Keieesche taal, Bataviaasch Genootschap van Kunsten en Wetenschappen, Weltevreden Albrecht & Co.
+Geurtjens, H., Nieuwenhuis, A. 1940. (Dutch-Kei notebook). ms. [200p].
+Kusters, J.D. 1895. Woordenlijsten van de Kei-eilanden [word listst of the Kei islands], IN Woordenlijsten van talen der Molukken, opgenomen in de handschriften-verzameling van het Bataviaasch Genootschap. Not. Bat. Gen., XXXIII, p45.
+Nieuwenhuis, A. 1940  (Dutch-Kei handwritten notebook). ms. 200p.
+Nieuwenhuis, A. 1948. (Dutch-Kei typescript). ms. [114p].
+Royen, A. van. 1985. Woordenlijst Nederlands-Keiees A-K, K-Z. [Dutch-Kei dictionary,A-K, K-Z] [no pub.].
+Rugebregt, J.F. et al. 1983. Inventarisasi bahasa daerah Maluku. [Inventory of Moluccan minority languages] Ambon: Proyek Penelitian Bahasa dan Sastra Indonesia dan Daerah Maluku (DEPDIKBUD).
+Yuen, M.K. (Felix Ma). 2012. Kamus Bahasa Kei – Indonesia [Dictionary Kei – Indonesian].
+Unknown author. 1930, Bijvoeging der Kei woordenlijsten [appendix of the Kei word lists]
+Unknown author and year. Kamus Belanda-Kei [Dutch-Kei dictionary],
+Unknown author and year. Kata-kata Bahasa Kei dan Aru [List of words from the Kei and Aru languages]Geurtjens, H. 1924. Keieesche Legenden. Bataviaasch Genootschap van Kunsten en Wetenschappen, Weltevreden Albrecht & Co.
+Gieben, C. 1984. Muziek en Dans. Spelletjes en Kinderliedjes v.d. Molukken. [Music and dance. Games and children's songs from the Moluccas] [no pub.].
+Nooriyah, T. 1986. Si Katak (seri cerita rakyat dari pulau Kei). [Mr. Frog (folktale series from the Kei Islands)] Penerbit C.v. Pionir Jaya: Bandung.
+Ogi, L., ed. 1985. Buk siksikar I: kumpulan lagu-lagu bahasa daerah Maluku Tenggara. [Songbook I: collection of vernacular songs from Southeast Maluku] Tual: Seksi Kebudayaan, Kantor Departemen Pendidikan dan Kebudayaan Kabupaten Maluku Tenggara.
+Pattikayhatu, Jon A., et al. 1983. Ungkapan tradisional daerah Maluku. [Traditional Moluccan expressions] Ambon: Proyek Inventarisasi dan Dokumentasi Kebudayaan Daerah.
+Pragolapati, Ragil Suwarna. 1981. Ai ngam sorngai (cerita rakyat Aru-Kai). [Tree of the religion of heaven(?) (folktales from Aru and Kei)] PT Sumbangsih Kawanku and Penerbit Sinar Harapan: Jakarta.
+Unknown author. 1910. Siksikar agam. [Keiese religious songs] [no pub.].
+Unknown author. 1986, 29 vernacular songs. Seksi Kebudayaan, Kantor Departemen Pendidikan dan Kebudayaan Kabupaten Maluku Tenggara: Tual.Adelaar, A. 2005. The Austronesian languages of Asia and Madagascar: a historical perspective. In Adelaar, A. and et al. (eds.), The Austronesian Languages of Asia and Madagascar, 1-41. London &New York: Routledge.
+Blust, R.A.,  1977. The Proto-Austronesian pronouns and Austronesian subgrouping: a preliminary report. Working Papers in Linguistics, 9.2:1-15. Dept. Linguistics, University of Hawaii.
+Blust, R.A., 1978. Eastern Malayo-Polynesian: a subgrouping argument. IN Proceedings of the Second International Conference on Austronesian Linguistics, Fascicle 1. Pacific Linguistics C-61:181-234. Canberra: Australian National University.
+Blust, R.A., 1990. Central and Central-Eastern Malayo-Polynesian. Paper presented at Maluku Research Conference, Honolulu.
+Dyen, I., 1975. The lexicostatistical classification of the Malayopolynesian languages. Language 38: 38-46.
+Dyen, I., 1978. The position of the languages of eastern Indonesia. In: Proceedings of the Second International Conference on Austronesian Linguistics, Fascicle 1. Pacific Linguistics C-61: 235-254.
+Hughes, Jock. 1987. The languages of Kei, Tanimbar and Aru: a lexicostatistic classification. IN Dardjowidjojo, Soenjono (ed.), Miscellaneous Studies of Indonesian and Other Languages in Indonesia, part IX, pp. 71–111. NUSA 27.
+Ross, M. 2005. The Batanic Languages in Relation to the Early History of the Malayo-Polynesian Subgroup of Austronesian. Journal of Austronesian Studies 1. 1-23.
+Tokjaur, J.J. 1972. Bahasa Kei selayang pandang di dalam rumpun Austronesia. [An overview of the position of Kei in the Austronesian family] skripsi sarjana muda.

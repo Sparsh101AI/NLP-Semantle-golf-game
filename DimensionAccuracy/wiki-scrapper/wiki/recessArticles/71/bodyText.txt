@@ -1,0 +1,10 @@
+The Human Capital Index is a report prepared by the World Bank. The Index measures which countries are best in mobilizing the economic and professional potential of its citizens. The index measures how much capital each country loses through lack of education and health. The Index was first published in October 2018 and ranked 157 countries. The Human Capital Index ranges between 0 and 1, with 1 meaning maximum potential is reached.
+The applications to measuring human capital are developed in research by Noam Angrist, Simeon Djankov, Pinelopi Koujianou Goldberg and Harry Patrinos, in an article published in the leading scientific journal Nature. These findings are popularized in a 2021 Vox column. The Index is grounded on the following three pillars:
+Survival
+Share of children surviving past the age of 5 in %School
+Quantity of education  (Expected years of schooling by age 18)
+Quality of education (Harmonized test scores)Health
+Adult survival rates (Share of 15-year-olds who survive until age 60 in %)
+Healthy growth among children (Stunting rates of children under 5 in %)The Human Capital Index was first published as part of the World Bank's World Development Report 2019, directed by Simeon Djankov and Federica Saliola. Nobel Prize winner Paul Romer started the measurement.
+Human capital
+World Development ReportMeasuring Human Capital

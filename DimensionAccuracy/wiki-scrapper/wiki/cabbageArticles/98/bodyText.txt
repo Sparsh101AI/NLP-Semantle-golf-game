@@ -1,0 +1,210 @@
+In nuclear physics, secular equilibrium is a situation in which the quantity of a radioactive isotope remains constant because its production rate (e.g., due to decay of a parent isotope) is equal to its decay rate.
+Secular equilibrium can occur in a radioactive decay chain only if the half-life of the daughter radionuclide B is much shorter than the half-life of the parent radionuclide A. In such a case, the decay rate of A and hence the production rate of B is approximately constant, because the half-life of A is very long compared to the time scales considered. The quantity of radionuclide B builds up until the number of B atoms decaying per unit time becomes equal to the number being produced per unit time. The quantity of radionuclide B then reaches a constant, equilibrium value. Assuming the initial concentration of radionuclide B is zero, full equilibrium usually takes several half-lives of radionuclide B to establish.
+The quantity of radionuclide B when secular equilibrium is reached is determined by the quantity of its parent A and the half-lives of the two radionuclide. That can be seen from the time rate of change of the number of atoms of radionuclide B:
+
+
+
+
+
+
+
+d
+
+N
+
+B
+
+
+
+
+d
+t
+
+
+
+=
+
+λ
+
+A
+
+
+
+N
+
+A
+
+
+−
+
+λ
+
+B
+
+
+
+N
+
+B
+
+
+,
+
+
+{\displaystyle {\frac {dN_{B}}{dt}}=\lambda _{A}N_{A}-\lambda _{B}N_{B},}
+
+where λA and λB are the decay constants of radionuclide A and B, related to their half-lives t1/2 by 
+
+
+
+λ
+=
+ln
+⁡
+(
+2
+)
+
+/
+
+
+t
+
+1
+
+/
+
+2
+
+
+
+
+{\displaystyle \lambda =\ln(2)/t_{1/2}}
+
+, and NA and NB are the number of atoms of A and B at a given time.
+Secular equilibrium occurs when 
+
+
+
+d
+
+N
+
+B
+
+
+
+/
+
+d
+t
+=
+0
+
+
+{\displaystyle dN_{B}/dt=0}
+
+, or
+
+
+
+
+
+N
+
+B
+
+
+=
+
+
+
+λ
+
+A
+
+
+
+λ
+
+B
+
+
+
+
+
+N
+
+A
+
+
+.
+
+
+{\displaystyle N_{B}={\frac {\lambda _{A}}{\lambda _{B}}}N_{A}.}
+
+Over long enough times, comparable to the half-life of radionuclide A, the secular equilibrium is only approximate; NA decays away according to
+
+
+
+
+
+N
+
+A
+
+
+(
+t
+)
+=
+
+N
+
+A
+
+
+(
+0
+)
+
+e
+
+−
+
+λ
+
+A
+
+
+t
+
+
+,
+
+
+{\displaystyle N_{A}(t)=N_{A}(0)e^{-\lambda _{A}t},}
+
+and the "equilibrium" quantity of radionuclide B declines in turn.  For times short compared to the half-life of A, 
+
+
+
+
+λ
+
+A
+
+
+t
+≪
+1
+
+
+{\displaystyle \lambda _{A}t\ll 1}
+
+ and the exponential can be approximated as 1.
+Bateman equation
+Transient equilibriumIUPAC definition
+"secular equilibrium", IUPAC definition (IUPAC Compendium of Chemical Terminology 2nd Edition, 1997) (in English)
+Radioactive Equilibrium, EPA definition
+Radioactive Equilibrium. An equilibrium as old as the Earth,  radioactivity.eu.com, IN2P3, EDP Science

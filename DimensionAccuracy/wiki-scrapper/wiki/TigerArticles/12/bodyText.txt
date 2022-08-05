@@ -1,0 +1,12 @@
+Cassini's laws provide a compact description of the motion of the Moon. They were established in 1693 by Giovanni Domenico Cassini, a prominent scientist of his time.
+Refinements of these laws to include physical librations have been made, and they have been generalized to treat other satellites and planets.
+The Moon has a 1:1 spin–orbit resonance. This means that the rotation–orbit ratio of the Moon is such that the same side of it always faces the Earth.
+The Moon's rotational axis maintains a constant angle of inclination from the ecliptic plane. The Moon's rotational axis precesses so as to trace out a cone that intersects the ecliptic plane as a circle.
+A plane formed from a normal to the ecliptic plane and a normal to the Moon's orbital plane will contain the Moon's rotational axis.In the case of the Moon, its rotational axis always points some 1.5 degrees away from the North ecliptic pole. The normal to the Moon's orbital plane and its rotational axis are always on opposite sides of the normal to the ecliptic.
+Therefore, both the normal to the orbital plane and the Moon's rotational axis precess around the ecliptic pole with the same period. The period is about 18.6 years and the motion is retrograde.
+A system obeying these laws is said to be in a Cassini state, that is: an evolved rotational state where the spin axis, orbit normal, and normal to the Laplace plane are coplanar while the obliquity remains constant. The Laplace plane is defined as the plane about which a planet or satellite orbit precesses with constant inclination.
+Cassini state 1 is defined as the situation in which both the spin axis and the orbit normal axis are on the same side of the normal to the Laplace plane.  Cassini state 2 is defined as the case in which the spin axis and the orbit normal axis are on opposite sides of the normal to the Laplace plane.  Earth's Moon is in Cassini state 2.
+Cassini Laws – from Eric Weisstein's World of Physics
+Eckhardt, Donald H. (1981). "Theory of the Libration of the Moon". Earth, Moon, and Planets. Springer Netherlands. 25: 3–49. Bibcode:1981M&P....25....3E. doi:10.1007/BF00911807.
+Cassini's 3 laws
+Cassini's lawsOrbit of the Moon

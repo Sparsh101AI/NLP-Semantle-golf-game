@@ -1,0 +1,107 @@
+Neutron activation is the process in which neutron radiation induces radioactivity in materials, and occurs when atomic nuclei capture free neutrons, becoming heavier and entering excited states. The excited nucleus decays immediately by emitting gamma rays, or particles such as beta particles, alpha particles, fission products, and neutrons (in nuclear fission). Thus, the process of neutron capture, even after any intermediate decay, often results in the formation of an unstable activation product. Such radioactive nuclei can exhibit half-lives ranging from small fractions of a second to many years.
+Neutron activation is the only common way that a stable material can be induced into becoming intrinsically radioactive. All naturally occurring materials, including air, water, and soil, can be induced (activated) by neutron capture into some amount of radioactivity in varying degrees, as a result of the production of neutron-rich radioisotopes. Some atoms require more than one neutron to become unstable, which makes them harder to activate because the probability of a double or triple capture by a nucleus is below that of single capture. Water, for example, is made up of hydrogen and oxygen. Hydrogen requires a double capture to attain instability as tritium (hydrogen-3), while natural oxygen (oxygen-16) requires three captures to become unstable oxygen-19. Thus water is relatively difficult to activate, as compared to sodium chloride (NaCl), in which both the sodium and chlorine atoms become unstable with a single capture each. These facts were realized first-hand at the Operation Crossroads atomic test series in 1946.
+An example of this kind of a nuclear reaction occurs in the production of cobalt-60 within a nuclear reactor:
+The cobalt-60 then decays by the emission of a beta particle plus gamma rays into nickel-60. This reaction has a half-life of about 5.27 years, and due to the availability of cobalt-59 (100% of its natural abundance),  this neutron bombarded isotope of cobalt is a valuable source of nuclear radiation (namely gamma radiation) for radiotherapy.
+27Co + 0n → 27CoIn other cases, and depending on the kinetic energy of the neutron, the capture of a neutron can cause nuclear fission—the splitting of the atomic nucleus into two smaller nuclei. If the fission requires an input of energy, that comes from the kinetic energy of the neutron. An example of this kind of fission in a light element can occur when the stable isotope of lithium, lithium-7, is bombarded with fast neutrons and undergoes the following nuclear reaction:
+3Li + 0n → 2He + 1H + 0n + gamma rays + kinetic energyIn other words, the capture of a neutron by lithium-7 causes it to split into an energetic helium nucleus (alpha particle), a hydrogen-3 (tritium) nucleus and a free neutron. The Castle Bravo accident, in which the thermonuclear bomb test at Enewetak Atoll in 1954 exploded with 2.5 times the expected yield, was caused by the unexpectedly high probability of this reaction.
+In the areas around a pressurized water reactors or boiling water reactors during normal operation, a significant amount of radiation is produced due to the fast neutron activation of coolant water oxygen via a (n,p) reaction. The activated oxygen-16 nucleus emits a proton (hydrogen nucleus), and transmutes to nitrogen-16, which has a very short life (7.13 seconds) before decaying back to oxygen-16 (emitting 6.13 MeV beta particles).
+8O + 0n → 1p + 7N (Decays rapidly)
+7N → γ + -1e + 8OThis activation of the coolant water requires extra biological shielding around the nuclear reactor plant. It is the high energy gamma ray in the second reaction that causes the major concern. This is why water that has recently been inside a nuclear reactor core must be shielded until this radiation subsides. One to two minutes is generally sufficient.
+In facilities that housed a cyclotron, the reinforced concrete foundation can become radioactive due to neutron activation. Six important long-lived radioactive isotopes (Mn, Fe, Co, Zn, Ba, and Eu) can be found within concrete nuclei affected by neutrons. The residual radioactivity is predominantly due to trace elements present, and thus the amount of radioactivity derived from cyclotron activation is minuscule, i.e., pCi/g or Bq/g. The release limit for facilities with residual radioactivity is 25 mrem/year. An example of Fe production from iron rebar activation is shown below:
+26Fe + 0n → 26FeNeutron activation is the only common way that a stable material can be induced into becoming intrinsically radioactive. Neutrons are only free in quantity in the microseconds of a nuclear weapon's explosion, in an active nuclear reactor, or in a spallation neutron source.
+In an atomic weapon neutrons are only generated for from 1 to 50 microseconds, but in huge numbers. Most are absorbed by the metallic bomb casing, which is only just starting to be affected by the explosion within it. The neutron activation of the soon-to-be vaporized metal is responsible for a significant portion of the nuclear fallout in nuclear bursts high in the atmosphere. In other types of activation,  neutrons may irradiate soil that is dispersed in a mushroom cloud at or near the Earth's surface, resulting in fallout from activation of soil chemical elements.
+In any location with high neutron fluxes, such as within the cores of nuclear reactors, neutron activation contributes to material erosion; periodically the lining materials themselves must be disposed of, as low-level radioactive waste. Some materials are more subject to neutron activation than others, so a suitably chosen low-activation material can significantly reduce this problem (see International Fusion Materials Irradiation Facility). For example, Chromium-51 will form by neutron activation in chrome steel (which contains Cr-50) that is exposed to a typical reactor neutron flux.
+Carbon-14, most frequently but not solely, generated by the neutron activation of atmospheric nitrogen-14 with a thermal neutron, is (together with its dominant natural production pathway from cosmic ray-air interactions and historical production from atmospheric nuclear testing) also generated in comparatively minute amounts inside many designs of nuclear reactors which contain nitrogen gas impurities in their fuel cladding, coolant water and by neutron activation of the oxygen contained in the water itself. Fast breeder reactors (FBR) produce about an order of magnitude less C-14 than the most common reactor type, the pressurized water reactor, as FBRs do not use water as a primary coolant.
+For physicians and radiation safety officers, activation of sodium in the human body to sodium-24, and phosphorus to phosphorus-32, can give a good immediate estimate of acute accidental neutron exposure.
+One way to demonstrate that nuclear fusion has occurred inside a fusor device is to use a Geiger counter to measure the gamma ray radioactivity that is produced from a sheet of aluminium foil.
+In the ICF fusion approach, the fusion yield of the experiment (directly proportional to neutron production) is usually determined by measuring the gamma-ray emissions of aluminium or copper neutron activation targets. Aluminium can capture a neutron and generate radioactive sodium-24, which has a half life of 15 hours and a beta decay energy of 5.514 MeV.
+The activation of a number of test target elements such as sulfur, copper, tantalum, and gold have been used to determine the yield of both pure fission and thermonuclear weapons.
+Neutron activation analysis is one of the most sensitive and precise methods of trace element analysis. It requires no sample preparation or solubilization and can therefore be applied to objects that need to be kept intact such as a valuable piece of art. Although the activation induces radioactivity in the object, its level is typically low and its lifetime may be short, so that its effects soon disappear. In this sense, neutron activation is a non-destructive analysis method.
+Neutron activation analysis can be done in situ. For example, aluminium (Al-27) can be activated by capturing relatively low-energy neutrons to produce the isotope Al-28, which decays with a half-life of 2.3 minutes with a decay energy of 4.642 MeV. This activated isotope is used in oil drilling to determine the clay content (clay is generally an alumino-silicate) of the underground area under exploration.
+Historians can use accidental neutron activation to authenticate atomic artifacts and materials subjected to neutron fluxes from fission incidents. For example, one of the fairly unique isotopes found in trinitite, and therefore with its absence likely signifying a fake sample of the mineral, is a barium neutron activation product, the barium in the Trinity device coming from the slow explosive lens employed in the device, known as Baratol.
+Neutron irradiation may be used for float-zone silicon slices (wafers) to trigger fractional transmutation of Si atoms into phosphorus (P) and therefore doping it into n-type  silicon 
+
+
+
+
+
+
+Si
+
+14
+
+
+30
+
+
+
++
+n
+e
+u
+t
+r
+o
+n
+
+→
+
+
+
+
+Si
+
+14
+
+
+31
+
+
+
++
+γ
+−
+r
+a
+y
+
+→
+
+2.62
+h
+r
+
+
+
+
+P
+
+31
+
+
+15
+
+
+
++
+β
+−
+r
+a
+y
+
+
+{\displaystyle {\ce {Si14^{30}}}+neutron\xrightarrow {} {\ce {Si14^{31}}}+\gamma -ray\xrightarrow {2.62hr} {\ce {P31^{15}}}+\beta -ray}
+
+Induced radioactivity
+Neutron activation analysis
+Phosphorus-32 produced when sulfur captures a neutron.
+Salted bomb
+Table of nuclidesNeutron Activation Analysis web
+Handbook on Nuclear Activation Cross-Sections, IAEA, 1974
+Decay Data in MIRD Format from the National Nuclear Data Center at Brookhaven National Laboratory
+Neutron capture as it relates to nucleosynthesis
+Neutron capture and the Chart of the nuclides
+The chart of the Nuclides
+Discovery of the Chromium isotopes, Chromium-55 by Cr-54 neutron capture
+ORILL : 1D transmutation, fuel depletion, and radiological protection codeUS Army (1952). Operation Ivy Final Report Joint Task Force 132 (PDF). Archived (PDF) from the original on March 11, 2014.

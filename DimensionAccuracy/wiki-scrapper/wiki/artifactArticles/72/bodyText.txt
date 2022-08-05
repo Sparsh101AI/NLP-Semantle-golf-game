@@ -1,0 +1,10 @@
+A datapath is a collection of functional units  such as arithmetic logic units or multipliers that perform data processing operations, registers, and buses. Along with the control unit it composes the central processing unit (CPU). A larger datapath can be made by joining more than one datapaths using multiplexers.
+A data path is the ALU, the set of registers, and the CPU's internal bus(es) that allow data to flow between them.
+The simplest design for a CPU uses one common internal bus.
+Efficient addition requires a slightly more complicated three-internal-bus structure.
+Many relatively simple CPUs have a 2-read, 1-write register file
+connected to the 2 inputs and 1 output of the ALU.
+During the late 1990s, there was growing research in the area of reconfigurable datapaths—datapaths that may be re-purposed at run-time using programmable fabric—as such designs may allow for more efficient processing as well as substantial power savings.
+A finite-state machine with datapath (FSMD)  is a mathematical abstraction which combines a finite-state machine, which controls the program flow, with a datapath. It can be used to design digital logic or computer programs.
+FSMDs are essentially sequential programs in which statements have been scheduled into states, thus resulting in more complex state diagrams. Here, a program is converted into a complex state diagram in which states and arcs may include arithmetic expressions, and those expressions may use external inputs and outputs as well as variables. The FSMD level of abstraction is often referred to as the register-transfer level.
+FSMs do not use variables or arithmetic operations/conditions, thus FSMDs are more powerful than FSMs. An FSMD is equivalent to a Turing machine in expressiveness.

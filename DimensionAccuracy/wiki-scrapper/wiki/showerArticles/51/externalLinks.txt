@@ -1,0 +1,12 @@
+//geohack.toolforge.org/geohack.php?pagename=La_B%C3%A2tie-Rolland&params=44.555_N_4.8658_E_type:city(1029)_region:FR-ARA
+//geohack.toolforge.org/geohack.php?pagename=La_B%C3%A2tie-Rolland&params=44.555_N_4.8658_E_type:city(1029)_region:FR-ARA
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-26031
+https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-26031
+https://en.wikipedia.org/w/index.php?title=Template:Dr%C3%B4me_communes&action=edit
+https://viaf.org/viaf/107144648452235228415
+https://www.worldcat.org/identities/containsVIAFID/107144648452235228415
+https://catalogue.bnf.fr/ark:/12148/cb15252892d
+https://data.bnf.fr/ark:/12148/cb15252892d
+https://en.wikipedia.org/w/index.php?title=La_B%C3%A2tie-Rolland&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Dr%C3%B4me-geo-stub&action=edit

@@ -1,0 +1,22 @@
+Thromboxane is a member of the family of lipids known as eicosanoids. The two major thromboxanes are thromboxane A2 and thromboxane B2. The distinguishing feature of thromboxanes is a 6-membered ether-containing ring.
+Thromboxane is named for its role in blood clot formation (thrombosis).
+Thromboxane-A synthase, an enzyme found in platelets, converts the arachidonic acid derivative prostaglandin H2 to thromboxane.
+Thromboxane acts by binding to any of the thromboxane receptors, G-protein-coupled receptors coupled to the G protein Gq.
+Thromboxane is a vasoconstrictor and a potent hypertensive agent, and it facilitates platelet aggregation.
+It is in homeostatic balance in the circulatory system with prostacyclin, a related compound.
+The mechanism of secretion of thromboxanes from platelets is still unclear.
+They act in the formation of blood clots and reduce blood flow to the site of a clot.
+If the cap of a vulnerable plaque erodes or ruptures, as in myocardial infarction, platelets stick to the damaged lining of the vessel and to each other within seconds and form a plug. These "Sticky platelets" secrete several chemicals, including thromboxane A2 that stimulate vasoconstriction, reducing blood flow at the site.
+Thromboxane A2 (TXA2), produced by activated platelets, has prothrombotic properties, stimulating activation of new platelets as well as increasing platelet aggregation.
+Platelet aggregation is achieved by mediating expression of the glycoprotein complex GP IIb/IIIa in the cell membrane of platelets. Circulating fibrinogen binds these receptors on adjacent platelets, further strengthening the clot.
+It is believed that the vasoconstriction caused by thromboxanes plays a role in Prinzmetal's angina. Omega-3 fatty acids are metabolized to produce higher levels of TxA3, which is relatively less potent than TxA2 and PGI3; therefore, there is a balance shift toward inhibition of vasoconstriction and platelet aggregation. It is believed that this shift in balance lowers the incidence of myocardial infarction (heart attack) and stroke.
+Vasoconstriction and, perhaps, various proinflammatory effects exerted by TxA on tissue microvasculature, is probable reason why the TxA is pathogenic in various diseases, such as ischemia-reperfusion injury., hepatic inflammatory processes, acute hepatotoxicity  etc. TxB2, a stable degradation product of TxA2, plays a role in acute hepatoxicity induced by acetaminophen.
+Thromboxane inhibitors are broadly classified as either those that inhibit the synthesis of thromboxane, or those that inhibit the target effect of it.
+Thromboxane synthesis inhibitors, in turn, can be classified regarding which step in the synthesis they inhibit:
+The widely used drug aspirin acts by inhibiting the ability of the COX enzyme to synthesize the precursors of thromboxane within platelets. Low-dose, long-term aspirin use irreversibly blocks the formation of thromboxane A2 in platelets, producing an inhibitory effect on platelet aggregation. This anticoagulant property makes aspirin useful for reducing the incidence of heart attacks. 40 mg of aspirin a day is able to inhibit a large proportion of maximum thromboxane A2 release provoked acutely, with the prostaglandin I2 synthesis being little affected; however, higher doses of aspirin are required to attain further inhibition.
+Thromboxane synthase inhibitors inhibit the final enzyme (thromboxane synthase) in the synthesis of thromboxane. Ifetroban is a potent and selective thromboxane receptor antagonist. Dipyridamole antagonizes this receptor too, but has various other mechanisms of antiplatelet activity as well.
+High-dose naproxen can induce near-complete suppression of platelet thromboxane throughout the dosing interval and appears not to increase cardiovascular disease (CVD) risk, whereas other high-dose NSAID (non-steroidal-anti-inflammatory) regimens have only transient effects on platelet COX-1 and have been found to be associated "with a small but definite vascular hazard".The inhibitors of the target effects of thromboxane are the thromboxane receptor antagonist, including terutroban.
+Picotamide has activity both as a thromboxane synthase inhibitor and as a thromboxane receptor antagonist.
+Ridogrel is another example.
+And there are other inhibitors
+Thromboxanes at the US National Library of Medicine Medical Subject Headings (MeSH)

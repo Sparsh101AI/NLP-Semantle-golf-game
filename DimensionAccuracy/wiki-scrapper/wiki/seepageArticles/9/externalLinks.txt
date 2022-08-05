@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Salmiya&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Salmiya%22
+//www.google.com/search?tbm=nws&q=%22Salmiya%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Salmiya%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Salmiya%22+-wikipedia
+//scholar.google.com/scholar?q=%22Salmiya%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Salmiya%22&acc=on&wc=on
+//geohack.toolforge.org/geohack.php?pagename=Salmiya&params=29_20_0_N_48_5_0_E_region:KW_type:city(223646)
+//geohack.toolforge.org/geohack.php?pagename=Salmiya&params=29_20_0_N_48_5_0_E_region:KW_type:city(223646)
+http://www.asiancricket.org/index.php/news/september-2010/1859
+https://web.archive.org/web/20100316180537/http://salmiyapark.com.kw/about_us.html
+http://salmiyapark.com.kw/about_us.html
+http://www.kuwaitiah.net/schools1.html
+https://en.wikipedia.org/w/index.php?title=Template:Hawalli_Governorate&action=edit

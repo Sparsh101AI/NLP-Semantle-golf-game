@@ -1,0 +1,12 @@
+https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Clostridium+tetani&rn=1
+https://www.uniprot.org/uniprot/Q893D9
+https://swissmodel.expasy.org/repository/uniprot/Q893D9
+https://www.ebi.ac.uk/interpro/protein/Q893D9
+https://doi.org/10.1111%2Fj.1574-6968.2000.tb08895.x
+https://doi.org/10.1111%2Fj.1574-6968.2000.tb08895.x
+//pubmed.ncbi.nlm.nih.gov/10620666
+https://doi.org/10.1016%2FB978-1-4557-0090-5.00039-2
+https://web.archive.org/web/20060719121516/http://www.listlabs.com/Literature/199.htm
+https://en.wikipedia.org/w/index.php?title=Template:Toxins&action=edit
+https://en.wikipedia.org/w/index.php?title=Tetanolysin&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Biochem-stub&action=edit

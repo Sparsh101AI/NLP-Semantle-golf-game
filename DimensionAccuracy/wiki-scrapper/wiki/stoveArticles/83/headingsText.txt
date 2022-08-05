@@ -1,0 +1,13 @@
+Intuitive justification
+Principles of the standard predicate
+Formal axioms for IST
+I: Idealisation
+Applied to the relation ≠
+Applied to the relation <
+Applied to the  relation ∈
+S: Standardisation
+T: Transfer
+Formal justification for the axioms
+Related theories
+Notes
+References

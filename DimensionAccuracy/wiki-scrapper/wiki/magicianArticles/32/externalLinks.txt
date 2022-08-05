@@ -1,0 +1,9 @@
+http://www.topoquest.com/map.asp?lat=34.81472&lon=-84.22306&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.91&lon=-83.37083&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.99083&lon=-83.41583&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.97222&lon=-83.59556&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.94917&lon=-83.8175&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.98333&lon=-83.68667&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.84694&lon=-83.81444&datum=nad27&u=4&layer=DRG&size=l&s=50
+http://www.topoquest.com/map.asp?lat=34.86442&lon=-83.84734&datum=nad27&u=4&layer=DRG&size=l&s=50
+https://en.wikipedia.org/w/index.php?title=Template:Mountains_of_Georgia_(U.S._State)&action=edit

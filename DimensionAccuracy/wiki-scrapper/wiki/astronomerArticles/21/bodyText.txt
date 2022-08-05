@@ -1,0 +1,66 @@
+The order Pinales in the division Pinophyta, class Pinopsida, comprises all the extant conifers. The distinguishing characteristic is the reproductive structure known as a cone produced by all Pinales. All of the extant conifers, such as cedar, celery-pine, cypress, fir, juniper, larch, pine, redwood, spruce, yew and Araucaria araucana ("Monkey tail tree" or "Monkey puzzle tree") are included here. Some fossil conifers, however, belong to other distinct orders within the division Pinophyta.
+Multiple molecular studies indicate this order being paraphyletic with respect to Gnetales, with studies recovering Gnetales as either a sister group to Pinaceae or being more derived than Pinaceae but sister to the rest of the group.
+Brown (1825) first discerned that there were two groups of seed plants, distinguished by the form of seed development, based on whether the ovules were exposed, receiving pollen directly, or enclosed, which do not. Shortly afterwards, Brongniart (1828) coined the term Phanérogames gymnosperms to describe the former group. The distinction was then formalized by Lindley (1830), dividing what he referred to as the subclass Dicotyledons into two tribes, Gymnosperms and Angiosperms. In the gymnosperms (or Gymnospermae) Lindley included two orders, the Cycadeae and the Coniferae. In his final work (1853) he described Gymnogens as a class with four orders;
+Cycadeaceae (cycads)
+Pinaceae (conifers)
+Taxaceae (taxads)
+GnetaceaeIn contrast, Bentham and Hooker (1880) included only three orders in the class Gymnospermeae, by including taxads within Coniferae;
+Gnetaceae
+Coniferae
+CycadaceaeIn the Engler system (1903) Gymnospermae is listed as a subdivision (Unterabteilung) and adopted more of a splitter approach, including extinct taxa, with the following six classes;
+Cycadales
+Bennettitales
+Cordaitales
+Ginkgoales
+Coniferae
+GnetalesDuring this period, Gorozhankin published his treatise on Gymnosperms (1895), for which he bears the botanical authority for Pinales, Gorozh.. In his classification, Gymnospermae (alternatively named Archespermae) was a class of the division Archegoniatae, divided into subclasses;
+Cycadoideae
+Peucideae (Coniferae)A system of two groups was maintained by the most commonly used classification in the twentieth century, the revision of the Engler system by Pilger (1926), who grouped 12 families of the Gymnospermae subdivision into 2 classes;
+Coniferales (Coniferae)
+GnetalesThe treatment of Gymnosperms as two groups, though with varying composition and names, was followed for most of the twentieth century, including the systems of Chamberlain (1935), Benson (1957) and Cronquist (1960).
+In the latter, Cronquist divided Gymnospermae into two divisions; 
+division Coniferophyta
+class Coniferae
+class Chlamydospermae (Gnetales)
+division Cycadophyta
+class CycadaeBenson,(1957) who introduced the term Pinales, divided gymnosperms into four classes;
+Conopsida (conifers, including Pinales)
+Ephedropsida
+Gnetopsida
+CycadopsidaIn a later revision, in collaboration with two other taxonomists (1966), Cronquist merged all the gymnosperms into a single division, Pinophyta, with three subdivisions reflecting the main lineages;
+Cycadicae
+Pinicae
+GneticaeIn the era of molecular phylogenetics, De-Zhi and colleagues (2004) once again proposed a division of 12 gymnosperm families into two classes;
+Cycadopsida
+order Cycadales
+Coniferopsida
+subclass Multinervidae (6 orders)
+subclass Taxidae
+order Taxales
+order PinalesWith the development of the Angiosperm Phylogeny Group came a major realignment of the linear classification of the land plants, by Chase and Reveal (2009). In this system, the land plants form a class, Equisetopsida s.l. (sensu lato) or sensu Chase & Reveal, also known as embryophytes or Embryophyceae nom. illeg..  Class Equisetopsida s.l. is divided into 14 subclades as subclasses, including Magnoliidae (angiosperms). The gymnosperms are represented by four of these subclasses, placing them in a sister group relationship to angiosperms. Subclasses (number of orders);
+subclass Cycadidae Pax (1)
+subclass Ginkgooidae Engl. (1)
+subclass Gnetidae Pax (3)
+subclass Pinidae Cronquist, Takht. & Zimmerm. (conifers) (1)Gymnosperm (Acrogymnospermae) taxonomy has been considered controversial, and lacks consensus. As taxonomic classification transformed from being based solely on plant morphology to molecular phylogenetics, the number of taxonomic publications increased considerably after 2008, however, these approaches have not been uniform. A taxonomic classification has been complicated by the relationship of extant to extinct taxa, and within extinct taxa, and particularly the placement of Gnetophyta. The latter have been variously classified as basal to all gymnosperms, sister group to conifers (‘gnetifer’ hypothesis) or sister to Pinaceae (‘gnepine’ hypothesis) in which they are classified within the conifers.  While the extant gymnosperms form a monophyletic group, a formal name has not been assigned to this clade. In 2018, the Gymnosperm Phylogeny Group was established, analogous to the Angiosperm Phylogeny Group and Pteridophyte Phylogeny Group, with the intention of reaching a consensus.
+Gymnosperms form a group of four subclasses among the spermatophytes (seed bearing plants). In turn, the seed plants together with the monilophyte fern subclasses make up the tracheophytes (vascular plants), part of the class Equisetopsida (embryophytes or land plants), as opposed to the green algae. Among the seed plants, the gymnosperms are a sister group to the subclass Magnoliidae (angiosperms or flowering plants).
+There are about 1000 extant gymnosperm species, distributed over about 12 families and 83 genera. Many of these genera are monotypic (41%), and another 27% are oligotypic (2–5 species). The four subclasses have also been treated as divisions of the Spermatophytes. Alternative names and the approximate number of genera and species in each are;
+Cycadidae (Cycadophyta, cycads 10, 300)
+Ginkgooidae (Ginkgophyta, gingko 1, 1)
+Gnetidae (Gnetophyta 3, 100)
+Pinidae (Pinophyta, conifers 70, 600)The term Pinophyta has also been used to include all conifers, extinct and extant, with Pinales representing all the extant conifers.
+Christenhusz and colleagues extended the system of Chase and Reveal to provide a revised classification of gymnosperms in 2011, based on the above four subclades. In this scheme, the Pinidae comprise three orders, including Pinales, and 6 families;
+Pinales Gorozh. (Pinaceae)
+Araucariales Gorozh. (Araucariaceae, Podocarpaceae)
+Cupressales Link (Sciadopityaceae, Cupressaceae, Taxaceae)However, the exact phylogeny remained a topic that was 'hotly debated", in particular whether the main lineages were best represented by the four subclasses of Christenhusz and colleagues or the more traditional five clades (cycads, ginkgos, cupressophytes, Pinaceae and gnetophytes). In 2014 the first complete molecular phylogeny was published, based on 90 species representing all extant genera. This established cycads as the basal group, followed by Ginkgoaceae, as sister to the remaining gymnosperms, and supporting the ‘gnepine’ hypothesis. This analysis favours the five clade hypothesis, the remaining clade following divergence of the Pinidae, are referred to as the conifer II clade, or cupressophytes, in distinction from the conifer I clade (Gnetidae, Pinidae). This clade, in turn, has two lineages. The first consisting of Sciadopityaceae and the Araucariales, the second being the Cupressales. In the Christenhusz scheme, the Sciadopityaceae were considered to be within Cupressales. The term Cupressaceae s.l. refers to the inclusion of Taxodiaceae. These relationships are shown in this cladogram, although no formal taxonomic revision was undertaken.
+A more comprehensive analysis was undertaken by Ran and colleagues in 2018, as part of a detailed phylogeny of all seed plants. This forms the basis of the Tracheophyte Phylogeny Poster and the Angiosperm Phylogeny Website.
+Historically conifers, in the order Pinales have been considered to consist of six to seven extant families, based on the classification of class Coniferae by Pilger (1926), considered the standard through most of the twentieth century. These families were treated as a single order, in distinction to some earlier systems. His families were;
+Araucariaceae
+Cupressaceae (cypresses, juniper, redwood)
+Pinaceae (firs, pines, cedars, larch, spruce)
+Podocarpaceae
+Taxaceae (yews)
+Cephalotaxaceae
+TaxodiaceaeSubsequent revisions merged the Taxodiaceae  and Cupressaceae, and placed Sciadopitys, formerly in Cupressaceae, into a separate family (Sciadopityaceae). Cephalotaxaceae had previously been recognized as a separate family, but was subsequently included in Taxaceae. Similarly Phyllocladaceae were included in Podocarpaceae. Yews (Taxaceae) have sometimes been treated as a separate order (Taxales).
+Christenhusz and colleagues (2011) included only one family in Pinales, Pinaceae, a practice subsequently followed by the Angiosperm Phylogeny Website and the Gymnosperm Database. In this restricted model Pinales (Pinaceae) comprisea 11 genera and about 225 species, all of the other conifers originally included in this order, being included in other orders such as Cupressales.
+ Media related to Pinales at Wikimedia Commons
+ Data related to Pinales at Wikispecies

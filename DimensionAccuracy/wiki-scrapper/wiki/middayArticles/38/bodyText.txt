@@ -1,0 +1,36 @@
+Requirements engineering (RE) is the process of defining, documenting, and maintaining requirements in the engineering design process. It is a common role in systems engineering and software engineering.
+The first use of the term requirements engineering was probably in 1964 in the conference paper "Maintenance, Maintainability, and System Requirements Engineering", but it did not come into general use until the late 1990s with the publication of an IEEE Computer Society tutorial in March 1997 and the establishment of a conference series on requirements engineering that has evolved into the International Requirements Engineering Conference.
+In the waterfall model, requirements engineering is presented as the first phase of the development process. Later development methods, including the Rational Unified Process (RUP) for software, assume that requirements engineering continues through a system's lifetime.
+Requirement management, which is a sub-function of Systems Engineering practices, is also indexed in the International Council on Systems Engineering (INCOSE) manuals.
+The activities involved in requirements engineering vary widely, depending on the type of system being developed and the organization's specific practice(s) involved. These may include:
+Requirements inception or requirements elicitation – Developers and stakeholders meet; the latter are inquired concerning their needs and wants regarding the software product.
+Requirements analysis and negotiation – Requirements are identified (including new ones if the development is iterative), and conflicts with stakeholders are solved. Both written and graphical tools (the latter commonly used in the design phase, but some find them helpful at this stage, too) are successfully used as aids. Examples of written analysis tools: use cases and user stories. Examples of graphical tools: UML and LML.
+System modeling – Some engineering fields (or specific situations) require the product to be completely designed and modeled before its construction or fabrication starts.  Therefore, the design phase must be performed in advance. For instance, blueprints for a building must be elaborated before any contract can be approved and signed. Many fields might derive models of the system with the Lifecycle Modeling Language, whereas others, might use UML. Note: In many fields, such as software engineering, most modeling activities are classified as design activities and not as requirement engineering activities.
+Requirements specification – Requirements are documented in a formal artifact called a Requirements Specification (RS), which will become official only after validation. A RS can contain both written and graphical (models) information if necessary. Example: Software requirements specification (SRS).
+Requirements validation – Checking that the documented requirements and models are consistent and meet the stakeholder's needs. Only if the final draft passes the validation process, the RS becomes official.
+Requirements management – Managing all the activities related to the requirements since inception, supervising as the system is developed, and even until after it is put into use (e. g., changes, extensions, etc.)These are sometimes presented as chronological stages although, in practice, there is considerable interleaving of these activities.
+Requirements engineering has been shown to clearly contribute to software project successes.
+One limited study in Germany presented possible problems in implementing requirements engineering and asked respondents whether they agreed that they were actual problems. The results were not presented as being generalizable but suggested that the principal perceived problems were incomplete requirements, moving targets, and time boxing, with lesser problems being communications flaws, lack of traceability, terminological problems, and unclear responsibilities.
+Problem structuring, a key aspect of requirements engineering, has been speculated to reduce design performance. Some research suggests that it is possible if there are deficiencies in the requirements engineering process resulting in a situation where requirements do not exist, software requirements may be created regardless as an illusion misrepresenting design decisions as requirements 
+List of requirements engineering tools
+Requirements analysis, requirements engineering focused in software engineering.
+Requirements Engineering Specialist Group (RESG)
+International Requirements Engineering Board (IREB)
+International Council on Systems Engineering (INCOSE)
+IEEE 12207 "Systems and software engineering – Software life cycle processes"
+TOGAF (Chapter 17)
+Concept of operations (ConOps)
+Operations management
+Software requirements
+Software requirements specification
+Software Engineering Body of Knowledge (SWEBOK)
+Design specification
+Specification (technical standard)
+Formal specification
+Software Quality
+Quality Management
+Scope Management29148-2011 - Systems and software engineering — Life cycle processes — Requirements engineering. Iso/Iec/IEEE 29148:2011(E). 2011. pp. 1–94. doi:10.1109/IEEESTD.2011.6146379. ISBN 978-0-7381-6591-2.("This standard replaces IEEE 830–1998, IEEE 1233–1998, IEEE 1362-1998 - http://standards.ieee.org/findstds/standard/29148-2011.html")
+Systems Engineering Body of Knowledge
+Requirements Engineering Management Handbook by FAA
+International Requirements Engineering Board (IREB)
+IBM Rational Resource Library by IEEE Spectrum

@@ -1,0 +1,4 @@
+CSP-2503 is a potent and selective 5-HT1A receptor agonist, 5-HT2A receptor antagonist, and 5-HT3 receptor antagonist of the phenylpiperazine class. First synthesized in 2003, it was designed based on computational models and QSAR studies. In rat studies, CSP-2503 has demonstrated anxiolytic effects, and thus has been suggested as a treatment for anxiety in humans with a multimodal mechanism of action.
+Naphthylpiperazine
+S-14,671
+S-14,506

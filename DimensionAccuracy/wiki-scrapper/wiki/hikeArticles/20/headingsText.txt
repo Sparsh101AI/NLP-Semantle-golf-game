@@ -1,0 +1,10 @@
+Usage
+Anomalies
+Areas located outside UTC+02:00 longitudes using Eastern European Time (UTC+02:00) time
+Areas west of 22°30' E ("physical" UTC+01:00) that use UTC+02:00
+Areas located within UTC+02:00 longitudes (22°30' E – 37°30' E) using other time zones
+Areas that use UTC+01:00
+Areas that use UTC+03:00
+Tripoints and borders between zones
+Major metropolitan areas
+References

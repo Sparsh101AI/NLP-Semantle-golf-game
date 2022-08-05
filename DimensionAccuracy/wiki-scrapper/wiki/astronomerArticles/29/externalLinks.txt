@@ -1,0 +1,12 @@
+https://en.wikipedia.org/w/index.php?title=Elastic_scattering&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Elastic+scattering%22
+//www.google.com/search?tbm=nws&q=%22Elastic+scattering%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Elastic+scattering%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Elastic+scattering%22+-wikipedia
+//scholar.google.com/scholar?q=%22Elastic+scattering%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Elastic+scattering%22&acc=on&wc=on
+https://catalogue.bnf.fr/ark:/12148/cb122623261
+https://data.bnf.fr/ark:/12148/cb122623261
+https://d-nb.info/gnd/4318580-0
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007536982105171
+https://id.loc.gov/authorities/subjects/sh89000314

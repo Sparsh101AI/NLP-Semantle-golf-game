@@ -1,0 +1,14 @@
+History
+Theoretical basis of FLOTOX structure
+Today's EEPROM structure
+Security protections
+Electrical interface
+Serial bus devices
+Parallel bus devices
+Other devices
+Failure modes
+Related types
+Comparison with EPROM and EEPROM/flash
+See also
+References
+External links

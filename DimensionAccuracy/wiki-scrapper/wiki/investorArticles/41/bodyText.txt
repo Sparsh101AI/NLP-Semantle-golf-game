@@ -1,0 +1,107 @@
+Valproate (VPA) and its valproic acid, sodium valproate, and valproate semisodium forms are medications primarily used to treat epilepsy and bipolar disorder and prevent migraine headaches. They are useful for the prevention of seizures in those with absence seizures, partial seizures, and generalized seizures. They can be given intravenously or by mouth, and the tablet forms exist in both long- and short-acting formulations.
+Common side effects of valproate include nausea, vomiting, sleepiness, and dry mouth. Serious side effects can include liver failure, and regular monitoring of liver function tests is therefore recommended. Other serious risks include pancreatitis and an increased suicide risk. Valproate is known to cause serious abnormalities in babies if taken during pregnancy, and is contra-indicated for women of childbearing age unless the drug is essential to their medical condition. As of 2022 the drug was still prescribed in the UK to potentially pregnant women, but use declined by 51% from 2018–19 to 2020–21.
+Valproate's precise mechanism of action is unclear. Proposed mechanisms include affecting GABA levels, blocking voltage-gated sodium channels, and inhibiting histone deacetylases. Valproic acid is a branched short-chain fatty acid (SCFA) made from valeric acid.
+Valproate was first made in 1881 and came into medical use in 1962. It is on the World Health Organization's List of Essential Medicines and is available as a generic medication. In 2019, it was the 114th most commonly prescribed medication in the United States, with more than 5 million prescriptions.
+Valproic acid (VPA) is an organic weak acid. The conjugate base is valproate. The sodium salt of the acid is sodium valproate and a coordination complex of the two is known as valproate semisodium.
+It is used primarily to treat epilepsy and bipolar disorder. It is also used to prevent migraine headaches.
+Valproate has a broad spectrum of anticonvulsant activity, although it is primarily used as a first-line treatment for tonic–clonic seizures, absence seizures and myoclonic seizures and as a second-line treatment for partial seizures and infantile spasms. It has also been successfully given intravenously to treat status epilepticus.
+Valproate products are also used to treat manic or mixed episodes of bipolar disorder.
+A 2016 systematic review compared the efficacy of valproate as an add-on for people with schizophrenia:
+Based upon five case reports, valproic acid may have efficacy in controlling the symptoms of the dopamine dysregulation syndrome that arise from the treatment of Parkinson's disease with levodopa.
+Valproate is also used to prevent migraine headaches. Because this medication can be potentially harmful to the fetus, valproate should be considered for those able to become pregnant only after the risks have been discussed.
+The medication has been tested in the treatment of AIDS and cancer, owing to its histone-deacetylase-inhibiting effects.
+Contraindications include:
+Pre-existing acute or chronic liver dysfunction or family history of severe liver inflammation (hepatitis), particularly medicine related.
+Known hypersensitivity to valproate or any of the ingredients used in the preparation
+Urea cycle disorders
+Hepatic porphyria
+Hepatotoxicity
+Mitochondrial disease
+Pancreatitis
+PorphyriaValproic acid has a black box warning for hepatotoxicity, pancreatitis, and fetal abnormalities.
+It is worthy of mentioning that some adverse effects related to valproic acid may be dose-dependent such as pancytopenia.
+There is evidence that valproic acid may cause premature growth plate ossification in children and adolescents, resulting in decreased height. Valproic acid can also cause mydriasis, a dilation of the pupils. There is evidence that shows valproic acid may increase the chance of polycystic ovary syndrome (PCOS) in women with epilepsy or bipolar disorder. Studies have shown this risk of PCOS is higher in women with epilepsy compared to those with bipolar disorder. Weight gain is also possible.
+Valproate causes birth defects; exposure during pregnancy is associated with about three times as many major abnormalities as usual, mainly spina bifida with the risks being related to the strength of medication used and use of more than one drug. More rarely, with several other defects, including a "valproate syndrome". Characteristics of this valproate syndrome include facial features that tend to evolve with age, including a triangle-shaped forehead, tall forehead with bifrontal narrowing, epicanthic folds, medial deficiency of eyebrows, flat nasal bridge, broad nasal root, anteverted nares, shallow philtrum, long upper lip and thin vermillion borders, thick lower lip and small downturned mouth. While developmental delay is usually associated with altered physical characteristics (dysmorphic features), this is not always the case.
+Children of mothers taking valproate during pregnancy are at risk for lower IQs. Maternal valproate use during pregnancy increased the probability of autism in the offspring compared to mothers not taking valproate from 1.5% to 4.4%. A 2005 study found rates of autism among children exposed to sodium valproate before birth in the cohort studied were 8.9%. The normal incidence for autism in the general population is estimated at 1 in 44 (2.3%). A 2009 study found that the 3-year-old children of pregnant women taking valproate had an IQ nine points lower than that of a well-matched control group. However, further research in older children and adults is needed.
+Sodium valproate has been associated with paroxysmal tonic upgaze of childhood, also known as Ouvrier–Billson syndrome, from childhood or fetal exposure. This condition resolved after discontinuing valproate therapy.
+Women who intend to become pregnant should switch to a different medication if possible or decrease their dose of valproate. Women who become pregnant while taking valproate should be warned that it causes birth defects and cognitive impairment in the newborn, especially at high doses (although valproate is sometimes the only drug that can control seizures, and seizures in pregnancy could have worse outcomes for the fetus than exposure to valproate). Studies have shown that taking folic acid supplements can reduce the risk of congenital neural tube defects. The use of valproate for migraine or bipolar disorder during pregnancy is contraindicated in the European Union, and the medicines are not recommended for epilepsy during pregnancy unless there is no other effective treatment available.
+Valproate in elderly people with dementia caused increased sleepiness. More people stopped the medication for this reason. Additional side effects of weight loss and decreased food intake were also associated with one-half of people who become sleepy.
+Excessive amounts of valproic acid can result in sleepiness, tremor, stupor, respiratory depression, coma, metabolic acidosis, and death. In general, serum or plasma valproic acid concentrations are in a range of 20–100 mg/l during controlled therapy, but may reach 150–1500 mg/l following acute poisoning. Monitoring of the serum level is often accomplished using commercial immunoassay techniques, although some laboratories employ gas or liquid chromatography.
+In contrast to other antiepileptic drugs, at present there is little favorable evidence for salivary therapeutic drug monitoring. Salivary levels of valproic acid correlate poorly with serum levels, partly due to valproate's weak acid property (pKa of 4.9).
+In severe intoxication, hemoperfusion or hemofiltration can be an effective means of hastening elimination of the drug from the body. Supportive therapy should be given to all patients experiencing an overdose and urine output should be monitored. Supplemental L-carnitine is indicated in patients having an acute overdose and also prophylactically in high risk patients. Acetyl-L-carnitine lowers hyperammonemia less markedly than L-carnitine. 
+Valproate inhibits CYP2C9, glucuronyl transferase, and epoxide hydrolase and is highly protein bound and hence may interact with drugs that are substrates for any of these enzymes or are highly protein bound themselves. It may also potentiate the CNS depressant effects of alcohol. It should not be given in conjunction with other antiepileptics due to the potential for reduced clearance of other antiepileptics (including carbamazepine, lamotrigine, phenytoin and phenobarbitone) and itself. It may also interact with:
+Aspirin: may increase valproate concentrations. May also interfere with valproate's metabolism.
+Benzodiazepines: may cause CNS depression and there are possible pharmacokinetic interactions.
+Carbapenem antibiotics: reduce valproate levels, potentially leading to seizures.
+Cimetidine: inhibits valproate's metabolism in the liver, leading to increased valproate concentrations.
+Erythromycin: inhibits valproate's metabolism in the liver, leading to increased valproate concentrations.
+Ethosuximide: valproate may increase ethosuximide concentrations and lead to toxicity.
+Felbamate: may increase plasma concentrations of valproate.
+Mefloquine: may increase valproate metabolism combined with the direct epileptogenic effects of mefloquine.
+Oral contraceptives: may reduce plasma concentrations of valproate.
+Primidone: may accelerate metabolism of valproate, leading to a decline of serum levels and potential breakthrough seizure.
+Rifampicin: increases the clearance of valproate, leading to decreased valproate concentrations
+Warfarin: valproate may increase free warfarin concentration and prolong bleeding time.
+Zidovudine: valproate may increase zidovudine serum concentration and lead to toxicity.Although the mechanism of action of valproate is not fully understood, traditionally, its anticonvulsant effect has been attributed to the blockade of voltage-gated sodium channels and increased brain levels of gamma-aminobutyric acid (GABA). The GABAergic effect is also believed to contribute towards the anti-manic properties of valproate. In animals, sodium valproate raises cerebral and cerebellar levels of the inhibitory synaptic neurotransmitter, GABA, possibly by inhibiting GABA degradative enzymes, such as GABA transaminase, succinate-semialdehyde dehydrogenase and by inhibiting the re-uptake of GABA by neuronal cells.
+Prevention of neurotransmitter-induced hyperexcitability of nerve cells, via Kv7.2 channel and AKAP5, may also contribute to its mechanism. Also, it has been shown to protect against a seizure-induced reduction in phosphatidylinositol (3,4,5)-trisphosphate (PIP3) as a potential therapeutic mechanism.
+It also has histone-deacetylase-inhibiting effects. The inhibition of histone deacetylase, by promoting more transcriptionally active chromatin structures, likely presents the epigenetic mechanism for regulation of many of the neuroprotective effects attributed to valproic acid. Intermediate molecules mediating these effects include VEGF, BDNF, and GDNF.
+Valproic acid has been found to be an antagonist of the androgen and progesterone receptors, and hence as a nonsteroidal antiandrogen and antiprogestogen, at concentrations much lower than therapeutic serum levels. In addition, the drug has been identified as a potent aromatase inhibitor, and suppresses estrogen concentrations. These actions are likely to be involved in the reproductive endocrine disturbances seen with valproic acid treatment.
+Valproic acid has been found to directly stimulate androgen biosynthesis in the gonads via inhibition of histone deacetylases and has been associated with hyperandrogenism in women and increased 4-androstenedione levels in men. High rates of polycystic ovary syndrome and menstrual disorders have also been observed in women treated with valproic acid.
+Taken by mouth, valproate is rapidly and virtually completely absorbed from the gut. When in the bloodstream, 80–90% of the substance are bound to plasma proteins, mainly albumin. Protein binding is saturable: it decreases with increasing valproate concentration, low albumin concentrations, the patient's age, additional use of other drugs such as aspirin, as well as liver and kidney impairment. Concentrations in the cerebrospinal fluid and in breast milk are 1 to 10% of blood plasma concentrations.
+The vast majority of valproate metabolism occurs in the liver. Valproate is known to be metabolized by the cytochrome P450 enzymes CYP2A6, CYP2B6, CYP2C9, and CYP3A5. It is also known to be metabolized by the UDP-glucuronosyltransferase enzymes UGT1A3, UGT1A4, UGT1A6, UGT1A8, UGT1A9, UGT1A10, UGT2B7, and UGT2B15.  Some of the known metabolites of valproate by these enzymes and uncharacterized enzymes include (see image):
+via glucuronidation (30–50%): valproic acid β-O-glucuronide
+via beta oxidation (>40%): 2E-ene-valproic acid, 2Z-ene-valproic acid, 3-hydroxyvalproic acid, 3-oxovalproic acid
+via omega oxidation: 5-hydroxyvalproic acid, 2-propyl-glutaric acid
+some others: 3E-ene-valproic acid, 3Z-ene-valproic acid, 4-ene-valproic acid, 4-hydroxyvalproic acidAll in all, over 20 metabolites are known.
+In adult patients taking valproate alone, 30–50% of an administered dose is excreted in urine as the glucuronide conjugate.  The other major pathway in the metabolism of valproate is mitochondrial beta oxidation, which typically accounts for over 40% of an administered dose. Typically, less than 20% of an administered dose is eliminated by other oxidative mechanisms. Less than 3% of an administered dose of valproate is excreted unchanged (i.e., as valproate) in urine. Only a small amount is excreted via the faeces. Elimination half-life is 16±3 hours and can decrease to 4–9 hours when combined with enzyme inducers.
+Valproic acid is a branched short-chain fatty acid and the 2-n-propyl derivative of valeric acid.
+Valproic acid was first synthesized in 1882 by Beverly S. Burton as an analogue of valeric acid, found naturally in valerian. Valproic acid is a carboxylic acid, a clear liquid at room temperature. For many decades, its only use was in laboratories as a "metabolically inert" solvent for organic compounds. In 1962, the French researcher Pierre Eymard serendipitously discovered the anticonvulsant properties of valproic acid while using it as a vehicle for a number of other compounds that were being screened for antiseizure activity. He found it prevented pentylenetetrazol-induced convulsions in laboratory rats. It was approved as an antiepileptic drug in 1967 in France and has become the most widely prescribed antiepileptic drug worldwide. Valproic acid has also been used for migraine prophylaxis and bipolar disorder.
+Valproate is available as a generic medication.
+In 2012, pharmaceutical company Abbott paid $1.6 billion in fines to US federal and state governments for illegal promotion of off-label uses for Depakote, including the sedation of elderly nursing home residents.
+Some studies have suggested that valproate may reopen the critical period for learning absolute pitch and possibly other skills such as language.
+Valproate exists in two main molecular variants: sodium valproate and valproic acid without sodium (often implied by simply valproate). A mixture between these two is termed semisodium valproate. It is unclear whether there is any difference in efficacy between these variants, except from the fact that about 10% more mass of sodium valproate is needed than valproic acid without sodium to compensate for the sodium itself.
+Branded products include:
+Tablets – Diplexil-R by Bial.Intravenous injection – Depacon by Abbott Laboratories.
+Syrup – Depakene by Abbott Laboratories. (Note Depakene capsules are valproic acid).
+Depakote tablets are a mixture of sodium valproate and valproic acid.
+Tablets – Eliaxim by Bial.Epilim Crushable Tablets Sanofi
+Epilim Sugar Free Liquid Sanofi
+Epilim Syrup Sanofi
+Epilim Tablets Sanofi
+Sodium Valproate Sandoz Tablets Sanofi
+Valpro Tablets Alphapharm
+Valproate Winthrop Tablets Sanofi
+Valprease tablets SigmaEpilim by Sanofi-AventisAll the above formulations are Pharmac-subsidised.
+Depakote Tablets (as in USA)
+Tablets – Orlept by Wockhardt and Epilim by Sanofi
+Oral solution – Orlept Sugar Free by Wockhardt and Epilim by Sanofi
+Syrup – Epilim by Sanofi-Aventis
+Intravenous injection – Epilim Intravenous by Sanofi
+Extended release tablets – Epilim Chrono by Sanofi is a combination of sodium valproate and valproic acid in a 2.3:1 ratio.
+Enteric-coated tablets – Epilim EC200 by Sanofi is a 200-mg sodium valproate enteric-coated tablet.Capsules – Episenta prolonged release by Beacon
+Sachets – Episenta prolonged release by Beacon
+Intravenous solution for injection – Episenta solution for injection by BeaconTablets – Orfiril by Desitin Pharmaceuticals
+Intravenous injection – Orfiril IV by Desitin PharmaceuticalsSyrup – Convulex by Byk Madaus
+Tablets – Epilim by Sanofi-synthelaboTablets – Epilim by Sanofi-AventisCompanies are SANOFI-AVENTIS FRANCE, GEROT PHARMAZEUTIKA GMBH and DESITIN ARZNEIMITTEL GMBH
+Types are Syrup, Extended release mini tablets, Gastric resistant coated tablets, Gastric resistant soft capsules, Extended release capsules, Extended release tablets and Extended release coated tabletsIntravenous injection – Epival or Epiject by Abbott Laboratories.
+Syrup – Depakene by Abbott Laboratories its generic formulations include Apo-Valproic and ratio-Valproic.Tablets – Depakene by Kyowa Hakko Kirin
+Extended release tablets – Depakene-R by Kyowa Hakko Kogyo and Selenica-R by Kowa
+Syrup – Depakene by Kyowa Hakko KogyoIn much of Europe, Dépakine and Depakine Chrono (tablets) are equivalent to Epilim and Epilim Chrono above.
+Tablets (white round tablet) – Depakine (Chinese: 帝拔癲; pinyin: di-ba-dian) by Sanofi Winthrop Industrie (France)Tablets – Epival 200 (enteric coated tablet) and Epival 500 (extended release tablet) by Iran Najo
+Slow release tablets – Depakine Chrono by Sanofi Winthrop Industrie (France)Depalept and Depalept Chrono (extended release tablets) are equivalent to Epilim and Epilim Chrono above. Manufactured and distributed by Sanofi-Aventis.
+Valparin Chrono by Sanofi India
+Valprol CR by Intas Pharmaceutical (India)
+Encorate Chrono by Sun Pharmaceutical (India)
+Serven Chrono by Leeven APL Biotech (India)Brazil – Depakote by Abbott Laboratories and Torval CR by Torrent do Brasil
+Canada – Epival by Abbott Laboratories
+Mexico – Epival and Epival ER (extended release) by Abbott Laboratories
+United Kingdom – Depakote (for psychiatric conditions) and Epilim (for epilepsy) by Sanofi-Aventis and generics
+United States – Depakote and Depakote ER (extended release) by Abbott Laboratories and generics
+India – Valance and Valance OD by Abbott Healthcare Pvt Ltd, Divalid ER by Linux laboratories Pvt Ltd, Valex ER by Sigmund Promedica, Dicorate by Sun Pharma
+Germany – Ergenyl Chrono by Sanofi-Aventis and generics
+Chile – Valcote and Valcote ER by Abbott Laboratories
+France and other European countries — Depakote
+Peru – Divalprax by AC Farma Laboratories
+China – Diprate OD"Valproic acid". Drug Information Portal. U.S. National Library of Medicine.
+"Valproate sodium". Drug Information Portal. U.S. National Library of Medicine.
+"Divalproex sodium". Drug Information Portal. U.S. National Library of Medicine.

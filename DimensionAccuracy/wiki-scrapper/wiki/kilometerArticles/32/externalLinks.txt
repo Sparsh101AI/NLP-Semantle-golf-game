@@ -1,0 +1,4 @@
+https://www.iec.ch/dyn/www/f?p=103:14:1898769502514::::FSP_ORG_ID:27463
+http://www.iec.ch/dyn/www/f?p=103:20:5560942192253::::FSP_ORG_ID,FSP_LANG_ID:1255,25
+https://www.iec.ch/dyn/www/f?p=103:38:7109686557420::::FSP_ORG_ID,FSP_APEX_PAGE,FSP_PROJECT_ID:1255,23,104915
+https://en.wikipedia.org/w/index.php?title=Template:List_of_International_Electrotechnical_Commission_standards&action=edit

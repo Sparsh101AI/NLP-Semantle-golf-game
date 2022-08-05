@@ -1,0 +1,16 @@
+https://en.wikipedia.org/w/index.php?title=Church_of_St._Mary_the_Virgin,_Budapest&action=edit
+https://en.wikipedia.org/w/index.php?title=Church_of_St._Mary_the_Virgin,_Budapest&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22
+//www.google.com/search?tbm=nws&q=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22+-wikipedia
+//scholar.google.com/scholar?q=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Church+of+St.+Mary+the+Virgin%2C+Budapest%22&acc=on&wc=on
+//geohack.toolforge.org/geohack.php?pagename=Church_of_St._Mary_the_Virgin,_Budapest&params=47.490953_N_19.058086_E_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Church_of_St._Mary_the_Virgin,_Budapest&params=47.490953_N_19.058086_E_type:landmark
+https://web.archive.org/web/20200920214612/https://www.esztergomi-ersekseg.hu/plebaniak/egyetemi-kisboldogasszony-templomigazgatosag#tortenet
+https://www.esztergomi-ersekseg.hu/plebaniak/egyetemi-kisboldogasszony-templomigazgatosag/#tortenet
+https://en.wikipedia.org/w/index.php?title=Template:Budapest&action=edit
+https://viaf.org/viaf/255677887
+https://www.worldcat.org/identities/containsVIAFID/255677887
+https://d-nb.info/gnd/1022834533

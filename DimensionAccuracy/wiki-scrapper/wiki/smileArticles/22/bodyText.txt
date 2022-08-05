@@ -1,0 +1,498 @@
+The median income is the income amount that divides a population into two equal groups, half having an income above that amount, and half having an income below that amount. It may differ from the mean (or average) income. The income that occurs most frequently is the income mode. Each of these is a way of understanding income distribution.
+Median income can be calculated by household income, by personal income, or for specific demographic groups.
+The following table represents data from OECD's "median disposable income per person" metric, which includes all forms of income as well as taxes and transfers in kind from governments for benefits such as healthcare and education and is equivalised by dividing by the square root of household size. This metric, in addition to using a median rather than a mean, uses "data calculated according to the new OECD terms of reference"; compared to previous terms of reference, these "include a more detailed breakdown of current transfers received and paid by households as well as a revised definition of household income, including the value of goods produced for own consumption as an element of self-employed income." As OECD displays median disposable incomes in each country's respective currency, the values were converted here using the World Bank's PPP conversion factors, accounting for each country's cost of living in the year that the disposable median income was recorded. Unless noted otherwise, all data refers to 2019.
+Data are in United States dollars at current prices and current purchasing power parity for private consumption for the reference year.
+
+
+
+
+
+
+Rank
+
+Country
+
+Median income (US$, PPP)
+
+Year
+
+
+1
+ Luxembourg
+43,768
+2019
+
+
+2
+ United States
+42,800
+2019
+
+
+3
+ Norway
+40,649
+2019
+
+
+4
+  Switzerland
+38,475
+2018
+
+
+5
+ Canada
+36,656
+2019
+
+
+6
+ Austria
+35,055
+2019
+
+
+7
+ Iceland
+34,316
+2017
+
+
+8
+ Belgium
+33,575
+2019
+
+
+9
+ Australia
+33,391
+2018
+
+
+10
+ Netherlands
+32,867
+2019
+
+
+11
+ Denmark
+32,510
+2018
+
+
+12
+ Sweden
+31,876
+2019
+
+
+13
+ Germany
+31,341
+2018
+
+
+14
+ Finland
+29,080
+2018
+
+
+15
+ Ireland
+28,901
+2018
+
+
+16
+ France
+28,571
+2019
+
+
+17
+ South Korea
+28,145
+2018
+
+
+18
+ Slovenia
+25,937
+2019
+
+
+19
+ United Kingdom
+25,738
+2019
+
+
+20
+ Spain
+25,542
+2019
+
+
+21
+ Italy
+25,319
+2018
+
+
+22
+ New Zealand
+25,193
+2014
+
+
+23
+ Israel
+22,519
+2018
+
+
+24
+ Estonia
+22,036
+2019
+
+
+25
+ Czech Republic
+21,834
+2019
+
+
+26
+ Japan
+21,728
+2018
+
+
+27
+ Poland
+19,110
+2018
+
+
+28
+ Portugal
+19,057
+2019
+
+
+29
+ Lithuania
+19,021
+2019
+
+
+30
+ Latvia
+17,662
+2019
+
+
+31
+ Slovak Republic
+16,432
+2019
+
+
+32
+ Russia
+16,163
+2017
+
+
+33
+ Greece
+15,681
+2019
+
+
+34
+ Hungary
+14,759
+2019
+
+
+35
+ Bulgaria
+13,341
+2019
+
+
+36
+ Romania
+11,945
+2019
+
+
+37
+ Turkey
+11,128
+2018
+
+
+38
+ Chile
+10,058
+2017
+
+
+39
+ Costa Rica
+8,062
+2020
+
+
+40
+ Brazil
+6,942
+2016
+
+
+41
+ Mexico
+6,354
+2018
+
+
+42
+ South Africa
+5,489
+2017
+
+
+43
+ China
+4,484
+2011
+
+
+44
+ India
+2,473
+2011
+
+
+
+An academic study on the Census income data claims that when correcting for underreporting, U.S. gross median household income was 15% higher in 2010 (table 3).See also the country lists in the household income article.In 2013, Gallup published a list of countries with median annual household income, based on a self-reported survey of approximately 2000 adults from each country. Using median, rather than mean income, results in a much more accurate picture of the typical income of the middle class since the data will not be skewed by gains and abnormalities in the extreme ends. The figures are in international dollars using purchasing power parity and are based on responses from 2006 to 2012 inflation adjusted to 2010 levels. Below is a list of the top 30 countries. The figures do not take taxes and social contributions into account.
+The list below does not correspond to citizens of each country, but to all its residents. States rich in fossil fuels such as Qatar and Kuwait have a very large gap in terms of median annual earnings of citizens and non-citizens (reaching more than tenfold).
+
+
+
+
+
+
+Rank
+
+Country/Territory
+
+Gross household incomein Int$ (PPP)
+
+Gross per-capita incomein Int$ (PPP)
+
+
+1
+ Luxembourg
+52,493
+18,418
+
+
+2
+ Norway
+51,489
+19,308
+
+
+3
+ Sweden
+50,514
+18,632
+
+
+4
+ Australia
+46,555
+15,026
+
+
+5
+ Denmark
+44,360
+18,262
+
+
+6
+ United States
+43,585
+15,480
+
+
+7
+ Canada
+41,280
+15,181
+
+
+8
+ South Korea
+40,861
+11,350
+
+
+9
+ Kuwait
+40,854
+7,487
+
+
+10
+ Netherlands
+38,584
+14,450
+
+
+11
+ New Zealand
+35,562
+12,147
+
+
+12
+ Hong Kong
+35,443
+9,705
+
+
+13
+ Austria
+34,911
+12,284
+
+
+14
+ Finland
+34,615
+15,725
+
+
+15
+ Japan
+33,822
+10,840
+
+
+16
+ Germany
+33,333
+14,098
+
+
+17
+ Taiwan
+32,762
+6,882
+
+
+18
+ Singapore
+32,360
+7,345
+
+
+19
+ United Kingdom
+31,617
+12,399
+
+
+20
+ France
+31,112
+12,445
+
+
+21
+ Israel
+30,364
+7,847
+
+
+22
+ Belgium
+26,703
+10,189
+
+
+23
+ Qatar
+26,555
+5,117
+
+
+24
+ Slovenia
+25,969
+8,656
+
+
+25
+ Ireland
+25,085
+8,048
+
+
+26
+ Saudi Arabia
+24,980
+4,762
+
+
+27
+ Bahrain
+24,633
+4,778
+
+
+28
+ Czech Republic
+22,913
+7,821
+
+
+29
+ Spain
+21,959
+7,284
+
+
+30
+ Malta
+21,141
+6,869
+
+
+
+Global Median
+9,733
+2,920
+
+
+
+Disposable household and per capita income
+List of countries by average wage
+List of countries by wealth per adult
+List of U.S. states and territories by income
+Income distribution
+Household income in the United States
+Median household income in Australia and New Zealand
+Median income per household member
+Places in the United States with notable demographic characteristics
+Poverty in the United States

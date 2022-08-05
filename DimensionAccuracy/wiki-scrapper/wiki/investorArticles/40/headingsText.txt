@@ -1,0 +1,12 @@
+Historical background
+Method variants
+The Vaníček method
+The Lomb method
+The generalized Lomb–Scargle periodogram
+Korenberg's "fast orthogonal search" method
+Palmer's Chi-squared method
+Applications
+Implementation
+See also
+References
+External links

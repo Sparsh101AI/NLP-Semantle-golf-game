@@ -1,0 +1,8 @@
+https://en.wikipedia.org/w/index.php?title=Template:US_income&action=edit
+http://www.statemaster.com/graph/eco_per_inc_percap-economy-personal-income-per-capita
+https://archive.today/20200212213253/http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_DP03&prodType=table
+http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_DP03&prodType=table
+https://archive.today/20190521214830/https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table
+http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table
+https://en.wikipedia.org/w/index.php?title=Template:United_States_locations_by_per_capita_income&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:New_York_(state)&action=edit

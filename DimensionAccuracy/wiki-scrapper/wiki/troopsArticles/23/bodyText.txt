@@ -1,0 +1,122 @@
+Exynos, formerly Hummingbird (Korean: 엑시노스), is a series of ARM-based system-on-chips developed by Samsung Electronics' System LSI division and manufactured by Samsung Foundry. It is a continuation of Samsung's earlier S3C, S5L and S5P line of SoCs.
+Exynos is mostly based on the ARM Cortex cores with the exception of some high end SoC's which featured Samsung's proprietary "M" series core design; though from 2021 onwards even the flagship high-end SoC's will be featuring ARM Cortex cores.
+In 2010, Samsung launched the Hummingbird S5PC110 (now Exynos 3 Single) in its Samsung Galaxy S smartphone, which featured a licensed ARM Cortex-A8 CPU. This ARM Cortex-A8 was code-named Hummingbird. It was developed in partnership with Intrinsity using their FastCore and Fast14 technology.
+In early 2011, Samsung first launched the Exynos 4210 SoC in its Samsung Galaxy S II mobile smartphone. The driver code for the Exynos 4210 was made available in the Linux kernel and support was added in version 3.2 in November 2011.
+On 29 September 2011, Samsung introduced Exynos 4212 as a successor to the 4210; it features a higher clock frequency and "50 percent higher 3D graphics performance over the previous processor generation". Built with a 32 nm high-κ metal gate (HKMG) low-power process; it promises a "30 percent lower power-level over the previous process generation".
+On 30 November 2011, Samsung released information about their upcoming SoC with a dual-core ARM Cortex-A15 CPU, which was initially named "Exynos 5250" and was later renamed to Exynos 5 Dual. This SoC has a memory interface providing 12.8 GB/s of memory bandwidth, support for USB 3.0 and SATA 3, can decode full 1080p video at 60 fps along with simultaneously displaying WQXGA-resolution (2560 × 1600) on a mobile display as well as 1080p over HDMI. Samsung Exynos 5 Dual has been used in a 2015 prototype supercomputer, while the end-product will use a chip meant for servers from another vendor.
+On 26 April 2012, Samsung released the Exynos 4 Quad, which powers the Samsung Galaxy S III and Samsung Galaxy Note II. The Exynos 4 Quad SoC uses 20% less power than the SoC in Samsung Galaxy S II. Samsung also changed the name of several SoCs, Exynos 3110 to Exynos 3 Single, Exynos 4210 and 4212 to Exynos 4 Dual 45 nm, and Exynos 4 Dual 32 nm and Exynos 5250 to Exynos 5 Dual.
+On 2010 Samsung founded a design center in Austin called Samsung's Austin R&D Center (SARC). Samsung has hired many ex-AMD, ex-Intel, ex-ARM and various other industry veterans. The SARC develop high-performance, low-power, complex CPU and System IP (Coherent Interconnect and memory controller) architectures and designs. In 2012, Samsung began development of GPU IP called "S-GPU". After a three-year design cycle, SARC's first custom CPU core called the M1 was released in the Exynos 8890 in 2016. In 2017 the San Jose Advanced Computing Lab (ACL) was opened to continue custom GPU IP development. Samsung's custom CPU cores were named Mongoose for four generations, named M1 through M4, and Exynos SoCs with such cores were never on par in power efficiency or performance with their Qualcomm Snapdragon equivalents.
+On 3 June 2019, AMD and Samsung announced a multi-year strategic partnership in mobile graphics IP based on AMD Radeon GPU IP. NotebookCheck reported that Samsung are targeting 2021 for their first SoC with AMD Radeon GPU IP. However, AnandTech reported 2022. In August 2019, during AMD's Q2 2019 earnings call, AMD stated that Samsung plans to launch SoCs with AMD graphics IP in roughly two years.
+On 1 October 2019, rumors emerged that Samsung had laid off their custom CPU core teams at SARC. On 1 November 2019, Samsung filed a WARN letter with the Texas Workforce Commission, notifying of upcoming layoffs of their SARC CPU team and termination of their custom CPU core development. SARC and ACL will still continue development of custom SoC, AI, and GPU.
+In June 2021, there was news that Samsung could hire engineers from AMD and Apple to form a new custom architecture team.
+Starting in 2020 Samsung introduced a new series of Exynos SoCs with lower numbers than in the past. This indicates a cut between the Past Exynos SoCs at least in naming.
+Exynos 1080
+5nm (5LPE) Samsung process
+CPU features
+1 + 3 + 4 cores (2.8 GHz Cortex-A78 + 2.6 GHz Cortex-A78 + 2.0 GHz Cortex-A55)
+GPU features
+Mali G78 MP10
+Vulkan 1.2
+DSP features
+H.265/HEVC, H.264, VP9
+HDR10+
+ISP features
+-
+Modem and wireless features
+Bluetooth 5.2 (from 5.0 on Exynos 990)
+Exynos Modem Integrated
+LTE Category 24/18
+6CA, 256-QAM
+5G NR Sub-6 (DL = 5100 Mbit/s and UL = 1920 Mbit/s)
+5G NR mmWave (DL = 7350 Mbit/s and UL = 3670 Mbit/s)Exynos 1280
+Exynos 2100
+5nm (5LPE) Samsung process
+6MB System Cache
+CPU features
+1 + 3 + 4 cores (2.91 GHz Cortex-X1 + 2.81 GHz Cortex-A78 + 2.2 GHz Cortex-A55)
+19% better perf on single thread
+33% better perf on multi threads
+GPU features
+Mali G78 MP14 at 854 MHz
+40% better perf
+Vulkan 1.2
+DSP features
+8K30 & 4K120 encode & 8K60 decode
+Add support of AV1 in 8K60 (decode support claimed, however not implemented, thus this claim is unverified)
+H.265/HEVC, H.264, VP9
+HDR10+
+ISP features
+Single: 200MP or Dual: 32MP+32MP
+Up to quad simultaneous camera
+Modem and wireless features
+Bluetooth 5.2 (from 5.0 on Exynos 990)
+Exynos Modem Integrated
+LTE Category 24/18
+6CA, 256-QAM
+5G NR Sub-6 (DL = 5100 Mbit/s and UL = 1920 Mbit/s)
+5G NR mmWave (DL = 7350 Mbit/s and UL = 3670 Mbit/s)
+Single band GNSS support: GPS, Galileo, GLONASS, BeiDouExynos 2200
+Exynos Modem 303
+Supported modes LTE FDD, LTE TDD, WCDMA and GSM/EDGE
+LTE Cat. 6
+Downlink: 2CA 300Mbit/s 64-QAM
+Uplink: 100Mbit/s 16-QAM
+28 nm HKMG Process
+Paired with: Exynos 5 Octa 5430 and Exynos 7 Octa 5433
+Devices using: Samsung Galaxy Note 4, Samsung Galaxy Note Edge and Samsung Galaxy AlphaExynos Modem 333
+Supported modes LTE FDD, LTE TDD, WCDMA, TD-SCDMA and GSM/EDGE
+LTE Cat. 10
+Downlink: 3CA 450Mbit/s 64-QAM
+Uplink: 2CA 100Mbit/s 16-QAM
+28 nm HKMG Process
+Paired with: Exynos 7 Octa 7420
+Devices using: Samsung Galaxy S6, Samsung Galaxy Note 5 and Samsung Galaxy A8 (2016)Exynos Modem 5100
+Supported Modes: 5G NR Sub-6 GHz, 5G NR mmWave, LTE-FDD, LTE-TDD, HSPA, TD-SCDMA, WCDMA, CDMA, GSM/EDGE
+Downlink Features:
+8CA (Carrier Aggregation) in 5G NR
+8CA 1.6Gbit/s in LTE Cat. 19
+4x4 MIMO
+FD-MIMO
+Up to 256-QAM in sub-6 GHz, 2Gbit/s
+Up to 64-QAM in mmWave, 6Gbit/s
+Uplink Features:
+2CA (Carrier Aggregation) in 5G NR
+2CA in LTE
+Up to 256-QAM in sub-6 GHz
+Up to 64-QAM in mmWave
+Process: 10 nm FinFET Process
+Paired with: Exynos 9820 and Exynos 9825
+Devices using: Samsung Galaxy S10 and Samsung Galaxy Note 10Exynos Modem 5123
+Supported Modes: 5G NR Sub-6 GHz, 5G NR mmWave, LTE-FDD, LTE-TDD, HSPA, TD-SCDMA, WCDMA, CDMA, GSM/EDGE
+Downlink Features:
+8CA 3.0Gbit/s in LTE Cat. 24
+Up to 256-QAM in sub-6 GHz, 5.1Gbit/s
+Up to 64-QAM in mmWave, 7.35Gbit/s
+Uplink Features:
+2CA 422 Mbit/s in LTE Cat. 22
+Up to 256-QAM in sub-6 GHz
+Up to 64-QAM in mmWave
+Process: 7 nm FinFET Process
+Paired with: Exynos 990, Exynos 2100, Exynos 2200, Google Tensor
+Devices using: Samsung Galaxy S20, Samsung Galaxy Note 20, Samsung Galaxy S21, Samsung Galaxy S22, and Google Pixel 6Exynos i T200
+CPU: Cortex-M4 @ 320 MHz, Cortex-M0+ @ 320 MHz
+WiFi: 802.11b/g/n Single band (2.4 GHz)
+On-chip Memory: SRAM 1.4MB
+Interface: SDIO/ I2C/ SPI/ UART/ PWM/ I2S
+Front-end Module: Integrated T/R switch, Power Amplifier, Low Noise Amplifier
+Security: WEP 64/128, WPA, WPA2, AES, TKIP, WAPI, PUF (Physically Unclonable Function)Exynos i S111
+CPU: Cortex-M7 200 MHz
+Modem: LTE Release 14 NB-IoT
+Downlink: 127 kbit/s
+Uplink: 158 kbit/s
+On-chip Memory: SRAM 512KB
+Interface: USI, UART, I2C, GPIO, eSIM I/F, SDIO(Host), QSPI(Single/Dual/Quad IO mode), SMC
+Security: eFuse, AES, SHA-2, PKA, Secure Storage, Security Sub-System, PUF
+GNSS: GPS, Galileo, GLONASS, BeiDouThe Exynos Auto V9 comes with additional features such as:-
+Automotive Safety Integrity Level (ASIL)-B standards
+Safety island core
+4× Tensilica HiFi 4 DSP
+Supports 6 displays and 12 camera connectionsComparison of ARMv8-A cores
+Comparison of ARMv7-A coresOfficial website
+Samsung Exynos - Custom CPU
+Samsung Exynos - 5G

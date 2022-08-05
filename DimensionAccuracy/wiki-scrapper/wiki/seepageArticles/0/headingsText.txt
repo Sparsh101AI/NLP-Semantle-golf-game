@@ -1,0 +1,44 @@
+Genesis and composition of soils
+Genesis
+Transport
+Soil composition
+Soil mineralogy
+Grain size distribution
+Sieve analysis
+Hydrometer analysis
+Mass-volume relations
+Soil classification
+Classification of soil grains
+Classification of sands and gravels
+Atterberg limits
+Classification of silts and clays
+Indices related to soil strength
+Liquidity index
+Relative density
+Seepage: steady state flow of water
+Darcy's law
+Typical values of hydraulic conductivity
+Flownets
+Seepage forces and erosion
+Seepage pressures
+Effective stress and capillarity: hydrostatic conditions
+Total stress
+Pore water pressure
+Hydrostatic conditions
+Capillary action
+Consolidation: transient flow of water
+Shear behavior: stiffness and strength
+Friction, interlocking and dilation
+Failure criteria
+Structure, fabric, and chemistry
+Drained and undrained shear
+Shear tests
+Other factors
+Applications
+Lateral earth pressure
+Bearing capacity
+Slope stability
+Recent developments
+See also
+References
+External links

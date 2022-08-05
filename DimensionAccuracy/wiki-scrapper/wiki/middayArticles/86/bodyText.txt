@@ -1,0 +1,7 @@
+Teus Hagen (* 6 October 1945 in Wijnjeterp) is a Dutch Internet pioneer.
+Hagen started his career at the Computer Laboratory of the Mathematical Centre. Later, he initiated the Dutch and the European Unix User Groups NLUUG and EUUG (that became later EURopen). As chairman of EUUG, he started the European Unix Network (EUnet) in 1982 as the EUUG dial-up service. EUnet was the first public wide area network.
+At the University of California, Berkeley, he started in 1983 working with TCP/IP. One of his team members, Daniel Karrenberg, is the author of the report in favor of TCP/IP for global networking in Europe.
+From 1992 to 2008 Hagen was chairman and director at NLnet and helped it to become the first Dutch Internet Service Provider. NLnet funds free Internet research and development. In this position, Hagen became 2004 involved with the community-driven certificate authority CAcert.org and served as board member and in 2008 as president.
+Hagen was recognized by NLUUG and Usenix for his Open Source contributions and honoured as "Global Connector" in the Internet Hall of Fame in 2013.
+Hagen at Internet Hall of Fame (7.11.2018)
+Teus Hagen at NLnet (7.11.2018)

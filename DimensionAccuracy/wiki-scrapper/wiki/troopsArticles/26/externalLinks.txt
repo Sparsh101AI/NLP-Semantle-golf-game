@@ -1,0 +1,12 @@
+https://www.unicode.org/reports/tr26/
+https://www.unicode.org/reports/about-reports.html#Types
+https://www.w3.org/TR/html51/syntax.html#character-encodings
+https://www.w3.org/TR/html5/syntax.html#character-encodings
+https://html.spec.whatwg.org/multipage/parsing.html#character-encodings
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+https://docs.oracle.com/javase/8/docs/api/java/io/DataInput.html#modified-utf-8
+https://www.unicode.org/reports/tr26/
+https://docs.oracle.com/javase/8/docs/technotes/guides/jni/spec/types.html#modified_utf_8_strings
+http://demo.icu-project.org/icu-bin/convexp?conv=CESU-8
+https://en.wikipedia.org/w/index.php?title=Template:Unicode_navigation&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Character_encodings&action=edit

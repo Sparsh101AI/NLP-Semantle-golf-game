@@ -1,0 +1,12 @@
+Transaction Management eXecutive or TMX was NCR Corporation's proprietary transaction processing system running on NCR Tower 5000-series systems which were based on Motorola 680xx CPUs. This system was used mainly by financial institutions in the 1980s and 1990s.
+Basic features of the TMX operating system are listed below:
+It was a multiuser, multitasking 32-bit operating system.
+It featured a proprietary network called LBN (Local Branch Network).
+Later versions of TMX had Token Ring support which was called LBN Emulation.
+It had device support for financial applications on LBN, e.g. NCR dumb terminals, passbook printers, cash dispensers, magnetic stripe reader and pinpad.
+It contained SNA LU emulations for mainframe connectivity.
+Peripheral device configuration was fixed during boot time. Configuration changes were made using the SYSGEN command.
+It supported a flat file system; there were no subdirectories. File name format was like this: diskname:usernumber.catalogname.filename.ext;version
+Files had various types, like text files and index sequential data files.
+Main programming language was Whitesmiths C, but the compiler was not ANSI C compliant.
+It had limited memory (several MB) and disk (several hundred MB).NCR Tower 5000 systems were also capable of running UNIX SVR3 version.

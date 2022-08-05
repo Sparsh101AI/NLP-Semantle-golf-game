@@ -1,0 +1,57 @@
+A legislature is an assembly with the authority to make laws for a political entity such as a country or city.  They are often contrasted with the executive and judicial powers of government.
+Laws enacted by legislatures are usually known as primary legislation. In addition, legislatures may observe and steer governing actions, with authority to amend the budget involved.
+The members of a legislature are called legislators. In a democracy, legislators are most commonly popularly elected, although indirect election and appointment by the executive are also used, particularly for bicameral legislatures featuring an upper chamber.
+The name used to refer to a legislative body varies by country.
+Common names include:
+Assembly (from to assemble)
+Congress (from to congregate)
+Council (from Latin 'meeting')
+Diet (from old German 'people')
+Estates or States (from old French 'condition' or 'status')
+Parliament (from French parler 'to speak')By names:
+House of Assembly
+Legislative assembly
+Legislative council
+National AssemblyBy languages:
+Cortes (from Spanish 'courts')
+Duma (from Russian dúma 'thought')
+Rada (from Ukrainian 'council')
+Sejm (from Polish 'gathering')
+Soviet (from Russian 'council')
+Thing (from old Germanic 'assembly')
+Veche (from old Slavic 'council')Though the specific roles for each legislature differ by location, they all aim to serve the same purpose of appointing officials to represent their citizens to determine appropriate legislation for the country.
+Among the earliest recognised legislatures was the Athenian Ecclesia. In the Middle Ages, European monarchs would host assemblies of the nobility, which would later develop into predecessors of modern legislatures. These were often named The Estates. The oldest surviving legislature is the Icelandic Althing, founded in 930 CE.
+Democratic legislatures have six major functions: representation, deliberation, legislation, authorizing expenditure, making governments, and oversight.
+There exist five ways that representation can be achieved in a legislature:
+Formalistically: how the rules of the legislature ensure representation of constituents;
+Symbolically: how the constituents perceive their representatives;
+Descriptively: how well the composition of the legislature matches the demographics of the wider society;
+Substantively: how well representatives actually respond to the needs of their constituents;
+Collectively: how well the representatives represent the interests of the society as a whole.One of the major functions of a legislature is to discuss and debate issues of major importance to society. This activity can take place in two forms. In debating legislatures, like Parliament of the United Kingdom, the floor of the legislature frequently sees lively debate. In contrast, in committee-based legislatures like the United States Congress, deliberation takes place in closed committees.
+While legislatures have nominally the sole power to create laws, the substantive extent of this power depends on details of the political system. In Westminster-style legislatures the executive (composed of the cabinet) can essentially pass any laws it wants, as it usually has a majority of legislators behind it, kept in check by the party whip, while committee-based legislatures in continental Europe and those in presidential systems of the Americas have more independence in drafting and amending bills.
+The origins of the power of the purse which legislatures typically have in passing or denying government budgets goes back to the European assemblies of nobility which the monarchs would have to consult before raising taxes. For this power to be actually effective, the legislature should be able to amend the budget, have an effective committee system, enough time for consideration, as well as access to relevant background information.
+The power of the legislature over the government is stronger.
+There are several ways in which the legislature can hold the government accountable, including questioning, interpellations, and votes of confidence.
+In contrast to democratic systems, legislatures under authoritarianism are used to ensure the stability of the power structure by co-opting potential competing interests within the elites, which they achieve (cap) by:
+Providing legitimacy;
+Incorporating opponents into the system;
+Providing some representation of outside interests;
+Offering a way to recruit new members to the ruling clique;
+Being a channel through which limited grievances and concessions can be passed.Each chamber of the legislature consists of a number of legislators who use some form of parliamentary procedure to debate political issues and vote on proposed legislation. There must be a certain number of legislators present to carry out these activities; this is called a quorum.
+Some of the responsibilities of a legislature, such as giving first consideration to newly proposed legislation, are usually delegated to committees made up of a few of the members of the chamber(s).
+The members of a legislature usually represent different political parties; the members from each party generally meet as a caucus to organize their internal affairs.
+Legislatures vary widely in the amount of political power they wield, compared to other political players such as judiciaries, militaries, and executives. In 2009, political scientists M. Steven Fish and Matthew Kroenig constructed a Parliamentary Powers Index in an attempt to quantify the different degrees of power among national legislatures. The German Bundestag, the Italian Parliament, and the Mongolian State Great Khural tied for most powerful, while Myanmar's House of Representatives and Somalia's Transitional Federal Assembly (since replaced by the Federal Parliament of Somalia) tied for least powerful.
+Some political systems follow the principle of legislative supremacy, which holds that the legislature is the supreme branch of government and cannot be bound by other institutions, such as the judicial branch or a written constitution. Such a system renders the legislature more powerful.
+In parliamentary and semi-presidential systems of government, the executive is responsible to the legislature, which may remove it with a vote of no confidence. On the other hand, according to the separation of powers doctrine, the legislature in a presidential system is considered an independent and coequal branch of government along with both the judiciary and the executive. Nevertheless, many presidential systems provide for the impeachment of the executive for criminal or unconstitutional behaviour.
+Legislatures will sometimes delegate their legislative power to administrative or executive agencies.
+Legislatures are made up of individual members, known as legislators, who vote on proposed laws. A legislature usually contains a fixed number of legislators; because legislatures usually meet in a specific room filled with seats for the legislators, this is often described as the number of "seats" it contains. For example, a legislature that has 100 "seats" has 100 members. By extension, an electoral district that elects a single legislator can also be described as a "seat", as, for example, in the phrases "safe seat" and "marginal seat".
+After election, the members may be protected by parliamentary immunity or parliamentary privilege, either for all actions the duration of their entire term, or for just those related to their legislative duties.
+A legislature may debate and vote upon bills as a single unit, or it may be composed of multiple separate assemblies, called by various names including legislative chambers, debate chambers, and houses, which debate and vote separately and have distinct powers. A legislature which operates as a single unit is unicameral, one divided into two chambers is bicameral, and one divided into three chambers is tricameral.
+In bicameral legislatures, one chamber is usually considered the upper house, while the other is considered the lower house. The two types are not rigidly different, but members of upper houses tend to be indirectly elected or appointed rather than directly elected, tend to be allocated by administrative divisions rather than by population, and tend to have longer terms than members of the lower house. In some systems, particularly parliamentary systems, the upper house has less power and tends to have a more advisory role, but in others, particularly federal presidential systems, the upper house has equal or even greater power. 
+In federations, the upper house typically represents the federation's component states. This is also the case with the supranational legislature of the European Union. The upper house may either contain the delegates of state governments – as in the European Union and in Germany and, before 1913, in the United States – or be elected according to a formula that grants equal representation to states with smaller populations, as is the case in Australia and the United States since 1913.
+Tricameral legislatures are rare; the Massachusetts Governor's Council still exists, but the most recent national example existed in the waning years of White-minority rule in South Africa. Tetracameral legislatures no longer exist, but they were previously used in Scandinavia.
+Legislatures vary widely in their size. Among national legislatures, China's National People's Congress is the largest with 2,980 members, while Vatican City's Pontifical Commission is the smallest with 7. Neither legislature is democratically elected: The Pontifical Commission members are appointed by the Pope and the National People's Congress is indirectly elected within the context of a one-party state.
+Legislature size is a trade off between efficiency and representation; the smaller the legislature, the more efficiently it can operate, but the larger the legislature, the better it can represent the political diversity of its constituents. Comparative analysis of national legislatures has found that size of a country's lower house tends to be proportional to the cube root of its population; that is, the size of the lower house tends to increase along with population, but much more slowly.
+List of legislative buildings
+Election apportionment diagram
+Evidence-based legislation

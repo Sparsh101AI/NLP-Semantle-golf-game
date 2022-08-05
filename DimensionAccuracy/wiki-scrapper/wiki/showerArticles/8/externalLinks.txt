@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Asques,_Gironde&params=44.9528_N_0.4111_W_type:city(443)_region:FR-NAQ
+//geohack.toolforge.org/geohack.php?pagename=Asques,_Gironde&params=44.9528_N_0.4111_W_type:city(443)_region:FR-NAQ
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-33016
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-33016
+https://en.wikipedia.org/w/index.php?title=Template:Gironde_communes&action=edit
+https://catalogue.bnf.fr/ark:/12148/cb15256070v
+https://data.bnf.fr/ark:/12148/cb15256070v
+https://en.wikipedia.org/w/index.php?title=Asques,_Gironde&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Gironde-geo-stub&action=edit

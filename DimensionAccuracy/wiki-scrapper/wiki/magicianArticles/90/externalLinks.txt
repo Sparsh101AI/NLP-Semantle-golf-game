@@ -1,0 +1,15 @@
+//geohack.toolforge.org/geohack.php?pagename=KINT-FM&params=31_47_46_N_106_28_57_W_region:US-TX_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=KINT-FM&params=31_47_46_N_106_28_57_W_region:US-TX_type:landmark
+http://www.radiolasuavecita.com/el-paso/
+http://www.fcc.gov/fcc-bin/fmq?call=KINT-FM
+http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/call_hist.pl?Facility_id=51709&Callsign=KINT-FM
+https://radioinsight.com/headlines/122265/entravision-ditches-jose-twelve-markets/
+https://transition.fcc.gov/fcc-bin/fmq?call=KINT
+https://radio-locator.com/info/KINT-FM
+https://www1.arbitron.com/sip/displaySip.do?surveyID=WI22&band=fm&callLetter=KINT
+https://en.wikipedia.org/w/index.php?title=Template:Entravision_Communications&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:El_Paso_Radio&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:El_Paso,_Texas&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Spanish_Radio_Stations_in_Texas&action=edit
+https://en.wikipedia.org/w/index.php?title=KINT-FM&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Texas-radio-station-stub&action=edit

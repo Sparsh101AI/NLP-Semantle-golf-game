@@ -1,0 +1,63 @@
+In physics, the observer effect is the disturbance of an observed system by the act of observation. This is often the result of instruments that, by necessity, alter the state of what they measure in some manner. A common example is checking the pressure in an automobile tire; this is difficult to do without letting out some of the air, thus changing the pressure. Similarly, seeing non-luminous objects requires light hitting the object, and causing it to reflect that light. While the effects of observation are often negligible, the object still experiences a change. This effect can be found in many domains of physics, but can usually be reduced to insignificance by using different instruments or observation techniques.
+A notable example of the observer effect occurs in quantum mechanics, as demonstrated by the double-slit experiment. Physicists have found that observation of quantum phenomena can change the measured results of this experiment. Despite the "observer effect" in the double-slit experiment being caused by the presence of an electronic detector, the experiment's results have been misinterpreted by some to suggest that a conscious mind can directly affect reality. The need for the "observer" to be conscious is not supported by scientific research, and has been pointed out as a misconception rooted in a poor understanding of the quantum wave function ψ and the quantum measurement process.
+An electron is detected upon interaction with a photon; this interaction will inevitably alter the velocity and momentum of that electron. It is possible for other, less direct means of measurement to affect the electron. It is also necessary to distinguish clearly between the measured value of a quantity and the value resulting from the measurement process. In particular, a measurement of momentum is non-repeatable in short intervals of time. A formula (one-dimensional for simplicity) relating involved quantities, due to Niels Bohr (1928) is given by
+
+
+
+
+
+|
+
+
+v
+
+x
+
+′
+
+−
+
+v
+
+x
+
+
+
+|
+
+Δ
+
+p
+
+x
+
+
+≈
+ℏ
+
+/
+
+Δ
+t
+,
+
+
+{\displaystyle |v'_{x}-v_{x}|\Delta p_{x}\approx \hbar /\Delta t,}
+
+
+where 
+Δpx is uncertainty in measured value of momentum,
+Δt is duration of measurement,
+vx is velocity of particle before measurement,
+v′x is velocity of particle after measurement,
+ħ is the reduced Planck constant.The measured momentum of the electron is then related to vx, whereas its momentum after the measurement is related to v′x. This is a best-case scenario.
+In electronics, ammeters and voltmeters are usually wired in series or parallel to the circuit, and so by their very presence affect the current or the voltage they are measuring by way of presenting an additional real or complex load to the circuit, thus changing the transfer function and behavior of the circuit itself. Even a more passive device such as a current clamp, which measures the wire current without coming into physical contact with the wire, affects the current through the circuit being measured because the inductance is mutual.
+In thermodynamics, a standard mercury-in-glass thermometer must absorb or give up some thermal energy to record a temperature, and therefore changes the temperature of the body which it is measuring.
+The theoretical foundation of the concept of measurement in quantum mechanics is a contentious issue deeply connected to the many interpretations of quantum mechanics. A key focus point is that of wave function collapse, for which several popular interpretations assert that measurement causes a discontinuous change into an eigenstate of the operator associated with the quantity that was measured, a change which is not time-reversible.
+More explicitly, the superposition principle (ψ = Σnanψn) of quantum physics dictates that for a wave function ψ, a measurement will result in a state of the quantum system of one of the m possible eigenvalues fn , n = 1, 2, ..., m, of the operator ∧F  which in the space of the eigenfunctions ψn , n = 1, 2, ..., m.
+Once one has measured the system, one knows its current state; and this prevents it from being in one of its other states ⁠— it has apparently decohered from them without prospects of future strong quantum interference. This means that the type of measurement one performs on the system affects the end-state of the system.
+An experimentally studied situation related to this is the quantum Zeno effect, in which a quantum state would decay if left alone, but does not decay because of its continuous observation. The dynamics of a quantum system under continuous observation are described by a quantum stochastic master equation known as the Belavkin equation. Further studies have shown that even observing the results after the photon is produced leads to collapsing the wave function and loading a back-history as shown by delayed choice quantum eraser.
+When discussing the wave function ψ which describes the state of a system in quantum mechanics, one should be cautious of a common misconception that assumes that the wave function ψ amounts to the same thing as the physical object it describes. This flawed concept must then require existence of an external mechanism, such as a measuring instrument, that lies outside the principles governing the time evolution of the wave function ψ, in order to account for the so-called "collapse of the wave function" after a measurement has been performed. But the wave function ψ is not a physical object like, for example, an atom, which has an observable mass, charge and spin, as well as internal degrees of freedom. Instead, ψ is an abstract mathematical function that contains all the statistical information that an observer can obtain from measurements of a given system. In this case, there is no real mystery in that this mathematical form of the wave function ψ must change abruptly after a measurement has been performed.
+A consequence of Bell's theorem is that measurement on one of two entangled particles can appear to have a nonlocal effect on the other particle. Additional problems related to decoherence arise when the observer is modeled as a quantum system, as well.
+The uncertainty principle has been frequently confused with the observer effect, evidently even by its originator, Werner Heisenberg. The uncertainty principle in its standard form describes how precisely we may measure the position and momentum of a particle at the same time – if we increase the precision in measuring one quantity, we are forced to lose precision in measuring the other.
+An alternative version of the uncertainty principle, more in the spirit of an observer effect, fully accounts for the disturbance the observer has on a system and the error incurred, although this is not how the term "uncertainty principle" is most commonly used in practice.

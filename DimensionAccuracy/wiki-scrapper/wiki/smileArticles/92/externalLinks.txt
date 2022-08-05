@@ -1,0 +1,16 @@
+https://commonchemistry.cas.org/detail?cas_rn=118343-19-4
+https://pubchem.ncbi.nlm.nih.gov/compound/121850
+http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=525
+https://www.chemspider.com/Chemical-Structure.108707.html
+https://precision.fda.gov/uniisearch/srs/unii/ZET7B198W2
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL216097
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID30922665
+https://chemapps.stolaf.edu/jmol/jmol.php?model=N2CCN%3DC2CN%28C1C%29Cc3c1cccc3
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=424667189&page2=BRL-44408
+https://doi.org/10.1016%2F0306-3623%2893%2990003-g
+//pubmed.ncbi.nlm.nih.gov/8387042
+https://doi.org/10.1016%2Fj.neulet.2009.03.001
+//pubmed.ncbi.nlm.nih.gov/19429072
+https://en.wikipedia.org/w/index.php?title=Template:Adrenergic_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=BRL-44408&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Antihypertensive-stub&action=edit

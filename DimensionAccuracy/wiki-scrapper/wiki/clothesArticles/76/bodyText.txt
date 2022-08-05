@@ -1,0 +1,53 @@
+ISO 8583  is an international standard for financial transaction card originated interchange messaging. It is the International Organization for Standardization standard for systems that exchange electronic transactions initiated by cardholders using payment cards.
+ISO 8583 defines a message format and a communication flow so that different systems can exchange these transaction requests and responses. The vast majority of transactions made when a customer uses a card to make a payment in a store (EFTPOS) use ISO 8583 at some point in the communication chain, as do transactions made at ATMs. In particular, the Mastercard, Visa and Verve networks base their authorization communications on the ISO 8583 standard, as do many other institutions and networks.
+Although ISO 8583 defines a common standard, it is not typically used directly by systems or networks.  It defines many standard fields (data elements) which remain the same in all systems or networks, and leaves a few additional fields for passing network-specific details. These fields are used by each network to adapt the standard for its own use with custom fields and custom usages.
+The ISO 8583 specification has three parts:
+Part 1: Messages, data elements, and code values
+Part 2: Application and registration procedures for Institution Identification Codes (IIC)
+Part 3: Maintenance procedures for the aforementioned messages, data elements and code valuesA card-based transaction typically travels from a transaction-acquiring device, such as a point-of-sale terminal or an automated teller machine (ATM), through a series of networks, to a card issuing system for authorization against the card holder's account. The transaction data contains information derived from the card (e.g., the card number or card holder details), the terminal (e.g., the terminal number, the merchant number), the transaction (e.g., the amount), together with other data which may be generated dynamically or added by intervening systems. Based on this information, the card issuing system will either authorize or decline the transaction and generate a response message which must be delivered back to the terminal within a predefined time period.
+An ISO 8583 message is made of the following parts:
+Message type indicator (MTI)
+One or more bitmaps, indicating which data elements are present. It consists of primary bitmap and secondary bitmap. The first bit of the primary bitmap indicates whether the secondary bitmap is present or not.
+Data elements, the actual information fields of the messageThe placements of fields in different versions of the standard varies; for example, the currency elements of the 1987 and 1993 versions of the standard are no longer used in the 2003 version, which holds currency as a sub-element of any financial amount element. As of June 2017, however ISO 8583:2003 has yet to achieve wide acceptance. ISO 8583 messaging has no routing information, so is sometimes used with a TPDU header.
+Cardholder-originated transactions include purchase, withdrawal, deposit, refund, reversal, balance inquiry, payments and inter-account transfers. ISO 8583 also defines system-to-system messages for secure key exchanges, reconciliation of totals, and other administrative purposes.
+The message type indicator is a four-digit numeric field which indicates the overall function of the message. A message type indicator includes the ISO 8583 version, the Message Class, the Message Function and the Message Origin, as described below.
+The first digit of the MTI indicates the ISO 8583 version in which the message is encoded.
+Position two of the MTI specifies the overall purpose of the message.
+Position three of the MTI specifies the message function which defines how the message should flow within the system.  Requests are end-to-end messages (e.g., from acquirer to issuer and back with time-outs and automatic reversals in place), while advices are point-to-point messages (e.g., from terminal to acquirer, from acquirer to network, from network to issuer, with transmission guaranteed over each link, but not necessarily immediately).
+Position four of the MTI defines the location of the message source within the payment chain.
+Given an MTI value of 0110, the following example lists what each position indicates:
+0xxx → version of ISO 8583 (0 = 1987 version)
+x1xx → class of the message (1 = authorization message)
+xx1x → function of the message (1 = response)
+xxx0 → who began the communication (0 = acquirer)Therefore, MTI 0110 is an authorization response message where actual transaction was originated by the acquirer.
+Bearing each of the above four positions in mind, an MTI will completely specify what a message should do, and how it is to be transmitted around the network. Unfortunately, not all ISO 8583 implementations interpret the meaning of an MTI in the same way.  However, a few MTIs are relatively standard:
+In ISO 8583, a bitmap is a field or subfield within a message, which indicates whether other data elements or data element subfields are present elsewhere in the message.
+A field is considered to be present only when the corresponding bit in the bitmap is set. For example, a hex with value 0x82 (decimal 130) is binary 1000 0010, which means fields 1 and 7 are present in the message and fields 2, 3, 4, 5, 6 and 8 are not.
+The bitmap may be represented as 8 bytes of binary data or as 16 hexadecimal characters (0–9, A–F) in the ASCII or EBCDIC character sets.
+A message will contain at least one bitmap, called the primary bitmap, which indicates data elements 1 to 64 are present. The presence of an optional secondary bitmap is also indicated by the first bit in the primary bitmap. If present, the secondary bitmap indicates whether data elements 65 to 128 are present. Similarly, a tertiary bitmap can be used to indicate the presence of fields 129 to 192, although these data elements are rarely used.
+Given a bitmap value of 22 10 00 11 02 C0 48 04,
+0x70 = 0111 0000 (counting from the left, the second ,third and fourth bits are 1, indicating that fields 2 , 3 and 4 are present)
+0x10 = 0001 0000 (the first bit corresponds to field 9, so the fourth bit here indicates field 12 is present)
+0x00 = 0000 0000 (no fields present)
+0x11 = 0001 0001 (fields 28 and 32 are present)
+0x02 = 0000 0010 (field 39 is present)
+0xC0 = 1100 0000 (fields 41 and 42 are present)
+0x48 = 0100 1000 (fields 50 and 53 are present)
+0x04 = 0000 0100 (field 62 is present)Therefore, the given bitmap defines the following fields present in the message:
+3, 7, 12, 28, 32, 39, 41, 42, 50, 53, 62
+Data elements are the individual fields carrying the transaction information.  There are up to 128 data elements specified in the original ISO 8583:1987 standard, and  up to 192 data elements in later releases.  The 1993 revision added new definitions, deleted some, while leaving the message format itself unchanged.
+While each data element has a specified meaning and format, the standard also includes some general purpose data elements and system- or country-specific data elements which vary enormously in use and form from implementation to implementation.
+Each data element is described in a standard format which defines the permitted content of the field (numeric, binary, etc.) and the field length (variable or fixed), according to the following table:
+Additionally, each field may be either fixed or variable length. If variable, the length of the field will be preceded by a length indicator.
+The following is a table specifying the message type and processing code for each transaction type.
+The following table shows response codes and their meanings for ISO 8583-1987, later versions uses 3 and 4 digit response codes.
+The point of service entry mode value consists of 2 parts:
+1. PAN entry mode, the first 2 digits
+2. PIN entry capability, the third digit
+The following table shows PAN entry modes and their meanings.
+The following table shows PIN entry capabilities and their meanings.
+AS 2805
+Magnetic stripe card
+NCR Corporation
+Itautec
+Diebold

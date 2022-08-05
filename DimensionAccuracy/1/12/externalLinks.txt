@@ -1,0 +1,5 @@
+//pubmed.ncbi.nlm.nih.gov/6200593
+https://icd.who.int/browse10/2019/en#/Xxx.x
+http://www.icd9data.com/getICD9Code.ashx?icd9=xxx
+https://en.wikipedia.org/w/index.php?title=Template:Smoking_nav&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Oral_pathology&action=edit

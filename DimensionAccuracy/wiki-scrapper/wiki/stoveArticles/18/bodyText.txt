@@ -1,0 +1,10 @@
+ISO/IEC 4909 is a 2006 international standard produced by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) for Identification cards — Financial transaction cards — Magnetic stripe data content for track 3. It was reviewed in 2018. The original ISO 4909 standard appeared in 1987. It is one of a number of international bank card standards. The standard is used for credit cards.
+The standard has been adopted in many countries, including (for example)
+Denmark,
+Germany,
+India,
+Netherlands,
+New Zealand,
+Norway,
+United Kingdom,
+etc.

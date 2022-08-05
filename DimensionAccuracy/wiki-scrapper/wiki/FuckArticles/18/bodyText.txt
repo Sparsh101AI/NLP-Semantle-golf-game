@@ -1,0 +1,124 @@
+The American Mathematical Society (AMS) is an association of professional mathematicians dedicated to the interests of mathematical research and scholarship, and serves the national and international community through its publications, meetings, advocacy and other programs.
+The society is one of the four parts of the Joint Policy Board for Mathematics and a member of the Conference Board of the Mathematical Sciences.
+The AMS was founded in 1888 as the New York Mathematical Society, the brainchild of Thomas Fiske, who was impressed by the London Mathematical Society on a visit to England. John Howard Van Amringe was the first president and Fiske became secretary.  The society soon decided to publish a journal, but ran into some resistance, due to concerns about competing with the American Journal of Mathematics.  The result was the Bulletin of the American Mathematical Society, with Fiske as editor-in-chief.  The de facto journal, as intended, was influential in increasing membership. The popularity of the Bulletin soon led to Transactions of the American Mathematical Society and Proceedings of the American Mathematical Society, which were also de facto journals.
+In 1891 Charlotte Angas Scott of Britain became the first woman to join the AMS, then called the New York Mathematical Society. The society reorganized under its present name (American Mathematical Society) and became a national society in 1894, and that year Scott became the first woman on the first Council of the society. In 1927 Anna Pell-Wheeler became the first woman to present a lecture at the society's Colloquium.
+In 1951 there was a south-eastern sectional meeting of the Mathematical Association of America in Nashville. The citation delivered at the 2007 MAA awards presentation, where Lee Lorch received a standing ovation, recorded that:
+"Lee Lorch, the chair of the mathematics department at Fisk University, and three Black colleagues, Evelyn Boyd (now Granville), Walter Brown, and H. M. Holloway came to the meeting and were able to attend the scientific sessions. However, the organizer for the closing banquet refused to honor the reservations of these four mathematicians. (Letters in Science, August 10, 1951, pp. 161–162 spell out the details). Lorch and his colleagues wrote to the governing bodies of the AMS [American Mathematical Society] and MAA seeking bylaws against discrimination. Bylaws were not changed, but non-discriminatory policies were established and have been strictly observed since then."Also in 1951, the American Mathematical Society's headquarters moved from New York City to Providence, Rhode Island. The society later added an office in Ann Arbor, Michigan in 1965 and an office in Washington, D.C. in 1992.
+In 1954 the society called for the creation of a new teaching degree, a Doctor of Arts in Mathematics, similar to a PhD but without a research thesis.
+In the 1970s, as reported in "A Brief History of the Association for Women in Mathematics: The Presidents' Perspectives", by Lenore Blum, "In those years the AMS [American Mathematical Society] was governed by what could only be called an 'old boys network,' closed to all but those in the inner circle." Mary W. Gray challenged that situation by "sitting in on the Council meeting in Atlantic City. When she was told she had to leave, she refused saying she would wait until the police came. (Mary relates the story somewhat differently: When she was told she had to leave, she responded she could find no rules in the by-laws restricting attendance at Council meetings. She was then told it was by 'gentlemen's agreement.' Naturally Mary replied 'Well, obviously I'm no gentleman.') After that time, Council meetings were open to observers and the process of democratization of the Society had begun." Also, in 1971 the AMS established its Joint Committee on Women in the Mathematical Sciences (JCW), which later became a joint committee of multiple scholarly societies.
+Julia Robinson was the first female president of the American Mathematical Society (1983–1984) but was unable to complete her term as she was suffering from leukemia.
+In 1988 the Journal of the American Mathematical Society was created, with the intent of being the flagship journal of the AMS.
+The AMS, along with more than a dozen other organizations, holds the largest annual research mathematics meeting in the world, the Joint Mathematics Meeting, in early January.  The 2019 Joint Mathematics Meeting in Baltimore drew approximately 6,000 attendees.  Each of the four regional sections of the AMS (Central, Eastern, Southeastern, and Western) holds meetings in the spring and fall of each year.  The society also co-sponsors meetings with other international mathematical societies.
+The AMS selects an annual class of Fellows who have made outstanding contributions to the advancement of mathematics.
+The AMS publishes Mathematical Reviews, a database of reviews of mathematical publications, various journals, and books.  In 1997 the AMS acquired the Chelsea Publishing Company, which it continues to use as an imprint. In 2017, the AMS acquired the MAA Press, the book publishing program of the Mathematical Association of America. The AMS will continue to publish books under the MAA Press imprint.
+Journals:
+General
+Bulletin of the American Mathematical Society — published quarterly
+Communications of the American Mathematical Society — online only
+Electronic Research Announcements of the American Mathematical Society — online only
+Journal of the American Mathematical Society — published quarterly
+Memoirs of the American Mathematical Society — published six times per year
+Notices of the American Mathematical Society — published monthly, one of the most widely read mathematical periodicals
+Proceedings of the American Mathematical Society — published monthly
+Transactions of the American Mathematical Society — published monthly
+Subject-specific
+Conformal Geometry and Dynamics — online only
+Journal of Algebraic Geometry – published quarterly
+Mathematics of Computation — published quarterly
+Mathematical Surveys and Monographs
+Representation Theory — online only
+Translation Journals
+St. Petersburg Mathematical Journal
+Theory of Probability and Mathematical Statistics
+Transactions of the Moscow Mathematical Society
+Sugaku ExpositionsProceedings and Collections:
+Advances in Soviet Mathematics
+American Mathematical Society Translations
+AMS/IP Studies in Advanced Mathematics
+Centre de Recherches Mathématiques (CRM) Proceedings & Lecture Notes
+Contemporary Mathematics
+IMACS: Series in Discrete Mathematics and Theoretical Computer Science
+Fields Institute Communications
+Proceedings of Symposia in Applied Mathematics
+Proceedings of Symposia in Pure MathematicsSome prizes are awarded jointly with other mathematical organizations. See specific articles for details.
+Bôcher Memorial Prize
+Cole Prize
+David P. Robbins Prize
+Morgan Prize
+Fulkerson Prize
+Leroy P. Steele Prizes
+Norbert Wiener Prize in Applied Mathematics
+Oswald Veblen Prize in GeometryThe AMS creates outreach materials aimed at middle school, high school, and college students. These include:
+Posters about mathematicians and mathematics
+Mathematical Moments: posters and interviews about applications of math to science and society
+Math in the Media: a monthly rundown of news articles that mention math, paired with classroom activities on the relevant math concepts.The AMS was an early advocate of the typesetting program TeX, requiring that contributions be written in it and producing its own packages AMS-TeX and AMS-LaTeX.  TeX and LaTeX are now ubiquitous in mathematical publishing.
+The AMS is led by the President, who is elected for a two-year term, and cannot serve for two consecutive terms.
+John Howard Van Amringe (New York Mathematical Society) (1888–1890)
+Emory McClintock  (New York Mathematical Society) (1891–94)
+George Hill  (1895–96)
+Simon Newcomb  (1897–98)
+Robert Woodward  (1899–1900)Eliakim Moore  (1901–02)
+Thomas Fiske  (1903–04)
+William Osgood  (1905–06)
+Henry White  (1907–08)
+Maxime Bôcher  (1909–10)
+Henry Fine  (1911–12)
+Edward Van Vleck  (1913–14)
+Ernest Brown   (1915–16)
+Leonard Dickson (1917–18)
+Frank Morley (1919–20)
+Gilbert Bliss (1921–22)
+Oswald Veblen (1923–24)
+George Birkhoff (1925–26)
+Virgil Snyder (1927–28)
+Earle Raymond Hedrick (1929–30)
+Luther Eisenhart (1931–32)
+Arthur Byron Coble (1933–34)
+Solomon Lefschetz (1935–36)
+Robert Moore (1937–38)
+Griffith C. Evans (1939–40)
+Marston Morse (1941–42)
+Marshall Stone (1943–44)
+Theophil Hildebrandt (1945–46)
+Einar Hille (1947–48)
+Joseph L. Walsh (1949–50)John von Neumann (1951–52)
+Gordon Whyburn (1953–54)
+Raymond Wilder (1955–56)
+Richard Brauer (1957–58)
+Edward McShane (1959–60)
+Deane Montgomery (1961–62)
+Joseph Doob (1963–64)
+Abraham Albert (1965–66)
+Charles B. Morrey Jr. (1967–68)
+Oscar Zariski (1969–70)
+Nathan Jacobson (1971–72)
+Saunders Mac Lane (1973–74)
+Lipman Bers (1975–76)
+R. H. Bing (1977–78)
+Peter Lax (1979–80)
+Andrew Gleason (1981–82)
+Julia Robinson (1983–84)
+Irving Kaplansky (1985–86)
+George Mostow (1987–88)
+William Browder (1989–90)
+Michael Artin (1991–92)
+Ronald Graham (1993–94)
+Cathleen Morawetz (1995–96)
+Arthur Jaffe (1997–98)
+Felix Browder (1999–2000)Hyman Bass (2001–02)
+David Eisenbud (2003–04)
+James Arthur (2005–06)
+James Glimm (2007–08)
+George E. Andrews (2009–10)
+Eric M. Friedlander (2011–12)
+David Vogan (2013–14)
+Robert L. Bryant (2015–16)
+Ken Ribet (2017–18)
+Jill Pipher (2019–20)
+Ruth Charney (2021–22)Canadian Mathematical Society
+Mathematical Association of America
+European Mathematical Society
+London Mathematical Society
+List of mathematical societiesOfficial website
+MacTutor: The American Mathematical SocietyThis article incorporates material from American Mathematical Society on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.
+Coordinates: 41°50′14″N 71°24′44″W﻿ / ﻿41.8372°N 71.4123°W﻿ / 41.8372; -71.4123

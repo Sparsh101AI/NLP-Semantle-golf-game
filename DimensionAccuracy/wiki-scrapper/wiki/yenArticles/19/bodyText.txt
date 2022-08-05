@@ -1,0 +1,140 @@
+The McDonnell F-101 Voodoo is a supersonic jet fighter which served the United States Air Force (USAF) and the Royal Canadian Air Force (RCAF). 
+Initially designed by McDonnell Aircraft Corporation as a long-range bomber escort (known as a penetration fighter) for the USAF's Strategic Air Command (SAC), the Voodoo was instead developed as a nuclear-armed fighter-bomber for the USAF's Tactical Air Command (TAC), and as a photo reconnaissance aircraft based on the same airframe. An F-101A set a number of world speed records for jet-powered aircraft, including fastest airspeed, attaining 1,207.6 miles (1,943.4 km) per hour on 12 December 1957. They operated in the reconnaissance role until 1979.
+Delays in the 1954 interceptor project led to demands for an interim interceptor aircraft design, a role that was eventually won by the B model of the Voodoo. This required extensive modifications to add a large radar to the nose of the aircraft, a second crew member to operate it, and a new weapons bay using a rotating door that kept its four AIM-4 Falcon missiles or two AIR-2 Genie rockets hidden within the airframe until it was time to be fired. The F-101B entered service with USAF Air Defense Command in 1959 and the Royal Canadian Air Force in 1961. US examples were handed off to the USAF Air National Guard where they served until 1982. Canadian examples remained in service until 1984.
+The Voodoo's career as a fighter-bomber was relatively brief, but the reconnaissance versions served for some time. Along with the US Air Force's Lockheed U-2 and US Navy's Vought RF-8 Crusaders, the RF-101 reconnaissance variant of the Voodoo was instrumental during the Cuban Missile Crisis and saw extensive service during the Vietnam War. Interceptor versions served with the Air National Guard until 1982, and in Canadian service, they were a front line part of NORAD until their replacement with the CF-18 Hornet in the 1980s.
+While the Voodoo was a moderate success, it may have been more important as an evolutionary step towards its replacement in most roles, the F-4 Phantom II, one of the most successful Western fighter designs of the 1950s. The Phantom would retain the twin engines, twin crew for interception duties, and a tail mounted well above and behind the jet exhaust but was an evolution of the F3H Demon while the Voodoo was developed from the earlier XF-88 Voodoo.
+Initial design on what would eventually become the Voodoo began just after World War II in response to a USAAF Penetration Fighter Competition in 1946. This called for a long-range, high-performance fighter to escort a new generation of bombers, much as the North American P-51 Mustang had escorted the Boeing B-17 Flying Fortresses and Consolidated B-24 Liberators in World War II. Several companies responded with designs, and the Air Force provided funds for several of them to produce prototypes.
+After being awarded a contract (AC-14582) on 14 February 1947, McDonnell built two prototypes, designated the XF-88 Voodoo. The first prototype (serial number 46-6525), powered by two 3,000 lbf (13.3 kN) Westinghouse XJ34-WE-13 turbojets, flew from Muroc on 20 October 1948. Preliminary testing revealed that while handling and range was adequate, the top speed was a disappointing 641 mph (1,032 km/h) at sea level. After fitting McDonnell-designed afterburners to the second prototype, thrust was increased to 3,600 lbf (16.1 kN) with corresponding performance increases in top speed, initial rate of climb and reduced takeoff distance. Fuel consumption was greatly increased by use of the afterburners, however, reducing the range.
+Although the XF-88 won the "fly-off" competition against the competing Lockheed XF-90 and North American YF-93, the detonation of the first nuclear weapon by the Soviet Union resulted in the USAF (created in 1947) re-evaluating its fighter needs, with interceptors being more important and bomber escorts being of reduced priority, and it terminated the Penetration Fighter program in 1950. Analysis of Korean War missions, however, revealed that contemporary USAF strategic bombers were vulnerable to fighter interception. In 1951, the USAF issued a new requirement for a bomber escort with all major US manufacturers submitting designs. The McDonnell design was a larger and higher-powered version of the XF-88 and won the bid in May 1951. The F-88 was redesignated the F-101 Voodoo in November 1951.
+The new design was considerably larger, carrying three times the initial fuel load and designed around larger, more powerful Pratt & Whitney J57 turbojets. The greater dimensions of the J57 engines required modifications to the engine bays, and modification to the intakes to allow a larger amount of airflow to the engine. The new intakes were also designed to be more efficient at higher Mach numbers. In order to increase aerodynamic efficiency, reduce structural weight and alleviate pitch-up phenomena recently identified in-flight testing of the Douglas D-558-2 Skyrocket, an aircraft with a control surface configuration similar to the XF-88, the horizontal tail was relocated to the top of the vertical stabilizer, giving the F-101 its signature "T-tail". In late 1952, the mission of the F-101 was changed from "penetration fighter" to "strategic fighter", which entailed equal emphasis on both the bomber escort mission and on nuclear weapons delivery. The new Voodoo mock-up with the reconfigured inlets, tail surfaces, landing gear, and dummy nuclear weapon was inspected by Air Force officials in March 1953. The design was approved, and an initial order for 29 F-101As was placed on 28 May 1953, no prototypes being required as the F-101 was considered a simple development of the XF-88, with the Cook-Cragie production policy, in which initial low-rate production would be used for testing without the use of separate prototypes, chosen instead.
+F-101A serial number 53-2418 was the first production aircraft; its maiden flight was on 29 September 1954 at Edwards AFB where it reached Mach 0.9 (960 km/h) at 35,000 feet (11,000 m). This aircraft, which is privately owned, has been moved to the Evergreen Maintenance Center in Marana, Arizona, restored, and now on display at the Evergreen Aviation & Space Museum in McMinnville, Oregon. It was previously on display at the Pueblo Weisbrod Aircraft Museum.
+The end of the war in Korea and the development of the jet-powered Boeing B-52 Stratofortress negated the need for fighter escort and Strategic Air Command withdrew from the program.
+Despite SAC's loss of interest, the aircraft attracted the attention of Tactical Air Command (TAC), and the F-101 was reconfigured as a fighter bomber, intended to carry a single nuclear weapon for use against tactical targets such as airfields. With the support of TAC, testing was resumed, with Category II flight tests beginning in early 1955. A number of problems were identified during development, with many of these fixed. The aircraft had a dangerous tendency toward severe pitch-up at high angle of attack that was never entirely solved. Around 2,300 improvements were made to the aircraft in 1955–56 before full production was resumed in November 1956.
+The first F-101A was delivered on 2 May 1957 to the 27th Strategic Fighter Wing, which transferred to TAC in July that year, replacing their F-84F Thunderstreak. The F-101A was powered by two Pratt & Whitney J57-P-13 turbojets, allowing good acceleration, climb-performance, ease in penetrating the sound barrier in level flight, and a maximum performance of Mach 1.52. The F-101's large internal fuel capacity allowed a range of approximately 3,000 mi (4,828 km) nonstop. The aircraft was fitted with an MA-7 fire-control radar for both air-to-air and air-to-ground use, augmented by a Low Altitude Bombing System (LABS) for delivering nuclear weapons, and was designed to carry a Mk 28 nuclear bomb. The original intended payload for the F-101A was the McDonnell Model 96 store, a large fuel/weapons pod similar in concept to that of the Convair B-58 Hustler, but was cancelled in March 1956 before the F-101 entered service. Other operational nuclear payloads included the Mk 7, Mk 43, and Mk 57 weapons. While theoretically capable of carrying conventional bombs, rockets, or Falcon air-to-air missiles, the Voodoo never used such weapons operationally. It was fitted with four 20mm M39 cannon, with one cannon often removed in service to make room for a TACAN beacon-receiver.
+The F-101 set a number of speed records, including: a JF-101A (the ninth F-101A modified as a testbed for the more powerful J-57-P-53 engines of the F-101B) setting a world speed record of 1,207.6 mph (1,943.4 km/h) on 12 December 1957 during "Operation Firewall", beating the previous record of 1,132 mph (1,811 km/h) set by the Fairey Delta 2 in March the previous year. The record was then subsequently taken in May 1958 by a Lockheed F-104 Starfighter. On 27 November 1957, during "Operation Sun Run," an RF-101C set the Los Angeles-New York City-Los Angeles record in 6 hours 46 minutes, the New York to Los Angeles record in 3 hours, 36 minutes, and the Los Angeles to New York record in 3 hours 7 minutes.
+A total of 77 F-101As were built. They were gradually withdrawn from service starting in 1966. Twenty-nine survivors were converted to RF-101G specifications with a modified nose, housing reconnaissance cameras in place of cannons and radar. These served with the Air National Guard through 1972.
+In October 1953, the USAF requested that two F-101As be built as prototype YRF-101A tactical reconnaissance aircraft. These were followed by 35 RF-101A production aircraft. The RF-101A shared the airframe of the F-101A, including its 6.33 g (62 m/s²) limit, but replaced the radar and cannons with up to six cameras in the reshaped nose. Like all other models of the F-101, it had provision for both flying boom and probe-and-drogue in-flight refueling capability, as well as for a buddy tank that allowed it to refuel other aircraft. It entered service in May 1957, replacing the RB-57 Canberra.
+USAF RF-101As from the 363d Tactical Reconnaissance Wing at Shaw AFB, SC flew reconnaissance sorties over Cuba during the Cuban Missile Crisis in October 1962.
+In October 1959, eight RF-101As were transferred to Taiwan, which used them for overflights of the Chinese mainland. These ROCAF RF-101A were modified with the C-model vertical fins and air intake. The intake is used to cool the drag chute compartment and eliminates the 5-minute limit on using the afterburners on the A model. Two were reportedly shot down.
+In the late 1940s, the Air Force had started a research project into the future interceptor aircraft that eventually settled on an advanced specification known as the 1954 interceptor. Contracts for this specification eventually resulted in the selection of the F-102 Delta Dagger, but by 1952 it was becoming clear that none of the parts of the specification other than the airframe would be ready by 1954; the engines, weapons, and fire control systems were all going to take too long to get into service. An effort was then started to quickly produce an interim supersonic design to replace the various subsonic interceptors then in service, and the F-101 airframe was selected as a starting point.
+Although McDonnell proposed the designation F-109 for the new aircraft (which was to be a substantial departure from the basic Voodoo), the USAF assigned the designation F-101B. It was first deployed into service on 5 January 1959, with the 60th Fighter-Interceptor Squadron. The production ended in March 1961. The Voodoo featured a modified cockpit to carry a crew of two, with a larger and more rounded forward fuselage to hold the Hughes MG-13 fire control radar of the F-102. It had a data link to the Semi-Automatic Ground Environment (SAGE) system, allowing ground controllers to steer the aircraft towards its targets by making adjustments through the plane's autopilot. The F-101B had more powerful Pratt & Whitney J57-P-55 engines, making it the only Voodoo not using the −13 engines. The new engines featured a substantially longer afterburner than J57-P-13s. To avoid a major redesign, the extended afterburners were simply allowed to extend out of the fuselage by almost 8  ft (2.4 m). The more powerful engines and aerodynamic refinements allowed an increased speed of Mach 1.85.
+The F-101B was stripped of the four M39 cannons and carried four AIM-4 Falcon air-to-air missiles instead, arranged two apiece on a rotating pallet in the fuselage weapons bay. The initial load was two GAR-1 (AIM-4A) semi-active radar homing and two GAR-2 (AIM-4B) infrared-guided weapons with one of each carried on each side of the rotating pallet. After the first two missiles were fired, the door turned over to expose the second pair. Standard practice was to fire the weapons in SARH/IR pairs to increase the likelihood of a hit. Late-production models had provision for two 1.7-kiloton MB-1/AIR-2 Genie nuclear rockets on one side of the pallet with IR-guided GAR-2A (AIM-4C) on the other side. "Project Kitty Car" upgraded most earlier F-101Bs to this standard beginning in 1961.
+From 1963–66, F-101Bs were upgraded under the Interceptor Improvement Program (IIP; also known as "Project Bold Journey"), with a fire control system enhancement against hostile ECM and an infrared sighting and tracking (IRST) system in the nose in place of the in-flight refueling probe.
+The F-101B was made in greater numbers than the F-101A and C, with a total of 479 being delivered by the end of production in 1961. Most of these were delivered to the Air Defense Command (ADC) beginning in January 1959. The only foreign customer for the F-101B was Canada. For more details on the history of the Voodoo in Canada, see McDonnell CF-101 Voodoo.
+The F-101B was withdrawn from ADC service from 1969 to 1972, with many surviving USAF aircraft transferred to the Air National Guard (replacing F-102s), serving until 1982. The last Voodoo in US service (F-101B-105-MC, AF Ser. No. 58-300) was finally retired by the 2nd Fighter Weapons Squadron at Tyndall AFB, Florida on 21 September 1982.
+The F-101A fighter-bomber had been accepted into Tactical Air Command (TAC) service despite a number of problems. Among others, its airframe had proven to be capable of withstanding only 6.33 g (62 m/s²) maneuvers, rather than the intended 7.33 g (72 m/s²). An improved model, the F-101C, was introduced in 1957. It had a 500 lb (227 kg) heavier structure to allow 7.33-g maneuvers as well as a revised fuel system to increase the maximum flight time in afterburner. Like the F-101A it was also fitted with an underfuselage pylon for carrying nuclear weapons, as well as two hardpoints for 450-US-gallon (1,700 l) drop tanks. A total of 47 were produced.
+Originally serving with the 27th Tactical Fighter Wing at Bergstrom AFB, Texas, the aircraft was transferred in 1958 from TAC to the 81st Tactical Fighter Wing, part of United States Air Forces in Europe (USAFE) which operated three squadrons from the twin RAF air stations Bentwaters & Woodbridge. The 78th Tactical Fighter Squadron was stationed at Woodbridge, while the 91st and 92nd were stationed at Bentwaters. The 81st TFW served as a strategic nuclear deterrent force, the Voodoo's long-range putting almost all of the Warsaw Pact countries, and targets up to 500 miles (800 km) deep into the Soviet Union within reach.
+Both the A and C model aircraft were assigned to the 81st TFW and were used interchangeably within the three squadrons. Operational F-101A/C were upgraded in service with Low Angle Drogued Delivery (LADD) and Low Altitude Bombing System (LABS) equipment for its primary mission of delivering nuclear weapons at extremely low altitudes. Pilots were trained for high speed, low-level missions into Soviet or Eastern Bloc territory, with primary targets being airfields. These missions were expected to be one-way, with the pilots having to eject behind Soviet lines.
+The F-101C never saw combat and was replaced in 1966 with the F-4C Phantom II. Thirty-two aircraft were later converted for unarmed reconnaissance use with the RF-101H designation. They served with Air National Guard units until 1972.
+Using the reinforced airframe of the F-101C, the RF-101C first flew on 12 July 1957, entering service in 1958. Like the RF-101A, the RF-101C had up to six cameras in place of radar and cannons in the reshaped nose and retained the bombing ability of the fighter-bomber versions. 166 RF-101Cs were built, including 96 originally scheduled to be F-101C fighter-bombers.
+The 1964 Project "Toy Tiger" fitted some RF-101C with a new camera package and a centerline pod for photo-flash cartridges. Some were further upgraded under the Mod 1181 program with automatic control for the cameras.
+The RF-101C saw service during the Cuban Missile Crisis and soon followed the North American F-100 Super Sabres in October 1961, into combat when RF-101s from the 67th Tactical Reconnaissance Wing deployed to Vietnam. The RF-101C was deployed operationally during the Vietnam War, sustaining losses with the first F-101 being lost in November 1964 to ground fire. From 1965 through November 1970, its role was gradually taken over by the RF-4C Phantom II. In some 35,000 sorties, 39 aircraft were lost, 33 in combat, including five to SAMs, one to an airfield attack, and one in air combat to a MiG-21 in September 1967. The RF-101C's speed made it largely immune to MiG interception. 27 of the combat losses occurred on reconnaissance missions over North Vietnam. In April 1967, ALQ-71 ECM pods were fitted to provide some protection against SAMs. Although the Voodoo was again able to operate at medium altitudes, the added drag and weight decreased the speed enough to make RF-101 vulnerable to the maneuverable (and cannon-equipped) MiGs and thus requiring fighter escort.
+On 27 November 1957 during Operation Sun Run, an RF-101C piloted by then-Captain Robert Sweet set the Los Angeles-New York City-Los Angeles record in 6 hours 46 minutes, and New York to Los Angeles record in 3 hours, 36 minutes.  Another RF-101C, piloted by then-Lieutenant Gustav Klatt, set a Los Angeles to New York record of 3 hours 7 minutes.
+After withdrawal from Vietnam, the RF-101C continued to serve with USAF units through 1979.
+In service, the RF-101C was nicknamed the "Long Bird"; it was the only version of the Voodoo to see combat.
+Some of the F-101Bs were completed as dual-control operational trainer aircraft initially dubbed TF-101B, but later redesignated F-101F. Seventy-nine new-build F-101Fs were manufactured, and 152 more existing aircraft were later modified with dual controls. Ten of these were supplied to Canada under the designation CF-101F.  These were later replaced with 10 updated aircraft in 1971.
+In the early 1970s, a batch of 22 former Royal Canadian CF-101Bs was returned to the US Air Force and converted to RF-101B reconnaissance aircraft with their radar and weapons bay replaced with a set of three KS-87B cameras and two AXQ-2 TV cameras. An in-flight refueling boom receptacle was also fitted. These aircraft served with the 192d Tactical Reconnaissance Squadron of the Nevada Air National Guard through 1975. They were expensive to operate and maintain and had a short service life.
+ Section source: Angelucci and Bowers 1987, pp. 309–10
+F-101A
+initial production fighter bomber, 77 produced
+NF-101A
+one F-101A used by General Electric for testing of the General Electric J79 engine
+YRF-101A
+two F-101As built as prototype reconnaissance models
+RF-101A
+first reconnaissance version, 35 built
+F-101B
+two-seat interceptor, the most numerous version with 479 built (including CF-101B)
+CF-101B
+112 F-101Bs transferred to Royal Canadian Air Force
+RF-101B
+22 former RCAF CF-101Bs modified for reconnaissance use
+TF-101B
+dual-control trainer version of F-101B, redesignated F-101F, 79 built
+EF-101B
+single F-101B converted for use as a radar target and leased to Canada
+NF-101B
+F-101B prototype based on the F-101A airframe; the second prototype was built with a different nose
+F-101C
+improved fighter-bomber, 47 built
+RF-101C
+reconnaissance version of F-101C airframe, 166 built
+F-101D
+proposed version with General Electric J79 engines, not built
+F-101E
+another J79 proposal, not built
+F-101F
+dual-control trainer version of F-101B; 79 re-designated TF-101Bs plus 152 converted F-101Bs
+CF-101F
+Canadian designation for 20 TF-101B/F-101F dual-control aircraft
+TF-101F
+24 dual-control versions of F-101B, re-designated F-101F (these are included in the -F total)
+RF-101G
+29 F-101As converted for ANG reconnaissance
+RF-101H
+32 F-101Cs converted for reconnaissance use CanadaRoyal Canadian Air Force (1961-1968)
+Canadian Armed Forces
+Air Defence Command (1968-1975)
+Air Command (1975-1984 (historical) TaiwanRepublic of China Air Force United StatesUnited States Air Force
+Colorado State UniversityFollowing the type's retirement, a large number of F-101s are preserved in museums or on display as gate guards.
+General characteristics
+Crew: 2
+Length: 67 ft 5 in (20.55 m)
+Wingspan: 39 ft 8 in (12.09 m)
+Height: 18 ft 0 in (5.49 m)
+Wing area: 368 sq ft (34.2 m)
+Airfoil: root: NACA 65A007 (modified); tip: NACA 65A006 (modified)
+Empty weight: 28,495 lb (12,925 kg)
+Gross weight: 45,665 lb (20,713 kg)
+Max takeoff weight: 52,400 lb (23,768 kg)
+Fuel capacity: 2,053 US gal (1,709 imp gal; 7,770 l) internals plus 2x optional 450 US gal (370 imp gal; 1,700 l) drop-tanks
+Powerplant: 2 × Pratt & Whitney J57-P-55 afterburning turbojet engines, 11,990 lbf (53.3 kN) thrust each dry, 16,900 lbf (75 kN) with afterburnerPerformance
+Maximum speed: 1,134 mph (1,825 km/h, 985 kn) at 35,000 ft (11,000 m)
+Maximum speed: Mach 1.72
+Range: 1,520 mi (2,450 km, 1,320 nmi)
+Service ceiling: 58,400 ft (17,800 m)
+Rate of climb: 36,500 ft/min (185 m/s) 
+Wing loading: 124 lb/sq ft (610 kg/m)
+Thrust/weight: 0.74Armament
+Missiles: 4 (originally 6)× AIM-4 Falcon, or 2× AIR-2 Genie nuclear rockets, plus 2× AIM-4 FalconAvionics
+Hughes MG-13 fire control systemAll models of the aircraft were known by the nickname "One-oh-Wonder" and this was reflected on the aircraft type patches worn by crews.
+Century SeriesRelated development
+McDonnell XF-88 Voodoo
+McDonnell CF-101 VoodooAircraft of comparable role, configuration, and era
+Convair F-102 Delta Dagger
+Convair F-106 Delta Dart
+Lavochkin La-250
+McDonnell Douglas F-4 Phantom II
+Tupolev Tu-28
+Related lists
+List of fighter aircraft
+List of military aircraft of the United StatesAngelucci, Enzo, and Peter M. Bowers. The American Fighter. Sparkford, Somerset, UK: Haynes Publishing Group, 1987. ISBN 0-85429-635-2.
+Characteristics Summary, F-101B, dated 16 August 1960.
+Donald, David, ed. Century Jets: USAF Frontline Fighters of the Cold War. Norwalk, CT; AirTime Publishing, 2003. ISBN 1-880588-68-4.
+Dorr, Robert F. "McDonnell F-88/F-101 Variant Briefing". Wings of Fame, Volume 1. London: Aerospace Publishing, 1995. ISBN 1-874023-68-9.
+Dorr, Robert F., and David Donald. Fighters of the United States Air Force. London: Temple Press/Aerospace, 1990. ISBN 0-600-55094-X.
+Francillon, René J. McDonnell Douglas Aircraft since 1920 (Vol. II). London: Putnam, 1990. (2nd ed.) ISBN 978-0-85177-828-0.
+Francillon, PhD., René J. "It's Witchcraft: McDonnell's F-101 Voodoo". Airpower, Vol. 10, no. 3, May 1980.
+Goodrum, Alastair (January–February 2004). "Down Range: Losses over the Wash in the 1960s and 1970s". Air Enthusiast (109): 12–17. ISSN 0143-5450.
+Gordon, Doug (May–June 1999). "Early Days of the 81st: The 81st TFW USAFE in the 1950s". Air Enthusiast (81): 36–43. ISSN 0143-5450.
+Green, William and Gordon Swanborough. The Great Book of Fighters. St. Paul, Minnesota: MBI Publishing, 2001. ISBN 0-7603-1194-3.
+Greenhalgh, William. The Air Force in Southeast Asia The RF-101 Voodoo 1961-1970. Office of Air Force History. 1979. ISBN 978-1-78039-650-7. This article incorporates text from this source, which is in the public domain.
+Gunston, Bill. Fighters of the Fifties. Cambridge, UK: Patrick Stephens, 1981. ISBN 0-85059-463-4.
+Hansen, Chuck. U.S. Nuclear Weapons. Arlington, Texas: Aerofax, 1988. ISBN 0-517-56740-7.
+Hobson, Chris. Vietnam Air Losses: United States Air Force, Navy and Marine Corps Fixed-Wing Aircraft Losses in Southeast Asia, 1961–73. North Branch, Minnesota: Specialty Press, 2002. ISBN 1-85780-115-6.
+Jenkins, Dennis R., and Tony R. Landis. Experimental & Prototype U.S. Air Force Jet Fighters. North Branch, Minnesota: Specialty Press, 2008. ISBN 978-1-58007-111-6.
+Jones, Lloyd S. U.S. Fighters: Army Air-Force 1925 to 1980s. Fallbrook, California: Aero Publishers, 1975. ISBN 0-8168-9201-6.
+Keaveney, Kevin. McDonnell F-101B/F. (Aerofax Minigraph 5). Arlington, Texas: Aerofax, 1984 ISBN 0-942548-10-8.
+Kinsey, Bert. F-101 Voodoo (Detail and Scale; vol. 21). Blue Ridge Summit, Pennsylvania: Tab Books, 1986.  ISBN 0-8306-8131-0.
+Knaack, Marcelle Size. Encyclopedia of US Air Force Aircraft and Missile Systems: Volume 1 Post-World War II Fighters 1945–1973. Washington, DC: Office of Air Force History, 1978. ISBN 0-912799-59-5.
+Peacock, Lindsay. "The One-O-Wonder". Air International, Volume 29, No. 2, August 1985, pp. 75–81, 93–95. ISSN 0306-5634.
+Taylor, Michael J. H., ed. "The McDonnell Voodoo". Jane's American Fighting Aircraft of the 20th Century. New York: Modern Publishing, 1995. ISBN 978-0-7924-5627-8.
+ United States Air Force Museum Guidebook. Wright-Patterson AFC, Ohio: Air Force Association, 1975 edition.McDonnell F-101 Voodoo articles and publications
+Baugher's F-101 Voodoo Aircraft
+USAF National Museum site: XF-88 page
+F-101A/C fact sheet
+F-101B & F-101B fact sheet
+RF-101A/C fact sheet
+McDonnell F-101 "Voodoo" history & information
+F-101 Voodoo Survivors List of static displays, location, serial numbers, and links.
+(1971) T.O. 1F-101(R)G-1 Flight Manual USAF Series RF-101G and RF-101H Aircraft (Part 1),(Part 2)

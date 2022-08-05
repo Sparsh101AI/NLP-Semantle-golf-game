@@ -1,0 +1,23 @@
+Definitions
+Software verification
+Artifact or specification verification
+Software validation
+Artifact or specification validation
+Validation vs. verification
+Related concepts
+V&V methods
+Formal
+Independent
+History
+At ESA
+Methodology
+Planning
+Requirements verification
+Design verification
+Code verification
+Validation
+Regulatory environment
+See also
+Further reading
+External links
+References

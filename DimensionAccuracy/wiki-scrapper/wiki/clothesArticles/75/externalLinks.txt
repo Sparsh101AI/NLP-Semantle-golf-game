@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Garz%C3%AA_County&params=31.623_N_100.001_E_type:adm3rd_region:CN-51_source:dewiki
+//geohack.toolforge.org/geohack.php?pagename=Garz%C3%AA_County&params=31.623_N_100.001_E_type:adm3rd_region:CN-51_source:dewiki
+https://www.citypopulation.de/php/china-township-garze.php?adm2id=513328
+https://www.citypopulation.de/php/china-township-garze.php?cityid=513328100
+http://data.cma.cn/data/weatherBk.html
+https://web.archive.org/web/20130921055035/http://old-cdc.cma.gov.cn/shuju/search1.jsp?dsid=SURF_CLI_CHN_MUL_MMON_19712000_CES&tpcat=SURF&type=table&pageid=3
+http://old-cdc.cma.gov.cn/shuju/search1.jsp?dsid=SURF_CLI_CHN_MUL_MMON_19712000_CES&tpcat=SURF&type=table&pageid=3
+https://en.wikipedia.org/w/index.php?title=Template:Sichuan&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Garz%C3%AA_Tibetan_Autonomous_Prefecture&action=edit

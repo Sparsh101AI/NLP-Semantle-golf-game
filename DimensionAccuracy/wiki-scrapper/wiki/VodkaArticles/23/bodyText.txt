@@ -1,0 +1,21 @@
+In statistics, interval estimation is the use of sample data to estimate an interval of plausible values of a parameter of interest. This is in contrast to point estimation, which gives a single value.
+The most prevalent forms of interval estimation are confidence intervals (a frequentist method) and  credible intervals (a Bayesian method);
+less common forms include likelihood intervals and fiducial intervals.
+Other forms of statistical intervals include tolerance intervals (covering a proportion of a sampled population) and  prediction intervals (an estimate of a future observation, used mainly in regression analysis).
+Non-statistical methods that can lead to interval estimates include fuzzy logic.
+The scientific problems associated with interval estimation may be summarised as follows:
+When interval estimates are reported, they should have a commonly held interpretation in the scientific community and more widely. In this regard, credible intervals are held to be most readily understood by the general public. Interval estimates derived from fuzzy logic have much more application-specific meanings.
+For commonly occurring situations there should be sets of standard procedures that can be used, subject to the checking and validity of any required assumptions. This applies for both confidence intervals and credible intervals.
+For more novel situations there should be guidance on how interval estimates can be formulated. In this regard confidence intervals and credible intervals have a similar standing but there are differences:
+credible intervals can readily deal with prior information, while confidence intervals cannot.
+confidence intervals are more flexible and can be used practically in more situations than credible intervals: one area where credible intervals suffer in comparison is in dealing with non-parametric models (see non-parametric statistics).There should be ways of testing the performance of interval estimation procedures. This arises because many such procedures involve approximations of various kinds and there is a need to check that the actual performance of a procedure is close to what is claimed. The use of stochastic simulations makes this is straightforward in the case of confidence intervals, but it is somewhat more problematic for credible intervals where prior information needs to be taken properly into account. Checking of credible intervals can be done for situations representing no-prior-information but the check involves checking the long-run frequency properties of the procedures.Severini (1991) discusses conditions under which credible intervals and confidence intervals will produce similar results, and also discusses both the coverage probabilities of credible intervals and the posterior probabilities associated with confidence intervals.
+In decision theory, which is a common approach to and justification for Bayesian statistics, interval estimation is not of direct interest. The outcome is a decision, not an interval estimate, and thus Bayesian decision theorists use a Bayes action: they minimize expected loss of a loss function with respect to the entire posterior distribution, not a specific interval.
+68–95–99.7 rule
+Algorithmic inference
+Coverage probability
+Estimation statistics
+Induction (philosophy)
+Multiple comparisons
+Philosophy of statistics
+Predictive inference
+Behrens–Fisher problem This has played an important role in the development of the theory behind applicable statistical methodologies.Kendall, M.G. and Stuart, A. (1973). The Advanced Theory of Statistics. Vol 2: Inference and Relationship (3rd Edition). Griffin, London.In the above Chapter 20 covers confidence intervals, while Chapter 21 covers fiducial intervals and Bayesian intervals and has discussion comparing the three approaches. Note that this work predates modern computationally intensive methodologies. In addition, Chapter 21 discusses the Behrens–Fisher problem.Meeker, W.Q., Hahn, G.J. and Escobar, L.A. (2017). Statistical Intervals: A Guide for Practitioners and Researchers (2nd Edition). John Wiley & Sons.

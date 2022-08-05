@@ -1,0 +1,30 @@
+Introduction
+Models and assumptions
+Degree of models/assumptions
+Importance of valid models/assumptions
+Approximate distributions
+Randomization-based models
+Model-based analysis of randomized experiments
+Model-free randomization inference
+Paradigms for inference
+Frequentist inference
+Examples of frequentist inference
+Frequentist inference, objectivity, and decision theory
+Bayesian inference
+Examples of Bayesian inference
+Bayesian inference, subjectivity and decision theory
+Likelihood-based inference
+AIC-based inference
+Other paradigms for inference
+Minimum description length
+Fiducial inference
+Structural inference
+Inference topics
+Predictive inference 
+See also
+Notes
+References
+Citations
+Sources
+Further reading
+External links

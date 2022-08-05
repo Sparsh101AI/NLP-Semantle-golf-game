@@ -1,0 +1,32 @@
+TacSat-2 is the first in a series of U.S. military experimental technology and communication satellites.TacSat-2 (also known as JWS-D1 ((Joint Warfighting Space-Demonstrator 1) or RoadRunner) was an experimental satellite built by the USAF's Air Force Research Laboratory with an operational life expected to be not more than one year as part of the "Advanced Concept Technology Demonstration" program.
+The TacSat series of experimental spacecraft are designed to allow military commanders on a battlefield to request and obtain imagery and other data from a satellite as it passes overhead. Collected data will be delivered to field commanders in minutes rather than hours or days. The sensor on TacSat-2 could collect color images sharp enough to distinguish ground objects as small as 1 meter in diameter.
+Satellites in the TacSat series were planned to use commercial or available launchers, and largely off-the-shelf components, in order to reduce costs.
+The satellite bus was built by MicroSat Systems Inc. (MSI) of Littleton, Colorado. The core avionics of the spacecraft including command and data handling, electrical power switching and distribution, and subsystem and payload interfaces was handled by an Integrated Avionics Unit (IAU) developed by Broad Reach Engineering. The spacecraft flight software consisted of the low level drivers, and bus manager functionality provided by Broad Reach Engineering, ADCS Software by ASI, and a number of higher level applications by third parties, most notably the Autonomous Tasking Experiment (ATE) by Interface & Control Systems.
+The developers originally asked for bids from contractors for a camera. These were priced at around US$10 million. The team then bought a high-end observatory telescope costing around US$20,000 and added a camera sensor (US$2 million), delivering a sensor capable of 1m ground resolution.
+The telescope had 50 cm aperture and was from RC Optical Systems.
+A signals intelligence payload, called the Target Indicator Experiment, detected radio wave emitters and could be used in concert with receivers on other platforms such as the US Navy's P-3C maritime patrol aircraft.
+Other systems included:
+RoadRunner Onboard Processing Experiment (ROPE)
+Common Data Link (CDL)
+Autonomous Operations
+Hall Effect Thruster (HET)
+Propulsion Instrument Electronics (PIE) sensor suite
+Inertial Stellar Compass (ISC)
+Low Power Transceiver (LPT)
+Integrated GPS Occultation Receiver (IGOR) 
+Atmospheric Density Mass Spectrometer (ADMS)
+Experimental solar array
+Miniaturized Vibration Isolation System (MVIS)Apart from the Air Force Research Laboratory (AFRL), other organisations participating included: 
+DoD Space Test Program (Space and Missile Systems Center's Space Development and Test Wing),
+United States Naval Research Laboratory,
+United States Army Space and Missile Defense Command,
+Air Force Space Command,
+Space Innovation and Development Center,
+NASA,
+Jet Propulsion Laboratory (JPL),
+BusekTacSat-2 was launched on 16 December 2006 from the Mid-Atlantic Regional Spaceport, Wallops Island Flight Facility, using an Orbital Sciences Corporation (OSC) Minotaur I launch vehicle. The Mid-Atlantic Regional Spaceport is a commercial space launch facility located on the Delmarva Peninsula 8 km (5.0 mi) west of Chincoteague, Virginia.
+The near circular orbit had a height of 410 km at an inclination of 40.0° to the equator. TacSat-2 decayed on 5 February 2011.
+United States Air Force Research Laboratory
+TacSat-1
+TacSat-3USAF (1 September 2006), TacSat-2 Micro Satellite (PDF), Air Force Research Laboratory, archived from the original (PDF) on 12 July 2007, retrieved 18 December 2006
+"TacSat-2 Mission Information". NASA.

@@ -1,0 +1,31 @@
+Standard Sundanese script (Aksara Sunda Baku, ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ ᮘᮊᮥ) is a writing system which is used by the Sundanese people. It is built based on Old Sundanese script (Aksara Sunda Kuno) which was used by the ancient Sundanese between the 14th and 18th centuries. Currently the standard Sundanese script is also commonly referred to as the Sundanese script.
+Old Sundanese was developed based on the Pallava script of India, and was used from the 14th until the 18th centuries. The last manuscript written in Old Sundanese script was Carita Waruga Guru. From the 17th to the 19th centuries, Sundanese was mostly spoken and not written. Javanese and Pegon scripts were used to write Sundanese during this period. In 1996, the government of West Java announced a plan to introduce an official Sundanese script, and in October 1997, Old Sundanese script was chosen and renamed to Aksara Sunda.
+The standardized script has 32 basic characters, consists of 7 aksara swara (independent vowels): a, é, i, o, u, e, and eu, and 23 aksara ngalagéna (consonants with vowel a): ka-ga-nga, ca-ja-nya, ta-da-na, pa-ba-ma, ya-ra-la, wa-sa-ha, fa-va-qa-xa-za.
+The additional five sounds to the ngalagena characters were added to fulfill the purpose of Sundanese script as tool for recording the development of Sundanese language, especially by absorption of foreign words and sounds. However, the glyphs for the new characters are not new, but reusing several variants in old Sundanese script, for example: the glyphs for fa and va are variants of Old Sundanese pa, the glyphs for qa and xa are variants of Old Sundanese ka, and the glyph for za is a variant of Old Sundanese ja.
+There are two non-standard sounds, kha and sha, for writing foreign Arabic consonants ⟨خ⟩ and ⟨ش⟩. These are considered non-standard because their usage is only supported by few Sundanese people.
+There are also rarangkén or attachments for removing, modifying, or adding vowel or consonant sound to the base characters. 13 rarangkén based on the position to the base can be categorized into three groups: (1) five rarangkén above the base characters, (2) three rarangkén below the base characters, and (3) five rarangkén inline the base characters. In addition, there are glyphs for number characters, from zero to nine.
+Graphically, ngalagena characters including rarangkén have angle 45° – 75°. In general, the dimension ratio (height:width) is 4:4, except for the ngalagena character ra (4:3), ba and nya (4:6), and the swara character i (4:3). Rarangkén have dimension ratio 2:2, except for panyecek (1:1), panglayar (4:2), panyakra (2:4), pamaéh (4:2) and pamingkal (2:4 bottom-side, 3:2 right-side). Numbers have ratio 4:4, except for number 4 and 5 (4:3).
+Consonants used for native phonemes
+Consonants for writing foreign words
+Based on their location to the base glyph, 14 rarangkén can be categorized as:
+Rarangkén above the base glyph = 5 kinds
+Rarangkén below the base glyph = 3 kinds
+Rarangkén inline the base glyph = 5 kindsa. Vowel diacritics above the base glyph
+b. Vowel diacritics below the base glyph
+c. Vowel diacritics inline the base glyph
+In texts, numbers are written surrounded with dual pipe sign | ... |.
+Example: |᮲᮰᮲᮰| = 2020
+For modern use, Latin punctuations are used. Such punctuations are: comma, dot, semicolon, colon, exclamation mark, question mark, quotes, parenthesis, bracket etc. Old Sundanese, though, was written using its own set of punctuation symbols. The bindu surya 〈Sundanese: ᳀〉, the representation of the sun, is used in the sequence 〈Sundanese: ᳆᳀᳆〉, which denoted a religious text. Likewise, the bindu panglong 〈Sundanese: ᳁〉, the representation of a half moon, is used in the sequence 〈Sundanese: ᳆᳁〉, which had the same meaning. A third punctuation sequence used as a liturgical text marker is 〈Sundanese: ᳇᳇〉. The bindu purnama 〈Sundanese: ᳂〉, on the other hand, representing a full moon, is used in the sequence 〈Sundanese: ᳅᳂᳅〉, which denoted a historical text. Bindu surya is also sometimes used as the full stop; in this case, bindu purnama is also used as comma. When bindu surya isn't used as full stop, bindu cakra 〈Sundanese: ᳃〉, the representation of a wheel, was used instead of the bindu purnama as a comma.
+The punctuation symbols resembling letters with stripes used in the sequences above, 〈Sundanese: ᳆〉, 〈Sundanese: ᳅〉, and 〈Sundanese: ᳇〉, are respectively named da satanga, ka satanga, and ba satanga, and originated as "decorated" versions of the syllable da 〈Sundanese: ᮓ〉, one half of the syllable ka 〈Sundanese: ᮊ〉, and the syllable ba 〈Sundanese: ᮘ〉, respectively. To these can be added the leu satanga 〈Sundanese: ᳄〉, of unclear meaning. Likewise, it originated as a "decorated" syllable leu 〈Sundanese: ᮼ〉, which is archaic.
+Certain Sundanese words contain consonant clusters. Then, two ways of writing can be used: (1) using pamaéh, or (2) using pasangan (pairs).
+The use of pamaéh is one way to write Sundanese script at basic stage. Another way, the pasangan, is normally used in order to avoid the use of pamaéh in the middle of words, as well as to save writing space. Pasangan is constructed by attaching a second consonant letter to the first one, thus eliminating the /a/ vowel of the first consonant letter.
+Sundanese script was added to the Unicode Standard in April 2008 with the release of version 5.1. In version 6.3, the support of pasangan and some characters from Old Sundanese script were added.
+The Unicode block for Sundanese is U+1B80–U+1BBF.
+The Unicode block for Sundanese Supplement is U+1CC0–U+1CCF.
+Sundanese language
+Old Sundanese language
+Buda scriptSundanese Unicode Table
+Kairaga - Comprehensive information site regarding Sundanese font developing effort
+Sundanese - Latin Online Transliteration and Sundanese Unicode Font
+Sundanese Keyboard - ᮘᮞ ᮞᮥᮔ᮪ᮓ (basa sunda) Keyboard at branah.com
+Sundanese font app

@@ -1,0 +1,7 @@
+PRC (Palm Resource Code) is a container format for code databases in Palm OS, Garnet OS and Access Linux Platform. Its structure is similar to PDB databases. Usually, a PRC file is a flat representation of a Palm OS application that is stored as forked database on the PDA.
+PRC files are also used by the Mobipocket e-book-reader (here sometimes referred to as MOBI format). The AZW format of Amazon's Kindle reading device is in turn a DRM-restricted form of the Mobipocket format.
+On Palm OS, PRC files are used for applications, localized resources (overlays) and shared libraries.
+In its essence, a PRC file is similar to a classic Mac OS application. It contains a PRC header, PRC resource headers and PRC resources.
+The PRC header is located at the beginning of the file and contains meta-information on the file:
+For every resource (specified by num_records), there is a resource header containing:
+Every application contains al least a Code #0 resource with size information and jump tables, a Code #1 resource with executable code and data resources containing pre-initialized values of global variables in compressed form. Other resources that may be contained are forms, form objects, alerts and multimedia data, e. g. images and sounds.

@@ -1,0 +1,199 @@
+In statics and structural mechanics, a structure is statically indeterminate when the static equilibrium equations –  force and moment equilibrium conditions –  are insufficient for determining the internal forces and reactions on that structure.
+Based on Newton's laws of motion, the equilibrium equations available for a two-dimensional body are:
+
+
+
+
+∑
+
+
+
+F
+→
+
+
+
+=
+0
+
+
+{\displaystyle \sum {\vec {F}}=0}
+
+: the vectorial sum of the forces acting on the body equals zero. This translates to:
+
+
+
+
+∑
+H
+=
+0
+
+
+{\displaystyle \sum H=0}
+
+: the sum of the horizontal components of the forces equals zero;
+
+
+
+
+∑
+V
+=
+0
+
+
+{\displaystyle \sum V=0}
+
+: the sum of the vertical components of forces equals zero;
+
+
+
+
+∑
+
+
+
+M
+→
+
+
+
+=
+0
+
+
+{\displaystyle \sum {\vec {M}}=0}
+
+: the sum of the moments (about an arbitrary point) of all forces equals zero.In the beam construction on the right, the four unknown reactions are VA, VB, VC, and HA. The equilibrium equations are:
+Σ V = 0:
+VA − Fv + VB + VC = 0
+Σ H = 0:
+HA = 0
+Σ MA = 0:
+Fv ⋅ a − VB ⋅ (a + b) − VC ⋅ (a + b + c) = 0.Since there are four unknown forces (or variables) (VA, VB, VC and HA) but only three equilibrium equations, this system of simultaneous equations does not have a unique solution. The structure is therefore classified as statically indeterminate. 
+To solve statically indeterminate systems (determine the various moment and force reactions within it), one considers the material properties and compatibility in deformations.
+If the support at B is removed, the reaction VB cannot occur, and the system becomes statically determinate (or isostatic). Note that the system is completely constrained here.
+The system becomes an exact constraint kinematic coupling.
+The solution to the problem is:
+
+
+
+
+
+
+
+
+
+H
+
+A
+
+
+
+
+
+=
+
+F
+
+h
+
+
+
+
+
+
+
+V
+
+C
+
+
+
+
+
+=
+
+
+
+
+F
+
+v
+
+
+⋅
+a
+
+
+a
++
+b
++
+c
+
+
+
+
+
+
+
+
+V
+
+A
+
+
+
+
+
+=
+
+F
+
+v
+
+
+−
+
+V
+
+C
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}H_{A}&=F_{h}\\V_{C}&={\frac {F_{v}\cdot a}{a+b+c}}\\V_{A}&=F_{v}-V_{C}\end{aligned}}}
+
+If, in addition, the support at A is changed to a roller support, the number of reactions are reduced to three (without HA), but the beam can now be moved horizontally; the system becomes unstable or partly constrained—a mechanism rather than a structure. In order to distinguish between this and the situation when a system under equilibrium is perturbed and becomes unstable, it is preferable to use the phrase partly constrained here. In this case, the two unknowns VA and VC can be determined by resolving the vertical force equation and the moment equation simultaneously. The solution yields the same results as previously obtained. However, it is not possible to satisfy the horizontal force equation unless 
+
+
+
+
+F
+
+h
+
+
+=
+0
+
+
+{\displaystyle F_{h}=0}
+
+.
+Descriptively, a statically determinate structure can be defined as a structure where, if it is possible to find internal actions in equilibrium with external loads, those internal actions are unique. The structure has no possible states of self-stress, i.e. internal forces in equilibrium with zero external loads are not possible. Statical indeterminacy, however, is the existence of a non-trivial (non-zero) solution to the homogeneous system of equilibrium equations. It indicates the possibility of self-stress (stress in the absence of an external load) that may be induced by mechanical or thermal action.
+Mathematically, this requires a stiffness matrix to have full rank.
+A statically indeterminate structure can only be analyzed by including further information like material properties and deflections. Numerically, this can be achieved by using methods like matrix structural analyses and finite element analyses.
+Practically, a structure is called 'statically overdetermined' when it comprises more mechanical constraints –  like walls, columns or bolts –  than absolutely necessary for stability.
+Christian Otto Mohr
+Flexibility method
+Moment distribution method
+Overconstrained mechanism
+Structural engineering
+Kinematic determinacyBeam calculation online (Statically indeterminate)

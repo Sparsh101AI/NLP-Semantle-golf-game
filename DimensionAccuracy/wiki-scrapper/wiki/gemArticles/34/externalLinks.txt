@@ -1,0 +1,9 @@
+https://en.wikipedia.org/w/index.php?title=Cantabrian_cuisine&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Cantabrian+cuisine%22
+//www.google.com/search?tbm=nws&q=%22Cantabrian+cuisine%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Cantabrian+cuisine%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Cantabrian+cuisine%22+-wikipedia
+//scholar.google.com/scholar?q=%22Cantabrian+cuisine%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Cantabrian+cuisine%22&acc=on&wc=on
+http://elmundovino.elmundo.es/elmundovino/noticia.html?vi_seccion=12&vs_fecha=200504&vs_noticia=1113497601
+https://en.wikipedia.org/w/index.php?title=Template:Cuisines&action=edit

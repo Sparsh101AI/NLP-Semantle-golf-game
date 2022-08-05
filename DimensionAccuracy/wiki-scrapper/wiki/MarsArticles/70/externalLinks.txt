@@ -1,0 +1,15 @@
+https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2006-058A
+https://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2006-058A
+https://web.archive.org/web/20070930203400/http://pdf.aiaa.org/preview/CDReadyMSPACE05_1181/PV2005_6830.pdf
+https://archive.today/20120724124219/http://www.defensenews.com/story.php?F=2395306&C=airwar
+http://www.defensenews.com/story.php?F=2395306&C=airwar
+http://www.aboutspace.com/spacenews/archive06/tacsat_1204.html
+https://web.archive.org/web/20160710100524/http://www.astronautix.com/t/index.html
+http://www.astronautix.com/t/index.html
+http://www.broadreachengineering.com/igor06.html
+https://web.archive.org/web/20070712213035/http://www.vs.afrl.af.mil/FactSheets/TacSat-2.pdf
+http://www.vs.afrl.af.mil/factsheets/tacsat-2.pdf
+https://www.nasa.gov/centers/wallops/missions/tacsat2.html
+https://en.wikipedia.org/w/index.php?title=Template:TacSat&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:AFRL_spacecraft&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Orbital_launches_in_2006&action=edit

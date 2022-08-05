@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Riverbanks_Zoo&params=34.009651_N_81.072436_W_type:landmark_scale:2500
+//geohack.toolforge.org/geohack.php?pagename=Riverbanks_Zoo&params=34.009651_N_81.072436_W_type:landmark_scale:2500
+http://www.aza.org/current-accreditation-list
+https://www.riverbanks.org/media-center/general-info/history
+http://www.riverbanks.org/animals/africanplains.shtml
+http://www.riverbanks.org/animals/arc.shtml
+https://web.archive.org/web/20080723105853/http://www.riverbanks.org/mediacenter/assets/files/infosheet05d.pdf
+http://www.riverbanks.org/mediacenter/assets/files/infosheet05d.pdf
+http://www.riverbanks.org/animals/ndokiforest.shtml
+http://www.riverbanks.org/media-center/releases-2014/0320.shtml
+http://www.riverbanks.org/
+https://en.wikipedia.org/w/index.php?title=Template:Zoos_of_South_Carolina&action=edit
+https://isni.org/isni/0000000404281057

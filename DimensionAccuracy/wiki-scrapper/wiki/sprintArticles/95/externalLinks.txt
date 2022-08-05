@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=El_Pe%C3%B1ol,_Antioquia&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22El+Pe%C3%B1ol%2C+Antioquia%22
+//www.google.com/search?tbm=nws&q=%22El+Pe%C3%B1ol%2C+Antioquia%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22El+Pe%C3%B1ol%2C+Antioquia%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22El+Pe%C3%B1ol%2C+Antioquia%22+-wikipedia
+//scholar.google.com/scholar?q=%22El+Pe%C3%B1ol%2C+Antioquia%22
+https://www.jstor.org/action/doBasicSearch?Query=%22El+Pe%C3%B1ol%2C+Antioquia%22&acc=on&wc=on
+//geohack.toolforge.org/geohack.php?pagename=El_Pe%C3%B1ol,_Antioquia&params=6_13_7_N_75_14_36_W_region:CO_type:adm2nd_source:GNS-enwiki
+//geohack.toolforge.org/geohack.php?pagename=El_Pe%C3%B1ol,_Antioquia&params=6_13_7_N_75_14_36_W_region:CO_type:adm2nd_source:GNS-enwiki
+http://www.statoids.com/yco.html
+https://sitios.dane.gov.co/cnpv/#!/
+https://en.wikipedia.org/w/index.php?title=Template:Department_of_Antioquia&action=edit
+https://en.wikipedia.org/w/index.php?title=El_Pe%C3%B1ol,_Antioquia&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Antioquia-geo-stub&action=edit

@@ -1,0 +1,17 @@
+//geohack.toolforge.org/geohack.php?pagename=Finley,_New_South_Wales&params=35_38_0_S_145_34_0_E_type:city_region:AU-NSW
+//geohack.toolforge.org/geohack.php?pagename=Finley,_New_South_Wales&params=35_38_0_S_145_34_0_E_type:city_region:AU-NSW
+http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC11520
+http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/quickstat/UCL115061
+http://www.phoenixauctions.com.au/cgi-bin/wsPhoenix.sh/Viewpocdwrapper.p?SortBy=NSW&filter=*Finley*
+http://www.finleyshowsociety.org/history.html
+https://apps.environment.nsw.gov.au/dpcheritageapp/ViewHeritageItemDetails.aspx?ID=5012009
+http://finley.org.au/
+http://www.berriganshire.nsw.gov.au/
+http://www.nswrail.net/locations/show.php?name=NSW:Finley&line=NSW:tocumwal:0
+http://www.finleyshowsociety.org/
+https://en.wikipedia.org/w/index.php?title=Template:Berrigan&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Towns_in_Murrumbidgee_Council&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Riverina&action=edit
+https://viaf.org/viaf/424145424638686830585
+https://www.worldcat.org/identities/containsVIAFID/424145424638686830585
+https://musicbrainz.org/area/08ee3950-b341-4eb9-a171-6bcda17b0602

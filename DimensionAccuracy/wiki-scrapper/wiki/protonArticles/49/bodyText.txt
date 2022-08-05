@@ -1,0 +1,170 @@
+A period 4 element is one of the chemical elements in the fourth row (or period) of the periodic table of the elements. The periodic table is laid out in rows to illustrate recurring (periodic) trends in the chemical behaviour of the elements as their atomic number increases: a new row is begun when chemical behaviour begins to repeat, meaning that elements with similar behaviour fall into the same vertical columns. The fourth period contains 18 elements beginning with potassium and ending with krypton – one element for each of the eighteen groups. It sees the first appearance of d-block (which includes transition metals) in the table.
+Every single one of these elements is stable, and many are extremely common in the Earth's crust and/or core; it is the last period with no unstable elements at all. Many of the transition metals in period 4 are very strong, and therefore commonly used in industry, especially iron. Three adjacent elements are known to be toxic, with arsenic one of the most well-known poisons, selenium being toxic to humans in large quantities, and bromine, a toxic liquid. Many elements are essential to humans' survival, such as calcium being what forms bones.
+Progressing towards increase of atomic number, the Aufbau principle causes elements of the period to put electrons onto 4s, 3d, and 4p subshells, in that order. However, there are exceptions, such as chromium. The first twelve elements—K, Ca, and transition metals—have from 1 to 12 valence electrons respectively, which are placed on 4s and 3d.
+Twelve electrons over the electron configuration of argon reach the configuration of zinc, namely 3d 4s. After this element, the filled 3d subshell effectively withdraws from chemistry and the subsequent trend looks much like trends in the periods 2 and 3. The p-block elements of period 4 have their valence shell composed of 4s and 4p subshells of the fourth (n = 4) shell and obey the octet rule.
+For quantum chemistry namely this period sees transition from the simplified electron shell paradigm to research of many differently-shaped subshells. The relative disposition of their energy levels is governed by the interplay of various physical effects. The period's s-block metals put their differentiating electrons onto 4s despite having vacancies among nominally lower n = 3 states – a phenomenon unseen in lighter elements. Contrariwise, the six elements from gallium to krypton are the heaviest where all electron shells below the valence shell are filled completely. This is no longer possible in further periods due to the existence of f-subshells starting from n = 4.
+
+
+Chemical element
+
+Block
+
+Electron configuration
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+19
+K
+Potassium
+s-block
+[Ar] 4s
+
+
+20
+Ca
+Calcium
+s-block
+[Ar] 4s
+
+
+21
+Sc
+Scandium
+d-block
+[Ar] 3d 4s
+
+
+22
+Ti
+Titanium
+d-block
+[Ar] 3d 4s
+
+
+23
+V
+Vanadium
+d-block
+[Ar] 3d 4s
+
+
+24
+Cr
+Chromium
+d-block
+[Ar] 3d 4s (*)
+
+
+25
+Mn
+Manganese
+d-block
+[Ar] 3d 4s
+
+
+26
+Fe
+Iron
+d-block
+[Ar] 3d 4s
+
+
+27
+Co
+Cobalt
+d-block
+[Ar] 3d 4s
+
+
+28
+Ni
+Nickel
+d-block
+[Ar] 3d 4s
+
+
+29
+Cu
+Copper
+d-block
+[Ar] 3d 4s (*)
+
+
+30
+Zn
+Zinc
+d-block
+[Ar] 3d 4s
+
+
+31
+Ga
+Gallium
+p-block
+[Ar] 3d 4s 4p
+
+
+32
+Ge
+Germanium
+p-block
+[Ar] 3d 4s 4p
+
+
+33
+As
+Arsenic
+p-block
+[Ar] 3d 4s 4p
+
+
+34
+Se
+Selenium
+p-block
+[Ar] 3d 4s 4p
+
+
+35
+Br
+Bromine
+p-block
+[Ar] 3d 4s 4p
+
+
+36
+Kr
+Krypton
+p-block
+[Ar] 3d 4s 4p
+(*) Exception to the Madelung rule
+Potassium (K) is an alkali metal, placed under sodium and over rubidium, and is the first element of period 4. It is one of the most reactive elements in the periodic table, therefore usually only found in compounds. It tends to oxidize in air very rapidly, thus accounting for its rapid reaction with oxygen when freshly exposed to air. When freshly exposed, it is rather silvery, but it quickly begins to tarnish as it reacts with air. It is soft enough to be cut with a knife and it is the second least dense element. Potassium has a relatively low melting point; it will melt just by putting it under a small open flame. It also is less dense than water, and can, in turn, float.
+Calcium (Ca) is the second element in the period. An alkali earth metal, calcium is almost never found in nature due to its high reactivity with water. It has one of the most widely known and acknowledged biological roles in all animals and some plants, making up bones and teeth, and used in some applications in cells, such as signals for cellular processeses. It is regarded as the most abundant mineral in the body's mass.
+Scandium (Sc) is the third element in the period, and is the first transition metal in the periodic table. Scandium is quite common in nature, but difficult to isolate because it is most prevalent in rare earth compounds, which are difficult to isolate elements from. Scandium has very few commercial applications because of the aforementioned facts, and currently its only major application is in aluminium alloys.
+Titanium (Ti) is an element in group 4. Titanium is both one of the least dense metals and one of the strongest and most corrosion-resistant, and as such has many applications, especially in alloys with other elements, such as iron. Due to its aforementioned properties, it is commonly used in airplanes, golf clubs, and other objects that must be strong, but lightweight.
+Vanadium (V) is an element in group 5. Vanadium is never found in pure form in nature, but is commonly found in compounds. Vanadium is similar to titanium in many ways, such as being very corrosion-resistant, however, unlike titanium, it oxidizes in air even at room temperature. All vanadium compounds have at least some level of toxicity, with some of them being extremely toxic.
+Chromium (Cr) is an element in group 6. Chromium is, like titanium and vanadium before it, extremely resistant to corrosion, and is indeed one of the main components of stainless steel. Chromium also has many colorful compounds, and as such is very commonly used in pigments, such as chrome green.
+Manganese (Mn) is an element in group 7. Manganese is often found in combination with iron. Manganese, like chromium before it, is an important component in stainless steel, preventing the iron from rusting. Manganese is also often used in pigments, again like chromium. Manganese is also poisonous; if enough is inhaled, it can cause irreversible neurological damage.
+Iron (Fe) is an element in group 8. Iron is the most common on Earth among elements of the period, and probably the most well-known of them. It is the principal component of steel. Iron-56 has the lowest energy density of any isotope of any element, meaning that it is the most massive element that can be produced in supergiant stars. Iron also has some applications in the human body; hemoglobin is partly iron.
+Cobalt (Co) is an element in group 9. Cobalt is commonly used in pigments, as many compounds of cobalt are blue in color. Cobalt is also a core component of many magnetic and high-strength alloys. The only stable isotope, cobalt-59, is an important component of vitamin B-12, while cobalt-60 is a component of nuclear fallout and can be dangerous in large enough quantities due to its radioactivity.
+Nickel (Ni) is an element in group 10. Nickel is rare in the Earth's crust, mainly due to the fact that it reacts with oxygen in the air, with most of the nickel on Earth coming from nickel iron meteorites. However, nickel is very abundant in the Earth's core; along with iron it is one of the two main components. Nickel is an important component of stainless steel, and in many superalloys.
+Copper (Cu) is an element in group 11. Copper is one of the few metals that is not white or gray in color, the only others being gold and caesium. Copper has been used by humans for thousands of years to provide a reddish tint to many objects, and is even an essential nutrient to humans, although too much is poisonous. Copper is also commonly used as a wood preservative or fungicides.
+Zinc (Zn) is an element in group 12. Zinc is one of the main components of brass, being used since the 10th century BCE. Zinc is also incredibly important to humans; almost 2 billion people in the world suffer from zinc deficiency.  However, too much zinc can cause copper deficiency. Zinc is often used in batteries, aptly named carbon-zinc batteries, and is important in many platings, as zinc is very corrosion resistant.
+Gallium (Ga) is an element in group 13, under aluminium. Gallium is noteworthy because it has a melting point at about 303 kelvins, right around room temperature. For example, it will be solid on a typical spring day, but will be liquid on a hot summer day. Gallium is an important component in the alloy galinstan, along with tin. Gallium can also be found in semiconductors.
+Germanium (Ge) is an element in group 14. Germanium, like silicon above it, is an important semiconductor and is commonly used in diodes and transistors, often in combination with arsenic. Germanium is fairly rare on Earth, leading to its comparatively late discovery. Germanium, in compounds, can sometimes irritate the eyes, skin, or lungs.
+Arsenic (As) is an element in group 15. Arsenic, as mentioned above, is often used in semiconductors in alloys with germanium. Arsenic, in pure form and some alloys, is incredibly poisonous to all multicellular life, and as such is a common component in pesticides. Arsenic was also used in some pigments before its toxicity was discovered.
+Selenium (Se) is an element in group 16. Selenium is the first nonmetal in period 4, with properties similar to sulfur. Selenium is quite rare in pure form in nature, mostly being found in minerals such as pyrite, and even then it is quite rare. Selenium is necessary for humans in trace amounts, but is toxic in larger quantities. Selenium is a chalcogen. Selenium is red in monomolar structure but metallic gray in its crystalline structure.
+Bromine (Br) is an element in group 17 (halogen). It does not exist in elemental form in nature. Bromine is barely liquid at room temperature, boiling at about 330 kelvins. Bromine is also quite toxic and corrosive, but bromide ions, which are relatively inert, can be found in halite, or table salt. Bromine is often used as a fire retardant because many compounds can be made to release free bromine atoms.
+Krypton (Kr) is a noble gas, placed under argon and over xenon. Being a noble gas, krypton rarely interacts with itself or other elements; although compounds have been detected, they are all unstable and decay rapidly, and as such, krypton is often used in fluorescent lights. Krypton, like most noble gases, is also used in lighting because of its many spectral lines and the aforementioned reasons.
+Many period 4 elements find roles in controlling protein function as secondary messengers, structural components, or enzyme cofactors. A gradient of potassium is used by cells to maintain a membrane potential which enables neurotransmitter firing and facilitated diffusion among other processes. Calcium is a common signaling molecule for proteins such as calmodulin and plays a critical role in triggering skeletal muscle contraction in vertebrates. Selenium is a component of the noncanonical amino acid, selenocysteine; proteins which contain selenocysteine are known as selenoproteins. Manganese enzymes are utilized by both eukaryotes and prokaryotes, and may play a role in the virulence of some pathogenic bacteria. Vanabins, also known as vanadium-associated proteins, are found in the blood cells of some species of sea squirts. The role of these proteins is disputed, although there is some speculation that they function as oxygen carriers. Zinc ions are used to stabilize the zinc finger milieu of many DNA-binding proteins.  
+Period 4 elements can also be found complexed with organic small molecules to form cofactors. The most famous example of this is heme: an iron-containing porphyrin compound responsible for the oxygen-carrying function of myoglobin and hemoglobin as well as the catalytic activity of cytochrome enzymes. Hemocyanin replaces hemoglobin as the oxygen carrier of choice in the blood of certain invertebrates, including horseshoe crabs, tarantulas, and octopuses. Vitamin B12 represents one of the few biochemical applications for cobalt.

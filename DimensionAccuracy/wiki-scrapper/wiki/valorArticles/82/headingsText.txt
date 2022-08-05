@@ -1,0 +1,19 @@
+Overview
+Philosophy
+Software-based ("soft")
+Techniques
+Notable simulators
+Program-based
+Module-based
+Parameter-based
+Neural net–based
+Complex systems modeling
+Hardware-based ("hard")
+Biochemical-based ("wet")
+Open problems
+Related subjects
+History
+Criticism
+See also
+References
+External links

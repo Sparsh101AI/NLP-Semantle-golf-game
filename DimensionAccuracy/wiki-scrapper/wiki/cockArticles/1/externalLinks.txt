@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Cock_Bridge_(Aberdeenshire)&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Cock+Bridge%22+Aberdeenshire
+//www.google.com/search?tbm=nws&q=%22Cock+Bridge%22+Aberdeenshire+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Cock+Bridge%22+Aberdeenshire&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Cock+Bridge%22+Aberdeenshire+-wikipedia
+//scholar.google.com/scholar?q=%22Cock+Bridge%22+Aberdeenshire
+https://www.jstor.org/action/doBasicSearch?Query=%22Cock+Bridge%22+Aberdeenshire&acc=on&wc=on
+https://geohack.toolforge.org/geohack.php?pagename=Cock_Bridge_(Aberdeenshire)&params=57.167605092107_N_3.2302555657059_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Cock_Bridge_(Aberdeenshire)&params=57_09_57_N_3_13_48_W_region:GB_type:city_source:GNS-enwiki
+//geohack.toolforge.org/geohack.php?pagename=Cock_Bridge_(Aberdeenshire)&params=57_09_57_N_3_13_48_W_region:GB_type:city_source:GNS-enwiki
+https://en.wikipedia.org/w/index.php?title=Template:Marr,_Aberdeenshire_places&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Aberdeenshire_places&action=edit
+https://en.wikipedia.org/w/index.php?title=Cock_Bridge_(Aberdeenshire)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Aberdeenshire-stub&action=edit

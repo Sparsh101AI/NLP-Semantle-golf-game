@@ -1,0 +1,15 @@
+
+In metaphysics, Plato's beard is a paradoxical argument dubbed by Willard Van Orman Quine in his 1948 paper "On What There Is". The phrase came to be identified as the philosophy of understanding something based on what does not exist.
+Quine defined Plato's beard – and his reason for naming it so – in the following words:
+
+This is the old Platonic riddle of nonbeing. Nonbeing must in some sense be, otherwise what is it that there is not? This tangled doctrine might be nicknamed Plato's beard; historically it has proved tough, frequently dulling the edge of Occam's razor.
+
+The argument has been favored by prominent philosophers including Bertrand Russell, A. J. Ayer and C. J. F. Williams. Declaring that not p (¬p) cannot exist, one may be forced to abandon truisms such as negation and modus tollens. There are also variations to Quine's original, which included its application both to singular and general terms. Quine initially applied the doctrine to singular terms only before expanding it so that it covers general terms as well.
+Karl Popper stated the inverse. "Only if Plato's beard is sufficiently tough, and tangled by many entities, can it be worth our while to use Ockham's razor." Russell's theory of "singular descriptions", which clearly show "how we might meaningfully use seeming names without supposing that there be the entities allegedly named", is supposed to "detangle" Plato's beard.
+Antigonish (poem) – 1899 William Hughes Mearns poem
+Empty name
+Extensional and intensional definitions – Classification of definitions in mathematics, philosophy, and logic
+Meinong's jungle – Repository of non-existent objects
+Noneism – Philosophical view; modal Meinongianism
+Ostensive definition – Definition by exampleDurrant, Michael (1998). "Plato's Quinean Beard: Did Plato ever grow it?". Philosophy. 73 (1): 113–121. doi:10.1017/S003181919700003X. ISSN 0031-8191.
+Bunnin, Nicholas; Yu, Jiyuan, eds. (2004). The Blackwell Dictionary of Western Philosophy. doi:10.1111/b.9781405106795.2004.x. ISBN 978-1405191128. Works related to On What There Is at Wikisource

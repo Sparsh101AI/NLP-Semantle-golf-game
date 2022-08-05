@@ -1,0 +1,36 @@
+In the United States, a metropolitan statistical area (MSA) is a geographical region with a relatively high population density at its core and close economic ties throughout the area. Such regions are neither legally incorporated as a city or town would be, nor are they legal administrative divisions like counties or separate entities such as states; because of this, the precise definition of any given metropolitan area can vary with the source. The statistical criteria for a standard metropolitan area were defined in 1949 and redefined as metropolitan statistical area in 1983. A typical metropolitan area is centered on a single large city that wields substantial influence over the region (e.g., New York City or Chicago). However, some metropolitan areas contain more than one large city with no single municipality holding a substantially dominant position (e.g., Dallas–Fort Worth metroplex, Virginia Beach–Norfolk–Newport News (Hampton Roads), Riverside–San Bernardino (Inland Empire) or Minneapolis–Saint Paul (Twin Cities)). MSAs are defined by the U.S. Office of Management and Budget (OMB) and used by the Census Bureau and other federal government agencies for statistical purposes.
+U.S. Census statistics for metropolitan areas are reported according to the following definitions.
+The U.S. Office of Management and Budget defines a set of core based statistical areas (CBSAs) throughout the country, which are composed of counties and county equivalents. CBSAs are delineated on the basis of a central contiguous area of relatively high population density, known as an urban area or urban cluster. The counties containing the core urban area are known as the central counties of the CBSA; these are defined as having at least 50% of their population living in urban areas of at least 10,000 in population. Additional surrounding counties, known as outlying counties, can be included in the CBSA if these counties have strong social and economic ties to the central counties as measured by commuting and employment. Outlying counties are included in the CBSA if 25% of the workers living in the county work in the central count(ies), or if 25% of the employment in the county is held by workers who live in the central count(ies).
+Adjacent CBSAs are merged into a single CBSA when the central county or counties of one CBSA qualify as an outlying county or counties to the other CBSAs. One or more CBSAs may be grouped together or combined to form a larger statistical entity known as a combined statistical area (CSA) when the employment interchange measure (EIM) reaches 15% or more.
+CBSAs are subdivided into MSAs (formed around urban areas of at least 50,000 in population) and micropolitan statistical areas (μSAs), which are CBSAs built around an urban cluster of at least 10,000 in population but less than 50,000 in population. Some metropolitan areas may include multiple cities below 50,000 people, but combined have over 50,000 people. Previous terms that are no longer used include standard metropolitan statistical area (SMSA) and primary metropolitan statistical area (PMSA).
+On January 19, 2021, OMB submitted a regulation for public comment that would increase the minimum population needed for an urban area population to be a metropolitan statistical area to be increased from 50,000 to 100,000. It ultimately decided to keep the minimum at 50,000 for the 2020 cycle.
+The 384 MSAs of the United States (the 50 states and the District of Columbia) are ranked,  including: 
+The MSA rank by population as of July 1, 2021, as estimated by the United States Census Bureau
+The MSA name as designated by the United States Office of Management and Budget
+The MSA population as of July 1, 2021, as estimated by the United States Census Bureau
+The MSA population as of April 1, 2020, as enumerated by the 2020 United States Census
+The percent MSA population change from April 1, 2020, to July 1, 2021
+The combined statistical area (CSA) if it is designated and the MSA is a componentThis sortable table lists the eight Metropolitan Statistical Areas (MSAs) of Puerto Rico including:
+The MSA rank by population as of July 1, 2021, as estimated by the United States Census Bureau
+The MSA name as designated by the United States Office of Management and Budget
+The MSA population as of July 1, 2021, as estimated by the United States Census Bureau
+The MSA population as of April 1, 2020, as enumerated by the 2020 United States Census
+The percent MSA population change from April 1, 2020, to July 1, 2021
+The Combined Statistical Area (CSA) if the MSA is a componentDemographics of the United States
+United States Census Bureau
+List of U.S. states and territories by population
+List of metropolitan areas of the United States
+List of United States cities by population
+List of United States counties and county-equivalents
+United States Office of Management and Budget
+The OMB has defined 1099 statistical areas comprising 384 MSAs, 543 μSAs, and 172 CSAs
+Primary statistical area (list)
+Combined Statistical Area (list)
+Core Based Statistical Area (list)
+Metropolitan Statistical Area (list)
+Micropolitan Statistical Area (list)US Census Metropolitan Statistical Area Delineations
+United States Government
+United States Census Bureau
+2010 United States Census
+USCB population estimates
+United States Office of Management and Budget

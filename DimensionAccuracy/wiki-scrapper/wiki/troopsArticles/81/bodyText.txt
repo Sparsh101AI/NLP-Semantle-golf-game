@@ -1,0 +1,11 @@
+The Magic Trackpad 2 is a multi-touch and Force Touch trackpad produced by Apple Inc. Announced on October 13, 2015 alongside the Magic Keyboard and the Magic Mouse 2, the Magic Trackpad 2 is the successor to the first Magic Trackpad.
+The Magic Trackpad 2 is similar to its predecessor, with the key differences being a larger form factor, rechargeable  lithium-ion battery and Force Touch. The trackpad also provides haptic feedback via Apple's built-in Taptic Engine that is also used in MacBook trackpads. The Lightning connector is used for charging and pairing.
+In 2021, Apple released a new version just called the Magic Trackpad that comes with an updated braided USB-C to Lightning charging cable and has more rounded corners like the updated Magic Keyboard and Magic Keyboard with Touch ID. In March 2022, a black trackpad with a silver underside which was bundled with the newer Tower Mac Pro was updated with the newer design and made available as a standalone purchase, adding a new color option to the already existing white and silver one.
+OS X El Capitan versions 10.11 and higher.
+iPadOS versions 13.4 and higher.
+Windows 7, Windows XP, and Windows Vista in Apple's Boot Camp.
+Ubuntu Linux can be configured to support most of the MacOS multitouch gestures that Mac OS has.
+Google contributed patches to the Linux kernel for support included in version 4.20 released in Dec 2018.
+Android 4.x (mobile devices)
+Chrome OS (Chromebook devices)Magic Keyboard
+Magic Mouse 2Magic Trackpad 2 at Apple.com

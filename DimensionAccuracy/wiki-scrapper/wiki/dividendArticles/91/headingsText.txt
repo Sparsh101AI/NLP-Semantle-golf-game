@@ -1,0 +1,19 @@
+History
+Examples
+Kleene (strong) K3 and Priest logic P3
+Bochvar's internal three-valued logic
+Belnap logic (B4)
+Gödel logics Gk and G∞
+Łukasiewicz logics Lv and L∞
+Product logic Π
+Post logics Pm
+Rose logics
+Relation to classical logic
+Suszko's thesis
+Functional completeness of many-valued logics
+Applications
+Research venues
+See also
+References
+Further reading
+External links

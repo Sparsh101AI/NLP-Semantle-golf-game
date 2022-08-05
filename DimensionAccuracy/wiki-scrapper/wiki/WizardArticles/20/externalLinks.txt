@@ -1,0 +1,11 @@
+//www.google.com/search?as_eq=wikipedia&q=%22Steve+Kember%22
+//www.google.com/search?tbm=nws&q=%22Steve+Kember%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Steve+Kember%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Steve+Kember%22+-wikipedia
+//scholar.google.com/scholar?q=%22Steve+Kember%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Steve+Kember%22&acc=on&wc=on
+https://www.independent.co.uk/sport/where-are-they-now-steve-kember-1371115.html
+https://web.archive.org/web/20120415123916/http://www.cpfc.co.uk/page/PalaceLegendsK-O/0,,10323~669214,00.html
+https://web.archive.org/web/20060218200832/http://ds.dial.pipex.com/bob.dunning/skember.htm
+http://www.neilbrown.newcastlefans.com/player/stevekember.html
+https://en.wikipedia.org/w/index.php?title=Template:Crystal_Palace_F.C._managers&action=edit

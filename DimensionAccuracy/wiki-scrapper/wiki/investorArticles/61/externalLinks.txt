@@ -1,0 +1,15 @@
+https://commonchemistry.cas.org/detail?cas_rn=1233231-30-5
+https://precision.fda.gov/uniisearch/srs/unii/LSY2D22FBK
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL3545012
+https://chemapps.stolaf.edu/jmol/jmol.php?model=FC1%3DCC%28OC2%3DCC%3DC%28N%3DC3CN%28%5BC%40%40H%5D%28C%28N%28%5BH%5D%29%5BH%5D%29%3DO%29C%29%5BH%5D%29C%28N3C4CCC4%29%3DN2%29%3DCC%28F%29%3DC1F
+https://doi.org/10.1038%2Fscibx.2014.662
+https://doi.org/10.1038%2Fscibx.2014.662
+//www.worldcat.org/issn/1945-3477
+https://doi.org/10.1016%2Fj.bmcl.2014.06.038
+https://doi.org/10.1016%2Fj.bmcl.2014.06.038
+//pubmed.ncbi.nlm.nih.gov/25060923
+http://adisinsight.springer.com/drugs/800036041
+https://en.wikipedia.org/w/index.php?title=Template:Analgesics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Ion_channel_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=DSP-2230&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Analgesic-stub&action=edit

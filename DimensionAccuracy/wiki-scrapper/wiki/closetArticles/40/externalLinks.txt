@@ -1,0 +1,4 @@
+//geohack.toolforge.org/geohack.php?pagename=Villa_Sciarra_(Rome)&params=41.88_N_12.46_E_type:landmark
+http://www.ac.infn.it/personale/formazione/homepage_corsi/VII_progr_UE/storia.htm
+http://www.sovraintendenzaroma.it/i_luoghi/ville_e_parchi_storici/ville_dei_nobili/villa_sciarra
+//geohack.toolforge.org/geohack.php?pagename=Villa_Sciarra_(Rome)&params=41.8835_N_12.4649_E_source:wikidata

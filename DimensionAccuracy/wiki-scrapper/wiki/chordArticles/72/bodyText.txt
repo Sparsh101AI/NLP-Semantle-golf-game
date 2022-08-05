@@ -1,0 +1,3 @@
+The Ehrenstein illusion is an optical illusion studied by the German psychologist Walter Ehrenstein [de] (1899 – 1961) in which the sides of a square placed inside a pattern of concentric circles take an apparent curved shape.
+Sometimes the name "Ehrenstein" is associated with one of the illusory contour figures where the ends of the dark segments produce the illusion of circles. The apparent figures have the same color as the background, but appear brighter. A similar effect is obtained in the Kanizsa triangle.
+

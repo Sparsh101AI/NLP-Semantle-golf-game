@@ -1,0 +1,103 @@
+R. H. Bing (October 20, 1914 – April 28, 1986) was an American mathematician who worked mainly in the areas of geometric topology and continuum theory.   His father was named Rupert Henry, but Bing's mother  thought that "Rupert Henry" was too British for Texas.  She compromised by abbreviating it to R. H. (Singh 1986) Consequently, R. H. does not stand for a first or middle name.
+Bing's mathematical research was almost exclusively in 3-manifold theory and in particular, the geometric topology of 
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+.  The term Bing-type topology was coined to describe the style of methods used by Bing.
+Bing established his reputation early on in 1946, soon after completing his Ph.D. dissertation, by solving the Kline sphere characterization problem. In 1948 he proved that the pseudo-arc is homogeneous, contradicting a published but erroneous 'proof' to the contrary.
+In 1951 he proved results regarding the metrizability of topological spaces, including what would later be called the Bing–Nagata–Smirnov metrization theorem.
+In 1952, Bing showed that the double of a solid Alexander horned sphere was the 3-sphere.  This showed the existence of an involution on the 3-sphere with fixed point set equal to a wildly embedded 2-sphere, which meant that the original Smith conjecture needed to be phrased in a suitable category.  This result also jump-started research into crumpled cubes. The proof involved a method later developed by Bing and others into  set of techniques called Bing shrinking.  Proofs of the generalized Schoenflies conjecture and the double suspension theorem relied on Bing-type shrinking.
+Bing was fascinated by the Poincaré conjecture and made several major attacks which ended unsuccessfully, contributing to the reputation of the conjecture as a very difficult one. He did show that a simply connected, closed 3-manifold with the property that every loop was contained in a 3-ball is homeomorphic to the 3-sphere. Bing was responsible for initiating research into the Property P conjecture, as well as its name, as a potentially more tractable version of the Poincaré conjecture. It was proven in 2004 as a culmination of work from several areas of mathematics. With some irony, this proof was announced some time after Grigori Perelman announced his proof of the Poincaré conjecture.
+The side-approximation theorem was considered by Bing to be one of his key discoveries. It has many applications, including a simplified proof of Moise's theorem, which states that every 3-manifold can be triangulated in an essentially unique way.
+The house with two rooms is a contractible 2-complex that is not collapsible. Another such example, popularized by E.C. Zeeman, is the dunce hat.
+The house with two rooms can also be thickened and then triangulated to be unshellable, despite the thickened house topologically being a 3-ball.  The house with two rooms shows up in various ways in topology.  For example, it is used in the proof that every compact 3-manifold has a standard spine.
+The dogbone space is the quotient space obtained from a cellular decomposition of 
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+ into points and polygonal arcs.  The quotient space, 
+
+
+
+B
+
+
+{\displaystyle B}
+
+,  is not a manifold, but 
+
+
+
+B
+×
+
+R
+
+
+
+{\displaystyle B\times \mathbb {R} }
+
+ is homeomorphic to 
+
+
+
+
+
+R
+
+
+4
+
+
+
+
+{\displaystyle \mathbb {R} ^{4}}
+
+.
+Bing was a visiting scholar at the Institute for Advanced Study in 1957–58 and again in 1962–63.
+Bing served as president of the MAA (1963–1964), president of the AMS (1977–78), and was department chair at University of Wisconsin, Madison (1958–1960), and at University of Texas at Austin (1975–1977).
+Before entering graduate school to study mathematics, Bing graduated from Southwest Texas State Teacher's College (known today as Texas State University), and was a high-school teacher for several years.  His interest in education would persist for the rest of his life.
+Member of the National Academy of Sciences (1965)
+Lester R. Ford Award from the MAA (1965)
+Chairman of Division of Mathematics of the National Research Council (1967–1969)
+United States delegate to the International Mathematical Union (1966, 1978)
+Colloquium Lecturer of the American Mathematical Society (1970)
+Award for Distinguished Service to Mathematics from the Mathematical Association of America (1974)
+Fellow of the American Academy of Arts and Sciences (1980)As mentioned in the introduction, Bing's father was named Rupert Henry, but Bing's mother  thought that "Rupert Henry" was too British for Texas.  Thus she compromised by abbreviating it to R. H. (Singh 1986)
+It is told that once Bing was applying for a visa and was requested not to use initials. He explained that his name was really "R-only H-only Bing", and ended up receiving a visa made out to "Ronly Honly Bing".
+Bing, R. H. (1983), The geometric topology of 3-manifolds, American Mathematical Society Colloquium Publications, vol. 40, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-1040-8, MR 0728227
+Bing, R. H. (1988), Collected papers. Vol. 1, 2, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-0117-8, MR 0950859Anderson, R. D. (1974), "Award for Distinguished Service to Professor R. H. Bing", The American Mathematical Monthly, Mathematical Association of America, 81 (2): 111–113, doi:10.1080/00029890.1974.11993516, ISSN 0002-9890, JSTOR 2976951
+Singh, S. (1986), "R. H. Bing (1914–1986): a tribute", Topology and Its Applications, 24 (1): 5–8, doi:10.1016/0166-8641(86)90045-3, ISSN 0166-8641, MR 0872474
+Krantz, Steven G. (2002). Mathematical Apocrypha: Stories and anecdotes of mathematicians and the mathematical. Spectrum (1 ed.). Washington: The Mathematical Association of America. ISBN 0-88385-539-9.R. H. Bing at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "R. H. Bing", MacTutor History of Mathematics archive, University of St Andrews
+MAA presidents: R. H. Bing
+R H Bing as a car driver
+Starbird's memoir on Bing
+Memorial Resolution - Univ. of Texas, Austin
+R. H. Bing Papers, 1934-1986 (archive)
+National Academy of Sciences Biographical Memoir
+R.H. Bing at Texas State University

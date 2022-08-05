@@ -1,0 +1,14 @@
+UniKey is the most popular third-party software and input method editor (IME) for encoding Vietnamese for Windows. The core, UniKey Vietnamese Input Method, is also the engine imbedded in many Vietnamese software-based keyboards in Windows, Android, Linux, macOS and iOS. UniKey is free and the source code for the UniKey Vietnamese Input Method is distributed under GNU General Public License. The official website of UniKey is unikey.org, which supports both English and Vietnamese.
+UniKey supports:
+Many Vietnamese character sets/encodings:
+TCVN3 (ABC), VN Unicode, VIQR
+VNI, VPS, VISCII, BK HCM1, BK HCM2, etc.
+Unicode UTF-8, Unicode NCR Decimal/Hexadecimal for Web editors.
+All 3 popular input methods: TELEX, VNI and VIQR.
+Win32 platforms: Windows 10, 8, 7, Vista, 2000, XP, 9x/ME.UniKey is a minimalistic software and does not require additional library.
+UniKey for Windows was released as a free program in 1999. It gained popularity for encoding Vietnamese thanks to its speed, simplicity, and reliability. It became the most popular keyboard program for inputting Vietnamese.
+The core engine, UniKey Vietnamese Input Method, is open source and was first released as a part of the x-unikey Vietnamese keyboard for Linux in 2001. Since then, the engine has been integrated in input methods in different OSes and software frameworks. ibus-unikey (developed by Le Quoc Tuan, using UniKey engine) is widely used for Linux distributions.
+From Mac OS X Leopard onwards, released in 2007, Apple has integrated the UniKey Vietnamese Input Method to the built-in Vietnamese input of Mac OS. From 2010, the engine has also been integrated to the built-in Vietnamese keyboard in iOS (starting from iOS 4.0). The UniKey engine is also now running in iPhones, iPads, etc. that uses Vietnamese input.
+UniKey is developed by Pham Kim Long.
+Official website
+

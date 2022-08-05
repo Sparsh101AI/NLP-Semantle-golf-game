@@ -1,0 +1,4 @@
+In cardiovascular physiology, end-diastolic volume (EDV) is the volume of blood in the right and/or left ventricle at end load or filling in (diastole) or the amount of blood in the ventricles just before systole. Because greater EDVs cause greater distention of the ventricle, EDV is often used synonymously with preload, which refers to the length of the sarcomeres in cardiac muscle prior to contraction (systole). An increase in EDV increases the preload on the heart and, through the Frank-Starling mechanism of the heart, increases the amount of blood ejected from the ventricle during systole (stroke volume).
+The right ventricular end-diastolic volume (RVEDV) ranges between 100 and 160 mL. The right ventricular end-diastolic volume index (RVEDVI) is calculated by RVEDV/BSA and ranges between 60 and 100 mL/m.
+End-systolic volume
+Stroke volume

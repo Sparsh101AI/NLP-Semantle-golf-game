@@ -1,0 +1,324 @@
+Floral symmetry describes whether, and how, a flower, in particular its perianth, can be divided into two or more identical or mirror-image parts.
+Uncommonly, flowers may have no axis of symmetry at all, typically because their parts are spirally arranged.
+Most flowers are actinomorphic ("star shaped", "radial"), meaning they can be divided into 3 or more identical sectors which are related to each other by rotation about the centre of the flower. Typically, each sector might contain one tepal or one petal and one sepal and so on. It may or may not be possible to divide the flower into symmetrical halves by the same number of longitudinal planes passing through the axis: Oleander is an example of a flower without such mirror planes. Actinomorphic flowers are also called radially symmetrical or regular flowers. Other examples of actinomorphic flowers are the lily (Lilium, Liliaceae) and the buttercup (Ranunculus, Ranunculaceae).
+Zygomorphic ("yoke shaped", "bilateral" – from the Greek ζυγόν, zygon, yoke, and μορφή, morphe, shape) flowers can be divided by only a single plane into two mirror-image halves, much like a yoke or a person's face. Examples are orchids and the flowers of most members of the Lamiales (e.g., Scrophulariaceae and Gesneriaceae). Some authors prefer the term monosymmetry or bilateral symmetry. The asymmetry allows pollen to be deposited in specific locations on pollinating insects and this specificity can result in evolution of new species.
+Globally and within individual networks, zygomorphic flowers are a minority. Plants with zygomorphic flowers have smaller number of visitor species compared to those with actinomorphic flowers. Sub-networks of plants with zygomorphic flowers share greater connectance, greater asymmetry and lower coextinction robustness for both the plants and the visitor species. Plant taxa with zygomorphic flowers can have a greater risk of extinction due to pollinator decline.
+A few plant species have flowers lacking any symmetry, and therefore having a "handedness". Examples: Valeriana officinalis and Canna indica.
+Actinomorphic flowers are a basal angiosperm character; zygomorphic flowers are a derived character that has evolved many times.
+Some familiar and seemingly actinomorphic so-called flowers, such as those of daisies and dandelions (Asteraceae), and most species of Protea, are actually clusters of tiny (not necessarily actinomorphic) flowers arranged into a roughly radially symmetric inflorescence of the form known as a head, capitulum, or pseudanthium.
+Peloria or a peloric flower is the aberration in which a plant that normally produces zygomorphic flowers produces actinomorphic flowers instead. This aberration can be developmental, or it can have a genetic basis:  the CYCLOIDEA gene controls floral symmetry. Peloric Antirrhinum plants have been produced by knocking out this gene. Many modern cultivars of Sinningia speciosa ("gloxinia") have been bred to have peloric flowers as they are larger and showier than the normally zygomorphic flowers of this species.
+Charles Darwin explored peloria in Antirrhinum (snapdragon) while researching the inheritance of floral characteristics for his The Variation of Animals and Plants Under Domestication. Later research, using Digitalis purpurea, showed that his results were largely in line with Mendelian theory.
+If we consider only those flowers which consist of a single flower, rather than a flower head or other form of inflorescence, we can categorize their symmetries into a relatively small number of two-dimensional symmetry groups. These groups are characterized by two types of symmetries: reflection (or mirror) symmetries, and rotational symmetries. Figures that are left invariant under reflections about a single axis have reflection symmetry, which is described by the cyclic group of order 2, 
+
+
+
+
+C
+
+2
+
+
+
+
+{\displaystyle C_{2}}
+
+ (sometimes denoted 
+
+
+
+
+Z
+
+2
+
+
+
+
+{\displaystyle Z_{2}}
+
+). Figures that are left invariant under rotations by 
+
+
+
+2
+π
+
+/
+
+n
+
+
+{\displaystyle 2\pi /n}
+
+ have a rotational symmetry belonging to the cyclic group of order 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, 
+
+
+
+
+C
+
+n
+
+
+
+
+{\displaystyle C_{n}}
+
+ (or 
+
+
+
+
+Z
+
+n
+
+
+
+
+{\displaystyle Z_{n}}
+
+). Many flowers that are invariant under rotations by 
+
+
+
+2
+π
+
+/
+
+n
+
+
+{\displaystyle 2\pi /n}
+
+ are also invariant under reflections about 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ distinct axes, the combination of these two symmetries forms the larger dihedral group of dimension 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, 
+
+
+
+
+D
+
+n
+
+
+
+
+{\displaystyle D_{n}}
+
+ (which has order 
+
+
+
+2
+n
+
+
+{\displaystyle 2n}
+
+).
+Flowers with bilateral symmetry, such as orchids have reflection symmetry about a single axis and no rotational symmetry, meaning that they are described simply by the reflection group 
+
+
+
+
+C
+
+2
+
+
+
+
+{\displaystyle C_{2}}
+
+.
+Monocots are identifiable by their trimerous petals, meaning that they are often invariant under rotations by 
+
+
+
+2
+π
+
+/
+
+3
+
+
+{\displaystyle 2\pi /3}
+
+ and thus have rotational symmetry. Monocots that exhibit rotational symmetry but not mirror symmetry (for instance, if their petals exhibit chirality) are described by the cyclic group of order 3, 
+
+
+
+
+C
+
+3
+
+
+
+
+{\displaystyle C_{3}}
+
+, and monocots with both rotational symmetry and reflection symmetry about 3 axes are described by the dihedral group of dimension 3, 
+
+
+
+
+D
+
+3
+
+
+
+
+{\displaystyle D_{3}}
+
+.
+Eudicots with tetramerous or pentamerous petals are often invariant under rotations by 
+
+
+
+π
+
+/
+
+2
+
+
+{\displaystyle \pi /2}
+
+ or 
+
+
+
+2
+π
+
+/
+
+5
+
+
+{\displaystyle 2\pi /5}
+
+. Again, whether they also have mirror planes decides whether they belong to dihedral (
+
+
+
+
+D
+
+4
+
+
+
+
+{\displaystyle D_{4}}
+
+ and 
+
+
+
+
+D
+
+5
+
+
+
+
+{\displaystyle D_{5}}
+
+) or cyclic groups (
+
+
+
+
+C
+
+4
+
+
+
+
+{\displaystyle C_{4}}
+
+ or 
+
+
+
+
+C
+
+5
+
+
+
+
+{\displaystyle C_{5}}
+
+). 
+We can see the trend forming that, in general, the order of the cyclic group or dimension of the dihedral group that describes a flower's symmetry will correspond to the merosity of its petals. However, the sepals of some monocot flowers develop to replicate the petals, thus, superficially, certain monocots can appear to have rotational symmetry of order 6 and belong to either symmetry group 
+
+
+
+
+D
+
+6
+
+
+
+
+{\displaystyle D_{6}}
+
+ or 
+
+
+
+
+C
+
+6
+
+
+
+
+{\displaystyle C_{6}}
+
+. Some composite flowers may also have at least a superficial cyclical or dihedral symmetry. How exact this symmetry is depends on the structure of the head of the flower. Even in monocots and eudicots, flower symmetries are rarely perfect, as any imperfections in the petals will result in imperfect invariance under rotations or reflections.
+Patterns in nature
+Phyllotaxis
+Symmetry in biology
+Whorl (botany)Craene, Louis P. Ronse De (2010), Floral diagrams: an aid to understanding flower morphology and evolution, Cambridge: Cambridge University Press, ISBN 9780521493468
+Darwin, Charles (1868). The Variation of Animals and Plants Under Domestication. Vol. II. London: John Murray.
+Endress, P. K. (February 2001). "Evolution of floral symmetry". Curr. Opin. Plant Biol. 4 (1): 86–91. doi:10.1016/S1369-5266(00)00140-0. PMID 11163173.
+Neal P. R.; Dafni A.; Giurfa M. (1998). "Floral symmetry and its role in plant-pollinator systems: terminology, distribution, and hypotheses". Annu Rev Ecol Syst. 29: 345–373. doi:10.1146/annurev.ecolsys.29.1.345. JSTOR 221712.

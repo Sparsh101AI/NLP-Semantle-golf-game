@@ -1,0 +1,22 @@
+4-Hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl glucoside beta-D-glucosidase (EC 3.2.1.182, DIMBOAGlc hydrolase, DIMBOA glucosidase) is an enzyme with systematic name (2R)-4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside beta-D-glucosidase. This enzyme catalyses the following chemical reaction
+(1) (2R)-4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ 2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one + D-glucose
+(2) (2R)-4-hydroxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ 2,4-dihydroxy-2H-1,4-benzoxazin-3(4H)-one + D-glucoseThe enzyme from Triticum aestivum (wheat) has a higher affinity for DIMBOA glucoside than DIBOA glucoside.
+4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl+glucoside+beta-D-glucosidase at the US National Library of Medicine Medical Subject Headings (MeSH)

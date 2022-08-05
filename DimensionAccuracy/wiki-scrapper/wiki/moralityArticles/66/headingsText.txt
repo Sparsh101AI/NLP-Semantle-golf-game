@@ -1,0 +1,9 @@
+History
+Significance of the proof
+Revision of the proof
+An outline of the proof
+Step 1. Local analysis of the structure of the group G
+Step 2. Character theory of G
+Step 3. The final contradiction
+Use of oddness
+References

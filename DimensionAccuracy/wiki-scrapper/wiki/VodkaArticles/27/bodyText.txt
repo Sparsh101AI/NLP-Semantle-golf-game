@@ -1,0 +1,609 @@
+A mixed model, mixed-effects model or mixed error-component model is a statistical model containing both fixed effects and random effects.  These models are useful in a wide variety of disciplines in the physical, biological and social sciences.
+They are particularly useful in settings where repeated measurements are made on the same statistical units (longitudinal study), or where measurements are made on clusters of related statistical units. Because of their advantage in dealing with missing values, mixed effects models are often preferred over more traditional approaches such as repeated measures analysis of variance.
+This page will discuss mainly linear mixed-effects models (LMEM) rather than generalized linear mixed models or nonlinear mixed-effects models.
+Ronald Fisher introduced random effects models to study the correlations of trait values between relatives.  In the 1950s, Charles Roy Henderson
+provided best linear unbiased estimates of fixed effects and best linear unbiased predictions of random effects.  Subsequently, mixed modeling has become a major area of statistical research, including work on computation of maximum likelihood estimates, non-linear mixed effects models, missing data in mixed effects models, and Bayesian estimation of mixed effects models. Mixed models are applied in many disciplines where multiple correlated measurements are made on each unit of interest.  They are prominently used in research involving human and animal subjects in fields ranging from genetics to marketing, and have also been used in baseball and industrial statistics.
+In matrix notation a linear mixed model can be represented as
+
+
+
+
+
+y
+
+=
+X
+
+β
+
++
+Z
+
+u
+
++
+
+ϵ
+
+
+
+{\displaystyle {\boldsymbol {y}}=X{\boldsymbol {\beta }}+Z{\boldsymbol {u}}+{\boldsymbol {\epsilon }}}
+
+where
+
+
+
+
+
+y
+
+
+
+{\displaystyle {\boldsymbol {y}}}
+
+ is a known vector of observations, with mean 
+
+
+
+E
+(
+
+y
+
+)
+=
+X
+
+β
+
+
+
+{\displaystyle E({\boldsymbol {y}})=X{\boldsymbol {\beta }}}
+
+;
+
+
+
+
+
+β
+
+
+
+{\displaystyle {\boldsymbol {\beta }}}
+
+ is an unknown vector of fixed effects;
+
+
+
+
+
+u
+
+
+
+{\displaystyle {\boldsymbol {u}}}
+
+ is an unknown vector of random effects, with mean 
+
+
+
+E
+(
+
+u
+
+)
+=
+
+0
+
+
+
+{\displaystyle E({\boldsymbol {u}})={\boldsymbol {0}}}
+
+ and variance–covariance matrix 
+
+
+
+var
+⁡
+(
+
+u
+
+)
+=
+G
+
+
+{\displaystyle \operatorname {var} ({\boldsymbol {u}})=G}
+
+;
+
+
+
+
+
+ϵ
+
+
+
+{\displaystyle {\boldsymbol {\epsilon }}}
+
+ is an unknown vector of random errors, with mean 
+
+
+
+E
+(
+
+ϵ
+
+)
+=
+
+0
+
+
+
+{\displaystyle E({\boldsymbol {\epsilon }})={\boldsymbol {0}}}
+
+ and variance 
+
+
+
+var
+⁡
+(
+
+ϵ
+
+)
+=
+R
+
+
+{\displaystyle \operatorname {var} ({\boldsymbol {\epsilon }})=R}
+
+;
+
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Z
+
+
+{\displaystyle Z}
+
+ are known design matrices relating the observations 
+
+
+
+
+y
+
+
+
+{\displaystyle {\boldsymbol {y}}}
+
+ to 
+
+
+
+
+β
+
+
+
+{\displaystyle {\boldsymbol {\beta }}}
+
+ and 
+
+
+
+
+u
+
+
+
+{\displaystyle {\boldsymbol {u}}}
+
+, respectively.The joint density of 
+
+
+
+
+y
+
+
+
+{\displaystyle {\boldsymbol {y}}}
+
+ and 
+
+
+
+
+u
+
+
+
+{\displaystyle {\boldsymbol {u}}}
+
+ can be written as: 
+
+
+
+f
+(
+
+y
+
+,
+
+u
+
+)
+=
+f
+(
+
+y
+
+
+|
+
+
+u
+
+)
+
+f
+(
+
+u
+
+)
+
+
+{\displaystyle f({\boldsymbol {y}},{\boldsymbol {u}})=f({\boldsymbol {y}}|{\boldsymbol {u}})\,f({\boldsymbol {u}})}
+
+.
+Assuming normality, 
+
+
+
+
+u
+
+∼
+
+
+N
+
+
+(
+
+0
+
+,
+G
+)
+
+
+{\displaystyle {\boldsymbol {u}}\sim {\mathcal {N}}({\boldsymbol {0}},G)}
+
+, 
+
+
+
+
+ϵ
+
+∼
+
+
+N
+
+
+(
+
+0
+
+,
+R
+)
+
+
+{\displaystyle {\boldsymbol {\epsilon }}\sim {\mathcal {N}}({\boldsymbol {0}},R)}
+
+ and 
+
+
+
+
+C
+o
+v
+
+(
+
+u
+
+,
+
+ϵ
+
+)
+=
+
+0
+
+
+
+{\displaystyle \mathrm {Cov} ({\boldsymbol {u}},{\boldsymbol {\epsilon }})={\boldsymbol {0}}}
+
+, and maximizing the joint density over 
+
+
+
+
+β
+
+
+
+{\displaystyle {\boldsymbol {\beta }}}
+
+ and 
+
+
+
+
+u
+
+
+
+{\displaystyle {\boldsymbol {u}}}
+
+, gives Henderson's "mixed model equations" (MME) for linear mixed models:
+
+
+
+
+
+
+(
+
+
+
+
+X
+′
+
+
+R
+
+−
+1
+
+
+X
+
+
+
+X
+′
+
+
+R
+
+−
+1
+
+
+Z
+
+
+
+
+
+Z
+′
+
+
+R
+
+−
+1
+
+
+X
+
+
+
+Z
+′
+
+
+R
+
+−
+1
+
+
+Z
++
+
+G
+
+−
+1
+
+
+
+
+
+)
+
+
+
+
+(
+
+
+
+
+
+
+β
+^
+
+
+
+
+
+
+
+
+
+
+u
+^
+
+
+
+
+
+
+)
+
+
+=
+
+
+(
+
+
+
+
+X
+′
+
+
+R
+
+−
+1
+
+
+
+y
+
+
+
+
+
+
+Z
+′
+
+
+R
+
+−
+1
+
+
+
+y
+
+
+
+
+)
+
+
+
+
+{\displaystyle {\begin{pmatrix}X'R^{-1}X&X'R^{-1}Z\\Z'R^{-1}X&Z'R^{-1}Z+G^{-1}\end{pmatrix}}{\begin{pmatrix}{\hat {\boldsymbol {\beta }}}\\{\hat {\boldsymbol {u}}}\end{pmatrix}}={\begin{pmatrix}X'R^{-1}{\boldsymbol {y}}\\Z'R^{-1}{\boldsymbol {y}}\end{pmatrix}}}
+
+The solutions to the MME, 
+
+
+
+
+
+
+
+β
+^
+
+
+
+
+
+
+{\displaystyle \textstyle {\hat {\boldsymbol {\beta }}}}
+
+ and 
+
+
+
+
+
+
+
+u
+^
+
+
+
+
+
+
+{\displaystyle \textstyle {\hat {\boldsymbol {u}}}}
+
+ are best linear unbiased estimates and predictors for 
+
+
+
+
+β
+
+
+
+{\displaystyle {\boldsymbol {\beta }}}
+
+ and 
+
+
+
+
+u
+
+
+
+{\displaystyle {\boldsymbol {u}}}
+
+, respectively. This is a consequence of the Gauss–Markov theorem when the conditional variance of the outcome is not scalable to the identity matrix. When the conditional variance is known, then the inverse variance weighted least squares estimate is best linear unbiased estimates. However, the conditional variance is rarely, if ever, known. So it is desirable to jointly estimate the variance and weighted parameter estimates when solving MMEs.
+One method used to fit such mixed models is that of the expectation–maximization algorithm where the variance components are treated as unobserved nuisance parameters in the joint likelihood. Currently, this is the method implemented in major statistical software such as R (lme4 package), Python (statsmodels package), Julia (MixedModels.jl package), and SAS (proc mixed). The solution to the mixed model equations is a maximum likelihood estimate when the distribution of the errors is normal.
+Nonlinear mixed-effects model
+Fixed effects model
+Generalized linear mixed model
+Linear regression
+Mixed-design analysis of variance
+Multilevel model
+Random effects model
+Repeated measures designGałecki, Andrzej; Burzykowski, Tomasz (2013). Linear Mixed-Effects Models Using R: A Step-by-Step Approach. New York: Springer. ISBN 978-1-4614-3900-4.
+Milliken, G. A.; Johnson, D. E. (1992). Analysis of Messy Data: Vol. I. Designed Experiments. New York: Chapman & Hall.
+West, B. T.; Welch, K. B.; Galecki, A. T. (2007). Linear Mixed Models: A Practical Guide Using Statistical Software. New York: Chapman & Hall/CRC.

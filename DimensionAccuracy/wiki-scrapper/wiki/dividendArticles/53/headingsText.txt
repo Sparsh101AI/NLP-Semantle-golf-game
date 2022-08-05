@@ -1,0 +1,31 @@
+Definition
+Relationship with other means
+Harmonic mean of two or three numbers
+Two numbers
+Three numbers
+Weighted harmonic mean
+Examples
+In physics
+Average speed
+Density
+Electricity
+Optics
+In finance
+In geometry
+In other sciences
+Beta distribution
+Lognormal distribution
+Pareto distribution
+Statistics
+Sample distributions of mean and variance
+Delta method
+Jackknife method
+Size biased sampling
+Shifted variables
+Moments
+Sampling properties
+Bias and variance estimators
+Notes
+See also
+References
+External links

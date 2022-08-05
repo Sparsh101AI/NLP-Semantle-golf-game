@@ -1,0 +1,133 @@
+A multimodal logic is a modal logic that has more than one primitive modal operator. They find substantial applications in theoretical computer science.
+A modal logic with n primitive unary modal operators 
+
+
+
+
+◻
+
+i
+
+
+,
+i
+∈
+{
+1
+,
+…
+,
+n
+}
+
+
+{\displaystyle \Box _{i},i\in \{1,\ldots ,n\}}
+
+ is called an n-modal logic. Given these operators and negation, one can always add 
+
+
+
+
+◊
+
+i
+
+
+
+
+{\displaystyle \Diamond _{i}}
+
+ modal operators defined as 
+
+
+
+
+◊
+
+i
+
+
+P
+
+
+{\displaystyle \Diamond _{i}P}
+
+ if and only if 
+
+
+
+¬
+
+◻
+
+i
+
+
+¬
+P
+
+
+{\displaystyle \lnot \Box _{i}\lnot P}
+
+.
+Perhaps the first substantive example of a two-modal logic is Arthur Prior's tense logic, with two modalities, F and P, corresponding to "sometime in the future" and "sometime in the past". A logic with infinitely many modalities is dynamic logic, introduced by Vaughan Pratt in 1976 and having a separate modal operator for every regular expression. A version of temporal logic introduced in 1977 and intended for program verification has two modalities, corresponding to dynamic logic's [A] and [A*] modalities for a single program A, understood as the whole universe taking one step forwards in time. The term multimodal logic itself was not introduced until 1980. Another example of a multimodal logic is the Hennessy–Milner logic, itself a fragment of the more expressive modal μ-calculus, which is also a fixed-point logic.
+Multimodal logic can be used also to formalize a kind of knowledge representation: the motivation of epistemic logic is allowing several agents (they are regarded as subjects capable of forming beliefs, knowledge); and managing  the belief or knowledge of each agent, so that epistemic assertions can be formed about them. The modal operator 
+
+
+
+◻
+
+
+{\displaystyle \Box }
+
+ must be capable of bookkeeping the cognition of each agent,  thus 
+
+
+
+
+◻
+
+i
+
+
+
+
+{\displaystyle \Box _{i}}
+
+ must be indexed on the set of the agents. The motivation is that 
+
+
+
+
+◻
+
+i
+
+
+α
+
+
+{\displaystyle \Box _{i}\alpha }
+
+ should assert "The subject i has knowledge about 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ being true". But it can be used also for formalizing "the subject i believes 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+". For formalization of meaning based on the possible world semantics approach, a multimodal generalization of Kripke semantics can be used: instead of a single "common" accessibility relation, there is a series of them indexed on the set of agents.
+Ferenczi, Miklós (2002). Matematikai logika (in Hungarian). Budapest: Műszaki könyvkiadó. ISBN 963-16-2870-1.
+Dov M. Gabbay, Agi Kurucz, Frank Wolter, Michael Zakharyaschev (2003). Many-dimensional modal logics: theory and applications. Elsevier. ISBN 978-0-444-50826-3.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Walter Carnielli; Claudio Pizzi (2008). Modalities and Multimodalities. Springer. ISBN 978-1-4020-8589-5.Stanford Encyclopedia of Philosophy: "Modal logic" – by James Garson.

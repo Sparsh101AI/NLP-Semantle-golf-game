@@ -1,0 +1,17 @@
+https://commonchemistry.cas.org/detail?cas_rn=58821-95-7
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C%5BC%40%40H%5D1C%5BC%40%5D2%28%5BC%40H%5D3%5BC%40H%5D4%5BC%40%5D1%28%5BC%40%40H%5D5C%3DC%28C%28%3DO%29%5BC%40%5D5%28CC%28%3DC4%29COC%28%3DO%29Cc6ccc%28cc6%29O%29O%29C%29O%5BC%40%5D%28O3%29%28O2%29Cc7ccccc7%29C%28%3DC%29C
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=9603
+https://www.chemspider.com/Chemical-Structure.32701427.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.165.094
+//www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&term=tinyatoxin
+https://pubchem.ncbi.nlm.nih.gov/compound/442098
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=WN080Z1OL0
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID40974337
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=421304832&page2=Tinyatoxin
+http://www.botanical-dermatology-database.info/BotDermFolder/EUPH-9.html#Euphorbia%20poissonii
+https://doi.org/10.1016%2F0006-8993%2891%2990982-2
+//pubmed.ncbi.nlm.nih.gov/1884211
+https://api.semanticscholar.org/CorpusID:25052101
+https://en.wikipedia.org/w/index.php?title=Template:Transient_receptor_potential_channel_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=Tinyatoxin&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Organic-compound-stub&action=edit

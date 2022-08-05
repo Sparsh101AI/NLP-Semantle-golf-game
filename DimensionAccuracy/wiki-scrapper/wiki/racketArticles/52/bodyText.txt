@@ -1,0 +1,68 @@
+Papuan Malay or Irian Malay is a Malay-based creole language spoken in the Indonesian part of New Guinea. It emerged as a contact language among tribes in Indonesian New Guinea (now Papua and West Papua provinces) for trading and daily communication. Nowadays, it has a growing number of native speakers. More recently, the vernacular of Indonesian Papuans has been influenced by Standard Indonesian, the national standard dialect. It is mainly spoken in coastal areas of West Papua alongside 274 other languages spoken here.
+Papuan Malay belongs to the Malayic sub-branch within the Western-Malayo-Polynesian (WMP) branch of the Austronesian language family.
+Some linguists have suggested that Papuan Malay has its roots in North Moluccan Malay, as evidenced by the number of Ternate loanwords in its lexicon. Others have proposed that it is derived from Ambonese Malay.
+Four varieties of Papuan Malay can be identified. A variety of Papuan Malay is spoken in Vanimo, Papua New Guinea near the Indonesian border. 
+Deictic expressions are expressions that provide orientation to the hearer relative to the extralinguistic context of the utterance.
+The context may include features of the speech situation such as: who is speaking; the time and place of discourse; gestures of the speaker; and the location of the discourse.
+Demonstratives and locatives are types of deictic expressions. In Papuan Malay there exists a two-term demonstrative system and a three-term locative system.
+Both of these systems are distance-oriented. This means that the relative distance of the speaker in time and place ultimately defines the reference point to which the deictic expression refers.
+For example, the speaker in (1) is in conversation about people living in a house and the speaker uses the proximal demonstrative ini to illustrate that the person they are talking to 'lives here' in the house.
+As (1) illustrates, demonstratives and locatives function primarily to provide spatial orientation. However, there are a number of other functions that these classes of words serve. The following table outlines the different domains of use of demonstratives and locatives.
+Demonstratives are determiners that indicate the spatial, temporal or discourse location of a referent. 
+In Papuan Malay’s two-term demonstrative system, one is used to indicate proximity of the referent to the speaker and the other is used distally. 
+The demonstratives in Papuan Malay also have long and short forms, as illustrated in Table 2.
+The following examples show how Papuan Malay’s two demonstratives signal either proximity or distance. 
+The example above, (1), and the following example (2) illustrate how ini/ni is used to indicate spatial closeness, and (3) shows how itu/tu is used to indicate distance between the referent and speaker.
+By drawing the hearer’s attention to specific objects or individuals in the discourse or surrounding context, the speaker is able to use demonstratives to provide spatial orientation whether the referent is perceived as being spatially close to the speaker, or further away.
+In (2) and (3), the short demonstrative form has been used.
+The short forms are largely a result of fast-speech phenomena and they serve the same syntactic function as the long forms.
+In terms of their domains of use, the short forms share all the same domains of use as the long forms except for identificational and placeholder uses where the short forms are not employed.
+The following examples, (4) and (5), show how demonstratives may be used as placeholders. In these cases, only the long form may be used.
+Locatives are a class of words that signal distance, both spatial and non-spatial, and consequently provide orientation for the hearer in a speech situation.
+Papuan Malay’s three-term locative system consists of the locatives as outlined in Table 4.
+The functions and uses of locatives include the following:
+Spatial uses
+Figurative locational uses
+Temporal uses
+Psychological uses
+Textual usesSpatial locatives have the role of designating the location of an object or individual in terms of its relative position to the speaker, and they focus the attention of the hearer to the specified location.
+In general, proximal sini indicates a referent’s closeness to the deictic centre and distal sana indicates distance from this reference point. For medial situ, the distance signalled is somewhat mid-range. That is, the referent is further away from the speaker than the referent of sini but not as far as that of sana.
+In (6), sini is used to indicate the close location of an entity to the speaker, while (7) highlights the semantic distinctions between sini and sana. 
+In context, the distances signalled by these terms are variable considering such distances are relative to the speaker. The use of these spatial deictics are also dependent on the speaker’s perception of how near or far a referent is.
+The following example, (8), demonstrates how the use of these spatial deictics are dependent on perception, using situ and sana to illustrate this. In (8), the speaker discusses the construction work that has reached the village of Warmer.
+Syntactically, locatives in Papuan Malay only occur in prepositional phrases. These prepositional phrases can be peripheral adjuncts, prepositional predicates, or adnominal prepositional phrases.  
+The following examples – (9), (10), and (11) – demonstrate each of the prepositional phrases in which locatives can occur. In (10), the first clause shows how the locative can be embedded in a peripheral adjunct, whilst the second clause illustrates its occurrence in prepositional predicates.
+As with the demonstratives, the locative forms in Papuan Malay are present in some other languages in the Austronesian language family tree.
+For each of the locatives, the forms can be traced back to Proto-Western-Malayo-Polynesian (PWMP). 
+The proximal locative sini is reconstructed in PWMP as *si-ni and has retained the semantic function of indicating closeness. A number of other WMP languages also share the form and meaning of sini including: Aborlan Tagbanwa, Sangil, Kayan, and Malay.
+Whilst the Papuan Malay medial and distal locatives, situ and sana, share the same form as the reconstructed forms in PWMP, there are notable differences in terms of spatial reference when comparing cognates in other WMP languages.
+For medial situ, the corresponding reflexes in Ifugaw and Kenyah both indicate closeness rather than medial distance. On the other hand, for the Malay language, situ is used distally rather than proximally or medially. The WMP language that is most similar to Papuan Malay in this regard is Aborlan Tagbanwa where both the form and designated spatial distance are shared.
+For distal sana, Papuan Malay shares the same form and meaning with a number of other WMP languages including Kankanaey and Malay. It cannot be assumed, however, that this is the case for all WMP languages as Bontok shares the form sana but is used to indicate proximity to the hearer rather than just distance from the speaker.
+Possession is encoded by the general structure POSSESSOR-punya-POSSESSUM, where the 'possessum' is the 'thing' being possessed by the possessor - the unit preceding punya). A typical example is shown below;
+In the canonical form, similar to (12), a lexical noun, personal pronoun or demonstrative pronoun form the POSSESSOR and POSSESSUM noun phrases. 
+A further example is presented below;
+*words in brackets indicate the understood referent of a personal pronoun or demonstrative, established from the context of the utterance
+As shown in (13), the long punya possessive marker can also be reduced to the short pu, an alteration which appears to be independent of the syntactic or semantic properties of the possessor and possessum. 
+A further reduction to =p is possible, but only if the possessor noun phrase ends in a vowel, shown below;
+This is most common when the possessor is a singular personal pronoun (two instances of which are found in (14)), and provides an explanation for why 'Hendro punya …'
+is observed in (11), rather than the reduced theoretical possibility of 'Hendro=p'.
+A final canonical possibility is the total omission of the possessive marker (indicated with a ø symbol), but this is generally restricted to inalienable possession of body parts and
+kinship relations, the former seen in (4) below;
+Other, less typical/more complex 'non-canonical' combinations are also possible, where the possessor and/or possessum can consist of verbs, quantifiers and prepositional phrases.
+Such constructions can denote locational (16), beneficiary (17), quantity-intensifying (18), verb-intensifying (19) and emphatic (20) possessive relations.
+In Papuan Malay, it can be seen from (16) that being in or at a location is expressed as being 'of' (in a possessive sense) the location itself (the syntactic possessor).
+The possessive marker can also direct attention to an action or object's beneficiary, where the benefiting party occupies the possessor position;
+In this instance, the possessive marker is an approximate substitute for the English equivalent  marker 'for ___'. This demonstrates that the construction doesn't have to describe a realised possession; the mere fact that the possessor is the intended beneficiary of something (the possessum) is sufficient in marking that something as possessed by the possessor, regardless of whether the possessum has actually been received, experienced or even seen by the possessor.
+Where the possessum slot is filled by a quantifier, the possessive construction elicits an intensified or exaggerated reading;
+However, this is restricted to few and many quantifiers, and numerals in the same possessum slot yield an ungrammatical result. As such, substituting sedikit with dua (two) in (18) would not be expected to be present in language data.
+Intensification using punya or pu is also applicable to verbs;
+Here, the verbal sense of the possessum is owned by the possessor. i.e., the two of them in (19) are the syntactic 'owners' of the suffering, which semantically intensifies or exaggerates the quality of the verb suffering, hence translated as so much for its English representation.
+Along similar lines to (19), a verbal possessum can also be taken by a verbal possessor, expressing an emphatic reading;
+As indicated by the insertion of adverbials in the English translation otherwise syntactically absent in Papuan Malay (20), the verbal-possessor-punya-verbal-possessum construction elicits emphatic meaning and tone. The difference to (19) being that in (20), the verbal quality of the possessum constituent is being superimposed upon another verb element, rather than to a pronominal possessor, to encode emphasis or assertion.
+A final possibility in Papuan Malay possessive constructions is elision of the possessum, in situations where it can be easily established from context;
+Unlike the general freedom of possessive marker form for both canonical and non-canonical constructions (11-20), the long punya form is almost exclusively used when a possessum is omitted, possibly as a means of more markedly sign-posting the possessum's elision.
+Examples:
+Ini tanah pemerintah punya, bukan ko punya! = It's governmental land, not yours!
+Tong tra pernah bohong = We never lie.Ambonese Malay
+North Moluccan Malay
+Serui Malay

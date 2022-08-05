@@ -1,0 +1,46 @@
+Spark testing is a method of determining the general classification of ferrous materials. It normally entails taking a piece of metal, usually scrap, and applying it to a grinding wheel in order to observe the sparks emitted. These sparks can be compared to a chart or to sparks from a known test sample to determine the classification. Spark testing also can be used to sort ferrous materials, establishing the difference from one another by noting whether the spark is the same or different.
+Spark testing is used because it is quick, easy, and inexpensive. Moreover, test samples do not have to be prepared in any way, so, often, a piece of scrap is used. The main disadvantage to spark testing is its inability to identify a material positively; if positive identification is required, chemical analysis must be used.  The spark comparison method also damages the material being tested, at least slightly.
+Spark testing most often is used in tool rooms, machine shops, heat treating shops, and foundries.
+A bench grinder is usually used to create the sparks, but sometimes this is not convenient, so a portable grinder is used. In either case, the grinding wheel must have adequate surface velocity, at least 23 m/s (4500 surface feet per minute (sfpm)), but should be between 38 and 58 m/s (7500–11,500 sfpm). The wheel should be coarse and hard, therefore aluminium oxide or carborundum often are employed. The test area should be in an area where there is no bright light shining directly into the observer's eyes. Moreover, the grinding wheel and surrounding area should be dark so that the sparks can be observed clearly. The test sample is then touched lightly to the grinding wheel to produce the sparks.
+The important spark characteristics are color, volume, nature of the spark, and length. Note that the length is dependent on the amount of pressure applied to the grinding wheel, so this can be a poor comparison tool if the pressure is not exactly the same for the samples. Also, the grinding wheel must be dressed frequently to remove metallic build-up.
+Another less common method for creating sparks is heating up the sample to red heat and then applying compressed air to the sample. The compressed air supplies enough oxygen to ignite the sample and give off sparks. This method is more accurate than using a grinder because it will always give off sparks of the same length for the same sample. The compressed air applies in essence the same "pressure" each time. This makes observations of the spark length a much more reliable characteristic for comparison.
+Automated spark testing has been developed to remove the reliance upon operator skill and experience, thereby increasing reliability. The system relies upon spectroscopy, spectrometry, and other methods to "observe" the spark pattern. It has been found that this system can determine the difference between two materials that give off sparks that are indistinguishable to the human eye.
+Wrought iron
+Wrought iron sparks flow out in straight lines. The tails of the sparks widen out near the end, similar to a leaf.
+Mild steel
+Mild steel sparks are similar to wrought iron's, except they will have tiny forks and their lengths will vary more. The sparks will be white in color.
+Medium-carbon steel
+This steel has more forking than mild steel and a wide variety of spark lengths, with more near the grinding wheel.
+High-carbon steel
+High-carbon steel has a bushy spark pattern (much forking) that starts at the grinding wheel. The sparks are not as bright as the medium-carbon steel ones.
+Manganese steel
+Manganese steel has medium length sparks that fork twice before ending.
+High-speed steel
+High-speed steel has a faint red spark that sparks at the tip.
+300-series stainless steel
+These sparks are not so dense as the carbon steel sparks, do not fork, and are orange to straw in color.
+310-series stainless steel
+These sparks are much shorter and thinner than the 300-series sparks. They are red to orange in color and do not fork.
+400-series stainless steel
+400-series sparks are similar to 300-series sparks, but are slightly longer and have forks at the ends of the sparks.
+Cast iron
+Cast iron has very short sparks that begin at the grinding wheel.
+Nickel and cobalt high-temperature alloys
+These sparks are thin and very short, they are dark-red in color, and do not fork.
+Cemented carbide
+Cemented carbide has sparks under 3 inches, which are dark-red in color and do not fork.
+Titanium
+Although titanium is a non-ferrous metal, it gives off a great deal of sparks. These sparks are easily distinguishable from ferrous metals, as they are a very brilliant, blinding, white color.In 1909, Max Bermann, an engineer in Budapest, was the first to discover that spark testing can be used reliably to classify ferrous material. He originally claimed to be able to distinguish different types of ferrous materials based on percent carbon and principal alloying elements. Moreover, he claimed to achieve an accuracy of 0.01% carbon content.
+Tschorn  produced an exhaustive treatment of spark testing.  His book, Spark Atlas of Steels, along with Spark Testing by Gladwin represent the two most comprehensive texts on the subject 
+As of the late 1980s, the industrial use of spark testing is not as common as it used to be. In the early 21st century the availability of portable X-ray fluorescence equipment largely superseded it in laboratory practice.
+Flame test
+Emission spectrumDavis, Joseph R; ASM International (1994), Stainless steels (2nd, Illustrated ed.), ASM International, ISBN 978-0-87170-503-7.
+Dulski, Thomas R. (1996), A manual for the chemical analysis of metals, ASTM International, ISBN 978-0-80312-066-2.
+Gladwin, W.M., Spark Testing, United Steel Co., Sheffield, UK.
+Drozda, Tom; Wick, Charles; Benedict, John T.; Veilleux, Raymond F.; Bakerjian, Ramon (1987), Tool and manufacturing engineers handbook: Quality Control and Assembly, vol. 4, Society of Manufacturing Engineers, ISBN 0-87263-135-4.
+The Engineering Magazine, vol. XXXVIII, Engineering Magazine Co., 1910.
+Geary, Don (1999), Welding, McGraw-Hill Professional, ISBN 978-0-07-134245-2.
+Lee, Leonard (1996), The Complete Guide to Sharpening, Taunton Press, ISBN 978-1-56158-125-2.
+Oberg, Erik; Jones, Franklin Day (1918), Iron and Steel (1st ed.), The Industrial Press.
+Saunders, William Lawrence (1908), Compressed Air Magazine, vol. XIII, Compressed Air Magazine Company.
+Tschorn, Gerhart (1963), Spark Atlas of Steels: Cast-Iron, Pig-Iron, Ferro-Alloys and Metals, New York, The MacMillan Company.Spark test pictures of various materials

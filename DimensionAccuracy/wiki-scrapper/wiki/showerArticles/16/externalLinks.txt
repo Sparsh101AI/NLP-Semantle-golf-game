@@ -1,0 +1,12 @@
+//geohack.toolforge.org/geohack.php?pagename=Saint-Christoly-de-Blaye&params=45.1314_N_0.5067_W_type:city(1904)_region:FR-NAQ
+//geohack.toolforge.org/geohack.php?pagename=Saint-Christoly-de-Blaye&params=45.1314_N_0.5067_W_type:city(1904)_region:FR-NAQ
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-33382
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-33382
+https://en.wikipedia.org/w/index.php?title=Template:Gironde_communes&action=edit
+https://viaf.org/viaf/237481318
+https://www.worldcat.org/identities/viaf-237481318/
+https://catalogue.bnf.fr/ark:/12148/cb152564312
+https://data.bnf.fr/ark:/12148/cb152564312
+https://d-nb.info/gnd/7521852-5
+https://en.wikipedia.org/w/index.php?title=Saint-Christoly-de-Blaye&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Gironde-geo-stub&action=edit

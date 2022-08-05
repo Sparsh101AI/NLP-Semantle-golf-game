@@ -1,0 +1,4 @@
+http://www.railscot.co.uk/Ireland/Irish_railways.pdf
+//geohack.toolforge.org/geohack.php?pagename=Tanderagee_railway_station&params=54.363939_N_6.384293_W_type:railwaystation_region:GB
+https://en.wikipedia.org/w/index.php?title=Tanderagee_railway_station&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:NorthernIreland-railstation-stub&action=edit

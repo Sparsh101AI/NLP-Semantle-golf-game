@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Staicele&params=57_50_N_24_44_E_region:LV_type:city
+//geohack.toolforge.org/geohack.php?pagename=Staicele&params=57_50_N_24_44_E_region:LV_type:city
+https://en.wikipedia.org/w/index.php?title=Template:Cities_and_parishes_of_Limba%C5%BEi_District&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Latvian_regional_cities&action=edit
+https://viaf.org/viaf/152630551
+https://www.worldcat.org/identities/containsVIAFID/152630551
+https://id.loc.gov/authorities/names/n99253387
+https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000041444&P_CON_LNG=ENG
+https://en.wikipedia.org/w/index.php?title=Staicele&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Vidzeme-geo-stub&action=edit

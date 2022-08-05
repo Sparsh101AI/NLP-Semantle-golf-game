@@ -1,0 +1,13 @@
+https://books.google.com/books?id=o5yuDwAAQBAJ&pg=PA156
+https://doi.org/10.1007%2F978-3-319-67378-3_8
+//www.worldcat.org/oclc/1119640000
+https://api.semanticscholar.org/CorpusID:203491340
+https://philpapers.org/rec/OMOSQA
+https://pure.uvt.nl/ws/portalfiles/portal/1454765/IntroductionReforming.pdf
+//www.worldcat.org/issn/1566-208X
+//www.worldcat.org/oclc/8679046516
+https://web.archive.org/web/20210423195530/https://pure.uvt.nl/ws/portalfiles/portal/1454765/IntroductionReforming.pdf
+https://d-nb.info/gnd/4032290-7
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007557833305171
+https://id.loc.gov/authorities/subjects/sh85031559
+https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000298272&P_CON_LNG=ENG

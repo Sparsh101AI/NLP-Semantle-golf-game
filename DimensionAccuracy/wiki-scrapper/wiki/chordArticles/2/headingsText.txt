@@ -1,0 +1,31 @@
+Incircle and incenter
+Incenter
+Trilinear coordinates
+Barycentric coordinates
+Cartesian coordinates
+Radius
+Distances to the vertices
+Other properties
+Incircle and its radius properties
+Distances between vertex and nearest touchpoints
+Other properties
+Relation to area of the triangle
+Gergonne triangle and point
+Excircles and excenters
+Trilinear coordinates of excenters
+Exradii
+Derivation of exradii formula
+Other properties
+Other excircle properties
+Nagel triangle and Nagel point
+Related constructions
+Nine-point circle and Feuerbach point
+Incentral and excentral triangles
+Equations for four circles
+Euler's theorem
+Generalization to other polygons
+See also
+Notes
+References
+External links
+Interactive

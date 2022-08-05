@@ -1,0 +1,12 @@
+https://commonchemistry.cas.org/detail?cas_rn=338-84-1
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C%28C%28C%28N%28C%28C%28C%28C%28C%28F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29C%28C%28C%28C%28C%28F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29%28F%29F%29%28C%28C%28F%29%28F%29F%29%28F%29F%29%28F%29F
+https://www.chemspider.com/Chemical-Structure.60965.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.005.838
+https://pubchem.ncbi.nlm.nih.gov/compound/67646
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID4059835
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=312624335&page2=Perfluorotripentylamine
+https://doi.org/10.1002%2F0471238961.0612211506122514.a01.pub2
+http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UgxGCuNyXTtnxTE5Xz6EVtQEcuZgVs6EVs6E666666--&fn=prodinfo_FC70.pdf
+https://en.wikipedia.org/w/index.php?title=Template:Fluorine_compounds&action=edit
+https://en.wikipedia.org/w/index.php?title=Perfluorotripentylamine&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Organohalide-stub&action=edit

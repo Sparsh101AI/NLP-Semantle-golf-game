@@ -1,0 +1,9 @@
+https://archive.org/details/cprogramminglang00kern/page/33
+https://archive.org/details/rubyinnutshellde00mats/page/9
+https://archive.org/details/rubyinnutshellde00mats/page/9
+https://nim-lang.github.io/Nim/manual.html#lexical-analysis-identifier-equality
+https://code.google.com/p/case-sensitive-search/
+http://docs.oracle.com/cd/E12151_01/doc.150/e12152.pdf
+http://dev.mysql.com/doc/refman/5.0/en/case-sensitivity.html
+https://technet.microsoft.com/en-us/library/cc739978(v=ws.10).aspx
+http://support.microsoft.com/kb/100625

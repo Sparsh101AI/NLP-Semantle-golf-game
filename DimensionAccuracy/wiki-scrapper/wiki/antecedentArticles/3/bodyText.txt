@@ -1,0 +1,136 @@
+
+Cyclic form is a technique of musical construction, involving multiple sections or movements, in which a theme, melody, or thematic material occurs in more than one movement as a unifying device. Sometimes a theme may occur at the beginning and end (for example, in Mendelssohn's A minor String Quartet or Brahms's Symphony No. 3); other times a theme occurs in a different guise in every part (e.g. Berlioz's Symphonie fantastique, and Saint-Saëns's "Organ" Symphony).
+The technique has a complex history, having fallen into disuse in the Baroque and Classical eras, but steadily increasing in use during the nineteenth century.
+The Renaissance cyclic mass, which incorporates a usually well-known portion of plainsong as a cantus firmus in each of its sections, is an early use of this principle of unity in a multiple-section form. Examples can also be found in late-sixteenth- and seventeenth-century instrumental music, for instance in the canzonas, sonatas, and suites by composers such as Samuel Scheidt, in which a ground bass may recur in each movement When the movements are short enough and begin to be heard as a single entity rather than many, the boundaries begin to blur between cyclic form and variation form.
+Cyclic technique is not typically found in the instrumental music of the most famous composers from the Baroque and "high classical" eras, though it may still be found in the music of such figures as Luigi Boccherini and Carl Ditters von Dittersdorf.
+Nevertheless, in the Classical period, cyclic technique is found in several works of Mozart: In String Quartet in D minor K. 421, all the four movements are unified by the motif, "F-A-C-C-C-C". In String Quartet No.18 in A major K. 464, different rhythmic motifs of the concept "long-short-short-short" of the first movement and second movement combine in the finale. Mladjenović, Bogunović, Masnikosa, and Radak state that Mozart's Fantasia, K. 475, with its multi-movement structure inscribed in a one-movement sonata form, started something later finished by Liszt in his B minor Piano Sonata. Joseph Haydn uses cyclic technique at the end of the Symphony No. 31, where the music recalls the horn call heard at the very opening of the work.
+In sacred vocal music of Baroque and Classical periods, there are several examples of cyclic technique, such as Johann Sebastian Bach's Mass in B minor and Mozart's Mass in C major, K. 317, Spatzenmesse in C major K. 220, Litaniae de venerabili altaris sacramento K. 243, and especially Requiem in D minor K. 626, where the "DNA" of the Lutheran hymn motif, "D-C#-D-E-F", permeates the entire work.
+Although other composers were already using this technique, it is Beethoven's example that really popularised cyclic form for subsequent Romantic composers. In Beethoven's Fifth Symphony, a large part of the scherzo movement is recalled to end the finale's development section and lead into the recapitulation; the Ninth Symphony's finale rapidly presents explicit reminiscences of the three preceding movements before discovering the idea that is to be its own principal theme; while both the Piano Sonata Op. 101 and Cello Sonata Op. 102 No. 2 similarly recall earlier movements before their finales.
+In the 1820s, both Franz Schubert and the young Felix Mendelssohn wrote numerous important cyclic works: Schubert, in the Wanderer Fantasy (1822) created a "4-in-1" double-function design that would leave its mark decades later on Liszt, while Mendelssohn, in such works as the Octet (1825) and String Quartet No. 2 (1827) created highly integrated musical forms that proved influential for later Romantic composers. Another significant model was given by Hector Berlioz in his programmatic Symphonie fantastique of 1830, whose "idée fixe" serves as a cyclic theme throughout the five movements. By the 1840s, the technique is already quite established, being found in several works by Robert Schumann, Fanny Hensel, Niels Gade, Franz Berwald, and the earliest compositions of César Franck.
+Mid-century, Franz Liszt in works such as the B minor Piano Sonata (1853) did a lot to popularize the cyclic techniques of thematic transformation and double-function form established by Schubert and Berlioz. Liszt's sonata begins with a clear statement of several thematic units and each unit is extensively used and developed throughout the piece. By late in the century, cyclic form had become an extremely common principle of construction, most likely because the increasing length and complexity of multiple-movement works demanded a unifying method stronger than mere key relation. At the beginning of the twentieth century, Vincent d'Indy, a pupil of Franck, promoted the use of the term "cyclic" to describe the technique.
+The term is more debatable in cases where the resemblance is less clear, such as in the works of Beethoven, who used very basic fragments. Beethoven's Symphony No. 5 is an example of cyclic form in which a theme is used throughout the symphony, but with different orchestration. The "short-short-short-long" four-note motive is embedded in each movement.
+Examples of cyclic works from the classical era and afterwards are:
+Wolfgang Amadeus Mozart
+Symphony No.40 in G minor K.550: similar descending chromatic pattern shared by two outer movements in their second themes
+Symphony No.41 in C major K.551: similarities in the principal rising dotted-rhythmic motifs of the first movement and the second movement; the dotted-rhythmic motif of the second movement develops into a theme that resembles one of the five themes of the finale; the minuet foreshadows the "C-D-F-E" motif of the finale
+String Quartet No.15 in D minor K. 421: "F-A-C-C-C-C" motif heard in all four movements
+String Quartet No.18 in A major K. 464: different rhythmic motifs of the concept "long-short-short-short" of the first movement and second movement combined in the finale.
+Fantasie & Sonata for Piano in C minor K. 475 & 457: motivic similarities between the preceding fantasie and the sonata
+Piano Concerto No.20 in D minor K. 466: The entries of the soloist in the outer movements share the same chord structure
+Spatzenmesse in C major K. 220: theme of the Kyrie recalled in the Dona nobis pacem
+Litaniae de venerabili altaris sacramento K. 243: theme of the Kyrie recalled in the Miserere
+Mass in C major, K. 317: theme of the Kyrie recalled in the Dona nobis pacem
+Vesperae solennes de Dominica K. 321:  A setting of the Minor Doxology (Gloria Patri et Filio) concludes all movements, with a rhythmic similarity in "Gloria"
+Vesperae solennes de confessore K. 339:  A setting of the Minor Doxology (Gloria Patri et Filio) concludes all movements, with a rhythmic similarity in "Gloria"
+Mass in C minor K.427: The soprano melody of Quoniam tu solus in measure 96 (F-E-D-C#-C-...) resembles that of Cum sanctu spiritu in measure 98 (G-F#-E-D#-D-...)
+Joseph Haydn
+Symphony No. 31: material from start of first movement recalled at the end of the finale
+Symphony No. 46: material from the menuetto third movement recalled in the finale
+Ludwig van Beethoven
+Piano Sonata No. 13
+Piano Sonata No. 28
+Symphony No. 5: material from scherzo movement recalled in the finale
+Symphony No. 9: all three movements are briefly revisited in the finale
+Franz Schubert
+Divertissement a la Hongroise
+Wanderer Fantasy: entire piece based on thematic transformation
+Piano Trio No. 2: materials from the second movement recalled in the finale
+Felix Mendelssohn
+Piano Sextet: material from scherzo movement recalled in the finale
+Octet: material from scherzo movement recalled in the finale, plus allusions to first and second movements
+Piano Sonata in E, Op. 6: opening of first movement recalled at end of finale
+String Quartet in A minor, Op. 13: introduction to first movement recalled at end of finale, first movement and second movement recalled during finale.
+String Quartet in E-flat, Op. 12: first movement recalled in finale
+Symphony No. 3: thematic transformation across all four movements
+Hector Berlioz
+Symphonie Fantastique: "idée fixe" heard in all five movements
+Harold in Italy: "idée fixe" heard in all four movements
+Robert Schumann
+Symphony No. 2
+Symphony No. 4: thematic transformation across all four movements
+Piano Quintet
+Niels Gade
+Symphony No. 1: first movement recalled in finale
+Franz Liszt
+Sonata in B minor
+Faust Symphony
+Saint-Saëns
+Symphony No. 3: thematic transformation across all four movements
+Cello Concerto No. 1: two key first movement themes repeated in finale
+César Franck
+Symphony in D minor
+Violin Sonata
+String Quartet
+Johannes Brahms
+Piano Sonata No. 1
+Quartet No. 3
+Symphony No. 3: The melody opening the first subject in the first movement is recalled in the codas of the first & fourth movements.
+Clarinet Quintet: The melody opening the first movement is recalled just after the 5th variation in the fourth movement, but in the subdominant. The codas in the first & fourth movements are almost the same, except for how it finally closes (first movement closes with quiet B minor chords while fourth movement closes with a loud one and then a quiet one).
+Bedřich Smetana
+Má vlast, cycle of 6 symphonic poems: The opening from the first work Vyšehrad recalled in the second Vltava and the sixth works Blaník, shortly before the latter two end.
+Anton Bruckner
+Symphony No. 5
+Symphony No. 8
+Pyotr Ilyich Tchaikovsky
+Symphony No. 4: "motto" of first movement recalled in the finale
+Manfred Symphony: Material from the beginning of the first movement recalled halfway in the third movement. Material from the ending of the first movement used in the middle section of the second movement, and just before the organ sounds in the fourth movement.
+Symphony No. 5: "motto" of first movement recalled in all later movements; first movement's first subject recalled in the finale
+Serenade for Strings (Tchaikovsky): Opening chorale in first movement is recalled in the coda of the finale
+Anton Arensky
+Piano Trio No. 1: Material opening the first movement recalled shortly before the finale ends. Material in the middle section from the third movement recalled halfway in the finale.
+Antonín Dvořák
+Symphony No. 9: the theme of the first movement returns in all four movements
+Arnold Schoenberg – Violin Concerto, Op. 36
+Carlos Chávez
+Symphony No. 3
+Symphony No. 4
+Edward Elgar
+Symphony No. 1: "motto" theme from the 1st movement returns in the scherzo and finale
+Symphony No. 2: "motto" theme from the 1st movement returns in the slow movement and finale
+Sergei Rachmaninoff
+Piano Sonata No. 1
+ Trio éléguiaque No. 2
+Symphony No. 1
+Piano Concerto No. 3
+George Enescu
+Chamber Symphony in E major, Op. 33
+Octet for Strings in C major
+Piano Quartet No. 1, Op. 16
+Piano Quartet No. 2, Op. 30
+Piano Quintet in A minor, Op. 29
+Piano Sonata No. 3, Op. 24, No. 3
+String Quartet No. 1, Op. 22, No. 1
+String Quartet No. 2, Op. 22, No. 2
+Symphony No. 1, Op. 13
+Symphony No. 3, Op. 21
+Symphony No. 4
+Symphony No. 5
+Violin Sonata No. 2, Op. 6
+Sergei Prokofiev
+Piano Concerto No. 1: Main opening theme reappears midway and at end of work, differently orchestrated each time.
+Piano Sonata No. 6: The opening of the first movement recalled in the "Andante" of the fourth movement.
+Symphony No. 6: A theme from first movement is recalled in the finale.
+Symphony No. 7: Both the second and third themes from the first movement return at the climax of the finale.
+Vasily Kalinnikov
+Symphony No. 2
+Dmitri Shostakovich
+Suite for 2 Pianos in F-sharp minor, Op. 6: The main theme of the prelude is used in every movement.
+Suite for Variety Orchestra: Material opening the March is recalled at the very end of the Finale.
+Symphony No. 7 "Leningrad": The opening theme of the symphony is briefly recalled at the end of the fourth movement.
+String Quartet No. 8: The "DSCH" motif is used in all four movements as a unifying aspect.
+Ralph Vaughan Williams
+A London Symphony (Symphony No. 2)
+Oboe Concerto
+Symphony No. 4
+Symphony No. 5
+Heitor Villa-Lobos
+Symphony No. 2
+Symphony No. 3 (cyclic only with relation to the following Symphony No. 4)
+Symphony No. 4Mladjenović, Tijana Popovi, Blanka Bogunović, Marija Masnikosa, and Ivana Perković Radak. Spring–Fall 2009. "untitled essay W. A. Mozart’s Phantasie in C minor, K. 475: The Pillars of Musical Structure and Emotional Response". Journal of Interdisciplinary Music Studies 3, no. 1–2: 95–117. (retrieved 5 March 2020).
+Sadie, Stanley; Tyrrell, John, eds. (2001). The New Grove Dictionary of Music and Musicians (2nd ed.). London: Macmillan. ISBN 9780195170672.Footnotes
+Chusid, Martin. 1964. "Schubert's Cyclic Compositions of 1824". Acta Musicologica 36, no. 1 (January–March): 37–45.
+Proksch, Bryan. 2006. "Cyclic Integration in the Instrumental Music of Haydn and Mozart." Ph.D. Diss. Chapel Hill: University of North Carolina at Chapel Hill.
+Rosen, Charles. 1995. The Romantic Generation. Cambridge, Massachusetts: Harvard University Press.
+Saffle, Michael. "Liszt's Sonata in B minor: Another Look at the 'Double Function' Question." JALS: The Journal of the American Liszt Society 11 (June): 28–39.
+Tucker, G. M., and Roger Parker. 2002. "Cyclic Form". The Oxford Companion to Music, edited by Alison Latham. Oxford and New York: Oxford University Press.
+Vande Moortele, Steven. 2009. Two-dimensional Sonata Form: Form and Cycle in Single-Movement Instrumental Works by Liszt, Strauss, Schoenberg, and Zemlinsky. Leuven: Leuven University Press.

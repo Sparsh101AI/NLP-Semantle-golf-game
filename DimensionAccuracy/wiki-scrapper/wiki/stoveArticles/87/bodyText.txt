@@ -1,0 +1,49 @@
+Ṭawīl (Arabic: طويل, literally 'long'), or al-Ṭawīl (الطويل), is a meter used in classical Arabic poetry.
+It comprises distichs (bayt) of two 'lines'—in Arabic usually written side by side, with a space dividing them, the first being called the sadr (صدر, literally "chest") and the other the ʿajuz (عجز, literally "belly"). Its basic form is as follows (the symbol – representing a long syllable, ⏑ representing a short syllable, and x representing a syllable that can be short or long):
+| ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – ⏑ – |     (2×)This form can be exemplified through the traditional mnemonic Faʿūlun Mafāʿīlun Faʿūlun Mafāʿilun (فَعولُن مَفاعيلُن فَعولُن مَفاعِلُن).
+The final syllable of every distich rhymes throughout the whole poem; a long poem might comprise a hundred distichs. In Classical verse, each distich is a complete syntactic unit.
+The Encyclopaedia of Islam records three sub-types of ṭawīl hemistich, of which the second is the most common:
+| ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – ⏑ – | * | ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – – – |
+| ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – ⏑ – | * | ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – ⏑ – |
+| ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – ⏑ – | * | ⏑ – x | ⏑ – – – | ⏑ – x | ⏑ – – |In the rare cases where a poem requires rhyme at the end of each hemistich, the last foot of the first hemistich has the same pattern as the last foot of the second, to enable the rhyme.
+In ancient poetry, the first unstressed syllable of the line is sometimes omitted, and the second foot of each hemistich can be | ⏑ – ⏑ – | instead of | ⏑ – – – |.
+Ṭawīl was one of the most popular metres in early classical Arabic poetry, comprising over half the surviving corpus of pre-Islamic poetry. One early exponent was Imru' al-Qais, whose Mu‘allaqa is in the metre. Its famous opening distich runs:
+
+قفا نبك من ذِكرى حبيب ومنزل /	بسِقطِ اللِّوى بينَ الدَّخول فحَوْملِ
+qifā nabki min dhikrā ḥabībin wa-manzilī / bi-siqṭi l-liwā bayna d-dakhūli fa-ḥawmalī
+
+
+
+⏑—
+— l ⏑
+—
+— — l
+⏑ — — l
+⏑ — ⏑ —
+*
+⏑ —  —
+l ⏑ —
+— —
+l ⏑ — ⏑ l
+⏑ — ⏑ —
+
+
+qifā
+nabki
+min
+dhikrā
+ḥabībin
+wa-manzilī
+/
+bi-siqṭi l-
+liwā
+bayna d-
+dakhūli
+fa-ḥawmalī
+
+Stay—Let us weep at the remembrance of our beloved, at the sight of the station where her tent was raised, by the edge of yon bending sands between Dahul and Haumel.
+
+Ṭawīl is seldom used in modern Arabic poetry, but a similar pattern is found in Nabaṭī poetry, and this is sometimes thought of as an acephalous, catalectic ṭawīl: | – – ⏑ – – – ⏑ – – ⏑ – – |.
+Metre (poetry)#The Arabic metres
+Arabic prosody
+BasitA recitation of Imra' al-Qais's poem in Arabic

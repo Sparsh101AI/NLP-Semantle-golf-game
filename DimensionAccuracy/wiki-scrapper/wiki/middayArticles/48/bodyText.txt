@@ -1,0 +1,58 @@
+This list of fonts contains every font shipped with Mac OS X 10.0 through macOS 10.14, including any that shipped with language-specific updates from Apple (primarily Korean and Chinese fonts). For fonts shipped only with Mac OS X 10.5, 
+please see Apple's documentation.
+The following system fonts have been added with Yosemite:
+ITC Bodoni 72: Book, Italic, Bold (these three in separate fonts with lining and text figures), Small Caps, Ornaments (Sumner Stone)
+ITF Devanagari
+Kohinoor Devanagari (Satya Rajpurohit)
+Luminari (Philip Bouwsma)
+Phosphate: Inline and Solid (Steve Jackaman & Ashley Muir)
+Shree Devanagari 714 (Modular Infotech)
+SignPainter (House Industries)
+Skia: Light, Light Condensed, Light Extended, Condensed, Extended, Bold, Black, Black Condensed, Black Extended (Matthew Carter; system previously only included regular)
+Sukhumvit Set: Thin, Light, Text, Medium, SemiBold, Bold (Anuthin Wongsunkakon; previously used as a system font for iOS 7.0)
+Bitstream Symbols
+Trattatello (James Grieshaber)At least the following system fonts have been added with El Capitan:
+PingFang SC / PingFang TC / PingFang HK, a new set of Chinese UI Fonts produced by DynaComware in lieu of deprecated STHeiti Family.
+San Francisco UI / Display / Text.At least the following system fonts have been added with Sierra:
+Toppan Bunkyu Mincho Pr6N Regular
+Toppan Bunkyu Midashi Mincho StdN ExtraBold
+Toppan Bunkyu Gothic Pr6N Regular / Demibold
+Toppan Bunkyu Midashi Gothic StdN Extrabold
+Monotype LingWai Medium (SC / TC)
+Songti (SC / TC)
+Yu Kyokasho N (Medium / Bold) (Vertical Version / Horizontal Version)
+San Francisco MonoHigh Sierra added several system fonts or additional weights of existing system fonts:
+Charter (Roman, Italic, Bold, Bold Italic, Black, Black Italic)
+DIN (Alternate Bold, Condensed Bold)
+Hiragino Kaku Gothic StdN W8
+InaiMathi (Bold)
+Kai (Regular)
+Kaiti SC (Regular, Bold, Black)
+Myriad Arabic (Semibold)
+Noto Nastaliq Urdu
+Rockwell (Regular, Italic, Bold, Bold Italic)
+STIX Two Math
+STIX Two Text (Regular, Italic, Bold, Bold Italic)No new fonts were provided with Mojave.
+
+These images compare Roman fonts only, in most styles:
+The fonts in the following list were included as "extras" with AppleWorks 6, which was bundled with new iMacs until 2006.
+A number of fonts have also been provided with iMovie, iLife, iDVD and other Apple applications in hidden folders, for the sole use of these applications. The reason why these fonts are hidden is unknown, with licensing issues suggested as the cause. However, one may easily install them for use by all applications by copying them out of their Library directories and installing them as with any third-party font, although one should always check that the license for the fonts allows them to be used outside the given software.
+Notable hidden fonts on macOS include Bank Gothic, Bodoni, Century Gothic, Century Schoolbook, Garamond, several cuts of Lucida and Monotype Twentieth Century.
+List of typefaces
+Unicode typefaces
+List of typefaces included with Microsoft Windows
+Fonts on the MacApple's font list for 10.3 (names only, no images)
+Apple's font list for 10.4 (names only, no images)
+Apple's font list for 10.5 (names only, no images)
+Apple's font list for 10.6 (names only, no images)
+Apple's font list for 10.7 (names only, no images)
+Apple's font list for 10.8 (names only, no images)
+Apple's font list for 10.9 (names only, no images)
+Apple's font list for 10.12 (names only, no images)
+Apple's font list for 10.13 (names only, no images)
+Apple's font list for 10.14 (names only, no images)
+Apple's font list for 11 (names only, no images)Advanced Typography with Mac OS X Tiger (Appendix B contains representations of Latin fonts included with Mac OS 10.4 Tiger)
+Microsoft's list of Mac OS X installed fonts
+Alan Wood's list of common Mac OS X fonts
+Code Style's survey of Mac OS fonts (includes OS 8/9 users)
+Szántó Tibor: A betű (The type) (Hungarian; Akadémiai Kiadó, Budapest, 1982, ISBN 963 05 0327 1), Chapter XVI.Revised (cross-platform) font stack (for the web)

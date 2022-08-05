@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Basiluzzo&params=38_39_48_N_15_06_50_E_type:city(0)_region:IT-ME
+//geohack.toolforge.org/geohack.php?pagename=Basiluzzo&params=38_39_48_N_15_06_50_E_type:city(0)_region:IT-ME
+https://web.archive.org/web/20181023080702/http://www.movie-locations.com/movies/a/Avventura.html
+http://www.movie-locations.com/movies/a/Avventura.html
+https://en.wikipedia.org/w/index.php?title=Template:Ancient_Greece_topics&action=edit
+https://viaf.org/viaf/234769783
+https://www.worldcat.org/identities/containsVIAFID/234769783
+https://d-nb.info/gnd/4505456-3
+https://en.wikipedia.org/w/index.php?title=Basiluzzo&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Sicily-geo-stub&action=edit

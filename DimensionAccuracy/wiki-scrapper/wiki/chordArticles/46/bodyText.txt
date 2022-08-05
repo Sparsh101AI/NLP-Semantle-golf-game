@@ -1,0 +1,3513 @@
+In mathematics, more specifically in topology, an open map is a function between two topological spaces that maps open sets to open sets. 
+That is, a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is open if for any open set 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ in 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the image 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is open in 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+ 
+Likewise, a closed map is a function that maps closed sets to closed sets. 
+A map may be open, closed, both, or neither; in particular, an open map need not be closed and vice versa.
+Open and closed maps are not necessarily continuous. Further, continuity is independent of openness and closedness in the general case and a continuous function may have one, both, or neither property; this fact remains true even if one restricts oneself to metric spaces. 
+Although their definitions seem more natural, open and closed maps are much less important than continuous maps. 
+Recall that, by definition, a function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is continuous if the preimage of every open set of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is open in 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+ (Equivalently, if the preimage of every closed set of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ is closed in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+).
+Early study of open maps was pioneered by Simion Stoilow and Gordon Thomas Whyburn.
+If 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is a subset of a topological space then let 
+
+
+
+
+
+S
+¯
+
+
+
+
+{\displaystyle {\overline {S}}}
+
+ and 
+
+
+
+Cl
+⁡
+S
+
+
+{\displaystyle \operatorname {Cl} S}
+
+ (resp. 
+
+
+
+Int
+⁡
+S
+
+
+{\displaystyle \operatorname {Int} S}
+
+) denote the closure (resp. interior) of 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ in that space. 
+Let 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ be a function between topological spaces. If 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is any set then 
+
+
+
+f
+(
+S
+)
+:=
+
+{
+
+f
+(
+s
+)
+ 
+:
+ 
+s
+∈
+S
+∩
+domain
+⁡
+f
+
+}
+
+
+
+{\displaystyle f(S):=\left\{f(s)~:~s\in S\cap \operatorname {domain} f\right\}}
+
+ is called the image of 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ under 
+
+
+
+f
+.
+
+
+{\displaystyle f.}
+
+
+There are two different competing, but closely related, definitions of "open map" that are widely used, where both of these definitions can be summarized as: "it is a map that sends open sets to open sets." 
+The following terminology is sometimes used to distinguish between the two definitions. 
+A map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called a
+"Strongly open map" if whenever 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is an open subset of the domain 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is an open subset of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+"Relatively open map" if whenever 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is an open subset of the domain 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is an open subset of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s image 
+
+
+
+Im
+⁡
+f
+:=
+f
+(
+X
+)
+,
+
+
+{\displaystyle \operatorname {Im} f:=f(X),}
+
+ where as usual, this set is endowed with the subspace topology induced on it by 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+A surjective map is relatively open if and only if it strongly open; so for this important special case the definitions are equivalent. 
+More generally, the map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a relatively open map if and only if the surjection 
+
+
+
+f
+:
+X
+→
+Im
+⁡
+f
+
+
+{\displaystyle f:X\to \operatorname {Im} f}
+
+ is a strongly open map. 
+Warning: Many authors define "open map" to mean "relatively open map" (for example, The Encyclopedia of Mathematics) while others define "open map" to mean "strongly open map". In general, these definitions are not equivalent so it is thus advisable to always check what definition of "open map" an author is using.Every strongly open map is a relatively open map. And because 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is always an open subset of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ the image 
+
+
+
+f
+(
+X
+)
+=
+Im
+⁡
+f
+
+
+{\displaystyle f(X)=\operatorname {Im} f}
+
+ of a strongly open map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ must be an open subset of 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+ However, a relatively open map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a strongly open map if and only if its image 
+
+
+
+Im
+⁡
+f
+
+
+{\displaystyle \operatorname {Im} f}
+
+ is an open subset of its codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+ 
+In summary,
+a map is strongly open if and only if it is relatively open and its image is an open subset of its codomain.By using this characterization, it is often straightforward to apply results involving one of these two definitions of "open map" to a situation involving the other definition. The discussion above will also apply to closed maps if each instance of the word "open" is replaced with the word "closed". 
+A map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called an open map or a strongly open map if it satisfies any of the following equivalent conditions: 
+
+Definition: 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ maps open subsets of its domain to open subsets of its codomain; that is, for any open subset 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is an open subset of 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a relatively open map and its image 
+
+
+
+Im
+⁡
+f
+:=
+f
+(
+X
+)
+
+
+{\displaystyle \operatorname {Im} f:=f(X)}
+
+ is an open subset of its codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+For every 
+
+
+
+x
+∈
+X
+
+
+{\displaystyle x\in X}
+
+ and every neighborhood 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ (however small), there exists a neighborhood 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ of 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ such that 
+
+
+
+V
+⊆
+f
+(
+N
+)
+.
+
+
+{\displaystyle V\subseteq f(N).}
+
+
+Either instance of the word "neighborhood" in this statement can be replaced with "open neighborhood" and the resulting statement would still characterize strongly open maps.
+
+
+
+
+f
+
+(
+
+
+Int
+
+X
+
+
+⁡
+A
+
+)
+
+⊆
+
+Int
+
+Y
+
+
+⁡
+(
+f
+(
+A
+)
+)
+
+
+{\displaystyle f\left(\operatorname {Int} _{X}A\right)\subseteq \operatorname {Int} _{Y}(f(A))}
+
+ for all subsets 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ where 
+
+
+
+Int
+
+
+{\displaystyle \operatorname {Int} }
+
+ denotes the topological interior of the set.
+Whenever 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is a closed subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then the set 
+
+
+
+
+{
+
+y
+∈
+Y
+ 
+:
+ 
+
+f
+
+−
+1
+
+
+(
+y
+)
+⊆
+C
+
+}
+
+
+
+{\displaystyle \left\{y\in Y~:~f^{-1}(y)\subseteq C\right\}}
+
+ is a closed subset of 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+This is a consequence of the identity 
+
+
+
+f
+(
+X
+∖
+R
+)
+=
+Y
+∖
+
+{
+
+y
+∈
+Y
+:
+
+f
+
+−
+1
+
+
+(
+y
+)
+⊆
+R
+
+}
+
+,
+
+
+{\displaystyle f(X\setminus R)=Y\setminus \left\{y\in Y:f^{-1}(y)\subseteq R\right\},}
+
+ which holds for all subsets 
+
+
+
+R
+⊆
+X
+.
+
+
+{\displaystyle R\subseteq X.}
+
+
+and if 
+
+
+
+
+
+B
+
+
+
+
+{\displaystyle {\mathcal {B}}}
+
+ is a basis for 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then the following can be appended to this list:
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ maps basic open sets to open sets in its codomain (that is, for any basic open set 
+
+
+
+B
+∈
+
+
+B
+
+
+,
+
+
+{\displaystyle B\in {\mathcal {B}},}
+
+ 
+
+
+
+f
+(
+B
+)
+
+
+{\displaystyle f(B)}
+
+ is an open subset of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+).A map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called a relatively closed map if whenever 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is a closed subset of the domain 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then 
+
+
+
+f
+(
+C
+)
+
+
+{\displaystyle f(C)}
+
+ is a closed subset of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s image 
+
+
+
+Im
+⁡
+f
+:=
+f
+(
+X
+)
+,
+
+
+{\displaystyle \operatorname {Im} f:=f(X),}
+
+ where as usual, this set is endowed with the subspace topology induced on it by 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+A map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called a closed map or a strongly closed map if it satisfies any of the following equivalent conditions: 
+
+Definition: 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ maps closed subsets of its domain to closed subsets of its codomain; that is, for any closed subset 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ of 
+
+
+
+X
+,
+
+
+{\displaystyle X,}
+
+ 
+
+
+
+f
+(
+C
+)
+
+
+{\displaystyle f(C)}
+
+ is a closed subset of 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a relatively closed map and its image 
+
+
+
+Im
+⁡
+f
+:=
+f
+(
+X
+)
+
+
+{\displaystyle \operatorname {Im} f:=f(X)}
+
+ is a closed subset of its codomain 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+
+
+
+
+
+
+
+f
+(
+A
+)
+
+¯
+
+
+⊆
+f
+
+(
+
+
+A
+¯
+
+
+)
+
+
+
+{\displaystyle {\overline {f(A)}}\subseteq f\left({\overline {A}}\right)}
+
+ for every subset 
+
+
+
+A
+⊆
+X
+.
+
+
+{\displaystyle A\subseteq X.}
+
+
+
+
+
+
+
+
+
+f
+(
+C
+)
+
+¯
+
+
+⊆
+f
+(
+C
+)
+
+
+{\displaystyle {\overline {f(C)}}\subseteq f(C)}
+
+ for every closed subset 
+
+
+
+C
+⊆
+X
+.
+
+
+{\displaystyle C\subseteq X.}
+
+
+
+
+
+
+
+
+
+f
+(
+C
+)
+
+¯
+
+
+=
+f
+(
+C
+)
+
+
+{\displaystyle {\overline {f(C)}}=f(C)}
+
+ for every closed subset 
+
+
+
+C
+⊆
+X
+.
+
+
+{\displaystyle C\subseteq X.}
+
+
+Whenever 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is an open subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ then the set 
+
+
+
+
+{
+
+y
+∈
+Y
+ 
+:
+ 
+
+f
+
+−
+1
+
+
+(
+y
+)
+⊆
+U
+
+}
+
+
+
+{\displaystyle \left\{y\in Y~:~f^{-1}(y)\subseteq U\right\}}
+
+ is an open subset of 
+
+
+
+Y
+.
+
+
+{\displaystyle Y.}
+
+
+If 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ is a net in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+y
+∈
+Y
+
+
+{\displaystyle y\in Y}
+
+ is a point such that 
+
+
+
+f
+
+(
+
+x
+
+∙
+
+
+)
+
+→
+y
+
+
+{\displaystyle f\left(x_{\bullet }\right)\to y}
+
+ in 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ then 
+
+
+
+
+x
+
+∙
+
+
+
+
+{\displaystyle x_{\bullet }}
+
+ converges in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ to the set 
+
+
+
+
+f
+
+−
+1
+
+
+(
+y
+)
+.
+
+
+{\displaystyle f^{-1}(y).}
+
+
+The convergence 
+
+
+
+
+x
+
+∙
+
+
+→
+
+f
+
+−
+1
+
+
+(
+y
+)
+
+
+{\displaystyle x_{\bullet }\to f^{-1}(y)}
+
+ means that every open subset of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that contains 
+
+
+
+
+f
+
+−
+1
+
+
+(
+y
+)
+
+
+{\displaystyle f^{-1}(y)}
+
+ will contain 
+
+
+
+
+x
+
+j
+
+
+
+
+{\displaystyle x_{j}}
+
+ for all sufficiently large indices 
+
+
+
+j
+.
+
+
+{\displaystyle j.}
+
+
+A surjective map is strongly closed if and only if it a relatively closed. So for this important special case, the two definitions are equivalent. 
+By definition, the map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a relatively closed map if and only if the surjection 
+
+
+
+f
+:
+X
+→
+Im
+⁡
+f
+
+
+{\displaystyle f:X\to \operatorname {Im} f}
+
+ is a strongly closed map. 
+If in the open set definition of "continuous map" (which is the statement: "every preimage of an open set is open"), both instances of the word "open" are replaced with "closed" then the statement of results ("every preimage of a closed set is closed") is equivalent to continuity. 
+This does not happen with the definition of "open map" (which is: "every image of an open set is open") since the statement that results ("every image of a closed set is closed") is the definition of "closed map", which is in general not equivalent to openness. There exist open maps that are not closed and there also exist closed maps that are not open. This difference between open/closed maps and continuous maps is ultimately due to the fact that for any set 
+
+
+
+S
+,
+
+
+{\displaystyle S,}
+
+ only 
+
+
+
+f
+(
+X
+∖
+S
+)
+⊇
+f
+(
+X
+)
+∖
+f
+(
+S
+)
+
+
+{\displaystyle f(X\setminus S)\supseteq f(X)\setminus f(S)}
+
+ is guaranteed in general, whereas for preimages, equality 
+
+
+
+
+f
+
+−
+1
+
+
+(
+Y
+∖
+S
+)
+=
+
+f
+
+−
+1
+
+
+(
+Y
+)
+∖
+
+f
+
+−
+1
+
+
+(
+S
+)
+
+
+{\displaystyle f^{-1}(Y\setminus S)=f^{-1}(Y)\setminus f^{-1}(S)}
+
+ always holds.
+The function 
+
+
+
+f
+:
+
+R
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+
+ defined by 
+
+
+
+f
+(
+x
+)
+=
+
+x
+
+2
+
+
+
+
+{\displaystyle f(x)=x^{2}}
+
+ is continuous, closed, and relatively open, but not (strongly) open. This is because if 
+
+
+
+U
+=
+(
+a
+,
+b
+)
+
+
+{\displaystyle U=(a,b)}
+
+ is any open interval in 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s domain 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ that does not contain 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ then 
+
+
+
+f
+(
+U
+)
+=
+(
+min
+{
+
+a
+
+2
+
+
+,
+
+b
+
+2
+
+
+}
+,
+max
+{
+
+a
+
+2
+
+
+,
+
+b
+
+2
+
+
+}
+)
+,
+
+
+{\displaystyle f(U)=(\min\{a^{2},b^{2}\},\max\{a^{2},b^{2}\}),}
+
+ where this open interval is an open subset of both 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ and 
+
+
+
+Im
+⁡
+f
+:=
+f
+(
+
+R
+
+)
+=
+[
+0
+,
+∞
+)
+.
+
+
+{\displaystyle \operatorname {Im} f:=f(\mathbb {R} )=[0,\infty ).}
+
+ However, if 
+
+
+
+U
+=
+(
+a
+,
+b
+)
+
+
+{\displaystyle U=(a,b)}
+
+ is any open interval in 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ that contains 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ then 
+
+
+
+f
+(
+U
+)
+=
+[
+0
+,
+max
+{
+
+a
+
+2
+
+
+,
+
+b
+
+2
+
+
+}
+)
+,
+
+
+{\displaystyle f(U)=[0,\max\{a^{2},b^{2}\}),}
+
+ which is not an open subset of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+'s codomain 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ but is an open subset of 
+
+
+
+Im
+⁡
+f
+=
+[
+0
+,
+∞
+)
+.
+
+
+{\displaystyle \operatorname {Im} f=[0,\infty ).}
+
+ Because the set of all open intervals in 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ is a basis for the Euclidean topology on 
+
+
+
+
+R
+
+,
+
+
+{\displaystyle \mathbb {R} ,}
+
+ this shows that 
+
+
+
+f
+:
+
+R
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+
+ is relatively open but not (strongly) open. 
+If 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ has the discrete topology (that is, all subsets are open and closed) then every function 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is both open and closed (but not necessarily continuous). 
+For example, the floor function from 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ to 
+
+
+
+
+Z
+
+
+
+{\displaystyle \mathbb {Z} }
+
+ is open and closed, but not continuous. 
+This example shows that the image of a connected space under an open or closed map need not be connected. 
+Whenever we have a product of topological spaces 
+
+
+
+X
+=
+∏
+
+X
+
+i
+
+
+,
+
+
+{\displaystyle X=\prod X_{i},}
+
+ the natural projections 
+
+
+
+
+p
+
+i
+
+
+:
+X
+→
+
+X
+
+i
+
+
+
+
+{\displaystyle p_{i}:X\to X_{i}}
+
+ are open (as well as continuous). 
+Since the projections of fiber bundles and covering maps are locally natural projections of products, these are also open maps. 
+Projections need not be closed however. Consider for instance the projection 
+
+
+
+
+p
+
+1
+
+
+:
+
+
+R
+
+
+2
+
+
+→
+
+R
+
+
+
+{\displaystyle p_{1}:\mathbb {R} ^{2}\to \mathbb {R} }
+
+ on the first component; then the set 
+
+
+
+A
+=
+{
+(
+x
+,
+1
+
+/
+
+x
+)
+:
+x
+≠
+0
+}
+
+
+{\displaystyle A=\{(x,1/x):x\neq 0\}}
+
+ is closed in 
+
+
+
+
+
+R
+
+
+2
+
+
+,
+
+
+{\displaystyle \mathbb {R} ^{2},}
+
+ but 
+
+
+
+
+p
+
+1
+
+
+(
+A
+)
+=
+
+R
+
+∖
+{
+0
+}
+
+
+{\displaystyle p_{1}(A)=\mathbb {R} \setminus \{0\}}
+
+ is not closed in 
+
+
+
+
+R
+
+.
+
+
+{\displaystyle \mathbb {R} .}
+
+ 
+However, for a compact space 
+
+
+
+Y
+,
+
+
+{\displaystyle Y,}
+
+ the projection 
+
+
+
+X
+×
+Y
+→
+X
+
+
+{\displaystyle X\times Y\to X}
+
+ is closed. This is essentially the tube lemma.
+To every point on the unit circle we can associate the angle of the positive 
+
+
+
+x
+
+
+{\displaystyle x}
+
+-axis with the ray connecting the point with the origin. This function from the unit circle to the half-open interval [0,2π) is bijective, open, and closed, but not continuous. 
+It shows that the image of a compact space under an open or closed map need not be compact. 
+Also note that if we consider this as a function from the unit circle to the real numbers, then it is neither open nor closed. Specifying the codomain is essential.
+Every homeomorphism is open, closed, and continuous. In fact, a bijective continuous map is a homeomorphism if and only if it is open, or equivalently, if and only if it is closed. 
+The composition of two (strongly) open maps is an open map and the composition of two (strongly) closed maps is a closed map. However, the composition of two relatively open maps need not be relatively open and similarly, the composition of two relatively closed maps need not be relatively closed.  
+If 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is strongly open (respectively, strongly closed) and 
+
+
+
+g
+:
+Y
+→
+Z
+
+
+{\displaystyle g:Y\to Z}
+
+ is relatively open (respectively, relatively closed) then 
+
+
+
+g
+∘
+f
+:
+X
+→
+Z
+
+
+{\displaystyle g\circ f:X\to Z}
+
+ is relatively open (respectively, relatively closed).  
+Let 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ be a map. 
+Given any subset 
+
+
+
+T
+⊆
+Y
+,
+
+
+{\displaystyle T\subseteq Y,}
+
+ if 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a relatively open (respectively, relatively closed, strongly open, strongly closed, continuous, surjective) map then the same is true of its restriction 
+
+
+
+
+f
+
+
+
+|
+
+
+
+
+f
+
+−
+1
+
+
+(
+T
+)
+
+
+ 
+:
+ 
+
+f
+
+−
+1
+
+
+(
+T
+)
+→
+T
+
+
+{\displaystyle f{\big \vert }_{f^{-1}(T)}~:~f^{-1}(T)\to T}
+
+
+to the 
+
+
+
+f
+
+
+{\displaystyle f}
+
+-saturated subset 
+
+
+
+
+f
+
+−
+1
+
+
+(
+T
+)
+.
+
+
+{\displaystyle f^{-1}(T).}
+
+
+The categorical sum of two open maps is open, or of two closed maps is closed. 
+The categorical product of two open maps is open, however, the categorical product of two closed maps need not be closed.
+A bijective map is open if and only if it is closed. 
+The inverse of a bijective continuous map is a bijective open/closed map (and vice versa). 
+A surjective open map is not necessarily a closed map, and likewise, a surjective closed map is not necessarily an open map. All local homeomorphisms, including all coordinate charts on manifolds and all covering maps, are open maps. 
+A variant of the closed map lemma states that if a continuous function between locally compact Hausdorff spaces is proper then it is also closed. 
+In complex analysis, the identically named open mapping theorem states that every non-constant holomorphic function defined on a connected open subset of the complex plane is an open map. 
+The invariance of domain theorem states that a continuous and locally injective function between two 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional topological manifolds must be open. 
+In functional analysis, the open mapping theorem states that every surjective continuous linear operator between Banach spaces is an open map. 
+This theorem has been generalized to topological vector spaces beyond just Banach spaces. 
+A surjective map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called an almost open map if for every 
+
+
+
+y
+∈
+Y
+
+
+{\displaystyle y\in Y}
+
+ there exists some 
+
+
+
+x
+∈
+
+f
+
+−
+1
+
+
+(
+y
+)
+
+
+{\displaystyle x\in f^{-1}(y)}
+
+ such that 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is a point of openness for 
+
+
+
+f
+,
+
+
+{\displaystyle f,}
+
+ which by definition means that for every open neighborhood 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is a neighborhood of 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ (note that the neighborhood 
+
+
+
+f
+(
+U
+)
+
+
+{\displaystyle f(U)}
+
+ is not required to be an open neighborhood). 
+Every surjective open map is an almost open map but in general, the converse is not necessarily true. 
+If a surjection 
+
+
+
+f
+:
+(
+X
+,
+τ
+)
+→
+(
+Y
+,
+σ
+)
+
+
+{\displaystyle f:(X,\tau )\to (Y,\sigma )}
+
+ is an almost open map then it will be an open map if it satisfies the following condition (a condition that does not depend in any way on 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+'s topology 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+): 
+whenever 
+
+
+
+m
+,
+n
+∈
+X
+
+
+{\displaystyle m,n\in X}
+
+ belong to the same fiber of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ (that is, 
+
+
+
+f
+(
+m
+)
+=
+f
+(
+n
+)
+
+
+{\displaystyle f(m)=f(n)}
+
+) then for every neighborhood 
+
+
+
+U
+∈
+τ
+
+
+{\displaystyle U\in \tau }
+
+ of 
+
+
+
+m
+,
+
+
+{\displaystyle m,}
+
+ there exists some neighborhood 
+
+
+
+V
+∈
+τ
+
+
+{\displaystyle V\in \tau }
+
+ of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ such that 
+
+
+
+F
+(
+V
+)
+⊆
+F
+(
+U
+)
+.
+
+
+{\displaystyle F(V)\subseteq F(U).}
+
+If the map is continuous then the above condition is also necessary for the map to be open. That is, if 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a continuous surjection then it is an open map if and only if it is almost open and it satisfies the above condition.
+If 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a continuous map that is also open or closed then: 
+if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a surjection then it is a quotient map and even a hereditarily quotient map,
+A surjective map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is called hereditarily quotient if for every subset 
+
+
+
+T
+⊆
+Y
+,
+
+
+{\displaystyle T\subseteq Y,}
+
+ the restriction 
+
+
+
+f
+
+
+
+|
+
+
+
+
+f
+
+−
+1
+
+
+(
+T
+)
+
+
+ 
+:
+ 
+
+f
+
+−
+1
+
+
+(
+T
+)
+→
+T
+
+
+{\displaystyle f{\big \vert }_{f^{-1}(T)}~:~f^{-1}(T)\to T}
+
+ is a quotient map.
+if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is an injection then it is a topological embedding.
+if 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a bijection then it is a homeomorphism.In the first two cases, being open or closed is merely a sufficient condition for the conclusion that follows. 
+In the third case, it is necessary as well. 
+If 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is a continuous (strongly) open map, 
+
+
+
+A
+⊆
+X
+,
+
+
+{\displaystyle A\subseteq X,}
+
+ and 
+
+
+
+S
+⊆
+Y
+,
+
+
+{\displaystyle S\subseteq Y,}
+
+ then:
+
+
+
+
+
+
+f
+
+−
+1
+
+
+
+(
+
+
+Bd
+
+Y
+
+
+⁡
+S
+
+)
+
+=
+
+Bd
+
+X
+
+
+⁡
+
+(
+
+
+f
+
+−
+1
+
+
+(
+S
+)
+
+)
+
+
+
+{\displaystyle f^{-1}\left(\operatorname {Bd} _{Y}S\right)=\operatorname {Bd} _{X}\left(f^{-1}(S)\right)}
+
+ where 
+
+
+
+Bd
+
+
+{\displaystyle \operatorname {Bd} }
+
+ denotes the boundary of a set.
+
+
+
+
+
+f
+
+−
+1
+
+
+
+(
+
+
+S
+¯
+
+
+)
+
+=
+
+
+
+
+f
+
+−
+1
+
+
+(
+S
+)
+
+¯
+
+
+
+
+{\displaystyle f^{-1}\left({\overline {S}}\right)={\overline {f^{-1}(S)}}}
+
+ where 
+
+
+
+
+
+S
+¯
+
+
+
+
+{\displaystyle {\overline {S}}}
+
+ denote the closure of a set.
+If 
+
+
+
+
+
+A
+¯
+
+
+=
+
+
+
+
+Int
+
+X
+
+
+⁡
+A
+
+¯
+
+
+,
+
+
+{\displaystyle {\overline {A}}={\overline {\operatorname {Int} _{X}A}},}
+
+ where 
+
+
+
+Int
+
+
+{\displaystyle \operatorname {Int} }
+
+ denotes the interior of a set, then 
+
+
+
+
+
+
+
+
+Int
+
+Y
+
+
+⁡
+f
+(
+A
+)
+
+¯
+
+
+=
+
+
+
+f
+(
+A
+)
+
+¯
+
+
+=
+
+
+
+f
+
+(
+
+
+Int
+
+X
+
+
+⁡
+A
+
+)
+
+
+¯
+
+
+=
+
+
+
+f
+
+(
+
+
+
+
+Int
+
+X
+
+
+⁡
+A
+
+¯
+
+
+)
+
+
+¯
+
+
+
+
+{\displaystyle {\overline {\operatorname {Int} _{Y}f(A)}}={\overline {f(A)}}={\overline {f\left(\operatorname {Int} _{X}A\right)}}={\overline {f\left({\overline {\operatorname {Int} _{X}A}}\right)}}}
+
+
+where this set 
+
+
+
+
+
+
+f
+(
+A
+)
+
+¯
+
+
+
+
+{\displaystyle {\overline {f(A)}}}
+
+ is also necessarily a regular closed set (in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+). In particular, if 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a regular closed set then so is 
+
+
+
+
+
+
+f
+(
+A
+)
+
+¯
+
+
+.
+
+
+{\displaystyle {\overline {f(A)}}.}
+
+ And if 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a regular open set then so is 
+
+
+
+Y
+∖
+
+
+
+f
+(
+X
+∖
+A
+)
+
+¯
+
+
+.
+
+
+{\displaystyle Y\setminus {\overline {f(X\setminus A)}}.}
+
+
+
+If the continuous open map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is also surjective then 
+
+
+
+
+Int
+
+X
+
+
+⁡
+
+f
+
+−
+1
+
+
+(
+S
+)
+=
+
+f
+
+−
+1
+
+
+
+(
+
+
+Int
+
+Y
+
+
+⁡
+S
+
+)
+
+
+
+{\displaystyle \operatorname {Int} _{X}f^{-1}(S)=f^{-1}\left(\operatorname {Int} _{Y}S\right)}
+
+ and moreover, 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is a regular open (resp. a regular closed) subset of 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ if and only if 
+
+
+
+
+f
+
+−
+1
+
+
+(
+S
+)
+
+
+{\displaystyle f^{-1}(S)}
+
+ is a regular open (resp. a regular closed) subset of 
+
+
+
+X
+.
+
+
+{\displaystyle X.}
+
+
+
+If a net 
+
+
+
+
+y
+
+∙
+
+
+=
+
+
+(
+
+y
+
+i
+
+
+)
+
+
+i
+∈
+I
+
+
+
+
+{\displaystyle y_{\bullet }=\left(y_{i}\right)_{i\in I}}
+
+ converges in 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ to a point 
+
+
+
+y
+∈
+Y
+
+
+{\displaystyle y\in Y}
+
+ and if the continuous open map 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ is surjective, then for any 
+
+
+
+x
+∈
+
+f
+
+−
+1
+
+
+(
+y
+)
+
+
+{\displaystyle x\in f^{-1}(y)}
+
+ there exists a net 
+
+
+
+
+x
+
+∙
+
+
+=
+
+
+(
+
+x
+
+a
+
+
+)
+
+
+a
+∈
+A
+
+
+
+
+{\displaystyle x_{\bullet }=\left(x_{a}\right)_{a\in A}}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ (indexed by some directed set 
+
+
+
+A
+
+
+{\displaystyle A}
+
+) such that 
+
+
+
+
+x
+
+∙
+
+
+→
+x
+
+
+{\displaystyle x_{\bullet }\to x}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+f
+
+(
+
+x
+
+∙
+
+
+)
+
+:=
+
+
+(
+
+f
+
+(
+
+x
+
+a
+
+
+)
+
+
+)
+
+
+a
+∈
+A
+
+
+
+
+{\displaystyle f\left(x_{\bullet }\right):=\left(f\left(x_{a}\right)\right)_{a\in A}}
+
+ is a subnet of 
+
+
+
+
+y
+
+∙
+
+
+.
+
+
+{\displaystyle y_{\bullet }.}
+
+ Moreover, the indexing set 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ may be taken to be 
+
+
+
+A
+:=
+I
+×
+
+
+
+N
+
+
+
+x
+
+
+
+
+{\displaystyle A:=I\times {\mathcal {N}}_{x}}
+
+ with the product order where 
+
+
+
+
+
+
+N
+
+
+
+x
+
+
+
+
+{\displaystyle {\mathcal {N}}_{x}}
+
+ is any neighbourhood basis of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ directed by 
+
+
+
+
+⊇
+.
+
+
+
+{\displaystyle \,\supseteq .\,}
+
+
+Almost open map – Map that satisfies a condition similar to that of being an open map.
+Closed graph
+Closed linear operator
+Local homeomorphism – Mathematical function revertible near each point
+Quasi-open map – Function that maps non-empty open sets to sets that have non-empty interior in its codomain
+Quotient map
+Perfect map – Continuous closed surjective map, each of whose fibers are also compact sets
+Proper map – Map between topological spaces with the property that the preimage of every compact is compact
+Sequence covering mapNarici, Lawrence; Beckenstein, Edward (2011). Topological Vector Spaces. Pure and applied mathematics (Second ed.). Boca Raton, FL: CRC Press. ISBN 978-1584888666. OCLC 144216834.
+Schaefer, Helmut H.; Wolff, Manfred P. (1999). Topological Vector Spaces. GTM. Vol. 8 (Second ed.). New York, NY: Springer New York Imprint Springer. ISBN 978-1-4612-7155-0. OCLC 840278135.
+Trèves, François (2006) [1967]. Topological Vector Spaces, Distributions and Kernels. Mineola, N.Y.: Dover Publications. ISBN 978-0-486-45352-1. OCLC 853623322.

@@ -1,0 +1,10 @@
+http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=45991
+http://www.iso-architecture.org/42010/
+http://www.architectureandchange.com/2008/01/20/the-ieee-1471-conceptual-framework-for-architecture-description/
+https://web.archive.org/web/20090619172138/http://www.architectureandchange.com/2008/01/20/the-ieee-1471-conceptual-framework-for-architecture-description/
+http://standards.ieee.org/reading/ieee/std_public/description/se/1471-2000_desc.html
+http://www.iso-architecture.org/42010/cm/cm-1471-2000.html
+https://doi.org/10.1109%2FIEEESTD.2000.91944
+http://www.iso-architecture.org/ieee-1471/
+http://megaf.di.univaq.it/
+https://en.wikipedia.org/w/index.php?title=Template:IEEE_standards&action=edit

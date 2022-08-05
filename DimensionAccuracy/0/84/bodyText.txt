@@ -1,0 +1,7009 @@
+The COVID-19 pandemic in the Czech Republic is part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first three confirmed cases in the Czech Republic were reported on 1 March 2020. On 12 March, the government declared a state of emergency, for the first time in the country's modern history for the area of the entire country. On 16 March, the country closed its borders, forbade the entry of foreigners without residence permits, and issued a nationwide curfew. While originally planned to be in effect until 24 March, the measures were later extended until 1 April and then again until the end of State of Emergency which was extended by the Chamber of Deputies until 30 April 2020 and then again until 17 May 2020.
+Some measures undertaken by the Czech Republic differed in key aspects from other countries. A general curfew was in place between 16 March and 24 April, although with numerous exemptions. Apart from the permitting essential shopping and going to and from work, as in other countries, it also permitted visiting relatives and allowed for unrestricted movement in parks and open countryside. A general closure of services and retail sale was in place from 14 March until 11 May; however, all shops could conduct socially-distances sales with delivery through makeshift takeout windows and the gradual opening of selected shops started in several waves from 24 March onwards. Fear, anger, and hopelessness were the most frequent traumatic emotional responses in the general public during the first COVID-19 outbreak in the Czech Republic. The four most frequent categories of fear were determined: fear of the negative impact on household finances, fear of the negative impact on the household finances of significant others, fear of the unavailability of health care, and fear of an insufficient food supply. The government did not order the closure of manufacturing plants, but many did so voluntarily during the second half of March, with Hyundai spearheading a gradual reopening from 14 April.
+The Czech Republic was the first European country to make the wearing of face masks mandatory from 19 March onwards. COVID-19 testing was made widely available with drive-through locations from 14 March, and from 27 March anyone with a fever, dry cough or shortness of breath was eligible for a free test. From 13 April onwards, COVID-19 testing capacity significantly surpassed demand. Contact tracing in the country also included voluntary disclosure of mobile phone position and debit card payments data for previous days and the quarantining of identified contacts. By 1 May 2020, altogether 257 COVID-19-related deaths were identified in the Czech Republic compared to 2,719 in similarly populous Sweden, which did not impose a full lockdown. However, Belgium, also with a similar population, had suffered 7,866 deaths at that time, despite having implemented an early and strict lockdown. The Czech Republic started gradually easing measures from 7 April 2020 onwards, with most restrictions being lifted by 11 May 2020.
+However, by 17 November 2020, the Czech Republic had recorded a total of 6,416 COVID-19-related deaths compared to 6,344 in Sweden, surpassing Sweden's deaths count.
+By August 2021, the Czech Republic has recorded the fourth highest confirmed death rate in the world. There are some root causes speculated. A lockdown was decided in November 2020.
+On 12 January 2020, the World Health Organization (WHO) confirmed that a novel coronavirus was the cause of a respiratory illness in a cluster of people in Wuhan City, Hubei Province, China, which was reported to the WHO on 31 December 2019.
+The case fatality ratio for COVID-19 has been much lower than SARS of 2003, but the transmission has been significantly greater, with a significant total death toll.
+
+As of 28 January 2020, suspected cases were tested with negative results.
+28 February –
+As of 28 February 170 suspected cases were tested with negative results. 307 people were in home quarantine imposed by a regional health authority, 77 of them were in South Bohemian Region.
+1 March –
+The Minister of Health, Adam Vojtěch, reported that three cases of COVID-19 had been confirmed by the National Reference Laboratory. The three cases are treated at the Bulovka Hospital in Prague; one of the cases had been found in Ústí nad Labem, but was transported to the Bulovka Hospital. All cases were connected with northern Italy. One case was a man who returned from a conference in Udine, the second case was a woman (tourist, U.S. citizen) studying in Milan and the third case was a man who returned from a skiing holiday in Auronzo di Cadore.
+2 March –
+Another case was confirmed, a woman who was on skiing holiday in Auronzo di Cadore and was staying in the same hotel as the man from a previous case.
+3 March –
+Another case was reported, a woman from Ecuador studying in Milano, a friend of the U.S. tourist who tested positive several days prior. Government started taking active measures (see policies section below).
+5 March –
+Four new cases were identified a Czech and an Italian who returned from Italy by the end of February, third was related to case No. 3 and fourth was related to case No. 6.
+6 March –
+Obligatory 14 days' quarantine for people returning from selected parts of Italy announced (see policies section below). As of 6 March 1,011 people were already in home quarantine imposed by regional health authority, 341 of them in Prague, 160 in South Bohemian Region and 63 in Central Bohemian Region. As of 6 March, some 16,500 Czechs were in Italy; spring break falls between early February and the middle of March 2020.
+9 March – Bulovka Hospital in Prague has announced that all but two tourists (from U.S. – case No. 2 and from Ecuador – case #5) have been released to home quarantine.
+10 March –
+Positive cases were being identified in ever increasing number of regions.
+11 March –
+Schools closed.
+12 March –
+The Czech government has declared a state of emergency for 30 days and adopted a number of measures (see policies section below).
+13 March –
+Brno University Hospital (a COVID-19 testing center) was hacked, disrupting services.
+15 March –
+Shortly before midnight, Prime Minister Andrej Babiš announced approval of the nationwide quarantine (see policies section below).
+16 March –
+Starting at midnight, an hour after the nationwide quarantine declaration was approved the previous day, nearly 11 million Czech residents were placed under quarantine (see policies section below). The Czech Republic became one of the first countries in the EU to completely close its borders (with exemptions including international freight transport, see policies section below). First three people were reported recovered.
+18 March –
+The Czech Republic became the first country in the European Union to introduce mandatory face cover (see policies section below).
+21 March –
+Deliveries of protective gear purchased by Czech Government in China started: a heavy cargo plane Antonov An-124 Ruslan provided through NATO Support and Procurement Agency brought 100 tons of masks, respirators and coronavirus tests from China, while a China Eastern plane brought 7 million face masks. This helped to alleviate the shortage of personal protective equipment (PPE) in the Czech Republic. According to Security Information Service, the shortage happened after Chinese embassy conducted massive purchases of respirators available on Czech market during January and February and transferred them to China.
+22 March –
+First death reported: a 95-year-old man. While COVID-19 positive, at the time of death, the man was not at ICU and did not suffer from pneumonia that is a COVID-19 specific type of death. The man suffered from chronic heart issues and had also a pacemaker. The cause of death was formally established as a "complete exhaustion of organism".
+23 March –
+The local health authority in the Moravian-Silesian Region announced that 80% of COVID-19 examinations that were conducted in the region in the previous days with use of fast-test kits that government procured and airlifted from China (altogether 300,000 kits bought by the Czech Government for total price of CZK 54 m—approximately US$2.1 m) came out wrong when double-checked through standard testing.
+It was later confirmed the cause was an incorrect use where the fast-test react to an immune response and are not suitable for new patient screenings.
+24 March –
+A second death was reported: a 45-year-old man died after six days in a hospital in Havířov. The patient was suffering from advanced cancer with metastases to multiple organs. The cause of death was established as multiple organ failure due to cancer but COVID-19 infection accelerated the patient's death.
+A third death was reported: a 71-year-old woman died in Všeobecná fakultní nemocnice in Prague. The woman suffered from the chronic obstructive pulmonary disease as well as other illnesses, so it wasn't immediately clear that she may be COVID-19 positive. Only after being hospitalised the woman informed doctors that her relative recently returned from Italy and was then tested for COVID-19. The woman was connected to a ventilator but died three days after start of hospitalisation.
+Apart from the Uber driver on ECMO, there were 19 other patients in hospitals in serious condition, all of them connected to ventilators.
+25 March –
+The fourth and fifth deaths were reported: The fourth victim of the disease is an 82-year-old from Prague with long-term chronic health problems. The fifth patient is an 88-year-old man from the Central Bohemian Region who was at home getting treatment and was suffering from a chronic disease.
+A sixth patient died at Thomayer Hospital. The 75-year-old patient suffered from diabetes and Parkinson's disease and also had advanced heart problems. The patient had been in the hospital since January and got infected while in post-operative care. After this patient tested positive for COVID-19, the hospital tested all 29 other patients in the same ward on 22 March, all negative. The test was repeated again on 25 March, this time with positive outcomes for 13 patients. Several of the hospital's staff had become infected earlier, probably while taking care of the Uber driver who would later become the first remdesivir receiver in the country. This patient was originally admitted with simple pneumonia without initial indication of COVID-19. Two of the infected nurses were hospitalised at the local pulmonary ward at the time of the sixth patient's death.
+The government was planning to evacuate Czechs from Australia and New Zealand by the end of the week. Hundreds of Czechs still remained abroad, mainly in Oceania and Southeast Asia.
+An Antonov An-124 Ruslan provided through the NATO Support and Procurement Agency arrived again with 24 tons of medical products purchased by the Czech government in China. The shipment included 52,600 protective suits, 70,900 protective glasses, 250,000 gloves, 1.16 million respirators and eight million masks. Further government purchased personal protection equipment shipments were planned for delivery with use of planes by the companies Smartwings and China Eastern Airlines, which were contracted for nine flights per week for six weeks in advance.
+26 March –
+A Taiwanese student in her twenties, who recently returned to Taiwan from the Czech Republic tested positive for coronavirus. She left the Czech Republic after 8 months in the country on 19 March 2020, announced symptoms (fever, diarrhoea) to Taiwanese authorities on 24 March and was diagnosed COVID-19 positive on 26 March 2020. Thirty-four patients were in severe condition.
+27 March –
+Despite having been quarantined already for two weeks, at least six retirement homes were hit by the spread of the COVID-19 virus. Authorities noted also the rising number of COVID-19 positive healthcare workers. As the capacity for COVID-19 testing increased, authorities eased requirements for free testing. Anyone with a fever, dry cough or shortness of breath may be eligible for a free COVID-19 test.
+29 March –
+Five people died. Among the victims was a 45-year-old nurse from Thomayer Hospital, an elderly woman from a senior home in Michle and an elderly woman from a senior home in Břevnice. There were 227 patients in hospitals, 45 of them in severe condition.
+30 March –
+In South Moravia, testing of the so-called "smart quarantine" was started: local travel history of infected persons were to be tracked using data from mobile phones and bank cards. Three hundred military personnel were deployed to reinforce local health authority for the purpose of tracing patients' contacts and collecting samples. If this approach is deemed successful by the authorities for diminishing the pandemic, the "smart quarantine" method is planned to replace the existing nationwide curfew policy. The city of Uherský Brod started thorough disinfection of all common areas of apartment buildings and public areas after a significant increase in COVID-19 infections. Health authority registered thirty new cases in the town. The Government also issued a decree for citizens to make cloth face masks for the nation.
+31 March –
+In a community of 72 people living in a retirement home in Litoměřice, 52 positive tests were confirmed.
+Employees of the retirement home in Česká Kamenice decided to stay with their clients 24 hours a day until 15 April, to avoid the seniors getting COVID-19.
+1 April –
+One month ago the Czech Republic reported the first coronavirus case. A second senior from the Litoměřice retirement home died, as well as seniors from Prague and Moravia-Silesia. The Department of Infectious Diseases of the Central Military Hospital in Prague has treated COVID-19 patients with hydroxychloroquine. Eight of them have already been released for home quarantine. The evaluation of preliminary results of this therapy will be carried out in April. Chloroquine and hydroxychloroquine were originally used to treat malaria, but at present they also help patients with autoimmune diseases—rheumatoid arthritis or systemic lupus.
+The World Health Organization (WHO) considers these substances as one of the options to treat COVID-19.
+Supreme Administrative Court ruled that Government decision to postpone the Senate district 32 by-election due to COVID-19 pandemic was illegal. According to the court, the Government lacked the authority to make such a decision, as that can only be done by an Act of Parliament. The by-election to fill a seat after Jaroslav Kubera, who died of heart attack, was originally planned on 27 March and would take place on 5 June.
+2 April –
+One victim died at the General University Hospital in Prague (VFN); another victim was a 79-year-old patient hospitalised at the Hradec Králové University Hospital. The government decided to extend the border control by 20 days. Border checks with Germany and Austria will last until midnight Friday, 24 April.
+3 April –
+A public controversy has arisen around shipments of personal protective equipment that the Czech Government purchased and airlifted from China. On 31 March, Mayor of Prague Zdeněk Hřib publicly praised Government of Taiwan for donating ICU ventilators to the Czech Republic, while pointing out that all of the equipment from China was purchased, none was donated. Representatives of China's business interest in the Czech Republic countered by claiming that China donated personal protective equipment that was to be handed over to Czech hospitals on 1 April. According to the media, Czech authorities received a promise of donation of PPE; however, none have reached the country by 3 April 2020.
+4 April – There were 29 infected police officers in the Czech Republic, 343 more were in preventive quarantine.
+6 April – Government eased a number of restrictive measures, e.g. by opening outside sporting grounds (including skiing, shooting ranges, etc.), movement in parks and nature without face masks and opening of more shops and services (see policies section below).
+7 April – Government sought extension of the State of Emergency for 30 days, i.e. until 12 May 2020. Chamber of Deputies of Parliament granted extension until 30 April 2020.
+12 April – Government announced that it was preparing a plan for gradual lifting of remaining restrictions. Government aimed at reaching maximum of 400 newly infected people a day to prevent overburdening the healthcare system. Instead of general restrictions, the intended maximum number should be reached through contact tracing of positive cases (see policies section below).
+13 April – Number of COVID-19 tests sank from 8,000 a day to mere 3,200 a day during Easter weekend which included also Friday and Monday as state holidays. According to health authority, testing capacity during Easter weekend significantly surpassed demand for testing from potential patients. Health authority expected the demand to rise again in the following week.
+14 April – A month-long complete border closure ended (see policies section below). A large number of Czech Romanis started returning from particularly hit United Kingdom, where many lived for over 15 years, leading to fear of possible increase of COVID-19 infection.
+Hyundai factory in Nošovice, which makes 1,500 cars a day including Kona Electric, restarted production after three weeks' pause. Ten days later, Government exempted Korean Hyundai "specialists and key workers" needed for ramp up of electric vehicle production from cross-border and quarantine restrictions. Manufacturing plants were unaffected by Government restrictions; however, many had decided to close voluntarily.
+
+The Czech government outlines a five-step plan for re-opening shops, restaurants and other businesses. Each subsequent step will be triggered as planned only if the previous step has not resulted in a total of 400 new COVID-19 patients per day. 20 April: Farmers markets, tradesmen with shops, car shops and showrooms, outdoor athletic areas for professionals, without spectators, Weddings of up to 10 people following hygiene rules
+27 April: Shops under 200 square metres in size, except for those in shopping centers over 5,000 square metres and those specified to open at a later date.
+11 May: Shops under 1,000 square metres in size, except for those in shopping centers over 5,000 square metres and those specified to open at a later date, Driving schools, Gyms and fitness centers (but not changing rooms or showers)
+25 May: Outdoor areas of restaurants, cafes, pubs, buffets, wineries and beer shops with outdoor sales and garden seating areas, barbershops, hairdressers, nail salons, tanning salons, cosmetic salons, massage parlors, museums, galleries, and art halls, zoos (outdoor areas only)
+8 June: All shops in shopping centers, shops over 1,000 square metres in size outside of shopping centers, indoor areas of restaurants, cafes, pubs, buffets, wineries and beer shops, hotels and other accommodation providers (and their restaurants and cafes), taxi services, tattoo and piercing studios, theatres, castles, chateaux and other cultural activities according to the current regulations, mass events for a specified number of people, cultural, business, and sports events for less than 50 people, weddings following specific hygienic protocol, indoor areas of zoosThe aforementioned timeline was not kept as government significantly accelerated lifting of restrictions in the following weeks, with most being lifted by 11 May.
+22 April – Prime Minister Andrej Babiš announced that the Government will not request the Chamber of Deputies of the Parliament to extend the State of Emergency beyond 30 April. Meanwhile, Minister of Interior announced that he will seek further discussion of the topic, claiming that State of Emergency is crucial for Government's ability to fast procure and distribute personal protection equipment outside of standard lawful procurement process.
+23 April – The Municipal Court in Prague invalidated some of the restrictions adopted to battle the COVID-19 spread. In particular, the court invalidated Ministry of Health Protection Measures that introduced curfew, banned hospital visits and banned selected retail sale and services. The court held that such wide restrictions of basic rights may be adopted only under the Crisis Act by the Government as whole and not under Protection of Public Health Act by the Ministry of Health alone. Both the curfew and retail sale ban were originally adopted by Government Resolutions on 14 and 15 March, respectively; however, then they were replaced by Ministry of Health Protection Measures from 24 March onwards. The court invalidated these measures from 27 April onwards, giving the Government three days to remedy the situation. The Ministry of Health may lodge an appeal to the Supreme Administrative Court. On the day of court's decision, there were suits against 17 other measures still pending.
+While Ministry of Health Protection Measures may be adopted indefinitely, Government Measures under Crisis Act may be adopted only for period of State of Emergency. Government may declare State of Emergency for period of 30 days, any prolongation requires assent of the Chamber of Deputies.
+24 April – In line with the decision of the Municipal Court of Prague, the Government announced that it would seek Chamber of Deputies' consent to extend the State of Emergency until 25 May. At the same time the Government announced a faster roadmap for the lifting of restrictions.
+28 April – The Government sought an extension of the State of Emergency until 25 May 2020. The Chamber of Deputies of Parliament granted an extension until 17 May 2020.
+6 May – The Ministry of Health presented the outcome of the COVID-19 prevalence study conducted over the previous weeks. Out of 26,549 people (volunteers and vulnerable groups with chronic diseases) tested for the presence of anti-bodies, the countrywide testing identified only 107 people with antibodies who were previously undetected. This showed a high success rate of contact tracing and quarantine measures and a very low rate of virus presence in the general population.
+State of Emergency ended on 17 May. Extraordinary measures either ended or were extended beyond the State of Emergency with lesser restrictions. According to Ministry of Health, the main aim going forward was to achieve three main objectives:
+Prevent hospital overcapacity in order to be able to provide necessary care to all patients with COVID-19, including non-hospitalised. The main aim is to preserve Czech COVID-19 mortality at 2–3% as before and to prevent its rise to worldwide average of 7% or French mortality of 18%.
+Prevent "explosive spread" of COVID-19 that would (a) include spread of more aggressive types of COVID-19 or (b) higher concentration of COVID-19 in body, as those lead to more dangerous development of illness.
+Further lower mortality as better knowledge about COVID-19 and use of promising experimental drugs like remdesivir and hydroxychloroquine becomes available.A court ordered pre-trial detention of a first person charged with spreading of COVID-19. A 32-year-old woman was arrested for movement at a public space without a face mask, although she had been personally ordered to remain in quarantine. Despite quarantine order, the woman used a taxi and visited a shopping mall. The woman was jailed at a hospital ward of Brno prison. If convicted, she may be sentenced to up to 8 years' imprisonment.
+A new major COVID-19 hotspot emerged in the city of Karviná. Over 150 workers became infected at a black coal mine where miners work in tight shafts as deep as 1,000 metres underground. Authorities expected the number to significantly rise further as the workers' family members were likely to become positive later. Among those infected were also many foreign workers from Poland, where coal mines became hotspots in previous weeks. Health authority planned to conduct testing of all 2,400 workers within three days. Czech Army deployed six medical teams to assist local authority in collection of samples and contact tracing. As of 22 May, up to 40% of infected miners had no symptoms with many others reporting tiredness as the only symptom. Meanwhile, a school was temporarily closed down in nearby city of Havířov after a child of one of the miners tested positive. Apart from the coal mining hotspot, authorities deemed situation in the rest of the country as stable, except for Prague where they identified several small clusters with community spread.
+Most restrictions have been lifted. Borders were reopened and events of up to 500 people allowed.
+1 July – OKD suspends mining in Karviná area following COVID-19 outbreaks. In the ČSM mines, 704 of the 3,403 employees tested were positive for COVID-19. That equates to 20.7 per cent, but the vast majority of them had no or only very mild symptoms of the disease.
+23 July – An outbreak of coronavirus linked to a music club in Prague has increased to 98 cases, including footballers from several of the city's clubs. Czech Republic reported 247 new cases on Wednesday, the highest number since a spike in late June in Karvina.
+To combat an uptick in coronavirus cases in the country, Institute of Health Information and Statistics presented the Czech regional traffic light rating system, which has four levels.
+27 August – UK removes Czech Republic from list of "green" countries. Travellers arriving from the Czech Republic will have to quarantine from 0400 hrs on Saturday, the UK Government has announced.
+The Czech PM Andrej Babiš nixes the preventive face mask regulations established by Health Ministry, which were supposed to come in place when children return to school after the holidays on 1 September. Masks will now no longer be needed anywhere in schools, with the exception of schools that make it to the "orange" level of medium-risk for COVID-19 in the Czech Republic's regional health map.
+Masks will need to be worn on public transport, inside healthcare environments, and polling stations.
+1 September – 257 new cases reported. Mandatory to wear face masks on public transport, public indoor areas (such as shopping malls, offices, post offices, offices) and indoor public events, regardless of the number of visitors.
+Schools are excluded from the restrictions.
+Schools re-open across the country
+10 September – 1,161 new cases. Number of new cases has now exceeded 1,000 for the past two days.
+face masks will be required in all indoor spaces throughout the Czech Republic from today.
+There are a total of 25 exceptions to that requirement, including when eating or drinking in restaurants, exercising in gyms, or working in an office at least two meters away from others. Schools, kindergartens and playgrounds are excluded from restrictions
+Belgium has placed Prague on its list of "red" risk zones, requiring a mandatory two-week quarantine on arrival for incoming travellers from the Czech capital.
+18 September – The Czech Republic reported more than 3,000 cases in a single day for the first time
+The wearing of face masks is now mandatory in all interior spaces of universities.
+Kindergartens and primary schools and playgrounds remain regularly open, where no face masks will be needed.
+21 September – Czech Health Minister Adam Vojtěch has unexpectedly announced his resignation.
+Roman Prymula will become new Czech Health Minister.
+Prymula predicted that the daily number of COVID-19 cases in Czech Republic will soon reach 6,000–8,000, after hitting a high of over 3,000 cases in the previous week.
+25 September Ladislav Dušek, director of the Institute of Health Information and Statistics (ÚZIS), announced that in the first two weeks of September, almost 400 teachers in Czech schools became infected with COVID-19.
+Dušek also stated that from the beginning of the epidemic until mid-September, workers in administration and engineering, the unemployed, and the self-employed were the groups that got infected most often.
+The number of infected healthcare professionals has also grown significantly recently. According to data published by the Czech Medical Chamber, 259 physicians became infected up until 19 September. However, just a month earlier it was four people. Among nurses, the number of people infected increased from three to 433 from 20 August.
+5 October – The Czech Republic comes under a state of emergency. Indoor events with over 10 participants will be prohibited, the same applies to outdoor events with over 20 participants.
+Professional sport matches will be without spectators and can be attended by a maximum of 130 athletes, coaches, and other members of the staff.
+Concerts, theatre performances, and other artistic performances and festivals involving a significant amount of singing, including rehearsals are prohibited.
+There is a 100-person limit on the attendance of religious services, at which singing is also prohibited.
+Limit of 30 people for weddings and funerals
+Restrictions will also apply to the number of people sharing one table at restaurants and other catering facilities as only six people at most will be allowed to sit at one table.
+Educational facilities would follow the instructions of their regional public health authorities, which will issue measures depending on the situation in the region and in line with the epidemiological traffic light system.
+A restriction on tuition in the form of a switch to distance learning is to apply to secondary and higher vocational schools and universities in regions with a red or amber.
+Kindergartens and first stage primary schools remain regularly open, where no face masks will be needed.
+The wearing of face masks is mandatory in all interior spaces of universities.
+No restrictions on travelling were introduced
+8 October – New record with 5,335 new COVID-19 cases reported in the Czech Republic. The Czech Republic overtook Spain as Europe's most-affected country.
+The percentage of COVID-19 patients requiring hospitalisation rose above 4% for the first time in three months.
+Secondary schools and universities have switched to distance learning but only in high-risk areas of the Czech Republic.
+Visits and tours to zoos and all organised hobby, recreational and other clubs for children from 6 to 18 years old are banned.
+Kindergartens and primary schools remain regularly open, where no face masks will be needed.
+9 October – The Czech government announced new restrictions. Indoor sports facilities and culture venues will have to close for 2 weeks. Restaurants and other catering facilities will have to close as early as 8 pm. Dining establishments will be limited to 4 people at one table, and pupils in the upper level of elementary schools will alternate in-class and distance learning.
+A group of shopping centers in Prague have decided to temporarily switch off their wifi in an attempt to stop students from gathering there.
+Lower levels of elementary schools, kindergartens and playgrounds are not effected by the new restrictions and remain open, without face masks needed.
+12 October – The presence of students at universities will be prohibited, with the exception of clinical and practical teaching as well internships in study programmes for general medicine, dentistry, pharmacology and other healthcare study programmes. Measures were also taken on 12 October that were intended for elementary and secondary schools, but they were substantially changed the following day.
+13 October – Czech government unveiled very strict anti-COVID measures. They will be valid for 14 days, starting from 14 October. The new measures include the closure of pubs and restaurants and a ban on public alcohol consumption. Pubs and restaurants may still operate on a delivery and takeaway basis. Takeaway windows can only operate until 8 pm. Additional measures are aimed at preventing people from gathering in public. They include a limit on group sizes to a maximum of six people. The requirement to wear a face mask in all train, tram, and bus stations is mandatory. All primary and secondary schools will switch to distance learning. The measures regarding schools will last through 1 November. Playgrounds and kindergartens remain open without any restrictions.
+Police from the 11th General Crime Department of the First Police District in Prague uncovered an underground venue on Vodičková Street in central Prague operating after 8 pm, with around 35 guests packed into a cellar bar, who were drinking, dancing, and consuming drugs in late hours of the night.
+15 October – A record 9,500 COVID cases out of a record amount of 30,894 performed tests.
+Czech Railways restricts connections and will adjust the operation of long-distance trains beyond rush hours.
+Prime Minister Andrej Babiš announced the government will start increasing the number of beds outside hospitals this weekend. Around 3,000 beds plus an additional 1,000 for specialised treatment. Locations the government is looking at are spa facilities around the country and a field hospital, to be built by the army, at the Letňany Exhibition Center.
+18 October – A Sunday-afternoon demonstration against the Czech government's anti-coronavirus restrictions ended in dramatic clashes between protesters and the police after the rally was officially terminated. There were roughly 2,000 people at the rally. Several protesters were football fans who attempted to break through the police cordon. Resulting in 144 arrests and dozens of injuries
+20 October – Face masks again become mandatory at outdoor locations in cities, towns and villages where people are less than two meters apart. 
+Within the Czech Republic, the highest rates of COVID-19 infection are now being reported in Zlín (798 cases per 100,000 residents over the past seven days), Plzeň-North (725 cases), and Prostějov (720 cases).
+In Prague, there have been 501 COVID-19 cases per 100,000 residents over the past week.
+21 October – Government have announced a new series of lockdown measures that will close most shops and services from the 22nd.
+With the exception of grocery stores, drugstores, pharmacies, and other shops providing essential goods all retail stores in the Czech Republic must close as of 6:00 a.m. on Thursday morning, 22 October. The same applies to hairdressers, nail salons, and other venues providing similar services. Outside groups will be limited to a maximum of two, with the exception of family members from the same household. Only necessary travel should be undertaken, such as travelling to work or to buy food. The new measures will last until the end of the current state of emergency in the Czech Republic, on 3 November.
+The new measures do not affect the operation of nurseries and kindergartens, which may remain open. All other schools in the Czech Republic have switched to distance learning.
+23 October – The health minister Roman Prymula has been under fire to resign after a media report that he broke strict government restrictions and visited a Prague restaurant, which should have been closed following the restrictions set by his ministry. In the photographs, Prymula also didn't wear a mandatory mask.
+*The reproduction number (R ratio) is a way of rating coronavirus or any disease's ability to spread. 
+If the reproduction number is higher than one (1,0), then the number of cases increases exponentially
+if the number is lower the disease will eventually stop spreading, as not enough new people are being infected to sustain the outbreak.
+
+
+
+
+
+COVID-19 cases in the Czech Republic
+
+
+Date
+
+Confirmed
+
+Recovered
+
+Deaths
+
+Activecases
+
+Tested(Total)
+
+Detectedratio
+
+
+New
+
+Total
+
+New
+
+Total
+
+New
+
+Total
+
+
+28 February
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+193
+
+
+
+
+29 February
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+200
+
+
+
+
+1 March
+
+3
+3
+
+0
+0
+
+0
+0
+
+3
+
+211
+
+27.27%
+
+
+2 March
+
+0
+3
+
+0
+0
+
+0
+0
+
+3
+
+262
+
+0%
+
+
+3 March
+
+2
+5
+
+0
+0
+
+0
+0
+
+5
+
+340
+
+2.56%
+
+
+4 March
+
+0
+5
+
+0
+0
+
+0
+0
+
+5
+
+407
+
+0%
+
+
+5 March
+
+3
+8
+
+0
+0
+
+0
+0
+
+8
+
+483
+
+3.95%
+
+
+6 March
+
+11
+19
+
+0
+0
+
+0
+0
+
+19
+
+594
+
+9.91%
+
+
+7 March
+
+7
+26
+
+0
+0
+
+0
+0
+
+26
+
+787
+
+3.63%
+
+
+8 March
+
+6
+32
+
+0
+0
+
+0
+0
+
+32
+
+928
+
+4.26%
+
+
+9 March
+
+6
+38
+
+0
+0
+
+0
+0
+
+38
+
+1,193
+
+2.26%
+
+
+10 March
+
+25
+63
+
+0
+0
+
+0
+0
+
+63
+
+1,358
+
+15.15%
+
+
+11 March
+
+31
+94
+
+0
+0
+
+0
+0
+
+94
+
+1,816
+
+6.77%
+
+
+12 March
+
+22
+116
+
+0
+0
+
+0
+0
+
+116
+
+2,353
+
+4.1%
+
+
+13 March
+
+25
+141
+
+0
+0
+
+0
+0
+
+141
+
+3,198
+
+2.96%
+
+
+14 March
+
+48
+189
+
+0
+0
+
+0
+0
+
+189
+
+4,184
+
+4.87%
+
+
+15 March
+
+109
+298
+
+3
+3
+
+0
+0
+
+295
+
+5,212
+
+10.6%
+
+
+16 March
+
+85
+383
+
+0
+3
+
+0
+0
+
+380
+
+6,531
+
+6.44%
+
+
+17 March
+
+67
+450
+
+0
+3
+
+0
+0
+
+447
+
+7,825
+
+5.18%
+
+
+18 March
+
+110
+560
+
+0
+3
+
+0
+0
+
+557
+
+9,581
+
+6.26%
+
+
+19 March
+
+205
+765
+
+1
+4
+
+0
+0
+
+761
+
+11,840
+
+5.11%
+
+
+20 March
+
+124
+889
+
+4
+8
+
+0
+0
+
+881
+
+13,961
+
+5.85%
+
+
+21 March
+
+158
+1,047
+
+1
+9
+
+0
+0
+
+1,038
+
+15,843
+
+8.4%
+
+
+22 March
+
+114
+1,161
+
+0
+9
+
+1
+1
+
+1,151
+
+17,644
+
+6.33%
+
+
+23 March
+
+126
+1,287
+
+3
+12
+
+0
+1
+
+1,274
+
+19,935
+
+5.5%
+
+
+24 March
+
+185
+1,472
+
+1
+13
+
+2
+3
+
+1,456
+
+22,997
+
+6.04%
+
+
+25 March
+
+291
+1,763
+
+3
+16
+
+6
+9
+
+1,738
+
+27,104
+
+7.09%
+
+
+26 March
+
+259
+2,022
+
+7
+23
+
+1
+10
+
+1,989
+
+31,737
+
+5.59%
+
+
+27 March
+
+373
+2,395
+
+11
+34
+
+2
+12
+
+2,349
+
+37,096
+
+6.96%
+
+
+28 March
+
+262
+2,657
+
+4
+38
+
+5
+17
+
+2,602
+
+41,320
+
+6.2%
+
+
+29 March
+
+160
+2,817
+
+12
+50
+
+6
+23
+
+2,744
+
+44,168
+
+5.62%
+
+
+30 March
+
+184
+3,001
+
+25
+75
+
+5
+28
+
+2,898
+
+49,327
+
+3.57%
+
+
+31 March
+
+307
+3,308
+
+14
+89
+
+7
+35
+
+3,184
+
+55,988
+
+4.61%
+
+
+Date
+
+Confirmed
+
+Recovered
+
+Deaths
+
+Activecases
+
+Tested(Total)
+
+Detectedratio
+
+
+New
+
+Total
+
+New
+
+Total
+
+New
+
+Total
+
+
+1 April
+
+281
+3,589
+
+40
+129
+
+8
+43
+
+3,417
+
+62,090
+
+4.61%
+
+
+2 April
+
+269
+3,858
+
+35
+164
+
+5
+48
+
+3,646
+
+68,763
+
+4.03%
+
+
+3 April
+
+332
+4,190
+
+54
+218
+
+9
+57
+
+3,915
+
+76,161
+
+4.49%
+
+
+4 April
+
+282
+4,472
+
+39
+257
+
+8
+65
+
+4,150
+
+81,998
+
+4.83%
+
+
+5 April
+
+115
+4,587
+
+39
+296
+
+11
+76
+
+4,215
+
+86,810
+
+2.39%
+
+
+6 April
+
+235
+4,822
+
+81
+377
+
+7
+83
+
+4,362
+
+93,245
+
+3.65%
+
+
+7 April
+
+195
+5,017
+
+110
+487
+
+9
+92
+
+4,438
+
+101,418
+
+2.39%
+
+
+8 April
+
+295
+5,312
+
+96
+583
+
+14
+106
+
+4,623
+
+109,887
+
+3.48%
+
+
+9 April
+
+257
+5,569
+
+162
+745
+
+11
+117
+
+4,707
+
+118,067
+
+3.14%
+
+
+10 April
+
+163
+5,732
+
+120
+865
+
+10
+127
+
+4,740
+
+123,769
+
+2.86%
+
+
+11 April
+
+170
+5,902
+
+119
+984
+
+10
+137
+
+4,781
+
+128,660
+
+3.48%
+
+
+12 April
+
+89
+5,991
+
+99
+1,083
+
+10
+147
+
+4,761
+
+131,910
+
+2.74%
+
+
+13 April
+
+68
+6,059
+
+97
+1,180
+
+10
+157
+
+4,722
+
+135,125
+
+2.12%
+
+
+14 April
+
+82
+6,141
+
+178
+1,358
+
+8
+165
+
+4,618
+
+141,298
+
+1.33%
+
+
+15 April
+
+160
+6,301
+
+184
+1,542
+
+0
+165
+
+4,594
+
+149,774
+
+1.89%
+
+
+16 April
+
+132
+6,433
+
+245
+1,787
+
+2
+167
+
+4,479
+
+158,155
+
+1.57%
+
+
+17 April
+
+116
+6,549
+
+287
+2,074
+
+7
+174
+
+4,301
+
+166,443
+
+1.4%
+
+
+18 April
+
+105
+6,654
+
+132
+2,206
+
+5
+179
+
+4,269
+
+172,048
+
+1.87%
+
+
+19 April
+
+92
+6,746
+
+132
+2,338
+
+9
+188
+
+4,220
+
+176,075
+
+2.28%
+
+
+20 April
+
+154
+6,900
+
+212
+2,550
+
+8
+196
+
+4,154
+
+182,642
+
+2.35%
+
+
+21 April
+
+133
+7,033
+
+202
+2,752
+
+9
+205
+
+4,076
+
+190,983
+
+1.59%
+
+
+22 April
+
+99
+7,132
+
+276
+3,028
+
+2
+207
+
+3,897
+
+199,801
+
+1.12%
+
+
+23 April
+
+55
+7,187
+
+216
+3,244
+
+5
+212
+
+3,731
+
+207,702
+
+0.7%
+
+
+24 April
+
+86
+7,273
+
+223
+3,467
+
+7
+219
+
+3,587
+
+214,831
+
+1.21%
+
+
+25 April
+
+79
+7,352
+
+122
+3,589
+
+4
+223
+
+3,540
+
+219,277
+
+1.78%
+
+
+26 April
+
+52
+7,404
+
+75
+3,664
+
+3
+226
+
+3,514
+
+222,658
+
+1.54%
+
+
+27 April
+
+41
+7,445
+
+163
+3,827
+
+1
+227
+
+3,391
+
+230,412
+
+0.53%
+
+
+28 April
+
+59
+7,504
+
+127
+3,954
+
+4
+231
+
+3,319
+
+239,153
+
+0.67%
+
+
+29 April
+
+75
+7,579
+
+157
+4,111
+
+4
+235
+
+3,233
+
+246,475
+
+1.02%
+
+
+30 April
+
+103
+7,682
+
+166
+4,277
+
+9
+244
+
+3,161
+
+253,871
+
+1.39%
+
+
+Date
+
+Confirmed
+
+Recovered
+
+Deaths
+
+Activecases
+
+Tested(Total)
+
+Detectedratio
+
+
+New
+
+Total
+
+New
+
+Total
+
+New
+
+Total
+
+
+1 May
+
+55
+7,737
+
+98
+4,375
+
+6
+250
+
+3,112
+
+258,284
+
+1.25%
+
+
+2 May
+
+18
+7,755
+
+90
+4,465
+
+2
+252
+
+3,038
+
+262,164
+
+0.46%
+
+
+3 May
+
+26
+7,781
+
+53
+4,518
+
+3
+255
+
+3,008
+
+266,045
+
+0.67%
+
+
+4 May
+
+38
+7,819
+
+134
+4,652
+
+5
+260
+
+2,907
+
+273,672
+
+0.5%
+
+
+5 May
+
+77
+7,896
+
+141
+4,793
+
+2
+262
+
+2,841
+
+283,119
+
+0.82%
+
+
+6 May
+
+78
+7,974
+
+151
+4,944
+
+4
+266
+
+2,764
+
+291,202
+
+0.96%
+
+
+7 May
+
+57
+8,031
+
+132
+5,076
+
+5
+271
+
+2,684
+
+298,784
+
+0.75%
+
+
+8 May
+
+46
+8,077
+
+53
+5,129
+
+4
+275
+
+2,673
+
+303,341
+
+1.01%
+
+
+9 May
+
+18
+8,095
+
+64
+5,193
+
+4
+279
+
+2,623
+
+307,123
+
+0.48%
+
+
+10 May
+
+28
+8,123
+
+41
+5,234
+
+3
+282
+
+2,607
+
+311,174
+
+0.69%
+
+
+11 May
+
+53
+8,176
+
+110
+5,344
+
+2
+284
+
+2,548
+
+318,979
+
+0.68%
+
+
+12 May
+
+45
+8,221
+
+77
+5,421
+
+3
+287
+
+2,513
+
+327,688
+
+0.52%
+
+
+13 May
+
+48
+8,269
+
+115
+5,536
+
+4
+291
+
+2,443
+
+335,375
+
+0.62%
+
+
+14 May
+
+82
+8,351
+
+77
+5,613
+
+3
+294
+
+2,445
+
+342,262
+
+1.19%
+
+
+15 May
+
+55
+8,406
+
+62
+5,675
+
+2
+296
+
+2,436
+
+348,965
+
+0.82%
+
+
+16 May
+
+49
+8,455
+
+36
+5,711
+
+1
+297
+
+2,448
+
+353,223
+
+1.15%
+
+
+17 May
+
+20
+8,475
+
+43
+5,754
+
+2
+299
+
+2,423
+
+356,717
+
+0.57%
+
+
+18 May
+
+111
+8,586
+
+66
+5,913
+
+3
+302
+
+2,372
+
+364,115
+
+1.5%
+
+
+19 May
+
+61
+8,647
+
+37
+5,950
+
+2
+304
+
+2,394
+
+372,440
+
+0.73%
+
+
+20 May
+
+74
+8,721
+
+63
+6,013
+
+5
+309
+
+2,400
+
+379,948
+
+0.99%
+
+
+21 May
+
+33
+8,754
+
+38
+6,051
+
+3
+312
+
+2,392
+
+387,235
+
+0.45%
+
+
+22 May
+
+59
+8,813
+
+15
+6,066
+
+2
+314
+
+2,434
+
+394,944
+
+0.77%
+
+
+23 May
+
+77
+8,890
+
+31
+6,254
+
+1
+315
+
+2,322
+
+400,112
+
+1.49%
+
+
+24 May
+
+65
+8,955
+
+23
+6,309
+
+2
+317
+
+2,329
+
+403,722
+
+1.8%
+
+
+25 May
+
+47
+9,002
+
+70
+6,456
+
+1
+318
+
+2,227
+
+411,142
+
+0.63%
+
+
+26 May
+
+48
+9,050
+
+60
+6,516
+
+0
+318
+
+2,215
+
+418,372
+
+0.66%
+
+
+27 May
+
+36
+9,086
+
+62
+6,578
+
+0
+318
+
+2,189
+
+425,146
+
+0.53%
+
+
+28 May
+
+54
+9,140
+
+25
+6,603
+
+2
+320
+
+2,216
+
+431,157
+
+0.9%
+
+
+29 May
+
+56
+9,196
+
+42
+6,645
+
+0
+320
+
+2,230
+
+437,255
+
+0.92%
+
+
+30 May
+
+34
+9,230
+
+22
+6,667
+
+0
+320
+
+2,242
+
+440,761
+
+0.97%
+
+
+31 May
+
+38
+9,268
+
+14
+6,681
+
+0
+320
+
+2,266
+
+442,866
+
+1.81%
+
+
+Date
+
+Confirmed
+
+Recovered
+
+Deaths
+
+Activecases
+
+Tested(Total)
+
+Detectedratio
+
+
+New
+
+Total
+
+New
+
+Total
+
+New
+
+Total
+
+
+1 June
+
+34
+9,302
+
+38
+6,880
+
+2
+320
+
+2,102
+
+449,356
+
+0.52%
+
+
+2 June
+
+62
+9,364
+
+52
+6,932
+
+1
+321
+
+2,111
+
+455,834
+
+0.96%
+
+
+3 June
+
+74
+9,438
+
+54
+6,986
+
+1
+322
+
+2,130
+
+461,147
+
+1.39%
+
+
+4 June
+
+56
+9,494
+
+32
+7,018
+
+2
+324
+
+2,151
+
+466,158
+
+1.12%
+
+
+5 June
+
+35
+9,529
+
+44
+7,062
+
+0
+324
+
+2,142
+
+470,331
+
+0.84%
+
+
+6 June
+
+38
+9,567
+
+10
+7,092
+
+0
+324
+
+2,151
+
+472,481
+
+1.77%
+
+
+7 June
+
+61
+9,628
+
+13
+7,105
+
+1
+325
+
+2,198
+
+474,608
+
+2.87%
+
+
+8 June
+
+69
+9,697
+
+35
+7,140
+
+0
+325
+
+2,232
+
+479,292
+
+1.47%
+
+
+9 June
+
+54
+9,751
+
+20
+7,160
+
+1
+326
+
+2,265
+
+483,844
+
+1.19%
+
+
+10 June
+
+73
+9,824
+
+48
+7,329
+
+1
+327
+
+2,168
+
+487,912
+
+1.79%
+
+
+11 June
+
+62
+9,886
+
+23
+7,352
+
+1
+328
+
+2,206
+
+491,651
+
+1.66%
+
+
+12 June
+
+52
+9,938
+
+29
+7,381
+
+1
+329
+
+2,228
+
+495,377
+
+1.4%
+
+
+13 June
+
+53
+9,991
+
+9
+7,390
+
+0
+329
+
+2,272
+
+497,029
+
+3.21%
+
+
+14 June
+
+33
+10,024
+
+8
+7,398
+
+1
+330
+
+2,272
+
+498,150
+
+2.94%
+
+
+15 June
+
+40
+10,064
+
+17
+7,415
+
+1
+331
+
+2,318
+
+501,823
+
+1.09%
+
+
+16 June
+
+47
+10,111
+
+17
+7,415
+
+1
+332
+
+2,347
+
+505,846
+
+1.17%
+
+
+17 June
+
+51
+10,162
+
+28
+7,432
+
+1
+333
+
+2,369
+
+509,882
+
+1.26%
+
+
+18 June
+
+118
+10,280
+
+17
+7,477
+
+2
+335
+
+2,468
+
+514,233
+
+2.71%
+
+
+19 June
+
+126
+10,406
+
+27
+7,504
+
+0
+335
+
+2,567
+
+517,584
+
+3.76%
+
+
+20 June
+
+42
+10,448
+
+0
+7,504
+
+0
+335
+
+2,609
+
+519,147
+
+2.69%
+
+
+21 June
+
+50
+10,498
+
+1
+7,505
+
+1
+336
+
+2,657
+
+520,344
+
+4.18%
+
+
+29 June
+
+201
+11,827
+
+51
+8,982
+
+0
+344
+
+2,501
+
+551,677
+
+4.18%
+
+
+Date
+
+Confirmed
+
+Recovered
+
+Deaths
+
+Activecases
+
+Tested(Total)
+
+Detectedratio
+
+
+New
+
+Total
+
+New
+
+Total
+
+New
+
+Total
+
+
+6 July
+
+51
+12,585
+
+38
+9,438
+
+1
+351
+
+2,796
+
+575,381
+
+2.98%
+
+
+20 July
+
+169
+14,128
+
+114
+11,427
+
+0
+389
+
+2,342
+
+632,395
+
+2.92%
+
+
+3 August
+
+208
+16,996
+
+210
+12,925
+
+2
+385
+
+3,686
+
+714,756
+
+2.69%
+
+
+17 August
+
+191
+20,203
+
+266
+15,587
+
+4
+403
+
+4,213
+
+807,398
+
+2.66%
+
+
+31 August
+
+256
+24,616
+
+290
+18,564
+
+1
+424
+
+5,628
+
+912,715
+
+2.74%
+
+
+7 September
+
+560
+28,710
+
+313
+20,183
+
+2
+439
+
+8,088
+
+984,044
+
+4.95%
+
+Epidemic curve
+ Inhibiting new infections to reduce the number of cases at any given time—known as flattening the curve—allows healthcare services to better manage the same volume of patients.
+Flattening the curve
+The main priority of affected nations currently is to move to a slower doubling time of new cases, to ensure less crowded hospitals and therefore a lower case-fatality rate.
+Governments of different countries take different approaches to flatten the epidemic curve. Beside travel bans and isolation of complete communities, citizens are also often requested to stay at home and keep social distance.
+Research indicates that measures must be applied rigorously and immediately to be effective. Also, the national community's commitment to supporting/tolerating the restrictions and following the advice of health authorities plays an important role in the success of flattening the epidemic curve and limiting the spread of the virus.
+For example, in South Korea mass testing efforts were successful. The South Korean national testing capacity reached 15,000 tests per day. Compared to population size, the Czech Republic reached the same rate of testing on 23 March 2020. The Ministry of Interior in South Korea also rolled out a smartphone app that can track the quarantined and collect data on symptoms, so scientists are able to see more epidemiological data.
+
+Curve comparison
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (July 2020)
+Comparing cumulative numbers of confirmed cases in selected countries, including the Czech Republic, shows the different curves of the epidemic in different countries. The chart shows the number of known cases and the pace at which the number increases on a logarithmic scale. The actual number of people infected may be and likely is, significantly higher, as only cases where the virus was confirmed by laboratory testing are shown. Many cases may only have an asymptomatic or mildly symptomatic course of the disease and never seek treatment. In yet others, the infection may still be in the incubation period, when it is asymptomatic and may not yet be detectable even by testing.
+
+
+COVID-19 Epidemic curve selected countries (Logarithmic scale / from the 100th case)
+
+*Datasource: Wikipedia
+
+COVID-19 Epidemic curve selected countries per 1M pop. (Linear scale / from the 100th case)
+
+*Datasource: Wikipedia
+Czech restriction actions:/ Day 0: Schools closed / Day 2: State of Emergency: close of sport facilities & close restaurants & bars at 8pm, border control, travel restrictions, ban 30+ events /Day 3: Criminalize spreading virus on purpose/Day 4: Complete closure all shops restaurants & bars excl. food shops, petrol, pharmacies/Day 5: Nationwide quarantine excl. shopping, employment need/ Day 6: Borders closed&closure municipalities in Olomouc region/ Day 8: Mandatory nose&mouth cover/ Day 9: Special 7–9 shop-opening hours for seniors/ Day 10: Changed special 8–10 shop-opening hours for seniors.
+Czech eased restriction actions:/Day 20: Lifted closure municipalities in Olomouc region/ Day 27: Ease movement rule in parks & nature without face mask and opening some outside sporting grounds/ Day 35: Eased conditions of entry to the territory of the Czech Republic/Day 40: reopening farmers markets & small stores
+
+Case details
+Detailed information was reported regarding most of the first 99 cases, up to 12 March 2020:
+
+
+Case details
+
+
+Case no.
+
+Date announced
+
+Status
+
+Origin type
+
+Origin
+
+Location
+
+Treatment facility
+
+Sex
+
+Age
+
+Nationality
+
+
+City
+
+Region
+
+
+1
+
+1 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Udine
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+67
+
+ CZE
+
+
+A Czech man born in 1952 had attended a conference in Udine, Italy. He contacted Czech authorities on 26 February. After returning from Italy he had stayed in home quarantine and it was found one of his Italian colleagues was confirmed COVID-19 positive. After his condition worsened he went to the Infection Clinic at Bulovka Hospital. The test proved to be positive on 1 March. He is a teacher at the Czech University of Life Sciences Prague. The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+2
+
+1 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Milan
+
+Prague
+
+Prague
+
+Bulovka Hospital, Prague
+
+Female
+
+~20
+
+ USA
+
+
+A young woman from the US, born 1999, studying in Milan travelled to Prague through Vienna, Budapest and Brno. Feeling sick she visited the emergency room at Motol University Hospital where she was handled as potentially infectious and moved to Bulovka Hospital.
+
+
+3
+
+1 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Home isolation
+
+Male
+
+~43
+
+ CZE
+
+
+A man born in 1976 from Děčín had been skiing with his family in Italy and after returning to the Czech Republic, his wife took him to a hospital in Usti nad Labem on 29 February, he was positively tested and afterwards transferred from Masaryk Hospital, Ústí nad Labem to Bulovka Hospital in Prague. The rest of his family had no symptoms and remained in home quarantine pending further COVID-19 tests. The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+4
+
+2 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Female
+
+53
+
+ CZE
+
+
+A Czech woman was holidaying in the Alps, staying in the same hotel as a positively tested Czech man (case #3). She arrived at Masaryk Hospital at Ústí nad Labem with symptoms on 1 March and she was staying in isolation there. Her husband and daughter also tested positive later (case No. 7 and #8).
+
+
+5
+
+3 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Milan
+
+Prague
+
+Prague
+
+Bulovka Hospital, Prague
+
+Female
+
+21
+
+ ECU
+
+
+A young woman from Ecuador travelled together with the American woman that proved to be infected on 1 March (case #2). Both study in Milan. Even though the initial test from 1 March was negative, the subsequent retest on 3 March was clearly positive. She was isolated at Bulovka Hospital together with another woman that travelled in the group with the American and Ecuadorian. The tests of the third woman have been negative so far.
+
+
+6
+
+4 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Passo del Tonale
+
+Prague
+
+Prague
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A mother of two from Prague 6 developed symptoms after visiting Passo del Tonale in Trentino region in Italy. The woman was tested for coronavirus at an undisclosed private clinic. The positive result was unofficial, but in the afternoon it was confirmed by the Czech National Reference Laboratory. The woman was in quarantine at Bulovka Hospital and her family self-quarantined at home. The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+7
+
+4 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Male
+
+—
+
+ CZE
+
+
+The husband of the infected woman from Děčín (case #4).
+
+
+8
+
+4 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Female
+
+—
+
+ CZE
+
+
+A daughter of the infected woman from Děčín (case #4).
+
+
+9
+
+5 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Passo del Tonale
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+45
+
+ CZE
+
+
+A doctor from Prague who returned from Italy by the end of February. With mild symptoms he continued to examine his patients for two more days. The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+10
+
+5 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+45
+
+ ITA
+
+
+An Italian citizen who arrived in Prague by end of February. The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+11
+
+5 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ household
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Female
+
+~66
+
+ CZE
+
+
+A woman, born 1953, caught the coronavirus from her son (case #3). This is the first recorded person-to-person COVID-19 transmission in the Czech Republic.
+
+
+12
+
+5 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Passo del Tonale
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A husband of the infected woman from Prague 6 (case #6). The patient moved from Bulovka Hospital to home quarantine on 9 March 2020.
+
+
+13
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+—
+
+—
+
+—
+
+Home isolation
+
+—
+
+~1
+
+ CZE
+
+
+An infant staying at home quarantine.
+
+
+14
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+—
+
+—
+
+—
+
+—
+
+Male
+
+—
+
+ CZE
+
+
+A person who either came from Italy or was in contact with of one of the cases who returned from Italy, no details provided.
+
+
+15
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+ United States, Boston
+
+—
+
+—
+
+—
+
+Female
+
+—
+
+ CZE
+
+
+A woman who attended a Biogen employee conference at Boston, where COVID-19 was confirmed.
+
+
+16
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+ CZE
+
+
+A person who either came from Italy or was in contact with of one of the cases who returned from Italy, no details provided.
+
+
+17
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Female
+
+12
+
+ CZE
+
+
+The eldest daughter of the infected man from Děčín (case #3).
+
+
+18
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Děčín
+
+Ústí nad Labem Region
+
+Masaryk Hospital, Ústí nad Labem
+
+Female
+
+50
+
+ CZE
+
+
+A woman who was travelling in the same car as the infected man from Děčín (case #3).
+
+
+19
+
+6 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Lombardy
+
+—
+
+Ústí nad Labem Region
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A woman from Ústí nad Labem Region was skiing in Lombardy, Italy. She has no ties to any of the previous cases and is staying home at self-quarantine.
+
+
+20
+
+7 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ known connection
+
+—
+
+Ústí nad Labem Region
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+Sub-letting at the place of the case No. 19.
+
+
+21
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Passo del Tonale
+
+—
+
+—
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+Had been skiing in Passo del Tonale.
+
+
+22
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ United States, Boston
+
+—
+
+—
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A man who stayed in Boston.
+
+
+23
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+—
+
+—
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A married couple (#23, #24) who returned from Italy.
+
+
+24
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+—
+
+—
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A married couple (#23, #24) who returned from Italy.
+
+
+25
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ Austria
+
+—
+
+—
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A married couple (#25, #26) who were in contact with an infected woman in Austria (this woman arrived from Boston).
+
+
+26
+
+7 March 2020
+
+Confirmed
+
+Travel-related
+
+ Austria
+
+—
+
+—
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A married couple (#25, #26) who were in contact with an infected woman in Austria (this woman arrived from Boston).
+
+
+27
+
+8 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Val Gardena
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A married couple (#27, #28) who had been skiing in Val Gardena resort in Italy with a group of people who were tested posively in previous days.
+
+
+28
+
+8 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Val Gardena
+
+Prague
+
+Prague
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A married couple (#27, #28) who had been skiing in Val Gardena resort in Italy with a group of people who were tested posively in previous days.
+
+
+29
+
+8 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Litoměřice
+
+Ústí nad Labem Region
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+Women (case No. 29, #30) from a group that visited Auronzo di Cadore ski resort in Italy.
+
+
+30
+
+8 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Auronzo di Cadore
+
+Litoměřice
+
+Ústí nad Labem Region
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+Women (case No. 29, #30) from a group that visited Auronzo di Cadore ski resort in Italy.
+
+
+31
+
+8 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ family
+
+—
+
+Ústí nad Labem Region
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+An elderly man, a relative of cases No. 29 and No. 30, who had not visited Italy.
+
+
+32
+
+8 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ known connection
+
+Hradec Králové
+
+Hradec Králové Region
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A man tested at University Hospital Hradec Králové was in contact with a Prague coronavirus case—a person who had been infected in Boston (case No. 15 or #22).
+
+
+33
+
+9 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Trentino
+
+Rožnov pod Radhoštěm
+
+Zlín Region
+
+—
+
+Female
+
+~42
+
+ CZE
+
+
+A woman (*1978) who had been on a family holiday in Trentino, Italy. She had mild respiratory issues.
+
+
+34
+
+9 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ known connection
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+~12
+
+ CZE
+
+
+A young man (*2008) has family ties on a case infected in Italy. He was diagnosed at Bulovka Hospital in Prague.
+
+
+35
+
+9 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Trentino
+
+Prague
+
+Prague
+
+Home isolation
+
+Male
+
+~45
+
+ CZE
+
+
+A man (*1975) who returned from Lombardy, Italy. He was diagnosed at Bulovka Hospital in Prague.
+
+
+36
+
+9 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ known connection
+
+—
+
+—
+
+Home isolation
+
+Female
+
+~62
+
+ CZE
+
+
+A woman (*1958) with a connection to a group that was skiing in Val Gardena, Italy.
+
+
+37
+
+9 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Trentino
+
+—
+
+Central Bohemian Region
+
+—
+
+Male
+
+—
+
+ CZE
+
+
+A man from Central Bohemia who visited Trentino, Italy.
+
+
+38
+
+9 March 2020
+
+Confirmed
+
+Community spread
+
+ Prague
+
+Prague
+
+Prague
+
+Bulovka Hospital, Prague
+
+Male
+
+40–45
+
+ CZE
+
+
+A Prague Uber driver with no travel history and no known connection to other cases; however, German nationals he was in contact with are investigated. It is the first community spread case in the Czech Republic.
+
+
+39
+
+10 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ workplace
+
+—
+
+Central Bohemian Region
+
+—
+
+Female
+
+~61
+
+ CZE
+
+
+A woman (*1959) from Central Bohemia contracted the virus at work where she had been in contact with a woman infected at Val Gardena ski resort in Italy.
+
+
+40
+
+10 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Sexten
+
+—
+
+Ústí nad Labem Region
+
+—
+
+Male
+
+~54
+
+ CZE
+
+
+A man (*1966) returned from skiing in Sexten, Italy.
+
+
+41
+
+10 March 2020
+
+Confirmed
+
+Travel-related
+
+ Germany
+
+Prostějov
+
+Olomouc Region
+
+Hospital in Prostějov, Olomouc Region
+
+Male
+
+~55
+
+ JPN
+
+
+An employee of Japanese origin of company Toray Textiles Central Europe in Prostějov. The patient returned from Germany with high fever. After spending initial week in home isolation, the patient's state worsened significantly which led to his relocation to infectious ward of the Prostějov Hospital. Patient suffered through serious pneumonia. Doctors put him into complete isolation and on antibiotics treatment. His state became better after about a week before being finally cleared after two consecutive negative tests on 23 March 2020.
+
+
+42
+
+10 March 2020
+
+Confirmed
+
+Travel-related
+
+ Austria
+
+—
+
+Pardubice Region
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+Elderly man was skiing in Bad Gastein.
+
+
+43
+
+10 March 2020
+
+Confirmed
+
+—
+
+—
+
+Prague
+
+Prague
+
+—
+
+Female
+
+—
+
+—
+
+
+Student of VŠE in Prague.
+
+
+44
+
+10 March 2020
+
+Confirmed
+
+—
+
+—
+
+Prague
+
+Prague
+
+—
+
+Male
+
+Child
+
+ CZE
+
+
+Student of Norbertov elementary school in Prague 6.
+
+
+45
+
+10 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+Litovel
+
+Olomouc Region
+
+Hospital in Prostějov, Olomouc Region
+
+Male
+
+—
+
+ CZE
+
+
+Husband of an infected woman (Case # 46). Both were skiing in Italy.
+
+
+46
+
+10 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+Litovel
+
+Olomouc Region
+
+Hospital in Prostějov, Olomouc Region
+
+Female
+
+—
+
+ CZE
+
+
+Wife of an infected man (Case # 45). Both were skiing in Italy.
+
+
+47–63
+
+10 March 2020
+
+Confirmed
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+No details yet.
+
+
+64
+
+11 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Livigno
+
+—
+
+Pilsen Region
+
+—
+
+Female
+
+—
+
+ CZE
+
+
+A woman returning from Livigno.
+
+
+65
+
+11 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Trentino
+
+—
+
+Zlin Region
+
+—
+
+Male
+
+—
+
+—
+
+
+A man was skiing in Trentino.
+
+
+66
+
+11 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Dolomites
+
+Brno
+
+South Moravian Region
+
+Home isolation
+
+Male
+
+—
+
+ CZE
+
+
+A Man(#66) and a woman(#67) from Brno returned from a skiing holiday in the Dolomites.
+
+
+67
+
+11 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy, Dolomites
+
+Brno
+
+South Moravian Region
+
+Home isolation
+
+Female
+
+—
+
+ CZE
+
+
+A Man(#66) and a woman(#67) from Brno returned from a skiing holiday in the Dolomites.
+
+
+68
+
+11 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ Brno, household
+
+Brno
+
+South Moravian Region
+
+University Hospital Brno
+
+Female
+
+84
+
+ CZE
+
+
+A Czech woman who was in touch with her daughter who returned from Italy.
+
+
+69–94
+
+11 March 2020
+
+Confirmed
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+Information not provided.
+
+
+95
+
+12 March 2020
+
+Confirmed
+
+Travel-related
+
+ Germany
+
+—
+
+South Bohemian Region
+
+Home isolation
+
+Male
+
+45–50
+
+—
+
+
+A middle-aged man who works in Germany noticed symptoms after returning from Germany. Mild condition.
+
+
+96
+
+12 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+—
+
+Liberec Region
+
+Regional Hospital Liberec
+
+Female
+
+59
+
+ CZE
+
+
+The first case in Liberec Region is a 59-year-old woman who was skiing in Italy. She had symptoms and stayed home after she told her employer, she moved to hospital on 10 March. Reportedly in mild condition.
+
+
+97
+
+12 March 2020
+
+Confirmed
+
+Travel-related
+
+ Italy
+
+—
+
+Karlovy Vary Region
+
+Home isolation
+
+Male
+
+65+
+
+ CZE
+
+
+The first case in Karlovy Vary Region is a man over 65 years old who was skiing in Italy. Mild condition.
+
+
+98
+
+12 March 2020
+
+Confirmed
+
+Person-to-person spread
+
+ Prague
+
+Litomyšl
+
+Pardubice Region
+
+Pardubice Hospital
+
+Female
+
+30
+
+ CZE
+
+
+The second case in Pardubice Region is a woman from Litomyšl that was infected in Prague. She works in administrative and was in contact with another case, which is why she was tested. Even though she had no symptoms, regional epidemiologist said she would be transferred to Pardubice Hospital.
+
+
+99
+
+12 March 2020
+
+Confirmed
+
+Community spread
+
+ Frýdek-Místek
+
+Frýdek-Místek
+
+Moravian-Silesian Region
+
+—
+
+Female
+
+—
+
+ CZE
+
+
+A nurse from hospital in Frýdek-Místek with no travel history and no known relation to other cases.
+
+Policies to fight the contagion
+
+Policy details
+
+
+Type of Measure
+
+Specific
+
+Details
+
+Date enacted
+
+In force
+
+Note
+
+Authority
+
+
+Soft measures
+
+Travel restrictions (before border closure)
+
+Suspension of issuing of new visas in China.
+
+30 January 2020
+
+Indefinitely.
+Revoked on 21 April 2020.
+
+
+Visas issued prior remained valid.
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-2/PRO
+Ministry of Health Protection Measure No. MZDR 16518/2020-1/MIN/KAN
+
+
+
+Suspension of direct flights to/from China.
+
+8 February 2020
+
+From 9 February onwards (indefinitely).
+Revoked on 21 April 2020.
+
+
+Ten direct flights a week, all of them cancelled.
+
+Ministry of Health Protection Measure No. MZDR 4618/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 4618/2020-2/MIN/KAN (revocation)
+
+
+
+Suspension of direct flights to/from selected regions of Italy.
+
+2 March 2020
+
+From 5 March 2020 until 19 March 2020.
+
+All direct flights to/from Italian regions Emillia-Romagna, Piemont, Lombardia, Venetia suspended.
+Around 100,000–110,000 Czechs visited Northern Italy over the previous month (mostly for skiing holidays).
+
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-6/PRO
+
+
+Suspension of direct flights to/from South Korea.
+
+2 March 2020
+
+From 5 March 2020 onwards (indefinitely).
+Revoked on 24 March 2020.
+
+
+All direct flights to/from South Korea suspended.
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-5/PRO
+Ministry of Health Protection Measure No. MZDR 5503/2020-15/PRO (revocation)
+
+
+
+Suspension of issuing of new visas in Iran.
+
+7 March 2020
+
+From 7 March onwards (indefinitely).
+Revoked on 21 April 2020.
+
+
+Applies to all applicants requesting visas in Iran (notwithstanding nationality).
+
+Ministry of Health Protection Measure No. MZDR 10384/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 10384/2020-2/MIN/KAN (revocation)
+
+
+
+Random medical checks at major border crossings
+
+7 March 2020
+
+From 9 March 7 am onwards (indefinitely).
+
+Major border crossings (Rozvadov, Folmava, Železná ruda, Dolní Dvořiště, Strážný, Mikulov, Hatě, Břeclav, Cínovec, and Pomezí) manned by a combination of police, customs, and fire service personnel.
+Drivers provided with informational leaflets in Czech, English, German and Italian.
+Random temperature checks of vehicle occupants.
+Similar measures put in place at all international airports as well as in cross-border trains.
+People with symptoms can either turn back at the border or be transported by a HAZMAT ambulance for medical examination at the nearest hospital.
+Army deployed on 10 March (see below).
+
+
+Government
+
+
+Restrictions on sale of medical means
+
+FFP3 respirators sale ban
+FFP3 respirators may be sold only to:
+
+healthcare providers (exemption revoked on 6 March)
+welfare providers (exemption revoked on 6 March)
+Czech Republic government and its component agencies
+resellers of FFP3 based in the Czech Republic, provided resellers will sell only to the other groups mentioned
+
+3 March 2020
+
+From 4 March onwards (indefinitely)
+Revoked on 6 April 2020
+
+
+The FFP3 respirators sale ban was preceded by a memo from Security Information Service to the Government, according to which Chinese embassy in Prague was conducting massive purchases of respirators available on Czech market during January and February and transferring them to China.
+This led to shortage of FFP3 respirators for use by healthcare providers which lasted for weeks after the ban was passed.
+
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-8/PRO
+Ministry of Health Protection Measure No. MZDR 5503/2020-12/PRO
+Ministry of Health Protection Measure No. MZDR 15190/2020-1/MIN/KAN (revocation)
+
+
+
+Hand sanitizers export ban.
+
+5 March 2020
+
+From 5 March onwards (indefinitely).
+Revoked on 21 April 2020.
+
+
+Ban on export of hand sanitizers listed in Annex 1, Category 1 of EU Regulation No. 528/2012 (with exemption of small amounts for personal use).
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-9/PRO
+Ministry of Health Protection Measure No. MZDR 16771/2020-2/MIN/KAN (revocation)
+
+
+
+Ban on export of medication
+
+17 March 2020
+
+From 17 March onwards (indefinitely).
+
+17 March – 1 April 2020 – general ban on export of medication.
+From 1 April onwards – ban on export of selected medication.
+Ban only on export of medication destined for the Czech market. Medication manufactured directly to foreign order may still be exported.
+
+
+Government Regulation No. 104/2020 Coll. (until 1 April)
+Government Regulation No. 146/2020. Coll (after 1 April)
+
+
+
+Duty to report gatherings over 5,000 people.
+
+Organisers must inform health authorities about all planned gatherings where they expect 5,000 or more visitors during a single day
+
+4 March 2020
+
+From 4 March onwards (indefinitely).
+Revoked on 17 April
+
+
+
+
+Ministry of Health Protection Measure No. MZDR 9826/2020-1/HES
+Ministry of Health Protection Measure No. MZDR 9826/2020-2/MIN/KAN (revocation)
+
+
+
+Quarantine
+
+Spectators banned from attending the World Biathlon Cup Championship race in Nové Město na Moravě.
+
+Championship can take place, but no spectators allowed.
+
+2 March 2020
+
+From 5 March 2020 to 8 March 2020.
+
+
+
+Ministry of Health Protection Measure No. MZDR 5503/2020-7/PRO
+
+
+Residents returning from abroad ordered to self-quarantine for 14 days.
+
+All residents of the Czech Republic (citizens and non-citizens), as well as other persons working in the Czech Republic who return to the country from Italy, are ordered to contact their general practitioner by phone or email and self-quarantine for 14 days. Exemptions: (1) truck drivers that use FFP2 or FFP3 respirators while out of the vehicle in Italy, (2) ambulance crews under specific conditions and (3) pilots that did not leave their aeroplane while in Italy.
+
+7 March 2020
+
+From 7 March onwards (indefinitely).
+Replaced by other measures (see below).
+Formally revoked on 17 April 2020.
+
+
+Measure replaced a similar one that was issued a day earlier, which did not include any exemptions.
+Up to CZK 3 million fine for breach of self-quarantine.
+
+
+Ministry of Health Protection Measure No. MZDR 10381/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 10381/2020-2/MIN/KAN (revocation)
+
+
+
+Anyone who visited one of the selected countries over the past 14 days subject to mandatory self-quarantine of 14 days. List of countries may be updated daily.
+Anyone crossing borders into the Czech Republic must allow authorities to perform a medical check.
+
+
+10 March 2020
+
+From 10 March onwards (indefinitely).
+
+Up to CZK 3 million (about €120,000) fine for breach of self-quarantine.
+
+Ministry of Health Protection Measure No. MZDR 10653/201-1/MIN/KAN
+
+
+All residents of the Czech Republic (citizens and non-citizens) who return from selected countries.
+List of selected countries subject to daily updates, as of the day of measure adoption they are: China, South Korea, Iran, Italy, Spain, Austria, Germany, Switzerland, Sweden, Norway, the Netherlands, Belgium, Great Britain, Denmark, and France.
+Freight drivers exempted and recommended to "limit contact with locals as far as feasible".
+
+
+13 March 2020
+
+From 13 March onwards (indefinitely).
+Replaced from 14 April onwards.
+
+
+Exemptions:
+International freight transport: drivers, flight crews, train crews, ship crews. Also exempt are freight transport workers employed abroad.
+Diplomatic staff.
+Emergency services while on duty (police, EMT, fire, mountain rescue, etc.).
+Persons who verifiably periodically cross borders, especially workers with a place of employment no further than 100 kilometres from the border.
+Citizens of Germany, Austria, Poland and Slovakia who verifiably periodically cross borders, especially workers with a place of employment no further than 100 kilometres from the border.
+Epidemiology, humanitarian and health experts.
+Members of the European Parliament.
+Minors that are citizens of an EU Member state and whose parent is a Czech citizen.
+Persons transporting blood, bone marrow and/or organs for purpose of transplantation.
+Persons with a serious medical condition for purpose of undertaking medical procedures abroad.
+Persons who merely used Airport Transit Zones within selected countries.
+Up to CZK 3 million (about €120,000) fine for breach of self-quarantine.
+
+
+Government Resolution No. 209/2020 Coll.
+Ministry of Interior Notice on Exemptions from travel restrictions during the State of Emergency
+
+
+
+Anyone entering the Czech Republic has duty to contact health authority and may be subject to mandatory 14 days' quarantine (with exemptions).
+
+6 April 2020
+
+From 14 April until the end of the State of Emergency.
+Extended on 15 May (indefinitely).
+
+
+Exemptions – see referenced Government Resolution.
+Significant change in rules from 27 April onwards—see border restrictions below.
+
+
+Government Resolution No. 387 published as No. 150/2020 Coll.
+Government Resolution No. 443 published as No. 193/2020 Coll. (revocation)
+Ministry of Health Protection Measure No. MZDR 20599/2020-1/MIN/KAN
+
+
+
+Contact tracing
+
+Confirmed COVID-19 patients' contacts preventively quarantined for 14 days.
+
+7 March 2020
+
+From 8 March onwards (indefinitely).
+
+Authorities actively seek all people who were in contact with confirmed COVID-19 patients.
+Those are then ordered to mandatory 14 days' preventive self-quarantine. They also get tested for COVID-19, typically after 5 days.
+
+
+Ministry of Health Protection Measure No. MZDR 10386/2020-1/MIN/KAN
+
+
+Use of mobile phone geolocation data and debit card payments for contact tracing
+
+19 March 2020
+
+From 19 March onwards (indefinitely).
+
+Mobile phone operators and banks obliged to provide geolocation data to health authority, if so requested. Data must be provided subject to following conditions (cumulative):
+Only geolocation data of COVID-19 positive person,
+only subject to such person's explicit consent which may be taken back at any time,
+geolocation data for previous three weeks,
+data may be used only for purpose of epidemiological tracing,
+health authority may store the original data only for necessary period of time, no more than 6 hours.
+Geolocation data is used to draft a map of COVID-19 person's movement in previous days. This map is then presented to the person to help them remember who they were in contact with, where and when. Identified contacts are then put into 14 days' quarantine and tested for COVID-19 after 5 days.
+
+
+Ministry of Health Protection Measure No. MZDR 12398/2020-1/MIN/KAN
+
+
+Soldiers deployed to reinforce health authority.
+
+30 March 2020
+
+From 30 March 2020 onwards (indefinitely).
+
+300 soldiers (mainly paramedics and students of Military University of Medicine) deployed to reinforce health authority for the purpose of tracing contacts of COVID-19 positive patients and for collecting their samples.
+
+Government Resolution No. 333 published as No. 141/2020 Coll.
+
+
+Special requirements for release from preventive quarantine.
+
+9 April 2020
+
+From 16 April 2020 onwards (indefinitely).
+
+People who were put into quarantine due to previous contact with COVID-19 positive person may be released from quarantine only if (cumulatively):
+14 days elapsed,
+lack of COVID-19 symptoms, unless those can be attributed to other illness,
+negative outcome of rapid test on COVID-19 antibodies,
+negative outcome of test for IgM and IgG antibodies.
+
+Ministry of Health Protection Measure No. MZDR 15757/2020-6/MIN/KAN
+
+
+Hospital visits ban.
+
+Ban on visits in hospitals and similar facilities. Exemptions for visits to patients who are (1) minors, (2) legally incapacitated, (3) pregnant or (4) terminally ill.
+
+9 March 2020
+
+From 10 March onwards (indefinitely).
+
+Exemptions for visits to patients who are (1) minors, (2) legally incapacitated, (3) pregnant or (4) terminally ill.
+Scope of exemptions extended on from 16 April onwards: presence of father during child delivery explicitly allowed.
+
+
+Ministry of Health Protection Measure No. MZDR 10519/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 16214/2020-1/MIN/KAN
+
+
+
+Public gatherings banned.
+
+Gatherings of 100 or more people banned.
+
+10 March 2020
+
+From 10 March 6 pm onwards (indefinitely).
+Replaced by other measures (see below).
+Formally revoked on 17 April 2020.
+
+
+Ban on private and public gatherings of 100 or more people, including theatres, music events, cinemas, sports, etc. Exemptions for (1) legislature, (2) executive government, (3) courts and (4) public or private assemblies mandated by law (e.g. shareholder meetings)
+
+Ministry of Health Protection Measure No. MZDR 10666/2020-1/MIN/KAN
+Ministry of Health Protection Measure No.MZDR 10666/2020-2/MIN/KAN (revocation)
+
+
+
+Gatherings of 30 or more people banned.
+
+12 March 2020
+
+From 13 March 6 pm onwards (indefinitely).
+Revoked from 16 March onwards (replaced by nationwide curfew, see below).
+
+
+Ban on any private and public gatherings of 30 or more people. Exemptions for (1) legislature, (2) executive government, (3) courts, (4) public assemblies mandated by law and (5) funerals.
+
+Government Resolution No. 199/2020 Coll.
+
+
+Gatherings of more than 2 people banned.
+
+23 March 2020
+
+From 23 March until 1 April.
+Extended until 11 April.
+Extended until end of State of Emergency.
+Invalidated from 27 April onwards.
+
+
+Ban on any gathering at the publicly accessible place of more than 2 people. Exemptions for (1) members of same household, (2) exercise of profession and (3) funerals as long as a distance of 2 metres between people is kept.
+
+Ministry of Health Protection Measure No. MZDR 12745/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 12745/2020-4/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15190/2020-5/MIN/KAN
+Judgement of the Municipal Court in Prague No. 14 A 41/2020 from 23 April 2020
+
+
+
+Gatherings of more than 10 people banned.
+
+23 April 2020
+
+From 24 April until the end of State of Emergency.
+
+Ban on any gathering at the publicly accessible place of more than 10 people. Exemptions for (1) members of same household, (2) exercise of profession, (3) funerals as long as a distance of 2 metres between people is kept, (4) church services up to 15 persons.
+Special requirements for training of professional athletes, weddings, church services, etc.
+Exemptions extended from 11 May onwards:
+
+theatres, cinemas, concerts, church services, weddings etc. with attendance of max. 100 people
+mass sport events of max. 100 people (2 metres' distance between individuals, no use of common showers, locker rooms, etc.)
+
+Government Resolution No. 452 published as No. 194/2020 Coll.
+Government Resolution No. 490 published as 223/2000 Coll.
+
+
+
+15 May 2020
+
+From 18 May until 25 May.
+
+Ban on any gathering at the publicly accessible place of more than 10 people with exemptions (family members, exercise of profession, etc.).
+Ban on public events (sport, culture, wedding, praying, etc.) with more than 100 people.
+
+
+Ministry of Health Protection Measure No. MZDR 20588/2020-1/MIN/KAN
+
+
+Gatherings of 300 or more people banned.
+
+19 May 2020
+
+From 25 May onwards (indefinitely).
+
+Ban on any private gathering/public event (sport, cultural, wedding, prayer, etc.) of 300 or more people.
+
+Ministry of Health Protection Measure No. MZDR 20588/2020-2/MIN/KAN
+
+
+Schools suspended.
+
+All pupils and students banned from personally attending classes (including university lectures). Staff may continue to work and assign homework for students.
+Kindergartens and creches are open/closed subject to decision of local municipal authorities.
+
+
+10 March 2020
+
+From 11 March onwards (indefinitely).
+
+From 13 March onwards ban extended to include also extracurricular and after school activities.
+From 20 April onwards students may attend university exams with max. 5 persons present, may also attend clinical education or practical laboratory education with max. 5 persons present.
+Exemption extended from 11 May onwards:
+
+students in final year of grammar or high school as long as there are no more than 15 students in a classroom
+students in orphanages and similar institutions
+education at healthcare oriented schools
+extracullicural activities as long as student group is no larger than 15 persons
+university education as long as student group is no larger than 15 persons (clinical education unlimited)
+education at art and language schools as long as student group is no larger than 15 persons
+– All of that only after student/parent signs a sworn statement that the student is without clinical symptoms of COVID-19.
+Exemption extended from 25 May onwards:
+
+pupils at grammar schools grades 1–5, max. 15 pupils at a class, attendance is voluntary. Special needs schools/classes remain closed.
+
+Ministry of Health Protection Measure No. MZDR 10676/2020-1/MIN/KAN (11–13 March 2020)
+Government Resolution No. 201/2020 Coll. (from 13 March onwards)
+Ministry of Health Protection Measure No. MZDR 16184/2020-1/MIN/KAN
+Government Resolution No. 455 published as No. 197/2020 Coll.
+Government Resolution No. 456 published as No. 198/2020 Coll.
+Government Resolution No. 491 published as No. 220/2020 Coll.
+Ministry of Health Protections Measure No. MZDR 20584/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 20584/2020-2/MIN/KAN
+
+
+
+Closure of services
+
+Restaurants closed.
+
+12 March 2020
+
+From 13 March 8 pm onwards (indefinitely) / replaced on 14 March.
+
+Restaurants may operate from 6 am to 8 pm. Home delivery possible 24/7.
+
+Government Resolution No. 199/2020 Coll.
+
+
+12 March 2020
+
+From 13 March 8 pm until 24 March 6 am.
+Extended to 1 April.
+Extended to 11 April.
+
+
+Restaurants in shopping centres over 5,000 m in size closed.
+
+Government Resolution No. 199/2020 Coll. (until 14 March)
+Government Resolution No. 211/2020 Coll. (after 14 March)
+Ministry of Health Protection Measure No. MZDR 13361/2020-2/MIN/KAN
+
+
+
+14 March 2020
+
+From 14 March 6 am until 24 March 6 am.
+Extended to 1 April.
+Extended to 11 April.
+Replaced on 6 April (valid indefinitely)
+
+
+All publicly accessible restaurants closed.
+Restaurants may sell food through shopfront windows with any opening hours (incl. 24/7), so long as customers do not enter the premises.
+Home delivery possible 24/7.
+From 11 May: Restaurants may serve patrons at their outdoors premises.
+From 25 May: Restaurants may operate from 6 AM to 23 PM (outdoor premises, take away windows and home delivery 24/7).
+
+
+Government Resolution No. 211/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 12746/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 13361/2020-2/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15190/2020-3/MIN/KAN
+Government Resolution No. 493 published as No. 224/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 20581/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 20581/2020-2/MIN/KAN
+
+
+
+Marketplaces closed
+Ban on retail trade at marketplaces.
+
+
+13 March 2020
+
+From 14 March 6 am onwards (indefinitely).
+Partially revoked on 20 April 2020 (outdoors marketplaces can reopen).
+Revoked from 11 May onwards.
+
+
+While having a general effect, the resolution also specifically names Little Hanoi.
+
+Government Resolution No. 208/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 16193/2020-1/MIN/KAN
+Government Resolution No. 453 published as No. 195/2020 Coll.
+Government Resolution No. 493 published as No. 224/2020 Coll.
+
+
+
+General closure of services and retail sale
+(All retail may still conduct distance sales finalised through makeshift takeaway window or with delivery directly to customer )
+
+
+14 March 2020
+
+From 14 March 6 am until 24 March 6 am.
+Extended to 1 April.
+Extended to 11 April.
+Replaced on 6 April (valid indefinitely)
+Replaced on 27 April until the end of State of Emergency
+Lifted from 11 May onwards.
+
+
+Ban on presence of general public in establishments providing services and retail sale with following exemptions:
+food retail (from 24 onwards: only if customers are provided with single-use gloves upon entry for free)
+IT and other electronics and home appliances
+petrol stations and other fuels
+chemists
+pharmacies
+sale of small domestic animals and fodder
+glasses and other optics
+newspapers and magazines
+tobacco products
+laundry services
+sale over the Internet or by telephone of goods that are otherwise generally available in the given physical shop
+Scope of exemptions widened from 24 March onwards:
+
+car repair and car towing
+sale of spare parts for cars and machinery
+services allowing collection of parcels
+sale of gardening tools and seeds
+sale of travel tickets
+spa that offer services at least partially covered by public health insurance
+funeral homes
+sale of flowers
+building construction
+sale of textiles
+servicing of electronics
+realtor services, tax advising, accounting
+hotels lodging for foreigners
+Scope of exemptions widened from 1 April onwards:
+
+locksmithing, servicing of home appliances and home repair
+embalming, funeral services and cremation
+car washes
+Scope of exemptions widened from 7 April onwards:
+
+housewares, if sortiment includes face masks, respirators and hand sanitizers
+hobbymarkets, sale of building materials, hardware stores (from 9 April)
+sale and service of bicycles (from 9 April)
+scrapyards and collection points
+hotels may lodge persons travelling due to work reasons
++ All opened shops and services must take active steps to
+
+ensure that people stay 2 metres away from each other (including if waiting outside for entry)
+ensure active management of queues
+place hand sanitisers for employees and customers close to frequently touched items (door handlers, shopping carts,
+employees must wear gloves when touching goods or when accepting money from customers
+customers must be informed about measures by leaflets and speakers
+Scope of exemptions widened from 20 April onwards:
+
+sale of new or used cars
+crafts and trade which do not require contact with client's body (i.e. exemption does not extend to hairdressers, pedicure, etc.)
+Scope of exemptions widened from 24 April onwards:
+
+retail sale in premises with less than 2,500 m
+tourist information centers
+fitness centers (max. 1 person per 10 m, minimum distance of 2 metres, no use of showers, etc.)
+ZOOs, botanical gardens and similar (only online sale of tickets, max. 150 people per hectare per day)
+From 11 May onwards only selected services remain closed: indoors swimming pools and saunas, tours of indoors premises of castles and chateaus, hotel services for leisure purposes, services that are conducted by disruption of skin (e.g. tattooing). A large number of special measures required for opened services, see referenced Resolution No. 493.
+
+
+Government Resolution No. 211/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 12746/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 13361/2020-2/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15190/2020-3/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 16193/2020-1/MIN/KAN
+Government Resolution No. 454 published as No. 196/2020 Coll.
+Government Resolution No. 453 published as No. 195/2020 Coll.
+Government Resolution No. 493 published as No. 224/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 20581/2020-1/MIN/KAN
+
+
+
+Casinos closed
+
+14 March 2020
+
+From 14 March onwards (indefinitely).
+
+
+
+Government Resolution No. 211/2020 Coll.
+Government Resolution No. 453 published as No. 195/2020 Coll.
+
+
+
+Prison visits ban.
+
+Family members banned from visiting relatives in prisons and jails. Defense attorneys exempted from the ban. Individual exceptions may be granted by the Minister of Justice.
+From 15 May onwards: Only one visitor permitted per each visit.
+
+
+13 March 2020
+
+From 14 March onwards (indefinitely).
+
+
+
+Government Resolution No. 204/2020 Coll.
+Ministry of Healh Protection Measure No. MZDR 20598/2020-1/MIN/KAN
+
+
+
+Sporting venues closed
+
+Public banned from entering sporting venues for 30 or more people, both indoor and outdoor.
+
+13 March 2020
+
+From 14 March 6 a.m. onwards (indefinitely).
+Replaced by general curfew from 16 March onwards.
+
+
+
+
+Government Resolution No. 208/2020 Coll.
+
+
+Welfare providers and retirement homes can accept new clients only after negative COVID-19 test.
+
+This includes also clients that are moved from another institution (another retirement home).
+Until 25 May: Once accepted, the person must be placed at a separate room for 14 days.
+
+
+29 March 2020
+
+From 29 March onwards (indefinitely).
+
+
+
+Ministry of Health Protection Measure No. MZDR 13742/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 13742/2020-3/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 13742/2020-3/MIN/KAN
+
+
+
+Regional quarantine
+
+Quarantine of town of Litovel and 18 nearby municipalities including Uničov and Červenka.
+The quarantine zone covers about 24,000 people. A cluster of 25 patients identified on 16 March 2020. By 21 March 2020 there were 54 confirmed patients within the quarantine zone out of 62 total confirmed cases in Olomouc region.
+
+
+16 March 2020
+
+From 16 March onwards (indefinitely).
+Lifted on 30 March 2020
+
+
+People living and working within the quarantined area can go to work.
+People living within the area and working outside, and vice versa, must stay at home.
+Workers returning from night shifts in the area to homes outside of the area ordered into 14 days' self-quarantine.
+Police checkpoints on roads to the area. Only supply trucks, police, emergency, and fire rescue service can enter/leave town.
+Military field mini-hospital build in Litovel on 19 March.
+
+
+Local health authority.
+
+
+Quarantine of municipality of Kynice, where a number of people were infected during the local volunteer fire department's ball.
+The municipality has a population of 95.
+
+
+16 March 2020
+
+From 16 March onwards (indefinitely).
+Lifted on 1 April 2020
+
+
+Same conditions as in other quarantined areas.
+
+Local health authority.
+
+
+Social distancing measures
+
+NATIONWIDE CURFEW
+
+15 March 2020
+
+From 16 to 24 March 6 am (Government Resolution)
+From 24 March 6 am to 1 April 6 am (Ministry of Health Protection Measure)
+Extended until 11 April.
+Extended until end of State of Emergency.
+Revoked from 24 April onwards.
+
+
+Order for persons to
+a) limit their movement through public places as much as possible (with exemptions)
+b) limit contact with others as much as possible
+Exemptions:
+
+a) reaching the workplace or profession
+b) necessary visits to family or close persons
+c) necessary travel for purchase of essentials (e.g. groceries, medicine, medical and hygiene supplies, pet food, etc.) including essentials for relatives and children, essential use of financial and post services, and personal vehicle refuelling.
+d) necessary travel as mentioned in c) on behalf of another (e.g. neighbour, volunteer help)
+e) travel to medical and social care facilities, including accompanying of another person for this purpose
+f) travel to attend to urgent official matters, including accompanying of another person for this purpose
+g) job performance (or attendant matters) in security, public health, individual spiritual service, public transport, and other infrastructure, citizen services (includes home deliveries)
+h) movement in open countryside or parks
+i) return travel to the place of residence
+j) funerals
+Scope of exemptions widened from 7 April onwards:
+
+Conducting of sport activities at outside sporting grounds, in parks or in nature (e.g. tennis, skiing, sport shooting, etc.)
+Facecover obligatory unless individuals conducting the given sport are at least 2 metres apart and
+No more than 2 people are conducting sport together, with exception of members of the same household and with exception of staying 2 metres apart from others
+Associated facilities (showers, changing rooms) remain closed / toilet can be open.
+Scope of exemptions widened from 20 April onwards:
+
+trainings of professional athletes (contact fighting sports not allowed, no spectators allowed)
+marriage/registered partnership ceremony (official, newlyweds, 2 grooms + 4 persons allowed to attend)
+Scope of exemptions widened from 27 April onwards (curfew revoked before this part entered into force):
+
+church services attended by max. 15 persons (under special arrangements—minimum distance of 2 metres between individuals, face masks, hand sanitizers, etc.). Churches may remain open for individual prayer / individual counselling.
+
+Government Resolution No. 215/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 12745/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 12745/2020-4/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15190/2020-4/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15190/2020-5/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 16195/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 16484/2020-1/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 17606/2020-1/MIN/KAN
+
+
+
+Public authorities' activity reduction
+
+12 March 2020
+
+14 March to 1 April.
+Extended until 11 April.
+Extended until 19 April.
+
+
+Public authorities restricted to perform only to necessary duties.
+Restrictions on duties requiring personal contact with the public. Restriction of office hours to 3 hours on Monday and Wednesday. Only the lowest possible number of employees to be present when necessary. Duty to implement rotations of employees in a way that prevents contact between selected groups.
+Partially revoked on 6 April 2020: Czechpoint [cs] resumes service.
+
+
+Government Resolution No. 194/2000 (until 24 March)
+Ministry of Health Protection Measure No. MZDR 12745/2020-3/MIN/KAN (from 24 March onwards)
+Ministry of Health Protection Measure No. MZDR 12745/2020-5/MIN/KAN (from 1 April onwards)
+Ministry of Health Protection Measure No. MZDR 15190/2020-2/MIN/KAN (Czechpoint reopening)
+Ministry of Health Protection Measure No. MZDR 15757/2020-4/MIN/KAN
+
+
+
+9 April 2020
+
+From 20 April onwards (indefinitely)
+Revoked on 15 May.
+
+
+Public authorities open with special measures
+Public authorities instructed to prioritise email or telephone communication over physical meetings.
+Opening hours back to normal. Personal meetings either through barrier or if possible with 2 metres' distance. Obligation to ensure distance of 2 metres in hallways, waiting rooms, etc. Obligation to set up hand sanitizers in hallways. Obligation to frequently disinfect surfaces including door handles, elevator buttons, etc.
+Duty to implement rotations of employees in a way that prevents contact between selected groups. Duty to prioritise work from home where possible.
+
+
+Ministry of Health Protection Measure No. MZDR 15757/2020-3/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-15/MIN/KAN (revocation)
+
+
+
+Obligatory face cover (respirator or similar)
+
+18 March 2020
+
+From 19 March until 30 March
+From 30 March onwards (indefinitely)
+
+
+Ban on movement outside of the home without having mouth and nose covered by a respirator, face mask or similar.
+Exemptions from 30 March onwards:
+
+car drivers, if they are alone within a closed vehicle,
+children younger than 2 years.
+Scope of exemptions widened on 7 April:
+
+conducting sports in accordance with curfew exemptions (incl. walking/running in parks and nature)
+Scope of exemptions widened on 9 April:
+
+drivers of public transportation if they are alone within a confined space
+people with severe autistic disorder
+people within a closed vehicle, if all of them are members of the same household
+Scope of exemptions widened on 30 April:
+
+children age 2–7 while in kindergarten
+persons with serious mental illness that doesn't allow wearing of face mask
+persons performing artistic work (theatre, music, film making, etc.), if they were tested for COVID-19 in previous 4 days and then periodically every 14 days, 2 metres' distance between performers and spectators, temperature check on performers with ban on entry of those with more 37 °C or more
+radio and TV hosts when in studio without guests
+Scope of exemptions widened on 5 May:
+
+kindergarten teachers
+pupils and school teachers in a classroom as long as minimum distance of 1.5 metres between individuals is maintained
+persons who are having portrait photography taken for necessary period of time (incl. wedding photos, etc.)
+Scope of exemptions widened on 12 May:
+
+pupils, students and examiners during final school / school entrance exams, as long as minimum distance of 1.5 metres between individuals is maintained (in case of universities max. 15 people in the same room)
+patients and healthcare workers for time necessary for provision of healthcare (including SLP)
+Scope of exemptions widened on 18 May:
+
+workers at high heat environments
+workers within offices if they are at their workstation and no less than 2 metres from another person
+From 25 May onwards face cover obligatory only at:
+
+any indoor premises apart from home,
+within public transportation,
+at any other place where more than two people aggregate, unless those are members of the same household.
+(previously enacted exemptions remain in place and also apply, see above).
+
+Government resolution No. 247 (published as No. 106/2020 Coll.) (until 30 March)
+Ministry of Health Protection Measure No. MZDR 13894/2020-1/MIN/KAN (after 30 March)
+Ministry of Health Protection Measure No. MZDR 15190/2020-4/MIN/KAN
+Ministry of Health Protection Measure No.MZDR 15757/2020-2/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-10/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-13/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-14/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-16/MIN/KAN
+Ministry of Health Protection Measure No. MZDR 15757/2020-18/MIN/KAN
+
+
+
+Elderly only shopping time (65+)
+
+18 March 2020
+
+From 19 March onwards (indefinitely).
+
+Only elderly (65+) can enter establishments (grocery shops, post offices and others that are still open) at the selected time. The timeframe for elderly changes periodically:
+19–20 March – 10 AM to 12 AM
+21–24 March – 7 AM to 9 AM
+from 25 March onwards – 8 AM to 10 AM (only establishments with over 500 m public area)
+
+Ministry of Health Resolution No. MZDR 12390/2020-1/MIN/KAN, replaced by MZDR 12501/2020-3/MIN/KAN, replaced by Ministry of Health Protection Measure No. MZDR 12744/2020-2/MIN/KAN
+
+
+Local Assemblies limited
+
+23 March 2020
+
+From 24 March onwards (replaced from 7 April onwards).
+
+Local assemblies only online
+Municipal and regional assemblies shall convene only for necessary purposes (measures regarding COVID-19 or necessary to prevent other damages) and shall take place only online. Recommendation to broadcast online assemblies publicly on the internet.
+
+
+Government Resolution No. 274 published as No. 122/2020 Coll.
+
+
+6 April 2020
+
+From 7 April until the end of State of Emergency
+
+Local assemblies subject to social distancing
+Municipal and regional assemblies shall convene in a way that ensures distance of 2 metres between each individual. Everyone present must wear face cover.
+Recommendation to allow participation through means of distance communication.
+
+
+Government Resolution No. 388 published as 151/2020 Coll.
+
+
+Electronic data boxes use for free
+
+23 March 2020
+
+From 24 March onwards (until the end of State of Emergency).
+
+"Electronic data boxes" is a secure means of online communication run by the Government that may be used for formal delivery of documents. Normally only communication with authorities is free while communication between private entities is subject to a fee. This fee was waived until the end of the State of Emergency.
+
+Government Resolution No. 275/2000 Coll.
+
+
+Hard measures
+
+STATE OF EMERGENCY
+
+Declaration of State of Emergency. For the first time in modern history for the area of entire country (previously only regionally, mainly due to floods).
+A number of other particular measures announced at the same time under Government emergency powers (see elsewhere in the table).
+
+
+12 March 2020
+
+From 12 March 2020 2 pm for a period of 30 days.
+Extended by Chamber of Deputies until 30 April.
+Extended by Chamber of Deputies until 17 May.
+
+
+Government (cabinet headed by Prime Minister) has considerably extended powers under the State of Emergency. State of Emergency may be declared by Government for at most 30 days; any extension must be ratified by Chamber of Deputies.
+Most other measures adopted "indefinitely" remain in force only as long as the State of Emergency lasts, as without it the Government lacks the constitutional authority to limit the associated rights.
+
+
+Government Resolution No. 194/2020 Coll.
+Vote number 8 of 43rd meeting of Chamber of Deputies held on 7 April 2020
+Government Resolution No. 369 published as No. 156/2020 Coll.
+Vote number 11 of 47th meeting of Chamber of Deputies held on 28 April 2020
+Government Resolution No. 485 published as No. 219/2020 Coll.
+
+
+
+Border enforcement
+
+Provisional enforcement of borders with Germany and Austria and limitations on international flights. Only selected border crossings remain open:
+Germany (unlimited): Strážný, Pomezí nad Ohří, Rozvadov, Folmava, Železná Ruda, Krásný Les, Hora Svatého Šebestiána
+Germany (limited to regulars only, e.g. cross-border workers, etc.; 5 AM to 11 PM): Všeruby, Jiříkov, Vojtanov, Cínovec
+Austria (unlimited): Dolní Dvořiště, České Velenice, Hatě, Mikulov
+Austria (limited to regulars only, e.g. cross-border workers, etc.; 5 AM to 11 PM):Vratěnín, Valtice, Nová Bystřice
+International flights only to/from Václav Havel International Airport and Kbely Airport (both near Prague), other airports limited to domestic flights.
+
+12 March 2020
+
+From 14 March 2020 onwards.
+
+Czech Republic is a party to Schengen Treaty and does not normally enforce its border with other EU countries.
+
+Government Resolution No. 197/2020 Coll.
+
+
+BORDERS CLOSURE
+
+Crossborder public transport ban.
+
+12 March 2020
+
+From 14 March onwards (indefinitely).
+Revoked from 11 May onwards.
+
+
+Any road vehicle with a capacity of more than 9 people (incl. driver) banned from crossing borders with an exemption of (1) larger vehicles bringing Czech citizens or long-term/permanent residents to the Czech Republic, (2) larger vehicles taking foreigners out of the Czech Republic (exemption: empty buses, passenger trains, and ships may return to the Czech Republic).
+Crossborder passenger rail and passenger ship transport banned.
+Only Václav Havel Prague International Airport may be used for international flights. (Remained valid also after 11 May 2020).
+An individual exemption may be granted by the Minister of Transportation.
+
+
+Government Resolution No. 200/2020 Coll.
+Government Resolution No. 506 published as No. 225/2020 Coll.
+
+
+
+Travel ban – selected countries
+
+12 March 2020
+
+From 14 March 2020 onwards (indefinitely).
+Effectively replaced by complete travel ban from 16 March onwards (see below).
+
+
+Foreigners coming in from selected countries banned from entering the Czech Republic (foreigners with long-term or permanent residency permits exempted).
+Czech citizens and foreigners with long-term or permanent residency banned from entering selected countries.
+Suspension of processing of all visa applications (individual exceptions possible).
+List of selected countries subject to daily updates, as of the day of ban entry into force they were China, South Korea, Iran, Italy, Spain, Austria, Germany, Switzerland, Sweden, Norway, the Netherlands, Belgium, Great Britain, Denmark, and France.
+
+
+Government Resolution No. 198/2020 Coll.
+
+
+COMPLETE BORDERS CLOSURE
+Czech citizens:
+Not allowed to leave the country unless they have long-term or permanent residency abroad.
+May return to the country; subject to mandatory 14 days' self-quarantine (see above).
+Foreigners with long-term or permanent residency:
+Allowed to leave the country.
+May return to the country if they were outside when measure adopted; subject to mandatory 14 days' self-quarantine (see above).
+May not return to the country if left while the measure was in force.
+Foreigners without long-term or permanent residency:
+Allowed to leave the country.
+Not allowed to enter the country.
+
+13 March 2020
+
+From 16 March onwards (ban of 13 March).
+From 31 March until 12 April 2020 (ban of 30 March).
+Extended until 13 April 2020 (ban of 6 April).
+
+
+Exemptions:
+International freight transport: drivers, flight crews, train crews, ship crews. Exempt also freight transport workers employed abroad.
+Diplomatic staff.
+Emergency services while on duty (police, EMT, fire, mountain rescue, etc.).
+People who verifiably periodically cross borders, especially workers with a place of employment no further than 100 kilometres from the border.
+Citizens of Germany, Austria, Poland and Slovakia who verifiably periodically cross borders, especially workers with a place of employment no further than 100 kilometres from the border.
+Epidemiology, humanitarian and health experts.
+Members of the European Parliament.
+Minors who are citizens of an EU member state with at least one parent who is a Czech citizen.
+Persons transporting blood, bone marrow and/or organs for purpose of transplantation.
+Persons with a serious medical condition for purpose of undertaking medical procedures abroad.
+
+Government Resolution No. 203 & Ministry of Interior Notice on Exemptions from travel restrictions during the State of Emergency (until 30 March)
+Government Resolution No. 334 published as 142/2020 Coll. (from 31 March)
+
+
+
+BAN ON ENTRY OF FOREIGNERS
+Foreigners without long-term or permanent residency:
+Allowed to leave the country.
+Not allowed to enter the country.
+Leaving country allowed only if the travel is in accordance with conditions of curfew (see above) and purpose of travel cannot be fulfilled within the Czech Republic
+
+6 April 2020
+
+From 14 April until the end of State of Emergency
+Revoked on 27 April.
+
+
+Exemptions:
+International freight transport: drivers, flight crews, train crews, ship crews. Exempt also freight transport workers employed abroad.
+Diplomatic staff.
+Persons who periodically cross borders for work reasons
+Epidemiology, humanitarian and health experts.
+Other in case of urgent reasons
+Anyone coming into Czech Republic has duty to contact health authority and will be subject to mandatory 14 days' quarantine (with exemptions).
+
+
+Government Resolution No. 387 published as No. 150/2020 Coll.
+Government Resolution No. 443 published as No. 193/2020 Coll. (revocation)
+
+
+
+RESTRICTIONS ON CROSS-BORDER MOVEMENT
+Restrictions on entry into the Czech Republic and obligatory quarantine for those who enter.
+
+
+23 April 2020
+
+From 27 April until the end of State of Emergency
+Extended on 15 May (indefinitely).
+
+
+Foreigners without long-term residency may enter for purpose of:
+visiting relatives,
+transiting through the Czech Republic towards home country (subject to presentation of a repatriation note from embassy)
+cross-border workers, pupils or students who cross borders periodically
+European Union citizens entering for max. 72 hours in order to conduct economic activity, if they present COVID-19 negative test no older than 4 days
+European Union citizens entering in order to conduct economic activity or study at a university, if they present COVID-19 negative test no older than 4 days
+workers in international freight
+other specific exceptions (critical infrastructure workers, persons whose entry is in country's interest, diplomats and workers of international organisations, etc.)
++ Obligation to inform health authority about entering the Czech Republic (with exceptions, see referenced resolution)
+Czechs and foreigners with long-term residency must inform health authority immediately after entering the country unless they have COVID-19 negative test no older than 4 days (with exceptions, see referenced resolution).
+All who enter and who were not quaranteened by the health authority must undergo 14 days personal curfew under which they may move only to work and back, do essential shopping, visit healthcare providers, attend necessary administrative proceedings, attend funerals.
+
+
+Government Resolution No. 443 published as No. 193/2020 Coll. (revocation)
+Government Resolution No. 495 published as No. 222/2020 Coll.
+Government Resolution No. 511 published as No. 226/2020 Coll.
+Ministry of Health Protection Measure No. MZDR 20599/2020-1/MIN/KAN
+
+
+
+Other measures
+
+Army deployed at borders
+
+Army units deployed to support border enforcement (see above).
+
+10 March 2020
+
+From 10 March 2020 onwards (indefinitely).
+
+2,100 Czech Army personnel ordered to full readiness.
+Army also used for distribution of medical equipment around country (respirators etc.).
+
+
+Government decision
+
+
+Soldiers deputised
+
+15 March 2020
+
+From 15 March 2020 onwards (indefinitely).
+
+2,096 soldiers and 432 Customs officers deputised for police duty. Previously, they could serve only in support role. This allows a significantly lower number of police officers to be deployed at the borders and their redeployment back to standard policing duty.
+9 April 2020: Number of deputised soldiers increased to 4,094.
+
+
+Government Regulation No. 83/2020 coll.
+Government Regulation No. 155/2020 Coll.
+
+
+
+Release of emergency funding
+
+CZK 500 million released from Government Emergency Fund for emergency purchases of medical tools needed to fight COVID-19.
+
+13 March 2020
+
+
+
+
+
+Government Resolution No. 206/2020 Coll.
+
+
+Provision of welfare
+
+Students of secondary and tertiary schools welfare programmes compelled to work duty.
+
+13 March 2020
+
+From 16 March onwards (indefinitely).
+Revoked from 11 May onwards.
+
+
+Actual work of students subject to later call-up.
+At the same time welfare providers are ordered to provide welfare to recipients whose life or health may be in jeopardy (providers cannot refuse provision of welfare).
+Welfare provision aimed at persons that are not self-sufficient (elderly, crippled, etc.).
+
+
+Government Resolution No. 207/2020
+Government Resolution No. 512 published as No. 227/2020 Coll. (revocation)
+
+
+
+Army deployed.
+
+14 April 2020
+
+From 14 April onwards (indefinitely).
+
+360 soldiers deployed to support provision of welfare, especially within retirement homes. Place of deployment of particular units dependent on requests from regional governments.
+
+Government Regulation No. 172/2020 Coll.
+
+
+Obligatory testing of all employees.
+
+30 April 2020
+
+Between 4 and 17 May.
+
+Providers of welfare in retirement homes and of elderly in their own homes must conduct COVID-19 antibodies rapid testing of every employee that is in direct contact with clients. Rapid testing kits provided by health authority.
+
+Ministry of Health Extraordinary Measure No. MZDR 18636/2020-1/MIN/KAN
+
+
+Social and economical support measures
+
+Trucks allowed to drive on Sundays
+
+13 March 2020
+
+From 13 March 2020 onwards (indefinitely).
+
+Generally, freight trucks are banned from driving on Sundays to ease weekend return traffic. This long-standing ban was lifted to mitigate possible freight disruptions stemming from other measures or general COVID-19 impact.
+
+Government Resolution No. 205/2020 Coll.
+
+
+Income tax deadline extended
+Deadline for Income Tax submission moved by 3 months for natural persons (new date is 1 July)
+
+
+12 March 2020
+
+
+
+
+
+
+
+
+Loans repayment delayed
+Banks will provide an option of delaying loan payments for people and small businesses affected by the coronavirus
+
+
+12 March 2020
+
+
+
+
+
+
+
+
+Gun sales registration period waived.
+
+16 March 2020
+
+From 16 March until end of the curfew
+
+Same as other retail, gun shops could continue distance sales finalised through makeshift takeaway window or by direct delivery to customer. Purchased firearms must normally be physically presented to the police for registration within 10 days from the sale (see Gun laws in the Czech Republic).
+Firearm registrations deemed non-essential by the Ministry of Interior Explanatory Note, as part of the general suspension of non-essential visits to government offices. Gun licence holders instructed to merely inform police about a purchase by post or electronic communication and visit station for registration after the end of curfew.
+Also, exams required for new firearm licences suspended. New permits to purchase B-category firearms issued only remotely (by post or electronic communication).
+
+
+Ministry of Interior Explanatory Note No. MV- 49249-2/OBP-2020
+
+
+Forestry short-term hiring
+
+March 2020
+
+2020 forestry season
+
+Public company Lesy České republiky [cs] which manages public forests started massive short-term hiring of people from professions affected by quarantine measures. Temporary workers take part in restoration of spruce forests that suffered large scale damage by bark beetle and drought in previous years. Wage of CZK 120 per hour (ca €5 per hour), contracts for maximum of 300 hours per person.
+
+
+
+
+Criminal sanctions
+
+COVID-19 added to list of diseases the wilful spreading of which constitutes a felony.
+
+13 March 2020
+
+
+
+Up to 10 years imprisonment in case of criminal negligence.
+
+Government Resolution No. 210/2020 Coll.
+
+
+Healthcare provision support measures
+
+Drive-through testing
+
+14 March 2020
+
+
+
+"Drive-through" tents set up in front of designated hospitals around the country. Patients don't need to leave their cars to be tested.
+Testing is free for people with prescriptions by the health authorities. Prescriptions are granted remotely (phone and email) based on symptoms and travel history. People lacking prescriptions may pay for their own tests. Prices vary depending on the hospital from CZK 1,300–3,000 (€50–120). Some drive-through locations do not offer paid testing due to capacity limitations (i.e. they test only those with a prescription).
+
+
+
+
+
+COVID-19-only hospitals
+
+15 March 2020
+
+
+
+Two hospitals, Na Homolce Hospital [cs] in the capital and largest city of Prague, St. Anna University Hospital [cs] in the second-largest city of Brno, were designated to deal with COVID-19 only. Both cities have several other hospitals to take up the caseload of other conditions.
+Military BSL-4 reserve hospital at Biological Defense Center in Těchonín put into a state of readiness.
+
+
+
+
+
+28 March 2020
+
+
+
+After COVID-19 infection spread in at least seven retirement homes, several hundred beds were set aside for quarantine and treatment of elderly with mild symptoms at:
+Na Bulovce hospital in Prague
+Na Františku hospital in Prague
+Health resort at Lázně Toušeň
+Non-emergency section of Military BSL-4 reserve hospital at Biological Defense Center in Těchonín
+
+Ministry of Health decision
+
+
+Medicine students' work duty
+
+15 March 2020
+
+From 16 March until the end of State of Emergency
+Revoked from 11 May onwards.
+
+
+5th- and 6th-year students of General Medicine compelled to work duty, actual work subject to later call-up.
+Last-year students of nursing, paramedics, and several other related fields compelled to work duty, actual work subject to later call-up.
+
+
+Government Resolution No. 220 published as No. 90/2020 Coll.
+Government Resolution No. 404 published as No. 158/2020 Coll.
+Government Resolution No. 512 published as No. 227/2020 Coll. (revocation)
+
+
+
+Healthcare workers' holiday ban
+
+23 March 2020
+
+From 24 March until the end of State of Emergency
+Revoked on 10 April 2020.
+
+
+Healthcare workers banned from taking a holiday (time off).
+
+Government Resolution No. 278 published as 125/2020 Coll.
+Government Resolution No. 403 published as No. 157/2020 Coll. (revocation)
+
+
+
+Remdesivir provisional approval
+
+17 March 2020
+
+From 17 March for a period of 9 months
+
+Remdesivir, originally developed by Gilead Sciences for ebola treatment, was approved for experimental use for COVID-19 patients in serious condition.
+
+Ministry of Health Decision No. MZDR 12059/2020-3/OLZP
+
+
+Plaquenil prescription restrictions
+
+23 March 2020
+
+From 23 March 8 pm onwards (indefinitely)
+
+Hydroxychloroquine, sold under the brand name Plaquenil among others, is a medication used for the prevention and treatment of certain types of malaria. Plaquenil showed promise in some COVID-19 trials. Only doctors with selected specialisations can prescribe it under the measure.
+
+Ministry of Health Protection Measure No. MZDR 12756/2020-2/MIN/KAN (until 3 April)
+Ministry of Health Protection Measure No. MZDR 12756/2020-3/MIN/KAN (after 3 April)
+
+
+
+Hydroxychloroquine-sulfaat teva provisional approval
+
+7 April 2020
+
+From 7 April for period of 8 months
+
+Provisional approval for COVID-19 treatment due to plaquenil shortage.
+
+Ministry of Health Protection Measure No. MZDR 13360/2020-3/OLZP
+Ministry of Health Protection Measure No. MZDR 12756/2020-3/MIN/KAN (after 3 April)
+
+
+
+Hydroxychloroquine Sulfate Sandoz provisional approval
+
+30 April 2020
+
+From 30 April for period of 8 months
+
+Provisional approval of New Jersey, USA made hydroxochloroquine tablets in original English language package for COVID-19 treatment due to plaquenil shortage.
+
+Ministry of Health Decision No. MZDR 18092/2020-2/OLZP
+
+
+Avigan (Favipiravir) provisional approval
+
+16 April 2020
+
+
+
+Japanese medicine that showed promise in initial trials for COVID-19 treatment.
+Provisional approval of 10,000 tablets.
+
+
+Ministry of Health Protection Measure No. MZDR 16312/2020-1/OLZP
+
+
+Hospitalised patients' information database
+
+24 March 2020
+
+From 24 March onwards (indefinitely)
+
+Central database about COVID-19 hospitalised patients. Hospital providers ordered to:
+insert data about the state of hospitalised COVID-19 patients daily
+insert data about every new patient that gets either to serious condition, requires ventilator or ECMO within one hour
+insert data about every patient whose state changes as regards serious condition, use of ventilator or ECMO within one hour
+
+Ministry of Health Protection Measure No. MZDR 12996/2020-1/MIN/KAN
+
+Interpersonal solidarity
+ Demonstration of making face masks without sewing
+The COVID-19 pandemic in the Czech Republic has created a wave of solidarity in a variety of areas, including:
+
+Due to the lack of protective face masks, volunteers sewed masks for other people and also shared instruction videos online.
+Programmes were launched to help the most vulnerable groups and seniors, on a non-commercial basis, by buying food and medicines.
+On Monday, 23 March, Czech National Television launched a temporary new television channel ČT3, which is to bring practical advice, news and a selection of ČT's classic programmes from the archive for older people.
+Throughout the nation, people made so-called 'mask-trees' to share face coverings.
+The Vietnamese community in the Ústí nad Labem region raised CZK 140,000 for a donation of a ventilator to a hospital in Ústí nad Labem
+Due to the closure of Czech schools, Czech National Television launched an educational programme for home education. The "UčíTelka" programme is focusing on teaching first-grade pupils. The programmes "Odpoledka" on teaching second-grade pupils and programme "Škola doma" for ninth-grade pupils preparing them for entrance exams to secondary schools.
+Czech manufacturer of 3D printers Prusa Research contributed to the "free use project" of shared bicycles company Rekola to enable access to transport with a lower risk of virus transmission than public transport. Prusa Research also designed, produced and distributed protective face shields for medical professionals.
+The Žufánek family distillery from Boršice will produce and distribute for free disinfectant gels without the necessary permit from the health and agriculture department.
+Gallery
+
+
+
+
+Empty shelves of canned meat and other food in Tesco, Prague, on 27 February 2020
+
+
+
+
+
+
+Information flyer from the Ministry of Health sent to every house address
+
+
+
+
+
+
+Government Resolution on Declaration of Emergency
+
+
+
+
+
+
+SMS notification of the closure of shops
+
+
+
+
+
+
+Prague, Celetná ulice, without tourists(March 2020)
+
+
+
+
+
+
+Prague, Astronomical clock, without spectators (March 2020)
+
+
+
+
+
+
+Prague, Wenceslas Square, without tourists (March 2020)
+
+
+
+
+
+
+Prague, Flora shopping centre (March 2020)
+
+
+
+
+
+
+Brno, forbidden to enter front section of local bus (March 2020)
+
+
+
+
+
+
+Empty shopping mall in Prague during the pandemic
+
+
+
+
+
+
+Interior of a Prague bus during the pandemic (14 March 2020)
+
+
+
+
+
+
+Drive thru testing centre at the University Hospital Hradec Králové
+
+
+
+
+See also
+COVID-19 pandemic in Europe
+COVID-19 pandemic by country and territory
+Healthcare in the Czech Republic
+References
+
+
+^      Ritchie, Hannah; Mathieu, Edouard; Rodés-Guirao, Lucas; Appel, Cameron; Giattino, Charlie; Ortiz-Ospina, Esteban; Hasell, Joe; Macdonald, Bobbie; Beltekian, Diana; Dattani, Saloni; Roser, Max (2020–2021). "Coronavirus Pandemic (COVID-19)". Our World in Data. Retrieved 26 July 2022.
+
+^        "COVID‑19: Overview of the current situation in the Czech Republic". onemocneni-aktualne.mzcr.cz. Retrieved 3 March 2022.
+
+^    "The Latest: Peru, Honduras enacting new containment measures". AP News. 15 March 2020. Retrieved 16 March 2020.
+
+^ "Czech Republic goes into quarantine to slow down coronavirus spread". Radio Prague International. Retrieved 30 March 2020.
+
+^      "Third travel ban". aplikace.mvcr.cz. Retrieved 8 April 2020.
+
+^   "PČR, PS 2017, 43. schůze, část 37 (7. 4. 2020)". Psp.cz. Retrieved 8 April 2020.
+
+^   "USNESENÍVLÁDY ČESKÉ REPUBLIKY". apps.odok.cz. 2020. Retrieved 6 April 2020.
+
+^      "Vláda rozhodla o uzavření všech obchodů kromě prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších". vlada.cz.
+
+^   Trnka, Radek; Lorencova, Radmila (June 2020). "Fear, anger, and media-induced trauma during the outbreak of COVID-19 in the Czech Republic". Psychological Trauma: Theory, Research, Practice, and Policy. Advance online publication (5): 546–549. doi:10.1037/tra0000675. PMID 32538654. S2CID 219702140.
+
+^   "Automobilka Hyundai obnovila výrobu v Nošovicích, odstávka trvala tři týdny". Aktuálně.cz (in Czech). 14 April 2020. Retrieved 14 April 2020.
+
+^   "Government Resolution No. 458 published as No. 203/2020 Coll". aplikace.mvcr.cz.
+
+^   "Could Czech's Measure to Fight Coronavirus Save Thousands of Lives?". Praguemorning.cz. 4 April 2020. Retrieved 8 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Koronavirus: Laboratoře, které mohou testovat a kde si můžete test zaplatit". Blesk. 15 March 2020.
+
+^   "Česko má 2 279 nakažených. Nově stačí k testu horečka, suchý kašel či dušnost". Mladá fronta DNES (in Czech). 27 March 2020. Retrieved 30 March 2020.
+
+^   Hana Válková (14 April 2020). "Nezájem lidí, méně laboratoří. Proč o víkendech a svátcích padá počet testů". Mladá fronta DNES. Retrieved 14 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 14 April 2020.
+
+^    "Sports allowed" (PDF). mzcr.cz. Retrieved 8 April 2020.
+
+^ Elsevier. "Novel Coronavirus Information Center". Elsevier Connect. Archived from the original on 30 January 2020. Retrieved 15 March 2020.
+
+^ Reynolds, Matt (4 March 2020). "What is coronavirus and how close is it to becoming a pandemic?". Wired UK. ISSN 1357-0978. Archived from the original on 5 March 2020. Retrieved 5 March 2020.
+
+^   "Crunching the numbers for coronavirus". Imperial News. Archived from the original on 19 March 2020. Retrieved 15 March 2020.
+
+^ "High consequence infectious diseases (HCID); Guidance and information about high consequence infectious diseases and their management in England". Government of the United Kingdom. Archived from the original on 3 March 2020. Retrieved 17 March 2020.
+
+^ "World Federation Of Societies of Anaesthesiologists – Coronavirus". wfsahq.org. Archived from the original on 12 March 2020. Retrieved 15 March 2020.
+
+^      "V Česku jsou tři lidé nakažení koronavirem. Předtím byli v Itálii". ČT24 (in Czech).
+
+^ "V Česku se objevily první případy koronaviru. Všichni přijeli ze severní Itálie". Aktuálně.cz (in Czech). 1 March 2020. Retrieved 1 March 2020.
+
+^ "Akademik, lyžař a studentka z Itálie. Kdo je trojice nakažených v Česku?". seznamzpravy.cz. Retrieved 1 March 2020.
+
+^   "Česko má čtvrtý případ nákazy koronavirem". novinky.cz (in Czech). Retrieved 2 March 2020.
+
+^   "Pátý případ koronaviru v Česku. Žena přitom měla první test negativní". novinky.cz (in Czech). Retrieved 3 March 2020.
+
+^      "Počet nakažených koronavirem stoupl na 12, mezi nimi muž a dítě z Prahy". Mladá fronta DNES (in Czech). 5 March 2020. Retrieved 5 March 2020.
+
+^ "Coronavirus: Czechs returning from Italy to stay in two-week quarantine". Radio Prague International. 6 March 2020. Retrieved 6 March 2020.
+
+^ "Ministry of Health Issues an Extraordinary Measure of Quarantine for Persons Returning from Italy". mzcr.cz. Retrieved 6 March 2020.
+
+^ "Coronavirus: Czechs returning from Italy to stay in two-week quarantine". Radio Prague International. 6 March 2020. Retrieved 20 April 2020.
+
+^        "Na Bulovce zůstaly dvě cizinky. Jsou to spíše klientky, řekla primářka". Mladá fronta DNES (in Czech). 9 March 2020. Retrieved 9 March 2020.
+
+^ "COVID-19: Aktuální počty onemocnění koronavirem v ČR". mzcr.cz. Retrieved 11 March 2020.
+
+^ "Coronavirus: Czech schools close, large events banned". Radio Prague International. 10 March 2020. Retrieved 11 March 2020.
+
+^ "Vyhlášení nouzového stavu". vlada.cz (in Czech). Retrieved 12 March 2020.
+
+^ "Czech government declares state of emergency in response to coronavirus epidemic". Radio Prague International. Retrieved 12 March 2020.
+
+^ Cimpanu, Catalin (13 March 2020). "Czech hospital hit by cyberattack while in the midst of a COVID-19 outbreak". ZDNet.
+
+^ "Základní provoz nemocnice v Brně i po kybernetickém útoku funguje, řekl ředitel". ČT24 (in Czech).
+
+^ Thiessen, Tamara. "Coronavirus: Some Of These 24 European Countries Have Closed Their Borders To Tourists". Forbes. Retrieved 8 April 2020.
+
+^ "Breaking: Czech Republic reports first three cases of coronavirus recovery – Prague, Czech Republic". Expats.cz. 16 March 2020.
+
+^ "Government bans going out without covered mouth and nose". Radio Prague International. 18 March 2020. Retrieved 18 March 2020.
+
+^ "Two planeloads of protective gear arrive from China". Radio Prague International. 22 March 2020. Retrieved 22 March 2020.
+
+^   Prchal, Lukáš (24 March 2020). "Čína v Česku skupuje respirátory a roušky, varovala Babiše a ministry BIS". Deník N (in Czech). Retrieved 30 March 2020.
+
+^ "Czech Republic has first coronavirus-related death". Radio Prague International. 22 March 2020. Retrieved 22 March 2020.
+
+^ ""Zemřel spíš s koronavirem než na něj." První mrtvý v Česku trpěl řadou nemocí". Aktuálně.cz (in Czech). 22 March 2020. Retrieved 30 March 2020.
+
+^ "Rychlotesty nejsou k plošnému užití, slouží jen u rizikových skupin". Mladá fronta DNES (in Czech). 23 March 2020. Retrieved 30 March 2020.
+
+^ "Prymula: O chybovosti rychlotestů jsme věděli. Měníme nařízení". novinky.cz (in Czech). Retrieved 30 March 2020.
+
+^ "Rychlotesty z Číny lze použít až po několika dnech od nákazy". novinky.cz. 23 March 2020. Retrieved 12 April 2020.
+
+^ "Koronavirus na hematologické klinice. V karanténě jsou zaměstnanci i pacienti". Mladá fronta DNES (in Czech). 24 March 2020. Retrieved 30 March 2020.
+
+^   "Třetí českou obětí koronaviru je 71letá žena, nakazila se od příbuzné". Mladá fronta DNES (in Czech). 24 March 2020. Retrieved 30 March 2020.
+
+^    "V Krumlově je deset nakažených, klienti i personál sociální služby". Seznam Zprávy. Retrieved 30 March 2020.
+
+^ "V pražské nemocnici, kde zemřel muž s koronavirem, je nakaženo 13 seniorů". Novinky.cz. Retrieved 30 March 2020.
+
+^ "V Mošnově a Parubicích přistála letadla s materiálem z Číny". ČeskéNoviny.cz (in Czech). Retrieved 30 March 2020.
+
+^ "Za prací dojíždí do ciziny přes 56 tisíc Čechů. Nejvíc do Německa, míří ale i do Británie". ceskatelevize.cz. 2 September 2019.
+
+^ "New rules apply for Czechs commuting for work in Austria, Germany". Radio Prague International. 26 March 2020. Retrieved 30 March 2020.
+
+^ "Coronavirus – Information of MoI – Ministry of the interior of the Czech Republic". Mvcr.cz. Retrieved 6 April 2020.
+
+^ "Epidemie na Domažlicku předčila Prahu. Podle hygieniků šíří nákazu zdravotníci pendlující do Německa". iROZHLAS.
+
+^ "Výjimka pro pendlery. Přísnější pravidla se nedotknou lidí ve zdravotnictví či sociálních službách". iROZHLAS.
+
+^ "Domažlicko kvůli koronaviru zatím plošná karanténa nečeká". Mladá fronta DNES. 9 April 2020.
+
+^ 案236至252例確診 新增17例確診，15例境外移入、2例本土 中央流行疫情指揮中心 26 March 2020
+
+^ "Babiš chce v Česku prodloužit nouzový stav, počet nakažených stoupl na 2279". Seznam Zprávy. Retrieved 30 March 2020.
+
+^ "Koronavirus už zasáhl šest domovů pro seniory. Izolovat víc nezvládáme, říkají". Mladá fronta DNES (in Czech). 27 March 2020. Retrieved 30 March 2020.
+
+^ "Nakažení senioři: nejhorší scénář. V domovech jich onemocněly desítky". Mladá fronta DNES (in Czech). 27 March 2020. Retrieved 30 March 2020.
+
+^ "Zemřela zdravotní sestra z Thomayerovy nemocnice". Seznamzpravy.cz. 29 March 2020. Retrieved 6 April 2020.
+
+^ Martin Procházka (28 March 2020). "Chytrá karanténa se začne testovat na jihu Moravy. Jak bude fungovat?". Novinky.cz. Retrieved 6 April 2020.
+
+^ "V Česku je 3001 nakažených koronavirem". Novinky.cz. Retrieved 6 April 2020.
+
+^ Tait, Robert (30 March 2020). "Czechs get to work making masks after government decree". The Guardian.
+
+^ "Česko má 3257 nakažených, 31 lidí zemřelo". Seznamzpravy.cz. 31 March 2020. Retrieved 6 April 2020.
+
+^ NasRegion.cz (31 March 2020). "Nebudou chodit domů. Rozhodly se pracovnice domova seniorů". Náš REGION (in Czech). Retrieved 6 April 2020.
+
+^ "The latest updates on Coronavirus in the Czech Republic". Prague Resident Magazine. 15 March 2020. Retrieved 6 April 2020.
+
+^ ČTK (1 April 2020). "V ÚVN začali podávat pacientům s COVID-19 hydroxychlorochin". České Noviny. Retrieved 6 April 2020.
+
+^ "Nejvyšší správní soud: Rozhodnutí vlády o odložení senátních voleb v Teplicích bylo mimo její pravomoc | iROZHLAS – spolehlivé zprávy". Irozhlas.cz. 1 April 2020. Retrieved 23 May 2020.
+
+^ "Respirátory, roušky, rukavice. Česko posílá do Číny 4,5 tuny materiální pomoci". Novinky.cz. Retrieved 6 April 2020.
+
+^ Jiří Ovčáček (27 March 2020). "Česko poslalo do Číny speciál s humanitární pomocí. Ze Kbel odletěl v noci". Mladá fronta DNES. Retrieved 6 April 2020.
+
+^ "Čína věnovala Česku zpět humanitární pomoc, která se nevešla do letadla". Mladá fronta DNES. 27 March 2020. Retrieved 6 April 2020.
+
+^ Jan Moláček (17 March 2020). "Stát zabavil i respirátory, které posílal Červený kříž na pomoc Itálii. Bylo to nedorozumění, říká Hamáček – Deník N". Denikn.cz. Retrieved 6 April 2020.
+
+^ "Za roušky zabavené v Lovosicích "daruje" Česko do Itálie jiné". Novinky.cz. Retrieved 6 April 2020.
+
+^ "Coronavirus: Czech state to offer Italy and Spain 10,000 protective suits". Radio Prague International. 26 March 2020. Retrieved 30 March 2020.
+
+^ "Do Slovinska dorazil z Česka milion chirurgických masek a 200 000 respirátorů FFP2". Denikn.cz. 1 April 2020. Retrieved 6 April 2020.
+
+^ ČTK. "ČR přijme pacienty z Francie, obchody a sportoviště asi od čtvrtka". České Noviny. Retrieved 6 April 2020.
+
+^ "Francie pacienty do Brna nepošle, situaci už zvládá lépe". Novinky.cz. Retrieved 7 April 2020.
+
+^ "Česko poslalo milion roušek do Severní Makedonie – Novinky.cz". novinky.cz.
+
+^ Yang Xiaohong / Zuma Press / Profimedia (April 2020). "Darované roušky z Číny jsou prý na cestě. Dorazí později než jinam do Evropy, zato i s krtečkem – HlídacíPes.org". Hlidacipes.org. Retrieved 7 April 2020.
+
+^ Autor dar zdroj: ČT24, ČTK. "Z Tokia míří do Česka lék, který může zabírat na COVID-19. První várku Japonsko poskytne jako dar — ČT24 — Česká televize". Ct24.ceskatelevize.cz. Retrieved 20 April 2020.
+
+^ ČTK (2 April 2020). "S nemocí COVID-19 v ČR zemřelo 44 lidí, uzdravilo se 67 pacientů". České Noviny. Retrieved 6 April 2020.
+
+^ ČTK (2 April 2020). "Ochrana hranic s Německem a Rakouskem potrvá do půlnoci 24. dubna". České Noviny. Retrieved 6 April 2020.
+
+^ Yang Xiaohong / Zuma Press / Profimedia (April 2020). "Darované roušky z Číny jsou prý na cestě. Dorazí později než jinam do Evropy, zato i s krtečkem – HlídacíPes.org". Hlidacipes.org. Retrieved 6 April 2020.
+
+^ "Úmrtí s nemocí covid-19 přibylo v Česku na 59, uzdravených je 78". České Noviny. Retrieved 6 April 2020.
+
+^ Kateřina Frouzová (8 April 2020). "Živě: Druhý den mimořádné sněmovny. Prodloužení nouzového stavu Babiš neprosadil, pomoc živnostníkům prošla". Hospodářské noviny. Retrieved 8 April 2020.
+
+^ ČTK (12 April 2020). "Vláda nebude uvolňovat restrikce při 400 nově nakažených denně". Forum24 – Internetový deník pro šíření svobodných informací a kritickou diskusi (in Czech). Retrieved 14 April 2020.
+
+^ "Kvůli obavám z onemocnění covid-19 se Romové začínají vracet z Británie". Mladá fronta DNES. 14 April 2020.
+
+^ "Čeští a slovenští Romové prchají před koronavirem z Británie – Seznam Zprávy". seznamzpravy.cz.
+
+^ "Breaking: Czech government outlines five-step plan for re-opening shops, restaurants – Prague, Czech Republic". Expats.cz Latest News & Articles – Prague and the Czech Republic. 14 April 2020.
+
+^ Renáta Bohuslavová. "Hamáček prodloužení nouzového stavu nakonec navrhne. Babiš je proti, ale chce diskutovat". Novinky.cz. Retrieved 23 April 2020.
+
+^   Verlag Dashöfer (23 April 2020). "Rozsudek Městského soudu v Praze ke zrušení některých mimořádných opatření | Fulsoft.cz – Zákony, judikatura a literatura 2020–2021". Fulsoft.cz. Retrieved 30 April 2020.
+
+^ "Soud zrušil opatření omezující obchod a volný pohyb". Novinky.cz. Retrieved 23 April 2020.
+
+^ Crisis Act No. 240/2000 Sb., Art. 5
+
+^ Constitutional Act on Security of the Czech Republic No. 110/1998 Sb., Art. 6
+
+^ "Vláda žádá o nouzový stav do 25. května. Roušky máme nosit ještě dva měsíce". Mladá fronta DNES. 24 April 2020. Retrieved 30 April 2020.
+
+^   "Hlasování Poslanecké sněmovny – 47/11". Psp.cz. Retrieved 30 April 2020.
+
+^ "The Latest: UN ups appeal to fight virus to $6.7 billion". ABC News.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ 15. 5. 2020, 14:48hon, Právo. "Žena šířila koronavirus, soud ji poslal do vazby. Cestovala i taxíkem". Novinky.cz. Retrieved 23 May 2020.{{cite web}}:  CS1 maint: multiple names: authors list (link)
+
+^ "OKD | Doly ČSA a Darkov". Okd.cz. 19 December 2012. Retrieved 23 May 2020.
+
+^ ČTK (22 May 2020). "Nakažení v Dole Darkov: 120 zaměstnanců a jejich příbuzní. Mezi nimi i pendleři – Karvinský a havířovský deník". Karvinský a Havířovský Deník. Karvinsky.denik.cz. Retrieved 23 May 2020.
+
+^ Karolína Bennetová (22 May 2020). "Do Karviné kvůli nákaze v Dole Darkov míří další vojáci – Karvinský a havířovský deník". Karvinský a Havířovský Deník. Karvinsky.denik.cz. Retrieved 23 May 2020.
+
+^ Tereza Polaczyková (23 April 2020). "Česko má dvě problematická ohniska koronaviru. Rizikem jsou i podzimní chřipky – Karvinský a havířovský deník". Karvinský a Havířovský Deník. Karvinsky.denik.cz. Retrieved 23 May 2020.
+
+^ "Measures adopted by the Czech Government against the coronavirus | Government of the Czech Republic". www.vlada.cz. Retrieved 5 June 2020.
+
+^ "Coronavirus: Museums and cinemas reopen in Denmark as Belgium and Czech Republic also ease lockdown measures". Independent.co.uk. 8 June 2020. Retrieved 9 June 2020.
+
+^ "OKD suspends mining in Karviná area following COVID-19 outbreaks". news.expats.cz. 2 July 2020.
+
+^ "Number of coronavirus cases linked to Prague nightclub rises to 98". The Guardian. 23 July 2020.
+
+^ Prague Morning (28 July 2020). "Czech Govt Introduces 'COVID-19 Traffic Light System' for Czech Regions".
+
+^ "Coronavirus (COVID-19): travel corridors". GOV.UK. Retrieved 16 October 2020.
+
+^ "Breaking: Czech PM nixes face mask regulations established by Health Ministry yesterday". news.expats.cz. 20 August 2020. Retrieved 16 October 2020.
+
+^ Prague Morning (17 August 2020). "Official: Facemasks Mandatory Indoors and on Public Transport From September 1".
+
+^ "Czech Republic coronavirus updates, September 1: 257 new cases as schools re-open across the country". news.expats.cz. 1 September 2020. Retrieved 16 October 2020.
+
+^    "Czech Republic coronavirus updates, September 10: 1,161 new cases, masks back on, travel restrictions". news.expats.cz. 10 September 2020. Retrieved 16 October 2020.
+
+^ Prague Morning (18 September 2020). "Czech Republic Exceeds 3,000 Daily COVID-19 Cases for First Time". Retrieved 16 October 2020.
+
+^ "Coronavirus guidelines and information + contacts and FAQ". Charles University. Retrieved 16 October 2020.
+
+^ "Czech Health Minister Adam Vojtěch resigns". expats.cz. 21 September 2020. Retrieved 16 October 2020.
+
+^ "Roman Prymula to become new Czech Health Minister". expats.cz. 21 September 2020. Retrieved 16 October 2020.
+
+^ Echo24, Czech News Agency (25 September 2020). "Almost 400 Czech teachers have caught COVID-19 since schools reopened". Remix. Retrieved 16 October 2020.
+
+^ Prague Morning (5 October 2020). "Today Starts the State of Emergency. What You Need to Know". Retrieved 16 October 2020.
+
+^ "Measures adopted by the Czech Government against the coronavirus | Government of the Czech Republic". vlada.cz. Retrieved 16 October 2020.
+
+^ "Czech Republic coronavirus updates, October 8: new record with 5,000+ cases, more restrictions coming tomorrow". expats.cz. 8 October 2020. Retrieved 16 October 2020.
+
+^ Prague Morning (8 October 2020). "Latest: Restaurants and Pubs to Close at 8 p.m." Retrieved 16 October 2020.
+
+^ https://covid19-country-overviews.ecdc.europa.eu/
+
+^ "Measures adopted by the Czech Government against the coronavirus | Government of the Czech Republic". vlada.cz. Retrieved 16 October 2020.
+
+^ "Breaking: New Czech anti-COVID-19 measures to close restaurants, pubs, and schools; alcohol banned in public". expats.cz. 12 October 2020. Retrieved 16 October 2020.
+
+^ "Video: Prague police bust pandemic speakeasy, underground bar with 35 maskless guests". expats.cz. 15 October 2020. Retrieved 16 October 2020.
+
+^ "O stovku pod rekordem. V Česku přibylo přes pět a půl tisíce nakažených - Seznam Zprávy".
+
+^ "Katastrofa, přiznal Babiš. O víkendu se začnou stavět lůžka mimo nemocnice - Seznam Zprávy".
+
+^ "Police in Prague clash with citizens protesting the Czech government's COVID-19 restrictions". 18 October 2020.
+
+^ "Czech Republic coronavirus updates, October 20: 8,076 new cases, masks required outdoors from tomorrow". 20 October 2020.
+
+^ "Breaking: New Czech anti-COVID-19 lockdown measures to close shops and services as of Thursday, October 22". 21 October 2020.
+
+^ The Washington Post
+
+^ Basic reproduction number
+
+^ "COVID‑19: Přehled osob s laboratorně prokázaným onemocněním COVID‑19 dle hlášení krajských hygienických stanic (validovaná data)". onemocneni-aktualne.mzcr.cz (in Czech). Retrieved 2 January 2021.
+
+^ "COVID-19 v ČR: Otevřené datové sady | Onemocnění Aktuálně MZČR". onemocneni-aktualne.mzcr.cz. Archived from the original on 8 May 2020. Retrieved 9 May 2020.
+
+^ Wiles, Siouxsie (9 March 2020). "The three phases of Covid-19 – and how we can make it manageable". The Spinoff. Retrieved 9 March 2020.
+
+^   "Managing epidemics" (PDF). World Health Organization. Retrieved 5 April 2020.
+
+^ "V Itálii umírá už 8 procent nakažených. Proč je smrtnost dvakrát větší než v Číně? – Seznam Zprávy". Seznamzpravy.cz. Retrieved 6 April 2020.
+
+^ Maharaj, Savi; Kleczkowski, Adam (20 August 2012). "Controlling epidemic spread by social distancing: Do it well or not at all". BMC Public Health. 12: 679. doi:10.1186/1471-2458-12-679. PMC 3563464. PMID 22905965.
+
+^ "Coronavirus: The Hammer and the Dance - Tomas Pueyo". Medium. Retrieved 6 April 2020.
+
+^ Normile, Dennis (17 March 2020). "Coronavirus cases have dropped sharply in South Korea. What's the secret to its success?". Science. doi:10.1126/science.abb7566. S2CID 216427938.
+
+^ "COVID-19 Epidemic curve selected countries". datawrapper.dwcdn.net. Retrieved 17 March 2020.
+
+^ "COVID-19 | Onemocnění aktuálně od MZČR". Onemocneni-aktualne.mzcr.cz. Retrieved 6 April 2020.
+
+^ "COVID-19 infections in U.S. may be much higher, new estimates show". sciencedaily.com. Retrieved 18 March 2020.
+
+^ "Czech Republic Cancels Flights, Bars Fans From Races Over Coronavirus". The New York Times. 2 March 2020. ISSN 0362-4331. Retrieved 4 March 2020.
+
+^ "Matce v Praze odhalila koronavirus soukromá klinika. Školáci jsou v izolaci – idnes.cz". Mladá fronta DNES (in Czech). 4 March 2020. Retrieved 4 March 2020.
+
+^ "Počet nakažených koronavirem stoupl na 12, mezi nimi muž a dítě z Prahy". mzcr.cz. 5 March 2020. Retrieved 5 March 2020.
+
+^ "Primátor Hřib předběhl hygieniky, ministra i premiéra a ohlásil nový, ovšem nepotvrzený, případ koronaviru". novinky.cz (in Czech). Retrieved 4 March 2020.
+
+^   "Testy prokázaly další tří případy koronaviru v Česku, celkem je jich osm". Mladá fronta DNES (in Czech). 4 March 2020. Retrieved 4 March 2020.
+
+^ "Pacientka v Ústí je první nakaženou koronavirem až na území Česka". Mladá fronta DNES (in Czech). 6 March 2020. Retrieved 6 March 2020.
+
+^   "19 cases confirmed, one of them is an infant". Echo24.cz. 6 March 2020. Retrieved 6 March 2020.
+
+^   "Adam Vojtech's Twitter (Czech Minister of Health)". Adam Vojtech – via Twitter.
+
+^ "3 Who Attended Biogen Meeting in Boston Test Positive for Coronavirus". nbcboston.com.
+
+^   "19 cases of coronavirus in the Czech Republic, age from 1 to 68". Mladá fronta DNES (in Czech). Retrieved 6 March 2020.
+
+^        "19 cases of coronavirus in the Czech Republic, age from 1 to 68". Mladá fronta DNES (in Czech). Retrieved 6 March 2020.
+
+^    "Koronavirus: 32 případů, kontroly na hranicích i omezení v domovech seniorů". Mladá fronta DNES (in Czech). 8 March 2020. Retrieved 8 March 2020.
+
+^   "Twitter update from Minister of Health". Retrieved 8 March 2020 – via Twitter.
+
+^ "Twitter update from Minister of Health". Retrieved 8 March 2020 – via Twitter.
+
+^    "V Česku je 35 případů nákazy novým koronavirem. Přibyly na Zlínsku a v Praze". ct24.ceskatelevize.cz. Retrieved 9 March 2020.
+
+^ "Minister of Health announces case 36". AdamVojtech. Retrieved 9 March 2020 – via Twitter.
+
+^ "Minister of Health announces case 37". AdamVojtech. Retrieved 9 March 2020 – via Twitter.
+
+^ "Ztráta kontroly nad koronavirem? Taxikář je zlomový případ, řekl Prymula". Mladá fronta DNES (in Czech). 9 March 2020. Retrieved 10 March 2020.
+
+^ "Řidič Uberu byl podle hygieny v kontaktu s téměř stovkou lidí. Nakazit ho mohli němečtí klienti Airbnb". iROZHLAS.
+
+^ "Minister of Health announces case 39". AdamVojtech. Retrieved 10 March 2020 – via Twitter.
+
+^ "Minister of Health announces case 40". AdamVojtech. Retrieved 10 March 2020 – via Twitter.
+
+^ "Sedmým vyléčeným je Japonec z Prostějova, byl přitom ve vážném stavu". Mladá fronta DNES. 23 March 2020. Retrieved 6 April 2020.
+
+^ Tauberová, Daniela (10 March 2020). "Prostejov reports the first case of coronavirus disease". Prostějovský Deník. Retrieved 10 March 2020.
+
+^ "Koronavirus was first brought by a skier from Austria, reports hygienists from Pardubice". novinky.cz. Retrieved 10 March 2020.
+
+^    "Rapid increase. There are already 61 people infected with new coronavirus in the Czech Republic". Mladá fronta DNES (in Czech). 10 March 2020. Retrieved 10 March 2020.
+
+^   Tauberová, Daniela (10 March 2020). "The Olomouc Region already has 3 infected with coronavirus". Olomoucký Deník. Retrieved 10 March 2020.
+
+^ "Minister of Health announces case 64". AdamVojtechAno. Retrieved 10 March 2020 – via Twitter.
+
+^    "Coronavirus first reported by laboratory from Brno, 67 infected in total". Mladá fronta DNES (in Czech). 11 March 2020. Retrieved 11 March 2020.
+
+^ "Koronavirus potvrzen i v Brně, onemocněla i 84letá žena". novinky.cz. Retrieved 11 March 2020.
+
+^ "Already 94 infected. If spread speeds up we will close the border". Mladá fronta DNES (in Czech). 11 March 2020. Retrieved 11 March 2020.
+
+^     "Infected count topped 100, half of infected are in Prague, said Babis". Mladá fronta DNES (in Czech). 12 March 2020. Retrieved 12 March 2020.
+
+^ "A nurse from Frydek-Mistek hospital has been infected. She had no travel history". irozhlas.cz. Retrieved 13 March 2020.
+
+^ "Ministry of Foreign Affairs stops issuing visas for Chinese citizens". novinky.cz. Retrieved 30 January 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 30 April 2020.
+
+^ "Government bans direct flights from China due to coronavirus". novinky.cz. Retrieved 3 February 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 30 April 2020.
+
+^ "Allie" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Korea data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "The Czech Republic has 5 new infections, total has grown to 26". iRozhlas.cz. Retrieved 7 March 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 30 April 2020.
+
+^   "Ministerstvo zdravotnictví vydalo nové mimořádné opatření týkající se karantény osob, které se vracejí z Itálie". mzcr.cz.
+
+^ "The Czech Republic has 26 infected. Mandatory quarantine also for foreigners". Mladá fronta DNES (in Czech). 7 March 2020. Retrieved 7 March 2020.
+
+^ File:Mimořádné opatření - zákaz vývozu všech respirátorů třídy FFP3 mimo ČR.pdf
+
+^ "Prodej" (PDF). upload.wikimedia.org. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 8 April 2020.
+
+^ "Aikaz" (PDF). upload.wikimedia.org. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 30 April 2020.
+
+^ "Sbirka". aplikace.mvcr.cz. Retrieved 6 April 2020.
+
+^ "Info". aplikace.mvcr.cz. Retrieved 6 April 2020.
+
+^ "MIMOŘÁDNÉO PATŘENÍ" (PDF). upload.wikimedia.org. 2020. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Cizinci, kteří překročí hranice ČR, budou kontrolováni na příznaky infekčního onemocnění". mzcr.cz.
+
+^ "Aktualne" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^   "Výjimky z omezení cestování – Ministerstvo vnitra České republiky". Retrieved 16 October 2020.
+
+^           "Info". aplikace.mvcr.cz. Retrieved 30 April 2020.
+
+^   "Data" (PDF). mzcr.cz. 15 May 2020. Retrieved 23 May 2020.
+
+^ "Karanténu pro kontakty nakažených osob budou nově na dálku rozhodovat praktičtí lékaři". mzcr.cz.
+
+^   "Travel ban". aplikace.mvcr.cz. Retrieved 6 April 2020.
+
+^ "Info" (PDF). mzcr.cz. Retrieved 14 April 2020.
+
+^ "Ministerstvo zdravotnictví zakazuje návštěvy všem poskytovatelům zdravotních služeb lůžkové péče a zařízením sociálních služeb". mzcr.cz.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^   "Mimořádná opatření Ministerstva zdravotnictví zakazují konání hromadných akcí nad 100 osob i výuku na školách". mzcr.cz.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^    "Opatreni" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 14 April 2020.
+
+^     "Data". aplikace.mvcr.cz. Retrieved 9 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Usenesni" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^    "Data". aplikace.mvcr.cz. Retrieved 9 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^    "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Info" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Info" (PDF). mzcr.cz. Retrieved 8 April 2020.
+
+^   "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^   "Info" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^   "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Odpovědi na nejčastější dotazy podnikatelů ohledně aktuálních opatření proti šíření koronaviru". BusinessInfo.cz. Retrieved 23 May 2020.
+
+^ "Media centrum" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ Jakub Fajnor, tiskové oddělení MO (19 March 2020). "V Litovli na Olomoucku jsou ode dneška nasazeni příslušníci Armády ČR a Vojenské policie | Ministerstvo obrany". Acr.army.cz. Retrieved 6 April 2020.
+
+^ "Hygienici zavřeli Litovel, Uničov a 19 obcí. V izolaci je 24 tisíc lidí". Mladá fronta DNES. 16 March 2020.
+
+^ "Kynice opouští po dvou týdnech karanténu. V izolaci zůstávají pouze nemocní, hasiči části obce dezinfikují | iROZHLAS – spolehlivé zprávy". Irozhlas.cz. 1 April 2020. Retrieved 6 April 2020.
+
+^ "Hygienici zcela uzavřeli Kynice, kde se virus rozšířil na hasičské zábavě – Novinky.cz". novinky.cz.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 30 April 2020.
+
+^ "Info" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "Info" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "Info" (PDF). mzcr.cz. Retrieved 8 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 11 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 11 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). upload.wikimedia.org. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 11 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 9 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 9 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 23 May 2020.
+
+^ Mimořádné opatření MZDR 12501/2020-3/MIN/KAN, Ministry of Health
+
+^ "Soubor" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^    "23 March resolutions". aplikace.mvcr.cz. Retrieved 6 April 2020.
+
+^ "State of Emergency" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Hlasování Poslanecké sněmovny – 43/8". Psp.cz. Retrieved 8 April 2020.
+
+^    "Info". aplikace.mvcr.cz. Retrieved 14 April 2020.
+
+^ "Borders limited" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Opatrina" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^     "Data". aplikace.mvcr.cz. Retrieved 9 May 2020.
+
+^ "Limited travel ban" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Complete travel ban" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Armáda podpoří jednotky IZS na hraničních přechodech". mocr.army.cz.
+
+^ "Armáda pošle kvůli koronaviru na hranice až 2 100 vojáků – Natoaktual.cz". natoaktual.cz. 13 March 2020.
+
+^ "Info". aplikace.mvcr.cz. Retrieved 11 April 2020.
+
+^ "Info". aplikace.mvcr.cz. Retrieved 11 April 2020.
+
+^ "Info" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Data" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ "Data". aplikace.mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 9 May 2020.
+
+^ "Trucks on Sundays" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ Gawron, Tomáš (3 April 2020). "COVID-19: Umožňují krizová opatření zachování prodeje zbraní a střeliva? [COVID-19: Is it possible to continue sales of guns and ammunition under the crisis measures?]". gawron.cz. Retrieved 3 April 2020.
+
+^ "Zajistovani". mvcr.cz. Retrieved 6 April 2020.
+
+^ Včera 14:56Stanislav Ptáčník, Právo. "Práci v lesích našly stovky brigádníků". Novinky.cz. Retrieved 9 April 2020.
+
+^ "Aktualne" (PDF). vlada.cz. Retrieved 6 April 2020.
+
+^ Adam Vojtěch (28 March 2020). "Ministerstvo vyčlení v nemocnicích stovky lůžek pro nakažené seniory. Aktivuje i Těchonín | iROZHLAS – spolehlivé zprávy". Irozhlas.cz. Retrieved 6 April 2020.
+
+^ "Data". apps.odok.cz. Retrieved 6 April 2020.
+
+^ "Remdisivir" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^   "Info" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ "HYDROXYCHLOROQUINE-SULFAAT" (PDF). mzcr.cz. Retrieved 8 April 2020.
+
+^ "Rozhodnutí o dočasném povolení neregistrovaného humánního léčivého přípravku HYDROXYCHLOROQUINE SULFATE TABLETS". Mzcr.cz. 30 April 2020. Retrieved 9 May 2020.
+
+^ "Data" (PDF). mzcr.cz. 2020. Retrieved 20 April 2020.
+
+^ "Data" (PDF). mzcr.cz. Retrieved 6 April 2020.
+
+^ Autor ave, kac zdroj: ČT24, Ministerstvo zdravotnictví. "Jak si vyrobit nouzovou roušku bez šití? Sociální sítě radí kus látky, ministerstvo i papírový kapesník — ČT24 — Česká televize". Ct24.ceskatelevize.cz. Retrieved 6 April 2020.{{cite web}}:  CS1 maint: multiple names: authors list (link)
+
+^ Michal Burda (18 March 2020). "Pomoc nejohroženějším: seniorům přivezou nákupy až domů – Zlínský deník". Zlínský Deník. Zlinsky.denik.cz. Retrieved 6 April 2020.
+
+^ "Nalaďte se na ČT3 — Česká televize". Ceskatelevize.cz. Retrieved 6 April 2020.
+
+^ "A mask-tree as a form of solidarity". Radio.cz. 23 March 2020. Retrieved 27 September 2021.
+
+^ Janni Vorlíček (23 March 2020). "Vietnamská komunita se složila na plicní ventilátory pro ústeckou nemocnici – Ústecký deník". Ústecký Deník. Ustecky.denik.cz. Retrieved 6 April 2020.
+
+^ 16. 3. 2020, 10:52Jana Perglová, Právo. "Česká televise začíná učit děti základních škol". Novinky.cz. Retrieved 6 April 2020.{{cite web}}:  CS1 maint: multiple names: authors list (link)
+
+^ Josef Průša (19 March 2020). "Prusa Research a boj s koronavirem: jak je důležité být připraven – Josef Prusa – 3D tisk a tiskárny Josef Prusa – 3D tisk a tiskárny". Josefprusa.cz. Retrieved 6 April 2020.
+
+^ Josef Průša (19 March 2020). "Aktualizováno 30.3. – Od návrhu k hromadnému 3D tisku zdravotnických štítů během tří dnů". Josefprusa.cz. Retrieved 6 April 2020.
+
+^ "Zakázali mi vyrábět dezinfekci, stěžuje si Žufánek. O povolení nestál, říkají celníci". Aktuálně.cz – Víte, co se právě děje (in Czech). 23 March 2020. Retrieved 6 April 2020.
+
+
+External links
+COVID-19 epidemic (Ministry of Healthcare, in English)
+COVID-19 statistics (Ministry of Healthcare)
+Epidemic curve in countries including the Czech Republic
+Interactive map of COVID-19 situation in the Czech Republic
+Coronavirus COVID-19 Global Cases and historical data by Johns Hopkins University
+vteCOVID-19 pandemic
+COVID-19 (disease)
+SARS-CoV-2 (virus)
+TimelinePre-pandemic
+Severe acute respiratory syndrome (SARS)
+Middle East respiratory syndrome (MERS)
+Crimson Contagion
+Disease X
+Event 201
+Exercise Cygnus
+2019
+2020
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2021
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+Omicron variant
+2022
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+Locations
+Africa
+Asia
+Europe
+North America
+Oceania
+South America
+Antarctica
+Cruise ships
+Naval ships
+ImpactCulture andentertainment
+Arts and cultural heritage
+References in popular culture
+Cinema
+films affected
+Disney
+Fashion industry
+Music industry
+Performing arts
+Television
+U.S.
+U.S. sports
+programs affected
+Video games
+Education
+female education
+homeschooling
+By country
+Ghana
+Ireland
+United Kingdom
+exam grading controversy
+United States
+Sports
+Bio-secure bubble
+By country
+Ireland
+Philippines
+By sport
+association football
+baseball
+basketball
+NBA
+combat sports
+cricket
+disc golf
+Gaelic games
+gridirion football (NCAAF, NFL, and CFL)
+ice hockey
+motorsport
+rugby league
+Society and rightsSocial impact
+social media
+stigma
+COVID-19 parties
+Labor
+Healthcare workers
+Indian migrant workers
+Great Resignation
+Strikes
+Human rights
+Argentina
+Hong Kong
+Myanmar
+North Korea
+Turkmenistan
+Legal
+abortion in the U.S.
+crime
+crime in Ireland
+domestic violence
+prisons
+U.S. immigration detention
+Minority
+Gender
+LGBT community
+African-American communities
+Native American communities
+Xenophobia and racism
+Children
+foster care in the U.S.
+Religion
+Catholic Church
+Hajj
+Economic
+Charitable activity
+COVID-19 scams
+Travel restrictions
+By country
+Canada
+India
+Ireland
+COVID-19 Pandemic Unemployment Payment
+Malaysia
+New Zealand
+Russia
+U.K.
+U.S.
+By industry
+Aviation
+Airlines
+Cannabis industry
+Food industry
+meat industry in Canada
+meat industry in the U.S.
+restaurant industry in the U.S.
+Hospitals
+ICU capacity
+Long-term care facilities
+Mink farming
+Public transport
+Retail
+Tourism
+Supply and trade
+Chip supply
+Energy
+Global supply chain
+Oil price war
+Food security
+Financial markets
+Global stock market crash
+COVID-19 recession
+Inflation
+Information
+Journalism
+Media coverage
+Wikipedia's response
+Misinformation
+Governments
+Canada
+China
+United States
+By country
+Philippines
+Ivermectin
+Plandemic
+Politics
+National responses
+Legislation
+European Union
+Political impact
+Ireland
+Malaysia
+Russia
+Protests
+Canada
+convoy protest
+Italy
+Germany
+Idar-Oberstein shooting
+the Netherlands
+New Zealand
+Serbia
+United Kingdom
+United States
+Open the States
+International relations
+Aid
+Italy
+Moldovan–Romanian collaboration
+Nicaragua–Taiwan relations
+Respirator diplomacy of Taiwan
+Vaccine diplomacy
+Language
+Anthropause
+Doomscrolling
+Flattening the curve
+Green recovery
+Living with COVID-19
+Long COVID
+Quarantini
+Social distancing
+Superspreader
+Zero-COVID
+Zoom
+Zoom towns
+Others
+Animals
+Cluster 5
+Environment
+Military
+Science and technology
+Health issuesMedical topics
+Transmission
+Symptoms
+Cancer
+Skin manifestations
+Long COVID
+Mental health
+neurological, psychological and other mental health outcomes
+Pregnancy
+Non-COVID-19–related health issues
+Shortages
+Raise the line
+Rehabilitation
+Unproven medical methods
+Testing andepidemiology
+Disease testing
+Breathalyzer
+Operation Moonshot
+Test to Release
+UK Rapid Test Consortium
+AbC-19 rapid antibody test
+Rapid antigen test
+investigations into the origins
+lab leak theory
+Surveillance
+Death rates by country
+Datasets
+Undercounting COVID-19 deaths
+Use and development of software
+Apps
+Aarogya Setu
+BlueTrace
+careFIJI
+Coronavirus Australia
+Corona-Warn-App
+COVID-19 Contact-Confirming Application
+COVID Alert (Canada)
+COVID AlertSA (South Africa)
+COVIDSafe
+COVID Symptom Study
+COVID Tracker Ireland
+Covid Watch
+Decentralized Privacy-Preserving Proximity Tracing
+Exposure Notification
+Health Code
+Healthy Together
+Immuni
+Koronavilkku
+LeaveHomeSafe
+MySejahtera
+NHS COVID-19
+NZ COVID Tracer
+NZ Pass Verifier
+PathCheck
+PeduliLindungi
+SafeEntry
+SafePass
+StaySafe.ph
+SwissCovid
+TCN Protocol
+Test, Trace, Protect
+Thai Chana
+TousAntiCovid
+TraceTogether
+Valtrace
+Prevention
+Public health mitigation
+Social distancing
+Face masks
+Anti-mask sentiment
+United States
+Flattening the curve
+Zero-COVID
+Workplace hazard controls
+Lockdowns
+Evacuations
+International aid
+Safe Hands Challenge
+COVID fatigue
+Great Barrington Declaration
+Chloroquine and hydroxychloroquine
+VaccinesTopics
+Development
+Clinical research
+Authorizations
+Deployment
+Post-vaccination complications
+Operation Warp Speed (U.S.)
+Vaccine passports
+Vaccine card
+EU Certificate
+Misinformation and hesitancy
+Deaths of anti-vaccine advocates
+US
+AuthorizedDNA
+ZyCoV-D
+Inactivated
+Chinese Academy of Medical Sciences
+CoronaVac
+Covaxin
+COVIran Barekat
+CoviVac (Russia)
+FAKHRAVAC
+Minhai
+QazCovid-in
+Sinopharm BIBP
+Sinopharm WIBP
+Turkovac
+Valneva
+mRNA
+Moderna
+Pfizer–BioNTech
+Subunit
+Abdala
+Corbevax (Bio E COVID-19)
+COVAX-19
+EpiVacCorona
+MVC
+Noora
+Novavax
+Razi Cov Pars
+Sinopharm CNBG
+Soberana 02
+Soberana Plus
+ZF2001 (Zifivax)
+Viral vector
+Convidecia
+Janssen
+Oxford–AstraZeneca
+Sputnik V
+Sputnik Light
+Virus-like particles
+CoVLP
+In trialsAttenuated
+COVI-VAC (United States)
+DNA
+AG0302-COVID‑19
+GX-19
+Inovio
+Inactivated
+KD-414
+NDV-HXP-S
+RNA
+ARCT-021
+ARCT-154
+Bangavax
+CureVac (terminated)
+HGC019
+mRNA-1283
+PTX-COVID19-B
+Sanofi–Translate Bio (terminated)
+Stemirna COVID-19 vaccine
+Walvax
+Subunit
+202-CoV
+AKS-452
+EuCorVac-19
+IVX-411
+Nanocovax
+ReCOV
+Sanofi–GSK
+S-268019
+SCB-2019
+SCTV01C
+SKYCovione
+UB-612
+V-01
+V451 (terminated)
+Vabiotech
+West China Hospital
+Zhongyianke Biotech–Liaoning Maokangyuan Biotech‎
+Viral vector
+AdCLD-CoV19
+BBV154
+BriLife
+COH04S1
+DelNS1-2019-nCoV-RBD-OPT
+GRAd-COV2
+ImmunityBio
+INNA-051
+NDV-HXP-S
+Vaxart COVID-19 vaccine
+Virus-like particles
+ABNCoV2
+LYB001
+MigVax-101
+VBI-2902
+Deploymentby locationAfrica
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Cape Verde
+Cameroon
+Chad
+Comoros
+Democratic Republic of the Congo
+Djibouti
+Egypt
+Equatorial Guinea
+Eswatini
+Ghana
+Morocco
+Nigeria
+Senegal
+South Africa
+Zimbabwe
+Asia
+Bangladesh
+Bhutan
+Mainland China
+India
+Indonesia
+Iran
+Israel
+Japan
+Kazakhstan
+Malaysia
+Nepal
+Philippines
+Russia
+Singapore
+South Korea
+Sri Lanka
+Taiwan
+Thailand
+Turkey
+United Arab Emirates
+Vietnam
+Europe
+Albania
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Denmark
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Moldova
+Norway
+Portugal
+Romania
+Russia
+Spain
+Sweden
+Switzerland
+Ukraine
+United Kingdom
+North America
+Canada
+Ontario
+Quebec
+Cuba
+Haiti
+Mexico
+United States
+mandates
+Oceania
+Australia
+Fiji
+New Zealand
+South America
+Argentina
+Brazil
+Colombia
+Peru
+Others
+Antarctica
+Treatment
+Drug development
+Drug repurposing research
+Dexamethasone
+Baricitinib
+RECOVERY Trial (UK)
+Solidarity trial (WHO)
+PANORAMIC trial (UK)
+Open-source ventilator
+Extracorporeal membrane oxygenation
+Monoclonal antibodies
+Bamlanivimab/etesevimab
+Bamlanivimab
+Etesevimab
+Bebtelovimab
+Casirivimab/imdevimab
+Regdanvimab
+Sarilumab
+Sotrovimab
+Tixagevimab/cilgavimab
+Tocilizumab
+Small molecule antivirals
+Broad-spectrum
+Remdesivir
+Molnupiravir
+Co-packaged
+Nirmatrelvir
+ritonavir
+Variants
+Alpha
+Beta
+Gamma
+Delta
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Omicron
+timeline
+Cluster 5
+Lineage B.1.617
+Lineage B.1.640.2
+Variant of concern
+InstitutionsHospitals andmedical clinicsMainland China
+Central Hospital of Wuhan
+Dabie Mountain Regional Medical Centre
+Fangcang hospitals
+Huoshenshan Hospital
+Leishenshan Hospital
+Xinjia Express Hotel
+Wuhan Jinyintan Hospital
+Others
+Hospital ships
+Canberra Coronavirus Field Hospital (Australia)
+Hospital El Salvador
+SevenHills Hospital (India)
+Kemayoran Athletes Village (Indonesia)
+Pyongyang General Hospital (North Korea)
+Malaysia Agro Exposition Park Serdang (Malaysia)
+Mega Ligtas COVID Centers (Philippines)
+Kandakadu Treatment and Rehabilitation Centre (Sri Lanka)
+Sancaktepe Prof. Dr. Feriha Öz Emergency Hospital (Turkey)
+Yeşilköy Prof. Dr. Murat Dilmener Emergency Hospital (Turkey)
+COVID-19 hospitals in the United Kingdom
+Dragon's Heart Hospital (Wales)
+NHS Louisa Jordan (Scotland)
+NHS Nightingale Hospitals (England)
+Birmingham
+London
+North East
+North West
+Yorkshire and the Humber
+OrganizationsGlobal
+Coalition for Epidemic Preparedness Innovations
+Coronavirus Tech Handbook
+COVID-19 Solidarity Response Fund
+Covid Watch
+EcoHealth Alliance
+International Committee on Taxonomy of Viruses
+Joint Committee on Vaccination and Immunisation
+MusiCares COVID-19 Relief Fund
+Pasteur Institute
+in Cambodia
+UN COVID-19 Supply Chain Task Force (WHO)
+United Nations
+resolutions
+World Health Organization
+By location
+National Cabinet (Australia)
+ScienceUpFirst (Canada)
+Wuhan Institute of Virology (China)
+Independent SAGE (United Kingdom)
+Healthinstitutes
+Africa Centres for Disease Control and Prevention (African Union)
+Ghana Infectious Disease Centre (Ghana)
+Department of Health (Hong Kong)
+Korea Disease Control and Prevention Agency (South Korea)
+National Institute for Communicable Diseases (South Africa)
+Taiwan Centers for Disease Control (Taiwan)
+Pandemicinstitutes
+National COVID-19 Commission Advisory Board (Australia)
+COVID-19 Immunity Task Force (Canada)
+COVID-19 Supply Council (Canada)
+PREPARE (European Union)
+National Expert Group on Vaccine Administration for COVID-19 (India)
+COVID-19 Response Acceleration Task Force (Indonesia)
+National Public Health Emergency Team (Ireland)
+Novel Coronavirus Expert Meeting (Japan)
+Crisis Preparedness and Response Centre (Malaysia)
+Defeat COVID-19 Ad Hoc Committee (Philippines)
+Inter-Agency Task Force for the Management of Emerging Infectious Diseases (Philippines)
+Central Epidemic Command Center (Taiwan)
+Coronavirus Scientific Advisory Board (Turkey)
+COVID-19 Genomics UK Consortium (United Kingdom)
+Imperial College COVID-19 Response Team (United Kingdom)
+Joint Biosecurity Centre (United Kingdom)
+Vaccine Taskforce (United Kingdom)
+COVID-19 Advisory Board (United States)
+Great American Economic Revival Industry Groups (United States)
+White House Coronavirus Task Force (United States)
+White House COVID-19 Response Team (United States)
+GACH (Uruguay)
+Relief funds
+PM CARES Fund (India)
+SAARC COVID-19 Emergency Fund (India)
+Artist Relief (United States)
+PeopleMedicalprofessionals
+Ai Fen
+Corona Rintawan
+Li Wenliang
+Liu Wen
+Xie Linka
+Zhang Wenhong
+Researchers
+Awang Bulgiba Awang Mahmud
+Roberto Burioni
+Chen Wei
+Kizzmekia Corbett
+Andrea Crisanti
+Peter Daszak
+Christian Drosten
+Neil Ferguson
+Dale Fisher
+George F. Gao
+Azra Ghani
+Sarah Gilbert
+Guan Yi
+Kentaro Iwata
+Katalin Karikó
+Matt Keeling
+Trudie Lang
+Li Lanjuan
+W. Ian Lipkin
+Ma Xiaowei
+Shabir Madhi
+Allison McGeer
+Camilla Rothe
+Shi Zhengli
+Moncef Slaoui
+Mike Tildesley
+John Todd
+Wang Chen
+Wang Guangfa
+Drew Weissman
+Yuen Kwok-yung
+Zeng Guang
+Zhang Jixian
+Zhang Yongzhen
+Zhong Nanshan
+OfficialsWHO
+Tedros Adhanom (Director-General of the WHO)
+Bruce Aylward (Team lead of WHO-China COVID-19 mission)
+Maria Van Kerkhove (Technical Lead for COVID-19 response)
+Michael J. Ryan (Executive Director of the WHO Health Emergencies Programme)
+By location
+Frank Atherton (Wales)
+Ashley Bloomfield (New Zealand)
+Catherine Calderwood (Scotland)
+Chang Shan-chwen (Taiwan)
+Anutin Charnvirakul (Thailand)
+Chen Shih-chung (Taiwan)
+Kenneth Chuang Yin-ching (Taiwan)
+Victor Costache (Romania)
+Fabrizio Curcio (Italy)
+Carmen Deseda (Puerto Rico)
+Jaap van Dissel (the Netherlands)
+Christian Drosten (Germany)
+Francisco Duque III (Philippines)
+Anthony Fauci (United States)
+Francesco Paolo Figliuolo (Italy)
+Graça Freitas (Portugal)
+Henrique Gouveia e Melo (Portugal)
+Matt Hancock (United Kingdom)
+Hamad Hasan (Lebanon)
+Greg Hunt (Australia)
+Tony Holohan (Ireland)
+Jeong Eun-kyeong (South Korea)
+Fahrettin Koca (Turkey)
+Li Keqiang (China)
+Hugo López-Gatell Ramírez (Mexico)
+Michael McBride (Northern Ireland)
+Oriol Mitjà (Andorra)
+Zweli Mkhize (South Africa)
+Doni Monardo (Indonesia)
+Alma Möller (Iceland)
+Saeed Namaki (Iran)
+Ala Nemerenco (Moldova)
+Nguyễn Thanh Long (Vietnam)
+Noor Hisham Abdullah (Malaysia)
+Ali Pilli (Northern Cyprus)
+Daniel Salinas (Uruguay)
+Jérôme Salomon (France)
+Fernando Simón (Spain)
+Gregor Smith (Scotland)
+Su Ih-jen (Taiwan)
+Łukasz Szumowski (Poland)
+Theresa Tam (Canada)
+Anders Tegnell (Sweden)
+Þórólfur Guðnason (Iceland)
+Sotiris Tsiodras (Greece)
+Harsh Vardhan (India)
+Víðir Reynisson (Iceland)
+Carla Vizzotti (Argentina)
+Vlad Voiculescu (Romania)
+Chris Whitty (United Kingdom)
+Lawrence Wong (Singapore)
+Jeffrey Zients (United States)
+Others
+Chen Qiushi
+Brett Crozier
+Fang Bin
+Fang Fang
+Joseph Ashitey Hammond
+Li Zehua
+Captain Tom Moore
+Qiu Menghuang
+Ren Zhiqiang
+DeathsListData (templates)
+Cases, deaths, recoveries by country
+WHO situation reports
+cases
+January 2020
+February 2020
+March 2020
+April 2020
+May 2020
+June 2020
+July 2020
+August 2020
+September 2020
+October 2020
+November 2020
+December 2020
+January 2021
+February 2021
+March 2021
+April 2021
+May 2021
+June 2021
+July 2021
+deaths
+World map by countries: confirmed per capita
+Hospital beds by country
+Lockdowns
+
+ COVID-19 portal
+ Category
+
+Portals: COVID-19 Czech Republic Medicine Viruses
+
+

@@ -1,0 +1,32 @@
+
+Semiconductor materials are nominally small band gap insulators. The defining property of a semiconductor material is that it can be compromised by doping it with impurities that alter its electronic properties in a controllable way. 
+Because of their application in the computer and photovoltaic industry—in devices such as transistors, lasers, and solar cells—the search for new semiconductor materials and the improvement of existing materials is an important field of study in materials science.
+Most commonly used semiconductor materials are crystalline inorganic solids. These materials are classified according to the periodic table groups of their constituent atoms.
+Different semiconductor materials differ in their properties.  Thus, in comparison with silicon, compound semiconductors have both advantages and disadvantages.  For example, gallium arsenide (GaAs) has six times higher electron mobility than silicon, which allows faster operation; wider band gap, which allows operation of power devices at higher temperatures, and gives lower thermal noise to low power devices at room temperature; its direct band gap gives it more favorable optoelectronic properties than the indirect band gap of silicon; it can be alloyed to ternary and quaternary compositions, with adjustable band gap width, allowing light emission at chosen wavelengths, which makes possible matching to the wavelengths most efficiently transmitted through optical fibers. GaAs can be also grown in a semi-insulating form, which is suitable as a lattice-matching insulating substrate for GaAs devices. Conversely, silicon is robust, cheap, and easy to process, whereas GaAs is brittle and expensive, and insulation layers can not be created by just growing an oxide layer; GaAs is therefore used only where silicon is not sufficient.
+By alloying multiple compounds, some semiconductor materials are tunable, e.g., in band gap or lattice constant. The result is ternary, quaternary, or even quinary compositions. Ternary compositions allow adjusting the band gap within the range of the involved binary compounds; however, in case of combination of direct and indirect band gap materials there is a ratio where indirect band gap prevails, limiting the range usable for optoelectronics; e.g. AlGaAs LEDs are limited to 660 nm by this. Lattice constants of the compounds also tend to be different, and the lattice mismatch against the substrate, dependent on the mixing ratio, causes defects in amounts dependent on the mismatch magnitude; this influences the ratio of achievable radiative/nonradiative recombinations and determines the luminous efficiency of the device. Quaternary and higher compositions allow adjusting simultaneously the band gap and the lattice constant, allowing increasing radiant efficiency at wider range of wavelengths; for example AlGaInP is used for LEDs. Materials transparent to the generated wavelength of light are advantageous, as this allows more efficient extraction of photons from the bulk of the material. That is, in such transparent materials, light production is not limited to just the surface. Index of refraction is also composition-dependent and influences the extraction efficiency of photons from the material.
+Group IV elemental semiconductors, (C, Si, Ge, Sn)
+Group IV compound semiconductors
+Group VI elemental semiconductors, (S, Se, Te)
+III–V semiconductors: Crystallizing with high degree of stoichiometry, most can be obtained as both n-type and p-type. Many have high carrier mobilities and direct energy gaps, making them useful for optoelectronics. (See also: Template:III-V compounds.)
+II–VI semiconductors: usually p-type, except ZnTe and ZnO which are n-type
+I–VII semiconductors
+IV–VI semiconductors
+V–VI semiconductors
+II–V semiconductors
+I-III-VI2 semiconductors
+Oxides
+Layered semiconductors
+Magnetic semiconductors
+Organic semiconductors
+Charge-transfer complexes
+OthersA compound semiconductor is a semiconductor compound composed of chemical elements of at least two different species. These semiconductors form for example in periodic table groups 13–15 (old groups III–V), for example of elements from the Boron group (old group III, boron, aluminium, gallium, indium) and from group 15 (old group V, nitrogen, phosphorus, arsenic, antimony, bismuth). The range of possible formulae is quite broad because these elements can form binary (two elements, e.g. gallium(III) arsenide (GaAs)), ternary (three elements, e.g. indium gallium arsenide (InGaAs)) and quaternary alloys (four elements) such as aluminium gallium indium phosphide (AlInGaP)) alloy and Indium arsenide antimonide phosphide (InAsSbP). The properties of III-V compound semiconductors are similar to their group IV counterparts. The higher ionicity in these compounds, and especially in the II-VI compound, tends to increase the fundamental bandgap with respect to the less ionic compounds.
+Metalorganic vapor-phase epitaxy (MOVPE) is the most popular deposition technology for the formation of compound semiconducting thin films for devices. It uses ultrapure metalorganics and/or hydrides as precursor source materials in an ambient gas such as hydrogen.
+Other techniques of choice include:
+Molecular-beam epitaxy (MBE)
+Hydride vapor-phase epitaxy (HVPE)
+Liquid phase epitaxy (LPE)
+Metal-organic molecular-beam epitaxy (MOMBE)
+Atomic layer deposition (ALD)The following semiconducting systems can be tuned to some extent, and represent not a single material but a class of materials.
+Heterojunction
+Organic semiconductors
+Semiconductor characterization techniques

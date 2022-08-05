@@ -1,0 +1,1050 @@
+In mathematics, a (real) interval is a set of real numbers that contains all real numbers lying between any two numbers of the set. For example, the set of numbers x satisfying 0 ≤ x ≤ 1 is an interval which contains 0, 1, and all numbers in between. Other examples of intervals are the set of numbers such that 0 < x < 1, the set of all real numbers 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+, the set of nonnegative real numbers, the set of positive real numbers, the empty set, and any singleton (set of one element).
+Real intervals play an important role in the theory of integration, because they are the simplest sets whose "length" (or "measure" or "size") is easy to define. The concept of measure can then be extended to more complicated sets of real numbers, leading to the Borel measure and eventually to the Lebesgue measure.
+Intervals are central to interval arithmetic, a general numerical computing technique that automatically provides guaranteed enclosures for arbitrary formulas, even in the presence of uncertainties, mathematical approximations, and arithmetic roundoff.
+Intervals are likewise defined on an arbitrary totally ordered set, such as integers or rational numbers. The notation of integer intervals is considered in the special section below.
+An open interval does not include its endpoints, and is indicated with parentheses. For example, (0,1) means greater than 0 and less than 1. This means (0,1) = {x | 0 < x < 1}.
+This interval can also be denoted by ]0,1[, see below. 
+A closed interval is an interval which includes all its limit points, and is denoted with square brackets. For example, [0,1] means greater than or equal to 0 and less than or equal to 1. 
+A half-open interval includes only one of its endpoints, and is denoted by mixing the notations for open and closed intervals. For example, (0,1] means greater than 0 and less than or equal to 1, while [0,1) means greater than or equal to 0 and less than 1.
+A degenerate interval is any set consisting of a single real number (i.e., an interval of the form [a,a]). Some authors include the empty set in this definition. A real interval that is neither empty nor degenerate is said to be proper, and has infinitely many elements.
+An interval is said to be left-bounded or right-bounded, if there is some real number that is, respectively, smaller than or larger than all its elements. An interval is said to be bounded, if it is both left- and right-bounded; and is said to be unbounded otherwise. Intervals that are bounded at only one end are said to be half-bounded. The empty set is bounded, and the set of all reals is the only interval that is unbounded at both ends. Bounded intervals are also commonly known as finite intervals.
+Bounded intervals are bounded sets, in the sense that their diameter (which is equal to the absolute difference between the endpoints) is finite.  The diameter may be called the length, width, measure, range, or size of the interval. The size of unbounded intervals is usually defined as +∞, and the size of the empty interval may be defined as 0 (or left undefined).
+The centre (midpoint) of bounded interval with endpoints a and b is (a + b)/2, and its radius is the half-length |a − b|/2. These concepts are undefined for empty or unbounded intervals.
+An interval is said to be left-open if and only if it contains no minimum (an element that is smaller than all other elements); right-open if it contains no maximum; and open if it has both properties. The interval [0,1) = {x | 0 ≤ x < 1}, for example, is left-closed and right-open. The empty set and the set of all reals are open intervals, while the set of non-negative reals, is a right-open but not left-open interval. The open intervals are open sets of the real line in its standard topology, and form a base of the open sets.
+An interval is said to be left-closed if it has a minimum element, right-closed if it has a maximum, and simply closed if it has both. These definitions are usually extended to include the empty set and the (left- or right-) unbounded intervals, so that the closed intervals coincide with closed sets in that topology.
+The interior of an interval I is the largest open interval that is contained in I; it is also the set of points in I which are not endpoints of I. The closure of I is the smallest closed interval that contains I; which is also the set I augmented with its finite endpoints.
+For any set X of real numbers, the interval enclosure or interval span of X is the unique interval that contains X, and does not properly contain any other interval that also contains X.
+An interval I is subinterval of interval J if I is a subset of J. An interval I is a proper subinterval of J if I is a proper subset of J.
+The terms segment and interval have been employed in the literature in two essentially opposite ways, resulting in ambiguity when these terms are used. The Encyclopedia of Mathematics defines interval (without a qualifier) to exclude both endpoints (i.e., open interval) and segment to include both endpoints (i.e., closed interval), while Rudin's Principles of Mathematical Analysis calls sets of the form [a, b] intervals and sets of the form (a, b) segments throughout. These terms tend to appear in older works; modern texts increasingly favor the term interval (qualified by open, closed, or half-open), regardless of whether endpoints are included.
+The interval of numbers between a and b, including a and b, is often denoted [a, b]. The two numbers are called the endpoints of the interval. In countries where numbers are written with a decimal comma, a semicolon may be used as a separator to avoid ambiguity.
+To indicate that one of the endpoints is to be excluded from the set, the corresponding square bracket can be either replaced with a parenthesis, or reversed. Both notations are described in International standard ISO 31-11. Thus, in set builder notation,
+
+
+
+
+
+
+
+
+
+
+(
+
+
+a
+,
+b
+
+
+)
+
+
+=
+
+
+
+]
+
+
+
+a
+,
+b
+
+
+
+[
+
+
+
+
+
+
+=
+{
+x
+∈
+
+R
+
+∣
+a
+
+
+
+
+<
+
+
+
+
+x
+
+
+
+
+<
+
+
+
+
+b
+}
+,
+
+
+
+
+
+
+
+
+[
+
+
+a
+,
+b
+
+
+)
+
+
+=
+
+
+
+[
+
+
+
+a
+,
+b
+
+
+
+[
+
+
+
+
+
+
+=
+{
+x
+∈
+
+R
+
+∣
+a
+
+
+
+
+≤
+
+
+
+
+x
+
+
+
+
+<
+
+
+
+
+b
+}
+,
+
+
+
+
+
+
+
+
+(
+
+
+a
+,
+b
+
+
+]
+
+
+=
+
+
+
+]
+
+
+
+a
+,
+b
+
+
+
+]
+
+
+
+
+
+
+=
+{
+x
+∈
+
+R
+
+∣
+a
+
+
+
+
+<
+
+
+
+
+x
+
+
+
+
+≤
+
+
+
+
+b
+}
+,
+
+
+
+
+
+
+
+
+[
+
+
+a
+,
+b
+
+
+]
+
+
+=
+
+
+
+[
+
+
+
+a
+,
+b
+
+
+
+]
+
+
+
+
+
+
+=
+{
+x
+∈
+
+R
+
+∣
+a
+
+
+
+
+≤
+
+
+
+
+x
+
+
+
+
+≤
+
+
+
+
+b
+}
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\color {Maroon}(}a,b{\color {Maroon})}={\mathopen {\color {Maroon}]}}a,b{\mathclose {\color {Maroon}[}}&=\{x\in \mathbb {R} \mid a{\color {Maroon}{}<{}}x{\color {Maroon}{}<{}}b\},\\{}{\color {DarkGreen}[}a,b{\color {Maroon})}={\mathopen {\color {DarkGreen}[}}a,b{\mathclose {\color {Maroon}[}}&=\{x\in \mathbb {R} \mid a{\color {DarkGreen}{}\leq {}}x{\color {Maroon}{}<{}}b\},\\{}{\color {Maroon}(}a,b{\color {DarkGreen}]}={\mathopen {\color {Maroon}]}}a,b{\mathclose {\color {DarkGreen}]}}&=\{x\in \mathbb {R} \mid a{\color {Maroon}{}<{}}x{\color {DarkGreen}{}\leq {}}b\},\\{}{\color {DarkGreen}[}a,b{\color {DarkGreen}]}={\mathopen {\color {DarkGreen}[}}a,b{\mathclose {\color {DarkGreen}]}}&=\{x\in \mathbb {R} \mid a{\color {DarkGreen}{}\leq {}}x{\color {DarkGreen}{}\leq {}}b\}.\end{aligned}}}
+
+Each interval (a, a), [a, a), and (a, a] represents the empty set, whereas [a, a] denotes the singleton set {a}.  When a > b, all four notations are usually taken to represent the empty set.
+Both notations may overlap with other uses of parentheses and brackets in mathematics. For instance, the notation (a, b) is often used to denote an ordered pair in set theory, the coordinates of a point or vector in analytic geometry and linear algebra, or (sometimes) a complex number in algebra. That is why Bourbaki introduced the notation ]a, b[ to denote the open interval. The notation [a, b] too is occasionally used for ordered pairs, especially in computer science.
+Some authors use ]a, b[ to denote the complement of the interval (a, b); namely, the set of all real numbers that are either less than or equal to a, or greater than or equal to b.
+In some contexts, an interval may be defined as a subset of the extended real numbers, the set of all real numbers augmented with −∞ and +∞.
+In this interpretation, the notations [−∞, b] , (−∞, b] , [a, +∞] , and [a, +∞) are all meaningful and distinct. In particular, (−∞, +∞) denotes the set of all ordinary real numbers, while [−∞, +∞] denotes the extended reals. 
+Even in the context of the ordinary reals, one may use an infinite endpoint to indicate that there is no bound in that direction. For example, (0, +∞) is the set of positive real numbers, also written as 
+
+
+
+
+
+R
+
+
++
+
+
+
+
+{\displaystyle \mathbb {R} _{+}}
+
+. The context affects some of the above definitions and terminology. For instance, the interval (−∞, +∞) = 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ is closed in the realm of ordinary reals, but not in the realm of the extended reals.
+When a and b are integers, the notation ⟦a, b⟧, or [a .. b] or {a .. b} or just a .. b, is sometimes used to indicate the interval of all integers between a and b included. The notation [a .. b] is used in some programming languages; in Pascal, for example, it is used to formally define a subrange type, most frequently used to specify lower and upper bounds of valid indices of an array.
+An integer interval that has a finite lower or upper endpoint always includes that endpoint. Therefore, the exclusion of endpoints can be explicitly denoted by writing a .. b − 1 ,  a + 1 .. b , or  a + 1 .. b − 1.  Alternate-bracket notations like [a .. b) or [a .. b[ are rarely used for integer intervals.
+The intervals of real numbers can be classified into the eleven different types listed below, where a and b are real numbers, and 
+
+
+
+a
+<
+b
+
+
+{\displaystyle a<b}
+
+:
+Empty: 
+
+
+
+[
+b
+,
+a
+]
+=
+(
+b
+,
+a
+)
+=
+[
+b
+,
+a
+)
+=
+(
+b
+,
+a
+]
+=
+(
+a
+,
+a
+)
+=
+[
+a
+,
+a
+)
+=
+(
+a
+,
+a
+]
+=
+{
+}
+=
+∅
+
+
+{\displaystyle [b,a]=(b,a)=[b,a)=(b,a]=(a,a)=[a,a)=(a,a]=\{\}=\varnothing }
+
+
+Degenerate: 
+
+
+
+[
+a
+,
+a
+]
+=
+{
+a
+}
+
+
+{\displaystyle [a,a]=\{a\}}
+
+
+Proper and bounded:
+Open: 
+
+
+
+(
+a
+,
+b
+)
+=
+{
+x
+∣
+a
+<
+x
+<
+b
+}
+
+
+{\displaystyle (a,b)=\{x\mid a<x<b\}}
+
+
+Closed: 
+
+
+
+[
+a
+,
+b
+]
+=
+{
+x
+∣
+a
+≤
+x
+≤
+b
+}
+
+
+{\displaystyle [a,b]=\{x\mid a\leq x\leq b\}}
+
+
+Left-closed, right-open: 
+
+
+
+[
+a
+,
+b
+)
+=
+{
+x
+∣
+a
+≤
+x
+<
+b
+}
+
+
+{\displaystyle [a,b)=\{x\mid a\leq x<b\}}
+
+
+Left-open, right-closed: 
+
+
+
+(
+a
+,
+b
+]
+=
+{
+x
+∣
+a
+<
+x
+≤
+b
+}
+
+
+{\displaystyle (a,b]=\{x\mid a<x\leq b\}}
+
+
+Left-bounded and right-unbounded:
+Left-open: 
+
+
+
+(
+a
+,
++
+∞
+)
+=
+{
+x
+∣
+x
+>
+a
+}
+
+
+{\displaystyle (a,+\infty )=\{x\mid x>a\}}
+
+
+Left-closed: 
+
+
+
+[
+a
+,
++
+∞
+)
+=
+{
+x
+∣
+x
+≥
+a
+}
+
+
+{\displaystyle [a,+\infty )=\{x\mid x\geq a\}}
+
+
+Left-unbounded and right-bounded:
+Right-open: 
+
+
+
+(
+−
+∞
+,
+b
+)
+=
+{
+x
+∣
+x
+<
+b
+}
+
+
+{\displaystyle (-\infty ,b)=\{x\mid x<b\}}
+
+
+Right-closed: 
+
+
+
+(
+−
+∞
+,
+b
+]
+=
+{
+x
+∣
+x
+≤
+b
+}
+
+
+{\displaystyle (-\infty ,b]=\{x\mid x\leq b\}}
+
+
+Unbounded at both ends (simultaneously open and closed):  
+
+
+
+(
+−
+∞
+,
++
+∞
+)
+=
+
+R
+
+
+
+{\displaystyle (-\infty ,+\infty )=\mathbb {R} }
+
+:The intervals are precisely the connected subsets of 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+. It follows that the image of an interval by any continuous function is also an interval. This is one formulation of the intermediate value theorem.
+The intervals are also the convex subsets of 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+. The interval enclosure of a subset 
+
+
+
+X
+⊆
+
+R
+
+
+
+{\displaystyle X\subseteq \mathbb {R} }
+
+ is also the convex hull of 
+
+
+
+X
+
+
+{\displaystyle X}
+
+.
+The intersection of any collection of intervals is always an interval. The union of two intervals is an interval if and only if they have a non-empty intersection or an open end-point of one interval is a closed end-point of the other (e.g., 
+
+
+
+(
+a
+,
+b
+)
+∪
+[
+b
+,
+c
+]
+=
+(
+a
+,
+c
+]
+
+
+{\displaystyle (a,b)\cup [b,c]=(a,c]}
+
+).
+If 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ is viewed as a metric space, its open balls are the open bounded sets (c + r, c − r), and its closed balls are the closed bounded sets [c + r, c − r].
+Any element x of an interval I defines a partition of I into three disjoint intervals I1, I2, I3: respectively, the elements of I that are less than x, the singleton 
+
+
+
+[
+x
+,
+x
+]
+=
+{
+x
+}
+
+
+{\displaystyle [x,x]=\{x\}}
+
+, and the elements that are greater than x. The parts I1 and I3 are both non-empty (and have non-empty interiors), if and only if x is in the interior of I.  This is an interval version of the trichotomy principle.
+A dyadic interval is a bounded real interval whose endpoints are 
+
+
+
+
+
+j
+
+2
+
+n
+
+
+
+
+
+
+{\textstyle {\frac {j}{2^{n}}}}
+
+ and 
+
+
+
+
+
+
+j
++
+1
+
+
+2
+
+n
+
+
+
+
+
+
+{\textstyle {\frac {j+1}{2^{n}}}}
+
+, where 
+
+
+
+j
+
+
+{\textstyle j}
+
+ and 
+
+
+
+n
+
+
+{\textstyle n}
+
+ are integers. Depending on the context, either endpoint may or may not be included in the interval.
+Dyadic intervals have the following properties:
+The length of a dyadic interval is always an integer power of two.
+Each dyadic interval is contained in exactly one dyadic interval of twice the length.
+Each dyadic interval is spanned by two dyadic intervals of half the length.
+If two open dyadic intervals overlap, then one of them is a subset of the other.The dyadic intervals consequently have a structure that reflects that of an infinite binary tree.
+Dyadic intervals are relevant to several areas of numerical analysis, including adaptive mesh refinement, multigrid methods and wavelet analysis. Another way to represent such a structure is p-adic analysis (for p = 2).
+In many contexts, an 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-dimensional interval is defined as a subset of 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+ that is the Cartesian product of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ intervals, 
+
+
+
+I
+=
+
+I
+
+1
+
+
+×
+
+I
+
+2
+
+
+×
+⋯
+×
+
+I
+
+n
+
+
+
+
+{\displaystyle I=I_{1}\times I_{2}\times \cdots \times I_{n}}
+
+, one on each coordinate axis.
+For 
+
+
+
+n
+=
+2
+
+
+{\displaystyle n=2}
+
+, this can be thought of as region bounded by a square or rectangle, whose sides are parallel to the coordinate axes, depending on whether the width of the intervals are the same or not; likewise, for 
+
+
+
+n
+=
+3
+
+
+{\displaystyle n=3}
+
+, this can be thought of as a region bounded by an axis-aligned cube or a rectangular cuboid.
+In higher dimensions, the Cartesian product of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ intervals is bounded by an n-dimensional hypercube or hyperrectangle.
+A facet of such an interval 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ is the result of replacing any non-degenerate interval factor 
+
+
+
+
+I
+
+k
+
+
+
+
+{\displaystyle I_{k}}
+
+ by a degenerate interval consisting of a finite endpoint of 
+
+
+
+
+I
+
+k
+
+
+
+
+{\displaystyle I_{k}}
+
+. The faces of 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ comprise 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ itself and all faces of its facets. The corners of 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ are the faces that consist of a single point of 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+.
+Intervals of complex numbers can be defined as regions of the complex plane, either rectangular or circular.
+Intervals can be associated with points of the plane, and hence regions of intervals can be associated with regions of the plane. Generally, an interval in mathematics corresponds to an ordered pair (x,y) taken from the direct product R × R of real numbers with itself, where it is often assumed that y > x. For purposes of mathematical structure, this restriction is discarded, and "reversed intervals" where y − x < 0 are allowed. Then, the collection of all intervals [x,y] can be identified with the topological ring formed by the direct sum of R with itself, where addition and multiplication are defined component-wise.
+The direct sum algebra 
+
+
+
+(
+R
+⊕
+R
+,
++
+,
+×
+)
+
+
+{\displaystyle (R\oplus R,+,\times )}
+
+ has two ideals, { [x,0] : x ∈ R } and { [0,y] : y ∈ R }. The identity element of this algebra is the condensed interval [1,1]. If interval [x,y] is not in one of the ideals, then it has multiplicative inverse [1/x, 1/y]. Endowed with the usual topology, the algebra of intervals forms a topological ring. The group of units of this ring consists of four quadrants determined by the axes, or ideals in this case. The identity component of this group is quadrant I.
+Every interval can be considered a symmetric interval around its midpoint.  In a reconfiguration published in 1956 by M Warmus, the axis of "balanced intervals" [x, −x] is used along with the axis of intervals [x,x] that reduce to a point. Instead of the direct sum 
+
+
+
+R
+⊕
+R
+
+
+{\displaystyle R\oplus R}
+
+, the ring of intervals has been identified with the split-complex number plane by M. Warmus and D. H. Lehmer through the identification
+z = (x + y)/2 + j (x − y)/2.This linear mapping of the plane, which amounts of a ring isomorphism, provides the plane with a multiplicative structure having some analogies to ordinary complex arithmetic, such as polar decomposition.
+Arc (geometry)
+Inequality
+Interval graph
+Interval finite element
+Interval (statistics)
+Line segment
+Partition of an interval
+Unit intervalT. Sunaga, "Theory of interval algebra and its application to numerical analysis" Archived 2012-03-09 at the Wayback Machine, In: Research Association of Applied Geometry (RAAG) Memoirs, Ggujutsu Bunken Fukuy-kai. Tokyo, Japan, 1958, Vol. 2, pp. 29–46 (547-564); reprinted in Japan Journal on Industrial and Applied Mathematics, 2009, Vol. 26, No. 2-3, pp. 126–143.A Lucid Interval by Brian Hayes: An American Scientist article provides an introduction.
+Interval computations website Archived 2006-03-02 at the Wayback Machine
+Interval computations research centers Archived 2007-02-03 at the Wayback Machine
+Interval Notation by George Beck, Wolfram Demonstrations Project.
+Weisstein, Eric W. "Interval". MathWorld.

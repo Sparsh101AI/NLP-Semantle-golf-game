@@ -1,0 +1,16 @@
+https://en.wikipedia.org/w/index.php?title=FTAM&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22FTAM%22
+//www.google.com/search?tbm=nws&q=%22FTAM%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22FTAM%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22FTAM%22+-wikipedia
+//scholar.google.com/scholar?q=%22FTAM%22
+https://www.jstor.org/action/doBasicSearch?Query=%22FTAM%22&acc=on&wc=on
+https://www.iso.org/standard/15851.html
+http://jitc.fhu.disa.mil/osereg/gosip/conform/layer7/app/fil/ftam/acse/product.htm
+https://web.archive.org/web/20130302031616/http://jitc.fhu.disa.mil/osereg/gosip/conform/layer7/app/fil/ftam/acse/product.htm
+https://www.iso.org/standard/15836.html
+https://www.iso.org/standard/15841.html
+https://www.iso.org/standard/15846.html
+https://www.iso.org/standard/15851.html
+https://www.iso.org/standard/15856.html
+https://en.wikipedia.org/w/index.php?title=Template:ISO_standards&action=edit

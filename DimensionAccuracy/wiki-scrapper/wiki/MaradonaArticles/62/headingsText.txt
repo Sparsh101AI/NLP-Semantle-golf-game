@@ -1,0 +1,27 @@
+History
+Initial concept
+Early development
+Support in other architectures
+Early implementations
+Text messaging outside GSM
+SMS today
+SMS Enablement
+Technical details
+GSM
+Message size
+Gateway providers
+Interconnectivity with other networks
+AT commands
+Premium-rated short messages
+Threaded SMS
+Application-to-person (A2P) SMS
+Satellite phone networks
+Unreliability
+Vulnerabilities
+SMS spoofing
+Limitation
+Flash SMS
+Silent SMS
+See also
+References
+External links

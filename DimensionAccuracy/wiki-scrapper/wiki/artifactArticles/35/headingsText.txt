@@ -1,0 +1,21 @@
+Overview
+Classification of ISAs
+Instructions
+Instruction types
+Data handling and memory operations
+Arithmetic and logic operations
+Control flow operations
+Coprocessor instructions
+Complex instructions
+Instruction encoding
+Number of operands
+Register pressure
+Instruction length
+Code density
+Representation
+Design
+Instruction set implementation
+See also
+References
+Further reading
+External links

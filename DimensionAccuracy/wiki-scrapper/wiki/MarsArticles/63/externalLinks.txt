@@ -1,0 +1,11 @@
+//geohack.toolforge.org/geohack.php?pagename=Henry_(Martian_crater)&params=10.9_N_23.3_E_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Henry_(Martian_crater)&params=10.9_N_23.3_E_globe:mars_type:landmark
+https://planetarynames.wr.usgs.gov/Feature/2452
+https://doi.org/10.1038%2Fnature05594
+https://doi.org/10.1029%2F2009JE003485
+http://marsrovers.jpl.nasa.gov/newsroom/pressreleases/20040302a.html
+https://doi.org/10.1016%2Fj.epsl.2005.09.039
+https://doi.org/10.1016%2Fj.epsl.2005.09.041
+https://doi.org/10.1016%2Fj.epsl.2005.09.038
+https://doi.org/10.1126%2Fscience
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit

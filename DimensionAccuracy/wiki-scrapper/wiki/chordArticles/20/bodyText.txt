@@ -1,0 +1,42 @@
+In geometry, the pentagonal prism  is a prism with a pentagonal base.  It is a type of heptahedron with 10 faces, 15 edges, and 10 vertices.
+If faces are all regular, the pentagonal prism is a semiregular polyhedron, more generally, a uniform polyhedron, and the third in an infinite set of prisms formed by square sides and two regular polygon caps. It can be seen as a truncated pentagonal hosohedron, represented by Schläfli symbol t{2,5}. Alternately it can be seen as the Cartesian product of a regular pentagon and a line segment, and represented by the product {5}x{}. The dual of a pentagonal prism is a pentagonal bipyramid.
+The symmetry group of a right pentagonal prism is D5h of order 20. The rotation group is D5 of order 10.
+The volume, as for all prisms, is the product of the area of the pentagonal base times the height or distance along any edge perpendicular to the base. For a uniform pentagonal prism with edges h the formula is
+
+
+
+
+
+
+
+h
+
+3
+
+
+4
+
+
+
+
+5
+(
+5
++
+2
+
+
+5
+
+
+)
+
+
+
+
+{\displaystyle {\frac {h^{3}}{4}}{\sqrt {5(5+2{\sqrt {5}})}}}
+
+Nonuniform pentagonal prisms called pentaprisms are also used in optics to rotate an image through a right angle without changing its chirality.
+It exists as cells of four nonprismatic uniform 4-polytopes in 4 dimensions:
+ The pentagonal stephanoid has pentagonal dihedral symmetry and has the same vertices as the uniform pentagonal prism.Weisstein, Eric W. "Pentagonal prism". MathWorld.
+Pentagonal Prism Polyhedron Model -- works in your web browser

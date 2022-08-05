@@ -1,0 +1,35 @@
+Aims of the standard
+Improvements over the 1992 JPEG standard
+Multiple resolution representation
+Progressive transmission by pixel and resolution accuracy
+Choice of lossless or lossy compression
+Error resilience
+Flexible file format
+High dynamic range support
+Side channel spatial information
+JPEG 2000 image coding system – Parts
+Technical discussion
+Color components transformation
+Tiling
+Wavelet transform
+Quantization
+Coding
+Compression ratio
+Computational complexity and performance
+File format and code stream
+Metadata
+Applications
+Legal status
+Related standards
+JPIP protocol for streaming JPEG 2000 images
+Motion JPEG 2000
+ISO base media file format
+GML JP2 georeferencing
+Application support
+Applications
+Libraries
+See also
+References
+Citations
+General sources
+External links

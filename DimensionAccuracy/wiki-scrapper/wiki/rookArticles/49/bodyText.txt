@@ -1,0 +1,239 @@
+The Mikoyan-Gurevich MiG-19 (Russian: Микоян и Гуревич МиГ-19; NATO reporting name: Farmer) is a Soviet second generation, single-seat, twinjet fighter aircraft, the world's first mass-produced supersonic aircraft. It was the first Soviet production aircraft capable of supersonic speeds in level flight. A comparable U.S. "Century Series" fighter was the North American F-100 Super Sabre, although the MiG-19 primarily fought against the more modern McDonnell Douglas F-4 Phantom II and Republic F-105 Thunderchief over North Vietnam.
+In 1950 the Mikoyan-Gurevich (MiG) design bureau (also known as OKB-155) began work on a new fighter aircraft, intended to have a greater range than the existing MiG-15 and MiG-17 aircraft, and capable of reaching supersonic speeds in level flight. MiG chose to use two of the new Mikulin AM-5 axial jet engines (a scaled-down version of the Mikulin AM-3 that powered the Tupolev Tu-16 bomber) for its new fighter. As a test bed for the new engine, OKB-155 was authorised on 20 April 1951 to convert one of the prototype MiG-17s, replacing the single Klimov VK-1 engine with two 19.60 kN (4,410 lbf) AM-5s (later replaced by 21.08 kN (4,740 lbf) AM-5As), with the testbed, designated SM-1 (or I-340), flying late in 1951. While the SM-1 was a useful testbed, its performance was less than expected, and first resulted in an afterburner being designed for the AM-5, resulting in the AM-5F (reaching 26.45 kN (5,950 lbf) with reheat).
+While the SM-1 was a test bed, the SM-2 (or I-360) was intended as the required supersonic escort fighter, with work authorised on 10 August 1951. The SM-2 was a twin-engined, mid-winged aircraft. Its thin wings, which had been designed at TsAGI, the Soviet Central Aerohydrodynamic Institute, for supersonic flight were swept back at an angle of 55 degrees and had a single wing fence on each side. Unusually, a T-tail was fitted. Armament was two Nudelman N-37 37-mm cannon located in the leading edge of the aircraft's wings, near the wing roots - the guns had been moved compared to those in the MiG-15 and -17 to avoid ingestion of gun blast gases causing surging of the aircraft's engines. The first SM-2, the SM-2/1 was sent to the Letno-Issledovatel'skiy Institut (en:flight research institute) (LII) in April 1952 for testing, and was flown for the first time on 24 May 1952, with test pilot G. A. Sedov at the aircraft's controls. With the un-reheated AM-5A engines, the SM-2 could not exceed the speed of sound in level flight, so reheated AM-5F engines were substituted. While the new engines improved performance, the aircraft was found to have handling problems, particularly at high angles of attack, where the aircraft was prone to spinning. To solve these problems the aircraft's horizontal tail was lowered, with other changes including moving the aircraft's airbrakes and deepening the wing fences, with the modifications causing the aircraft to be redesignated SM-2A and then SM-2B.
+The AM-5F still generated inadequate thrust and so the Mikulin engine design bureau developed a new engine to replace it, the AM-9B (later  re-designed the Tumansky RD-9), rated at 25.5 kN (5,700 lbf) dry and 31.87 kN (7,160 lbf) with reheat. When fitted with the new engines, the SM-2B became the SM-9, first flying in this form on 5 January 1954. The SM-9's performance impressed the Soviet authorities, and it was ordered into production as the MiG-19 on 17 February 1954, despite the fact that factory testing had only just started.
+The rush to get the MiG-19 into service resulted in initial production aircraft having a number of serious problems. The type suffered a number of in-flight explosions, eventually traced to poor insulation between the aircraft's engines and fuel tanks in the rear fuselage - overheating of these tanks could cause fuel explosions. This was eventually partly solved by fitting a metal heat shield between the engines and the tanks. The aircraft's elevators proved ineffective at supersonic speeds, and an all-moving slab tail was tested by the second and third SM-9 prototypes, and later included in the major production type, the MiG-19S, which also featured an improved armament.
+At the same time that the daylight escort fighter was developed from the SM-2 and SM-9 into the MiG-19 and MiG-19S, work went on in parallel to design and build a radar-equipped all-weather fighter, with the first prototype SM-7/1 flying for the first time on 28 August 1954. This prototype had a similar airframe to the first SM-9, including the conventional fixed horizontal tail, with the second and third SM-7s introducing similar changes to those tested on the SM-9 prototypes, including the slab tail. The all weather fighter entered production as the MiG-19P in 1955. Major differences from the MiG-19S included RP-1 Izumrud radar in the aircraft's nose, with small radomes in the centre and on the top lip of the air intake and an armament of two cannon in the aircraft's wing roots. From 1957, production of all weather fighters switched to the missile equipped MiG-19PM, with an armament of four K-5M air-to-air missiles, with the cannon removed.
+In 1955, following American introduction of high-altitude reconnaissance balloons and overflights by British Canberra aircraft, which could not be intercepted by existing aircraft, together with intelligence reports of the development of the Lockheed U-2 with an even greater ceiling, development began on a specialist high-altitude version of the MiG-19, the MiG-19SV, which entered limited production. This had more powerful engines and was lightened, with seatback armour and one of the guns removed, while flap settings were adjusted to give greater lift at higher altitudes and a new pressure suit was introduced. These changes increased the aircraft's ceiling from 17,500 m (57,400 ft) to 18,500 m (60,700 ft). The prototype MiG-19SV was further modified (as the MiG-19SVK) with increased wingspan, giving a ceiling of 19,100 m (62,700 ft), but this was still inadequate to deal with the U-2, and effort was switched to adding rocket boosters.
+Deliveries of the new fighter to the Soviet Air Forces (VVS) began in June 1955, with the type being publicly unveiled on 3 July that year, when 48 MiG-19s took part in a flypast during an airshow at Tushino Airfield, Moscow.
+During their service with Soviet Anti-Air Defense and in East Germany, MiG-19s were involved in multiple interceptions of Western reconnaissance aircraft. The first documented encounter with a Lockheed U-2 took place in the autumn of 1957. The MiG-19 pilot reported seeing the aircraft, but could not make up the 3,000 m (9,800 ft) difference in altitude. When Francis Gary Powers's U-2 was shot down in the 1960 incident, one pursuing MiG-19P was also hit by the salvo of S-75 Dvina (NATO: SA-2 "Guideline") missiles, killing the pilot Sergei Safronov. In a highly controversial incident, on 1 July 1960, a MiG-19 shot down an RB-47H (S/N 53-4281) reconnaissance aircraft in international airspace over the Arctic Circle with four of the crew killed and two captured by the Soviets (they were released in 1961). In another incident, on 28 January 1964, a MiG-19 shot down a T-39 Sabreliner which had strayed into East German airspace while on a training mission; all three crewmembers were killed.
+The first use and loss of a U.S. fighter to a MiG-19 (J-6) was in 1965 when a USAF Lockheed F-104 Starfighter piloted by Captain Philip E. Smith was attacked by a PLAAF aircraft over Hainan Island. His Starfighter took cannon fire which damaged a portion of his wing and missile mount. Smith gave chase and did receive missile tone on the MiG but, within a millisecond of pressing his missile firing button, his Starfighter lost all power. He ejected and was captured. Smith was held prisoner until released on 15 March 1973, due to improving US-China relations following U.S. President Richard Nixon's visit to China in 1972.
+The Vietnam People's Air Force (VPAF) began receiving the MiG-19 at the end of Operation Rolling Thunder, which ended in 1968. Despite their limited numbers, MiG-19s were involved in extensive combat during Operations Linebacker and Linebacker 2. The VPAF claimed seven victories over U.S. aircraft using the MiG-19, all of which were F-4 Phantom IIs. The MiG-19 was tested by U.S. pilots in the United States in 1969 after receiving an F-6 (J-6 export model) from Pakistan. In addition to finding the aircraft to have a good canopy allowing good visibility for the pilot, along with three hard-hitting 30mm cannons, U.S. pilots found the MiG-19 (J-6/F-6) to be an excellent fighter, "like the MiG-17, it could easily out-turn the Phantom...and could out-accelerate the F-4 out to Mach 1.2, but was slower than the MiG-21.".  However, the MiG-19's strongest fault was its extremely short range, as one U.S. test pilot remarked, "after going in full after-burner at low altitude for five minutes, the MiG driver will be looking for a place to land!"  This, combined with the aircraft's twin engines, which were difficult to maintain, made the MiG-19 unpopular with North Vietnamese pilots.
+The North Vietnamese government decided in early 1969 to strengthen its air defenses by creating a third jet fighter unit; the 925th Fighter Regiment. This unit would consist of late model MiG-17s and the newly acquired MiG-19s (nearly all of which were Shenyang J-6s from the People's Republic of China (PRC)). The regiment was established at Yen Bai, and by April 1969, nine combat-rated MiG-19 pilots were posted for combat duty. While some of North Vietnam's MiG-17s and all of their MiG-21s were supplied by the Soviet Union, the MiG-19s (J-6 models) were supplied by the PRC, which seldom exceeded 54 MiG-19s in number.
+The MiG-19 lacked mounts for air-to-air missiles but it had the one advantage over the early model F-4 Phantom II: it was armed with cannons. VPAF MiG-19s had three 30 mm cannons which "were notable for their large muzzle flash" when fired. The aircraft were loaded with 90 rounds per cannon, giving approximately six seconds of firing time. A single two second burst of 90 shells could impact a US aircraft with 81 lb (37 kg) of metal. This contrasted to a U.S. 20 mm cannon such as the M61 Vulcan which would deliver 39 lb (18 kg) of metal.
+US sources claim that 10 VPAF MiG-19s were lost in aerial combat. On 2 June 1972 a MiG-19 was the first recorded jet fighter to be shot down in aerial combat by cannon fire at supersonic speeds, by a USAF F-4 Phantom flown by Phil Handley. According to the VPAF, from 1965 to 1972, North Vietnamese MiG-19s shot down 13 enemy aircraft and helicopters, while five MiG-19s were lost (four shot down by enemy aircraft and one by friendly fire) and one pilot was killed.
+The following are Chinese and Vietnamese air-to-air kills, confirmed by US sources; all were achieved with 30 mm cannon shells.
+One of the first Egyptian MiG-19 units was the 15th Air Brigade, consisting of Nos 20 and 21 Squadrons, which became operational at Fayid with a forward location at Milayz in the early 1960s.
+In 1962, Egyptian MiG-19s saw some action in the ground-attack role during the North Yemen Civil War. The first reported air combat in the Middle East with the MiG-19 happened on 29 November 1966 when an Israeli Air Force (IAF) Dassault Mirage III shot down two Egyptian MiG-19s which were trying to intercept an Israeli reconnaissance Piper J-3 Cub in Israeli airspace. The first MiG was destroyed with a R.530 radar-guided missile fired from less than a mile away, marking the first aerial kill for the French-made missile. The second MiG-19 was dispatched with cannon fire.
+Around 80 MiG-19s were in service with Egypt during the Six-Day War in June 1967, but more than half of them were destroyed on the ground during the opening Israeli airstrikes of Operation Focus. Israeli pilots, however, did find the MiG-19 a potentially dangerous adversary because of its performance, maneuverability, and heavy armament.
+Following the war, the Egyptians reorganized their surviving MiG-19 fleet, and assigned them to the air defense of Egypt's interior. The Soviet Union did not supply Egypt with any additional MiG-19s as replacements for those destroyed in the Six-Day War, but Egypt might have received some from Syria and Iraq, so that by the end of 1968 there were more than 80 MiG-19s in service with the Egyptian Air Force. The aircraft also saw combat during the War of Attrition; in one engagement on 19 May 1969, a MiG-19 engaged two Israeli Mirages, shooting down one with cannon fire while the other escaped. Egypt had around 60 MiG-19s in service during the Yom Kippur War of 1973 in which they served as close air support aircraft.
+Iraq obtained some MiG-19S fighters in the early 1960s, but later sold most of them (a couple remaining in local museums), though a few remaining airframes did see some action against the Kurds in the 1960s.
+The Syrian Air Force used Mig-19s in the Yemen War.
+North Korea received an unknown number of MiG-19S from the Soviet Union following the signing of a mutual assistance treaty in 1961. Thirty of these aircraft may have been sold to Iraq in 1983. At least 100 F-6s were acquired from China in 1988–89. As of April 2002, the Korean People's Army Air and Anti-Air Force was reportedly operating about 100 Shenyang J-6 and/or MiG 19s.
+Data from::
+MiG-19 (NATO reporting name - "Farmer-A"; OKB- SM-9/1)
+First production version. Conventional tail assembly with elevators attached to fixed horizontal stabiliser and armed with three 23 mm NR-23 cannon.
+MiG-19P (NATO - "Farmer-B"; OKB - SM-7)
+Version equipped with RP-1 Izumrud radar in the nose and armed with two 23 mm NR-23 (later two 30 mm NR-30) cannons in the wings. Had provision for an unguided rocket pack under each wing, elongated tailfin fillet, all-moving tailplane, third airbrake added behind the ventral fin. Vympel K-13 (AA-2 'Atoll') air-to-air missile (AAM) capability was added late in its service life; entered production in 1955.
+MiG-19PF
+Single-seat radar-equipped, all-weather interceptor fighter aircraft; built in small numbers.
+MiG-19PG
+MiG-19P equipped with the Gorizont-1 ground control datalink.
+MiG-19PM (NATO - "Farmer-E")
+Variant with removed cannons, armed with four Kaliningrad K-5M (NATO: AA-1 "Alkali") beam-riding missiles. Entered production in 1957.
+MiG-19PML
+MiG-19PM with Lazur ground control datalink.
+MiG-19PU
+Rocket pack fit similar to MiG-19SU.
+MiG-19PT
+A single MiG-19P equipped to carry Vympel K-13 (NATO: AA-2 "Atoll") missiles.
+MiG-19PU
+MiG-19R
+Reconnaissance version of the MiG-19S with cameras replacing the nose cannon and powered by uprated RD-9BF-1 engines.
+MiG-19S (NATO - "Farmer-C"; OKB - SM-9/3)
+Improved day fighter with all-moving slab tail. Equipped with Svod long-range navigation receiver and armed with three 30 mm NR-30 cannons. Had provisions for an ORO-32K rocket unguided rocket pack or a FAB-250 bomb under each wing, and from 1957 modified to allow four rocket pods to be carried. Entered production in 1956.
+MiG-19SF
+Late production MiG-19S powered by the same uprated RD-9BF-1 engines as the MiG-19R.
+MiG-19SV
+High-altitude version for intercepting reconnaissance balloons, reached 20,740 m (68,040 ft) on 6 December 1956.
+MiG-19SMK
+two missile guidance testbeds for the K-10S cruise missile system.
+MiG-19SVK
+MiG-19SV with a new wing, small increase in altitude above MiG-19SV; did not warrant production.
+MiG-19SU (OKB SM-50)
+High-altitude version to intercept the Lockheed U-2, equipped with a self-contained liquid-fuel booster rocket pack; appears to have been abandoned because of inability to control the aircraft at very high altitudes and the aircraft's tendency to enter supersonic spins.
+MiG-19M
+Target drones converted from the MiG-19 and MiG-19S (M- mishen' - target.)
+SL-19
+A research aircraft modified from a MiG-19 with a variable track / skid-base skid undercarriage (SL- samolyot-laboatoriya - aircraft laboratory).
+M-19
+an alternative designation for the MiG-19M
+M-19M
+an alternative designation for the MiG-19MSM-6
+Two MiG-19Ps converted to flying laboratories for testing the Grushin K-6 developmental AAM (intended for the Sukhoi T-3 jet fighter) and Almaz-3 radar.
+SM-7
+Three prototypes of the MiG-19P all-weather interceptor, (SM-7/1, SM-7/2 and SM-7/3), built concurrently with the SM-9 prototypes, exhibiting all the same failings.
+SM-9/1
+first prototype of the MiG-19 series, developed from the SM-2.
+Sm-9/2
+prototype of the initial MiG-19 production series.
+Sm-9/3
+prototype of the tactical fighter MiG-19S production series.
+Sm-9/9
+projected tactical nuclear strike version, abandoned due to poor performance estimates with the weapon loaded
+SM-12
+New fighter prototype, developed into the MiG-21; four aircraft built.
+SM-20
+Missile simulator for testing the Kh-20 (NATO: AS-3 "Kangaroo") cruise missile.
+SM-30
+Zero-length launch (ZeLL) version with PRD-22R short-duration burn booster rocket.
+SM-50
+:High-altitude version (MiG-19SU) to intercept the Lockheed U-2, equipped with a self-contained liquid-fuel booster rocket pack; appears to have been abandoned because of inability to control the aircraft at very high altitudes and the aircraft's tendency to enter supersonic spins.
+SM-51
+High-altitude experimental version, (MiG-19PU), fitted with a U-19 booster rocket.
+SM-52
+High-altitude experimental version, (MiG-19PU), fitted with a Sevrook re-usable booster rocket.
+SM-K
+Missile simulator for testing the Raduga K-10 (NATO: AS-2 "Kipper") cruise missile.izdeliye 59
+internal GAZ-21 (Gor'kiy) designation of the MiG-19 initial production series.
+izdeliye 25
+internal GAZ-153 (Novosibirsk) designation of the MiG-19 initial production series.
+izdeliye 61
+internal GAZ-21 (Gor'kiy) designation of the MiG-19S production series.
+izdeliye 62
+internal GAZ-21 (Gor'kiy) designation of the MiG-19P production all-weather interceptor.
+izdeliye 26
+internal GAZ-153 (Novosibirsk) designation of the MiG-19S production series.
+izdeliye 61
+internal GAZ-21 (Gor'kiy) designation of the SM-12PMU
+izdeliye SM-2/A
+a weapon system development MiG-19 for ground attack weapons.
+izdeliye SM-2/B
+a weapon system development MiG-19 for ground attack weapons.
+izdeliye SM-2/G
+a weapons test-bed for ARS-160 HVARs, discontinued when the SM-2/G was almost complete.
+izdeliye SM-2/I
+a weapons test-bed for the K-6 air-to-air missile.
+izdeliye SM-2/M
+a weapons test-bed for the K-5M (RS-2-U) air-air missile.
+izdeliye SM-2/V
+a weapon system development aircraft for ground attack weapons, converted from the izdeliye SM-2/B.
+izdeliye SM-6
+a weapons test-bed for the K-6 air-air missile.
+izdeliye SM-9K
+possible alternative designation for the izdeliye SM-30
+izdeliye SM-9R
+OKB designation for the MiG-19R tactical reconnaissance aircraft.
+izdeliye SM-9V
+OKB designation for the MiG-19SV high altitude interceptor prototypes with MiG-19 rear fuselage / tail unit.
+izdeliye SM-9V/3-V
+OKB designation for the MiG-19SV high altitude interceptor with MiG-19S rear fuselage / tail unit.
+izdeliye SM-9V/3-VK
+OKB designation for the MiG-19SVK experimental high altitude interceptor.
+izdeliye delta SM-9
+weapons aiming testing with the ASP-5N computing gunsight and SRD-1 gun ranging radar.
+izdeliye SM-9/3T
+a MiG-19S modified to test the K-13 / R-3S (NATO - AA-2 Atoll).
+izdeliye SM-7
+the SM-7 all-weather interceptor prototypes.
+izdeliye SM-7/3
+the MiG-19P production all-weather interceptor.
+izdeliye SM-7A
+OKB designation for a MiG-19P weapons test-bed with gun armament.
+izdeliye SM-7M
+OKB designation for a MiG-19P weapons test-bed with missile armament.
+izdeliye SM-7/1M
+the first SM-7 prototype modified with the K-5M missile system to be fitted in the MiG-19PM.
+izdeliye SM-7/2M
+the second SM-7 prototype and five MiG-19P aircraft modified with the K-5M missile system to be fitted in the MiG-19PM.
+izdeliye 65
+internal GAZ-21 (Gor'kiy) designation of the MiG-19PM production series.
+izdeliye SM-7/2T
+A single MiG-19P equipped to carry Vympel K-13 (NATO: AA-2 "Atoll") missiles as the MiG-19PT.
+izdeliye SM-9D
+possible alternative designation for the izdeliye SM-10.
+izdeliye SM-10
+an in-flight refuelling test-bed aircraft using the wing-tip to wingtip hose system.
+izdeliye SM-11
+a projected version of the MiG-19S fitted with a Yastreb-SIV-52 infra-red search and track system.
+izdeliye SM-12
+prototypes fitted with extended nose and new intake system from the Ye-2A and Ye-5 research aircraft.
+izdeliye SM-12/3T
+the third SM-12 prototype modified to carry K-13A AAMs for testing.
+izdeliye SM-12/4T
+the fourth SM-12 prototype modified to carry K-13A AAMs for testing.
+izdeliye SM-12PM
+intended production version of the SM-12 armed with the K-51 weapon system.
+izdeliye SM-12PMU
+the second SM-12 prototype fitted with a U-19D booster rocket in an identical installation to the MiG-19SU.
+izdeliye SM-20
+missile simulators used to test the guidance systems for the Kh-20 (NATO - AS-3 Kangaroo) missile, air-dropped from a Tupolev Tu-95 mother-ship.
+izdeliye SM-21
+the SM-2/V converted, for the third time, to test the APU-5 launch rails on outboard hard-points.
+izdeliye SM-20P
+alternative designation for the SM-20/1 manned missile simulator (P - peeloteerooyernyy)
+izdeliye SM-30
+zero-length launch (ZeLL) test-beds with PRD-22R booster rocket.
+izdeliye SM-30/3
+projected production zero-length launch (ZeLL) fighters.
+izdeliye SM-50
+:High-altitude version (MiG-19SU) to intercept the Lockheed U-2, equipped with a self-contained U-19 liquid-fuel booster rocket pack.
+izdeliye SM-51
+High-altitude experimental version, (MiG-19PU), fitted with a U-19 booster rocket.
+izdeliye SM-52
+High-altitude experimental version, (MiG-19PU), fitted with a Sevrook re-usable booster rocket.
+izdeliye SM-K
+two missile guidance test-beds, (SM-K/1 and SM-K/2), for the K-10S cruise missile system.Aero S-105
+Czechoslovak licensed built MiG-19S by Aero Vodochody. 103 were built between 1958 and 1962.
+Shenyang J-6
+Chinese-built version of the MiG-19. This version was inducted into the Pakistani Air Force as the F-6. The F-6 was later modified by the Pakistani Air Force to carry U.S.-built AIM-9 Sidewinder missiles.
+Shenyang JJ-6
+two-seat trainer version of the J-6This only includes Soviet-built MiG-19s. For information on operators of Chinese-built aircraft refer to Shenyang J-6.
+ AfghanistanAfghan Air Force - 18 acquired by the Royal Afghan Air Force from 1964. AlbaniaAlbanian Air Force - 15 MiG-19PM all built in Czechoslovakia and used from 1959 to 1965 by 7594 IAP in Rinas airbase. All sold to China and exchanged for Shenyang J-6 (with version J-6C). BulgariaBulgarian Air Force - The MiG-19 served in the Bulgarian Air Force from 1958 to 1973. People's Republic of ChinaPeople's Liberation Army Air Force CubaCuban Air Force - Cuba operated about 40 MiG-19s, including MiG-19SF, PF and PMs. CzechoslovakiaCzechoslovak Air Force - operated 183 MiG-19S, MiG-19P, MiG-19PM and license-built S-105 East GermanyEast German Air Force - 12 x MiG-19S and 12 x MiG-19PM served until 1969  EgyptEgyptian Air Force - One of the first Egyptian MiG-19 units was the 15th Air Brigade, consisting of Nos 20 and 21 Squadrons, which became operational at Fayid with a forward location at Milayz in the early 1960s. HungaryHungarian Air Force -Operated 12 MiG-19PM from 1959 to 1973. IndonesiaIndonesian Air Force - The Indonesian Air Force acquired a number of MiG-19S in 1961 and used during the preparation of Operation Trikora in 1962 (the annexion of Western New Guinea from the Netherlands) in Western New Guinea (now Papua and Papua Barat). Several of these aircraft crashed. All aircraft sold to Pakistan. IraqIraqi Air Force - 30 MiG-19S, 10 MiG-19P, and 10 MiG-19PM were delivered in 1959 and 1960. However, only 16 MiG-19S were taken up by the Iraqi Air Force; the other aircraft were not accepted due to their poor technical condition, and remained stored in Basra. The surviving MiG-19S were donated to Egypt around 1964. PakistanPakistan Air Force - 20 MiG-19S received from Indonesia. PolandPolish Air Force - A total of 24 MiG-19P and 12 MiG-19PM interceptors served between 1957 and 1974. RomaniaRomanian Air Force - A total of 16 MiG-19P and 10 MiG-19PM aircraft were in service between 1958 (1959 for the PM) and 1972. Soviet UnionSoviet Air Force
+Soviet Anti-Air Defence
+Soviet Naval Aviation SyriaSyrian Air Force VietnamVietnam People's Air ForceGeneral characteristics
+Crew: 1
+Length: 12.54 m (41 ft 2 in) with pitot probe retracted; 14.64 m (48.0 ft) with pitot probe extended
+Wingspan: 9 m (29 ft 6 in)
+Height: 3.88 m (12 ft 9 in)
+Wing area: 25 m (270 sq ft)
+Airfoil: root: TsAGI SR-12S (8.74%); tip: TsAGI SR-7S (8%)
+Empty weight: 5,172 kg (11,402 lb) 
+Gross weight: 7,560 kg (16,667 lb)
+Max takeoff weight: 8,832 kg (19,471 lb) with 2 × 760 l (170 imp gal; 200 US gal) drop tanks and two rocket pods
+Fuel capacity: 1,800 l (480 US gal; 400 imp gal) internal
+Powerplant: 2 × Tumansky RD-9B afterburning turbojet engines, 25.5 kN (5,700 lbf) thrust  each dry, 31.8 kN (7,100 lbf) with afterburnerPerformance
+Maximum speed: 1,452 km/h (902 mph, 784 kn) at 10,000 m (33,000 ft)
+Maximum speed: Mach 1.35
+Range: 1,390 km (860 mi, 750 nmi)
+Ferry range: 2,200 km (1,400 mi, 1,200 nmi) with 2 × 760 l (200 US gal; 170 imp gal) drop tanks at 14,000 m (46,000 ft)
+Service ceiling: 17,500 m (57,400 ft)
+Rate of climb: 177.8 m/s (35,000 ft/min)Armament
+Guns: 3 × 30 mm Nudelman-Rikhter NR-30 autocannon (75 rounds for wing-root guns, 55 rounds for the fuselage gun)
+Hardpoints: 4 pylons in total, 2 for drop fuel tanks only, 2 for weapons, with a capacity of up to 500 kg (1,100 lb) of stores , with provisions to carry combinations of:
+Rockets: 2  × 32-round ORO-57K rocket pods (4 from 1957)
+Bombs: 2 x FAB-250
+Related development
+Mikoyan-Gurevich MiG-17
+Nanchang Q-5
+Shenyang J-6Aircraft of comparable role, configuration, and era
+Dassault Super Mystère
+North American F-100 Super Sabre
+Related lists
+List of military aircraft of the Soviet Union and the CIS
+List of fighter aircraftBelyakov, R. A. and Marmain, J. MiG 1939-1989. Paris, France: Editions Larivière, 1991. ISBN 2-907051-00-8.
+Belyakov, R. A. and Marmain, J. MiG: Fifty Years of Secret Aircraft Design. Shrewsbury, UK: Airlife Publishing, 1994. ISBN 1-85310-488-4.
+Butowski, Piotr (with Jay Miller). OKB MiG: A History of the Design Bureau and its Aircraft. Leicester, UK: Midland Counties Publications, 1991. ISBN 0-904597-80-6.
+Crosby, Francis. Fighter Aircraft. London: Lorenz Books, 2002. ISBN 0-7548-0990-0.
+Davies, Peter E. USAF F-4 Phantom MiG Killers 1972-73 (Osprey Combat Aircraft #55). Oxford, UK: Osprey Publishing Limited, 2005. ISBN 1-84176-657-7.
+Ethell, Jeffrey and Alfred Price. One Day in a Very Long War: May 10, 1972, Air Combat, North Vietnam. New York: Random House, 1989. ISBN 978-0-517-07934-8.
+Hobson, Chris. Vietnam Air Losses, United States Air Force, Navy and Marine Corps Fixed-Wing Aircraft Losses in Southeast Asia 1961-1973. Midland Publishing (2001) England.  ISBN 1-85780-115-6.
+Hoyle, Craig. "World Air Forces 2021". Flight International, 2020. Retrieved 2 December 2020.
+Green, William & Swanborough, Gordon (1977). "Sustained Supersonics — Soviet Style". Air Enthusiast Quarterly (3): 26–37. ISSN 0143-5450.
+Gordon, Yefim. "Mikoyan MiG-19 Variants". Wings of Fame, Volume 9, 1997. pp. 116–149. ISSN 1361-2034. ISBN 1-86184-001-2.
+Gordon, Yefim. Mikoyan-Gurevich MiG-19: The Soviet Union's First Production Supersonic Fighter. Hinckley, United Kingdom: Midland Publishing, 2003. ISBN 1-85780-149-0.
+Gunston, Bill. The Osprey Encyclopedia of Russian Aircraft 1875–1995. London: Osprey, 1995. ISBN 1-85532-405-9.
+Hagedorn, Daniel P. Central American and Caribbean Air Forces.  Tonbridge, Kent, UK: Air-Britain (Historians) Ltd., 1993. ISBN 0-85130-210-6.
+Hoyle, Craig. "World Air Forces Directory". Flight International, 4–10 December 2018, Vol. 194, No. 5665, pp. 32–60. ISSN 0015-3710.
+Koenig, William and Peter Scofield. Soviet Military Power. Greenwich, Connecticut: Bison Books, 1983. ISBN 0-86124-127-4.
+Michel III, Marshall L. Clashes: Air Combat Over North Vietnam 1965-1972. Annapolis, Maryland: Naval Institute Press, 1997. ISBN 1-55750-585-3.
+Nicolle, David and Tom Cooper (2004). Arab MiG-19 and MiG-21 Units in Combat (Osprey Combat Aircraft #44). Oxford, UK: Osprey Publishing Limited. ISBN 978-1-84176-655-3.{{cite book}}:  CS1 maint: uses authors parameter (link).
+"Pentagon Over the Islands: The Thirty-Year History of Indonesian Military Aviation". Air Enthusiast Quarterly (2): 154–162. n.d. ISSN 0143-5450.
+Robinson, Anthony. Soviet Air Power. London: Bison Books, 1985. ISBN 0-86124-180-0.
+Sherwood, John D. Fast Movers: Jet Pilots and the Vietnam Experience. New York: Free Press, 1999. ISBN 0-312-97962-2.
+Smith, Philip E. and Peggy Herz. Journey Into Darkness: The Gripping Story of an American POW's Seven Years Trapped Inside Red China During the Vietnam War. New York: Pocket, Simon & Schuster, 1992. ISBN 0-671-72823-7.
+Sweetman, Bill and Bill Gunston. Soviet Air Power: An Illustrated Encyclopedia of the Warsaw Pact Air Forces Today. London: Salamander Books, 1978. ISBN 0-517-24948-0.
+Toperczer, István. MiG-17 And MiG-19 Units of the Vietnam War (Osprey Combat Aircraft #25). Oxford, UK: Osprey Publishing Limited, 2001. ISBN 1-84176-162-1.RB-47H Shot Down – National Museum of the United States Air Force
+MiG-19 FARMER at Global Security.org.
+MiG-19 Farmer at Global Aircraft
+Cuban MiG-19

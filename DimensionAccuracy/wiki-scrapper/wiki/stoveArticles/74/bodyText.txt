@@ -1,0 +1,194 @@
+Jupiter mass, also called Jovian mass, is the unit of mass equal to the total mass of the planet Jupiter. This value may refer to the mass of the planet alone, or the mass of the entire Jovian system to include the moons of Jupiter. Jupiter is by far the most massive planet in the Solar System. It is approximately 2.5 times as massive as all of the other planets in the Solar System combined.
+Jupiter mass is a common unit of mass in astronomy that is used to indicate the masses of other similarly-sized objects, including the outer planets and extrasolar planets. It may also be used to describe the masses of brown dwarfs, as this unit provides a convenient scale for comparison.
+The current best known value for the mass of Jupiter can be expressed as 1898130 yottagrams:
+
+
+
+
+
+M
+
+
+J
+
+
+
+=
+(
+1.89813
+±
+0.00019
+)
+×
+
+10
+
+27
+
+
+
+ kg
+
+,
+
+
+{\displaystyle M_{\mathrm {J} }=(1.89813\pm 0.00019)\times 10^{27}{\text{ kg}},}
+
+which is about 1⁄1000 as massive as the sun (is about 0.1% M☉):
+
+
+
+
+
+M
+
+
+J
+
+
+
+=
+
+
+1
+
+1047.348644
+±
+0.000017
+
+
+
+
+M
+
+⊙
+
+
+≈
+(
+9.547919
+±
+0.000002
+)
+×
+
+10
+
+−
+4
+
+
+
+M
+
+⊙
+
+
+.
+
+
+{\displaystyle M_{\mathrm {J} }={\frac {1}{1047.348644\pm 0.000017}}M_{\odot }\approx (9.547919\pm 0.000002)\times 10^{-4}M_{\odot }.}
+
+Jupiter is 318 times as massive as Earth:
+
+
+
+
+
+M
+
+
+J
+
+
+
+=
+3.1782838
+×
+
+10
+
+2
+
+
+
+M
+
+⊕
+
+
+.
+
+
+{\displaystyle M_{\mathrm {J} }=3.1782838\times 10^{2}M_{\oplus }.}
+
+Jupiter's mass is 2.5 times that of all the other planets in the Solar System combined—this is so massive that its barycenter with the Sun lies beyond the Sun's surface at 1.068 solar radii from the Sun's center.
+Because the mass of Jupiter is so large compared to the other objects in the solar system, the effects of its gravity must be included when calculating satellite trajectories and the precise orbits of other bodies in the solar system, including Earth's moon and even Pluto.
+Theoretical models indicate that if Jupiter had much more mass than it does at present, its atmosphere would collapse, and the planet would shrink. For small changes in mass, the radius would not change appreciably, but above about 500 MEarth (1.6 Jupiter masses) the interior would become so much more compressed under the increased pressure that its volume would decrease despite the increasing amount of matter. As a result, Jupiter is thought to have about as large a diameter as a planet of its composition and evolutionary history can achieve. The process of further shrinkage with increasing mass would continue until appreciable stellar ignition was achieved, as in high-mass brown dwarfs having around 50 Jupiter masses. Jupiter would need to be about 80 times as massive to fuse hydrogen and become a star.
+The mass of Jupiter is derived from the measured value called the Jovian mass parameter, which is denoted with GMJ. The mass of Jupiter is calculated by dividing GMJ by the constant G. For celestial bodies such as Jupiter, Earth and the Sun, the value of the GM product is known to many orders of magnitude more precisely than either factor independently. The limited precision available for G limits the uncertainty of the derived mass. For this reason, astronomers often prefer to refer to the gravitational parameter, rather than the explicit mass. The GM products are used when computing the ratio of Jupiter mass relative to other objects.
+In 2015, the International Astronomical Union defined the nominal Jovian mass parameter to remain constant regardless of subsequent improvements in measurement precision of MJ. This constant is defined as exactly
+
+
+
+
+(
+
+
+G
+M
+
+
+
+)
+
+
+J
+
+
+
+
+N
+
+
+
+=
+1.266
+
+8653
+×
+
+10
+
+17
+
+
+
+
+ m
+
+
+3
+
+
+
+/
+
+
+
+s
+
+
+2
+
+
+
+
+{\displaystyle ({\mathcal {GM}})_{\mathrm {J} }^{\mathrm {N} }=1.266\,8653\times 10^{17}{\text{ m}}^{3}/{\text{s}}^{2}}
+
+If the explicit mass of Jupiter is needed in SI units, it can be calculated in terms of the gravitational constant, G by dividing GM by G.
+The majority of Jupiter's mass is hydrogen and helium. These two elements make up more than 87% of the total mass of Jupiter. The total mass of heavy elements other than hydrogen and helium in the planet is between 11 and 45 MEarth. The bulk of the hydrogen on Jupiter is solid hydrogen. Evidence suggests that Jupiter contains a central dense core. If so, the mass of the core is predicted to be no larger than about 12 MEarth. The exact mass of the core is uncertain due to the relatively poor knowledge of the behavior of solid hydrogen at very high pressures.
+Jupiter radius
+Hot Jupiter
+Orders of magnitude (mass)
+Planetary mass
+Solar mass

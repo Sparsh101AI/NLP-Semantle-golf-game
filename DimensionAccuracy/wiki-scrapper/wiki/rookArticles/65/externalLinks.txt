@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Zambo&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Zambo%22
+//www.google.com/search?tbm=nws&q=%22Zambo%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Zambo%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Zambo%22+-wikipedia
+//scholar.google.com/scholar?q=%22Zambo%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Zambo%22&acc=on&wc=on
+http://www.joshuaproject.net/peoples.php?rop3=111140
+https://dicionario.priberam.org/cafuzo
+https://www.bbc.com/mundo/noticias-america-latina-41590774
+https://constitutioncenter.org/amoreperfectunion/
+https://www.washingtonpost.com/ac2/wp-dyn?pagename=article&node=&contentId=A61891-2002Dec1&notFound=true
+https://en.wikipedia.org/w/index.php?title=Template:Hispanic_and_Latino_Americans_navbox&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Miscegenation_in_Spanish_colonies&action=edit

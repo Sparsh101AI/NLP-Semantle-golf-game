@@ -1,0 +1,27 @@
+Features
+Opportunistic locking
+Performance
+History
+SMB 1.0
+CIFS
+SMB 2.0
+SMB 2.1
+SMB 3.0
+SMB 3.0.2
+SMB 3.1.1
+Specifications
+Third-party implementations
+Samba
+Netsmb
+NQ
+MoSMB
+Fusion File Share by Tuxera
+Likewise
+CIFSD
+Security
+See also
+References
+Further reading
+SMB specifications
+Miscellaneous
+External links

@@ -1,0 +1,100 @@
+In ordinary language, an average is a single number taken as representative of a list of numbers, usually the sum of the numbers divided by how many numbers are in the list (the arithmetic mean). For example, the average of the numbers 2, 3, 4, 7, and 9 (summing to 25) is 5. Depending on the context, an average might be another statistic such as the median, or mode. For example, the average personal income is often given as the median—the number below which are 50% of personal incomes and above which are 50% of personal incomes—because the mean would be misleadingly high by including personal incomes from a few billionaires.
+If all numbers in a list are the same number, then their average is also equal to this number. This property is shared by each of the many types of average.
+Another universal property is monotonicity: if two lists of numbers A and B have the same length, and each entry of list A is at least as large as the corresponding entry on list B, then the average of list A is at least that of list B. Also, all averages satisfy linear homogeneity: if all numbers of a list are multiplied by the same positive number, then its average changes by the same factor.
+In some types of average, the items in the list are assigned different weights before the average is determined. These include the weighted arithmetic mean, the weighted geometric mean and the weighted median. Also, for some types of moving average, the weight of an item depends on its position in the list. Most types of average, however, satisfy permutation-insensitivity: all items count equally in determining their average value and their positions in the list are irrelevant; the average of (1, 2, 3, 4, 6) is the same as that of (3, 2, 6, 4, 1).
+The arithmetic mean, the geometric mean and the harmonic mean are known collectively as the Pythagorean means.
+The mode, the median, and the mid-range are often used in addition to the mean as estimates of central tendency in descriptive statistics. These can all be seen as minimizing variation by some measure; see Central tendency § Solutions to variational problems.
+The most frequently occurring number in a list is called the mode. For example, the mode of the list (1, 2, 2, 3, 3, 3, 4) is 3. It may happen that there are two or more numbers which occur equally often and more often than any other number. In this case there is no agreed definition of mode. Some authors say they are all modes and some say there is no mode.
+The median is the middle number of the group when they are ranked in order. (If there are an even number of numbers, the mean of the middle two is taken.)
+Thus to find the median, order the list according to its elements' magnitude and then repeatedly remove the pair consisting of the highest and lowest values until either one or two values are left. If exactly one value is left, it is the median; if two values, the median is the arithmetic mean of these two. This method takes the list 1, 7, 3, 13 and orders it to read 1, 3, 7, 13. Then the 1 and 13 are removed to obtain the list 3, 7. Since there are two elements in this remaining list, the median is their arithmetic mean, (3 + 7)/2 = 5.
+The mid-range is the arithmetic mean of the highest and lowest values of a set.
+The table of mathematical symbols explains the symbols used below.
+Other more sophisticated averages are: trimean, trimedian, and normalized mean, with their generalizations.
+One can create one's own average metric using the generalized f-mean:
+
+
+
+
+y
+=
+
+f
+
+−
+1
+
+
+
+(
+
+
+
+1
+n
+
+
+
+[
+
+f
+(
+
+x
+
+1
+
+
+)
++
+f
+(
+
+x
+
+2
+
+
+)
++
+⋯
++
+f
+(
+
+x
+
+n
+
+
+)
+
+]
+
+
+)
+
+
+
+{\displaystyle y=f^{-1}\left({\frac {1}{n}}\left[f(x_{1})+f(x_{2})+\cdots +f(x_{n})\right]\right)}
+
+where f is any invertible function. The harmonic mean is an example of this using f(x) = 1/x, and the geometric mean is another, using f(x) = log x.
+However, this method for generating means is not general enough to capture all averages.  A more general method for defining an average takes any function g(x1, x2, ..., xn) of a list of arguments that is continuous, strictly increasing in each argument, and symmetric (invariant under permutation of the arguments). The average y is then the value that, when replacing each member of the list, results in the same function value: g(y, y, ..., y) = g(x1, x2, ..., xn).  This most general definition still captures the important property of all averages that the average of a list of identical elements is that element itself. The function g(x1, x2, ..., xn) = x1+x2+ ··· + xn provides the arithmetic mean. The function g(x1, x2, ..., xn) = x1x2···xn (where the list elements are positive numbers) provides the geometric mean. The function g(x1, x2, ..., xn) = (x1+x2+ ··· + xn)) (where the list elements are positive numbers) provides the harmonic mean.
+A type of average used in finance is the average percentage return. It is an example of a geometric mean. When the returns are annual, it is called the Compound Annual Growth Rate (CAGR). For example, if we are considering a period of two years, and the investment return in the first year is −10% and the return in the second year is +60%, then the average percentage return or CAGR, R, can be obtained by solving the equation: (1 − 10%) × (1 + 60%) = (1 − 0.1) × (1 + 0.6) = (1 + R) × (1 + R). The value  of R that makes this equation true is 0.2, or 20%. This means that the total return over the 2-year period is the same as if there had been 20% growth each year. The order of the years makes no difference – the average percentage returns of +60% and −10% is the same result as that for −10% and +60%.
+This method can be generalized to examples in which the periods are not equal. For example, consider a period of a half of a year for which the return is −23% and a period of two and a half years for which the return is +13%. The average percentage return for the combined period is the single year return, R, that is the solution of the following equation: (1 − 0.23) × (1 + 0.13) = (1 + R), giving an average return R of 0.0600 or 6.00%.
+Given a time series, such as daily stock market prices or yearly temperatures, people often want to create a smoother series. This helps to show underlying trends or perhaps periodic behavior. An easy way to do this is the moving average:  one chooses a number n and creates a new series by taking the arithmetic mean of the first n values, then moving forward one place by dropping the oldest value and introducing a new value at the other end of the list, and so on. This is the simplest form of moving average. More complicated forms involve using a weighted average. The weighting can be used to enhance or suppress various periodic behavior and there is very extensive analysis of what weightings to use in the  literature on filtering. In digital signal processing the term "moving average" is used even when the sum of the weights is not 1.0 (so the output series is a scaled version of the averages). The reason for this is that the analyst is usually interested only in the trend or the periodic behavior.
+The first recorded time that the arithmetic mean was extended from 2 to n cases for the use of estimation was in the sixteenth century. From the late sixteenth century onwards, it gradually became a common method to use for reducing errors of measurement in various areas. At the time, astronomers wanted to know a real value from noisy measurement, such as the position of a planet or the diameter of the moon. Using the mean of several measured values, scientists assumed that the errors add up to a relatively small number when compared to the total of all measured values. The method of taking the mean for reducing observation errors was indeed mainly developed in astronomy. A possible precursor to the arithmetic mean is the mid-range (the mean of the two extreme values), used for example in Arabian astronomy of the ninth to eleventh centuries, but also in metallurgy and navigation.
+However, there are various older vague references to the use of the arithmetic mean (which are not as clear, but might reasonably have to do with our modern definition of the mean). In a text from the 4th century, it was written that (text in square brackets is a possible missing text that might clarify the meaning):
+In the first place, we must set out in a row the sequence of numbers from the monad up to nine: 1, 2, 3, 4, 5, 6, 7, 8, 9. Then we must add up the amount of all of them together, and since the row contains nine terms, we must look for the ninth part of the total to see if it is already naturally present among the numbers in the row; and we will find that the property of being [one] ninth [of the sum] only belongs to the [arithmetic] mean itself...Even older potential references exist. There are records that from about 700 BC, merchants and shippers agreed that damage to the cargo and ship (their "contribution" in case of damage by the sea) should be shared equally among themselves. This might have been calculated using the average, although there seem to be no direct record of the calculation.
+The root is found in Arabic as عوار ʿawār, a defect, or anything defective or damaged, including partially spoiled merchandise; and عواري ʿawārī (also عوارة ʿawāra) = "of or relating to ʿawār, a state of partial damage". Within the Western languages the word's history begins in medieval sea-commerce on the Mediterranean. 12th and 13th century Genoa Latin avaria meant "damage, loss and non-normal expenses arising in connection with a merchant sea voyage"; and the same meaning for avaria is in Marseille in 1210, Barcelona in 1258 and Florence in the late 13th. 15th-century French avarie had the same meaning, and it begot English "averay" (1491) and English "average" (1502) with the same meaning. Today, Italian avaria, Catalan avaria and French avarie still have the primary meaning of "damage". The huge transformation of the meaning in English began with the practice in later medieval and early modern Western merchant-marine law contracts under which if the ship met a bad storm and some of the goods had to be thrown overboard to make the ship lighter and safer, then all merchants whose goods were on the ship were to suffer proportionately (and not whoever's goods were thrown overboard); and more generally there was to be proportionate distribution of any avaria. From there the word was adopted by British insurers, creditors, and merchants for talking about their losses as being spread across their whole portfolio of assets and having a mean proportion. Today's meaning developed out of that, and started in the mid-18th century, and started in English. [1].
+Marine damage is either particular average, which is borne only by the owner of the damaged property, or general average, where the owner can claim a proportional contribution from all the parties to the marine venture.  The type of calculations used in adjusting general average gave rise to the use of "average" to mean "arithmetic mean".
+A second English usage, documented as early as 1674 and sometimes spelled "averish", is as the residue and second growth of field crops, which were considered suited to consumption by draught animals ("avers").
+There is earlier (from at least the 11th century), unrelated use of the word. It appears to be an old legal term for a tenant's day labour obligation to a sheriff, probably anglicised from "avera" found in the English Domesday Book (1085).
+The Oxford English Dictionary, however, says that derivations from German hafen haven, and Arabic ʿawâr loss, damage, have been "quite disposed of" and the word has a Romance origin.
+Due to the aforementioned colloquial nature of the term "average", the term can be used to obfuscate the true meaning of data and suggest varying answers to  questions based on the averaging method (most frequently arithmetic mean, median, or mode) used. In his article "Framed for Lying: Statistics as In/Artistic Proof", University of Pittsburgh faculty member Daniel Libertz comments that statistical information is frequently dismissed from rhetorical arguments for this reason. However, due to their persuasive power, averages and other statistical values should not be discarded completely, but instead used and interpreted with caution. Libertz invites us to engage critically not only with statistical information such as averages, but also with the language used to describe the data and its uses, saying: "If statistics rely on interpretation, rhetors should invite their audience to interpret rather than insist on an interpretation." In many cases, data and specific calculations are provided to help facilitate this audience-based interpretation.
+Average absolute deviation
+Law of averages
+Expected value
+Central limit theorem
+Population mean
+Sample meanMedian as a weighted arithmetic mean of all Sample Observations
+Calculations and comparison between arithmetic and geometric mean of two values

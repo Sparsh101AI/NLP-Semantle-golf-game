@@ -1,0 +1,34 @@
+The ExoMars Kazachok (Russian: Казачок; formerly ExoMars 2020 Surface Platform) was a planned robotic Mars lander led by Roscosmos, part of the ExoMars 2022 joint mission with the European Space Agency. Kazachok translates as "Little Cossack", and is also the name of a folk dance.
+The plan calls for a Russian Proton-M rocket to launch the Russian-built lander that will deliver the Rosalind Franklin rover to the surface of Mars. Once safely landed, Kazachok will deploy the rover and will start a one Earth-year mission to investigate the surface environment at the landing site.
+The spacecraft was scheduled to launch in 2020 and land on Mars in mid 2021, but due to the failure of the entry parachutes to pass testing, the launch was moved to a twelve-day launch window starting on 20 September 2022.
+In March 2022, amidst the backdrop of the Russian invasion of Ukraine, the European Space Agency voted to suspend their cooperation with Russia on the ExoMars mission, placing the future of the Kazachok lander in jeopardy.
+The Kazachok lander project is led by Roscosmos, but its scientific payload will also include two European instruments and European contributions to four Russian-led instruments. The payload mass is about 45 kg and consists of the following instruments (plus an instrument interface and memory unit (BIP)): 
+The Lander Radioscience experiment (LaRa) will study the internal structure of Mars, will help to understand the sublimation/condensation cycle of atmospheric CO2, and will make precise measurements of the rotation and orientation of the planet by monitoring two-way Doppler frequency shifts between the lander and Earth. It will also detect variations in angular momentum due to the redistribution of masses, such as the migration of ice from the polar caps to the atmosphere. Developed by Belgium.
+The Habitability, Brine, Irradiation and Temperature (HABIT) package will investigate the amount of water vapour in the atmosphere, daily and seasonal variations in ground and air temperatures, and the UV radiation environment. Developed by Sweden.
+Meteorological package (MTK). Led by Russia. The package will incorporate the following sensors:
+Pressure and humidity sensors (METEO-P, METEO-H). Developed by Finland. The sensors have extensive heritage from those in the Curiosity rover, Schiaparelli lander and Phoenix lander.
+Meteorological boom, incorporating: 3 atmospheric temperature sensors; Solar Irradiance (SIS20) and Dust (DS20) sensors (developed by Spain); METEO-H (see above), and wind sensor.
+Anisotropic Magneto-Resistance (AMR) sensor to measure magnetic fields. Developed by Spain.
+Optical Depth Sensor (ODS).
+Microphone.
+Descent and Landing Unit (MTK-L) for atmospheric temperature and pressure, and acceleration & angular rate.
+Upward-looking LIDAR.
+A magnetometer (MAIGRET), developed by Russia. The instrument will incorporate the Wave Analyser Module (WAM), developed by the Czech Republic.
+A set of four cameras (TSPP) to characterise the landing site environment. Developed by Russia.
+An IR Fourier spectrometer (FAST) to study the atmosphere. Developed by Russia.
+Active Detection of Radiation of Nuclei-ExoMars (ADRON-EM). Developed by Russia, including also a radiation dosimeter (Liulin-ML) from Bulgaria.
+Multi-channel Diode-Laser Spectrometer (M-DLS) for atmospheric investigations. Developed by Russia.
+Radio thermometer (RAT-M) for soil temperatures. Developed by Russia.
+Dust particle size, impact, and atmospheric charging instrument suite (PK). Developed by Russia, including also contributions from Italy (MicroMED) and France (electrical conductivity sensor).
+A seismometer (SEM). Developed by Russia.
+Gas chromatography–mass spectrometry (MGAK) for atmospheric analysis. Developed by Russia.Power sourceThe science and communication instruments on the lander will be powered by solar panels and rechargeable batteries. The automated voltage power system is being developed and build by ISS Reshetnev.
+Russia previously evaluated the option of using a radioisotope thermoelectric generator (RTG) to power the science instruments, and a radioisotope heater unit (RHU) to provide thermal control while on the frozen Martian surface.
+After a review by an ESA-appointed panel, a short list of four sites was formally recommended in October 2014 for further detailed analysis:
+Mawrth Vallis
+Oxia Planum
+Hypanis Vallis
+Aram DorsumOn 21 October 2015, Oxia Planum was chosen as the preferred landing site for the ExoMars rover assuming a 2018 launch. Since the launch was postponed to 2020, Aram Dorsum and Mawrth Vallis are also being considered. ESA convened further workshops to re-evaluate the three remaining options and in March 2017 selected two sites to study in detail:
+Mawrth Vallis
+Oxia PlanumAfter deliberation, ESA selected Oxia Planum to be the landing site in November 2018.
+ExoMars 2020 by NPO Lavochkin (in Russian)
+ExoMars Rover and Surface Platform at ESA's Planetary Science Archive

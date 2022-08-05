@@ -1,0 +1,161 @@
+In linguistic typology, ergative–absolutive alignment is a type of morphosyntactic alignment in which the single argument ("subject") of an intransitive verb behaves like the object of a transitive verb, and differently from the agent of a transitive verb. Examples are Basque, Georgian, Mayan, Tibetan, certain Indo-European languages (such as the Kurdish languages and many Indo-Aryan languages like Hindi–Urdu). It has controversially also  been attributed to  the Semitic modern Aramaic languages.
+This is in contrast to nominative–accusative alignment, which is observed in English and most other Indo-European languages, where the single argument of an intransitive verb ("She" in the sentence "She walks.") behaves grammatically like the agent of a transitive verb ("She" in the sentence "She finds it.") but different from the object of a transitive verb ("her" in the sentence "He likes her."). When ergative–absolutive alignment is coded by grammatical case, the case used for the single argument of an intransitive verb and the object of a transitive verb is the absolutive, and the case used for the agent of a transitive verb is the ergative. In nominative-accusative languages, the case for the single argument of an intransitive verb and the agent of a transitive verb is the nominative while the case for the direct object of a transitive verb is the accusative.
+Many languages have ergative–absolutive alignment only in some parts of their grammar (e.g., in the case marking of nouns), but nominative-accusative alignment in other parts (e.g., in the case marking of pronouns, or in person agreement). This is known as split ergativity.
+An ergative language maintains a syntactic or morphological equivalence (such as the same word order or grammatical case) for the object of a transitive verb and the single core argument of an intransitive verb, while treating the agent of a transitive verb differently.
+This contrasts with nominative–accusative languages such as English, where the single argument of an intransitive verb and the agent of a transitive verb (both called the subject) are treated alike and kept distinct from the object of a transitive verb.
+(reference for figure:)
+These different arguments are usually symbolized as follows:
+A = agent of transitive verb
+O = object of transitive verb (also symbolized as P for "patient")
+S = core argument of intransitive verbThe relationship between ergative and accusative systems can be schematically represented as the following:
+See morphosyntactic alignment for a more technical explanation and a comparison with nominative–accusative languages.
+Note that the word subject, as it is typically defined in grammars of nominative-accusative languages, has a different application when referring to ergative–absolutive languages, or when discussing morphosyntactic alignment in general.
+Ergative languages tend to be either verb-final or verb-initial; there are few, if any, ergative SVO-languages.
+Ergativity can be found in both morphological and syntactic behavior.
+If the language has morphological case, then the verb arguments are marked thus:
+The agent of a transitive verb (A) is marked as ergative case, or as a similar case such as oblique.
+The core argument of an intransitive verb (S) and the object of a transitive verb (O) are both marked with absolutive case.If there is no case marking, ergativity can be marked through other means, such as in verbal morphology. For instance, Abkhaz and most Mayan languages have no morphological ergative case, but they have a verbal agreement structure that is ergative. In languages with ergative–absolutive agreement systems, the absolutive form is usually the most unmarked form of a word (exceptions include Nias and Tlapanec).
+The following examples from Basque demonstrate an ergative–absolutive case marking system:
+Here "-Ø" represents a zero morpheme, as the absolutive case is unmarked in Basque. The forms for the ergative are "-k" after a vowel, and "-ek" after a consonant. It is a further rule in Basque grammar that in most cases a noun phrase must be closed by a determiner. The default determiner (commonly called the article, which is suffixed to common nouns and usually translatable by "the" in English) is "-a" in the singular and "-ak" in the plural, the plural being marked only on the determiner and never the noun. For common nouns, this default determiner is fused with the ergative case marker. Thus one obtains the following forms for "gizon" ("man" in English): gizon-a (man-the.sing.abs), gizon-ak (man-the.pl.abs), gizon-ak (man-the.sing.erg), gizon-ek (man-the.pl.erg). Note that when fused with the article, the absolutive plural is homophonous with the ergative singular. See Basque grammar for details.
+In contrast, Japanese is a nominative–accusative language:
+In this language, the argument of the intransitive and agent of the transitive sentence are marked with the same nominative case particle ga, while the object of the transitive sentence is marked with the accusative case o.
+If one sets: A = agent of a transitive verb; S = argument of an intransitive verb; O = object of a transitive verb, then we can contrast normal nominative–accusative English with a hypothetical ergative English:
+Accusative English:
+He (A) found me (O).He (S) traveled.(S form = A form)
+Hypothetical ergative English:
+He (A) found me (O).Him (S) traveled.(S form = O form)
+A number of languages have both ergative and accusative morphology. A typical example is a language that has nominative-accusative marking on verbs and ergative–absolutive case marking on nouns.
+Georgian also has an ergative alignment, but the agent is only marked with the ergative case in the perfective aspect (also known as the "aorist screeve"). Compare:
+K'ac'i vašls č'ams. (კაცი ვაშლს ჭამს) "The man is eating an apple."
+K'ac'ma vašli č'ama. (კაცმა ვაშლი ჭამა) "The man ate an apple."K'ac'- is the root of the word "man". In the first sentence (present continuous tense) the agent is in the nominative case (k'ac'i ). In the second sentence, which shows ergative alignment, the root is marked with the ergative suffix -ma.
+However, there are some intransitive verbs in Georgian that behave like transitive verbs, and therefore employ the ergative case in the past tense. Consider:
+K'ac'ma daacemina. (კაცმა დააცემინა) "The man sneezed."Although the verb sneeze is clearly intransitive, it is conjugated like a transitive verb. In Georgian there are a few verbs like these, and there has not been a clear-cut explanation as to why these verbs have evolved this way. One explanation is that verbs such as "sneeze" used to have a direct object (the object being "nose" in the case of "sneeze") and over time lost these objects, yet kept their transitive behavior.
+In rare cases, such as the Australian Aboriginal language Nhanda, different nominal elements may follow a different case-alignment template. In Nhanda, common nouns have ergative-absolutive alignment—like in most Australian languages—but most pronouns instead follow a nominative-accusative template. In Nhanda, absolutive case has a null suffix while ergative case is marked with some allomorph of the suffixes -nggu or -lu. See the common noun paradigm at play below:
+Intransitive Subject (ABS)
+Transitive Subject-Object (ERG-ABS)
+Compare the above examples with the case marking of pronouns in Nhanda below, wherein all subjects (regardless of verb transitivity) are marked (in this case with a null suffix) the same for case while transitive objects take the accusative suffix -nha.
+Intransitive Pronoun Subject (NOM)
+Transitive Pronoun Subject-Object (NOM-ACC)
+Ergativity may be manifested through syntax, such as saying "Arrived I" for "I arrived", in addition to morphology. Syntactic ergativity is quite rare, and while all languages that exhibit it also feature morphological ergativity, few morphologically ergative languages have ergative syntax. As with morphology, syntactic ergativity can be placed on a continuum, whereby certain syntactic operations may pattern accusatively and others ergatively. The degree of syntactic ergativity is then dependent on the number of syntactic operations that treat the subject like the object. Syntactic ergativity is also referred to as inter-clausal ergativity, as it typically appears in the relation of two clauses.
+Syntactic ergativity may appear in:
+Word order (for example, the absolutive argument comes before the verb and the ergative argument comes after it)
+Syntactic pivots
+Relative clauses – determining which arguments are available for relativization
+Subordination
+Switch referenceExample of syntactic ergativity in the "conjunction reduction" construction (coordinated clauses) in Dyirbal in contrast with English conjunction reduction. (The subscript (i) indicates coreference.)
+English (SVO word order):
+Father returned.
+Father saw mother.
+Mother saw father.
+Father(i) returned and father(i) saw mother.
+Father returned and ____(i) saw mother.
+Father(i) returned and mother saw father(i).
+Father returned and mother saw ____(i). (ill-formed, because S and deleted O cannot be coreferential.)Dyirbal (OSV word order):
+Ŋuma banaganu. (Father returned.)
+Yabu ŋumaŋgu buṛan. (lit. Mother father-ŋgu saw, i.e. Father saw mother.)
+Ŋuma yabuŋgu buṛan. (lit. Father mother-ŋgu saw, i.e. Mother saw father.)
+Ŋuma(i) banaganu, yabu ŋumaŋgu(i) buṛan. (lit. Father(i) returned, mother father-ŋgu(i) saw, i.e. Father returned, father saw mother.)
+Ŋuma(i) banaganu, yabu ____(i) buṛan. (lit. *Father(i) returned, mother ____(i) saw; ill-formed, because S and deleted A cannot be coreferential.)
+Ŋuma(i) banaganu, ŋuma(i) yabuŋgu buṛan. (lit. Father(i) returned, father(i) mother-ŋgu saw, i.e. Father returned, mother saw father.)
+Ŋuma(i) banaganu, ____(i) yabuŋgu buṛan. (lit. Father(i) returned, ____(i) mother-ŋgu saw, i.e. Father returned, mother saw father.)The term ergative–absolutive is considered unsatisfactory by some, since there are very few languages without any patterns that exhibit nominative–accusative alignment. Instead they posit that one should only speak of ergative–absolutive systems, which languages employ to different degrees.
+Many languages classified as ergative in fact show split ergativity, whereby syntactic and/or morphological ergative patterns are conditioned by the grammatical context, typically person or the tense/aspect of the verb. Basque is unusual in having an almost fully ergative system in case-marking and verbal agreement, though it shows thoroughly nominative–accusative syntactic alignment.
+In Hindustani (Hindi and Urdu), the ergative case is marked on agents in the perfective aspect for transitive and ditransitive verbs (also for intransitive verbs when they are voliational), while in other situations agents appear in the nominative case.
+In the Northern Kurdish language Kurmanji, the ergative case is marked on agents and verbs of transitive verbs in past tenses, for the events actually occurred in the past. Present, future and "future in the past" tenses show no ergative mark neither for agents nor the verbs. For example:
+(1) Ez diçim. (I go)
+(2) Ez wî dibînim. (I see him.)
+(3) Ew diçe. (He goes)
+(4) Ew min dibîne. (He sees me.)but:
+(5) Ez çûm. (I went)
+(6) Min ew dît. (I saw him.)
+(7) Ew çû. (He went.)
+(8) Wî ez dîtim. (He saw me.)In sentences (1) to (4), there is no ergativity (transitive and intransitive verbs alike). In sentences (6) and (8), the ergative case is marked on agents and verbs.
+In Dyirbal, pronouns are morphologically nominative–accusative when the agent is first or second person, but ergative when the agent is a third person.
+Many languages with ergative marking display what is known as optional ergativity, where the ergative marking is not always expressed in all situations. McGregor (2010) gives a range of contexts when we often see optional ergativity, and argues that the choice is often not truly optional but is affected by semantics and pragmatics. Note that unlike split ergativity, which occurs regularly but in limited locations, optional ergativity can occur in a range of environments, but may not be used in a way that appears regular or consistent.
+Optional ergativity may be motivated by:
+The animacy of the subject, with more animate subjects more likely to be marked ergative
+The semantics of the verb, with more active or transitive verbs more likely to be marked ergative
+The grammatical structure or [tense-aspect-mood]Languages from Australia, New Guinea and Tibet have been shown to have optional ergativity.
+Prototypical ergative languages are, for the most part, restricted to specific regions of world: Mesopotamia (Kurdish, and some extinct languages), the Caucasus, the Americas, the Tibetan Plateau, and Australia and parts of New Guinea.
+Some specific languages and language families are the following:
+Americas
+Chibchan languages
+Chinookan languages (extinct)
+Coosan languages (extinct)
+Eskimo–Aleut languages
+Guaicuruan languages
+Macro-Jê languages
+Mayan
+Mixe–Zoque
+Panoan languages
+Salish languages
+TsimshianAfrica
+Majang language, a Nilo-Saharan language of Ethiopia
+Päri, although recent studies imply a nominative-accusative system.Asia
+Assamese
+Burushaski
+Chukchi (endangered)
+Hawu
+Tibetan
+Sylheti
+YaghnobiAustralian
+Most Australian Aboriginal languages, such as DyirbalCertain Australian Aboriginal languages (e.g., Wangkumara) possess an intransitive case and an accusative case along with an ergative case, and lack an absolutive case; such languages are called tripartite languages or ergative–accusative languages.
+Papua
+Eastern Trans-Fly languages
+various Trans–New Guinea languagesEurope
+BasqueCaucasus and Near East
+Hurrian (extinct)
+Urartian (extinct)
+Sumerian (extinct)
+South Caucasian: Georgian, Laz
+Northeast Caucasian: Chechen,  Lezgian, Tsez, Archi (endangered)
+Northwest Caucasian: Abkhaz, Circassian, Ubykh (extinct)
+Kurdish: Gorani, Zazaki, Sorani and KurmanjiWhile the claim is doubted, several scholars have hypothesized that Proto-Indo-European was an ergative language.
+Some languages have limited ergativity
+In Hindi (Indo-Iranian), ergative alignment occurs only when the verb is in the perfective aspect for transitive verbs (also for intransitive verbs but only when they are volitional).
+In Pashto, ergative alignment occurs only in the past tense.
+In Georgian, ergativity only occurs in the perfective.
+The Philippine languages (e.g., Tagalog) are sometimes considered ergative (Schachter 1976, 1977; Kroeger 1993); however, they have also been considered to have their own unique morphosyntactic alignment. See Austronesian alignment.
+In the Neo-Aramaic languages (Assyrian Neo-Aramaic, Lishana Deni, Koy Sanjaq Syriac language and others) split ergativity formed in the perfective aspect only, whereas the imperfective aspect is nominative-accusative. Some dialects would only mark unaccusative subjects as ergative. Assyrian Neo-Aramaic, in particular, has an ergative type of construction of the perfective past verbal base, where foregone actions are verbalized by a passive construction with the patient being conferred as the grammatical subject rather than by an active construction, e.g. baxta qtile ("the woman was killed by him"). The ergative type of inflection with an agentive phrase has been extended by analogy to intransitive verbs, e.g. qim-le ("he has risen"). To note, Aramaic has historically been a nominative-accusative language.Sign languages (for example, Nepali Sign Language) should also generally be considered ergative in the patterning of actant incorporation in verbs. In sign languages that have been studied, classifier handshapes are incorporated into verbs, indicating the subject of intransitive verbs when incorporated, and the object of transitive verbs. (If we follow the "semantic phonology" model proposed by William Stokoe (1991) this ergative-absolutive patterning also works at the level of the lexicon: thus in Nepali Sign Language the sign for TEA has the motion for the verb DRINK with a manual alphabet handshape च /ca/ (standing for the first letter of the Nepali word TEA चिया /chiya:/) being incorporated as the object.)
+English has derivational morphology that parallels ergativity in that it operates on intransitive verbs and objects of transitive verbs. With certain intransitive verbs, adding the suffix "-ee" to the verb produces a label for the person performing the action:
+"John has retired" → "John is a retiree"
+"John has escaped" → "John is an escapee"However, with a transitive verb, adding "-ee" does not produce a label for the person doing the action. Instead, it gives us a label for the person to whom the action is done:
+"Susie employs Mike" → "Mike is an employee"
+"Mike has appointed Susie" → "Susie is an appointee"Etymologically, the sense in which "-ee" denotes the object of a transitive verb is the original one, arising from French past participles in "-é". This is still the prevalent sense in British English: the intransitive uses are all 19th-century American coinages and all except "escapee" are still marked as "chiefly U.S." by the Oxford English Dictionary.
+English also has a number of so-called ergative verbs, where the object of the verb when transitive is equivalent to the subject of the verb when intransitive.
+When English nominalizes a clause, the underlying subject of an intransitive verb and the underlying object of a transitive verb are both marked with the possessive case or with the preposition "of" (the choice depends on the type and length of the noun: pronouns and short nouns are typically marked with the possessive, while long and complex NPs are marked with "of"). The underlying subject of a transitive is marked differently (typically with "by" as in a passive construction):
+"(a dentist) extracts a tooth" → "the extraction of a tooth (by a dentist)"
+"(I/The editor) revised the essay" → "(my/the editor's) revision of the essay"
+"(I was surprised that) the water boiled" → "(I was surprised at) the boiling of the water"
+"I departed on time (so I could catch the plane)" → "My timely departure (allowed me to catch the plane)"Absolutive case
+Austronesian alignment
+Ergative case
+Ergative verb
+Morphosyntactic alignment
+Split ergativity
+Transitivity (grammar)
+Unaccusative verb
+Unergative verbDixon, R. M. W. (2011). Searching for Aboriginal Languages: Memoirs of a Field Worker. Cambridge University Press. ISBN 978-1-108-02504-1.Aldridge, Edith. (2008). Generative Approaches to Ergativity. Language and Linguistics Compass, 2, 966–995.
+Aldridge, Edith. (2008). Minimalist analysis of ergativity. Sophia Linguistica, 55, 123–142.
+Aldridge, Edith. (2016). Ergativity from subjunctive in Austronesian languages. Language and Linguistics, 17(1), 27–62.
+Anderson, Stephen. (1976). On the notion of subject in ergative languages. In C. Li. (Ed.), Subject and topic (pp. 1–24). New York: Academic Press. ISBN 0-12-447350-4.
+Anderson, Stephen R. (1985). Inflectional morphology. In T. Shopen (Ed.), Language typology and syntactic description: Grammatical categories and the lexicon (Vol. 3, pp. 150–201). Cambridge: University of Cambridge Press. ISBN 0-521-58158-3.
+Comrie, Bernard. (1978). Ergativity In W. P. Lehmann (Ed.), Syntactic typology: Studies in the phenomenology of language (pp. 329–394). Austin: University of Texas Press. ISBN 0-292-77545-8.
+Coon, Jessica, Diane Massam and Lisa deMena Travis. (Eds.). (2017). The Oxford handbook of ergativity. Oxford University Press.
+Comrie, Bernard (1989 [1981]). Language Universals and Linguistic Typology, 2nd ed. University of Chicago Press.
+Dixon, R. M. W. (1979). Ergativity. Language, 55 (1), 59-138. (Revised as Dixon 1994).
+Dixon, R. M. W. (Ed.) (1987). Studies in ergativity. Amsterdam: North-Holland. ISBN 0-444-70275-X.
+Dixon, R. M. W. (1994). Ergativity. Cambridge University Press. ISBN 0-521-44898-0.
+Foley, William; & Van Valin, Robert. (1984). Functional syntax and universal grammar. Cambridge University Press. ISBN 0-521-25956-8.
+Iliev, Ivan G. (2007) On the Nature of Grammatical Case ... (Case and Vocativeness)
+Kroeger, Paul. (1993). Phrase structure and grammatical relations in Tagalog. Stanford: CSLI.  ISBN 0-937073-86-5.
+Legate, Julie Anne. (2008). Morphological and Abstract Case. Linguistic Inquiry 39.1: 55-101.
+Mallinson, Graham; & Blake, Barry J. (1981). Agent and patient marking. Language typology: Cross-linguistic studies in syntax (Chap. 2, pp. 39–120). North-Holland linguistic series. Amsterdam: North-Holland Publishing Company.
+McGregor, William B. (2010). Optional ergative case marking systems in a typological-semiotic perspective. Lingua 120: 1610–1636.
+Paul, Ileana & Travis, Lisa. (2006). Ergativity in Austronesian languages: What it can do, what it can't, but not why. In A. Johns, D. Massam, & J. Ndayiragije (Eds.), Ergativity: Emerging Issues (pp. 315–335). Dordrecht, The Netherlands: Springer.
+Plank, Frans. (Ed.). (1979). Ergativity: Towards a theory of grammatical relations. London: Academic Press.
+Rude, Noel. (1983). Ergativity and the active-stative typology in Loma. Studies in African Linguistics 14 (3): 265–283.
+Schachter, Paul. (1976). The subject in Philippine languages: Actor, topic, actor-topic, or none of the above. In C. Li. (Ed.), Subject and topic (pp. 491–518). New York: Academic Press.
+Schachter, Paul. (1977). Reference-related and role-related properties of subjects. In P. Cole & J. Sadock (Eds.), Syntax and semantics: Grammatical relations (Vol. 8, pp. 279–306). New York: Academic Press. ISBN 0-12-613508-8.
+Silverstein, Michael. (1976). Hierarchy of Features and Ergativity. In R.M.W. Dixon (ed.) Grammatical Categories in Australian Languages (pp. 112–171). New Jersey: Humanities Press. ISBN 0-391-00694-0. Reprinted in  Pieter Muysken and Henk van Riemsdijk (eds.), Features and Projections (pp. 163–232).  Dordrecht: Foris. ISBN 90-6765-144-3.
+Verbeke, Saartje. 2013. Alignment and ergativity in new Indo-Aryan languages. Berlin: de Gruyter.
+Vydrin, Valentin. (2011). Ergative/Absolutive and Active/Stative alignment in West Africa:The case of Southwestern Mande.  Studies in Language 35 (2): 409–443."A quick tutorial on ergativity, by way of the Squid-headed one", at Recycled Knowledge (blog), by John Cowan, 2005-05-05.

@@ -1,0 +1,21 @@
+Definition
+Introduction and local definition
+Definition via local coordinates on a smooth manifold
+Definition via differentiation of vector fields
+Comparison of the definitions
+Properties
+Informal properties
+Direct geometric meaning
+Applications
+Global geometry and topology
+Behavior under conformal rescaling
+Trace-free Ricci tensor
+The orthogonal decomposition of the Ricci tensor
+The trace-free Ricci tensor and Einstein metrics
+Kähler manifolds
+Generalization to affine connections
+Discrete Ricci curvature
+See also
+Footnotes
+References
+External links

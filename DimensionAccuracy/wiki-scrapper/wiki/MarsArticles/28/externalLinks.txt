@@ -1,0 +1,10 @@
+https://en.wikipedia.org/w/index.php?title=L-type_asteroid&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22L-type+asteroid%22
+//www.google.com/search?tbm=nws&q=%22L-type+asteroid%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22L-type+asteroid%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22L-type+asteroid%22+-wikipedia
+//scholar.google.com/scholar?q=%22L-type+asteroid%22
+https://www.jstor.org/action/doBasicSearch?Query=%22L-type+asteroid%22&acc=on&wc=on
+http://ssd.jpl.nasa.gov/sbdb_query.cgi?obj_group=all;obj_kind=all;obj_numbered=all;OBJ_field=0;ORB_field=0;combine_mode=OR;c1_group=OBJ;c1_item=Ay;c1_op=%3D;c1_value=L;c2_group=OBJ;c2_item=Ax;c2_op=%3D;c2_value=L;table_format=HTML;max_rows=100;format_option=comp;c_fields=AcBhBgBjBiBnBsAiArApAxAy;.cgifields=format_option;.cgifields=obj_kind;.cgifields=obj_group;.cgifields=obj_numbered;.cgifields=combine_mode;.cgifields=ast_orbit_class;.cgifields=table_format;.cgifields=com_orbit_class&query=1&c_sort=AcA
+https://en.wikipedia.org/w/index.php?title=Template:Asteroids&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Small_Solar_System_bodies&action=edit

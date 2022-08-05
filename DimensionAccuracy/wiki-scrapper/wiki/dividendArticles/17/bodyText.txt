@@ -1,0 +1,560 @@
+Scientific notation is a way of expressing numbers that are too large or too small (usually would result in a long string of digits) to be conveniently written in decimal form. It may be referred to as scientific form or standard index form, or standard form in the United Kingdom. This base ten notation is commonly used by scientists, mathematicians, and engineers, in part because it can simplify certain arithmetic operations. On scientific calculators it is usually known as "SCI" display mode.
+In scientific notation, nonzero numbers are written in the form 
+m × 10or m times ten raised to the power of n, where n is an integer, and the coefficient m is a nonzero real number (usually between 1 and 10 in absolute value, and nearly always written as a terminating decimal). The integer n is called the exponent and the real number m is called the significand or mantissa. The term "mantissa" can be ambiguous where logarithms are involved, because it is also the traditional name of the fractional part of the common logarithm.  If the number is negative then a minus sign precedes m, as in ordinary decimal notation. In normalized notation, the exponent is chosen so that the absolute value (modulus) of the significand m is at least 1 but less than 10.
+Decimal floating point is a computer arithmetic system closely related to scientific notation.
+Any given real number can be written in the form m×10^ in many ways: for example, 350 can be written as 3.5×10 or 35×10 or 350×10.
+In normalized scientific notation (called "standard form" in the United Kingdom), the exponent n is chosen so that the absolute value of m remains at least one but less than ten (1 ≤ |m| < 10). Thus 350 is written as 3.5×10. This form allows easy comparison of numbers: numbers with bigger exponents are (due to the normalization) larger than those with smaller exponents, and subtraction of exponents gives an estimate of the number of orders of magnitude separating the numbers.  It is also the form that is required when using tables of common logarithms. In normalized notation, the exponent n is negative for a number with absolute value between 0 and 1 (e.g. 0.5 is written as 5×10). The 10 and exponent are often omitted when the exponent is 0.
+Normalized scientific form is the typical form of expression of large numbers in many fields, unless an unnormalized or differently normalized form, such as engineering notation, is desired. Normalized scientific notation is often called exponential notation—although the latter term is more general and also applies when m is not restricted to the range 1 to 10 (as in engineering notation for instance) and to bases other than 10 (for example, 3.15×2^).
+Engineering notation (often named "ENG" on scientific calculators) differs from normalized scientific notation in that the exponent n is restricted to multiples of 3. Consequently, the absolute value of m is in the range 1 ≤ |m| < 1000, rather than 1 ≤ |m| < 10. Though similar in concept, engineering notation is rarely called scientific notation. Engineering notation allows the numbers to explicitly match their corresponding SI prefixes, which facilitates reading and oral communication. For example, 12.5×10 m can be read as "twelve-point-five nanometres" and written as 12.5 nm, while its scientific notation equivalent 1.25×10 m would likely be read out as "one-point-two-five times ten-to-the-negative-eight metres".
+A significant figure is a digit in a number that adds to its precision. This includes all nonzero numbers, zeroes between significant digits, and zeroes indicated to be significant.
+Leading and trailing zeroes are not significant digits, because they exist only to show the scale of the number. Unfortunately, this leads to ambiguity. The number 1230400 is usually read to have five significant figures: 1, 2, 3, 0, and 4, the final two zeroes serving only as placeholders and adding no precision. The same number, however, would be used if the last two digits were also measured precisely and found to equal 0— seven significant figures.
+When a number is converted into normalized scientific notation, it is scaled down to a number between 1 and 10. All of the significant digits remain, but the placeholding zeroes are no longer required. Thus 1230400 would become 1.2304×10 if it had five significant digits. If the number were known to six or seven significant figures, it would be shown as 1.23040×10 or 1.230400×10. Thus, an additional advantage of scientific notation is that the number of significant figures is unambiguous.
+It is customary in scientific measurement to record all the definitely known digits from the measurement and to estimate at least one additional digit if there is any information at all available on its value. The resulting number contains more information than it would without the extra digit, which may be considered a significant digit because it conveys some information leading to greater precision in measurements and in aggregations of measurements (adding them or multiplying them together).
+Additional information about precision can be conveyed through additional notation. It is often useful to know how exact the final digit is. For instance, the accepted value of the mass of the proton can properly be expressed as 1.67262192369(51)×10 kg, which is shorthand for (1.67262192369±0.00000000051)×10 kg.
+Most calculators and many computer programs present very large and very small results in scientific notation, typically invoked by a key labelled EXP (for exponent), EEX (for enter exponent), EE, EX, E, or ×10 depending on vendor and model. Because superscripted exponents like 10 cannot always be conveniently displayed, the letter E (or e) is often used to represent "times ten raised to the power of" (which would be written as "× 10") and is followed by the value of the exponent; in other words, for any two real numbers m and n, the usage of "mEn" would indicate a value of m × 10. In this usage the character e is not related to the mathematical constant e or the exponential function e (a confusion that is unlikely if scientific notation is represented by a capital E). Although the E stands for exponent, the notation is usually referred to as (scientific) E notation rather than (scientific) exponential notation. The use of E notation facilitates data entry and readability in textual communication since it minimizes keystrokes, avoids reduced font sizes and provides a simpler and more concise display, but it is not encouraged in some publications.
+Since its first version released for the IBM 704 in 1956, the FORTRAN language has used E notation for floating point numbers. It was not part of the preliminary specification as of 1954.
+The E notation was already used by the developers of SHARE Operating System (SOS) for the IBM 709 in 1958.
+In most popular programming languages, 6.022E23 (or 6.022e23) is equivalent to 6.022×10, and 1.6×10 would be written 1.6E-35 (e.g. Ada, Analytica, C/C++, FORTRAN, MATLAB, Scilab, Perl, Java, Python, Lua, JavaScript, and others).
+After the introduction of the first pocket calculators supporting scientific notation in 1972 (HP-35, SR-10) the term decapower was sometimes used in the emerging user communities for the power-of-ten multiplier in order to better distinguish it from "normal" exponents. Likewise, the letter "D" was used in typewritten numbers. This notation was proposed by Jim Davidson and published in the January 1976 issue of Richard J. Nelson's Hewlett-Packard newsletter 65 Notes for HP-65 users, and it was adopted and carried over into the Texas Instruments community by Richard C. Vanderburgh, the editor of the 52-Notes newsletter for SR-52 users in November 1976.
+The displays of LED pocket calculators did not display an "e" or "E". Instead, one or more digits were left blank between the mantissa and exponent (e.g. 6.022 23, such as in the Hewlett-Packard HP-25), or a pair of smaller and slightly raised digits reserved for the exponent was used (e.g. 6.022 , such as in the Commodore PR100).
+FORTRAN (at least since FORTRAN IV as of 1961) also uses "D" to signify double precision numbers in scientific notation.
+Similar, a "D" was used by Sharp pocket computers PC-1280, PC-1470U, PC-1475, PC-1480U, PC-1490U, PC-1490UII, PC-E500, PC-E500S, PC-E550, PC-E650 and PC-U6000 to indicate 20-digit double-precision numbers in scientific notation in BASIC between 1987 and 1995.
+The ALGOL 60 (1960) programming language uses a subscript ten "10" character instead of the letter E, for example: 6.0221023.
+The use of the "10" in the various Algol standards provided a challenge on some computer systems that did not provide such a "10" character. As a consequence Stanford University Algol-W required the use of a single quote, e.g. 6.022'+23, and some Soviet Algol variants allowed the use of the Cyrillic character "ю" character, e.g. 6.022ю+23.
+Subsequently, the ALGOL 68 programming language provided the choice of 4 characters: E, e, \, or 10. By examples: 6.022E23, 6.022e23, 6.022\23 or 6.0221023.Decimal Exponent Symbol is part of the Unicode Standard, e.g. 6.022⏨23. It is included as U+23E8 ⏨ DECIMAL EXPONENT SYMBOL to accommodate usage in the programming languages Algol 60 and Algol 68.
+The TI-83 series and TI-84 Plus series of calculators use a stylized E character to display decimal exponent and the 10 character to denote an equivalent ×10^ operator.
+The Simula programming language requires the use of & (or && for long), for example: 6.022&23 (or 6.022&&23).
+The Wolfram Language (utilized in Mathematica) allows a shorthand notation of 6.022*^23. (Instead, E denotes the mathematical constant e).In normalized scientific notation, in E notation, and in engineering notation, the space (which in typesetting may be represented by a normal width space or a thin space) that is allowed only before and after "×" or in front of "E" is sometimes omitted, though it is less common to do so before the alphabetical character.
+An electron's mass is about 0.000000000000000000000000000000910938356 kg. In scientific notation, this is written 9.10938356×10 kg (in SI units).
+The Earth's mass is about 5972400000000000000000000 kg. In scientific notation, this is written 5.9724×10 kg.
+The Earth's circumference is approximately 40000000 m. In scientific notation, this is 4×10 m. In engineering notation, this is written 40×10 m. In SI writing style, this may be written 40 Mm (40 megametres).
+An inch is defined as exactly 25.4 mm. Quoting a value of 25.400 mm shows that the value is correct to the nearest micrometre. An approximated value with only two significant digits would be 2.5×10 mm instead. As there is no limit to the number of significant digits, the length of an inch could, if required, be written as (say) 2.54000000000×10 mm instead.
+Hyperinflation is a problem that is caused when too much money is printed with regards to there being too few commodities, causing the inflation rate to rise by 50% or more in a single month; currencies tend to lose their intrinsic value over time. Some countries have had an inflation rate of 1 million percent or more in a single month, which usually results in the abandonment of the country's currency shortly afterwards. In November 2008, the monthly inflation rate of the Zimbabwean dollar reached 79.6 billion percent; the approximated value with three significant figures would be 7.96×10 percent.Converting a number in these cases means to either convert the number into scientific notation form, convert it back into decimal form or to change the exponent part of the equation. None of these alter the actual number, only how it's expressed.
+First, move the decimal separator point sufficient places, n, to put the number's value within a desired range, between 1 and 10 for normalized notation. If the decimal was moved to the left, append × 10; to the right, × 10. To represent the number 1,230,400 in normalized scientific notation, the decimal separator would be moved 6 digits to the left and × 10 appended, resulting in 1.2304×10. The number −0.0040321 would have its decimal separator shifted 3 digits to the right instead of the left and yield −4.0321×10 as a result.
+Converting a number from scientific notation to decimal notation, first remove the × 10 on the end, then shift the decimal separator n digits to the right (positive n) or left (negative n). The number 1.2304×10 would have its decimal separator shifted 6 digits to the right and become 1,230,400, while −4.0321×10 would have its decimal separator moved 3 digits to the left and be −0.0040321.
+Conversion between different scientific notation representations of the same number with different exponential values is achieved by performing opposite operations of multiplication or division by a power of ten on the significand and an subtraction or addition of one on the exponent part. The decimal separator in the significand is shifted x places to the left (or right) and x is added to (or subtracted from) the exponent, as shown below.
+1.234×10 = 12.34×10 = 123.4×10 = 1234Given two numbers in scientific notation,
+
+
+
+
+
+x
+
+0
+
+
+=
+
+m
+
+0
+
+
+×
+
+10
+
+
+n
+
+0
+
+
+
+
+
+
+{\displaystyle x_{0}=m_{0}\times 10^{n_{0}}}
+
+and
+
+
+
+
+
+x
+
+1
+
+
+=
+
+m
+
+1
+
+
+×
+
+10
+
+
+n
+
+1
+
+
+
+
+
+
+{\displaystyle x_{1}=m_{1}\times 10^{n_{1}}}
+
+Multiplication and division are performed using the rules for operation with exponentiation:
+
+
+
+
+
+x
+
+0
+
+
+
+x
+
+1
+
+
+=
+
+m
+
+0
+
+
+
+m
+
+1
+
+
+×
+
+10
+
+
+n
+
+0
+
+
++
+
+n
+
+1
+
+
+
+
+
+
+{\displaystyle x_{0}x_{1}=m_{0}m_{1}\times 10^{n_{0}+n_{1}}}
+
+and
+
+
+
+
+
+
+
+x
+
+0
+
+
+
+x
+
+1
+
+
+
+
+=
+
+
+
+m
+
+0
+
+
+
+m
+
+1
+
+
+
+
+×
+
+10
+
+
+n
+
+0
+
+
+−
+
+n
+
+1
+
+
+
+
+
+
+{\displaystyle {\frac {x_{0}}{x_{1}}}={\frac {m_{0}}{m_{1}}}\times 10^{n_{0}-n_{1}}}
+
+Some examples are:
+
+
+
+
+5.67
+×
+
+10
+
+−
+5
+
+
+×
+2.34
+×
+
+10
+
+2
+
+
+≈
+13.3
+×
+
+10
+
+−
+5
++
+2
+
+
+=
+13.3
+×
+
+10
+
+−
+3
+
+
+=
+1.33
+×
+
+10
+
+−
+2
+
+
+
+
+{\displaystyle 5.67\times 10^{-5}\times 2.34\times 10^{2}\approx 13.3\times 10^{-5+2}=13.3\times 10^{-3}=1.33\times 10^{-2}}
+
+and
+
+
+
+
+
+
+
+2.34
+×
+
+10
+
+2
+
+
+
+
+5.67
+×
+
+10
+
+−
+5
+
+
+
+
+
+≈
+0.413
+×
+
+10
+
+2
+−
+(
+−
+5
+)
+
+
+=
+0.413
+×
+
+10
+
+7
+
+
+=
+4.13
+×
+
+10
+
+6
+
+
+
+
+{\displaystyle {\frac {2.34\times 10^{2}}{5.67\times 10^{-5}}}\approx 0.413\times 10^{2-(-5)}=0.413\times 10^{7}=4.13\times 10^{6}}
+
+Addition and subtraction require the numbers to be represented using the same exponential part, so that the significand can be simply added or subtracted:
+
+
+
+
+
+x
+
+0
+
+
+=
+
+m
+
+0
+
+
+×
+
+10
+
+
+n
+
+0
+
+
+
+
+
+
+{\displaystyle x_{0}=m_{0}\times 10^{n_{0}}}
+
+ and 
+
+
+
+
+x
+
+1
+
+
+=
+
+m
+
+1
+
+
+×
+
+10
+
+
+n
+
+1
+
+
+
+
+
+
+{\displaystyle x_{1}=m_{1}\times 10^{n_{1}}}
+
+ with 
+
+
+
+
+n
+
+0
+
+
+=
+
+n
+
+1
+
+
+
+
+{\displaystyle n_{0}=n_{1}}
+
+Next, add or subtract the significands:
+
+
+
+
+
+x
+
+0
+
+
+±
+
+x
+
+1
+
+
+=
+(
+
+m
+
+0
+
+
+±
+
+m
+
+1
+
+
+)
+×
+
+10
+
+
+n
+
+0
+
+
+
+
+
+
+{\displaystyle x_{0}\pm x_{1}=(m_{0}\pm m_{1})\times 10^{n_{0}}}
+
+An example:
+
+
+
+
+2.34
+×
+
+10
+
+−
+5
+
+
++
+5.67
+×
+
+10
+
+−
+6
+
+
+=
+2.34
+×
+
+10
+
+−
+5
+
+
++
+0.567
+×
+
+10
+
+−
+5
+
+
+=
+2.907
+×
+
+10
+
+−
+5
+
+
+
+
+{\displaystyle 2.34\times 10^{-5}+5.67\times 10^{-6}=2.34\times 10^{-5}+0.567\times 10^{-5}=2.907\times 10^{-5}}
+
+While base ten is normally used for scientific notation, powers of other bases can be used too, base 2 being the next most commonly used one.
+For example, in base-2 scientific notation, the number 1001b in binary (=9d) is written as 
+1.001b × 2d or 1.001b × 10b using binary numbers (or shorter 1.001 × 10 if binary context is obvious). In E notation, this is written as 1.001bE11b (or shorter: 1.001E11) with the letter E now standing for "times two (10b) to the power" here. In order to better distinguish this base-2 exponent from a base-10 exponent, a base-2 exponent is sometimes also indicated by using the letter B instead of E, a shorthand notation originally proposed by Bruce Alan Martin of Brookhaven National Laboratory in 1968, as in 1.001bB11b (or shorter: 1.001B11). For comparison, the same number in decimal representation: 1.125 × 2 (using decimal representation), or 1.125B3 (still using decimal representation). Some calculators use a mixed representation for binary floating point numbers, where the exponent is displayed as decimal number even in binary mode, so the above becomes 1.001b × 10b or shorter 1.001B3.
+This is closely related to the base-2 floating-point representation commonly used in computer arithmetic, and the usage of IEC binary prefixes (e.g. 1B10 for 1×2 (kibi), 1B20 for 1×2 (mebi), 1B30 for 1×2 (gibi), 1B40 for 1×2 (tebi)).
+Similar to B (or b), the letters H (or h) and O (or o, or C) are sometimes also used to indicate times 16 or 8 to the power as in 1.25 = 1.40h × 10h = 1.40H0 = 1.40h0, or 98000 = 2.7732o × 10o = 2.7732o5 = 2.7732C5.
+Another similar convention to denote base-2 exponents is using a letter P (or p, for "power"). In this notation the significand is always meant to be hexadecimal, whereas the exponent is always meant to be decimal. This notation can be produced by implementations of the printf family of functions following the C99 specification and (Single Unix Specification) IEEE Std 1003.1 POSIX standard, when using the %a or %A conversion specifiers. Starting with C++11, C++ I/O functions could parse and print the P notation as well. Meanwhile, the notation has been fully adopted by the language standard since C++17. Apple's Swift supports it as well. It is also required by the IEEE 754-2008 binary floating-point standard. Example: 1.3DEp42 represents 1.3DEh × 2.
+Engineering notation can be viewed as a base-1000 scientific notation.
+Binary prefix
+Positional notation
+Variable scientific notation
+Engineering notation
+Floating-point arithmetic
+ISO 31-0
+ISO 31-11
+Significant figure
+Suzhou numerals are written with order of magnitude and unit of measurement below the significand
+RKM codeDecimal to Scientific Notation Converter
+Scientific Notation to Decimal Converter
+Scientific Notation in Everyday Life
+An exercise in converting to and from scientific notation
+Scientific Notation Converter
+Scientific Notation chapter from Lessons In Electric Circuits Vol 1 DC free ebook and Lessons In Electric Circuits series.

@@ -1,0 +1,78 @@
+Mycenaean Greek is the most ancient attested form of the Greek language, on the Greek mainland and Crete in Mycenaean Greece (16th to 12th centuries BC), before the hypothesised Dorian invasion, often cited as the terminus ad quem for the introduction of the Greek language to Greece. The language is preserved in inscriptions in Linear B, a script first attested on Crete before the 14th century BC. Most inscriptions are on clay tablets found in Knossos, in central Crete, as well as in Pylos, in the southwest of the Peloponnese. Other tablets have been found at Mycenae itself, Tiryns and Thebes and at Chania, in Western Crete. The language is named after Mycenae, one of the major centres of Mycenaean Greece.
+The tablets long remained undeciphered, and many languages were suggested for them, until Michael Ventris, building on the extensive work of Alice Kober,  deciphered the script in 1952.
+The texts on the tablets are mostly lists and inventories. No prose narrative survives, much less myth or poetry. Still, much may be glimpsed from these records about the people who produced them and about Mycenaean Greece, the period before the so-called Greek Dark Ages.
+The Mycenaean language is preserved in Linear B writing, which consists of about 200 syllabic signs and logograms. Since Linear B was derived from Linear A, the script of an undeciphered Minoan language, the sounds of Mycenaean are not fully represented. In essence, a limited number of syllabic signs must represent a much greater number of produced syllables that would be more concisely represented by the letters of an alphabet.
+Orthographic simplifications therefore had to be made:
+There is no disambiguation for the Greek categories of voice and aspiration except the dentals d, t: 𐀁𐀒, e-ko may be either egō ("I") or ekhō ("I have").
+Any m or n, before a consonant, and any syllable-final l, m, n, r, s are omitted. 𐀞𐀲, pa-ta is panta ("all"); 𐀏𐀒, ka-ko is khalkos ("copper").
+Consonant clusters must be dissolved orthographically, creating apparent vowels: 𐀡𐀵𐀪𐀚, po-to-ri-ne is ptolin (Ancient Greek: πόλιν pólin or πτόλιν ptólin, "city" accusative case).
+r and l are not disambiguated: 𐀣𐀯𐀩𐀄, qa-si-re-u is gʷasileus (classical βασιλεύς basileús "king").
+Rough breathing is not indicated: 𐀀𐀛𐀊, a-ni-ja is hāniai ("reins").
+Length of vowels is not marked.
+The consonant usually transcribed z probably represents *dy, initial *y, *ky, *gy.
+q- is a labio-velar kʷ or gʷ and in some names kʷʰ: 𐀣𐀄𐀒𐀫, qo-u-ko-ro is gʷoukoloi (classical βουκόλοι boukóloi, "cowherds").
+Initial s before a consonant is not written: 𐀲𐀵𐀗, ta-to-mo is σταθμός stathmós ("station, outpost").
+Double consonants are not represented: 𐀒𐀜𐀰, ko-no-so is Knōsos (classical Knossos).In addition to the spelling rules, signs are not polyphonic (more than one sound), but sometimes are homophonic (a sound can be represented by more than one sign), which are not "true homophones" but are "overlapping values." Long words may omit a middle or final sign.
+Mycenaean preserves some archaic Proto-Indo-European and Proto-Greek features not present in later ancient Greek.
+One archaic feature is the set of labiovelar consonants [ɡʷ, kʷ, kʷʰ], written ⟨q⟩, which split into /b, p, pʰ/, /d, t, tʰ/, or /ɡ k kʰ/ in ancient Greek, depending on the context and the dialect.
+Another set is the semivowels /j w/ and the glottal fricative /h/ between vowels. All were lost in standard Attic Greek, but /w/ was preserved in some Greek dialects and written as digamma ⟨ϝ⟩ or beta ⟨β⟩.
+It is unclear how the sound transcribed as ⟨z⟩ was pronounced. It may have been a voiced or voiceless affricate /dz/ or /ts/, marked with asterisks in the table above. It derives from [kʲ], [ɡʲ], [dʲ] and some initial [j] and was written as ζ in the Greek alphabet. In Attic, it may have been pronounced [zd] in many cases, but it is [z] in Modern Greek.
+There were at least five vowels /a e i o u/, which could be both short and long.
+As noted above, the syllabic Linear B script used to record Mycenaean is extremely defective and distinguishes only the semivowels ⟨j w⟩; the sonorants ⟨m n r⟩; the sibilant ⟨s⟩; the stops ⟨p t d k q z⟩; and (marginally) ⟨h⟩. Voiced, voiceless and aspirate occlusives are all written with the same symbols except that ⟨d⟩ stands for /d/ and ⟨t⟩ for both /t/ and /tʰ/). Both /r/ and /l/ are written ⟨r⟩; /h/ is unwritten unless followed by /a/.
+The length of vowels and consonants is not notated. In most circumstances, the script is unable to notate a consonant not followed by a vowel. Either an extra vowel is inserted (often echoing the quality of the following vowel), or the consonant is omitted. (See above for more details.)
+Thus, determining the actual pronunciation of written words is often difficult, and using a combination of the PIE etymology of a word, its form in later Greek and variations in spelling is necessary. Even so, for some words the pronunciation is not known exactly, especially when the meaning is unclear from context, or the word has no descendants in the later dialects.
+Nouns likely decline for 7 cases: nominative, genitive, accusative, dative, vocative, instrumental and locative; 3 genders: masculine, feminine, neuter; and 3 numbers: singular, dual, plural. The last two cases had merged with other cases by Classical Greek. In Modern Greek, only nominative, accusative, genitive and vocative remain as separate cases with their own morphological markings. Adjectives agree with nouns in case, gender, and number.
+Verbs probably conjugate for 3 tenses: past, present, future; 3 aspects: perfect, perfective, imperfective; 3 numbers: singular, dual, plural; 4 moods: indicative, imperative, subjunctive, optative; 3 voices: active, middle, passive; 3 persons: first, second, third; infinitives, and verbal adjectives.
+The verbal augment is almost entirely absent from Mycenaean Greek with only one known exception, 𐀀𐀟𐀈𐀐, a-pe-do-ke (PY Fr 1184), but even that appears elsewhere without the augment, as 𐀀𐀢𐀈𐀐, a-pu-do-ke (KN Od 681). The augment is sometimes omitted in Homer.
+Mycenaean had already undergone the following sound changes peculiar to the Greek language and so is considered to be Greek:
+Initial and intervocalic *s to /h/.
+Voiced aspirates devoiced.
+Syllabic liquids to /ar, al/ or /or, ol/; syllabic nasals to /a/ or /o/.
+*kj and *tj to /s/ before a vowel.
+Initial *j to /h/ or replaced by z (exact value unknown, possibly [dz]).
+*gj and *dj to z.
+*-ti to -si (also found in Attic-Ionic, Arcadocypriot, and Lesbian, but not Doric, Boeotian, or Thessalian).The use of -eus to produce agent nouns
+The third-person singular ending -ei
+The infinitive ending -ein, contracted from -e-enUniquely Greek words:
+𐀣𐀯𐀩𐀄, qa-si-re-u, *gʷasileus (later Greek: βασιλεύς, basiléus, "king")
+𐀏𐀒, ka-ko, *kʰalkos (later Greek: χαλκός, chalkos, "bronze")
+Greek forms of words known in other languages:
+𐀷𐀙𐀏, wa-na-ka, *wanax (later Greek: ἄναξ, ánax, "overlord, king, leader")
+𐀷𐀙𐀭, wa-na-sa, (later Greek: ἄνασσα, ánassa, "queen")
+𐀁𐀨𐀺, e-ra-wo or 𐀁𐁉𐀺, e-rai-wo, *elaiwon (later Greek: ἔλαιον, élaion, "olive oil")
+𐀳𐀃, te-o, *tʰehos (later Greek: θεός, theos, "god")
+𐀴𐀪𐀠, ti-ri-po, *tripos (later Greek: τρίπους, tripous, "tripod")The corpus of Mycenaean-era Greek writing consists of some 6,000 tablets and potsherds in Linear B, from LMII to LHIIIB. No Linear B monuments or non-Linear B transliterations have yet been found.
+If it is genuine, the Kafkania pebble, dated to the 17th century BC, would be the oldest known Mycenean inscription, and hence the earliest preserved testimony of the Greek language.
+While the Mycenaean dialect is relatively uniform at all the centres where it is found, there are also a few traces of dialectal variants:
+i for e in the dative of consonant stems
+a instead of o as the reflex of ṇ (e.g. pe-ma instead of pe-mo < *spermṇ)
+the e/i variation in e.g. te-mi-ti-ja/ti-mi-ti-jaBased on such variations, Ernst Risch (1966) postulated the existence of some dialects within Linear B. The "Normal Mycenaean" would have been the standardized language of the tablets, and the "Special Mycenaean" represented some local vernacular dialect (or dialects) of the particular scribes producing the tablets.
+Thus, "a particular scribe, distinguished by his handwriting, reverted to the dialect of his everyday speech" and used the variant forms, such as the examples above.
+It follows that after the collapse of Mycenaean Greece, while the standardized Mycenaean language was no longer used, the particular local dialects reflecting local vernacular speech would have continued, eventually producing the various Greek dialects of the historic period.
+Such theories are also connected with the idea that the Mycenaean language constituted a type of a special koine representing the official language of the palace records and the ruling aristocracy. When the 'Mycenaean linguistic koine' fell into disuse after the fall of the palaces because the script was no longer used, the underlying dialects would have continued to develop in their own ways. That view was formulated by Antonin Bartonek. Other linguists like Leonard Robert Palmer (1980), and de:Yves Duhoux (1985) also support this view of the 'Mycenaean linguistic koine'. (The term 'Mycenaean koine' is also used by archaeologists to refer to the material culture of the region.) However, since the Linear B script does not indicate several possible dialectical features, such as the presence or absence of word-initial aspiration and the length of vowels, it is unsafe to extrapolate that Linear B texts were read as consistently as they were written.
+The evidence for "Special Mycenaean" as a distinct dialect has, however, been challenged. Thompson argues that Risch's evidence does not meet the diagnostic criteria to reconstruct two dialects within Mycenaean. In particular, more recent paleographical study, not available to Risch, shows that no individual scribe consistently writes "Special Mycenaean" forms. This inconsistency makes the variation between "Normal Mycenaean" and "Special Mycenaean" unlikely to represent dialectical or sociolectical differences, as these would be expected to concentrate in individual speakers, which is not observed in the Linear B corpus.
+While the use of Mycenaean Greek may have ceased with the fall of the Mycenaean civilization, some traces of it are found in the later Greek dialects. In particular, Arcadocypriot Greek is believed to be rather close to Mycenaean Greek. Arcadocypriot was an ancient Greek dialect spoken in Arcadia (central Peloponnese), and in Cyprus.
+Ancient Pamphylian also shows some similarity to Arcadocypriot and to Mycenaean Greek.
+Bakker, Egbert J., ed. 2010. A companion to the Ancient Greek language. Oxford: Wiley-Blackwell.
+Chadwick, John. 1958. The decipherment of Linear B. Cambridge, UK: Cambridge University Press.
+Christidis, Anastasios-Phoivos, ed. 2007. A History of Ancient Greek: From the Beginnings to Late Antiquity. Cambridge, UK: Cambridge University Press.
+Colvin, Stephen C. 2007. A Historical Greek Reader: Mycenaean to the Koiné. Oxford: Oxford University Press.
+Colvin, Stephen. "Autosegmental Phonology and Word-Internal -h- in Mycenaean Greek." Glotta 82 (2006): 36-54. http://www.jstor.org/stable/40288084.
+Easterling, P. E., and Carol Handley. 2001. Greek Scripts: An Illustrated Introduction. London: Society for the Promotion of Hellenic Studies.
+Fox, Margalit. 2013. The Riddle of the Labyrinth: The Quest to Crack an Ancient Code. 1st edition. New York : Ecco Press.
+Hooker, J. T. 1980. Linear B: An introduction. Bristol, UK: Bristol Classical Press.
+Horrocks, Geoffrey. 2010. Greek: A history of the language and its speakers. 2nd ed. Oxford: Wiley-Blackwell.
+Ittzés, Máté. "The Augment in Mycenaean Greek", Acta Antiqua 44, 2-4: 143-150 (2004). https://doi.org/10.1556/aant.44.2004.2-4.1
+Miguel, José, and Jiménez Delgado. "La situación de *h en griego micénico", Kadmos 47, 1-2 (2009): 73-90, doi: https://doi.org/10.1515/KADMOS.2008.008
+Jorro, Francisco Aura. "Reflexiones sobre el léxico micénico" In:  Conuentus Classicorum: temas y formas del Mundo Clásico. Coord. por Jesús de la Villa, Emma Falque Rey, José Francisco González Castro, María José Muñoz Jiménez, Vol. 1, 2017, pp. 289-320. ISBN 978-84-697-8214-9
+Morpurgo Davies, Anna, and Yves Duhoux, eds. 1985. Linear B: A 1984 survey. Louvain, Belgium: Peeters.
+––––. 2008. A companion to Linear B: Mycenaean Greek texts and their world. Vol. 1. Louvain, Belgium: Peeters.
+Palaima, Thomas G. 1988. "The development of the Mycenaean writing system." In Texts, tablets and scribes. Edited by J. P. Olivier and T. G. Palaima, 269–342. Suplementos a “Minos” 10. Salamanca, Spain: Consejo Superior de Investigaciones Científicas.
+Palmer, Leonard R. 1980. The Greek language. London: Faber & Faber.
+Smodlaka Vitas, Sanja. "Indo-European Heritage in Mycenaean Maritime Onomastics." Miscellanea Hadriatica et Mediterranea 5, br. - (2018): 9-30. https://doi.org/10.15291/misc.2744
+Ventris, Michael, and John Chadwick. 2008. Documents in Mycenaean Greek. 2nd ed. Cambridge, UK: Cambridge University Press.Jeremy B. Rutter, "Bibliography: The Linear B Tablets and Mycenaean Social, Political, and Economic Organization"
+The writing of the Mycenaeans (contains an image of the Kafkania pebble)
+Program in Aegean Scripts and Prehistory (PASP)
+Palaeolexicon, Word study tool of ancient languages
+Studies in Mycenaean Inscriptions and Dialect, glossaries of individual Mycenaean terms, tablet, and series citations
+glottothèque - Ancient Indo-European Grammar online, an online collection of video lectures on Ancient Indo-European languages, including some information about Mycenaean Greek

@@ -1,0 +1,21 @@
+In particle physics, a boson (/ˈboʊzɒn/ /ˈboʊsɒn/) is a subatomic particle whose spin quantum number has an integer value (0,1,2 ...). Bosons form one of the two fundamental classes of subatomic particle, the other being fermions, which have odd half-integer spin (1⁄2,3⁄2,5⁄2 ...). Every observed subatomic particle is either a boson or a fermion.
+Some bosons are elementary particles and occupy a special role in particle physics unlike that of fermions, which are sometimes described as the constituents of "ordinary matter". Some elementary bosons (for example, gluons) act as force carriers, which give rise to forces between other particles, while one (the Higgs boson) gives rise to the phenomenon of mass. Other bosons, such as mesons, are composite particles made up of smaller constituents. 
+Outside the realm of particle physics, superfluidity arises because composite bosons (bose particles), such as low temperature helium-4 atoms, follow Bose–Einstein statistics; similarly, superconductivity arises because some quasiparticles, such as Cooper pairs, behave in the same way.
+The name boson was coined by Paul Dirac to commemorate the contribution of Satyendra Nath Bose, an Indian physicist and professor of physics at the University of Calcutta and at the University of Dhaka, who developed, in conjunction with Albert Einstein, the theory characterising such particles, now known as Bose–Einstein statistics.
+All observed elementary particles are either bosons (with integer spin) or fermions (with odd half-integer spin). Whereas the elementary particles that make up ordinary matter (leptons and quarks) are fermions, the elementary bosons occupy a special role in particle physics. They act either as force carriers which give rise to forces between other particles, or in one case give rise to the phenomenon of mass.
+According to the Standard Model of Particle Physics there are five elementary bosons:
+One scalar boson (spin=0)
+H Higgs boson – the particle that gives rise to the phenomenon of mass via the Higgs mechanism
+Four vector bosons (spin=1) that act as force carriers. These are the gauge bosons:
+γ   Photon – the force carrier of the electromagnetic field
+g   Gluons (eight different types) – force carriers that mediate the strong force
+Z   Neutral weak boson – the force carrier that mediates the weak force
+W   Charged weak bosons (two types) – also force carriers that mediate the weak forceA tensor boson (spin=2) called the graviton (G) has been hypothesised as the force carrier for gravity, but so far all attempts to incorporate gravity into the Standard Model have failed.
+Composite particles (such as hadrons, nuclei, and atoms) can be bosons or fermions depending on their constituents. Since bosons have integral spin and fermions odd half-integral spin, any composite particle made up of an even number of fermions is a boson.
+Composite bosons include:
+All types of meson
+Stable nuclei of even mass number such as deuterium, helium-4 (the alpha particle), carbon-12 and lead-208.As quantum particles, the behaviour of multiple indistinguishable bosons at high densities is described by Bose–Einstein statistics. One characteristic which becomes important in superfluidity and other applications of Bose–Einstein condensates is that there is no restriction on the number of bosons that may occupy the same quantum state. As a consequence, when (for example) a gas of helium-4 atoms is cooled to temperatures very close to absolute zero and the kinetic energy of the particles becomes negligible, it condenses into a low-energy state and becomes a superfluid.
+Certain quasiparticles are observed to behave as bosons and to follow Bose–Einstein statistics, including Cooper pairs, plasmons and phonons.
+Anyon – Type of particle that occurs only in two-dimensional systems
+Bose gas – State of matter of many bosons
+Parastatistics – Notion in statistical mechanics

@@ -1,0 +1,19 @@
+History
+Dimensions
+Horizontal datum
+Vertical datum
+Geodetic coordinates
+Earth reference ellipsoid
+Defining and derived parameters
+Parameters for some geodetic systems
+Geodetic Reference System 1980 (GRS80)
+World Geodetic System 1984 (WGS 84)
+Datum transformation
+Discussion and examples
+Examples
+Plate movement
+See also
+Footnotes
+References
+Further reading
+External links

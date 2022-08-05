@@ -1,0 +1,34 @@
+History
+Numerals
+First use of numbers
+Zero
+Negative numbers 
+Rational numbers 
+Irrational numbers 
+Transcendental numbers and reals 
+Infinity and infinitesimals 
+Complex numbers 
+Prime numbers 
+Main classification
+Natural numbers
+Integers
+Rational numbers
+Real numbers
+Complex numbers
+Subclasses of the integers
+Even and odd numbers
+Prime numbers
+Other classes of integers
+Subclasses of the complex numbers
+Algebraic, irrational and transcendental numbers
+Constructible numbers
+Computable numbers
+Extensions of the concept
+p-adic numbers
+Hypercomplex numbers
+Transfinite numbers
+Nonstandard numbers
+See also
+Notes
+References
+External links

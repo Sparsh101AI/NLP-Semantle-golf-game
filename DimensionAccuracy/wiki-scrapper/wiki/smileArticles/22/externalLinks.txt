@@ -1,0 +1,10 @@
+https://stats.oecd.org/Index.aspx?DataSetCode=IDD
+https://data.worldbank.org/indicator/PA.NUS.PRVT.PP?end=2019&page=1&start=2013
+https://web.archive.org/web/20130609054247/http://stats.oecd.org/Index.aspx?DataSetCode=IDD
+http://stats.oecd.org/Index.aspx?DataSetCode=IDD
+https://web.archive.org/web/20200122095658/https://bea.gov/about/pdf/Fixler_Johnson.pdf
+https://bea.gov/about/pdf/Fixler_Johnson.pdf
+http://www.gallup.com/poll/166211/worldwide-median-household-income-000.aspx
+http://www.gallup.com/poll/166358/new-measures-global-income-gallup-world-poll.aspx
+https://en.wikipedia.org/w/index.php?title=Template:Global_economic_classifications&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:GDP_country_lists&action=edit

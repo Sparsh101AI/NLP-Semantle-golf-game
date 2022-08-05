@@ -1,0 +1,15 @@
+https://commonchemistry.cas.org/detail?cas_rn=3393-18-8
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC3%2FN%3DC%5CNc1c3ncn1%5BC%40%40H%5D2O%5BC%40%40H%5D%28%5BC%40%40H%5D%28O%29C2%29COP%28%3DO%29%28O%29O
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=28806
+https://www.chemspider.com/Chemical-Structure.82650.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.020.216
+https://pubchem.ncbi.nlm.nih.gov/compound/91531
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID60937065
+https://doi.org/10.5483%2FBMBRep.2012.45.4.259
+https://doi.org/10.5483%2FBMBRep.2012.45.4.259
+//pubmed.ncbi.nlm.nih.gov/22531138
+https://en.wikipedia.org/w/index.php?title=Template:Nucleobases,_nucleosides,_and_nucleotides&action=edit
+https://en.wikipedia.org/w/index.php?title=Deoxyinosine_monophosphate&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Organic-compound-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Deoxyinosine_monophosphate&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Biochem-stub&action=edit

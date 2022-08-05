@@ -1,0 +1,5 @@
+http://imperium.ahlfeldt.se/places/23370.html
+http://www.perseus.tufts.edu/hopper/text?doc=paus.+9.36.13&redirect=true
+//geohack.toolforge.org/geohack.php?pagename=Tarrha&params=35.233106_N_23.960195_E_source:http://dare.ht.lu.se/places/23370
+https://en.wikipedia.org/w/index.php?title=Tarrha&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:AncientCrete-geo-stub&action=edit

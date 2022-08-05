@@ -1,0 +1,1149 @@
+Canadian syllabic writing, or simply syllabics, is a family of writing systems used in a number of Indigenous Canadian languages of the Algonquian, Inuit, and (formerly) Athabaskan language families. These languages had no formal writing system previously. They are valued for their distinctiveness from the Latin script and for the ease with which literacy can be achieved; indeed, by the late 19th century the Cree had achieved what may have been one of the highest rates of literacy in the world.
+Syllabics are abugidas, where glyphs represent consonant-vowel pairs. They derive from the work of James Evans.
+Canadian syllabics are currently used to write all of the Cree languages from Naskapi (spoken in Quebec) to the Rocky Mountains, including Eastern Cree, Woods Cree, Swampy Cree and Plains Cree. They are also used to write Inuktitut in the eastern Canadian Arctic; there they are co-official with the Latin script in the territory of Nunavut. They are used regionally for the other large Canadian Algonquian language, Ojibwe, as well as for Blackfoot, where they are obsolete. Among the Athabaskan languages further to the west, syllabics have been used at one point or another to write Dakelh (Carrier), Chipewyan, Slavey, Tłı̨chǫ (Dogrib) and Dane-zaa (Beaver). Syllabics have occasionally been used in the United States by communities that straddle the border, but are principally a Canadian phenomenon.
+Cree syllabics were created in a process that culminated in 1840 by James Evans, a missionary, probably in collaboration with Indigenous language experts. Evans formalized them for Swampy Cree and Ojibwe. Evans had been inspired by the success of Sequoyah's Cherokee syllabary after encountering problems with Latin-based alphabets, and drew on his knowledge of Devanagari and shorthand. Canadian syllabics would in turn influence the Pollard script in China. Other missionaries were reluctant to use it, but it was rapidly indigenized and spread to new communities before missionaries arrived.
+A conflicting account is recorded in Cree oral traditions, asserting that the script originated from Cree culture before 1840 (see § Cree oral traditions). Per these traditions, syllabics were the invention of Calling Badger, a Cree man. Legend states that Badger had died and returned from the spirit world to share the knowledge of writing with his people. Some scholars write that these legends were created after 1840. Cree scholar Winona Stevenson explores the possibility that the inspiration for Cree syllabics may have originated from a near-death experience of mistanaskowêw (ᒥᐢᑕᓇᐢᑯᐍᐤ, Calling Badger – from mistanask ᒥᐢᑕᓇᐢᐠ 'badger' and -wêw ᐁᐧᐤ 'voice/call'), a Cree. Stevenson references Fine Day cited in Mandelbaum's The Plains Cree who states that he learned the syllabary from Strikes-him-on-the-back who learned it directly from mistanâskowêw.
+In 1827, Evans, a missionary from Kingston upon Hull, England, was placed in charge of the Wesleyan mission at Rice Lake, Ontario. Here, he began to learn the eastern Ojibwe language spoken in the area and was part of a committee to devise a Latin alphabet for it. By 1837 he had prepared the Speller and Interpreter in English and Indian, but was unable to get its printing sanctioned by the British and Foreign Bible Society. At the time, many missionary societies were opposed to the development of native literacy in their own languages, believing that their situation would be bettered by linguistic assimilation into colonial society.
+Evans continued to use his Ojibwe orthography in his work in Ontario. As was common at the time, the orthography called for hyphens between the syllables of words, giving written Ojibwe a partially syllabic structure. However, his students appear to have had conceptual difficulties using the same alphabet for two different languages with very different sounds, and Evans himself found this approach awkward. Furthermore, the Ojibwe language was polysynthetic but had few distinct syllables, meaning that most words had a large number of syllables; this made them quite long when written with the Latin script. He began to experiment with creating a more syllabic script that he thought might be less awkward for his students to use.
+In 1840, Evans was relocated to Norway House in northern Manitoba. Here he began learning the local Swampy Cree dialect. Like Ojibwe, to which it was quite closely related, it was full of long polysyllabic words.
+As an amateur linguist, Evans was acquainted with the Devanagari script used in British India; in Devanagari, each letter stands for a syllable, and is modified to represent the vowel of that syllable. Such a system, now called an abugida, readily lent itself to writing a language such as Swampy Cree, which had a simple syllable structure of only eight consonants and four long or short vowels. Evans was also familiar with British shorthand, presumably Samuel Taylor's Universal Stenography, from his days as a merchant in England; and now he acquired familiarity with the newly published Pitman shorthand of 1837.
+The development of Cree syllabics was influenced by Evans' knowledge of Devanagari and Pitman. Devanagari provided the glyphs for the syllables. Pitman provided the glyphs for the final consonants, and also the idea of rotation and line weight to modify the syllables.
+In the original Evans script, there were ten syllabic forms: eight for the consonants p, t, c, k, m, n, s, y; a ninth for vowel-initial syllables or vowels following one of the incidental consonants; and a tenth, which is no longer in use, for the consonant cluster sp. There were four incidental consonants, r, l, w, h, which did not have syllabic forms. Except for sp, these can all be traced to the cursive combining forms of the corresponding Devanagari akshara; the Devanagari combining form is somewhat abbreviated (the right-side stroke is dropped), and in handwriting the running horizontal line may be left off as well, as has been standardized in Gujarati. (The sequence sp appears to be a conflation of the shape of s with the angularity of p, along the conceptual lines of the more contracted ligatures of Devanagari such as क्ष.)
+The likeness is stronger if one allows the symbols to rotate to give a similar direction of writing for each vowel; for example, Devanagari n has the orientation of ne rather than of na. The motivation for the change of orientation appears to have been to allow the pen to trace the same direction when writing syllables with the same vowels: The reflection class ka, ca, ma, sa, ya (that is, the consonants that are flipped to distinguish the front i, e vowels) all follow an L-like path, whereas the rotation class a, pa, ta, na (those rotated for the front vowels) all follow a C-like path. The orientation of Devanagari g- (for k-), n-, y-, and possibly s- had to be flipped for this to happen. (Sp- does not follow this generalization, reflecting its hybrid origin.)
+Because Cree consonants can be either voiced or voiceless, depending on their environment, each corresponds to two Devanagari letters, and Cree ka/ga, for example, resembles Devanagari g rather than k. The consonant h, which only occurs as a final in syllabics, appears to derive from the Devanagari visarga, ◌ः ḥ, which also occurs only as a final, rather than from syllabic ह ha.
+
+Devanagari source of initial and independent Cree consonants
+
+
+Devanagari fulland half forms
+Cree
+
+
+Syllables
+
+
+ए
+e
+ए
+ᐁ
+e
+
+
+प
+pa
+प्‍
+ᐸ
+pa/ba
+
+
+ट
+ṭa
+ट‍
+ᑕ
+ta/da
+
+
+ज
+ja
+ज्‍
+ᒐ
+cha/ja
+
+
+ग
+ga
+ग्‍
+ᑯ
+ko/go
+
+
+म
+ma
+म्‍
+ᒪ
+ma
+
+
+न
+na
+न्‍
+ᓂ
+ne
+
+
+स
+sa
+स्‍
+ᓴ
+sa*
+
+
+य
+ya
+य्‍
+ᔪ
+yo
+
+
+Incidental consonants
+
+
+ल
+la
+ल्‍
+ᓫ
+-l
+
+
+र
+ra
+र्‍
+ᕑ
+-r
+
+
+व
+va/wa
+व्‍
+ᐤ
+-w
+
+
+◌ः
+-h
+◌ः
+ᐦ
+-h
+*Cursive स is more similar to ᓴ, looking rather like म.It is possible that -l and -r were derived through rotation from one Devanagari glyph, in the spirit of Pitman, where l and r are related in this way, rather than from the two different glyphs suggested by the table.
+In contrast, the final consonants p t c k m n s and y (which Evans called "final i"), which are now only used for Western Cree, derive from Pitman shorthand. The linear glyphs ᑊ ᐟ ᐨ ᐠ p t c k are rotated 45° from Pitman ᐠ ᑊ ᐟ ᐨ p t c k, but keep their relative orientations intact; the lunate glyphs ᒼ ᐣ ᐢ m n s are rotated 90° from Pitman ᐢ ᓑ ᐣ m n s. The Cree "final i" was originally a dot, as was the diacritic for the vowel i in Pitman.
+
+Pitman source of final Cree consonants
+
+
+Pitman
+
+Cree
+
+
+ᐠ
+p
+
+ᑊ
+-p
+
+
+ᑊ
+t
+
+ᐟ
+-t
+
+
+ᐟ
+ch
+
+ᐨ
+-c
+
+
+ᐨ
+k
+
+ᐠ
+-k
+
+
+ᐢ
+m
+
+ᒼ
+-m
+
+
+ᐡ
+n
+
+ᐣ
+-n
+
+
+ᐣ
+s
+
+ᐢ
+-s
+
+
+˙
+i
+
+˙
+-y
+The final hk, however, is ᕽ, a small version of the Greek letter Χ kh, chosen because Χ is a logogram for Christ.
+The use of rotation to change the vowel of a syllable is unique to Canadian syllabics, but had its antecedent in shorthand. Pitman used rotation to change place of articulation: plosives p t ch k, nasals m n, and fricatives h s sh f th were all related through rotation, as can be partially seen in the table of finals above.
+Initially, Evans indicated vowel length with light versus heavy lines (the feature used to indicate voicing in Pitman); but this proved awkward in print, and by 1841 it was changed to broken lines for long vowels versus solid lines for short vowels. Later Evans introduced the current practice of writing a dot above the syllable to indicate vowel length.
+The local Cree community quickly took to this new writing system. Cree people began to use it to write messages on tree bark using burnt sticks, leaving messages out on hunting trails far from the mission. Evans believed that it was well adapted to Native Canadian languages, particularly the Algonquian languages with which he was familiar. He claimed that "with some slight alterations" it could be used to write "every language from the Atlantic to the Rocky Mountains."
+Evans attempted to secure a printing press and new type to publish materials in this writing system. Here, he began to face resistance from colonial and European authorities. The Hudson's Bay Company, which had a monopoly on foreign commerce in western Canada, refused to import a press for him, believing that native literacy was something to be discouraged. Evans, with immense difficulty, constructed his own press and type and began publishing in syllabics.
+Evans left Canada in 1846 and died shortly thereafter. However, the ease and utility of syllabic writing ensured its continued survival, despite European resistance to supporting it. In 1849, David Anderson, the Anglican bishop of Rupert's Land, reported that "a few of the Indians can read by means of these syllabic characters; but if they had only been taught to read their own language in our letters, it would have been one step towards the acquisition of the English tongue." But syllabics had taken root among the Cree (indeed, their rate of literacy was greater than that of English and French Canadians), and in 1861, fifteen years after Evans had died, the British and Foreign Bible Society published a Bible in Cree syllabics. By then, both Protestant and Catholic missionaries were using and actively propagating syllabic writing.
+Missionary work in the 1850s and 1860s spread syllabics to western Canadian Ojibwe dialects (Plains Ojibwe and Saulteaux), but it was not often used over the border by Ojibwe in the United States. Missionaries who had learned Evans' system spread it east across Ontario and into Quebec, reaching all Cree language areas as far east as the Naskapi. Attikamekw, Montagnais and Innu people in eastern Quebec and Labrador use Latin alphabets.
+In 1856, John Horden, an Anglican missionary at Moose Factory, Ontario, who adapted syllabics to the local James Bay Cree dialect, met a group of Inuit from the region of Grande Rivière de la Baleine in northern Quebec. They were very interested in adapting Cree syllabics to their language. He prepared a few based on their pronunciation of Inuktitut, but it quickly became obvious that the number of basic sounds and the simple model of the syllable in the Evans system was inadequate to the language. With the assistance of Edwin Arthur Watkins, he dramatically modified syllabics to reflect these needs.
+In 1876, the Anglican church hired Edmund Peck to work full-time in their mission at Great Whale River, teaching syllabics to the Inuit and translating materials into syllabics. His work across the Arctic is usually credited with the establishment of syllabics among the Inuit. With the support of both Anglican and Catholic missionary societies, by the beginning of the 20th century the Inuit were propagating syllabics themselves.
+In the 1880s, John William Tims, an Anglican missionary from Great Britain, invented a number of new forms to write the Blackfoot language.
+French Roman Catholic missionaries were the primary force for expanding syllabics to Athabaskan languages in the late 19th century. The Oblate missionary order was particularly active in using syllabics in missionary work. Oblate father Adrien-Gabriel Morice adapted syllabics to Dakelh, inventing a large number of new basic characters to support the radically more complicated phonetics of Athabaskan languages. Father Émile Petitot developed syllabic scripts for many of the Athabaskan languages of the Northwest Territories, including Slavey and Chipewyan.
+Cree influenced the design of the Pollard script in China.
+Cree oral traditions state that the script was gifted to the Cree through the spirit world, rather than being invented by a missionary.
+In the 1930s, Chief Fine Day of the Sweetgrass First Nation told Mandelbaum the following account:
+A Wood Cree named Badger-call died and then became alive again. While he was dead he was given the characters of the syllabary and told that with them he could write Cree. Strike-him-on-the-back learned this writing from Badger-call. He made a feast and announced that he would teach it to anyone who wanted to learn. That is how I learned it. Badger-call also taught the writing to the missionaries. When the writing was given to Badger-call he was told 'They [the missionaries] will change the script and will say that the writing belongs to them. But only those who know Cree will be able to read it.' That is how we know that the writing does not belong to the whites, for it can be read only by those who know the Cree language.Fine Day's grandson Wes Fineday gave the following account on CBC radio Morningside in two interviews in 1994 and 1998:
+Fineday the younger explained that Calling Badger came from the Stanley Mission area and lived ten to fifteen years before his grandfather's birth in 1846. On his way to a sacred society meeting one evening Calling Badger and two singers came upon a bright light and all three fell to the ground. Out of the light came a voice speaking Calling Badger's name. Soon after, Calling Badger fell ill and the people heard he had passed away. During his wake three days later, while preparing to roll him in buffalo robes for the funeral, the people discovered that his body was not stiff like a dead person's body should be. Against all customs and tradition the people agreed to the widow's request to let the body sit one more night. The next day Calling Badger's body was still not stiff so the old people began rubbing his back and chest. Soon his eyes opened and he told the people he had gone to the Fourth World, the spirit world, and there the spirits taught him many things. Calling Badger told the people of the things he was shown that prophesized events in the future, then he pulled out some pieces of birch bark with symbols on them. These symbols, he told the people, were to be used to write down the spirit languages, and for the Cree people to communicate among themselves. (Stevenson 20)When asked whether the story was meant to be understood literally, Wes Fineday commented: "The sacred stories ... are not designed necessarily to provide answers but merely to begin to point out directions that can be taken. ... Understand that it is not the work of storytellers to bring answers to you. ... What we can do is we can tell you stories and if you listen to those stories in the sacred manner with an open heart, an open mind, open eyes and open ears, those stories will speak to you."
+In December 1959, anthropologist Verne Dusenberry, while among the Plains Cree on the Rocky Boy reservation in Montana, was told a similar narrative by Raining Bird:
+According to Raining Bird "the spirits came to one good man and gave him some songs. When he mastered them, they taught him how to make a type of ink and then showed him how to write on white birch bark." He also received many teachings about the spirits which he recorded in a birch bark book. When the one good man returned to his people he taught them how to read and write. "The Cree were very pleased with their new accomplishment, for by now the white men were in this country. The Cree knew that the white traders could read and write, so now they felt that they too were able to communicate among themselves just as well as did their white neighbors." (Stevenson 21)Stevenson (aka Wheeler) comments that the legend is commonly known among the Cree.
+Linguist Chris Harvey believes that the syllabics were a collaboration between English missionaries and Indigenous Cree- and Ojibwe-language experts.
+There is no known surviving physical evidence of Canadian Aboriginal syllabics before Norway House.
+Canadian "syllabic" scripts are not syllabaries, in which every consonant–vowel sequence has a separate glyph, but abugidas, in which consonants are modified in order to indicate an associated vowel—in this case through a change in orientation (which is unique to Canadian syllabics). In Cree, for example, the consonant p has the shape of a chevron. In an upward orientation, ᐱ, it transcribes the syllable pi. Inverted, so that it points downwards, ᐯ, it transcribes pe. Pointing to the left, ᐸ, it is pa, and to the right, ᐳ, po. The consonant forms and the vowels so represented vary from language to language, but generally approximate their Cree origins.
+
+The 1840 inventory of Evans' script
+
+
+VC
+-e
+-ē
+-i
+-ī
+-o
+-ō
+-a
+-ā
+final
+rotation
+
+
+(none)
+
+ᐁ
+ᐁ
+ᐃ
+ᐃ
+ᐅ
+ᐅ
+ᐊ
+ᐊ
+
+symmetric
+
+
+p-
+
+ᐯ
+ᐯ
+ᐱ
+ᐱ
+ᐳ
+ᐳ
+ᐸ
+ᐸ
+ᑊ
+symmetric
+
+
+t-
+
+ᑌ
+ᑌ
+ᑎ
+ᑎ
+ᑐ
+ᑐ
+ᑕ
+ᑕ
+ᐟ
+symmetric
+
+
+k-
+
+ᑫ
+ᑫ
+ᑭ
+ᑭ
+ᑯ
+ᑯ
+ᑲ
+ᑲ
+ᐠ
+asymmetric
+
+
+c-
+
+ᒉ
+ᒉ
+ᒋ
+ᒋ
+ᒍ
+ᒍ
+ᒐ
+ᒐ
+ᐨ
+asymmetric
+
+
+m-
+
+ᒣ
+ᒣ
+ᒥ
+ᒥ
+ᒧ
+ᒧ
+ᒪ
+ᒪ
+ᒼ
+asymmetric
+
+
+n-
+
+ᓀ
+ᓀ
+ᓂ
+ᓂ
+ᓄ
+ᓄ
+ᓇ
+ᓇ
+ᐣ
+asymmetric
+
+
+s-
+
+ᓭ
+ᓭ
+ᓯ
+ᓯ
+ᓱ
+ᓱ
+ᓴ
+ᓴ
+ᐢ
+asymmetric
+
+
+y-
+
+ᔦ
+ᔦ
+ᔨ
+ᔨ
+ᔪ
+ᔪ
+ᔭ
+ᔭ
+ᐧ
+asymmetric
+
+
+sp-
+
+Z
+Z
+Z
+Z
+N
+N
+И
+И
+
+symmetric
+
+
+-w-
+
+· (after the syllable)
+ᐤ
+
+
+
+-h
+
+ 
+ᐦ
+
+
+
+-hk
+
+ 
+ᕽ
+
+
+
+-l
+
+ 
+ᓫ
+
+
+
+-r
+
+ 
+ᕑ
+
+Because the script is presented in syllabic charts and learned as a syllabary, it is often considered to be such. Indeed, computer fonts have separate coding points for each syllable (each orientation of each consonant), and the Unicode Consortium considers syllabics to be a "featural syllabary" along with such scripts as hangul, where each block represents a syllable, but consonants and vowels are indicated independently (in Cree syllabics, the consonant by the shape of a glyph, and the vowel by its orientation). This is unlike a true syllabary, where each combination of consonant and vowel has an independent form that is unrelated to other syllables with the same consonant or vowel.
+The original script, which was designed for Western Swampy Cree, had ten such letterforms: eight for syllables based on the consonants p-, t-, c-, k-, m-, n-, s-, y- (pronounced /p, t, ts, k, m, n, s, j/), another for vowel-initial syllables, and finally a blended form, now obsolete, for the consonant cluster sp-. In the 1840 version, all were written with a light line to show the vowel was short and a heavier line to show the vowel was long: ᑲ ka, ᑲ kâ; however, in the 1841 version, a light line indicated minuscules ("lowercase") and a heavier line indicated majuscules ("uppercase"): ᑲ ka, ᑲ KA or Ka; additionally in the 1841 version, an unbroken letterform indicated a short vowel, but for a long vowel, Evans notched the face of the type sorts, such that in print the letterform was broken. A handwritten variant using an overdot to indicate a long vowel is now used in printing as well: ᑕ ta, ᑖ tâ. One consonant, w, had no letterform of its own but was indicated by a diacritic on another syllable; this is because it could combine with any of the consonants, as in ᑿ kwa, as well as existing on its own, as in ᐘ wa.
+There were distinct letters for the nine consonants -p, -t, -c, -k, -m, -n, -s, -y, and w when they occurred at the end of a syllable. In addition, four "final" consonants had no syllabic forms: -h, -l, -r, and the sequence -hk. These were originally written midline, but are now superscripted. (The glyph for -hk represents the most common final sequence of the language, being a common grammatical ending in Cree, and was used for common -nk in Ojibwe.) The consonants -l and -r were marginal, only found in borrowings, baby talk, and the like. These, and -h, could occur before vowels, but were written with the final shape regardless. (-l and -r are now written the size of full letters when they occur before vowels, as the finals were originally, or in some syllabics scripts have been replaced with full rotating syllabic forms; -h only occurs before a vowel in joined morphemes, in couple grammatical words, or in pedagogical materials to indicate the consonant value following it is fortis.)
+The vowels fall into two sets, the back vowels -a and -u, and the front vowels -e and -i. Each set consists of a lower vowel, -a or -e, and a higher vowel, -u or -i. In all cases, back-vowel syllables are related through left-right reflection: that is, they are mirror images of each other. How they relate to front-vowel syllables depends on the graphic form of the consonants. These follow two patterns. Symmetrical, vowel, p-, t-, sp-, are rotated 90 degrees (a quarter turn) counter-clockwise, while those that are asymmetrical top-to-bottom, c-, k-, m-, n-, s-, y-, are rotated 180 degrees (a half turn). The lower front-vowel (-e) syllables are derived this way from the low back-vowel (a) syllables, and the high front-vowel (-i) syllables are derived this way from the higher back-vowel (-u) syllables.
+The symmetrical letter forms can be illustrated by arranging them into a diamond:
+
+
+
+ᐃ
+
+
+
+i
+
+
+
+
+ᐱ
+
+
+
+bi/pi
+
+
+
+
+ᑎ
+
+
+
+ti/di
+
+
+
+ᐊ
+
+ᐅ
+
+a
+
+o
+ 
+
+ᐸ
+
+ᐳ
+
+ba/pa
+
+bo/po
+ 
+
+ᑕ
+
+ᑐ
+
+ta/da
+
+to/do
+
+
+
+ᐁ
+
+
+
+e
+
+ 
+
+
+ᐯ
+
+
+
+be/pe
+
+ 
+
+
+ᑌ
+
+
+
+te/de
+
+And the asymmetrical letter forms can be illustrated by arranging them into a square:
+
+
+ᑭ
+ᑫ
+
+gi/ki
+ge/ke
+ 
+
+ᒋ
+ᒉ
+
+ji/ci
+je/ce
+
+
+ᒥ
+ᒣ
+
+mi
+me
+
+
+ᓂ
+ᓀ
+
+ni
+ne
+
+
+ᓯ
+ᓭ
+
+si
+se
+
+
+ᔨ
+ᔦ
+
+yi
+ye
+
+
+
+ᑲ
+ᑯ
+
+ga/ka
+go/ko
+
+
+ᒐ
+ᒍ
+
+ja/ca
+jo/co
+
+
+ᒪ
+ᒧ
+
+ma
+mo
+
+
+ᓇ
+ᓄ
+
+na
+no
+
+
+ᓴ
+ᓱ
+
+sa
+so
+
+
+ᔭ
+ᔪ
+
+ya
+yo
+
+These forms are present in most syllabics scripts with sounds values that approach their Swampy Cree origins. For example, all scripts except the one for Blackfoot use the triangle for vowel-initial syllables.
+By 1841, when Evans cast the first movable type for syllabics, he found that he could not satisfactorily maintain the distinction between light and heavy typeface for short and long vowels. He instead filed across the raised lines of the type, leaving gaps in the printed letter for long vowels. This can be seen in early printings. Later still a dot diacritic, originally used for vowel length only in handwriting, was extended to print: Thus today ᐊ a contrasts with ᐋ â, and ᒥ mi contrasts with ᒦ mî. Although Cree ê only occurs long, the script made length distinctions for all four vowels. Not all writers then or now indicate length, or do not do so consistently; since there is no contrast, no one today writes ê as a long vowel.
+Reflecting the shorthand principles on which it was based, syllabics may be written plain, indicating only the basic consonant–vowel outline of speech, or pointed, with diacritics for vowel length and the consonants /w/ and /h/. Full phonemic pointing is rare. Syllabics may also be written without word division, as Devanagari once was, or with spaces or dots between words or prefixes.
+The only punctuation found in many texts is spacing between words and ᙮ for a full stop. Punctuation from the Latin script, including the period (.), may also be used. Due to the final c resembling a hyphen, a double hyphen ⟨᐀⟩ is used as the Canadian Aboriginal syllabics hyphen.
+Some common terms as used in the context of syllabics
+The full-sized characters, whether standing for consonant-vowel combinations or vowels alone, are usually called "syllables". They may be phonemic rather than morphophonemic syllables. That is, when one morpheme (word element) ends in a consonant and the next begins with a vowel, the intermediate consonant is written as a syllable with the following vowel. For example, the Plains Cree word pīhc-āyi-hk "indoors" has pīhc as its first morpheme, and āyi as its second, but is written ᐲᐦᒑᔨᕽ pīh-cā-yihk.
+In other cases, a "syllable" may in fact represent only a consonant, again due to the underlying structure of the language. In Plains Cree, ᑖᓂᓯ tānisi "hello" or "how are you?" is written as if it had three syllables. Because the first syllable has the stress and the syllable that follows has a short /i/, the vowel is dropped. As a result, the word is pronounced "tānsi" with only two syllables.
+Syllabication is important to determining stress in Algonquian languages, and vice versa, so this ambiguity in syllabics is relatively important in Algonquian languages.
+The word "series" is used for either a set of syllables with the same vowel, or a set with the same initial consonant. Thus the n-series is the set of syllables that begin with n, and the o-series is the set of syllables that have o as their vowel regardless of their initial consonant.
+A series of small raised letters are called "finals". They are usually placed after a syllable to indicate a final consonant, as the ᕽ -hk in ᔨᕽ yihk above. However, the Cree consonant h, which only has a final form, begins a small number of function words such as ᐦᐋᐤ hāw. In such cases the "final" ᐦ represents an initial consonant and therefore precedes the syllable.
+The use of diacritics to write consonants is unusual in abugidas. However, it also occurs (independently) in the Lepcha script.
+Finals are commonly employed in the extension of syllabics to languages it was not initially designed for. In some of the Athabaskan alphabets, finals have been extended to appear at mid height after a syllable, lowered after a syllable, and at mid height before a syllable. For example, Chipewyan and Slavey use the final ᐟ in the latter position to indicate the initial consonant dl (/tɬ/).
+In Naskapi, a small raised letter based on sa is used for consonant clusters that begin with /s/: ᔌ spwa, ᔍ stwa, ᔎ skwa, and ᔏ scwa. The Cree languages the script was initially designed for had no such clusters.
+In Inuktitut, something similar is used not to indicate sequences, but to represent additional consonants, rather as the digraphs ch, sh, th were used to extend the Latin letters c, s, t to represent additional consonants in English. In Inuktitut, a raised na-ga is placed before the g- series, ᖏ ᖑ ᖓ, to form an ng- (/ŋ/) series, and a raised ra (uvular /ʁ/) is placed before syllables of the k- series, ᕿ ᖁ ᖃ, to form a uvular q- series.
+Although the forms of these series have two parts, each is encoded into the Unicode standard as a single character.
+Other marks placed above or beside the syllable are called "diacritics". These include the dot placed above a syllable to mark a long vowel, as in ᒦ mî, and the dot placed at mid height after the syllable (in western Cree dialects) or before the syllable (in eastern Cree dialects) to indicate a medial w, as in ᑿ kwa. These are all encoded as single characters in Unicode.
+Diacritics used by other languages include a ring above on Moose Cree ᑬ kay (encoded as "kaai"), head ring on Ojibwe ᕓ fe, head barb on Inuktitut ᖤ lha, tail barb on West Cree ᖌ ro, centred stroke (a small vertical bar) in Carrier ᗇ ghee, centred dot in Carrier ᗈ ghi, centred bar (a bar perpendicular to the body) in Cree ᖨ thi, and a variety of other marks. Such diacritics may or may not be separately encoded into Unicode. There is no systematic way to distinguish elements that are parts of syllables from diacritics, or diacritics from finals, and academic discussions of syllabics are often inconsistent in their terminology.
+The diacritic mark used to indicate vowel length is often referred to as a "point". Syllabics users do not always consistently mark vowel length, w, or h. A text with these marked is called a "pointed" text; one without such marks is said to be "unpointed".
+The word syllabary has two meanings: a writing system with a separate character for each syllable, but also a table of syllables, including any script arranged in a syllabic chart. Evans' Latin Ojibwe alphabet, for example, was presented as a syllabary. Canadian Aboriginal syllabics, the script itself, is thus distinct from a syllabary (syllabic chart) that displays them.
+While Greek, Latin, and Cyrillic have Serif and Sans-Serif forms, Canadian Aboriginal Syllabics generally do not. Instead, like the Proportional and Monospace fonts, Canadian Aboriginal Syllabics have a Round form and a Square form. Round form, known in Cree as Kâ-wâwiyêyaki, is akin to a Proportional font, characterised their smooth bowls, differing letter heights, and occupying a rectangular space. Round form syllabics are more commonly found east of Lake Winnipeg. Square form, known in Cree as Kâ-ayisawêyaki, is akin to a Monospace font, characterised by their cornered bowls, same letter heights, and occupying a square space. Square form syllabics are more commonly found west of Lake Winnipeg.
+The inventory, form, and orthography of the script vary among all the Cree communities which use it. However, it was further modified to create specific alphabets for other Algonquian languages, as well as for Inuit, which have significant phonological differences from Cree. There are two major variants of the script, Central Algonquian and Inuktitut. In addition, derivative scripts for Blackfoot and Athabaskan inherit at least some principals and letter forms from the Central Algonquian alphabet, though in Blackfoot most of the letters have been replaced with modified Latin. Each reflects a historical expansion of the writing system.
+Cree and Ojibwe were the languages for which syllabics were designed, and they are the closest to the original pattern described by James Evans. The dialects differ slightly in their consonants, but where they share a sound, they generally use the same letter for it. Where they do not, a new letter was created, often by modifying another. In several Cree dialects ê has merged with the î, and these use only three of the four vowel orientations.
+When syllabics spread to Ojibwe and to those Cree dialects east of the Manitoba–Ontario border, a few changes occurred. For one, the diacritic used to mark non-final w moved from its position after the syllable to before it; thus western Cree ⟨ᒷ⟩ is equivalent to the eastern Cree ⟨ᒶ⟩ – both are pronounced mwa. Secondly, the special final forms of the consonants were replaced with superscript variants of the corresponding a series in Moose Cree and Moose Cree influenced areas, so that ⟨ᐊᒃ⟩ is ak and ⟨ᓴᑉ⟩ sap (graphically "a" and "sa"), rather than ⟨ᐊᐠ⟩ and ⟨ᓴᑊ⟩; among some of the Ojibwe communities superscript variants of the corresponding i series are found, especially in handwritten documents. Cree dialects of the western provinces preserve the Pitman-derived finals of the original script, though final y has become the more salient ⟨ᐩ⟩, to avoid confusion with the various dot diacritics. Additional consonant series are more pervasive in the east.
+
+Finals
+
+
+ 
+
+West
+
+West (Fort Severn)
+
+West (Island Lake)
+
+West (Sandy Lake)
+
+East (A-finals)
+
+East (I-finals)
+
+
+'
+
+ᐦ
+
+ᐦ
+
+
+
+
+
+ᐦ, ᐞ
+
+ᐞ
+
+
+p
+
+ᑊ
+
+ᑊ
+
+ᑊ
+
+ᐦ
+
+ᑉ
+
+ᣔ
+
+
+t
+
+ᐟ
+
+ᐟ
+
+ᐟ
+
+ᐟ
+
+ᑦ
+
+ᣕ
+
+
+k
+
+ᐠ
+
+ᐠ
+
+ᐠ
+
+ᐩ, ᕽ
+
+ᒃ
+
+ᣖ
+
+
+c
+
+ᐨ
+
+ᐨ
+
+ᐨ
+
+ᐨ
+
+ᒡ
+
+ᣗ
+
+
+m
+
+ᒼ
+
+ᒼ
+
+ᒼ
+
+ᒼ
+
+ᒻ
+
+ᣘ
+
+
+n
+
+ᐣ
+
+ᐣ
+
+ᐣ
+
+ᐣ
+
+ᓐ
+
+ᣙ
+
+
+s
+
+ᐢ
+
+ᐢ
+
+ᐢ
+
+ᐢ
+
+ᔅ
+
+ᣚ
+
+
+š
+
+ᐡ
+
+ᐡ
+
+ᐢ
+
+ᐢ
+
+ᔥ
+
+ᔆ, ᔥ
+
+
+y
+
+ᐩ, ᣟ, ᐝ
+
+ᐩ
+
+ᣟ
+
+ᣟ
+
+ᔾ, 
+
+, ᐃ
+
+
+l
+
+ᓫ, ᔆ
+
+ᐪ
+
+ᓫ
+
+ᓫ
+
+ᓪ
+
+ᓫ
+
+
+r
+
+ᕑ, ᙆ
+
+ᔆ
+
+ᕑ
+
+ᕑ
+
+ᕐ
+
+ᕑ
+
+
+w
+
+ᐤ, 
+
+ᐤ
+
+ᐤ
+
+
+
+ᐤ
+
+ᐤ, ᣜ
+
+
+h
+
+ᐦ
+
+ᐦ
+
+ᐦ
+
+
+
+ᐦ
+
+ᐦ
+
+
+f
+
+(ᕝ)
+
+(ᕝ)
+
+
+
+
+
+(ᕝ)
+
+(ᕝ)
+
+
+th
+
+ᙾ [ð]
+
+(ᕪ) [θ]
+
+ᐟᐦ [θ]
+
+
+
+(ᕪ) [θ]
+
+(ᕪ) [θ]
+A few western charts show full l- and r- series, used principally for loan words. In a Roman Catholic variant, r- is a normal asymmetric form, derived by adding a stroke to c-, but l- shows an irregular pattern: Despite being asymmetrical, the forms are rotated only 90°, and li is a mirror image of what would be expected; it is neither an inversion nor a reflection of le, as in the other series, but rather a 180° rotation.
+Some western additions
+
+ᖋ
+ᖊ
+
+ri
+re
+
+(final ᙆ)
+
+
+ᖍ
+ᖌ
+
+ra
+ro
+
+
+
+
+ᕆ
+
+
+
+li
+
+
+
+
+ᕍ
+
+ᕊ
+
+la
+
+lo
+ 
+(final ᔆ)
+
+
+
+ᕃ
+
+
+
+le
+
+
+Series were added for l-, r-, sh- (š-) and f- in most eastern Cree dialects. R- is an inversion of the form of western l-, but now it is re that has the unexpected orientation. L- and f- are regular asymmetric and symmetric forms; although f- is actually asymmetric in form, it is derived from p- and therefore rotates 90° as p- does. Here is where the two algorithms to derive vowel orientations, which are equivalent for the symmetrical forms of the original script, come to differ: For the ᕙ f- series, as well as a rare ᕦ th- series derived from ᑕ t-, vowels of like height are derived via counter-clockwise rotation; however, an eastern sh- series, which perhaps not coincidentally resembles a Latin s, is rotated clockwise with the opposite vowel derivations: high -i from low -a and lower (mid) -e from higher (mid) -o. The obsolete sp- series shows this to be the original design of the script, but Inuktitut, perhaps generalizing from the ᕙ series, which originated as ᐸ plus a circle at the start of the stroke used to write the letters, but as an independent form must be rotated in the opposite (counter-clockwise) direction, is consistently counter-clockwise. (The eastern Cree r- series can be seen as both of these algorithms applied to ro (bold), whereas western Cree l- can be seen as both applied to la (bold).)
+Some eastern additions
+
+ᓕ
+ᓓ
+
+li
+le
+
+
+ᓚ
+ᓗ
+
+la
+lo
+
+
+
+ᕆ
+
+
+
+ri
+
+
+
+
+
+ᔑ
+
+
+
+ši
+
+
+
+
+
+ᕕ
+
+
+
+fi
+
+
+
+
+
+ᕠ
+
+
+
+thi (θi)
+
+
+
+ᕋ
+
+ᕈ
+
+ra
+
+ro
+
+
+
+ᔕ
+
+ᔓ
+
+ša
+
+šo
+
+
+
+ᕙ
+
+ᕗ
+
+fa
+
+fo
+
+
+
+ᕦ
+
+ᕤ
+
+tha (θa)
+
+tho (θo)
+
+
+
+
+ᕃ
+
+
+
+re
+
+
+
+
+
+ᔐ
+
+
+
+še
+
+
+
+
+
+ᕓ
+
+
+
+fe
+
+
+
+
+
+ᕞ
+
+
+
+the (θe)
+
+There are minor variants within both eastern and western Cree. Woods Cree, for example, uses western Cree conventions, but has lost the e series, and has an additional consonant series, ⟨ᙾ⟩ th- (ð-), which is a barred form of the y- series.
+
+
+ᖨ
+
+
+thi (ði)
+
+
+
+ᖬ
+ᖪ
+
+tha (ða)
+tho (ðo)
+Moose Cree, which uses eastern Cree conventions, has an -sk final that is composed of -s and -k, as in ᐊᒥᔉ amisk "beaver", and final -y is written with a superscript ring, ⟨°⟩, rather than a superscript ya, which preserves, in a more salient form, the distinct final form otherwise found only in the west: ᐋᣁāshay "now".
+The Eastern Cree dialect has distinct labialized finals, ⟨ᒄ⟩ -kw and ⟨ᒽ⟩ -mw; these are written with raised versions of the o-series rather than the usual a-series, as in ᒥᔅᑎᒄ mistikw "tree". This is motivated by the fact that the vowel o labializes the preceding consonant.
+Although in most respects Naskapi follows eastern Cree conventions, it does not mark vowel length at all and uses two dots, either placed above or before a syllable, to indicate a w: ⟨ᐛ⟩ wa, ⟨ᐖ⟩ wo, ⟨ᑥ⟩ twa, ⟨ᒂ⟩ kwa, ⟨ᒠ⟩ cwa (/tswa/), ⟨ᒺ⟩ mwa, ⟨ᓏ⟩ nwa, ⟨ᔄ⟩ swa, ⟨ᔽ⟩ ywa. Since Naskapi s- consonant clusters are all labialized, sCw-, these also have the two dots: ⟨ᔌ⟩ spwa, etc. There is also a labialized final sequence, ⟨ᔊ⟩ -skw, which is a raised so-ko.
+See also:
+Ojibwe syllabics
+Oji-Cree languageThe eastern form of Cree syllabics was adapted to write the Inuktitut dialects of Nunavut (except for the extreme west, including Kugluktuk and Cambridge Bay) and Nunavik in northern Quebec. Unicode 14.0 added support for the Natsilingmiutut language of Western Nunavut. In other Inuit areas, various Latin alphabets are used.
+Inuktitut has only three vowels, and thus only needs the a-, i-, and o-series of Cree, the latter used for /u/. The e-series was originally used for the common diphthong /ai/, but this was officially dropped in the 1960s so that Inuktitut would not have more characters than could be moulded onto an IBM Selectric typewriter ball, with -ai written as an a-series syllable followed by ⟨ᐃ⟩ i. Recently the Inuit Tapiriit Kanatami decided to restore the ai-series, and the Makivik Corporation has adopted this use in Nunavik; it has not been restored in Nunavut.
+Inuktitut has more consonants than Cree, fifteen in its standardised form. As Inuktitut has no /ts/, the c series has been reassigned to the value g (/ɡ ~ ɣ/). The y series is used for either y- or j-, since the difference is one of dialect; similarly with the s series, which stands for either s- or h-, depending on the dialect. The eastern Cree l series is used: ⟨ᓚ⟩ la, ⟨ᓗ⟩ lu, ⟨ᓕ⟩ li, ⟨ᓓ⟩ lai; a stroke is added to these to derive the voiceless lh (/ɬ/) series: ⟨ᖤ⟩ lha, etc. The eastern Cree f series is used for Inuktitut v-: ⟨ᕙ⟩ va, etc. The eastern Cree r series is used for the very different Inuktitut sound, /ɢ ~ ʁ/, which is also spelled r. However, this has been regularized in form, with vowels of like height consistently derived through counter-clockwise rotation, and therefore rai the inversion of ri:
+
+
+
+ᕆ
+
+
+
+ri
+
+
+
+ᕋ
+
+ᕈ
+
+ra
+
+ru
+
+
+
+ᕂ
+
+
+
+rai
+
+The remaining sounds are written with digraphs. A raised ra is prefixed to the k-series to create a digraph for q: ⟨ᖃ⟩ qa, etc.; the final is ⟨ᖅ⟩ -q. A raised na-ga is prefixed to the g-series to create an ng (/ŋ/) series: ⟨ᖓ⟩ nga, etc., and the na is doubled for geminate nng (/ŋː/): ⟨ᙵ⟩ nnga. The finals are ⟨ᖕ⟩ and ⟨ᖖ⟩.
+In Nunavut, the h final has been replaced with Roman ⟨ᕼ⟩, which does not rotate, but in Nunavik a new series is derived by adding a stroke to the k-series: ⟨ᕹ⟩ ha, etc.
+In the early years, Roman Catholic and Anglican missionaries used slightly different forms of syllabics for Inuktitut. In modern times, however, these differences have disappeared. Dialectical variation across the syllabics-using part of the Inuit world has promoted an implicit diversity in spelling, but for the most part this has not had any impact on syllabics itself.
+At least two scripts derive from Cree syllabics, and share its principles, but have fundamentally different letter shapes or sound values.
+Blackfoot, another Algonquian language, uses a syllabary developed in the 1880s that is quite different from the Cree and Inuktitut versions. Although borrowing from Cree the ideas of rotated and mirrored glyphs with final variants, most of the letter forms derive from the Latin script, with only some resembling Cree letters. Blackfoot has eight initial consonants, only two of which are identical in form to their Cree equivalents, ⟨ᓯ⟩ se and ⟨ᔨ⟩ ye (here only the vowels have changed). The other consonants were created by modifying letters of the Latin script to make the e series, or in three cases by taking Cree letters but reassigning them with new sound values according to which Latin letters they resembled. These are ⟨ᑭ⟩ pe (from ⟨P⟩), ⟨ᒥ⟩ te (from ⟨T⟩), ⟨ᖼ⟩ ke (from ⟨K⟩), ⟨ᒋ⟩ me (from ⟨m⟩), ⟨ᖸ⟩ ne (from ⟨N⟩), ⟨ᖴ⟩ we (from ⟨Ϝ⟩). There are also a number of distinct final forms. The four vowel positions are used for the three vowels and one of the diphthongs of Blackfoot. The script is largely obsolete.
+Athabaskan syllabic scripts were developed in the late 19th century by French Roman Catholic missionaries, who adapted this originally Protestant writing system to languages radically different from the Algonquian languages. Most Athabaskan languages have more than four distinct vowels, and all have many more distinct consonants than Cree. This has meant the invention of a number of new consonant forms. Whereas most Athabaskan scripts, such as those for Slavey and Chipewyan, bear a reasonably close resemblance to Cree syllabics, the Carrier (Dakelh) variant is highly divergent, and only one series – the series for vowels alone – resembles the original Cree form.
+To accommodate six distinctive vowels, Dakelh supplements the four vowel orientations with a dot and a horizontal line in the rightward pointing forms: ᐊ a, ᐅ ʌ, ᐈ e, ᐉ i, ᐃ o, and ᐁ u.
+One of the Chipewyan scripts is more faithful to western Cree. (Sayisi Chipewyan is substantially more divergent.) It has the nine forms plus the western l and r series, though the rotation of the l- series has been made consistently counter-clockwise. The k- and n- series are more angular than in Cree: ki resembles Latin "P". The c series has been reassigned to dh. There are additional series: a regular ch series (ᗴ cha, ᗯ che, ᗰ chi, ᗱ cho), graphically a doubled t; and an irregular z series, where ze is derived by counter-clockwise rotation of za, but zi by clockwise rotation of zo:
+
+
+
+ᘛ
+
+
+
+zi
+
+
+
+ᘔ
+
+ᘕ
+
+za
+
+zo
+
+
+
+
+ᘚ
+
+
+
+ze
+
+Other series are formed from dh or t. A mid-line final Cree t preceding dh forms th, a raised Cree final p following t forms tt, a stroke inside t forms tth (ᕮ ttha), and a small t inside t forms ty (ᕳ tya). Nasal vowels are indicated by a following Cree final k.
+All Athabaskan syllabic scripts are now obsolescent.
+The Pollard script, also known as Pollard Miao is an abugida invented by Methodist missionary Samuel Pollard. Pollard credited the basic idea of the script to the Cree syllabics, saying, "While working out the problem, we remembered the case of the syllabics used by a Methodist missionary among the Indians of North America, and resolved to do as he had done".
+At present, Canadian syllabics seems reasonably secure within the Cree, Oji-Cree, and Inuit communities, somewhat more at risk among the Ojibwe, seriously endangered for Athabaskan languages and Blackfoot.
+In Nunavut and Nunavik, Inuktitut syllabics have official status. In Nunavut, laws, legislative debates and many other government documents must be published in Inuktitut in both syllabics and the Latin script. The rapid growth in the scope and quantity of material published in syllabics has, by all appearances, ended any immediate prospect of marginalisation for this writing system.
+Within the Cree and Ojibwe language communities, the situation is less confident.
+Cree syllabics use is vigorous in most communities where it has taken root. In many dialect areas, there are now standardised syllabics spellings. Nonetheless, there are now linguistically adequate standardised Roman writing systems for most if not all dialects.
+Ojibwe speakers in the U.S. have never been heavy users of either Canadian Aboriginal syllabics or the Great Lakes Aboriginal syllabics and have now essentially ceased to use either of them at all. The "double vowel" Roman orthography developed by Charles Fiero and further developed by John Nichols is increasingly the standard in the U.S. and is beginning to penetrate into Canada, in part to prevent further atomisation of what is already a minority language. Nonetheless, Ojibwe syllabics are still in vigorous use in some parts of Canada.
+Use in other communities is moribund.
+Blackfoot syllabics have, for all intents and purposes, disappeared. Present day Blackfoot speakers use a Latin alphabet, and very few Blackfoot can still read—much less write—the syllabic system.
+Among the Athabaskan languages, no syllabics script is in vigorous use. In some cases, the languages themselves are on the brink of extinction. In other cases, syllabics has been replaced by a Latin alphabet. Many people—linguists and speakers of Athabaskan languages alike—feel that syllabics is ill-suited to these languages. The government of the Northwest Territories does not use syllabic writing for any of the Athabaskan languages on its territory, and native churches have generally stopped using them as well. Among Dakelh users, a well-developed Latin alphabet has effectively replaced syllabics, which are now understood almost exclusively by elderly members of the community.
+In the past, government policy towards syllabics has varied from indifference to open hostility. Until quite recently, government policy in Canada openly undermined native languages, and church organisations were often the only organised bodies using syllabics. Later, as governments became more accommodating of native languages, and in some cases even encouraged their use, it was widely believed that moving to a Latin alphabet was better, both for linguistic reasons and to reduce the cost of supporting multiple scripts.
+At present, at least for Inuktitut and Algonquian languages, Canadian government tolerates, and in some cases encourages, the use of syllabics. The growth of Aboriginal nationalism in Canada and the devolution of many government activities to native communities has changed attitudes towards syllabics. In many places there are now standardisation bodies for syllabic spelling, and the Unicode standard supports a fairly complete set of Canadian syllabic characters for digital exchange. Syllabics are now taught in schools in Inuktitut-speaking areas, and are often taught in traditionally syllabics-using Cree and Ojibwe communities as well.
+Although syllabic writing is not always practical (on the Internet, for example), and in many cases a Latin alphabet would be less costly to use, many native communities are strongly attached to syllabics. Even though it was originally the invention of European missionaries, many people consider syllabics a writing system that belongs to them, and associate Latin letters to linguistic assimilation.
+The bulk of the characters, including all that are found in official documents, are encoded into three blocks in the Unicode standard:
+Unified Canadian Aboriginal Syllabics (U+1400–U+167F)
+Unified Canadian Aboriginal Syllabics Extended (U+18B0–U+18FF)
+Unified Canadian Aboriginal Syllabics Extended-A (U+11AB0–U+11ABF)These characters can be rendered with any appropriate font, including the freely available fonts listed below. In Microsoft Windows, built-in support was added through the Euphemia font introduced in Windows Vista, though this has incorrect forms for sha and shu.
+Inuktitut syllabics
+Inuktitut writing
+Kaktovik numerals
+Cree syllabics
+Ojibwe syllabics
+Carrier syllabics
+Kamloops Wawa
+Mi'kmaq hieroglyphic writing
+Cherokee syllabaryLanguage Geek: All About Syllabics
+Carrier Writing Systems
+Paper on Carrier Syllabics
+Inuktitut syllabary Braille code
+Description of Evans' manner of casting type at the Rossville mission
+Methodist Bible in Cree syllabics
+Dene syllabic prayer book
+Cree Origin of Syllabics
+Cree Standard Roman Orthography to syllabics converterScriptSource entry for Cans script. Lists a few fonts.
+GNU FreeFont. UCAS + UCASE range in sans-serif face.

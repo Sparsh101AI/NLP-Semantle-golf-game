@@ -1,0 +1,35 @@
+History
+Vector spaces
+Linear maps
+Subspaces, span, and basis
+Matrices
+Linear systems
+Endomorphisms and square matrices
+Determinant
+Eigenvalues and eigenvectors
+Duality
+Dual map
+Inner-product spaces
+Relationship with geometry
+Usage and applications
+Geometry of ambient space
+Functional analysis
+Study of complex systems
+Scientific computation
+Extensions and generalizations
+Module theory
+Multilinear algebra and tensors
+Topological vector spaces
+Homological algebra
+See also
+Notes
+References
+Sources
+Further reading
+History
+Introductory textbooks
+Advanced textbooks
+Study guides and outlines
+External links
+Online Resources
+Online books

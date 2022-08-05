@@ -1,0 +1,26 @@
+Basic concept
+Non-extractive, document-centric parsing
+Virtual token descriptor
+Location cache
+Benefits
+Overview
+Conformance
+Simplicity
+As parser
+As indexer
+XML content modifier
+XML slicer/splitter/assembler
+XML editor/eraser
+Other benefits
+Weaknesses
+Areas of applications
+General-purpose replacement for DOM or SAX
+XPath over huge XML documents
+For SOA/WS/XML security
+For SOA/WS/XML intermediary
+Intelligent SOA/WS/XML Load-balancing and Offloading
+XML persistence data store
+Schemaless XML data binding
+Essential classes
+Code sample
+References

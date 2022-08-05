@@ -1,0 +1,10 @@
+Definitions
+Term rewriting
+Lambda calculus
+Weak reduction
+Optimal reduction
+Call by need reduction
+See also
+Notes
+References
+External links

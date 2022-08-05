@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=Wardrobe&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Wardrobe%22
+//www.google.com/search?tbm=nws&q=%22Wardrobe%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Wardrobe%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Wardrobe%22+-wikipedia
+//scholar.google.com/scholar?q=%22Wardrobe%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Wardrobe%22&acc=on&wc=on
+https://en.wikipedia.org/w/index.php?title=Wardrobe&action=edit
+https://www.etymonline.com/?term=wardrobe
+http://antiques.about.com/od/furniture/a/Kas062810.htm
+http://www.brooklynmuseum.org/opencollection/objects/157/Kas
+http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/42266
+https://en.wikipedia.org/w/index.php?title=Template:Room&action=edit
+https://d-nb.info/gnd/4179953-7
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph125611&CON_LNG=ENG

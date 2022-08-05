@@ -1,0 +1,9 @@
+The Barbier reaction is an organometallic reaction between an alkyl halide (chloride, bromide, iodide), a carbonyl group and a metal. The reaction can be performed using magnesium, aluminium, zinc, indium, tin, samarium, barium or their salts. The reaction product is a primary, secondary or tertiary alcohol. The reaction is similar to the Grignard reaction but the crucial difference is that the organometallic species in the Barbier reaction is generated in situ, whereas a Grignard reagent is prepared separately before addition of the carbonyl compound. Unlike many Grignard reagents, the organometallic species generated in a Barbier reaction are unstable and thus cannot be stored or sold commercially. Barbier reactions are nucleophilic addition reactions that involve relatively inexpensive, water insensitive metals (e.g zinc powder) or metal compounds. For this reason it is possible in many cases to run the reaction in water, making the procedure part of green chemistry. In contrast, Grignard reagents and organolithium reagents are highly moisture sensitive and must be used under an inert atmosphere without the presence of water. The Barbier reaction is named after Victor Grignard's teacher Philippe Barbier.
+Examples of Barbier reactions are the reaction of propargylic bromide with butanal with zinc metal (the reaction is carried out in THF, the saturated aqueous ammonium chloride solution added later to quench the reaction):
+the intramolecular Barbier reaction with samarium(II) iodide:
+the reaction of an allyl bromide with formaldehyde in THF with indium powder:
+The reaction of 3-Bromocyclohexene with benzaldehyde and zinc powder in water:
+The synthesis of (+)-aspicillin, starts first with a hydroboration, then transmetallation to zinc which can then do an addition into the aldehyde substituent.
+Grignard reaction
+Nozaki-Hiyama-Kishi reaction
+Indium mediated allylationBarbier reaction @ University of Connecticut Website

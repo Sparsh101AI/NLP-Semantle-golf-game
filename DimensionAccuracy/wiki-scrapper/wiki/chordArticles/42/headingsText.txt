@@ -1,0 +1,15 @@
+Overview
+Solution sets
+Methods of solution
+Brute force, trial and error, inspired guess
+Elementary algebra
+Systems of linear equations
+Polynomial equations
+Diophantine equations
+Inverse functions
+Factorization
+Numerical methods
+Matrix equations
+Differential equations
+See also
+References

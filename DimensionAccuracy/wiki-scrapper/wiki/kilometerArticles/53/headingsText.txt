@@ -1,0 +1,39 @@
+History
+Patents
+Former patent holders
+Applications
+Part 1: Systems
+Elementary streams, packets, and clock references
+Program streams
+Multiplexing
+Part 2: Video
+Color space
+Resolution/bitrate
+Frame/picture/block types
+I-frames
+P-frames
+B-frames
+D-frames
+Macroblocks
+Motion vectors
+DCT
+Quantization
+Entropy coding
+GOP configurations for specific applications
+Part 3: Audio
+Layer I
+Layer II
+History/MUSICAM
+Technical details
+Quality
+Layer III
+History/ASPEC
+Technical details
+Quality
+MPEG-2 audio extensions
+Part 4: Conformance testing
+Part 5: Reference software
+File extension
+See also
+References
+External links

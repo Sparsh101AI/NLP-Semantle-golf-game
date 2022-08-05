@@ -1,0 +1,5 @@
+https://www.ebi.ac.uk/ols/ontologies/rxno/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FRXNO_0000527
+https://doi.org/10.1021%2Fjo00042a037
+https://doi.org/10.1016%2Fs0065-2725%2808%2960261-5
+https://doi.org/10.1021%2Fie50362a008
+https://en.wikipedia.org/w/index.php?title=Template:Organic_reactions&action=edit

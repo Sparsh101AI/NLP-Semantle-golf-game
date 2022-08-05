@@ -1,0 +1,22 @@
+Bidirectional script support
+Unicode bidi support
+Strong characters
+Weak characters
+Neutral characters
+Explicit formatting
+Marks
+Embeddings
+Isolates
+Overrides
+Pops
+Runs
+Table of possible BiDi character types
+Security
+Scripts using bidirectional text
+Egyptian hieroglyphs
+Chinese characters and other CJK scripts
+Boustrophedon
+Moon type
+See also
+References
+External links

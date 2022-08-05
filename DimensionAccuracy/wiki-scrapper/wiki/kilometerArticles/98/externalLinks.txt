@@ -1,0 +1,12 @@
+https://en.wikipedia.org/w/index.php?title=Web_chat&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Web+chat%22
+//www.google.com/search?tbm=nws&q=%22Web+chat%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Web+chat%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Web+chat%22+-wikipedia
+//scholar.google.com/scholar?q=%22Web+chat%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Web+chat%22&acc=on&wc=on
+http://blogs.salesforce.com/company/2014/04/customer-service-live-chat-gp.html
+http://live-chat-support-software-review.toptenreviews.com/index.html
+http://socialcompare.com/en/comparison/compare-live-chat-support-software-help
+https://curlie.org/Computers/Internet/Chat
+https://en.wikipedia.org/w/index.php?title=Template:Computer-mediated_communication&action=edit

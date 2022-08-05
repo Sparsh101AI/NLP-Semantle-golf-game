@@ -1,0 +1,213 @@
+Young stellar object (YSO) denotes a star in its early stage of evolution. This class consists of two groups of objects: protostars and pre-main-sequence stars.
+A star forms by accumulation of material that falls in to a protostar from a circumstellar disk or envelope. Material in the disk is cooler than the surface of the protostar, so it radiates at longer wavelengths of light producing excess infrared emission. As material in the disk is depleted, the infrared excess decreases. Thus, YSOs are usually classified into evolutionary stages based on the slope of their spectral energy distribution in the mid-infrared, using a scheme introduced by Lada (1987). He proposed three classes (I, II and III), based on the values of intervals of spectral index 
+
+
+
+α
+
+
+
+{\displaystyle \alpha \,}
+
+:
+
+
+
+
+α
+=
+
+
+
+d
+log
+⁡
+(
+λ
+
+F
+
+λ
+
+
+)
+
+
+d
+log
+⁡
+(
+λ
+)
+
+
+
+
+
+{\displaystyle \alpha ={\frac {d\log(\lambda F_{\lambda })}{d\log(\lambda )}}}
+
+.
+Here 
+
+
+
+λ
+
+
+
+{\displaystyle \lambda \,}
+
+ is wavelength, and 
+
+
+
+
+F
+
+λ
+
+
+
+
+{\displaystyle F_{\lambda }}
+
+ is flux density.
+The 
+
+
+
+α
+
+
+
+{\displaystyle \alpha \,}
+
+ is calculated in the wavelength interval of 2.2–20 
+
+
+
+
+μ
+
+m
+
+
+{\displaystyle {\mu }m}
+
+ (near- and mid-infrared region). Andre et al. (1993) discovered a class 0: objects with strong submillimeter emission, but very faint at 
+
+
+
+
+λ
+
+<
+10
+
+μ
+
+m
+
+
+{\displaystyle {\lambda }<10{\mu }m}
+
+. Greene et al. (1994) added a fifth class of "flat spectrum" sources.
+Class 0 sources – undetectable at 
+
+
+
+
+λ
+
+<
+20
+
+μ
+
+m
+
+
+{\displaystyle {\lambda }<20{\mu }m}
+
+
+Class I sources have 
+
+
+
+
+α
+
+>
+0.3
+
+
+{\displaystyle {\alpha }>0.3}
+
+
+Flat spectrum sources have 
+
+
+
+0.3
+>
+
+α
+
+>
+−
+0.3
+
+
+{\displaystyle 0.3>{\alpha }>-0.3}
+
+
+Class II sources have 
+
+
+
+−
+0.3
+>
+
+α
+
+>
+−
+1.6
+
+
+{\displaystyle -0.3>{\alpha }>-1.6}
+
+
+Class III sources have 
+
+
+
+
+α
+
+<
+−
+1.6
+
+
+{\displaystyle {\alpha }<-1.6}
+
+This classification schema roughly reflects evolutionary sequence. It is believed that most deeply embedded Class 0 sources evolve towards Class I stage, dissipating their circumstellar envelopes. Eventually they become optically visible on the stellar birthline as pre-main-sequence stars.
+Class II objects have circumstellar disks and correspond roughly to classical T Tauri stars, while Class III stars have lost their disks and correspond approximately to weak-line T Tauri stars. An intermediate stage where disks can only be detected at longer wavelengths (e.g., at 
+
+
+
+24
+
+μ
+
+m
+
+
+{\displaystyle 24{\mu }m}
+
+) are known as transition-disk objects.
+YSOs are also associated with early star evolution phenomena: jets and bipolar outflows, masers, Herbig–Haro objects, and protoplanetary disks (circumstellar disks or proplyds).
+These stars may be differentiated by mass: Massive YSOs, intermediate-mass YSOs, and brown dwarfs.
+Bok globule Media related to Young stellar objects at Wikimedia Commons

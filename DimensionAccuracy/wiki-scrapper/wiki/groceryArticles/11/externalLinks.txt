@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Naongashing_35A&params=49_15_N_94_30_W_region:CA-ON_type:city
+//geohack.toolforge.org/geohack.php?pagename=Naongashing_35A&params=49_15_N_94_30_W_region:CA-ON_type:city
+http://fnp-ppn.aandc-aadnc.gc.ca/fnp/Main/Search/RVDetail.aspx?RESERVE_NUMBER=06228&lang=eng
+http://clss.nrcan.gc.ca/map-carte-eng.php?can=23100
+https://en.wikipedia.org/w/index.php?title=Template:Kenora_District&action=edit
+https://en.wikipedia.org/w/index.php?title=Naongashing_35A&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Ontario-IndianReserve-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Naongashing_35A&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:NorthernOntario-geo-stub&action=edit

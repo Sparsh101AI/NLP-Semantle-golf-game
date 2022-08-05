@@ -1,0 +1,5 @@
+http://data.worldbank.org/data-catalog
+https://web.archive.org/web/20070601020457/https://www.cia.gov/library/publications/the-world-factbook/
+https://www.census.gov/ipc/www/idb/informationGateway.php
+https://en.wikipedia.org/w/index.php?title=Template:Global_economic_classifications&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:GDP_country_lists&action=edit

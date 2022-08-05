@@ -1,0 +1,38 @@
+Format descriptions
+Broadband eBooks (BBeB)
+Comic Book Archive file
+Compiled HTML
+DAISY – ANSI/NISO Z39.86
+Djvu
+DOC
+DOCX
+EPUB
+eReader
+FictionBook (fb2)
+Founder Electronics
+Hypertext Markup Language
+iBook (Apple)
+IEC 62448
+INF (IBM)
+Kindle (Amazon)
+Microsoft LIT
+Mobipocket
+Multimedia eBooks
+Newton Digital Book
+Open Packaging Format
+Portable Document Format
+Plain text files
+Plucker
+PostScript
+RTF
+SSReader
+Text Encoding Initiative
+TomeRaider
+Open XML Paper Specification
+Comparison tables
+Features
+Supporting platforms
+See also
+Footnotes
+References
+External links

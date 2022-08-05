@@ -1,0 +1,15 @@
+//geohack.toolforge.org/geohack.php?pagename=Attica&params=38_05_0_N_23_30_0_E_region:GR
+http://diocles.civil.duth.gr/links/home/database/periferiaprotevousis/pr05hi.pdf
+http://classics.oxfordre.com/
+https://oxfordre.com/classics/view/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-952
+https://doi.org/10.1093%2Facrefore%2F9780199381135.013.952
+http://dlib.statistics.gr/Book/GRESYE_01_0002_00054.pdf
+https://web.archive.org/web/20160611044253/http://www.hnms.gr/hnms/english/climatology/climatology_region_diagrams_html?dr_city=Athens_Hellinikon
+https://web.archive.org/web/20110716052439/http://www.hnms.gr/hnms/english/climatology/climatology_region_diagrams_html?dr_city=Elefsina
+https://web.archive.org/web/20070305163122/http://cirrus.meteo.noa.gr/forecast/bolam/index.htm
+https://wmo.asu.edu/content/europe-highest-temperature
+http://www.athensattica.gr/
+https://en.wikipedia.org/w/index.php?title=Template:Landmarks_of_Attica&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Geographic_regions_of_Greece&action=edit
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ge347522&CON_LNG=ENG
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ge347527&CON_LNG=ENG

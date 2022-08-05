@@ -1,0 +1,109 @@
+
+
+
+A tropical year or solar year (or tropical period) is the time that the Sun takes to return to the same position in the sky of a celestial body of the Solar System such as the Earth, completing a full cycle of seasons; for example, the time from vernal equinox to vernal equinox, or from summer solstice to summer solstice. It is the type of year used by tropical solar calendars. The solar year is one type of astronomical year and particular orbital period. Another type is the sidereal year (or sidereal orbital period), which is the time it takes Earth to complete one full orbit around the Sun as measured with respect to the fixed stars, resulting in a duration of 20 minutes longer than the tropical year, because of the precession of the equinoxes.
+Since antiquity, astronomers have progressively refined the definition of the tropical year. The entry for "year, tropical" in the Astronomical Almanac Online Glossary states:
+An equivalent, more descriptive, definition is "The natural basis for computing passing tropical years is the mean longitude of the Sun reckoned from the precessionally moving equinox (the dynamical equinox or equinox of date).   Whenever the longitude reaches a multiple of 360 degrees the mean Sun crosses the vernal equinox and a new tropical year begins".
+The mean tropical year in 2000 was 365.24219 ephemeris days; each ephemeris day lasting 86,400 SI seconds. This is 365.24217 mean solar days. For this reason, the calendar year is an approximation of the solar year: the Gregorian calendar (with its rules for catch-up leap days) is designed so as to resynchronise the calendar year with the solar year at regular intervals.
+The word "tropical" comes from the Greek tropikos meaning "turn". Thus, the tropics of Cancer and Capricorn mark the extreme north and south latitudes where the Sun can appear directly overhead, and where it appears to "turn" in its annual seasonal motion. Because of this connection between the tropics and the seasonal cycle of the apparent position of the Sun, the word "tropical" also lent its name to the "tropical year". The early Chinese, Hindus, Greeks, and others made approximate measures of the tropical year.
+In the 2nd century BC Hipparchus measured the time required for the Sun to travel from an equinox to the same equinox again. He reckoned the length of the year to be 1/300 of a day less than 365.25 days (365 days, 5 hours, 55 minutes, 12 seconds, or 365.24667 days). Hipparchus used this method because he was better able to detect the time of the equinoxes, compared to that of the solstices.
+Hipparchus also discovered that the equinoctial points moved along the ecliptic (plane of the Earth's orbit, or what Hipparchus would have thought of as the plane of the Sun's orbit about the Earth) in a direction opposite that of the movement of the Sun, a phenomenon that came to be named "precession of the equinoxes". He reckoned the value as 1° per century, a value that was not improved upon until about 1000 years later, by Islamic astronomers. Since this discovery a distinction has been made between the tropical year and the sidereal year.
+During the Middle Ages and Renaissance a number of progressively better tables were published that allowed computation of the positions of the Sun, Moon and planets relative to the fixed stars. An important application of these tables was the reform of the calendar.
+The Alfonsine Tables, published in 1252, were based on the theories of Ptolemy and were revised and updated after the original publication. The length of the tropical year was given as 365 solar days 5 hours 49 minutes 16 seconds (≈ 365.24255 days). This length was used in devising the Gregorian calendar of 1582.
+In the 16th century Copernicus put forward a heliocentric cosmology. Erasmus Reinhold used Copernicus' theory to compute the Prutenic Tables in 1551, and gave a tropical year length of 365 solar days, 5 hours, 55 minutes, 58 seconds (365.24720 days), based on the length of a sidereal year and the presumed rate of precession. This was actually less accurate than the earlier value of the Alfonsine Tables.
+Major advances in the 17th century were made by Johannes Kepler and Isaac Newton. In 1609 and 1619 Kepler published his three laws of planetary motion. In 1627, Kepler used the observations of Tycho Brahe and Waltherus to produce the most accurate tables up to that time, the Rudolphine Tables. He evaluated the mean tropical year as 365 solar days, 5 hours, 48 minutes, 45 seconds (365.24219 days).
+Newton's three laws of dynamics and theory of gravity were published in his Philosophiæ Naturalis Principia Mathematica in 1687. Newton's theoretical and mathematical advances influenced tables by Edmond Halley published in 1693 and 1749 and provided the underpinnings of all solar system models until Albert Einstein's theory of General relativity in the 20th century.
+From the time of Hipparchus and Ptolemy, the year was based on two equinoxes (or two solstices) a number of years apart, to average out both observational errors and periodic variations (caused by the gravitational pull of the planets, and the small effect of nutation on the equinox). These effects did not begin to be understood until Newton's time. To model short-term variations of the time between equinoxes (and prevent them from confounding efforts to measure long-term variations) requires precise observations and an elaborate theory of the apparent motion of the Sun. The necessary theories and mathematical tools came together in the 18th century due to the work of Pierre-Simon de Laplace, Joseph Louis Lagrange, and other specialists in celestial mechanics. They were able to compute periodic variations and separate them from the gradual mean motion. They could express the mean longitude of the Sun in a polynomial such as:
+L0 = A0 + A1T + A2T dayswhere T is the time in Julian centuries. The derivative of this formula is an expression of the mean angular velocity, and the inverse of this gives an expression for the length of the tropical year as a linear function of T.
+Two equations are given in the table. Both equations estimate that the tropical year gets roughly a half second shorter each century.
+Newcomb's tables were sufficiently accurate that they were used by the joint American-British Astronomical Almanac for the Sun, Mercury, Venus, and Mars through 1983.
+The length of the mean tropical year is derived from a model of the Solar System, so any advance that improves the solar system model potentially improves the accuracy of the mean tropical year. Many new observing instruments became available, including
+artificial satellites
+tracking of deep space probes such as Pioneer 4 beginning in 1959
+radars able to measure the distance to other planets beginning in 1961
+lunar laser ranging since the 1969 Apollo 11 left the first of a series of retroreflectors which allow greater accuracy than reflectorless measurements
+artificial satellites such as LAGEOS (1976) and the Global Positioning System (initial operation in 1993)
+very long baseline interferometry which finds precise directions to quasars in distant galaxies, and allows determination of the Earth's orientation with respect to these objects whose distance is so great they can be considered to show minimal space motion.The complexity of the model used for the Solar System must be limited to the available computation facilities. In the 1920s punched card equipment came into use by L. J. Comrie in Britain. For the American Ephemeris an electromagnetic computer, the IBM Selective Sequence Electronic Calculator was used since 1948. When modern computers became available, it was possible to compute ephemerides using numerical integration rather than general theories; numerical integration came into use in 1984 for the joint US-UK almanacs.
+Albert Einstein's General Theory of Relativity provided a more accurate theory, but the accuracy of theories and observations did not require the refinement provided by this theory (except for the advance of the perihelion of Mercury) until 1984. Time scales incorporated general relativity beginning in the 1970s.
+A key development in understanding the tropical year over long periods of time is the discovery that the rate of rotation of the earth, or equivalently, the length of the mean solar day, is not constant. William Ferrel in 1864 and Charles-Eugène Delaunay in 1865 predicted that the rotation of the Earth is being retarded by tides. This could be verified by observation only in the 1920s with the very accurate Shortt-Synchronome clock and later in the 1930s when quartz clocks began to replace pendulum clocks as time standards.
+Apparent solar time is the time indicated by a sundial, and is determined by the apparent motion of the Sun caused by the rotation of the Earth around its axis as well as the revolution of the Earth around the Sun. Mean solar time is corrected for the periodic variations in the apparent velocity of the Sun as the Earth revolves in its orbit. The most important such time scale is Universal Time, which is the mean solar time at 0 degrees longitude (the IERS Reference Meridian). Civil time is based on UT (actually UTC), and civil calendars count mean solar days.
+However the rotation of the Earth itself is irregular and is slowing down, with respect to more stable time indicators: specifically, the motion of planets, and atomic clocks.
+Ephemeris time (ET) is the independent variable in the equations of motion of the Solar System, in particular, the equations from Newcomb's work, and this ET was in use from 1960 to 1984. These ephemerides were based on observations made in solar time over a period of several centuries, and as a consequence represent the mean solar second over that period. The SI second, defined in atomic time, was intended to agree with the ephemeris second based on Newcomb's work, which in turn makes it agree with the mean solar second of the mid-19th century. ET as counted by atomic clocks was given a new name, Terrestrial Time (TT), and for most purposes ET = TT = International Atomic Time + 32.184 SI seconds. Since the era of the observations, the rotation of the Earth has slowed down and the mean solar second has grown somewhat longer than the SI second. As a result, the time scales of TT and UT1 build up a growing difference: the amount that TT is ahead of UT1 is known as ΔT, or Delta T. As of 5 July 2022, TT is ahead of UT1 by 69.28 seconds.
+As a consequence, the tropical year following the seasons on Earth as counted in solar days of UT is increasingly out of sync with expressions for equinoxes in ephemerides in TT.
+As explained below, long-term estimates of the length of the tropical year were used in connection with the reform of the Julian calendar, which resulted in the Gregorian calendar. Participants in that reform were unaware of the non-uniform rotation of the Earth, but now this can be taken into account to some degree.  The table below gives Morrison and Stephenson's estimates and standard errors (σ) for ΔT at dates significant in the process of developing the Gregorian calendar.
+The low-precision extrapolations are computed with an expression provided by Morrison and Stephenson:
+ΔT in seconds = −20 + 32twhere t is measured in Julian centuries from 1820. The extrapolation is provided only to show ΔT is not negligible when evaluating the calendar for long periods; Borkowski cautions that "many researchers have attempted to fit a parabola to the measured ΔT values in order to determine the magnitude of the deceleration of the Earth's rotation. The results, when taken together, are rather discouraging."
+One definition of the tropical year would be the time required for the Sun, beginning at a chosen ecliptic longitude, to make one complete cycle of the seasons and return to the same ecliptic longitude.
+Before considering an example, the equinox must be examined. There are two important planes in solar system calculations: the plane of the ecliptic (the Earth's orbit around the Sun), and the plane of the celestial equator (the Earth's equator projected into space). These two planes intersect in a line. One direction points to the so-called vernal, northward, or March equinox which is given the symbol ♈︎ (the symbol looks like the horns of a ram because it used to be toward the constellation Aries). The opposite direction is given the symbol ♎︎ (because it used to be toward Libra). Because of the precession of the equinoxes and nutation these directions change, compared to the direction of distant stars and galaxies, whose directions have no measurable motion due to their great distance (see International Celestial Reference Frame).
+The ecliptic longitude of the Sun is the angle between ♈︎ and the Sun, measured eastward along the ecliptic. This creates a relative and not an absolute measurement, because as the Sun is moving, the direction the angle is measured from is also moving. It is convenient to have a fixed (with respect to distant stars) direction to measure from; the direction of ♈︎ at noon January 1, 2000 fills this role and is given the symbol ♈︎0.
+There was an equinox on March 20, 2009, 11:44:43.6 TT. The 2010 March equinox was March 20, 17:33:18.1 TT, which gives an interval - and a duration of the tropical year - of 365 days 5 hours 48 minutes 34.5 seconds. While the Sun moves, ♈︎ moves in the opposite direction. When the Sun and ♈︎ met at the 2010 March equinox, the Sun had moved east 359°59'09" while ♈︎ had moved west 51" for a total of 360° (all with respect to ♈︎0).  This is why the tropical year is 20 min. shorter than the sidereal year.
+When tropical year measurements from several successive years are compared, variations are found which are due to the perturbations by the Moon and planets acting on the Earth, and to nutation. Meeus and Savoie provided the following examples of intervals between March (northward) equinoxes:
+Until the beginning of the 19th century, the length of the tropical year was found by comparing equinox dates that were separated by many years; this approach yielded the mean tropical year.
+If a different starting longitude for the Sun is chosen than 0° (i.e. ♈︎), then the duration for the Sun to return to the same longitude will be different. This is a second-order effect of the circumstance that the speed of the Earth (and conversely the apparent speed of the Sun) varies in its elliptical orbit: faster in the perihelion, slower in the aphelion. The equinox moves with respect to the perihelion (and both move with respect to the fixed sidereal frame). From one equinox passage to the next, or from one solstice passage to the next, the Sun completes not quite a full elliptic orbit. The time saved depends on where it starts in the orbit. If the starting point is close to the perihelion (such as the December solstice), then the speed is higher than average, and the apparent Sun saves little time for not having to cover a full circle: the "tropical year" is comparatively long. If the starting point is near aphelion, then the speed is lower and the time saved for not having to run the same small arc that the equinox has precessed is longer: that tropical year is comparatively short.
+The "mean tropical year" is based on the mean sun, and is not exactly equal to any of the times taken to go from an equinox to the next or from a solstice to the next.
+The following values of time intervals between equinoxes and solstices were provided by Meeus and Savoie for the years 0 and 2000. These are smoothed values which take account of the Earth's orbit being elliptical, using well-known procedures (including solving Kepler's equation). They do not take into account periodic variations due to factors such as the gravitational force of the orbiting Moon and gravitational forces from the other planets. Such perturbations are minor compared to the positional difference resulting from the orbit being elliptical rather than circular.
+The mean tropical year on January 1, 2000, was 365.2421897 or 365 ephemeris days, 5 hours, 48 minutes, 45.19 seconds. This changes slowly; an expression suitable for calculating the length of a tropical year in ephemeris days, between 8000 BC and 12000 AD is
+
+
+
+
+365.2421896698
+−
+6.15359
+×
+
+10
+
+−
+6
+
+
+T
+−
+7.29
+×
+
+10
+
+−
+10
+
+
+
+T
+
+2
+
+
++
+2.64
+×
+
+10
+
+−
+10
+
+
+
+T
+
+3
+
+
+
+
+{\displaystyle 365.2421896698-6.15359\times 10^{-6}T-7.29\times 10^{-10}T^{2}+2.64\times 10^{-10}T^{3}}
+
+where T is in Julian centuries of 36,525 days of 86,400 SI seconds measured from noon January 1, 2000 TT.
+Modern astronomers define the tropical year as time for the Sun's mean longitude to increase by 360°. The process for finding an expression for the length of the tropical year is to first find an expression for the Sun's mean longitude (with respect to ♈︎), such as Newcomb's expression given above, or Laskar's expression. When viewed over a one-year period, the mean longitude is very nearly a linear function of Terrestrial Time. To find the length of the tropical year, the mean longitude is differentiated, to give the angular speed of the Sun as a function of Terrestrial Time, and this angular speed is used to compute how long it would take for the Sun to move 360°.
+The above formulae give the length of the tropical year in ephemeris days (equal to 86,400 SI seconds), not solar days. It is the number of solar days in a tropical year that is important for keeping the calendar in synch with the seasons (see below).
+The Gregorian calendar, as used for civil and scientific purposes, is an international standard. It is a solar calendar that is designed to maintain synchrony with the mean tropical year. It has a cycle of 400 years (146,097 days). Each cycle repeats the months, dates, and weekdays. The average year length is 146,097/400 = 365+97⁄400 = 365.2425 days per year, a close approximation to the mean tropical year of 365.2422 days.
+The Gregorian calendar is a reformed version of the Julian calendar. By the time of the reform in 1582, the date of the vernal equinox had shifted about 10 days, from about March 21 at the time of the First Council of Nicaea in 325, to about March 11. According to North, the real motivation for reform was not primarily a matter of getting agricultural cycles back to where they had once been in the seasonal cycle; the primary concern of Christians was the correct observance of Easter. The rules used to compute the date of Easter used a conventional date for the vernal equinox (March 21), and it was considered important to keep March 21 close to the actual equinox.
+If society in the future still attaches importance to the synchronization between the civil calendar and the seasons, another reform of the calendar will eventually be necessary. According to Blackburn and Holford-Strevens (who used Newcomb's value for the tropical year) if the tropical year remained at its 1900 value of 365.24219878125 days the Gregorian calendar would be 3 days, 17 min, 33 s behind the Sun after 10,000 years. Aggravating this error, the length of the tropical year (measured in Terrestrial Time) is decreasing at a rate of approximately 0.53 s per century. Also, the mean solar day is getting longer at a rate of about 1.5 ms per century. These effects will cause the calendar to be nearly a day behind in 3200. The number of solar days in a "tropical millennium" is decreasing by about 0.06 per millennium (neglecting the oscillatory changes in the real length of the tropical year). This means there should be fewer and fewer leap days as time goes on. A possible reform would be to omit the leap day in 3200, keep 3600 and 4000 as leap years, and thereafter make all centennial years common except 4500, 5000, 5500, 6000, etc. But the quantity ΔT is not sufficiently predictable to form more precise proposals.
+Anomalistic year
+Gregorian calendar
+Sidereal and tropical astrologyDershowitz, N.; Reingold, E.M. (2008). Calendrical calculations (3rd ed.). Cambridge University Press. ISBN 978-0-521-70238-6.
+Meeus, Jean (August 10, 2009) [1998]. Astronomical Algorithms (2nd, with corrections as of August 10, 2009 ed.). Richmond, VA: Willmann-Bell. ISBN 978-0-943396-61-3.
+Meeus, Jean (2002). More astronomical astronomy morsels. Richmond, VA: Willmann-Bell. ISBN 0-943396-74-3. Contains updates to Meeus & Savoie 1992.
+Simon, J. L.; Bretagnon, P.; Chapront, J.; Chapront-Touze, M.; Francou, G.; Laskar, J. (February 1994). "Numerical expressions for precession formulae and mean elements for the Moon and the planets". Astronomy and Astrophysics. 282: 663–683. Bibcode:1994A&A...282..663S. ISSN 0004-6361. Referenced in Astronomical almanac for the year 2011 and contains expressions used to derive the length of the tropical year. Media related to Tropical year at Wikimedia Commons

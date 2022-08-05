@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Palazzo_Massimo_alle_Colonne&params=41.8967_N_12.4736_E_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Palazzo_Massimo_alle_Colonne&params=41.8967_N_12.4736_E_type:landmark
+https://maps.google.com/maps?q=10+via+del+corso,+rome&hl=en%7C&t=k&ll=41.896583,12.473656&spn=0.002504,0.004946&t=k.%7CSatellite
+http://www.romeartlover.it/Vasi76.htm
+https://en.wikipedia.org/w/index.php?title=Template:Monuments_of_Rome&action=edit
+https://isni.org/isni/000000012324089X
+https://viaf.org/viaf/136494781
+https://www.worldcat.org/identities/lccn-nr98004097/
+https://d-nb.info/gnd/4268119-4
+https://id.loc.gov/authorities/names/nr98004097

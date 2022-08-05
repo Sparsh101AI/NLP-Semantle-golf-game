@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Casabona&params=39_15_N_16_57_E_region:IT_type:city(3998)
+//geohack.toolforge.org/geohack.php?pagename=Casabona&params=39_15_N_16_57_E_region:IT_type:city(3998)
+http://www.comune.casabona.kr.it
+https://www.istat.it/it/archivio/156224
+http://demo.istat.it/pop2018/index3.html
+https://books.google.com/books?id=K_1EAQAAIAAJ&pg=PA378
+https://books.google.com/books?id=X1iwAuAJSOcC&pg=PA96
+//www.worldcat.org/oclc/22091640
+https://en.wikipedia.org/w/index.php?title=Template:Province_of_Crotone&action=edit
+https://viaf.org/viaf/143171042
+https://www.worldcat.org/identities/containsVIAFID/143171042
+https://d-nb.info/gnd/4216275-0
+https://id.loc.gov/authorities/names/n88065947

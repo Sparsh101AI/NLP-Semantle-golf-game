@@ -1,0 +1,35 @@
+In cardiac physiology, preload is the amount of sarcomere stretch experienced by cardiac muscle cells, called cardiomyocytes, at the end of ventricular filling during diastole. Preload is directly related to ventricular filling. As the relaxed ventricle fills during diastole, the walls are stretched and the length of sarcomeres increases. Sarcomere length can be approximated by the volume of the ventricle because each shape has a conserved surface-area-to-volume ratio. This is useful clinically because measuring the sarcomere length is destructive to heart tissue. It requires cutting out a piece of cardiac muscle to look at the sarcomeres under a microscope. It is currently not possible to directly measure preload in the beating heart of a living animal. Preload is estimated from end-diastolic ventricular pressure and is measured in millimeters of mercury (mmHg).   
+Though not exactly equivalent to the strict definition of preload, end-diastolic volume is better suited to the clinic. It is relatively straightforward to estimate the volume of a healthy, filled left ventricle by visualizing the 2D cross-section with cardiac ultrasound.  This technique is less helpful for estimating right ventricular preload because it is difficult to calculate the volume in an asymmetrical chamber. In cases of rapid heart rate, it can be difficult to capture the moment of maximum fill at the end of diastole, which means the volume may be difficult to measure in children or during tachycardia.
+An alternative to estimating the end-diastolic volume of the heart is to measure the end-diastolic pressure. This is possible because pressure and volume are related to one another according to Boyle's law, which can be simplified to
+
+
+
+
+P
+∝
+
+
+1
+V
+
+
+
+
+{\displaystyle P\propto {\frac {1}{V}}}
+
+
+The end diastolic pressure of the right ventricle can measured directly with a Swan-Ganz catheter. For the left ventricle, end diastolic pressure is most commonly estimated by taking the pulmonary wedge pressure, which is approximately equal to the pressure in the left atrium when the lungs are healthy. When the heart is healthy the diastolic pressure in the left atrium and left ventricle are equal. When both the heart and lungs are healthy, pulmonary wedge pressure is equal to left ventricle diastolic pressure and can be used as a surrogate for preload. Pulmonary wedge pressure will overestimate left ventricle pressure in people with mitral valve stenosis, pulmonary hypertension and other heart and lung conditions.
+Estimation of preload may also be inaccurate in a chronically dilated ventricles because additional new sarcomeres cause the relaxed ventricle to appear enlarged. 
+
+Preload is affected by venous blood pressure and the rate of venous return. These are affected by venous tone and volume of circulating blood.
+Preload is related to the ventricular end-diastolic volume; a higher end-diastolic volume implies a higher preload.  However, the relationship is not simple because of the restriction of the term preload to single myocytes.  Preload can still be approximated by the inexpensive echocardiographic measurement end diastolic volume or EDV.
+Preload increases with exercise (slightly), increasing blood volume (overtransfusion, polycythemia) and neuroendocrine excitement (sympathetic tone).
+An arteriovenous fistula can increase preload.
+Preload is also affected by two main body "pumps":
+Respiratory pump - Intrapleural pressure decreases during inspiration and abdominal pressure increases, squeezing local abdominal veins, allowing thoracic veins to expand and increase blood flow towards the right atrium.
+Skeletal muscle pump - In the deep veins of the legs, surrounding muscles squeeze veins and pump blood back towards the heart. This occurs most notably in the legs. Once blood flows past valves it cannot flow backwards and therefore blood is “milked” towards the heart.
+Afterload
+Cardiac output
+Frank–Starling law of the heart
+Passive leg raising test
+Volume overloadOverview at cvphysiology.com

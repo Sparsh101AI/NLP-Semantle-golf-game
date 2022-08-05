@@ -1,0 +1,50 @@
+A sympatholytic (or sympathoplegic) drug is a medication that opposes the downstream effects of postganglionic nerve firing in effector organs innervated by the sympathetic nervous system (SNS). They are indicated for various functions; for example, they may be used as antihypertensives. They are also used to treat anxiety, such as generalized anxiety disorder, panic disorder and PTSD.
+Antiadrenergic agents inhibit the signals of epinephrine and norepinephrine. They are primarily postsynaptic adrenergic receptor antagonists (alpha and beta adrenergic receptor antagonists, or "blockers"), inhibiting the downstream cellular signaling pathways of adrenergic receptors. However, there are exceptions: clonidine is an adrenergic agonist at the α2 receptor; since this receptor is located presynaptically, agonism at this receptor inhibits the presynaptic release of adrenaline and noradrenaline, preventing postsynaptic adrenergic receptor activation and downstream signaling.
+Another way to inhibit adrenergic receptor signaling is by blocking the synthesis of catecholamines. Methyltyrosine, for example,  inhibits one of the key enzymes in the pathway: tyrosine hydroxylase.
+For neurotransmitters to be released, they first must be stored in synaptic vesicles. Reserpine works by inhibiting VMAT, preventing the storage of neurotransmitters into synaptic vesicles. If VMAT is inhibited, neurotransmitters won't be released into the synaptic cleft, thereby inhibiting their downstream effect.
+Other drugs are preferentially toxic to sympathetic neurons. One method of obtaining such specificity is to exploit drugs that are substrates for a transporter preferentially expressed on sympathetic terminals, such as the norepinephrine transporter. Such transports allows the drugs to accumulate within sympathetic neurones, where they can act to inhibit sympathetic function. Such drugs include bretylium, guanethidine and 6-hydroxydopamine.
+Many antiadrenergic agents used as antihypertensives include:
+Centrally acting
+Prazosin (α1 inverse agonist)
+Rescinnamine (ACE inhibitor)
+Reserpine (VMAT inhibitor)
+Rilmenidine (imidazoline receptor agonist)
+Ganglion-blocking
+Mecamylamine (α3β4 nicotinic receptor antagonist)
+Trimethaphan (ganglion type receptor antagonist)
+Peripherally acting
+Guanethidine (Magnesium-ATPase inhibitor)
+Indoramin (α1 antagonist)
+Doxazosin (alpha blocker)
+Beta blockers
+Non-selective agents
+Alprenolol
+Bucindolol
+Carteolol
+Carvedilol (has additional α-blocking activity)
+Labetalol (has additional α-blocking activity)
+Nadolol
+Penbutolol (has intrinsic sympathomimetic activity)
+Pindolol (has intrinsic sympathomimetic activity)
+Propranolol
+Sotalol
+Timolol
+β1-selective agents
+Acebutolol (has intrinsic sympathomimetic activity)
+Atenolol
+Betaxolol
+Bisoprolol
+Celiprolol
+Esmolol
+Metoprolol
+Nebivolol
+β2-selective agents
+Butaxamine (weak α-adrenergic agonist activity) - No common clinical applications, but used in experiments.
+ICI-118,551 Highly selective β2-adrenergic receptor antagonist - No known clinical applications, but used in experiments due to its strong receptor specificity.There is clear evidence from many controlled trials in the past 25 years that beta blockers are effective in anxiety disorders, though the mechanism of action is not known.
+Some people have used beta blockers for performance type social anxiety, or "stage fright." In particular, musicians, public speakers, actors, and professional dancers, have been known to use beta blockers to avoid stage fright and tremor during public performance and especially auditions. The physiological symptoms of the fight/flight response associated with performance anxiety and panic (pounding heart, cold/clammy hands, increased respiration, sweating, etc.) are significantly reduced, thus enabling anxious individuals to concentrate on the task at hand. Stutterers also use beta blockers to avoid fight/flight responses, hence reducing the tendency to stutter.
+Since they promote a lower heart rate and reduce tremor, beta blockers have been used by some Olympic marksmen to enhance performance, though beta blockers are banned by the International Olympic Committee (IOC). Although they have no recognizable benefit to most sports, it is acknowledged that they are beneficial to sports such as archery and shooting. A recent, high-profile transgression took place in the 2008 Summer Olympics, where 50 meter pistol silver medalist and 10 meter air pistol bronze medalist Kim Jong-su tested positive for propranolol and was stripped of his medal.
+Posttraumatic stress disorder (PTSD) is theorized to be the result of neurological patterns caused by adrenaline and fear in the brain. By administering beta blockers which can cross the blood brain barrier immediately following a traumatic event, as well as over the next couple weeks, the formation of PTSD has been reduced in clinical studies.
+Alpha2 adrenergic agonist can also be used to treat anxiety and panic, such as Generalized Anxiety Disorder, Panic Disorder or PTSD. Alpha2-adrenergic receptor agonists, such as clonidine and guanfacine, act at noradrenergic autoreceptors to inhibit the firing of cells in the locus ceruleus, effectively reducing the release of brain norepinephrine. Clonidine has shown promise among patients with Anxiety, Panic and PTSD in clinical trials and was used to treat severely and chronically abused and neglected preschool children. It improved disturbed behavior by reducing aggression, impulsivity, emotional outbursts, and oppositionality. Insomnia and nightmares were also reported to be reduced.
+Kinzie and Leung prescribed the combination of clonidine and imipramine to severely traumatized Cambodian refugees with Anxiety, Panic and PTSD. Global symptoms of PTSD were reduced among sixty-six percent and nightmares among seventy-seven percent. Guanfacine produces less sedation than clonidine and thus may be better tolerated. Guanfacine reduced the trauma-related nightmares.
+Prazosin is an α1-blocker that acts as an inverse agonist at alpha-1 adrenergic receptors. Raskind and colleagues studied the efficacy of prazosin for PTSD among Vietnam combat veterans in a 20-week double-blind crossover protocol with a two-week drug washout to allow for return to baseline. The CAPS and the Clinical Global Impressions-Change scale (CGI-C) were the primary outcome measures. Patients who were taking prazosin had a robust improvement in overall sleep quality (effect size, 1.6) and recurrent distressing dreams (effect size, 1.9). In each of the PTSD symptom clusters the effect size was medium to large: 0.7 for reexperiencing or intrusion, and 0.6 for avoidance and numbing, and 0.9 for hyperarousal. The reduction in CGI-C scores (overall PTSD severity and function at endpoint) also reflected a large effect size (1.4). Prazosin appears to have promise as an effective treatment for PTSD-related sleep disturbance, including trauma-related nightmares, as well as overall anxiety and PTSD symptoms.
+Sympathomimetic drugSympatholytics at the US National Library of Medicine Medical Subject Headings (MeSH)

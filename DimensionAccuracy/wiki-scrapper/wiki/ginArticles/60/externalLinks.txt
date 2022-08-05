@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Marigot,_Sud-Est&params=18_14_0_N_72_19_0_W_region:HT_type:city(50734)
+//geohack.toolforge.org/geohack.php?pagename=Marigot,_Sud-Est&params=18_14_0_N_72_19_0_W_region:HT_type:city(50734)
+https://en.wikipedia.org/w/index.php?title=Template:Communes_of_Haiti&action=edit
+https://viaf.org/viaf/152665703
+https://www.worldcat.org/identities/containsVIAFID/152665703
+https://id.loc.gov/authorities/names/n2007023229
+https://en.wikipedia.org/w/index.php?title=Marigot,_Sud-Est&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Haiti-geo-stub&action=edit

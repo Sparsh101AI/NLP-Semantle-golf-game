@@ -1,0 +1,9 @@
+Boussinesq approximation
+Original Boussinesq equations
+Derivation
+Linear frequency dispersion
+Boussinesq-type equations and extensions
+Further approximations for one-way wave propagation
+Numerical models
+Notes
+References

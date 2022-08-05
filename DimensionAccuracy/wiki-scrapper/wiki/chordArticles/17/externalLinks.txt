@@ -1,0 +1,6 @@
+http://projecteuclid.org/euclid.bams/1183549049
+https://doi.org/10.1090%2FS0273-0979-1982-15004-2
+//www.ams.org/mathscinet-getitem?mr=0656198
+https://en.wikipedia.org/w/index.php?title=Template:Functional_analysis&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Topological_vector_spaces&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Analysis_in_topological_vector_spaces&action=edit

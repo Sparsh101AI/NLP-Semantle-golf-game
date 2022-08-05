@@ -1,0 +1,701 @@
+In mathematics, to solve an equation is to find its solutions, which are the values (numbers, functions, sets, etc.) that fulfill the condition stated by the equation, consisting generally of two expressions related by an equals sign. When seeking a solution, one or more variables are designated as unknowns. A solution is an assignment of values to the unknown variables that makes the equality in the equation true. In other words, a solution is a value or a collection of values (one for each unknown) such that, when substituted for the unknowns, the equation becomes an equality.
+A solution of an equation is often called a root of the equation, particularly but not only for polynomial equations. The set of all solutions of an equation is its solution set.
+An equation may be solved either numerically or symbolically. Solving an equation numerically means that only numbers are admitted as solutions. Solving an equation symbolically means that expressions can be used for representing the solutions.
+For example, the equation x + y = 2x – 1 is solved for the unknown x by the expression x = y + 1, because substituting y + 1 for x in the equation results in (y + 1) + y = 2(y + 1) – 1, a true statement. It is also possible to take the variable y to be the unknown, and then the equation is solved by y = x – 1. Or x and y can both be treated as unknowns, and then there are many solutions to the equation; a symbolic solution is (x, y) = (a + 1, a), where the variable a may take any value. Instantiating a symbolic solution with specific numbers gives a numerical solution; for example, a = 0 gives (x, y) = (1, 0) (that is, x = 1, y = 0), and a = 1 gives (x, y) = (2, 1). 
+The distinction between known variables and unknown variables is generally made in the statement of the problem, by phrases such as "an equation in x and y", or "solve for x and y", which indicate the unknowns, here x and y.
+However, it is common to reserve x, y, z, ... to denote the unknowns, and to use a, b, c, ... to denote the known variables, which are often called parameters. This is typically the case when considering polynomial equations, such as quadratic equations. However, for some problems, all variables may assume either role.
+Depending on the context, solving an equation may consist to find either any solution (finding a single solution is enough), all solutions, or a solution that satisfies further properties, such as belonging to a given interval. When the task is to find the solution that is the best under some criterion, this is an optimization problem. Solving an optimization problem is generally not referred to as "equation solving", as, generally, solving methods start from a particular solution for finding a better solution, and repeating the process until finding eventually the best solution.
+One general form of an equation is
+
+
+
+
+f
+
+(
+
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+
+)
+
+=
+c
+,
+
+
+{\displaystyle f\left(x_{1},\dots ,x_{n}\right)=c,}
+
+where f is a function, x1, ..., xn are the unknowns, and c is a constant. Its solutions are the elements of the inverse image
+
+
+
+
+
+f
+
+−
+1
+
+
+(
+c
+)
+=
+
+
+{
+
+
+(
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+)
+∈
+D
+∣
+f
+
+(
+
+
+a
+
+1
+
+
+,
+…
+,
+
+a
+
+n
+
+
+
+)
+
+=
+c
+
+
+}
+
+
+,
+
+
+{\displaystyle f^{-1}(c)={\bigl \{}(a_{1},\dots ,a_{n})\in D\mid f\left(a_{1},\dots ,a_{n}\right)=c{\bigr \}},}
+
+where D is the domain of the function f. The set of solutions can be the empty set (there are no solutions), a singleton (there is exactly one solution), finite, or infinite (there are infinitely many solutions).
+For example, an equation such as
+
+
+
+
+3
+x
++
+2
+y
+=
+21
+z
+,
+
+
+{\displaystyle 3x+2y=21z,}
+
+with unknowns x, y and z, can be put in the above form by subtracting 21z from both sides of the equation, to obtain
+
+
+
+
+3
+x
++
+2
+y
+−
+21
+z
+=
+0
+
+
+{\displaystyle 3x+2y-21z=0}
+
+In this particular case there is not just one solution, but an infinite set of solutions, which can be written using set builder notation as
+
+
+
+
+
+
+{
+
+
+(
+x
+,
+y
+,
+z
+)
+∣
+3
+x
++
+2
+y
+−
+21
+z
+=
+0
+
+
+}
+
+
+.
+
+
+{\displaystyle {\bigl \{}(x,y,z)\mid 3x+2y-21z=0{\bigr \}}.}
+
+One particular solution is x = 0, y = 0, z = 0. Two other solutions are x = 3, y = 6, z = 1, and x = 8, y = 9, z = 2. There is a unique plane in three-dimensional space which passes through the three points with these coordinates, and this plane is the set of all points whose coordinates are solutions of the equation.
+The solution set of a given set of equations or inequalities is the set of all its solutions, a solution being a tuple of values, one for each unknown, that satisfies all the equations or inequalities.
+If the solution set is empty, then there are no values of the unknowns that satisfy simultaneously all equations and inequalities.
+For a simple example, consider the equation 
+
+
+
+
+
+x
+
+2
+
+
+=
+2.
+
+
+{\displaystyle x^{2}=2.}
+
+This equation can be viewed as a Diophantine equation, that is, an equation for which only integer solutions are sought. In this case, the solution set is the empty set, since 2 is not the square of an integer. However, if one searches for real solutions, there are two solutions, √2  and –√2; in other words, the solution set is {√2, −√2}.
+When an equation contains several unknowns, and when one has several equations with more unknowns than equations, the solution set is often infinite. In this case, the solutions cannot be listed. For representing them, a parametrization is often useful, which consists of expressing the solutions in terms of some of the unknowns or auxiliary variables. This is always possible when all the equations are linear.
+Such infinite solution sets can naturally be interpreted as geometric shapes such as lines, curves (see picture), planes, and more generally algebraic varieties or manifolds. In particular, algebraic geometry may be viewed as the study of solution sets of algebraic equations.
+The methods for solving equations generally depend on the type of equation, both the kind of expressions in the equation and the kind of values that may be assumed by the unknowns. The variety in types of equations is large, and so are the corresponding methods. Only a few specific types are mentioned below.
+In general, given a class of equations, there may be no known systematic method (algorithm) that is guaranteed to work. This may be due to a lack of mathematical knowledge; some problems were only solved after centuries of effort. But this also reflects that, in general, no such method can exist: some problems are known to be unsolvable by an algorithm, such as Hilbert's tenth problem, which was proved unsolvable in 1970.
+For several classes of equations, algorithms have been found for solving them, some of which have been implemented and incorporated in computer algebra systems, but often require no more sophisticated technology than pencil and paper. In some other cases, heuristic methods are known that are often successful but that are not guaranteed to lead to success.
+If the solution set of an equation is restricted to a finite set (as is the case for equations in modular arithmetic, for example), or can be limited to a finite number of possibilities (as is the case with some Diophantine equations), the solution set can be found by brute force, that is, by testing each of the possible values (candidate solutions). It may be the case, though, that the number of possibilities to be considered, although finite, is so huge that an exhaustive search is not practically feasible; this is, in fact, a requirement for strong encryption methods.
+As with all kinds of problem solving, trial and error may sometimes yield a solution, in particular where the form of the equation, or its similarity to another equation with a known solution, may lead to an "inspired guess" at the solution. If a guess, when tested, fails to be a solution, consideration of the way in which it fails may lead to a modified guess.
+Equations involving linear or simple rational functions of a single real-valued unknown, say x, such as
+
+
+
+
+8
+x
++
+7
+=
+4
+x
++
+35
+
+
+or
+
+
+
+
+
+4
+x
++
+9
+
+
+3
+x
++
+4
+
+
+
+=
+2
+
+,
+
+
+{\displaystyle 8x+7=4x+35\quad {\text{or}}\quad {\frac {4x+9}{3x+4}}=2\,,}
+
+can be solved using the methods of elementary algebra.
+Smaller systems of linear equations can be solved likewise by methods of elementary algebra. For solving larger systems, algorithms are used that are based on linear algebra.
+Polynomial equations of degree up to four can be solved exactly using algebraic methods, of which the quadratic formula is the simplest example. Polynomial equations with a degree of five or higher require in general numerical methods (see below) or special functions such as Bring radicals, although some specific cases may be solvable algebraically, for example
+
+
+
+
+4
+
+x
+
+5
+
+
+−
+
+x
+
+3
+
+
+−
+3
+=
+0
+
+
+{\displaystyle 4x^{5}-x^{3}-3=0}
+
+(by using the rational root theorem), and
+
+
+
+
+
+x
+
+6
+
+
+−
+5
+
+x
+
+3
+
+
++
+6
+=
+0
+
+,
+
+
+{\displaystyle x^{6}-5x^{3}+6=0\,,}
+
+(by using the substitution x = z, which simplifies this to a quadratic equation in z).
+In Diophantine equations the solutions are required to be integers. In some cases a brute force approach can be used, as mentioned above. In some other cases, in particular if the equation is in one unknown, it is possible to solve the equation for rational-valued unknowns (see Rational root theorem), and then find solutions to the Diophantine equation by restricting the solution set to integer-valued solutions. For example, the polynomial equation
+
+
+
+
+2
+
+x
+
+5
+
+
+−
+5
+
+x
+
+4
+
+
+−
+
+x
+
+3
+
+
+−
+7
+
+x
+
+2
+
+
++
+2
+x
++
+3
+=
+0
+
+
+
+{\displaystyle 2x^{5}-5x^{4}-x^{3}-7x^{2}+2x+3=0\,}
+
+has as rational solutions x = −1/2 and x = 3, and so, viewed as a Diophantine equation, it has the unique solution x = 3.
+In general, however, Diophantine equations are among the most difficult equations to solve.
+In the simple case of a function of one variable, say, h(x), we can solve an equation of the form h(x) = c for some constant c by considering what is known as the inverse function of h.
+Given a function h : A → B, the inverse function, denoted h and defined as h : B → A, is a function such that
+
+
+
+
+
+h
+
+−
+1
+
+
+
+
+(
+
+
+h
+(
+x
+)
+
+
+)
+
+
+=
+h
+
+
+(
+
+
+
+h
+
+−
+1
+
+
+(
+x
+)
+
+
+)
+
+
+=
+x
+
+.
+
+
+{\displaystyle h^{-1}{\bigl (}h(x){\bigr )}=h{\bigl (}h^{-1}(x){\bigr )}=x\,.}
+
+Now, if we apply the inverse function to both sides of h(x) = c, where c is a constant value in B, we obtain
+
+
+
+
+
+
+
+
+
+h
+
+−
+1
+
+
+
+
+(
+
+
+h
+(
+x
+)
+
+
+)
+
+
+
+
+
+=
+
+h
+
+−
+1
+
+
+(
+c
+)
+
+
+
+
+x
+
+
+
+=
+
+h
+
+−
+1
+
+
+(
+c
+)
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}h^{-1}{\bigl (}h(x){\bigr )}&=h^{-1}(c)\\x&=h^{-1}(c)\\\end{aligned}}}
+
+and we have found the solution to the equation. However, depending on the function, the inverse may be difficult to be defined, or may not be a function on all of the set B (only on some subset), and have many values at some point.
+If just one solution will do, instead of the full solution set, it is actually sufficient if only the functional identity
+
+
+
+
+h
+
+(
+
+
+h
+
+−
+1
+
+
+(
+x
+)
+
+)
+
+=
+x
+
+
+{\displaystyle h\left(h^{-1}(x)\right)=x}
+
+holds. For example, the projection π1 : R → R defined by π1(x, y) = x has no post-inverse, but it has a pre-inverse π1 defined by π1(x) = (x, 0). Indeed, the equation π1(x, y) = c is solved by
+
+
+
+
+(
+x
+,
+y
+)
+=
+
+π
+
+1
+
+
+−
+1
+
+
+(
+c
+)
+=
+(
+c
+,
+0
+)
+.
+
+
+{\displaystyle (x,y)=\pi _{1}^{-1}(c)=(c,0).}
+
+Examples of inverse functions include the nth root (inverse of x); the logarithm (inverse of a); the inverse trigonometric functions; and Lambert's W function (inverse of xe).
+If the left-hand side expression of an equation P = 0 can be factorized as P = QR, the solution set of the original solution consists of the union of the solution sets of the two equations Q = 0 and R = 0.
+For example, the equation
+
+
+
+
+tan
+⁡
+x
++
+cot
+⁡
+x
+=
+2
+
+
+{\displaystyle \tan x+\cot x=2}
+
+can be rewritten, using the identity tan x cot x = 1  as
+
+
+
+
+
+
+
+
+tan
+
+2
+
+
+⁡
+x
+−
+2
+tan
+⁡
+x
++
+1
+
+
+tan
+⁡
+x
+
+
+
+=
+0
+,
+
+
+{\displaystyle {\frac {\tan ^{2}x-2\tan x+1}{\tan x}}=0,}
+
+which can be factorized into
+
+
+
+
+
+
+
+
+(
+
+tan
+⁡
+x
+−
+1
+
+)
+
+
+2
+
+
+
+tan
+⁡
+x
+
+
+
+=
+0.
+
+
+{\displaystyle {\frac {\left(\tan x-1\right)^{2}}{\tan x}}=0.}
+
+The solutions are thus the solutions of the equation tan x = 1, and are thus the set
+
+
+
+
+x
+=
+
+
+
+π
+4
+
+
+
++
+k
+π
+,
+
+k
+=
+0
+,
+±
+1
+,
+±
+2
+,
+…
+.
+
+
+{\displaystyle x={\tfrac {\pi }{4}}+k\pi ,\quad k=0,\pm 1,\pm 2,\ldots .}
+
+With more complicated equations in real or complex numbers, simple methods to solve equations can fail. Often, root-finding algorithms like the Newton–Raphson method can be used to find a numerical solution to an equation, which, for some applications, can be entirely sufficient to solve some problem.
+Equations involving matrices and vectors of real numbers can often be solved by using methods from linear algebra.
+There is a vast body of methods for solving various kinds of differential equations, both numerically and analytically. A particular class of problem that can be considered to belong here is integration, and the analytic methods for solving this kind of problems are now called symbolic integration. Solutions of differential equations can be implicit or explicit.
+Extraneous and missing solutions
+Simultaneous equations
+Equating coefficients
+Solving the geodesic equations
+Unification (computer science) — solving equations involving symbolic expressions

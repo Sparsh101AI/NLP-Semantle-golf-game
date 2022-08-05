@@ -1,0 +1,14 @@
+https://en.wikipedia.org/w/index.php?title=Standard_penetration_test&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Standard+penetration+test%22
+//www.google.com/search?tbm=nws&q=%22Standard+penetration+test%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Standard+penetration+test%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Standard+penetration+test%22+-wikipedia
+//scholar.google.com/scholar?q=%22Standard+penetration+test%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Standard+penetration+test%22&acc=on&wc=on
+http://www.pwri.go.jp/team/geosearch/wadai_04.html
+http://web.mst.edu/~rogersda/umrcourses/ge441/NOTES%20for%20STANDARD%20PENETRATION%20TEST.pdf
+http://www.astm.org/Standards/D1586.htm
+http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=EL-6800
+https://doi.org/10.1061%2F%28ASCE%291090-0241%282001%29127%3A10%28817%29
+http://www.pwri.go.jp/team/geosearch/wadai_04.html
+https://en.wikipedia.org/w/index.php?title=Template:Geotechnical_engineering&action=edit

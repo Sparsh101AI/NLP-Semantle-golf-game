@@ -1,0 +1,16 @@
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0176%3Atext%3DCharm.%3Asection%3D158a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0178%3Atext%3DGorg.%3Asection%3D481d
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0178%3Atext%3DGorg.%3Asection%3D513b
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0044;query=card%3D%233;layout=;loc=54
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DParm.%3Asection%3D126c
+https://en.wikisource.org/wiki/The_Wasps
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0043:line=1
+https://en.wikisource.org/wiki/Charmides_(Plato)
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0175:text=Charm.:section=153a
+https://en.wikisource.org/wiki/Gorgias
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0177:text=Gorg.:section=447a
+https://en.wikisource.org/wiki/Parmenides
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0173:text=Parm.:section=126a
+https://en.wikisource.org/wiki/Lives_(Dryden_translation)/Pericles
+https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.01.0181:text=Per.:chapter=39:section=1
+https://en.wikipedia.org/w/index.php?title=Template:Plato_navbox&action=edit

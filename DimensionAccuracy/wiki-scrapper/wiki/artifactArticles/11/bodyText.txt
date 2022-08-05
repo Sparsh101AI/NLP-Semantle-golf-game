@@ -1,0 +1,88 @@
+Security service is a service, provided by a layer of communicating open systems, which ensures adequate security of the systems or of data transfers as defined by ITU-T X.800 Recommendation. 
+X.800 and ISO 7498-2 (Information processing systems – Open systems interconnection – Basic Reference Model – Part 2: Security architecture)  are technically aligned. This model is widely recognized 
+
+A more general definition is in CNSS Instruction No. 4009 dated 26 April 2010 by Committee on National Security Systems of United States of America:
+A capability that supports one, or more, of the security requirements (Confidentiality, Integrity, Availability). Examples of security services are key management, access control, and authentication.Another authoritative definition is in W3C Web service Glossary  adopted by NIST SP 800-95:
+A processing or communication service that is provided by a system to give a specific kind of protection to resources, where said resources may reside with said system or reside with other systems, for example, an authentication service or a PKI-based document attribution and authentication service. A security service is a superset of AAA services. Security services typically implement portions of security policies and are implemented via security mechanisms.Information security and Computer security are disciplines that are dealing with the requirements of Confidentiality, Integrity, Availability, the so-called CIA Triad, of information asset of an organization (company or agency) or the information managed by computers respectively.
+There are threats that can attack the resources (information or devices to manage it) exploiting one or more vulnerabilities. The resources can be protected by one or more countermeasures or security controls.
+So security services implement part of the countermeasures, trying to achieve the security requirements of an organization.
+In order to let different devices (computers, routers, cellular phones) to communicate data in a standardized way, communication protocols had been defined.
+The ITU-T organization published a large set of protocols. The general architecture of these protocols is defined in recommendation X.200.
+The different means (air, cables) and ways (protocols and protocol stacks) to communicate are called a communication network.
+Security requirements are applicable to the information sent over the network. The discipline dealing with security over a network is called Network security.
+The X.800 Recommendation:
+provides a general description of security services and related mechanisms, which may be provided by the Reference Model; and
+defines the positions within the Reference Model where the services and mechanisms may be provided.This Recommendation extends the field of application of Recommendation X.200, to cover secure communications between open systems.
+According to X.200 Recommendation, in the so-called OSI Reference model there are 7 layers, each one is generically called N layer. The N+1 entity ask for transmission services to the N entity.
+At each level two entities (N-entity) interact by means of the (N) protocol by transmitting Protocol Data Units (PDU).
+Service Data Unit (SDU) is a specific unit of data that has been passed down from an OSI layer, to a lower layer, and has not yet been encapsulated into a PDU, by the lower layer. It is a set of data that is sent by a user of the services of a given layer, and is transmitted semantically unchanged to a peer service user .
+The PDU at any given layer, layer 'n', is the SDU of the layer below, layer 'n-1'. In effect the SDU is the 'payload' of a given PDU. That is, the process of changing a SDU to a PDU, consists of an encapsulation process, performed by the lower layer. All the data contained in the SDU becomes encapsulated within the PDU. The layer n-1 adds headers or footers, or both, to the SDU, transforming it into a PDU of layer n-1. The added headers or footers are part of the process used to make it possible to get data from a source to a destination.
+The following are considered to be the security services which can be provided optionally within the framework of the OSI Reference Model. The authentication services require authentication information comprising locally stored information and data that is transferred (credentials) to facilitate the authentication:
+Authentication
+These services provide for the authentication of a communicating peer entity and the source of data as described below.
+Peer entity authentication
+This service, when provided by the (N)-layer, provides corroboration to the (N + 1)-entity that the peer entity is the claimed (N + 1)-entity.
+Data origin authentication
+This service, when provided by the (N)-layer, provides corroboration to an (N + 1)-entity that the source of the data is the claimed peer (N + 1)-entity.Access control
+This service provides protection against unauthorized use of resources accessible via OSI. These may be OSI or non-OSI resources accessed via OSI protocols. This protection service may be applied to various types of access to a resource (e.g., the use of a communications resource; the reading, the writing, or the deletion of an information resource; the execution of a processing resource) or to all accesses to a resource.
+Data confidentiality
+These services provide for the protection of data from unauthorized disclosure as described below
+Connection confidentiality
+This service provides for the confidentiality of all (N)-user-data on an (N)-connection
+Connectionless confidentiality
+This service provides for the confidentiality of all (N)-user-data in a single connectionless (N)-SDU
+Selective field confidentiality
+This service provides for the confidentiality of selected fields within the (N)-user-data on an (N)-connection or in a single connectionless (N)-SDU.
+Traffic flow confidentiality
+This service provides for the protection of the information which might be derived from observation of traffic flows.Data integrity
+These services counter active threats and may take one of the forms described below.
+Connection integrity with recovery
+This service provides for the integrity of all (N)-user-data on an (N)-connection and detects any modification, insertion, deletion or replay of any data within an entire SDU sequence (with recovery attempted).
+Connection integrity without recovery
+As for the previous one but with no recovery attempted.
+Selective field connection integrity
+This service provides for the integrity of selected fields within the (N)-user data of an (N)-SDU transferred over a connection and takes the form of determination of whether the selected fields have been modified, inserted, deleted or replayed.
+Connectionless integrity
+This service, when provided by the (N)-layer, provides integrity assurance to the requesting (N + 1)-entity. This service provides for the integrity of a single connectionless SDU and may take the form of determination of whether a received SDU has been modified. Additionally, a limited form of detection of replay may be provided.
+Selective field connectionless integrity
+This service provides for the integrity of selected fields within a single connectionless SDU and takes the form of determination of whether the selected fields have been modified. Non-repudiation
+This service may take one or both of two forms.
+Non-repudiation with proof of origin
+The recipient of data is provided with proof of the origin of data. This will protect against any attempt by the sender to falsely deny sending the data or its contents.
+ Non-repudiation with proof of delivery
+The sender of data is provided with proof of delivery of data. This will protect against any subsequent attempt by the recipient to falsely deny receiving the data or its contents.The security services may be provided by means  of security mechanism:
+Encipherment
+Digital signature
+Access control
+Data integrity
+Authentication exchange
+Traffic padding
+Routing control
+NotarizationThe table1/X.800 shows the relationships between services and mechanisms
+Some of them can be applied to connection oriented protocols, other to connectionless protocols or both.
+The table 2/X.800 illustrates the relationship of security services and layers:
+Managed security service (MSS) are network security services that have been outsourced to a service provider.
+Access control
+Availability
+Communication network
+Communication protocol
+Confidentiality
+countermeasure
+Data integrity
+Digital signature
+Exploit (computer security)
+Information Security
+Integrity
+ITU-T
+Managed security service
+Network security
+OSI model
+Protocol (computing)
+Protocol data unit
+Protocol stack
+Security control
+Security Requirements Analysis
+Service Data Unit
+Threat (computer)
+Vulnerability (computing)Term in FISMApedia
+List of ITU-T Security Activities and Publications

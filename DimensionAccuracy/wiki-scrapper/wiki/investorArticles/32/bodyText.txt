@@ -1,0 +1,4869 @@
+
+In mathematics, a metric space is a set together with a metric on the set. The metric is a function that defines a concept of distance between any two members of the set, which are usually called points.  The metric satisfies the following properties:
+the distance from A to B is zero if and only if A and B are the same point,
+the distance between two distinct points is positive,
+the distance from A to B is the same as the distance from B to A, and
+the distance from A to B is less than or equal to the distance from A to B via any third point C.A metric on a space induces topological properties like open and closed sets, which lead to the study of more abstract topological spaces.
+The most familiar metric space is 3-dimensional Euclidean space. In fact, a "metric" is the generalization of the Euclidean metric arising from the four long-known properties of the Euclidean distance. The Euclidean metric  defines the distance between two points as the length of the straight line segment connecting them. Other metric spaces occur for example in elliptic geometry and hyperbolic geometry, where distance on a sphere measured by angle is a metric, and the hyperboloid model of hyperbolic geometry is used by special relativity as a metric space of velocities. Some of the non-geometric metric spaces include spaces of finite strings (finite sequences of symbols from a predefined alphabet) equipped with e.g. Hamming distance or Levenshtein distance, a space of subsets of any metric space equipped with Hausdorff distance, a space of real functions integrable on a unit interval with an integral metric 
+
+
+
+d
+(
+f
+,
+g
+)
+=
+
+∫
+
+0
+
+
+1
+
+
+
+|
+
+f
+(
+x
+)
+−
+g
+(
+x
+)
+
+|
+
+
+d
+x
+
+
+{\displaystyle d(f,g)=\int _{0}^{1}\left\vert f(x)-g(x)\right\vert \,dx}
+
+, or the set of probability measures on the Borel sigma-algebra of any given metric space, equipped with the Wasserstein metric Wp (
+
+
+
+p
+∈
+
+
+R
+
+
+≥
+1
+
+
+
+
+{\displaystyle p\in \mathbb {R} _{\geq 1}}
+
+). See also the section § Examples of metric spaces.
+In 1906 Maurice Fréchet introduced metric spaces in his work Sur quelques points du calcul fonctionnel. However the name is due to Felix Hausdorff.
+A metric space is an ordered pair 
+
+
+
+(
+M
+,
+d
+)
+
+
+{\displaystyle (M,d)}
+
+ where 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is a set and 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is a metric on 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, i.e., a function
+
+
+
+
+d
+
+:
+M
+×
+M
+→
+
+R
+
+
+
+{\displaystyle d\,\colon M\times M\to \mathbb {R} }
+
+such that for any 
+
+
+
+x
+,
+y
+,
+z
+∈
+M
+
+
+{\displaystyle x,y,z\in M}
+
+, the following holds:
+
+
+1.
+
+
+
+
+d
+(
+x
+,
+y
+)
+=
+0
+
+⟺
+
+x
+=
+y
+
+
+{\displaystyle d(x,y)=0\iff x=y}
+
+
+identity of indiscernibles
+
+
+2.
+
+
+
+
+d
+(
+x
+,
+y
+)
+=
+d
+(
+y
+,
+x
+)
+
+
+{\displaystyle d(x,y)=d(y,x)}
+
+
+symmetry
+
+
+3.
+
+
+
+
+d
+(
+x
+,
+z
+)
+≤
+d
+(
+x
+,
+y
+)
++
+d
+(
+y
+,
+z
+)
+
+
+{\displaystyle d(x,z)\leq d(x,y)+d(y,z)}
+
+
+subadditivity or triangle inequality
+Given the above three axioms, we also have that 
+
+
+
+d
+(
+x
+,
+y
+)
+≥
+0
+
+
+{\displaystyle d(x,y)\geq 0}
+
+ for any 
+
+
+
+x
+,
+y
+∈
+M
+
+
+{\displaystyle x,y\in M}
+
+. This is deduced as follows (from the top to the bottom):
+
+
+
+
+
+
+d
+(
+x
+,
+y
+)
++
+d
+(
+y
+,
+x
+)
+≥
+d
+(
+x
+,
+x
+)
+
+
+{\displaystyle d(x,y)+d(y,x)\geq d(x,x)}
+
+
+
+by triangle inequality
+
+
+
+
+
+
+d
+(
+x
+,
+y
+)
++
+d
+(
+x
+,
+y
+)
+≥
+d
+(
+x
+,
+x
+)
+
+
+{\displaystyle d(x,y)+d(x,y)\geq d(x,x)}
+
+
+
+by symmetry
+
+
+
+
+
+
+2
+d
+(
+x
+,
+y
+)
+≥
+0
+
+
+{\displaystyle 2d(x,y)\geq 0}
+
+
+
+by identity of indiscernibles
+
+
+
+
+
+
+d
+(
+x
+,
+y
+)
+≥
+0
+
+
+{\displaystyle d(x,y)\geq 0}
+
+
+
+we have non-negativity
+
+The function 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is also called distance function or simply distance. Often, 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is omitted and one just writes 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ for a metric space if it is clear from the context what metric is used.
+Ignoring mathematical details, for any system of roads and terrains the distance between two locations can be defined as the length of the shortest route connecting those locations. To be a metric there shouldn't be any one-way roads. The triangle inequality expresses the fact that detours aren't shortcuts. If the distance between two points is zero, the two points are indistinguishable from one-another. Many of the examples below can be seen as concrete versions of this general idea.
+The real numbers with the distance function 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+
+|
+
+y
+−
+x
+
+|
+
+
+
+{\displaystyle d(x,y)=|y-x|}
+
+ given by the absolute difference, and, more generally, Euclidean n-space with the Euclidean distance, are complete metric spaces. The rational numbers with the same distance function also form a metric space, but not a complete one.
+The positive real numbers with distance function 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+
+|
+
+log
+⁡
+(
+y
+
+/
+
+x
+)
+
+|
+
+
+
+{\displaystyle d(x,y)=\left|\log(y/x)\right|}
+
+ is a complete metric space.
+Any normed vector space is a metric space by defining 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+‖
+y
+−
+x
+‖
+
+
+{\displaystyle d(x,y)=\lVert y-x\rVert }
+
+, see also metrics on vector spaces. (If such a space is complete, we call it a Banach space.) Examples:
+The Manhattan norm gives rise to the Manhattan distance, where the distance between any two points, or vectors, is the sum of the differences between corresponding coordinates.
+The cyclic Mannheim metric or Mannheim distance is a modulo variant of the Manhattan metric.
+The maximum norm gives rise to the Chebyshev distance or chessboard distance, the minimal number of moves a chess king would take to travel from 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ to 
+
+
+
+y
+
+
+{\displaystyle y}
+
+.
+The British Rail metric (also called the "post office metric" or the "SNCF metric") on a normed vector space is given by 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+‖
+x
+‖
++
+‖
+y
+‖
+
+
+{\displaystyle d(x,y)=\lVert x\rVert +\lVert y\rVert }
+
+ for distinct points 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, and 
+
+
+
+d
+(
+x
+,
+x
+)
+=
+0
+
+
+{\displaystyle d(x,x)=0}
+
+. More generally 
+
+
+
+‖
+⋅
+‖
+
+
+{\displaystyle \lVert \cdot \rVert }
+
+ can be replaced with a function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ taking an arbitrary set 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ to non-negative reals and taking the value 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ at most once:  then the metric is defined on 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ by 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+f
+(
+x
+)
++
+f
+(
+y
+)
+
+
+{\displaystyle d(x,y)=f(x)+f(y)}
+
+ for distinct points 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, and 
+
+
+
+d
+(
+x
+,
+x
+)
+=
+0
+
+
+{\displaystyle d(x,x)=0}
+
+.  The name alludes to the tendency of railway journeys to proceed via London (or Paris) irrespective of their final destination.
+If 
+
+
+
+(
+M
+,
+d
+)
+
+
+{\displaystyle (M,d)}
+
+ is a metric space and 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a subset of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, then 
+
+
+
+(
+X
+,
+d
+)
+
+
+{\displaystyle (X,d)}
+
+ becomes a metric space by restricting the domain of 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ to 
+
+
+
+X
+×
+X
+
+
+{\displaystyle X\times X}
+
+.
+The discrete metric, where 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+0
+
+
+{\displaystyle d(x,y)=0}
+
+ if 
+
+
+
+x
+=
+y
+
+
+{\displaystyle x=y}
+
+ and 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+1
+
+
+{\displaystyle d(x,y)=1}
+
+ otherwise, is a simple but important example, and can be applied to all sets. This, in particular, shows that for any set, there is always a metric space associated to it. Using this metric, the singleton of any point is an open ball, therefore every subset is open and the space has the discrete topology.
+A finite metric space is a metric space having a finite number of points.  Not every finite metric space can be isometrically embedded in a Euclidean space.
+The hyperbolic plane is a metric space. More generally:
+If 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is any connected Riemannian manifold, then we can turn 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ into a metric space by defining the distance of two points as the infimum of the lengths of the paths (continuously differentiable curves) connecting them.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is some set and 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is a metric space, then, the set of all bounded functions 
+
+
+
+f
+:
+X
+→
+M
+
+
+{\displaystyle f\colon X\to M}
+
+ (i.e. those functions whose image is a bounded subset of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+) can be turned into a metric space by defining 
+
+
+
+d
+(
+f
+,
+g
+)
+=
+
+sup
+
+x
+∈
+X
+
+
+d
+(
+f
+(
+x
+)
+,
+g
+(
+x
+)
+)
+
+
+{\displaystyle d(f,g)=\sup _{x\in X}d(f(x),g(x))}
+
+ for any two bounded functions 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ and 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ (where 
+
+
+
+sup
+
+
+{\displaystyle \sup }
+
+ is supremum). This metric is called the uniform metric or supremum metric, and If 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is complete, then this function space is complete as well. If X is also a topological space, then the set of all bounded continuous functions from 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ to 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ (endowed with the uniform metric), will also be a complete metric if M is.
+If 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ is an undirected connected graph, then the set 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ of vertices of 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ can be turned into a metric space by defining 
+
+
+
+d
+(
+x
+,
+y
+)
+
+
+{\displaystyle d(x,y)}
+
+ to be the length of the shortest path connecting the vertices 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+. This is also called shortest-path distance or geodesic distance. In geometric group theory this is applied to the Cayley graph of a group, yielding the word metric.
+Graph edit distance is a measure of dissimilarity between two graphs, defined as the minimal number of graph edit operations required to transform one graph into another.
+The Levenshtein distance is a measure of the dissimilarity between two strings 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+, defined as the minimal number of character deletions, insertions, or substitutions required to transform 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ into 
+
+
+
+v
+
+
+{\displaystyle v}
+
+. This can be thought of as a special case of the shortest path metric in a graph and is one example of an edit distance.
+Given a metric space 
+
+
+
+(
+X
+,
+d
+)
+
+
+{\displaystyle (X,d)}
+
+ and an increasing concave function 
+
+
+
+f
+:
+[
+0
+,
+∞
+)
+→
+[
+0
+,
+∞
+)
+
+
+{\displaystyle f\colon [0,\infty )\to [0,\infty )}
+
+ such that 
+
+
+
+f
+(
+x
+)
+=
+0
+
+
+{\displaystyle f(x)=0}
+
+ if and only if 
+
+
+
+x
+=
+0
+
+
+{\displaystyle x=0}
+
+, then 
+
+
+
+f
+∘
+d
+
+
+{\displaystyle f\circ d}
+
+ is also a metric on 
+
+
+
+X
+
+
+{\displaystyle X}
+
+.
+Given an injective function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ from any set 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ to a metric space 
+
+
+
+(
+X
+,
+d
+)
+
+
+{\displaystyle (X,d)}
+
+, 
+
+
+
+d
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+
+
+{\displaystyle d(f(x),f(y))}
+
+ defines a metric on 
+
+
+
+A
+
+
+{\displaystyle A}
+
+.
+Using T-theory, the tight span of a metric space is also a metric space. The tight span is useful in several types of analysis.
+The set of all 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ by 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ matrices over some field is a metric space with respect to the rank distance 
+
+
+
+d
+(
+X
+,
+Y
+)
+=
+
+r
+a
+n
+k
+
+(
+Y
+−
+X
+)
+
+
+{\displaystyle d(X,Y)=\mathrm {rank} (Y-X)}
+
+.
+The Helly metric  is used in game theory.Every metric space is a topological space in a natural manner, and therefore all definitions and theorems about general topological spaces also apply to all metric spaces.
+About any point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in a metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ we define the open ball of radius 
+
+
+
+r
+>
+0
+
+
+{\displaystyle r>0}
+
+ (where 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is a real number) about 
+
+
+
+x
+
+
+{\displaystyle x}
+
+  as the set
+
+
+
+
+B
+(
+x
+;
+r
+)
+=
+{
+y
+∈
+M
+:
+d
+(
+x
+,
+y
+)
+<
+r
+}
+.
+
+
+{\displaystyle B(x;r)=\{y\in M:d(x,y)<r\}.}
+
+These open balls form the base for a topology on M, making it a topological space.
+Explicitly, a subset 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is called open if for every 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ there exists an 
+
+
+
+r
+>
+0
+
+
+{\displaystyle r>0}
+
+ such that 
+
+
+
+B
+(
+x
+;
+r
+)
+
+
+{\displaystyle B(x;r)}
+
+ is contained in 
+
+
+
+U
+
+
+{\displaystyle U}
+
+. The complement of an open set is called closed. A neighborhood of the point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is any subset of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ that contains an open ball about 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ as a subset.
+A topological space which can arise in this way from a metric space is called a metrizable space.
+A sequence (
+
+
+
+
+x
+
+n
+
+
+
+
+{\displaystyle x_{n}}
+
+) in a metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is said to converge to the limit 
+
+
+
+x
+∈
+M
+
+
+{\displaystyle x\in M}
+
+ if and only if for every 
+
+
+
+ε
+>
+0
+
+
+{\displaystyle \varepsilon >0}
+
+, there exists a natural number N such that 
+
+
+
+d
+(
+
+x
+
+n
+
+
+,
+x
+)
+<
+ε
+
+
+{\displaystyle d(x_{n},x)<\varepsilon }
+
+ for all 
+
+
+
+n
+>
+N
+
+
+{\displaystyle n>N}
+
+. Equivalently, one can use the general definition of convergence available in all topological spaces.
+A subset 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ of the metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is closed if and only if every sequence in 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ that converges to a limit in 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ has its limit in 
+
+
+
+A
+
+
+{\displaystyle A}
+
+.
+A metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is said to be complete if every Cauchy sequence converges in 
+
+
+
+M
+
+
+{\displaystyle M}
+
+. That is to say: if 
+
+
+
+d
+(
+
+x
+
+n
+
+
+,
+
+x
+
+m
+
+
+)
+→
+0
+
+
+{\displaystyle d(x_{n},x_{m})\to 0}
+
+ as both 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ and 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ independently go to infinity, then there is some 
+
+
+
+y
+∈
+M
+
+
+{\displaystyle y\in M}
+
+ with 
+
+
+
+d
+(
+
+x
+
+n
+
+
+,
+y
+)
+→
+0
+
+
+{\displaystyle d(x_{n},y)\to 0}
+
+.
+Every Euclidean space is complete, as is every closed subset of a complete space. The rational numbers, using the absolute value metric 
+
+
+
+d
+(
+x
+,
+y
+)
+=
+|
+x
+−
+y
+|
+
+
+{\displaystyle d(x,y)=\vert x-y\vert }
+
+, are not complete.
+Every metric space has a unique (up to isometry) completion, which is a complete space that contains the given space as a dense subset. For example, the real numbers are the completion of the rationals.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a complete subset of the metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, then 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is closed in 
+
+
+
+M
+
+
+{\displaystyle M}
+
+. Indeed, a space is complete if and only if it is closed in any containing metric space.
+Every complete metric space is a Baire space.
+A metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is called bounded if there exists some number 
+
+
+
+r
+
+
+{\displaystyle r}
+
+, such that 
+
+
+
+d
+(
+x
+,
+y
+)
+≤
+r
+
+
+{\displaystyle d(x,y)\leq r}
+
+ for all 
+
+
+
+x
+,
+y
+∈
+M
+.
+
+
+{\displaystyle x,y\in M.}
+
+  The smallest possible such 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is called the diameter of 
+
+
+
+M
+.
+
+
+{\displaystyle M.}
+
+ The space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is called precompact or totally bounded if for every 
+
+
+
+r
+>
+0
+
+
+{\displaystyle r>0}
+
+ there exist finitely many open balls of radius 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ whose union covers 
+
+
+
+M
+.
+
+
+{\displaystyle M.}
+
+ Since the set of the centres of these balls is finite, it has finite diameter, from which it follows (using the triangle inequality) that every totally bounded space is bounded.  The converse does not hold, since any infinite set can be given the discrete metric (one of the examples above) under which it is bounded and yet not totally bounded.
+Note that in the context of intervals in the space of real numbers and occasionally regions in a Euclidean space 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+ a bounded set is referred to as "a finite interval" or "finite region". However boundedness should not in general be confused with "finite", which refers to the number of elements, not to how far the set extends; finiteness implies boundedness, but not conversely. Also note that an unbounded subset of 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+ may have a finite volume.
+A metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is compact if every sequence in 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ has a subsequence that converges to a point in 
+
+
+
+M
+
+
+{\displaystyle M}
+
+. This is known as sequential compactness and, in metric spaces (but not in general topological spaces), is equivalent to the topological notions of countable compactness and compactness defined via open covers.
+Examples of compact metric spaces include the closed interval 
+
+
+
+[
+0
+,
+1
+]
+
+
+{\displaystyle [0,1]}
+
+ with the absolute value metric, all metric spaces with finitely many points, and the Cantor set. Every closed subset of a compact space is itself compact.
+A metric space is compact if and only if it is complete and totally bounded.  This is known as the Heine–Borel theorem. Note that compactness depends only on the topology, while boundedness depends on the metric.
+Lebesgue's number lemma states that for every open cover of a compact metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, there exists a "Lebesgue number" 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ such that every subset of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ of diameter 
+
+
+
+r
+<
+δ
+
+
+{\displaystyle r<\delta }
+
+ is contained in some member of the cover.
+Every compact metric space is second countable, and is a continuous image of the Cantor set. (The latter result is due to Pavel Alexandrov and Urysohn.)
+A metric space is said to be locally compact if every point has a compact neighborhood. Euclidean spaces are locally compact, but infinite-dimensional Banach spaces are not.
+A space is proper if every closed ball 
+
+
+
+{
+y
+
+:
+d
+(
+x
+,
+y
+)
+≤
+r
+}
+
+
+{\displaystyle \{y\,\colon d(x,y)\leq r\}}
+
+ is compact. Proper spaces are locally compact, but the converse is not true in general.
+A metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is connected if the only subsets that are both open and closed are the empty set and 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ itself.
+A metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is path connected if for any two points 
+
+
+
+x
+,
+y
+∈
+M
+
+
+{\displaystyle x,y\in M}
+
+ there exists a continuous map 
+
+
+
+f
+:
+[
+0
+,
+1
+]
+→
+M
+
+
+{\displaystyle f\colon [0,1]\to M}
+
+ with 
+
+
+
+f
+(
+0
+)
+=
+x
+
+
+{\displaystyle f(0)=x}
+
+ and 
+
+
+
+f
+(
+1
+)
+=
+y
+
+
+{\displaystyle f(1)=y}
+
+.
+Every path connected space is connected, but the converse is not true in general.
+There are also local versions of these definitions: locally connected spaces and locally path connected spaces.
+Simply connected spaces are those that, in a certain sense, do not have "holes".
+A metric space is separable space if it has a countable dense subset. Typical examples are the real numbers or any Euclidean space. For metric spaces (but not for general topological spaces) separability is equivalent to second-countability and also to the Lindelöf property.
+If 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ is a metric space and 
+
+
+
+
+x
+
+0
+
+
+∈
+X
+
+
+{\displaystyle x_{0}\in X}
+
+ then 
+
+
+
+(
+X
+,
+
+x
+
+0
+
+
+)
+
+
+{\displaystyle (X,x_{0})}
+
+ is called a pointed metric space, and 
+
+
+
+
+x
+
+0
+
+
+
+
+{\displaystyle x_{0}}
+
+ is called a distinguished point.  Note that a pointed metric space is just a nonempty metric space with attention drawn to its distinguished point, and that any nonempty metric space can be viewed as a pointed metric space. The distinguished point is sometimes denoted 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ due to its similar behavior to zero in certain contexts.
+Suppose 
+
+
+
+(
+
+M
+
+1
+
+
+,
+
+d
+
+1
+
+
+)
+
+
+{\displaystyle (M_{1},d_{1})}
+
+ and 
+
+
+
+(
+
+M
+
+2
+
+
+,
+
+d
+
+2
+
+
+)
+
+
+{\displaystyle (M_{2},d_{2})}
+
+ are two metric spaces.
+The map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is continuous
+if it has one (and therefore all) of the following equivalent properties:
+General topological continuity
+for every open set 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ in 
+
+
+
+
+M
+
+2
+
+
+
+
+{\displaystyle M_{2}}
+
+, the preimage 
+
+
+
+
+f
+
+−
+1
+
+
+[
+U
+]
+
+
+{\displaystyle f^{-1}[U]}
+
+ is open in 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+
+This is the general definition of continuity in topology.
+Sequential continuity
+if 
+
+
+
+(
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (x_{n})}
+
+ is a sequence in 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ that converges to 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, then the sequence 
+
+
+
+(
+f
+(
+
+x
+
+n
+
+
+)
+)
+
+
+{\displaystyle (f(x_{n}))}
+
+ converges to 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ in 
+
+
+
+
+M
+
+2
+
+
+
+
+{\displaystyle M_{2}}
+
+.
+This is sequential continuity, due to Eduard Heine.
+ε-δ definition
+for every 
+
+
+
+x
+∈
+
+M
+
+1
+
+
+
+
+{\displaystyle x\in M_{1}}
+
+ and every 
+
+
+
+ε
+>
+0
+
+
+{\displaystyle \varepsilon >0}
+
+ there exists 
+
+
+
+δ
+>
+0
+
+
+{\displaystyle \delta >0}
+
+ such that for all 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ in 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ we have 
+
+
+
+
+d
+
+1
+
+
+(
+x
+,
+y
+)
+<
+δ
+
+⟹
+
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+<
+ε
+.
+
+
+{\displaystyle d_{1}(x,y)<\delta \implies d_{2}(f(x),f(y))<\varepsilon .}
+
+
+This uses the (ε, δ)-definition of limit, and is due to Augustin Louis Cauchy.Moreover, 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is continuous if and only if it is continuous on every compact subset of 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+.
+The image of every compact set under a continuous function is compact, and the image of every connected set under a continuous function is connected.
+The map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is uniformly continuous if for every 
+
+
+
+ε
+>
+0
+
+
+{\displaystyle \varepsilon >0}
+
+ there exists 
+
+
+
+δ
+>
+0
+
+
+{\displaystyle \delta >0}
+
+ such that
+
+
+
+
+
+d
+
+1
+
+
+(
+x
+,
+y
+)
+<
+δ
+
+⟹
+
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+<
+ε
+
+
+
+for all
+
+
+
+x
+,
+y
+∈
+
+M
+
+1
+
+
+.
+
+
+{\displaystyle d_{1}(x,y)<\delta \implies d_{2}(f(x),f(y))<\varepsilon \quad {\mbox{for all}}\quad x,y\in M_{1}.}
+
+Every uniformly continuous map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is continuous.  The converse is true if 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ is compact (Heine–Cantor theorem).
+Uniformly continuous maps turn Cauchy sequences in 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ into Cauchy sequences in 
+
+
+
+
+M
+
+2
+
+
+
+
+{\displaystyle M_{2}}
+
+. For continuous maps this is generally wrong; for example, a continuous map
+from the open interval 
+
+
+
+(
+0
+,
+1
+)
+
+
+{\displaystyle (0,1)}
+
+ onto the real line turns some Cauchy sequences into unbounded sequences.
+Given a real number 
+
+
+
+K
+>
+0
+
+
+{\displaystyle K>0}
+
+, the map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is K-Lipschitz continuous if
+
+
+
+
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+≤
+K
+
+d
+
+1
+
+
+(
+x
+,
+y
+)
+
+
+
+for all
+
+
+
+x
+,
+y
+∈
+
+M
+
+1
+
+
+.
+
+
+{\displaystyle d_{2}(f(x),f(y))\leq Kd_{1}(x,y)\quad {\mbox{for all}}\quad x,y\in M_{1}.}
+
+Every Lipschitz-continuous map is uniformly continuous, but the converse is not true in general.
+If 
+
+
+
+K
+<
+1
+
+
+{\displaystyle K<1}
+
+, then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is called a contraction. Suppose 
+
+
+
+
+M
+
+2
+
+
+=
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{2}=M_{1}}
+
+ and 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ is complete. If 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a contraction, then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ admits a unique fixed point (Banach fixed-point theorem). If 
+
+
+
+
+M
+
+1
+
+
+
+
+{\displaystyle M_{1}}
+
+ is compact, the condition can be weakened a bit: 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ admits a unique fixed point if
+
+
+
+
+d
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+<
+d
+(
+x
+,
+y
+)
+
+
+
+for all
+
+
+
+x
+≠
+y
+∈
+
+M
+
+1
+
+
+
+
+{\displaystyle d(f(x),f(y))<d(x,y)\quad {\mbox{for all}}\quad x\neq y\in M_{1}}
+
+.The map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is an isometry if
+
+
+
+
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+=
+
+d
+
+1
+
+
+(
+x
+,
+y
+)
+
+
+
+for all
+
+
+
+x
+,
+y
+∈
+
+M
+
+1
+
+
+
+
+{\displaystyle d_{2}(f(x),f(y))=d_{1}(x,y)\quad {\mbox{for all}}\quad x,y\in M_{1}}
+
+Isometries are always injective; the image of a compact or complete set under an isometry is compact or complete, respectively. However, if the isometry is not surjective, then the image of a closed (or open) set need not be closed (or open).
+The map 
+
+
+
+f
+
+:
+
+M
+
+1
+
+
+→
+
+M
+
+2
+
+
+
+
+{\displaystyle f\,\colon M_{1}\to M_{2}}
+
+ is a quasi-isometry if there exist constants 
+
+
+
+A
+≥
+1
+
+
+{\displaystyle A\geq 1}
+
+ and 
+
+
+
+B
+≥
+0
+
+
+{\displaystyle B\geq 0}
+
+ such that
+
+
+
+
+
+
+1
+A
+
+
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+−
+B
+≤
+
+d
+
+1
+
+
+(
+x
+,
+y
+)
+≤
+A
+
+d
+
+2
+
+
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
++
+B
+
+
+ for all 
+
+
+x
+,
+y
+∈
+
+M
+
+1
+
+
+
+
+{\displaystyle {\frac {1}{A}}d_{2}(f(x),f(y))-B\leq d_{1}(x,y)\leq Ad_{2}(f(x),f(y))+B\quad {\text{ for all }}\quad x,y\in M_{1}}
+
+and a constant 
+
+
+
+C
+≥
+0
+
+
+{\displaystyle C\geq 0}
+
+ such that every point in 
+
+
+
+
+M
+
+2
+
+
+
+
+{\displaystyle M_{2}}
+
+ has a distance at most 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ from some point in the image 
+
+
+
+f
+(
+
+M
+
+1
+
+
+)
+
+
+{\displaystyle f(M_{1})}
+
+.
+Note that a quasi-isometry is not required to be continuous. Quasi-isometries compare the "large-scale structure" of metric spaces; they find use in geometric group theory in relation to the word metric.
+Given two metric spaces 
+
+
+
+(
+
+M
+
+1
+
+
+,
+
+d
+
+1
+
+
+)
+
+
+{\displaystyle (M_{1},d_{1})}
+
+ and 
+
+
+
+(
+
+M
+
+2
+
+
+,
+
+d
+
+2
+
+
+)
+
+
+{\displaystyle (M_{2},d_{2})}
+
+:
+They are called homeomorphic (topologically isomorphic) if there exists a homeomorphism between them (i.e., a bijection continuous in both directions).
+They are called uniformic (uniformly isomorphic) if there exists a uniform isomorphism between them (i.e., a bijection uniformly continuous in both directions).
+They are called isometric if there exists a bijective isometry between them. In this case, the two metric spaces are essentially identical.
+They are called quasi-isometric if there exists a quasi-isometry between them.Metric spaces are paracompact Hausdorff spaces and hence normal (indeed they are perfectly normal). An important consequence is that every metric space admits partitions of unity and that every continuous real-valued function defined on a closed subset of a metric space can be extended to a continuous map on the whole space (Tietze extension theorem). It is also true that every real-valued Lipschitz-continuous map defined on a subset of a metric space can be extended to a Lipschitz-continuous map on the whole space.
+Metric spaces are first countable since one can use balls with rational radius as a neighborhood base.
+The metric topology on a metric space 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is the coarsest topology on 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ relative to which the metric 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is a continuous map from the product of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ with itself to the non-negative real numbers.
+A simple way to construct a function separating a point from a closed set (as required for a completely regular space) is to consider the distance between the point and the set. If 
+
+
+
+(
+M
+,
+d
+)
+
+
+{\displaystyle (M,d)}
+
+ is a metric space, 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is a subset of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ and 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is a point of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, we define the distance from 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ to 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ as
+
+
+
+
+d
+(
+x
+,
+S
+)
+=
+inf
+{
+d
+(
+x
+,
+s
+)
+:
+s
+∈
+S
+}
+
+
+{\displaystyle d(x,S)=\inf\{d(x,s):s\in S\}}
+
+ where 
+
+
+
+inf
+
+
+{\displaystyle \inf }
+
+ represents the infimum.
+Then 
+
+
+
+d
+(
+x
+,
+S
+)
+=
+0
+
+
+{\displaystyle d(x,S)=0}
+
+ if and only if 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ belongs to the closure of 
+
+
+
+S
+
+
+{\displaystyle S}
+
+. Furthermore, we have the following generalization of the triangle inequality:
+
+
+
+
+d
+(
+x
+,
+S
+)
+≤
+d
+(
+x
+,
+y
+)
++
+d
+(
+y
+,
+S
+)
+,
+
+
+{\displaystyle d(x,S)\leq d(x,y)+d(y,S),}
+
+
+which in particular shows that the map 
+
+
+
+x
+↦
+d
+(
+x
+,
+S
+)
+
+
+{\displaystyle x\mapsto d(x,S)}
+
+ is continuous.
+Given two subsets 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ and 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, we define their Hausdorff distance to be
+
+
+
+
+
+d
+
+H
+
+
+(
+S
+,
+T
+)
+=
+max
+{
+sup
+{
+d
+(
+s
+,
+T
+)
+:
+s
+∈
+S
+}
+,
+sup
+{
+d
+(
+t
+,
+S
+)
+:
+t
+∈
+T
+}
+}
+
+
+{\displaystyle d_{H}(S,T)=\max\{\sup\{d(s,T):s\in S\},\sup\{d(t,S):t\in T\}\}}
+
+ where 
+
+
+
+sup
+
+
+{\displaystyle \sup }
+
+ represents the supremum.
+In general, the Hausdorff distance 
+
+
+
+
+d
+
+H
+
+
+(
+S
+,
+T
+)
+
+
+{\displaystyle d_{H}(S,T)}
+
+ can be infinite. Two sets are close to each other in the Hausdorff distance if every element of either set is close to some element of the other set.
+The Hausdorff distance 
+
+
+
+
+d
+
+H
+
+
+
+
+{\displaystyle d_{H}}
+
+ turns the set 
+
+
+
+K
+(
+M
+)
+
+
+{\displaystyle K(M)}
+
+ of all non-empty compact subsets of 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ into a metric space. One can show that 
+
+
+
+K
+(
+M
+)
+
+
+{\displaystyle K(M)}
+
+ is complete if 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is complete.
+(A different notion of convergence of compact subsets is given by the Kuratowski convergence.)
+One can then define the Gromov–Hausdorff distance between any two metric spaces by considering the minimal Hausdorff distance of isometrically embedded versions of the two spaces. Using this distance, the class of all (isometry classes of) compact metric spaces becomes a metric space in its own right.
+If 
+
+
+
+(
+
+M
+
+1
+
+
+,
+
+d
+
+1
+
+
+)
+,
+…
+,
+(
+
+M
+
+n
+
+
+,
+
+d
+
+n
+
+
+)
+
+
+{\displaystyle (M_{1},d_{1}),\ldots ,(M_{n},d_{n})}
+
+ are metric spaces, and 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ is the Euclidean norm on 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+, then 
+
+
+
+
+
+(
+
+
+
+M
+
+1
+
+
+×
+⋯
+×
+
+M
+
+n
+
+
+,
+N
+(
+
+d
+
+1
+
+
+,
+…
+,
+
+d
+
+n
+
+
+)
+
+
+)
+
+
+
+
+{\displaystyle {\Bigl (}M_{1}\times \cdots \times M_{n},N(d_{1},\ldots ,d_{n}){\Bigr )}}
+
+ is a metric space, where the product metric is defined by
+
+
+
+
+N
+(
+
+d
+
+1
+
+
+,
+…
+,
+
+d
+
+n
+
+
+)
+
+
+(
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+,
+(
+
+y
+
+1
+
+
+,
+…
+,
+
+y
+
+n
+
+
+)
+
+
+)
+
+
+=
+N
+
+
+(
+
+
+
+d
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+
+y
+
+1
+
+
+)
+,
+…
+,
+
+d
+
+n
+
+
+(
+
+x
+
+n
+
+
+,
+
+y
+
+n
+
+
+)
+
+
+)
+
+
+,
+
+
+{\displaystyle N(d_{1},\ldots ,d_{n}){\Big (}(x_{1},\ldots ,x_{n}),(y_{1},\ldots ,y_{n}){\Big )}=N{\Big (}d_{1}(x_{1},y_{1}),\ldots ,d_{n}(x_{n},y_{n}){\Big )},}
+
+and the induced topology agrees with the product topology.  By the equivalence of norms in finite dimensions, an equivalent metric is obtained if 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ is the taxicab norm, a p-norm, the maximum norm, or any other norm which is non-decreasing as the coordinates of a positive 
+
+
+
+n
+
+
+{\displaystyle n}
+
+-tuple increase (yielding the triangle inequality).
+Similarly, a countable product of metric spaces can be obtained using the following metric
+
+
+
+
+d
+(
+x
+,
+y
+)
+=
+
+∑
+
+i
+=
+1
+
+
+∞
+
+
+
+
+1
+
+2
+
+i
+
+
+
+
+
+
+
+
+d
+
+i
+
+
+(
+
+x
+
+i
+
+
+,
+
+y
+
+i
+
+
+)
+
+
+1
++
+
+d
+
+i
+
+
+(
+
+x
+
+i
+
+
+,
+
+y
+
+i
+
+
+)
+
+
+
+.
+
+
+{\displaystyle d(x,y)=\sum _{i=1}^{\infty }{\frac {1}{2^{i}}}{\frac {d_{i}(x_{i},y_{i})}{1+d_{i}(x_{i},y_{i})}}.}
+
+An uncountable product of metric spaces need not be metrizable. For example, 
+
+
+
+
+
+R
+
+
+
+R
+
+
+
+
+
+{\displaystyle \mathbb {R} ^{\mathbb {R} }}
+
+ is not first-countable and thus isn't metrizable.
+In the case of a single space 
+
+
+
+(
+M
+,
+d
+)
+
+
+{\displaystyle (M,d)}
+
+, the distance map 
+
+
+
+d
+:
+M
+×
+M
+→
+
+R
+
++
+
+
+
+
+{\displaystyle d\colon M\times M\to R^{+}}
+
+ (from the definition) is uniformly continuous with respect to any of the above product metrics 
+
+
+
+N
+(
+d
+,
+d
+)
+
+
+{\displaystyle N(d,d)}
+
+, and in particular is continuous with respect to the product topology of 
+
+
+
+M
+×
+M
+
+
+{\displaystyle M\times M}
+
+.
+If M is a metric space with metric 
+
+
+
+d
+
+
+{\displaystyle d}
+
+, and 
+
+
+
+∼
+
+
+{\displaystyle \sim }
+
+ is an equivalence relation on 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, then we can endow the quotient set 
+
+
+
+M
+
+/
+
+
+∼
+
+
+{\displaystyle M/\!\sim }
+
+ with a pseudometric. Given two equivalence classes 
+
+
+
+[
+x
+]
+
+
+{\displaystyle [x]}
+
+ and 
+
+
+
+[
+y
+]
+
+
+{\displaystyle [y]}
+
+, we define
+
+
+
+
+
+d
+′
+
+(
+[
+x
+]
+,
+[
+y
+]
+)
+=
+inf
+{
+d
+(
+
+p
+
+1
+
+
+,
+
+q
+
+1
+
+
+)
++
+d
+(
+
+p
+
+2
+
+
+,
+
+q
+
+2
+
+
+)
++
+⋯
++
+d
+(
+
+p
+
+n
+
+
+,
+
+q
+
+n
+
+
+)
+}
+
+
+{\displaystyle d'([x],[y])=\inf\{d(p_{1},q_{1})+d(p_{2},q_{2})+\dotsb +d(p_{n},q_{n})\}}
+
+where the infimum is taken over all finite sequences 
+
+
+
+(
+
+p
+
+1
+
+
+,
+
+p
+
+2
+
+
+,
+…
+,
+
+p
+
+n
+
+
+)
+
+
+{\displaystyle (p_{1},p_{2},\dots ,p_{n})}
+
+ and 
+
+
+
+(
+
+q
+
+1
+
+
+,
+
+q
+
+2
+
+
+,
+…
+,
+
+q
+
+n
+
+
+)
+
+
+{\displaystyle (q_{1},q_{2},\dots ,q_{n})}
+
+ with 
+
+
+
+[
+
+p
+
+1
+
+
+]
+=
+[
+x
+]
+
+
+{\displaystyle [p_{1}]=[x]}
+
+, 
+
+
+
+[
+
+q
+
+n
+
+
+]
+=
+[
+y
+]
+
+
+{\displaystyle [q_{n}]=[y]}
+
+, 
+
+
+
+[
+
+q
+
+i
+
+
+]
+=
+[
+
+p
+
+i
++
+1
+
+
+]
+,
+i
+=
+1
+,
+2
+,
+…
+,
+n
+−
+1
+
+
+{\displaystyle [q_{i}]=[p_{i+1}],i=1,2,\dots ,n-1}
+
+. In general this will only define a pseudometric, i.e. 
+
+
+
+
+d
+′
+
+(
+[
+x
+]
+,
+[
+y
+]
+)
+=
+0
+
+
+{\displaystyle d'([x],[y])=0}
+
+ does not necessarily imply that 
+
+
+
+[
+x
+]
+=
+[
+y
+]
+
+
+{\displaystyle [x]=[y]}
+
+. However, for some equivalence relations (e.g., those given by gluing together polyhedra along faces), 
+
+
+
+
+d
+′
+
+
+
+{\displaystyle d'}
+
+ is a metric.
+The quotient metric 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is characterized by the following universal property. If 
+
+
+
+f
+
+:
+(
+M
+,
+d
+)
+→
+(
+X
+,
+δ
+)
+
+
+{\displaystyle f\,\colon (M,d)\to (X,\delta )}
+
+ is a metric map between metric spaces (that is, 
+
+
+
+δ
+(
+f
+(
+x
+)
+,
+f
+(
+y
+)
+)
+≤
+d
+(
+x
+,
+y
+)
+
+
+{\displaystyle \delta (f(x),f(y))\leq d(x,y)}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, 
+
+
+
+y
+
+
+{\displaystyle y}
+
+) satisfying 
+
+
+
+f
+(
+x
+)
+=
+f
+(
+y
+)
+
+
+{\displaystyle f(x)=f(y)}
+
+ whenever 
+
+
+
+x
+∼
+y
+,
+
+
+{\displaystyle x\sim y,}
+
+ then the induced function 
+
+
+
+
+
+f
+¯
+
+
+
+:
+M
+
+/
+
+
+∼→
+X
+
+
+{\displaystyle {\overline {f}}\,\colon M/\!\sim \to X}
+
+, given by 
+
+
+
+
+
+f
+¯
+
+
+(
+[
+x
+]
+)
+=
+f
+(
+x
+)
+
+
+{\displaystyle {\overline {f}}([x])=f(x)}
+
+, is a metric map 
+
+
+
+
+
+f
+¯
+
+
+
+:
+(
+M
+
+/
+
+
+∼
+,
+
+d
+′
+
+)
+→
+(
+X
+,
+δ
+)
+.
+
+
+{\displaystyle {\overline {f}}\,\colon (M/\!\sim ,d')\to (X,\delta ).}
+
+
+A topological space is sequential if and only if it is a quotient of a metric space.
+Every metric space is a uniform space in a natural manner, and every uniform space is naturally a topological space. Uniform and topological spaces can therefore be regarded as generalizations of metric spaces.
+Relaxing the requirement that the distance between two distinct points be non-zero leads to the concepts of a pseudometric space or a dislocated metric space. Removing the requirement of symmetry, we arrive at a quasimetric space. Replacing the triangle inequality with a weaker form leads to semimetric spaces.
+If the distance function takes values in the extended real number line 
+
+
+
+
+R
+
+∪
+{
++
+∞
+}
+
+
+{\displaystyle \mathbb {R} \cup \{+\infty \}}
+
+, but otherwise satisfies the conditions of a metric, then it is called an extended metric and the corresponding space is called an 
+
+
+
+∞
+
+
+{\displaystyle \infty }
+
+-metric space. If the distance function takes values in some (suitable) ordered set (and the triangle inequality is adjusted accordingly), then we arrive at the notion of generalized ultrametric.
+Approach spaces are a generalization of metric spaces, based on point-to-set distances, instead of point-to-point distances.
+A continuity space is a generalization of metric spaces and posets, that can be used to unify the notions of metric spaces and domains.
+A partial metric space is intended to be the least generalisation of the notion of a metric space, such that the distance of each point from itself is no longer necessarily zero.The ordered set 
+
+
+
+(
+
+R
+
+,
+≥
+)
+
+
+{\displaystyle (\mathbb {R} ,\geq )}
+
+ can be seen as a category by requesting exactly one morphism 
+
+
+
+a
+→
+b
+
+
+{\displaystyle a\to b}
+
+ if 
+
+
+
+a
+≥
+b
+
+
+{\displaystyle a\geq b}
+
+ and none otherwise. By using 
+
+
+
++
+
+
+{\displaystyle +}
+
+ as the tensor product and 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ as the identity, it becomes a monoidal category 
+
+
+
+
+R
+
+∗
+
+
+
+
+{\displaystyle R^{*}}
+
+.
+Every metric space 
+
+
+
+(
+M
+,
+d
+)
+
+
+{\displaystyle (M,d)}
+
+ can now be viewed as a category 
+
+
+
+
+M
+
+∗
+
+
+
+
+{\displaystyle M^{*}}
+
+ enriched over 
+
+
+
+
+R
+
+∗
+
+
+
+
+{\displaystyle R^{*}}
+
+:
+Set 
+
+
+
+Ob
+⁡
+(
+
+M
+
+∗
+
+
+)
+:=
+M
+
+
+{\displaystyle \operatorname {Ob} (M^{*}):=M}
+
+
+For each 
+
+
+
+X
+,
+Y
+∈
+M
+
+
+{\displaystyle X,Y\in M}
+
+ set 
+
+
+
+Hom
+⁡
+(
+X
+,
+Y
+)
+:=
+d
+(
+X
+,
+Y
+)
+∈
+Ob
+⁡
+(
+
+R
+
+∗
+
+
+)
+
+
+{\displaystyle \operatorname {Hom} (X,Y):=d(X,Y)\in \operatorname {Ob} (R^{*})}
+
+
+The composition morphism 
+
+
+
+Hom
+⁡
+(
+Y
+,
+Z
+)
+⊗
+Hom
+⁡
+(
+X
+,
+Y
+)
+→
+Hom
+⁡
+(
+X
+,
+Z
+)
+
+
+{\displaystyle \operatorname {Hom} (Y,Z)\otimes \operatorname {Hom} (X,Y)\to \operatorname {Hom} (X,Z)}
+
+ will be the unique morphism in 
+
+
+
+
+R
+
+∗
+
+
+
+
+{\displaystyle R^{*}}
+
+ given from the triangle inequality 
+
+
+
+d
+(
+y
+,
+z
+)
++
+d
+(
+x
+,
+y
+)
+≥
+d
+(
+x
+,
+z
+)
+
+
+{\displaystyle d(y,z)+d(x,y)\geq d(x,z)}
+
+
+The identity morphism 
+
+
+
+0
+→
+Hom
+⁡
+(
+X
+,
+X
+)
+
+
+{\displaystyle 0\to \operatorname {Hom} (X,X)}
+
+ will be the unique morphism given from the fact that 
+
+
+
+0
+≥
+d
+(
+X
+,
+X
+)
+
+
+{\displaystyle 0\geq d(X,X)}
+
+.
+Since 
+
+
+
+
+R
+
+∗
+
+
+
+
+{\displaystyle R^{*}}
+
+ is a poset, all diagrams that are required for an enriched category commute automatically.See the paper by F.W. Lawvere listed below.
+Assouad-Nagata dimension
+Aleksandrov–Rassias problem
+Category of metric spaces
+Classical Wiener space
+Contraction mapping – Function reducing distance between all points
+Glossary of Riemannian and metric geometry – Mathematics glossary
+Hilbert space – Generalization of Euclidean space allowing infinite dimensions
+Hilbert's fourth problem – Construct all metric spaces where lines resemble those on a sphere
+Isometry – Distance-preserving mathematical transformation
+Lee distance
+Lipschitz continuity – Strong form of uniform continuity
+Measure (mathematics) – Generalization of mass, length, area and volume
+Metric (mathematics) – Mathematical function defining distance
+Metric map
+Metric signature – Number of positive, negative and zero eigenvalues of a metric tensor
+Metric tensor – Structure that defines locally a distance on a Riemannian manifold
+Metric tree
+Norm (mathematics) – Length in a vector space
+Normed vector space – Vector space on which a distance is defined
+Product metric – Metric on the Cartesian product of finitely many metric spaces
+Space (mathematics) – Mathematical set with some added structure
+Triangle inequality – Property of geometry, also used to generalize the notion of "distance" in metric spaces
+Ultrametric space – Type of metric spaceVictor Bryant, Metric Spaces: Iteration and Application, Cambridge University Press, 1985, ISBN 0-521-31897-1.
+Dmitri Burago, Yu D Burago, Sergei Ivanov, A Course in Metric Geometry, American Mathematical Society, 2001, ISBN 0-8218-2129-6.
+Athanase Papadopoulos, Metric Spaces, Convexity and Nonpositive Curvature, European Mathematical Society, First edition 2004, ISBN 978-3-03719-010-4. Second edition 2014, ISBN 978-3-03719-132-3.
+Mícheál Ó Searcóid, Metric Spaces, Springer Undergraduate Mathematics Series, 2006, ISBN 1-84628-369-8.
+Lawvere, F. William, "Metric spaces, generalized logic, and closed categories", [Rend. Sem. Mat. Fis. Milano 43 (1973), 135—166 (1974); (Italian summary)This is reprinted (with author commentary) at Reprints in Theory and Applications of Categories
+Also (with an author commentary) in Enriched categories in the logic of geometry and analysis. Repr. Theory Appl. Categ. No. 1 (2002), 1–37.
+Weisstein, Eric W. "Product Metric". MathWorld."Metric space", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Far and near — several examples of distance functions at cut-the-knot.

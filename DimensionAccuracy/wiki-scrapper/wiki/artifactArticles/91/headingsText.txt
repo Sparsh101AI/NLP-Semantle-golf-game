@@ -1,0 +1,35 @@
+Terminology and overview
+History
+1960s, navigational DBMS
+1970s, relational DBMS
+Integrated approach
+Late 1970s, SQL DBMS
+1980s, on the desktop
+1990s, object-oriented
+2000s, NoSQL and NewSQL
+Use cases
+Classification
+Database management system
+Application
+Application program interface
+Database languages
+Storage
+Materialized views
+Replication
+Security
+Transactions and concurrency
+Migration
+Building, maintaining, and tuning
+Backup and restore
+Static analysis
+Miscellaneous features
+Design and modeling
+Models
+External, conceptual, and internal views
+Research
+See also
+Notes
+References
+Sources
+Further reading
+External links

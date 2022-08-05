@@ -1,0 +1,17 @@
+https://en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Google_Japanese_Input_for_Windows&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Google_Japanese_Input_for_Mac&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Latest_stable_software_release/Google_Japanese_Input_for_Android&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Latest_preview_software_release/Google_Japanese_Input_(Windows)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Latest_preview_software_release/Google_Japanese_Input_(Mac)&action=edit
+https://github.com/google/mozc
+https://www.google.co.jp/ime/
+https://github.com/google/mozc
+https://github.com/google/mozc/
+http://googledevjp.blogspot.jp/2013/12/google-113165010x.html
+http://googledevjp.blogspot.jp/2013/12/google-113165010x.html
+http://getnews.jp/archives/228987
+https://www.google.co.jp/ime/
+https://en.wikipedia.org/w/index.php?title=Template:Google_LLC&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Input_method&action=edit
+https://en.wikipedia.org/w/index.php?title=Google_Japanese_Input&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Software-stub&action=edit

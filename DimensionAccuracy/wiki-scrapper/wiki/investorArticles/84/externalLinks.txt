@@ -1,0 +1,12 @@
+https://commonchemistry.cas.org/detail?cas_rn=313998-81-1
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC%28Nc1c%28cc%28O%29cc1%29C%29CCC%5CC%3DC%2FC%5CC%3DC%2FC%5CC%3DC%2FC%5CC%3DC%2FCCCCC
+https://www.chemspider.com/Chemical-Structure.8063420.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.159.410
+https://pubchem.ncbi.nlm.nih.gov/compound/9887748
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID60694025
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=410503451&page2=VDM-11
+http://www.sigmaaldrich.com/catalog/ProductDetail.do?lang=en&N4=V3264%7CSIGMA&N5=SEARCH_CONCAT_PNO%7CBRAND_KEY&F=SPEC
+https://en.wikipedia.org/w/index.php?title=Template:Cannabinoids&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Cannabinoid_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=VDM-11&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Cannabinoid-stub&action=edit

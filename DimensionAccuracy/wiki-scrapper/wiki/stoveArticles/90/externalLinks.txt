@@ -1,0 +1,7 @@
+//geohack.toolforge.org/geohack.php?pagename=Rue_d%27Assas&params=48_50_43_N_2_19_55_E_type:landmark_region:FR
+//geohack.toolforge.org/geohack.php?pagename=Rue_d%27Assas&params=48_50_43_N_2_19_55_E_type:landmark_region:FR
+https://books.google.com/books?id=678ghCLrSYoC
+http://www.paris-expert.com/parisexpert/Plans/Paris.cfm?Lat=&Lon=&Scale=&TEC=g
+http://paris-a-la-carte-version-pl.paris.fr/carto/mapping/?fr.paris.carto.mapping.parametre=ecran=URL&univers=0&mapId=1&location=D75006
+https://en.wikipedia.org/w/index.php?title=Rue_d%27Assas&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Paris-road-stub&action=edit

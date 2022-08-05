@@ -1,0 +1,37 @@
+Cyber threat intelligence (CTI) is knowledge, skills and experience-based information concerning the occurrence and assessment of both cyber and physical threats and threat actors that is intended to help mitigate potential attacks and harmful events occurring in cyberspace. Cyber threat intelligence sources include open source intelligence, social media intelligence, human Intelligence, technical intelligence, device log files, forensically acquired data or intelligence from the internet traffic and data derived for the deep and dark web.
+In recent years, threat intelligence has become a crucial part of companies cyber security strategy since it allows companies to be more proactive in their approach and determine which threats represent the greatest risks to a business. This puts companies on a more proactive front - actively trying to find their vulnerabilities and prevents hacks before they happen. This method is gaining importance in recent years since, as IBM estimates, the most common method companies are hack is via threat exploitation (47% of all attacks)
+Threat vulnerabilities have risen in recent years also do to the COVID-19 pandemic and more people working from home - which makes companies' data more vulnerable. Due to the growing threats on one hand, and the growing sophistication needed for threat intelligence, many companies have opted in recent years to outsource their threat intelligence activities to a managed security provider (MSSP).
+There are three overarching, but not categorical - classes of cyber threat intelligence:
+Tactical: technical intelligence (including Indicators of Compromise such as IP addresses, file names, or hashes) which can be used to assist in the identification of threat actors
+Operational: details of the motivation or capabilities of threat actors, including their tools, techniques and procedures
+Strategic: intelligence about the overarching risks associated with cyber threats which can be used to drive high-level organizational strategyCyber threat intelligence provides a number of benefits, which include:
+Empowers people, organizations and agencies to develop a proactive and robust cybersecurity posture and to bolster overall risk management and cyber security policies and responses
+Drives momentum toward a proactive cybersecurity posture that is predictive, not simply reactive after a cyber attack
+Enables improved detection of both risks and threats
+Informs better decision-making before, during and following the detection of a cyber intrusion or intended interference of IT/OT services.
+Enables sharing of knowledge, skills and experiences among the cyber security community of practice and systems stakeholders.
+Communicates threat surfaces, attack vectors and malicious activities directed to both information technology and operational technology platforms.
+Serve as fact-based repository for evidence of both successful and unsuccessful cyber attacks.
+Provide indicators for computer emergency response teams and incident response groups.Cyber threat data or information with the following key elements are considered as cyber threat intelligence:
+Evidence-based: cyber threat evidence may be obtained from malware analysis to be sure the threat is valid
+Utility: there needs to be some utility to have a positive impact on a security incident's outcome or organization
+Actionable: the gained cyber threat intelligence should drive security control action, not only data or informationCyber threats involve the use of computers, storage devices, software networks and cloud-based repositories. Prior to, during or after a cyber attack technical information about the information and operational technology, devices, network and computers between the attacker(s) and the victim(s) can be collected, stored and analyzed. However, identifying the person(s) behind an attack, their motivations, or the ultimate sponsor of the attack, - termed attribution is sometimes difficult. Recent efforts in threat intelligence emphasize understanding adversary TTPs. Across industries, organizations have started using the MITRE ATT&CK framework to understand threat actors' TTPs and identify holes in defenses.
+A number of recent cyber threat intelligence analytical reports have been released by public and private sector organizations which attribute cyber attacks. This includes Mandiant's APT1 and APT28 reports, US CERT's APT29 report, and Symantec's Dragonfly, Waterbug Group and Seedworm reports.
+In 2015 U.S. government legislation in the form of the "Cybersecurity Information Sharing Act"  encouraged the sharing of CTI indicators between government and private organizations.  This act required the U.S. federal government to facilitate and promote 4 CTI objectives:
+Sharing of "classified and declassified cyber threat indicators in possession of the federal government with private entities, nonfederal government agencies, or state, tribal, or local governments";
+Sharing of "unclassified indicators with the public";
+Sharing of "information with entities under cybersecurity threats to prevent or mitigate adverse effects";
+Sharing of "cybersecurity best practices with attention to the challenges faced by small businesses.In 2016, the U.S. government agency National Institute of Standards and Technology (NIST) issued a publication (NIST SP 800-150) which further outlined the necessity for Cyber Threat Information Sharing as well as a framework for implementation.
+Cyber Intelligence Sharing and Protection Act
+Denial-of-service attack
+Indicator of compromise
+Malware
+Malware analysis
+Ransomware
+Zero-day (computing)Boris Giannetto - Pierluigi Paganini (2020). Mastering Communication in Cyber Intelligence Activities: A Concise User Guide. Cyber Defense Magazine.
+Anca Dinicu, "Nicolae Bălcescu" Land Forces Academy, Sibiu, Romania, Cyber Threats to National Security. Specific Features and Actors Involved - Bulletin Ştiinţific No 2(38)/2014
+Zero Day: Nuclear Cyber Sabotage, BBC Four - the Documentary thriller about warfare in a world without rules - the world of cyberwar. It tells the story of Stuxnet, self-replicating computer malware, known as a 'worm' for its ability to burrow from computer
+What is threat intelligence? - Blog post providing context and adding to the discussion of defining threat intelligence.
+Threat hunting explained - Short article explaining cyber threat intelligence.
+A known actor in cyber threat intelligence - Site dedicated to threat intelligence.
+MITRE ATT&CK - Getting Started.

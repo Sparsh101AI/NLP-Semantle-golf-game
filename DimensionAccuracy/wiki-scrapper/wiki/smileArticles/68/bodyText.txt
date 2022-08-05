@@ -1,0 +1,13 @@
+In enzymology, a monoterpenyl-diphosphatase (EC 3.1.7.3) is an enzyme that catalyzes the chemical reaction
+monoterpenyl diphosphate + H2O 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ monoterpenol + diphosphateThus, the two substrates of this enzyme are monoterpenyl diphosphate and H2O, whereas its two products are monoterpenol and diphosphate.
+This enzyme belongs to the family of hydrolases, specifically those acting on diphosphoric monoester bonds.  The systematic name of this enzyme class is monoterpenyl-diphosphate diphosphohydrolase. Other names in common use include bornyl pyrophosphate hydrolase, and monoterpenyl-pyrophosphatase.
+Croteau R, Karp F (1979). "Biosynthesis of monoterpenes: hydrolysis of bornyl pyrophosphate, an essential step in camphor biosynthesis, and hydrolysis of geranyl pyrophosphate, the acyclic precursor of camphor, by enzymes from sage (Salvia officinalis)". Arch. Biochem. Biophys. 198 (2): 523–32. doi:10.1016/0003-9861(79)90527-7. PMID 42357.

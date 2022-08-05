@@ -1,0 +1,9 @@
+Soyuz 15 (Russian: Союз 15, Union 15) was an August, 1974, crewed space flight which was to have been the second mission to the Soviet Union's Salyut 3 space station with presumably military objectives.
+Launched 26 August 1974, the Soyuz spacecraft arrived at the station, but cosmonauts Gennady Sarafanov and Lev Dyomin were unable to dock because the electronics in the Igla docking system malfunctioned. Without sufficient fuel for prolonged attempts at manual docking, the mission had to be abandoned. The cosmonauts powered down all nonessential systems in the Soyuz and waited until the next day for reentry. The crew landed 28 August 1974. Analysis of the launch window was cited by observers for concluding a flight of 19 to 29 days had been planned.
+In the event of the failure, official TASS statements merely claimed that the mission was intended to practice docking maneuvers with the Salyut 3 station. They also said that a new automatic docking system was tested which would be used on future Progress transport craft.
+The failed mission exposed a number of serious design flaws in the Soyuz 7K-T spacecraft, namely its lack of reserve propellant and electrical power for repeated docking attempts. In addition, the Igla docking system was found to be in major need of improvement. Since it was impossible to carry out these changes before Salyut 3 finished its operating lifespan, they had to wait for future space stations. The backup spacecraft for the Soyuz 15 mission was placed in storage and later flown as Soyuz 20 despite being past its intended shelf life.
+Mass: 6,570 kg (14,480 lb) 
+Perigee: 254.0 km (157.8 mi) 
+Apogee: 275.0 km (170.9 mi)
+Inclination: 51.60°
+Period: 89.60 minutes

@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Volunteer_State_Community_College&params=36.3624_N_86.4973_W_type:edu
+//geohack.toolforge.org/geohack.php?pagename=Volunteer_State_Community_College&params=36.3624_N_86.4973_W_type:edu
+http://www.volstate.edu
+http://www.volstate.edu/StudentLife/Organizations.php
+http://www.volstate.edu/Life/index.php
+http://www.volstate.edu
+https://en.wikipedia.org/w/index.php?title=Template:Region_VII_(NJCAA)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Tennessee_Board_of_Regents&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Community_and_technical_colleges_in_Tennessee&action=edit
+https://isni.org/isni/0000000095404737
+https://viaf.org/viaf/140697963
+https://www.worldcat.org/identities/lccn-n78027173/
+https://id.loc.gov/authorities/names/n78027173

@@ -1,0 +1,4 @@
+Eoxin A4, also known as 14,15-leukotriene A4, is an eoxin. Cells make eoxins by metabolizing arachidonic acid with a 15-lipoxygenase enzyme to form 15(S)-hydroperoxyeicosapentaenoic acid (i.e. 15(S)-HpETE). This product is then converted serially to eoxin A4 (i.e. EXA4), EXC4, EXD4, and EXE4 by LTC4 synthase, an unidentified gamma-glutamyltransferase, and an unidentified dipeptidase, respectively, in a pathway which appears similar if not identical to the pathway which forms leukotreines, i.e. LTA4, LTC4, LTD4, and LTE4. This pathway is schematically shown as follows:
+
+Arachidonic acid + O2 → 15(S)-HpETE → EXA4 → EXC4 → EXD4 → EXE4EXA4 is viewed as an intracellular-bound, short-lived intermediate which is rapidly metabolized to the down-stream eoxins. The eoxins down stream of EXA4 are secreted from their parent cells and, it is proposed but not yet proven, serve to regulate allergic responses and the development of certain cancers (see Eoxins).
+

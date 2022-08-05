@@ -1,0 +1,16 @@
+Overview
+History
+Topics in systems dynamics
+Causal loop diagrams
+Stock and flow diagrams
+Equations
+Equations in discrete time
+Dynamic simulation results
+Equations in continuous time
+Application
+Example: Growth and decline of companies
+Example: Piston motion
+See also
+References
+Further reading
+External links

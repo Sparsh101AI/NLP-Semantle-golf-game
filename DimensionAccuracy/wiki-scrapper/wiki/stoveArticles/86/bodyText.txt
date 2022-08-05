@@ -1,0 +1,31 @@
+Cloud Infrastructure Management Interface (CIMI) is an open standard API specification for managing cloud infrastructure.
+CIMI's goal is to enable users to manage a cloud infrastructure in a simple way by standardizing interactions between cloud environments to achieve interoperable cloud infrastructure management between service providers and their consumers and developers.
+CIMI 1.1 was registered as an International Standard in August 2014 by the Joint Technical Committee 1 (JTC 1) of the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC).
+
+The CIMI standard is defined and published by the Distributed Management Task Force (DMTF). It includes the Cloud Infrastructure Management Interface (CIMI) Model and RESTful HTTP-based Protocol specification, the CIMI XML Schema, the CIMI Primer and the CIMI Uses Cases whitepaper:
+Cloud Infrastructure Management Interface (CIMI) Model and RESTful HTTP-based ProtocolThe Cloud Infrastructure Management Interface (CIMI) Model and RESTful HTTP-based Protocol Specification define the architecture and concepts of CIMI.CIMI XML SchemaThe CIMI XML Schema defines the XML representation of the CIMI model.CIMI PrimerThe CIMI Primer explains how clients can use the CIMI API for some common use cases, such as listing Machine Images and Configurations, creating a Machine from a Template and then retrieving details about it.CIMI Use CasesThe CIMI Use Cases whitepaper collects a number of use cases that typify the next generation of issues facing IaaS providers and that are being considered to be addressed in the next version of the CIMI specification, such as Business Continuity/Disaster Recovery, Service Level Objective Management, Log / Metadata Management and Multicloud Management.CIMI aims to provide a single set of interfaces that a cloud consumer can use to provision and manage their cloud infrastructure in multiple clouds, so client code does not need to be adapted to each of the proprietary interfaces from these multiple vendors. CIMI has been described as a de jure standard that is under change control of a standards body, contrasting it to a de facto standard where typically one vendor has change control over the interface, and everyone else has to reverse engineer the inner workings of it.
+It is expecting vendors to embrace a dual strategy of delivering two offerings – one a CIMI compliant offering and the second a more proprietary offering that allows for more proprietary functionality.
+CIMI is scoped to the core IaaS functionality such as deploying and managing Machines, Volumes, Networks, Monitoring, and Systems that group them. It includes a feature discovery mechanism to find out what functions the cloud provider supports, including the metadata describing capabilities and resource constraints.
+The CIMI model describes in detail all the resources that are accessible by the Cloud Consumer and that are maintained by the Cloud Provider, and their relationships.
+The main entry point for the CIMI Consumer is the IaaS Provider's Cloud Entry Point. All other data is discovered, iteratively:
+Pointers to Machines, Volumes, Networks, Systems (a grouping of resources managed as a single unit), Machine Images, Credentials, ...
+Templates to provision new resources such as Machines, Volumes, Networks and Systems
+Monitoring resources such as Meters, Events & Event Logs (for notifications from the Provider, with time, type (error, warning, ...), severity, etc.)
+Jobs (one or more processes or actions directed to accomplish a specific goal, performed by the Provider)
+Metadata describing capabilities and resources constraints
+Optional provider extensionsThe model is self-describing and allows for querying its own metadata, e.g., to discover which extensions have been implemented. The model is also extensible by the Consumer and the Provider.
+The model also defines serializations both in XML and JSON for each resource.
+CIMI addresses the management of the lifecycle of infrastructure provided by an IaaS Provider, such as the creation, deletion, viewing and alteration of virtual machines, networks and storage, and start and stop operations.
+It also defines resource operations such as creating machine images or snapshots of machines for backup & restore, or for the creation of additional identical virtual machines.
+CIMI allows the import of an OVF package to create a System with Machines and other CIMI resources, as well as the export of a CIMI System of resources to an OVF package. The actual import and export of OVF packages are handled by the underlying hypervisor under the management of the CIMI implementation.
+CIMI currently supports the REST architectural style using HTTP for all interactions between the Consumer and the Providers. Mappings to SOAP and WS-MAN are also considered.
+This protocol binding follows REST principles and describes the mapping of HTTP protocol verbs to operations on the model: Each request is sent by using an HTTP verb such as GET, POST, PUT and DELETE, and includes a message body in either JSON or XML format. Each response uses a standard HTTP status code, whose semantics are interpreted in the context of the particular request that was made.
+Several adapters have been developed that expose a CIMI API endpoint for client applications to consume and translate API calls to the proprietary API calls of supported target cloud provider(s).
+The following is a list of CIMI implementations:
+Apache Deltacloud
+OW2 Sirocco Project
+StratusLab Project
+CIMI interface for OpenStackThe CIMI Working Group has announced plug-fests for improved interoperability between CIMI implementations.
+Distributed Management Task Force (DMTF)
+Infrastructure as Code
+Open Virtualisation Format (OVF)

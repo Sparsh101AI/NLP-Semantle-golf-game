@@ -1,0 +1,426 @@
+Adjusted ERA+, often simply abbreviated to ERA+ or ERA plus, is a pitching statistic in baseball. It adjusts a pitcher's earned run average (ERA) according to the pitcher's ballpark (in case the ballpark favors batters or pitchers) and the ERA of the pitcher's league.
+ERA+ is calculated as:
+
+
+
+
+
+
+E
+R
+A
++
+
+
+=
+100
+⋅
+
+
+
+
+l
+g
+E
+R
+A
+
+
+
+
+E
+R
+A
+
+
+
+
+⋅
+
+
+P
+F
+
+
+
+
+{\displaystyle {\mathit {ERA+}}=100\cdot {{\mathit {lgERA}} \over {\mathit {ERA}}}\cdot {\mathit {PF}}}
+
+
+Where ERA is the pitcher's ERA, lgERA is the average ERA of the league, and PF is the park factor of the pitcher in question.
+This formula is now standard, although Baseball-Reference.com briefly used a different formula which took values strictly between 0 and 200 instead of between 0 and infinity, but the current website shows values above 200 so it is clearly no longer in use:
+
+
+
+
+
+
+E
+R
+A
++
+
+
+=
+100
+⋅
+(
+2
+−
+
+
+
+
+E
+R
+A
+
+
+
+
+l
+g
+E
+R
+A
+
+
+
+
+⋅
+
+
+1
+
+
+P
+F
+
+
+
+
+)
+
+
+{\displaystyle {\mathit {ERA+}}=100\cdot (2-{{\mathit {ERA}} \over {\mathit {lgERA}}}\cdot {1 \over {\mathit {PF}}})}
+
+
+The average ERA+ is set to be 100; a score above 100 indicates that the pitcher performed better than average, while below 100 indicates worse than average. For instance, imagine the average ERA in the league is 4.00: if pitcher A has an ERA of 4.00 but is pitching in a ballpark that favors hitters, his ERA+ will be over 100. Likewise, if pitcher B has an ERA of 4.00 but pitches in a ballpark favoring pitchers, then his ERA+ will be below 100.
+As a result, ERA+ can be used to compare pitchers across different run environments. In the above example, while ERA will lead one to believe that both pitchers pitched at the same level due to their ERAs being equivalent, ERA+ indicates that pitcher A performed better than pitcher B. ERA+ can thus be used to neutralize the effects of some well-known advantages and disadvantages on pitchers' ERA scores.
+Pedro Martínez holds the modern record for highest ERA+ in a single season; he posted a 1.74 ERA in the 2000 season while pitching in the American League, which had an average ERA of 4.92, which gave Martínez an ERA+ of 291.  While Bob Gibson has the lowest ERA in modern times (1.12 in the National League in 1968), the average ERA was 2.99 that year (the so-called Year of the Pitcher) and so Gibson's ERA+ is 258, sixth highest since 1900. 1968 was the last year that Major League Baseball employed the use of a pitcher's mound higher than 10 inches.
+The career record for ERA+ (with a minimum of 1,000 innings pitched) is held by Mariano Rivera, a closer whose career ERA+ is 205. Upon retirement in 2013, with an ERA+ of 194 in his final season, Rivera's career record of 205 surpassed the record among retired players of 154, held by Martínez, bumping Jim Devlin, a pitcher in the 1870s, to third with 151. Among qualifying pitchers, Pedro Martínez has the most separate seasons with an ERA+ over 200, with five, and the most consecutive 200 ERA+ seasons (4), though the closer Rivera, with too few innings each year to qualify officially, has surpassed 200 ERA+ in 13 seasons of his 19 seasons, including 4 consecutive seasons twice and 5 consecutive seasons once and also surpassing 300 in 2004 and again in 2008. Roger Clemens topped a 200 ERA+ three times, and Greg Maddux had two such seasons.
+Players in bold are active as of the end of the 2020 season and have not announced their retirement.
+Single-season leaders include only pitchers eligible for the ERA title (a pitcher must throw a minimum of one inning per game scheduled for his team during the season to qualify for the ERA title). Only pitchers with 1,000 or more innings pitched are shown in the career leader list.
+
+
+
+
+
+Career Leaders
+
+
+Rank
+Player
+Adjusted ERA+
+
+
+1
+
+Mariano Rivera
+205
+
+
+2
+
+Jacob deGrom
+156
+
+
+3
+
+Clayton Kershaw
+155
+
+
+4
+
+Pedro Martínez
+154
+
+
+5
+
+Jim Devlin
+150
+
+
+6
+
+Lefty Grove
+148
+
+
+T-7
+
+Walter Johnson
+
+147
+
+
+Hoyt Wilhelm
+
+
+T-9
+
+Dan Quisenberry
+
+146
+
+
+Ed Walsh
+
+
+Smoky Joe Wood
+
+
+T-12
+
+Roger Clemens
+
+143
+
+
+Addie Joss
+
+
+14
+
+Brandon Webb
+142
+
+
+15
+
+Trevor Hoffman
+141
+
+
+16
+
+Chris Sale
+140
+
+
+17
+
+Kid Nichols
+139
+
+
+T-18
+
+Mordecai Brown
+
+138
+
+
+John Franco
+
+
+Cy Young
+
+
+T-21
+
+Christy Mathewson
+
+136
+
+
+Johan Santana
+
+
+Bruce Sutter
+
+
+T-24
+
+Pete Alexander
+
+135
+
+
+Randy Johnson
+
+
+Corey Kluber
+
+
+Rube Waddell
+
+
+
+
+
+Single Season Leaders
+
+
+Rank
+Player
+Adjusted ERA+
+Year
+Team
+
+
+1
+
+Tim Keefe
+293
+1880
+Troy Trojans
+
+
+2
+
+Pedro Martínez
+291
+2000
+Boston Red Sox
+
+
+3
+
+Shane Bieber
+281
+2020
+Cleveland Indians
+
+
+4
+
+Dutch Leonard
+279
+1914
+Boston Red Sox
+
+
+5
+
+Trevor Bauer
+276
+2020
+Cincinnati Reds
+
+
+6
+
+Greg Maddux
+271
+1994
+Atlanta Braves
+
+
+7
+
+Greg Maddux
+260
+1995
+Atlanta Braves
+
+
+8
+
+Walter Johnson
+259
+1913
+Washington Senators
+
+
+9
+
+Bob Gibson
+258
+1968
+St. Louis Cardinals
+
+
+10
+
+Mordecai Brown
+253
+1906
+Chicago Cubs
+
+
+T-11
+
+Pedro Martínez
+243
+1999
+Boston Red Sox
+
+
+Walter Johnson
+1912
+Washington Senators
+
+
+13
+
+Christy Mathewson
+233
+1905
+New York Giants
+
+
+14
+
+Dwight Gooden
+229
+1985
+New York Mets
+
+
+15
+
+Roger Clemens
+226
+2005
+Houston Astros
+
+
+16
+
+Pete Alexander
+225
+1915
+Philadelphia Phillies
+
+
+T-17
+
+Christy Mathewson
+224
+1909
+New York Giants
+
+
+Dallas Keuchel
+2020
+Chicago White Sox
+
+
+T-19
+
+Roger Clemens
+222
+1997
+Toronto Blue Jays
+
+
+Zack Greinke
+2015
+Los Angeles Dodgers
+
+
+

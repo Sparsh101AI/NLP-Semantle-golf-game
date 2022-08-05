@@ -1,0 +1,14 @@
+//geohack.toolforge.org/geohack.php?pagename=Bordeaux_Cathedral&params=44_50_16_N_0_34_39_W_region:FR_type:landmark_source:dewiki
+//geohack.toolforge.org/geohack.php?pagename=Bordeaux_Cathedral&params=44_50_16_N_0_34_39_W_region:FR_type:landmark_source:dewiki
+https://whc.unesco.org/en/list/868
+https://doi.org/10.1186%2Fs40494-014-0024-z
+https://doi.org/10.1186%2Fs40494-014-0024-z
+https://archive.org/details/gothicarchitectu0000fran
+http://www.cathedrale-bordeaux.fr
+http://www.scholares.net/index.php?Gazetteer-Bordeaux
+https://en.wikipedia.org/w/index.php?title=Template:Catholic_Church_in_France&action=edit
+https://viaf.org/viaf/142079413
+https://www.worldcat.org/identities/lccn-n99023892/
+https://d-nb.info/gnd/4649275-6
+https://id.loc.gov/authorities/names/n99023892
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=olak2017953628&CON_LNG=ENG

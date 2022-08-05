@@ -1,0 +1,21 @@
+History
+General form
+Cases where theorem cannot be applied (Necessity of conditions)
+Form is not indeterminate
+Differentiability of functions
+Derivative of denominator is zero
+Limit of derivatives does not exist
+Examples
+Complications
+Other indeterminate forms
+Stolz–Cesàro theorem
+Geometric interpretation
+Proof of L'Hôpital's rule
+Special case
+General proof
+Corollary
+Proof
+See also
+Notes
+References
+Sources

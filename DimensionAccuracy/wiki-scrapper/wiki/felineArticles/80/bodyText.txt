@@ -1,0 +1,6 @@
+Vietnam Standards, abbreviated TCVN for the Vietnamese Tiêu chuẩn Việt Nam, are the national standards of Vietnam issued by the Vietnam Standard and Quality Institute, part of the Directorate for Standards, Metrology And Quality (STAMEQ). These standards are identified by the prefix "TCVN" followed by a number, a colon, and the year issued. For instance, "TCVN 4980:2006" refers to the national standard numbered 4980, issued in 2006.
+Thousands of TCVNs have been issued for terminology, technology, experimentation and sampling procedures, labeling, packaging, transportation, and maintenance in areas such as mechanics, metallurgy, communication and transportation, construction, chemicals, petroleum, minerals, agriculture, food, consumer products, environment, safety, electricity, electronics, and informatics.
+Some wide-reaching standards include: TCVN 5712, standardizing the Telex input method; TCVN 6909, standardizing the Vietnamese character set as a subset of Unicode 3.1; and TCVN ISO 9001 (equivalent to ISO 9001), regarding quality control systems.
+National standards (disambiguation)
+Japanese Industrial Standards (JIS)
+GOSTVietnam National Standard (in Vietnamese)

@@ -1,0 +1,18 @@
+History
+Overview
+Issuing process 
+Registration group element
+Registrant element
+English language pattern 
+Check digits
+ISBN-10 check digits
+ISBN-10 check digit calculation
+ISBN-13 check digit calculation
+ISBN-10 to ISBN-13 conversion
+Errors in usage
+eISBN
+EAN format used in barcodes, and upgrading
+See also
+Explanatory notes
+References
+External links

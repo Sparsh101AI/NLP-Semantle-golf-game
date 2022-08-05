@@ -1,0 +1,17 @@
+https://commonchemistry.cas.org/detail?cas_rn=104653-34-1
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3Dc1c%28C2CC%28c3ccc%28-c4ccc%28Br%29cc4%29cc3%29Cc3ccccc32%29c%28O%29sc2ccccc12
+https://www.chemspider.com/Chemical-Structure.10469311.html
+https://echa.europa.eu/substance-information/-/substanceinfo/100.118.383
+https://www.kegg.jp/entry/C18695
+https://pubchem.ncbi.nlm.nih.gov/compound/91771
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=KOL4VXI5O0
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID4032374
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=444941803&page2=Difethialone
+https://hal.archives-ouvertes.fr/hal-00901856
+//pubmed.ncbi.nlm.nih.gov/2751229
+//pubmed.ncbi.nlm.nih.gov/15266918
+https://www.epa.gov/rodenticides/restrictions-rodenticide-products
+https://www.regulations.gov/document?D=EPA-HQ-OPP-2006-0955-0764
+https://en.wikipedia.org/w/index.php?title=Template:Rodenticides&action=edit
+https://en.wikipedia.org/w/index.php?title=Difethialone&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Organic-compound-stub&action=edit

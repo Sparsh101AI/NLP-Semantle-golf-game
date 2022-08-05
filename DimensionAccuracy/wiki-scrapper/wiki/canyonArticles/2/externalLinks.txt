@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Point_Mugu_State_Park&params=34_6_N_119_0_W_region:US-CA_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Point_Mugu_State_Park&params=34_6_N_119_0_W_region:US-CA_type:landmark
+https://en.wikipedia.org/w/index.php?title=Point_Mugu_State_Park&action=edit
+https://www.vcstar.com/story/news/local/2018/08/09/best-beaches-ventura-county-visit/948703002/
+https://web.archive.org/web/20190718183925/https://www.vcstar.com/story/news/local/2018/08/09/best-beaches-ventura-county-visit/948703002/
+http://www.parks.ca.gov/default.asp?page_id=630
+https://en.wikipedia.org/w/index.php?title=Template:Protected_areas_of_California&action=edit
+https://viaf.org/viaf/315529063
+https://www.worldcat.org/identities/viaf-315529063/

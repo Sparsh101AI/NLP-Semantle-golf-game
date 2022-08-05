@@ -1,0 +1,33 @@
+GABAB receptors (GABABR) are G-protein coupled receptors for gamma-aminobutyric acid (GABA), therefore making them metabotropic receptors, that are linked via G-proteins to potassium channels. The changing potassium concentrations hyperpolarize the cell at the end of an action potential. The reversal potential of the GABAB-mediated IPSP  (inhibitory postsynaptic potential) is –100 mV, which is much more hyperpolarized than the GABAA IPSP.  GABAB receptors are found in the central nervous system and the autonomic division of the peripheral nervous system.
+The receptors were first named in 1981 when their distribution in the CNS was determined, which was determined by Norman Bowery and his team using radioactively labelled baclofen.
+GABABRs stimulate the opening of K channels, specifically GIRKs, which brings the neuron closer to the equilibrium potential of K. This reduces the frequency of action potentials which reduces neurotransmitter release. Thus GABAB receptors are inhibitory receptors.
+GABAB receptors also reduces the activity of adenylyl cyclase  and Ca channels by using G-proteins with Gi/G0 α subunits.
+GABAB receptors are involved in behavioral actions of ethanol, gamma-hydroxybutyric acid (GHB), and possibly in pain. Recent research suggests that these receptors may play an important developmental role.
+GABAB Receptors are similar in structure to and in the same receptor family with metabotropic glutamate receptors.  There are two subunits of the receptor, GABAB1 and GABAB2, and these appear to assemble as heterodimers in neuronal membranes by linking up by their intracellular C termini. In the mammalian brain, two predominant, differentially expressed isoforms of the GABAB1 are transcribed from the Gabbr1 gene, GABAB(1a) and GABAB(1b), which are conserved in different species including humans. This might potentially offer more complexity in terms of the function due to different composition of the receptor. Cryo-electron microscopy structures of the full length GABAB receptor in different conformational states from inactive apo to fully active have been obtained. Unlike Class A and B GPCRs, phospholipids bind within the transmembrane bundles and allosteric modulators bind at the interface of GABAB1 and GABAB2 subunits.
+GABA
+Baclofen is a GABA analogue which acts as a selective agonist of GABAB receptors, and is used as a muscle relaxant. However, it can aggravate absence seizures, and so is not used in epilepsy.
+gamma-Hydroxybutyrate (GHB)
+Phenibut
+4-Fluorophenibut
+Isovaline
+3-Aminopropylphosphinic acid
+Lesogaberan
+SKF-97541: 3-Aminopropyl(methyl)phosphinic acid, 10x more potent than baclofen as GABAB agonist, but also GABAC antagonist
+CGP-44532CGP-7930
+BHFF
+Fendiline
+BHF-177
+BSPP
+GS-39783Homotaurine
+Ginsenosides
+2-OH-saclofen
+Saclofen
+Phaclofen
+SCH-50911
+2-Phenethylamine
+CGP-35348
+CGP-52432: 3-([(3,4-Dichlorophenyl)methyl]amino]propyl) diethoxymethyl)phosphinic acid, CAS# 139667-74-6
+CGP-55845: (2S)-3-([(1S)-1-(3,4-Dichlorophenyl)ethyl]amino-2-hydroxypropyl)(phenylmethyl)phosphinic acid, CAS# 149184-22-5
+SGS-742GABA receptor
+GABAA receptor
+GABAA-ρ receptor

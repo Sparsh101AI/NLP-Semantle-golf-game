@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Finnmarksvidda&params=69_19_N_23_49_E_region:NO_scale:3000000_type:city
+//geohack.toolforge.org/geohack.php?pagename=Finnmarksvidda&params=69_19_N_23_49_E_region:NO_scale:3000000_type:city
+http://www.turistforeningen.no/english/location.php?lo_id=NO_finnm
+https://viaf.org/viaf/248544941
+https://www.worldcat.org/identities/containsVIAFID/248544941

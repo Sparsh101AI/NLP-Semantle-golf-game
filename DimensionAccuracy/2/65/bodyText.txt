@@ -1,0 +1,81 @@
+The Chinese, Japanese and Korean (CJK) scripts share a common background, collectively known as CJK characters. In the process called Han unification, the common (shared) characters were identified and named CJK Unified Ideographs. As of Unicode 14.0, Unicode defines a total of 92,865 CJK Unified Ideographs.
+The term ideographs is a misnomer, as the Chinese script is not ideographic but rather logographic.
+Historically, Vietnam used Chinese characters too, so sometimes the abbreviation CJKV is used. Vietnamese use was replaced by the Latin-based Vietnamese alphabet in the 1920s.
+The basic block named CJK Unified Ideographs (4E00–9FFF) contains 20,992 basic Chinese characters in the range U+4E00 through U+9FFF. The block not only includes characters used in the Chinese writing system but also kanji used in the Japanese writing system and hanja, whose use is diminishing in Korea. Many characters in this block are used in all three writing systems, while others are in only one or two of the three. Chữ Hán are also used in Vietnam's chữ Nôm (now obsolete). The first 20,902 characters in the block are arranged according to the Kangxi Dictionary ordering of radicals. In this system the characters written with the fewest strokes are listed first. The remaining characters were added later, and so are not in radical order.
+The block is the result of Han unification, which was somewhat controversial within East Asia. Since Chinese, Japanese and Korean characters were coded in the same location, the appearance of a selected glyph could depend on the particular font being used. However, the source separation rule states that characters encoded separately in an earlier character set would remain separate in the new Unicode encoding.
+Using variation selectors, it is possible to specify certain variant CJK ideograms within Unicode. The Adobe-Japan1 character set, which has 14,683 ideographic variation sequences, is an extreme example of the use of variation selectors.
+4E00-62FF,
+6300-77FF,
+7800-8CFF,
+8D00-9FFF.
+Note: Most characters appear in multiple sources, making the sum of individual character counts (102,698) far more than the number of encoded characters (20,992).
+In Unicode 4.1, 14 HKSCS-2004 characters and 8 GB 18030 characters were assigned to between U+9FA6 and U+9FBB code points. Since then, other additions were added to this block for various reasons, all summarized in the version history section below.
+The block named CJK Unified Ideographs Extension A (3400–4DBF) contains 6,592 additional characters in the range U+3400 through U+4DBF.
+3400-4DBF.
+Note: Most characters appear in more than one source, making the sum of individual character counts (18,828) far more than the number of encoded characters (6,592).
+The block named CJK Unified Ideographs Extension B (20000–2A6DF) contains 42,720 characters in the range U+20000 through U+2A6DF. These include most of the characters used in the Kangxi Dictionary that are not in the basic CJK Unified Ideographs block, as well as many Hán-Nôm characters that were formerly used to write Vietnamese.
+20000-215FF,
+21600-230FF,
+23100-245FF,
+24600-260FF,
+26100-275FF,
+27600-290FF,
+29100-2A6DF.
+Note: Many characters appear in more than one source, making the sum of individual character counts (74,136) far more than the number of encoded characters (42,720).
+The block named CJK Unified Ideographs Extension C (2A700–2B73F) contains 4,153 characters in the range U+2A700 through U+2B738. It was initially added in Unicode 5.2 (2009).
+2A700-2B73F.
+Note: Some characters appear in more than one source, making the sum of individual character counts (4,565) more than the number of encoded characters (4,153).
+The block named CJK Unified Ideographs Extension D (2B740–2B81F) contains 222 characters in the range U+2B740 through U+2B81D that were added in Unicode 6.0 (2010).
+2B740–2B81F.
+Note: Some characters appear in more than one source, making the sum of individual character counts (229) more than the number of encoded characters (222).
+The block named CJK Unified Ideographs Extension E (2B820–2CEAF) contains 5,762 characters in the range U+2B820 through U+2CEA1 that were added in Unicode 8.0 (2015).
+2B820–2CEAF.
+Note: Some characters appear in more than one source, making the sum of individual character counts (5,819) more than the number of encoded characters (5,762).
+The block named CJK Unified Ideographs Extension F (2CEB0–2EBEF) contains 7,473 characters in the range U+2CEB0 through 2EBE0 that were added in Unicode 10.0 (2017). It includes more than 1,000 Sawndip characters for Zhuang.
+2CEB0–2EBEF.
+Note: Some characters appear in more than one source, making the sum of individual character counts (7,755) more than the number of encoded characters (7,473).
+A block named CJK Unified Ideographs Extension G was added as part of Unicode 13.0 to the Tertiary Ideographic Plane in the range U+30000 through U+3134F, containing 4,939 characters.
+30000–3134F.
+Note: Some characters appear in more than one source, making the sum of individual character counts (5,074) more than the number of encoded characters (4,939).
+The block named CJK Compatibility Ideographs (F900–FAFF) was created to retain round-trip compatibility with other standards.
+Only twelve of its characters have the "Unified Ideograph" property: U+FA0E, FA0F, FA11, FA13, FA14, FA1F, FA21, FA23, FA24, FA27, FA28 and FA29.
+None of the other characters in this and other "Compatibility" blocks relate to CJK Unification.
+F900–FAFF.
+Note: Some characters appear in more than one source, making the sum of individual character counts (24) more than the number of encoded Unified characters (12).
+The Ideographic Research Group (IRG) bears the formal responsibility of developing extensions to the encoded repertoires of unified CJK ideographs. The Unicode Consortium participates in this group as a liaison member of ISO. The characters submitted by the Unicode Technical Committee bear the prefix "UTC". All CJK Unified Ideographs in ISO/IEC 10646 are required to have at least one source identifier. Changes to IRG source information, however, can leave a given ideograph without any such sources. In such cases, the ideograph is included in the U-source database to guarantee it has at least one source. Such ideographs are indicated by a source prefix of "UCI" instead of "UTC". Later changes to IRG source information may restore non-UTC-source sources or provide new ones for such ideographs. In such cases, the ideograph retains the "UCI" prefix, but the encoded character loses its U-source reference in the Unihan database and ISO/IEC 10646.
+The majority of characters submitted by the UTC to the IRG are derived from Unicode Technical Committee (UTC) documents. Other sources include:
+ABC Chinese-English Dictionary by John DeFrancis
+The Adobe-CNS1 glyph collection
+The Adobe-Japan1 glyph collection
+A Complete Checklist of Species and Subspecies of Chinese Birds (中国鸟类系统检索)
+The Great Nom Dictionary (Đại Tự Điển Chữ Nôm)
+Annotations to Shuowen Jiezi (annotated by Duan Yucai)
+GB18030-2000
+Required Character List Supplied by The Church of Jesus Christ of Latter-day Saints (Hong Kong)
+New Commercial Dictionary (商务新词典), Hong Kong
+Modern Chinese Dictionary (现代汉语词典), by Chinese Academy of Social Sciences, Linguistics Research Institute, Dictionary Editorial Office
+Working Group (WG2) documents
+Wenlin (文林) http://www.wenlin.com/The character U+4039 (䀹) was a unification of two different characters (one with jiā 夾 phonetic and one with shǎn 㚒 phonetic) until Unicode 5.0. However, they were lexically different characters that should not have been unified; they have different pronunciations and different meanings.
+The proposal of disunification of U+4039 was accepted and the new character is encoded at U+9FC3 (鿃) in Unicode 5.1.
+In CJK Unified Ideographs Extension B, some characters are incorrectly unified with others. These characters include U+2017B (𠅻), U+204AF (𠒯) and U+24CB2 (𤲲). The first two characters contained a wrong unification of Chinese Mainland and Vietnamese source of their glyph, while the last one unifies the Chinese Mainland and Taiwanese ones.
+Also in CJK Unified Ideographs Extension B, hundreds of glyph variants were encoded. In addition to the deliberate encoding of close glyph variants, six exact duplicates (where the same character has inadvertently been encoded twice) and two semi-duplicates (where the CJK-B character represents a de facto disunification of two glyph forms unified in the corresponding BMP character) were encoded by mistake:
+U+34A8 㒨 = U+20457 𠑗 : U+20457 is the same as the China-source glyph for U+34A8, but it is significantly different from the Taiwan-source glyph for U+34A8
+U+3DB7 㶷 = U+2420E 𤈎 : same glyph shapes
+U+8641 虁 = U+27144 𧅄 : U+27144 is the same as the Korean-source glyph for U+8641, but it is significantly different from the Chinese Mainland-, Taiwan- and Japan-source glyphs for U+8641
+U+204F2 𠓲 = U+23515 𣔕 : same glyph shapes, but ordered under different radicals
+U+249BC 𤦼 = U+249E9 𤧩 : same glyph shapes
+U+24BD2 𤯒 = U+2A415 𪐕 : same glyph shapes, but ordered under different radicals
+U+26842 𦡂 = U+26866 𦡦 : same glyph shapes
+U+FA23 﨣 = U+27EAF 𧺯 : same glyph shapes (U+FA23 﨣 is a unified CJK ideograph, despite its name "CJK COMPATIBILITY IDEOGRAPH-FA23.")Apart from the eight blocks of "Unified Ideographs," Unicode has about a dozen more blocks with not-unified CJK-characters. These are mainly CJK radicals, strokes, punctuation, marks, symbols and compatibility characters. Although some characters have their (decomposable) counterparts in other blocks, the usages can be different. An example of a not-unified CJK-character is U+3007 〇 IDEOGRAPHIC NUMBER ZERO in the CJK Symbols and Punctuation block. Although it is not covered under "CJK Unified Ideographs", it is treated as a CJK-character for all other intents and purposes.
+Four blocks of compatibility characters are included for compatibility with legacy text handling systems and older character sets:
+CJK Compatibility (3300–33FF)
+CJK Compatibility Forms (FE30–FE4F)
+CJK Compatibility Ideographs (F900–FAFF)
+CJK Compatibility Ideographs Supplement (2F800–2FA1F)They include forms of characters for vertical text layout and rich text characters that Unicode recommends handling through other means. Therefore, their use is discouraged.
+Usually, compatibility characters are those that would not have been encoded except for compatibility and round-trip convertibility with other standards.  However, the amount of CJK ideographs within any non-Unicode standard is too big to fit into Unicode's CJK Compatibility Ideographs blocks.  Instead, code points are assigned when the affected characters are approved by the Unicode Consortium, but have yet to assign any code points within the CJK Unified Ideographs blocks.
+The blocks CJK Unified Ideographs and CJK Unified Ideographs Extension A, being parts of the Basic Multilingual Plane, are supported by the majority of the CJK fonts. However, Japanese and Korean fonts usually have fewer characters (about 13,000 and 8,000, respectively) than Chinese. Extensions B, C, D are supported by additional fonts MingLiU-ExtB, MingLiU_HKSCS-ExtB, PMingLiU-ExtB, SimSun-ExtB included in Microsoft Windows since Vista.
+Han Unification
+List of Unicode characters
+List of CJK fonts
+Ideographic Research Group
+Chinese cultural sphereUK-Source Ideographs (Documents IRG N2107R2 and IRG N2232R)

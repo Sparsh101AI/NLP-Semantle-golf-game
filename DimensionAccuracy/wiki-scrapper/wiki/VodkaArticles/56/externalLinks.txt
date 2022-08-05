@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Kom%C3%A1rom_County&params=47_45_N_18_8_E_
+//geohack.toolforge.org/geohack.php?pagename=Kom%C3%A1rom_County&params=47_45_N_18_8_E_
+http://kt.lib.pte.hu/cgi-bin/kt.cgi?konyvtar/kt06042201/0_0_3_pg_22.html
+http://kt.lib.pte.hu/cgi-bin/kt.cgi?konyvtar/kt06042201/0_0_3_pg_30.html
+https://en.wikipedia.org/w/index.php?title=Template:HUCountiesto1918&action=edit
+https://viaf.org/viaf/242561714
+https://www.worldcat.org/identities/viaf-242561714/
+https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ge1018629&CON_LNG=ENG

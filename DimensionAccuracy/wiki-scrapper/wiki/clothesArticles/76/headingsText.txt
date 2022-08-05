@@ -1,0 +1,20 @@
+Introduction
+Message format
+Message type indicator (MTI)
+ISO 8583 version
+Message class
+Message function
+Message origin
+Examples
+Bitmaps
+Examples
+Data elements
+Examples
+ISO-defined data elements (ver 1987)
+Processing code
+Response code
+Ver 1987
+Ver 1993
+Point of service entry modes
+See also
+References

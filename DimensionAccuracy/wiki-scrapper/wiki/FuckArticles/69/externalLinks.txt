@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Ibalon&params=12_50_N_123_51_E_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Ibalon&params=12_50_N_123_51_E_type:landmark
+https://en.wikipedia.org/w/index.php?title=Template:Pre-hispanic_History_of_the_Philippines&action=edit
+https://en.wikipedia.org/w/index.php?title=Ibalon&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Philippines-stub&action=edit

@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Ridgelands_Regional_Park&params=37_36_51.92_N_121_52_54.34_W_region:US
+http://www.ebparks.org/parks/pleasanton
+http://www.ebparks.org/
+http://www.ebparks.org/parks/pleasanton
+https://en.wikipedia.org/w/index.php?title=Template:East_Bay_Regional_Parks&action=edit
+https://en.wikipedia.org/w/index.php?title=Ridgelands_Regional_Park&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Protected-area-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Ridgelands_Regional_Park&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:AlamedaCountyCA-geo-stub&action=edit

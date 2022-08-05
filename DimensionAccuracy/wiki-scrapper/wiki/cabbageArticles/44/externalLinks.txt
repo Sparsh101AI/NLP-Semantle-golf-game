@@ -1,0 +1,10 @@
+https://commonchemistry.cas.org/detail?cas_rn=4747-99-3
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C1CNC%28C2%3DCC%28%3DC%28C%3DC21%29O%29O%29CC3%3DCC%28%3DC%28C%3DC3%29O%29O
+https://echa.europa.eu/substance-information/-/substanceinfo/100.158.898
+https://pubchem.ncbi.nlm.nih.gov/compound/18519
+https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=V1EWJ6B8KY
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID70963850
+https://books.google.com/books?id=6MNCDQAAQBAJ&pg=PT24
+https://ui.adsabs.harvard.edu/abs/1977Sci...196..554M
+https://doi.org/10.1126%2Fscience.557839
+//pubmed.ncbi.nlm.nih.gov/557839

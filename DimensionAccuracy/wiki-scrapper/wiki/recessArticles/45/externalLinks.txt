@@ -1,0 +1,13 @@
+http://tools.wmflabs.org/timescale/?Ma=3
+http://austhrutime.com/indo-australian_plate.htm
+https://doi.org/10.1080%2F08120099.2012.708360
+https://api.semanticscholar.org/CorpusID:128996831
+https://www.newscientist.com/article/mg21528843.500-earth-cracking-up-under-indian-ocean.html
+https://doi.org/10.1038%2Fnature11520
+//pubmed.ncbi.nlm.nih.gov/23023134
+https://api.semanticscholar.org/CorpusID:205230868
+http://phys.org/news/2012-09-sumatra-quake-crustal-plate-breakup.html
+http://www.columbia.edu/cu/pr/95/18688.html
+http://www.earth.northwestern.edu/public/emile/PDF/EAO147.pdf
+https://doi.org/10.1029%2FGD030p0243
+https://en.wikipedia.org/w/index.php?title=Template:Tectonic_plates&action=edit

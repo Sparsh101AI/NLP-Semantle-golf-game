@@ -1,0 +1,6 @@
+//arxiv.org/abs/hep-ph/0604027
+https://doi.org/10.1103%2FPhysRevD.74.035006
+https://api.semanticscholar.org/CorpusID:14340180
+//arxiv.org/abs/hep-ph/0609050v1
+http://www.scientificamerican.com/article.cfm?id=looking-for-life-in-the-multiverse
+https://en.wikipedia.org/w/index.php?title=Template:Fundamental_interactions&action=edit

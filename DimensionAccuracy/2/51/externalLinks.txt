@@ -1,0 +1,13 @@
+https://translate.google.com/translate?&u=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FIlonse&sl=fr&tl=en&prev=_t&hl=en
+https://deepl.com
+https://translate.google.com/
+//geohack.toolforge.org/geohack.php?pagename=Ilonse&params=44.0331_N_7.1003_E_type:city(162)_region:FR-PAC
+//geohack.toolforge.org/geohack.php?pagename=Ilonse&params=44.0331_N_7.1003_E_type:city(162)_region:FR-PAC
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-06072
+https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-06072
+https://en.wikipedia.org/w/index.php?title=Template:Alpes-Maritimes_communes&action=edit
+https://catalogue.bnf.fr/ark:/12148/cb156084018
+https://data.bnf.fr/ark:/12148/cb156084018
+https://en.wikipedia.org/w/index.php?title=Ilonse&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:AlpesMaritimes-geo-stub&action=edit

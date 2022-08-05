@@ -1,0 +1,13 @@
+Name
+History
+Components
+GNU as an operating system
+With kernels maintained by GNU and FSF
+GNU Hurd
+Linux-libre
+With non-GNU kernels
+Copyright, GNU licenses, and stewardship
+Logo
+See also
+References
+External links

@@ -1,0 +1,36 @@
+Advanced Life Support (ALS) is a set of life saving protocols and skills that extend basic life support to further support the circulation and provide an open airway and adequate ventilation (breathing).
+These include:
+Tracheal intubation
+Rapid sequence induction
+Cardiac monitoring
+Cardiac defibrillation not using an automated external defibrillator (AED)
+Transcutaneous pacing
+Ultrasonography
+Intravenous cannulation (IV)
+Intraosseous (IO) access and intraosseous infusion
+Surgical cricothyrotomy
+Needle cricothyrotomy
+Needle or finger thoracostomy of tension pneumothorax
+Pericardiocentesis
+Advanced medication administration through parenteral and enteral routes (IV, IO, PO, PR, ET, SL, topical, and transdermal)
+Advanced cardiac life support (ACLS)
+Pediatric Advanced Life Support (PALS) or Pediatric Education for Pre-Hospital Providers (PEPP)
+Pre-Hospital Trauma Life Support (PHTLS), Basic Trauma Life Support (BTLS) or International Trauma Life Support (ITLS)ALS assumes that basic life support (bag-mask administration of oxygen and chest compressions) are administered.
+The main algorithm of ALS, which is invoked when actual cardiac arrest has been established, relies on the monitoring of the electrical activity of the heart on a cardiac monitor. Depending on the type of cardiac arrhythmia, defibrillation is applied, and medication is administered. Oxygen is administered and endotracheal intubation may be attempted to secure the airway. At regular intervals, the effect of the treatment on the heart rhythm, as well as the presence of cardiac output, is assessed.
+Medication that may be administered may include adrenaline (epinephrine), amiodarone, atropine, bicarbonate, calcium, potassium and magnesium. Saline or colloids may be administered to increase the circulating volume.
+While CPR is given (either manually, or through automated equipment such as AutoPulse), members of the team consider eight forms of potentially reversible causes for cardiac arrest, commonly abbreviated as "6Hs & 5Ts" according to 2005/2010 AHA Advanced Cardiac Life Support (ACLS).  
+Note these reversible causes are usually taught and remembered as 4Hs and 4Ts—including hypoglycaemia and acidosis with hyper/hypokalaemia and 'metabolic causes' and omitting trauma from the T's as this is redundant with hypovolaemia—this simplification aids recall during resuscitation.
+'H'sHypoxia: low oxygen levels in the body's tissues
+Hypovolemia: low amount of circulating blood, either absolutely due to blood loss or relatively due to vasodilation
+Hyperkalemia or hypokalemia: disturbances in the level of potassium in the blood, and related disturbances of calcium or magnesium levels.
+Hypothermia/Hyperthermia: body temperature not maintained
+Hydrogen ions (Acidosis)
+Hypoglycemia: Low blood glucose levels'T'sTension pneumothorax: increased pressure in the thoracic cavity, leading to decreased venous return to the heart
+Tamponade: fluid or blood in the pericardium, compressing the heart
+Toxic and/or therapeutic: chemicals, whether medication or poisoning
+Thromboembolism and related mechanical obstruction (blockage of the blood vessels to the lungs or the heart by a blood clot or other material)As of December 2005, advanced cardiac life support guidelines have changed significantly. A major new worldwide consensus has been sought based upon the best available scientific evidence. The ratio of compressions to ventilations is now recommended as 30:2 for adults, to produce higher coronary and cerebral perfusion pressures. Defibrillation is now administered as a single shock, each followed immediately by two minutes of CPR before rhythm is re-assessed (five cycles of CPR).
+ALS also covers various conditions related to cardiac arrest, such as cardiac arrhythmias (atrial fibrillation, ventricular tachycardia), poisoning and effectively all conditions that may lead to cardiac arrest if untreated, apart from the truly surgical emergencies (which are covered by Advanced Trauma Life Support).
+Many healthcare providers are trained to administer some form of ALS.
+In out-of-hospital settings, trained paramedics and some specifically trained emergency medical technicians typically provide this level of care. Canadian paramedics may be certified in either ALS (Advanced Care Paramedic-ACP) or in basic life support (Primary Care Paramedic-PCP). Some Primary Care Paramedics are also trained in intravenous cannulation, and are referred to as PCP-IV (see paramedics in Canada). Emergency medical technicians (EMTs) are often skilled in ALS, although they may employ a slightly modified version of the medical algorithm. In the United States, Paramedic level services are referred to as advanced life Support (ALS). Services staffed by basic EMTs are referred to as basic life support (BLS).  Services staffed by advanced emergency medical technicians can be called limited advanced life support (LALS), Intermediate Life Support (ILS), or simply advanced life support (ALS), depending on the State. In the Republic of Ireland, advanced life support (ALS) is provided by an advanced paramedic. Advanced Paramedic (AP) is the highest clinical level (level 6) in pre-hospital care in the Republic of Ireland based on the standards set down by PHECC, the Irish regulatory body for pre-hospital care and ambulance services. This terminology extends beyond emergency cardiac care to describe all of the capabilities of the providers.
+In hospitals, ALS is usually given by a team of doctors and nurses, with some clinical paramedics practicing in certain systems. Cardiac arrest teams, or "Code Teams" in the US, generally include doctors and senior nurses from various specialties such as emergency medicine, anesthetics, general or internal medicine.
+Adult advanced life support on UK Resuscitation Council website

@@ -1,0 +1,5 @@
+http://oceanservice.noaa.gov/facts/perigean-spring-tide.html
+https://co-ops.nos.noaa.gov/faq2.html#15
+https://www.gpo.gov/fdsys/pkg/CZIC-gc356-a1-w66-1978/xml/CZIC-gc356-a1-w66-1978.xml
+http://www.fourmilab.ch/earthview/pacalc.html
+https://en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&action=edit

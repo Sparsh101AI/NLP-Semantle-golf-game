@@ -1,0 +1,8 @@
+A powerpack or power pack is a part of a modular powertrain that contains some type of engine (most frequently an internal combustion engine, ⁣⁣ but other types, including electric motors, are possible) and may also contain a transmission and various supporting components.
+Power packs are used with certain types of industrial equipment designs, including vehicle designs such as self-propelled modular transporter, hydraulic modular trailer, forklifts and cherry picker lifts, but also stationary equipment such as paint sprayers. Virtually all modern military tanks use them, an early example being the M26 Pershing and Chieftain, and many other military vehicles as well.
+The modularity is what makes a powerpack powertrain different from other types; using the term powerpack implies that the whole unit can be easily removed or separated from the rest of the machine, allowing it to be rapidly replaced by another powerpack while the original is repaired or disposed of, and minimizing the amount of time that the entire machine is out of use. Even in cases where the powerpack is not being replaced, being able to remove it can make repairs easier and faster.
+Prime mover
+Power-egg
+Power module
+Hydraulic modular trailer
+Self-propelled modular transporter

@@ -1,0 +1,304 @@
+In the mathematical field of functional analysis, Banach spaces are among the most important objects of study.  In other areas of mathematical analysis, most spaces which arise in practice turn out to be Banach spaces as well.
+According to Diestel (1984, Chapter VII), the classical Banach spaces are those defined by Dunford & Schwartz (1958), which is the source for the following table.
+Glossary of symbols for the table below:
+
+
+
+
+
+F
+
+
+
+{\displaystyle \mathbb {F} }
+
+ denotes the field of real numbers 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ or complex numbers 
+
+
+
+
+C
+
+.
+
+
+{\displaystyle \mathbb {C} .}
+
+
+
+
+
+
+K
+
+
+{\displaystyle K}
+
+ is a compact Hausdorff space.
+
+
+
+
+p
+,
+q
+∈
+
+R
+
+
+
+{\displaystyle p,q\in \mathbb {R} }
+
+ are real numbers with 
+
+
+
+1
+<
+p
+,
+q
+<
+∞
+
+
+{\displaystyle 1<p,q<\infty }
+
+ that are Hölder conjugates, meaning that they satisfy 
+
+
+
+
+
+1
+q
+
+
++
+
+
+1
+p
+
+
+=
+1
+
+
+{\displaystyle {\frac {1}{q}}+{\frac {1}{p}}=1}
+
+ and thus also 
+
+
+
+q
+=
+
+
+p
+
+p
+−
+1
+
+
+
+.
+
+
+{\displaystyle q={\frac {p}{p-1}}.}
+
+
+
+
+
+
+Σ
+
+
+{\displaystyle \Sigma }
+
+ is a 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+-algebra of sets.
+
+
+
+
+Ξ
+
+
+{\displaystyle \Xi }
+
+ is an algebra of sets (for spaces only requiring finite additivity, such as the ba space).
+
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+ is a measure with variation 
+
+
+
+
+|
+
+μ
+
+|
+
+.
+
+
+{\displaystyle |\mu |.}
+
+ A positive measure is a real-valued positive set function defined on a 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+-algebra which is countably additive.The Asplund spaces
+The Hardy spaces
+The space 
+
+
+
+BMO
+
+
+{\displaystyle \operatorname {BMO} }
+
+ of functions of bounded mean oscillation
+The space of functions of bounded variation
+Sobolev spaces
+The Birnbaum–Orlicz spaces 
+
+
+
+
+L
+
+A
+
+
+(
+μ
+)
+.
+
+
+{\displaystyle L^{A}(\mu ).}
+
+
+Hölder spaces 
+
+
+
+
+C
+
+k
+
+
+(
+Ω
+)
+.
+
+
+{\displaystyle C^{k}(\Omega ).}
+
+
+Lorentz spaceJames' space, a Banach space that has a Schauder basis, but has no unconditional Schauder Basis. Also, James' space is isometrically isomorphic to its double dual, but fails to be reflexive.
+Tsirelson space, a reflexive Banach space in which neither 
+
+
+
+
+ℓ
+
+p
+
+
+
+
+{\displaystyle \ell ^{p}}
+
+ nor 
+
+
+
+
+c
+
+0
+
+
+
+
+{\displaystyle c_{0}}
+
+ can be embedded.
+W.T. Gowers construction of a space 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that is isomorphic to 
+
+
+
+X
+⊕
+X
+⊕
+X
+
+
+{\displaystyle X\oplus X\oplus X}
+
+ but not 
+
+
+
+X
+⊕
+X
+
+
+{\displaystyle X\oplus X}
+
+ serves as a counterexample for weakening the premises of the Schroeder–Bernstein theoremList of topologies – List of concrete topologies and topological spaces
+Minkowski distanceDiestel, Joseph (1984), Sequences and series in Banach spaces, Springer-Verlag, ISBN 0-387-90859-5.
+Dunford, N.; Schwartz, J.T. (1958), Linear operators, Part I, Wiley-Interscience.

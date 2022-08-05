@@ -1,0 +1,2 @@
+ISO 2711 is an ISO standard describing formats for ordinal dates. The ISO is an international standard-setting body composed of representatives from various national standards organizations. ISO 2711 was issued in 1973, and was superseded by ISO 8601 in June 1988.
+

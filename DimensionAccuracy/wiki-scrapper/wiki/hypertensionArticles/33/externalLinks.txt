@@ -1,0 +1,15 @@
+https://commonchemistry.cas.org/detail?cas_rn=211448-85-0
+https://pubchem.ncbi.nlm.nih.gov/compound/9875516
+https://www.chemspider.com/Chemical-Structure.8051201.html
+https://precision.fda.gov/uniisearch/srs/unii/5PC250KSSH
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL1767407
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C1%5BC%40%40H%5D%28%5BC%40H%5D%28O%5BC%40H%5D1N2C%3DCC%28%3DNC2%3DO%29N%29COP%28%3DO%29%28O%29OP%28%3DO%29%28O%29OP%28%3DO%29%28O%29OP%28%3DO%29%28O%29OC%5BC%40%40H%5D3%5BC%40H%5D%28%5BC%40H%5D%28%5BC%40%40H%5D%28O3%29N4C%3DCC%28%3DO%29NC4%3DO%29O%29O%29O
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=451607985&page2=Denufosol
+https://doi.org/10.1164%2Frccm.201008-1267OC
+//pubmed.ncbi.nlm.nih.gov/21169471
+https://web.archive.org/web/20120322062148/http://ir.inspirepharm.com/phoenix.zhtml?c=120779&p=RssLanding&cat=news&id=1511789
+http://ir.inspirepharm.com/phoenix.zhtml?c=120779&p=RssLanding&cat=news&id=1511789
+https://www.clinicaltrials.gov/show/NCT00083967
+https://doi.org/10.1016%2Fj.pupt.2007.12.003
+//pubmed.ncbi.nlm.nih.gov/18276176
+https://en.wikipedia.org/w/index.php?title=Template:Purine_receptor_modulators&action=edit

@@ -1,0 +1,334 @@
+In Euclidean geometry, an ex-tangential quadrilateral is a convex quadrilateral where the extensions of all four sides are tangent to a circle outside the quadrilateral. It has also been called an exscriptible quadrilateral. The circle is called its excircle, its radius the exradius and its center the excenter (E in the figure). The excenter lies at the intersection of six angle bisectors. These are the internal angle bisectors at two opposite vertex angles, the external angle bisectors (supplementary angle bisectors) at the other two vertex angles, and the external angle bisectors at the angles formed where the extensions of opposite sides intersect (see the figure to the right, where four of these six are dotted line segments). The ex-tangential quadrilateral is closely related to the tangential quadrilateral (where the four sides are tangent to a circle).
+Another name for an excircle is an escribed circle, but that name has also been used for a circle tangent to one side of a convex quadrilateral and the extensions of the adjacent two sides. In that context all convex quadrilaterals have four escribed circles, but they can at most have one excircle.
+Kites are examples of ex-tangential quadrilaterals. Parallelograms (which include squares, rhombi, and rectangles) can be considered ex-tangential quadrilaterals with infinite exradius since they satisfy the characterizations in the next section, but the excircle cannot be tangent to both pairs of extensions of opposite sides (since they are parallel). Convex quadrilaterals whose side lengths form an arithmetic progression are always ex-tangential as they satisfy the characterization below for adjacent side lengths.
+A convex quadrilateral is ex-tangential if and only if there are six concurrent angles bisectors. These are the internal angle bisectors at two opposite vertex angles, the external angle bisectors at the other two vertex
+angles, and the external angle bisectors at the angles formed where the extensions of opposite sides intersect.
+For the purpose of calculation, a more useful characterization is that a convex quadrilateral with successive sides a, b, c, d is ex-tangential if and only if the sum of two adjacent sides is equal to the sum of the other two sides. This is possible in two different ways—either as
+
+
+
+
+a
++
+b
+=
+c
++
+d
+
+
+{\displaystyle a+b=c+d}
+
+or
+
+
+
+
+a
++
+d
+=
+b
++
+c
+.
+
+
+{\displaystyle a+d=b+c.}
+
+This was proved by Jakob Steiner in 1846. In the first case, the excircle is outside the biggest of the vertices A or C, whereas in the second case it is outside the biggest of the vertices B or D, provided that the sides of the quadrilateral ABCD are a = AB, b = BC, c = CD, and d = DA. A way of combining these characterizations regarding the sides is that the absolute values of the differences between opposite sides are equal for the two pairs of opposite sides,
+
+
+
+
+
+|
+
+a
+−
+c
+
+|
+
+=
+
+|
+
+b
+−
+d
+
+|
+
+.
+
+
+{\displaystyle |a-c|=|b-d|.}
+
+These equations are closely related to the Pitot theorem for tangential quadrilaterals, where the sums of opposite sides are equal for the two pairs of opposite sides.
+If opposite sides in a convex quadrilateral ABCD intersect at E and F, then
+
+
+
+
+A
+B
++
+B
+C
+=
+A
+D
++
+D
+C
+
+⇔
+
+A
+E
++
+E
+C
+=
+A
+F
++
+F
+C
+.
+
+
+{\displaystyle AB+BC=AD+DC\quad \Leftrightarrow \quad AE+EC=AF+FC.}
+
+The implication to the right is named after L. M. Urquhart (1902–1966) although it was proved long before by Augustus De Morgan in 1841. Daniel Pedoe named it the most elementary theorem in Euclidean geometry since it only concerns straight lines and distances.  That there in fact is an equivalence was proved by Mowaffac Hajja, which makes the equality to the right another necessary and sufficient condition for a quadrilateral to be ex-tangential.
+A few of the metric characterizations of tangential quadrilaterals (the left column in the table) have very similar counterparts for ex-tangential quadrilaterals (the middle and right column in the table), as can be seen in the table below. Thus a convex quadrilateral has an incircle or an excircle outside the appropriate vertex (depending on the column) if and only if any one of the five necessary and sufficient conditions below is satisfied.
+The notations in this table are as follows: In a convex quadrilateral ABCD, the diagonals intersect at P. R1, R2, R3, R4 are the circumradii in triangles ABP, BCP, CDP, DAP; h1, h2, h3, h4 are the altitudes from P to the sides a = AB, b = BC, c = CD, d = DA respectively in the same four triangles; e, f, g, h are the distances from the vertices A, B, C, D respectively to P; x, y, z, w are the angles ABD, ADB, BDC, DBC respectively; and Ra, Rb, Rc, Rd are the radii in the circles externally tangent to the sides a, b, c, d respectively and the extensions of the adjacent two sides for each side.
+An ex-tangential quadrilateral ABCD with sides a, b, c, d has area
+
+
+
+
+
+K
+=
+
+
+a
+b
+c
+d
+
+
+sin
+⁡
+
+
+
+B
++
+D
+
+2
+
+
+.
+
+
+
+{\displaystyle \displaystyle K={\sqrt {abcd}}\sin {\frac {B+D}{2}}.}
+
+Note that this is the same formula as the one for the area of a tangential quadrilateral and it is also derived from Bretschneider's formula in the same way.
+The exradius for an ex-tangential quadrilateral with consecutive sides a, b, c, d is given by
+
+
+
+
+r
+=
+
+
+K
+
+
+|
+
+a
+−
+c
+
+|
+
+
+
+
+=
+
+
+K
+
+
+|
+
+b
+−
+d
+
+|
+
+
+
+
+
+
+{\displaystyle r={\frac {K}{|a-c|}}={\frac {K}{|b-d|}}}
+
+where K is the area of the quadrilateral. For an ex-tangential quadrilateral with given sides, the exradius is maximum when the quadrilateral is also cyclic (and hence an ex-bicentric quadrilateral). These formulas explain why all parallelograms have infinite exradius.
+If an ex-tangential quadrilateral also has a circumcircle, it is called an ex-bicentric quadrilateral. Then, since it has two opposite supplementary angles, its area is given by
+
+
+
+
+
+K
+=
+
+
+a
+b
+c
+d
+
+
+
+
+
+{\displaystyle \displaystyle K={\sqrt {abcd}}}
+
+which is the same as for a bicentric quadrilateral.
+If x is the distance between the circumcenter and the excenter, then
+
+
+
+
+
+
+1
+
+(
+R
+−
+x
+
+)
+
+2
+
+
+
+
+
++
+
+
+1
+
+(
+R
++
+x
+
+)
+
+2
+
+
+
+
+
+=
+
+
+1
+
+r
+
+2
+
+
+
+
+,
+
+
+{\displaystyle {\frac {1}{(R-x)^{2}}}+{\frac {1}{(R+x)^{2}}}={\frac {1}{r^{2}}},}
+
+where R and r are the circumradius and exradius respectively. This is the same equation as Fuss's theorem for a bicentric quadrilateral. But when solving for x, we must choose the other root of the quadratic equation for the ex-bicentric quadrilateral compared to the bicentric. Hence, for the ex-bicentric we have
+
+
+
+
+x
+=
+
+
+
+R
+
+2
+
+
++
+
+r
+
+2
+
+
++
+r
+
+
+4
+
+R
+
+2
+
+
++
+
+r
+
+2
+
+
+
+
+
+
+.
+
+
+{\displaystyle x={\sqrt {R^{2}+r^{2}+r{\sqrt {4R^{2}+r^{2}}}}}.}
+
+From this formula it follows that
+
+
+
+
+
+x
+>
+R
++
+r
+,
+
+
+
+{\displaystyle \displaystyle x>R+r,}
+
+which means that the circumcircle and excircle can never intersect each other.
+Complete quadrangle
+Cyclic quadrilateral

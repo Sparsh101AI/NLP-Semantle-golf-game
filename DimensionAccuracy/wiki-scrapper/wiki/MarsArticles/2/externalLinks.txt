@@ -1,0 +1,9 @@
+//geohack.toolforge.org/geohack.php?pagename=Tyrrhenus_Mons&params=21.36_S_253.47_W_globe:mars_type:landmark
+//geohack.toolforge.org/geohack.php?pagename=Tyrrhenus_Mons&params=21.36_S_253.47_W_globe:mars_type:landmark
+http://planetarynames.wr.usgs.gov/Feature/14310
+http://themis.asu.edu/node/5427
+http://planetarynames.wr.usgs.gov/Feature/6174
+https://books.google.com/books?id=uLHlJ6sjohwC
+https://en.wikipedia.org/w/index.php?title=Template:Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Tyrrhenus_Mons&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Mars-stub&action=edit

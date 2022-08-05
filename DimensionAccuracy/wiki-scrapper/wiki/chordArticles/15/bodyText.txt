@@ -1,0 +1,137 @@
+The Schauder fixed-point theorem is an extension of the Brouwer fixed-point theorem to topological vector spaces, which may be of infinite dimension. It asserts that if 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ is a nonempty convex closed subset of a Hausdorff topological vector space 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ and 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is a continuous mapping of 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ into itself such that 
+
+
+
+T
+(
+K
+)
+
+
+{\displaystyle T(K)}
+
+ is contained in a compact subset of 
+
+
+
+K
+
+
+{\displaystyle K}
+
+, then 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ has a fixed point.
+A consequence, called Schaefer's fixed-point theorem, is particularly useful for proving existence of solutions to nonlinear partial differential equations.
+Schaefer's theorem is in fact a special case of the far reaching Leray–Schauder theorem which was proved earlier by  Juliusz Schauder and Jean Leray.
+The statement is as follows:
+Let 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ be a continuous and compact mapping of a Banach space 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ into itself, such that the set
+
+
+
+
+{
+x
+∈
+X
+:
+x
+=
+λ
+T
+x
+
+
+ for some 
+
+
+0
+≤
+λ
+≤
+1
+}
+
+
+{\displaystyle \{x\in X:x=\lambda Tx{\mbox{ for some }}0\leq \lambda \leq 1\}}
+
+is bounded.  Then 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ has a fixed point.
+The theorem was conjectured and proven for special cases, such as Banach spaces, by Juliusz Schauder in 1930. His conjecture for the general case was published in the Scottish book. In 1934, Tychonoff proved the theorem for the case when K is a compact convex subset of a locally convex space. This version is known as the Schauder–Tychonoff fixed-point theorem. B. V. Singbal proved the theorem for the more general case where K may be non-compact; the proof can be found in the appendix of Bonsall's book (see references).
+Fixed-point theorems
+Banach fixed-point theorem
+Kakutani fixed-point theoremJ. Schauder, Der Fixpunktsatz in Funktionalräumen, Studia Math. 2 (1930), 171–180
+A. Tychonoff, Ein Fixpunktsatz, Mathematische Annalen 111 (1935), 767–776
+F. F. Bonsall, Lectures on some fixed point theorems of functional analysis, Bombay 1962
+D. Gilbarg, N. Trudinger, Elliptic Partial Differential Equations of Second Order. ISBN 3-540-41160-7.
+E. Zeidler, Nonlinear Functional Analysis and its Applications, I - Fixed-Point Theorems"Schauder theorem", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+"Schauder fixed point theorem". PlanetMath. with attached proof (for the Banach space case).

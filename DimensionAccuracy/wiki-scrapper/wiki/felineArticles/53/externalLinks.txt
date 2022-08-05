@@ -1,0 +1,14 @@
+https://ui.adsabs.harvard.edu/abs/2006PNAS..103.4157C
+https://doi.org/10.1073%2Fpnas.0510541103
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC1449663
+//pubmed.ncbi.nlm.nih.gov/16537501
+https://ui.adsabs.harvard.edu/abs/2005Sci...309.1239C
+//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.327.7340
+https://doi.org/10.1126%2Fscience.1116030
+//pubmed.ncbi.nlm.nih.gov/16037416
+https://api.semanticscholar.org/CorpusID:378183
+https://doi.org/10.1111%2Fj.1365-2699.2006.01639.x
+https://api.semanticscholar.org/CorpusID:84254399
+https://en.wikipedia.org/w/index.php?title=Template:Extinction&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Threatened_species&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Conservation_of_species&action=edit

@@ -1,0 +1,10 @@
+ISO 965 (ISO general purpose metric screw thread—tolerances) is an International Organization for Standardization (ISO) standard for metric screw thread tolerances. It specifies the basic profile for ISO general purpose metric screw threads (M) conforming to ISO 261.
+The tolerance system refers to the basic profile in accordance with ISO 68-1. The field of application and purpose of ISO 965 can be defined as "ISO 965 specifies a tolerance system for screw threads from 1mm diameter upwards.
+Limits for standard metric coarse threads according to ISO 965.
+Limits for metric fine threads according to ISO 965:
+The standard consists of the following parts:
+ISO 965-1 Principles and basic data
+ISO 965-2 Limits of sizes for general purpose external and internal screw threads – Medium quality
+ISO 965-3 Deviations for constructional screw threads
+ISO 965-4 Limits of sizes for hot-dip galvanized external screw threads to mate with internal screw threads tapped with tolerance position H or G after galvanizing
+ISO 965-5 Limits of sizes for internal screw threads to mate with hot-dip galvanized external screw threads with maximum size of tolerance position h before galvanizing

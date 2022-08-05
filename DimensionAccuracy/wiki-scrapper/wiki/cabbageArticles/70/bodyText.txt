@@ -1,0 +1,22 @@
+Pimozide (sold under the brand name Orap) is an antipsychotic drug of the diphenylbutylpiperidine class. It was discovered at Janssen Pharmaceutica in 1963. It has a high potency compared to chlorpromazine (ratio 50-70:1). On a weight basis it is even more potent than haloperidol. It also has special neurologic indications for Tourette syndrome and resistant tics. The side effects include akathisia, tardive dyskinesia, and, more rarely, neuroleptic malignant syndrome and prolongation of the QT interval.
+Pimozide is used in its oral preparation in schizophrenia and chronic psychosis (on-label indications in Europe only), Tourette syndrome, and resistant tics (Europe, United States and Canada).
+There have been numerous studies showing Pimozide can be used successfully to treat Delusional parasitosis and traditionally was the drug of choice. However, newer medications have become prevalent recently as the preferred medication. In one case a series of 33 patients with delusional parasitosis (median age, 60 years), pimozide was prescribed for 24 patients, 18 of whom took the drug. The dose ranged from 1 to 5 mg daily. No information regarding initial dosing was specified, although the dose was continued for 6 weeks prior to tapering. Of those patients receiving pimozide, 61% (11/18) experienced improvement in or full remission of symptoms. The use of pimozide for the treatment of delusional parasitosis is based primarily on data from case series/reports that demonstrate some efficacy in the majority of patients. Currently, atypical antipsychotics such as olanzapine or risperidone are used as first line treatment. However, patients who experience negative side-effects with the first line medications are typically given pimozide.
+Pimozide has been used in the treatment of delusional disorder and paranoid personality disorder.
+A 2013 systematic review compared pimozide with other antipsychotics for schizophrenia or related psychoses:
+It is contraindicated in individuals with either acquired, congenital or a family history of QT interval prolongation. Its use is advised against in individuals with people with either a personal or a family history of arrhythmias or torsades de pointes. Likewise its use is also advised against in individuals with uncorrected hypokalaemia and hypomagnesaemia or clinical significant cardiac disorders (e.g. a recent myocardial infarction or bradycardia. It is also contraindicated in individuals being cotreated with SSRIs or in those with a known hypersensitivity to pimozide or other diphenylbutyl-piperidine derivatives. Likewise its use is contraindicated in individuals receiving treatment with CYP3A4, CYP1A2, or CYP2D6 inhibitors.
+Very common (>10% frequency) side effects include:
+Akinesia
+Constipation
+Dizziness
+Dry mouth
+Hyperhidrosis
+Nocturia
+Somnolence
+Speech disorderPimozide overdose presents with severe extrapyramidal symptoms, hypotension, sedation, QT interval prolongation and ventricular arrhythmias including torsades de pointes. Gastric lavage, establishment of a patent airway and, if necessary, mechanically assisted respiration is the recommended treatment for pimozide overdose. Cardiac monitoring should be continued for at least 4 days due to the long half-life of pimozide.
+Pimozide acts as an antagonist of the D2, D3, and D4 receptors and the 5-HT7 receptor. It is also a hERG blocker.
+Similarly to other typical antipsychotics pimozide has a high affinity for the Dopamine D2 receptor and this likely results in its sexual (due to prolactin hypersecretion) and extrapyramidal side effects as well as its therapeutic efficacy against the positive symptoms of schizophrenia.
+In 1985 the pimozide was approved by the FDA for marketing as an orphan drug for the treatment of Tourette's syndrome.
+Amisulpride
+Pipamperone
+Fluspirilene
+Penfluridol

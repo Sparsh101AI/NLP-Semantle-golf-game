@@ -1,0 +1,5 @@
+//geohack.toolforge.org/geohack.php?pagename=Muchuan_County&params=28_57_24_N_103_54_08_E_region:CN-51_type:adm3rd_source:kolossus-dewiki
+http://data.cma.cn/data/weatherBk.html
+https://en.wikipedia.org/w/index.php?title=Template:Sichuan&action=edit
+https://en.wikipedia.org/w/index.php?title=Muchuan_County&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Sichuan-geo-stub&action=edit

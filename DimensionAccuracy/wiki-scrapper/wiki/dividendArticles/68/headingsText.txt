@@ -1,0 +1,21 @@
+History
+Formal statement
+Proof
+Implications
+Cauchy's mean value theorem
+Proof of Cauchy's mean value theorem
+Generalization for determinants
+Mean value theorem in several variables
+Mean value theorem for vector-valued functions
+Cases where theorem cannot be applied (Necessity of conditions)
+Mean value theorems for definite integrals
+First mean value theorem for definite integrals
+Proof that there is some c in [a, b]
+Second mean value theorem for definite integrals
+Mean value theorem for integration fails for vector-valued functions
+A probabilistic analogue of the mean value theorem
+Mean value theorem in complex variables
+See also
+Notes
+References
+External links

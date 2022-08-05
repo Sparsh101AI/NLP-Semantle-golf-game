@@ -1,0 +1,9 @@
+https://geohack.toolforge.org/geohack.php?pagename=Hume,_Scottish_Borders&params=55.66791579844_N_2.4673587365017_W_region:GB
+//geohack.toolforge.org/geohack.php?pagename=Hume,_Scottish_Borders&params=55_40_N_2_28_W_region:GB_type:city_source:GNS-enwiki
+//geohack.toolforge.org/geohack.php?pagename=Hume,_Scottish_Borders&params=55_40_N_2_28_W_region:GB_type:city_source:GNS-enwiki
+http://www.scran.ac.uk/database/record.php?usi=000-000-501-255-C&scache=1wif26m5km&searchdb=scran
+http://www.scran.ac.uk/database/record.php?usi=000-000-593-052-C&scache=1wif26m5km&searchdb=scran
+http://www.streetmap.co.uk/place/Hume_Craigs_in_Scottish_Borders_481611_752611.htm
+https://www.geograph.org.uk/photo/698169
+http://www.visionofbritain.org.uk/place/place_page.jsp?p_id=16597
+https://en.wikipedia.org/w/index.php?title=Template:Berwickshire_towns_and_villages&action=edit

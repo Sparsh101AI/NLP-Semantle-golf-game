@@ -1,0 +1,25 @@
+In machine learning, pattern recognition, and image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.
+When the input data to an algorithm is too large to be processed and it is suspected to be redundant (e.g. the same measurement in both feet and meters, or the repetitiveness of images presented as pixels), then it can be transformed into a reduced set of features (also named a feature vector). Determining a subset of the initial features is called feature selection. The selected features are expected to contain the relevant information from the input data, so that the desired task can be performed by using this reduced representation instead of the complete initial data.
+Feature extraction involves reducing the number of resources required to describe a large set of data. When performing analysis of complex data one of the major problems stems from the number of variables involved. Analysis with a large number of variables generally requires a large amount of memory and computation power, also it may cause a classification algorithm to overfit to training samples and generalize poorly to new samples. Feature extraction is a general term for methods of constructing combinations of the variables to get around these problems while still describing the data with sufficient accuracy.  Many machine learning practitioners believe that properly optimized feature extraction is the key to effective model construction.
+Results can be improved using constructed sets of application-dependent features, typically built by an expert. One such process is called feature engineering. Alternatively, general dimensionality reduction techniques are used such as:
+Independent component analysis
+Isomap
+Kernel PCA
+Latent semantic analysis
+Partial least squares
+Principal component analysis
+Multifactor dimensionality reduction
+Nonlinear dimensionality reduction
+Semidefinite embedding
+AutoencoderOne very important area of application is image processing, in which algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition.
+Many data analysis software packages provide for feature extraction and dimension reduction. Common numerical programming environments such as MATLAB, SciLab, NumPy, Sklearn and the R language provide some of the simpler feature extraction techniques (e.g. principal component analysis) via built-in commands. More specific algorithms are often available as publicly available scripts or third-party add-ons.  There are also software packages targeting specific software machine learning applications that specialize in feature extraction.
+Cluster analysis
+Dimensionality reduction
+Feature detection
+Feature selection
+Data mining
+Connected-component labeling
+Segmentation (image processing)
+Space mapping
+Dynamic texture
+RadiomicsRustum, Rabee, Adebayo Adeloye, and Aurore Simala. "Kohonen self-organising map (KSOM) extracted features for enhancing MLP-ANN prediction models of BOD5." In International Symposium: Quantification and Reduction of Predictive Uncertainty for Sustainable Water Resources Management-24th General Assembly of the International Union of Geodesy and Geophysics (IUGG), pp. 181-187. 2007.

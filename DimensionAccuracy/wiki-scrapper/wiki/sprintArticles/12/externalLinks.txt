@@ -1,0 +1,8 @@
+http://www.microrregiones.gob.mx/catloc/LocdeMun.aspx?tipo=clave&campo=loc&ent=08&mun=003
+http://sic.conaculta.gob.mx/documentos/705.pdf
+https://viaf.org/viaf/124782853
+https://www.worldcat.org/identities/containsVIAFID/124782853
+https://id.loc.gov/authorities/names/nr98018553
+//geohack.toolforge.org/geohack.php?pagename=Valle_de_Allende&params=26_56_N_105_24_W_region:MX_type:city_source:GNS-enwiki
+https://en.wikipedia.org/w/index.php?title=Valle_de_Allende&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Chihuahua-geo-stub&action=edit

@@ -1,0 +1,54 @@
+This article is a technical mathematical article in the area of predicate logic.  For the ordinary English language meaning see Sentence (linguistics), for a less technical introductory article see Statement (logic).In mathematical logic, a sentence (or closed formula) of a predicate logic is a Boolean-valued well-formed formula with no free variables. A sentence can be viewed as expressing a proposition, something that must be true or false.  The restriction of having no free variables is needed to make sure that sentences can have concrete, fixed truth values: As the free variables of a (general) formula can range over several values, the truth value of such a formula may vary.
+Sentences without any logical connectives or quantifiers in them are known as atomic sentences; by analogy to atomic formula. Sentences are then built up out of atomic formulas by applying connectives and quantifiers.
+A set of sentences is called a theory; thus, individual sentences may be called theorems. To properly evaluate the truth (or falsehood) of a sentence, one must make reference to an interpretation of the theory. For first-order theories, interpretations are commonly called structures. Given a structure or interpretation, a sentence will have a fixed truth value. A theory is satisfiable when it is possible to present an interpretation in which all of its sentences are true. The study of algorithms to automatically discover interpretations of theories that render all sentences as being true is known as the satisfiability modulo theories problem.
+The following example in first-order logic
+
+
+
+
+∀
+y
+∃
+x
+(
+
+x
+
+2
+
+
+=
+y
+)
+
+
+{\displaystyle \forall y\exists x(x^{2}=y)}
+
+is a sentence. This sentence is true in the positive real numbers ℝ, false in the real numbers ℝ, and true in the complex numbers ℂ. (In plain English, this sentence is interpreted to mean that every member of the structure concerned is the square of a member of that particular structure.) On the other hand, the formula
+
+
+
+
+∃
+x
+(
+
+x
+
+2
+
+
+=
+y
+)
+
+
+{\displaystyle \exists x(x^{2}=y)}
+
+is not a sentence, because of the presence of the free variable y. In the structure of the real numbers, this formula is true if we substitute (arbitrarily) y = 2, but is false if y = –2.
+It is the presence of a free variable, rather than the inconstant truth value, that is important; for example, even in the structure of the complex numbers, where the statement is always true, it is still not considered a sentence. Such a formula may be called a predicate instead.
+Ground expression
+Open formula
+Statement (logic)
+PropositionHinman, P. (2005). Fundamentals of Mathematical Logic. A K Peters. ISBN 1-56881-262-0.
+Rautenberg, Wolfgang (2010), A Concise Introduction to Mathematical Logic (3rd ed.), New York: Springer Science+Business Media, doi:10.1007/978-1-4419-1221-3, ISBN 978-1-4419-1220-6.

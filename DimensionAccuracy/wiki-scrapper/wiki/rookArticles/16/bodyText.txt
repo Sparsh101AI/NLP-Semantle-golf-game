@@ -1,0 +1,61 @@
+Long Range Reconnaissance Imager (LORRI) is a telescope aboard the New Horizons spacecraft for imaging. LORRI has been used to image Jupiter, its moons, Pluto and its moons, and Arrokoth since its launch in 2006. LORRI is a reflecting telescope of Ritchey-Chrétien design, and it has a main mirror diameter of 208 mm (8.2 inches) across. LORRI has a narrow field of view, less than a third of a degree. Images are taken with a CCD capturing data with 1024 × 1024 pixels. LORRI is a telescopic panchromatic camera integrated with the New Horizons spacecraft, and it is one of seven major science instruments on the probe. LORRI does not have any moving parts and is pointed by moving the entire New Horizons spacecraft.
+LORRI was used to calculate albedos for Pluto and Charon. LORRI is also used for navigation, especially to more precisely determine the location of a flyby target. In 2018, New Horizons spacecraft used navigation data from LORRI for its planned flyby of Arrokoth in a couple months.
+During the cruise to Jupiter, LORRI data was also used to determine a value for the cosmic optical background as an alternative to other methods. At Jupiter, LORRI was used for an extensive observation campaign of Jupiter's atmosphere, rings, and moons.
+On Aug. 29, 2006, the cover on LORRI was opened and it took an image in space of Messier 7 (aka Ptolemy’s Cluster) for its first light image. The following year, in 2007 when it flew by Jupiter for its gravity assist, it was used to image Jupiter and its moons. LORRI also imaged the Jovian system in 2010 as part of an annual checkout confirming the operation of LORRI, taking pictures from a distance of about 16 AU.
+In 2015, LORRI was used to image Pluto before and during the flyby.
+In December 2017,  LORRI took an image at a greater distance from Earth than Pale Blue Dot by Voyager 1, in this case of the Wishing Well Cluster.  This cluster was also the first light image for the Wide Field and Planetary Camera of the Hubble Space Telescope, taken in May 1990.
+In August 2018, LORRI was able to detect Arrokoth at distance of around 161 million kilometres (100 million miles).
+A large stack of images of Arrokoth from August to December 2018 was used to confirm a closer flyby, rather than more distant by ruling out moons and rings systems to a certain level of detection.
+On the night of December 24, 2018 LORRI was used to take images of Arrokoth at a distance of 10 million kilometres (6.2 million miles). Three images were taken each with a half second long exposure, at a 1024x1024 pixel resolution.
+LORRI is a reflective telescope integrated with the New Horizons spacecraft. It can take greyscale images of astronomical targets.
+Specifications:
+Telescope style: Ritchey-Chrétien
+Aperture: 208 mm (8.2 inches)
+f/12.6
+Effective focal length 2630 mm (103.5 inches)
+Mirror substance: Silicon Carbide
+Mass: 8.8 kilograms (19.4 pounds)
+Average electrical power use:  5.8 watts
+Field of View: 0.29 degrees
+Resolution: 4.95 μrad pixels
+Bandpass: from about 350 nm to 850 nm
+Operating temperature: 148K to 313K
+Sensor: E2V Technologies CCD47-20 and Analog Devices AD9807 ADC
+Frame-Transfer Back-Illuminated CCD
+Size: 13.3×13.3 mm
+Pixel size: 13×13 μm native size with 4×4 pixel on-chip binning possible
+1024×1024 active pixels
+12 bits ADCThe mirror is made of silicon carbide which helped support meeting the thermal requirements of the design.
+The instrument is a thinned backside-illuminated charge-coupled device, and captures images at a resolution of 1024 by 1024 pixels, with a variety of exposure settings. LORRI can take one picture per second and store the picture digitally as a 12-bit image, with either lossless or lossy compression. (See also Data compression)
+LORRI incorporates a field-flattening lens with three elements.
+The design can take images at very low light levels required for the mission, including light levels 1/900 those of Earth when it is at Pluto. For the Arrokoth encounter the longest exposure time (up to ten seconds for the Pluto flyby) was increased. This was accomplished after the Pluto flyby by the team, to support taking images in even lower light levels.
+After the Pluto flyby, exposure times of at least 30 seconds were made possible, which was also useful for taking reconnaissance images and enabling imaging down to a magnitude of 21.
+LORRI is pointed by moving the entire spacecraft, which limits the exposure time. The spacecraft does not have reaction wheels and is stabilized by thrusters.
+While passing by Jupiter in February 2007, the Jovian system was observed using LORRI and other instruments.
+LORRI views of the Galilean moons:
+Due to its telescope power, LORRI was able to capture images of Pluto and its moons, offering the closer views as the spacecraft flew by the dwarf planet.
+
+
+ Long range view with Pluto and moons circled. (stars processed out)
+
+ Observation of Pluto and Charon from January 2015
+
+ LORRI image of Pluto and Charon in June 2015
+
+
+ Days before closest approach, LORRI views the other side of Pluto
+
+ Mountain range on Pluto near Tombaugh Regio
+
+ What is thought to be a frozen pond on Pluto, about 20 miles (30 kilometers) across
+In 2016 New Horizons observed the Kuiper belt object, 15810 Arawn. It is the object that is pointed with an arrow.
+Since LORRI had the highest magnification of the instruments, it captured the closest views of Pluto's terrain during the flyby. Its smaller field of view was panned across Pluto, capturing a stripe of the dwarf planet's terrain.
+HiRISE
+Mars Orbiter Camera
+List of New Horizons topics
+DART Spacecraft, using Didymos Reconnaissance and Asteroid Camera for Optical navigation (DRACO) Imager, based on LORRI
+Lucy_(spacecraft), using L'LORRI, based on LORRI Media related to Photos of Jupiter system by New Horizons at Wikimedia Commons
+NASA LORRI gallery
+Compares the fields of view of various New Horizons instruments including LORRI
+LORRI images
+NASA page showing Arrokoth picture comparing MVIC (lower resolution but color) and LORRI (greyscale but sharper), and a third image product combining the data (Jan 2, 2019)

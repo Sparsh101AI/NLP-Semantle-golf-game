@@ -1,0 +1,10 @@
+http://www.trwarszawa.pl/en/
+https://culture.pl/en/place/the-rozmaitosci-theatre-in-warsaw
+https://viaf.org/viaf/133074385
+https://www.worldcat.org/identities/lccn-no2010112255/
+https://id.loc.gov/authorities/names/no2010112255
+//geohack.toolforge.org/geohack.php?pagename=TR_Warszawa&params=52_12_54_N_21_01_16_E_type:landmark_region:PL-MZ
+https://en.wikipedia.org/w/index.php?title=TR_Warszawa&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Europe-theat-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=TR_Warszawa&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Warsaw-struct-stub&action=edit

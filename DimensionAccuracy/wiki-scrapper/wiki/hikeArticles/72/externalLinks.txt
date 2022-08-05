@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=Cultural_movement&action=edit
+https://en.wikipedia.org/w/index.php?title=Cultural_movement&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Cultural+movement%22
+//www.google.com/search?tbm=nws&q=%22Cultural+movement%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Cultural+movement%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Cultural+movement%22+-wikipedia
+//scholar.google.com/scholar?q=%22Cultural+movement%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Cultural+movement%22&acc=on&wc=on
+https://web.archive.org/web/20070630191903/http://www.worldhistory-poster.com/en/about/listed-terms
+https://en.wikipedia.org/w/index.php?title=Template:Culture&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:World_view&action=edit

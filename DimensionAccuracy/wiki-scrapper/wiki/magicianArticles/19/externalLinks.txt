@@ -1,0 +1,14 @@
+//geohack.toolforge.org/geohack.php?pagename=KJRC&params=44_19_42_N_103_50_3_W_region:US_type:landmark
+http://www.fcc.gov/fcc-bin/fmq?call=KJRC
+http://licensing.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/app_det.pl?Application_id=1676370
+https://licensing.fcc.gov/cdbs/CDBS_Attachment/getattachment.jsp?appn=101676370&qnum=5040&copynum=1&exhcnum=1
+http://licensing.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/call_hist.pl?Facility_id=90517
+http://yourcatholicradiostation.com/about/
+https://transition.fcc.gov/fcc-bin/fmq?call=KJRC
+https://radio-locator.com/info/KJRC-FM
+https://www1.arbitron.com/sip/displaySip.do?surveyID=WI22&band=fm&callLetter=KJRC
+https://en.wikipedia.org/w/index.php?title=Template:Rapid_City_Radio&action=edit
+https://en.wikipedia.org/w/index.php?title=KJRC&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Christian-radio-station-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=KJRC&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:SouthDakota-radio-station-stub&action=edit

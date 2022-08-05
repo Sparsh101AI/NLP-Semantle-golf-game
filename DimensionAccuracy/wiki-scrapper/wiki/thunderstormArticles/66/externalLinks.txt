@@ -1,0 +1,11 @@
+//geohack.toolforge.org/geohack.php?pagename=Edwards,_Illinois&params=40_44_45_N_89_44_39_W_region:US-IL_type:city(50)_dim:200_source:GoogleEarth-eyeball-Closeapple
+//geohack.toolforge.org/geohack.php?pagename=Edwards,_Illinois&params=40_44_45_N_89_44_39_W_region:US-IL_type:city(50)_dim:200_source:GoogleEarth-eyeball-Closeapple
+http://geonames.usgs.gov
+http://www.zipinfo.com/cgi-local/zipsrch.exe?cnty=cnty&zip=61528&Go=Go
+https://web.archive.org/web/20100414124737/http://usps.whitepages.com/post_office/IL/EDWARDS
+http://usps.whitepages.com/post_office/IL/EDWARDS
+http://peoria.ilgenweb.net/history/history.html#kickapoo
+http://www.peoriacountyillinois.info/bios/1880_kickapoobios.html#edwards
+https://en.wikipedia.org/w/index.php?title=Template:Peoria_County,_Illinois&action=edit
+https://en.wikipedia.org/w/index.php?title=Edwards,_Illinois&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:PeoriaCountyIL-geo-stub&action=edit

@@ -1,0 +1,16 @@
+An orbital pole is either point at the ends of an imaginary line segment that runs through the center of an orbit (of a revolving body like a planet, moon or satellite) and is perpendicular to the orbital plane. Projected onto the celestial sphere, orbital poles are similar in concept to celestial poles, but are based on the body's orbit instead of its equator.
+The north orbital pole of a revolving body is defined by the right-hand rule. If the fingers of the right hand are curved along the direction of orbital motion, with the thumb extended and oriented to be parallel to the orbital axis, then the direction the thumb points is defined to be the orbital north.
+The poles of Earth's orbit are referred to as the ecliptic poles. For the remaining planets, the orbital pole in ecliptic coordinates is given by the longitude of the ascending node (☊) and inclination (i): l = ☊ - 90°, b = 90° - i.
+When a satellite orbits close to another large body, it can only maintain continuous observations in areas near its orbital poles. The continuous viewing zone (CVZ) of the Hubble Space Telescope lies inside roughly 24° of Hubble's orbital poles, which precess around the Earth's axis every 56 days.
+The ecliptic is the plane on which Earth orbits the Sun. The ecliptic poles are the two points where the ecliptic axis, the imaginary line perpendicular to the ecliptic, intersects the celestial sphere.
+The two ecliptic poles are mapped below.
+Due to axial precession, either celestial pole completes a circuit around the nearer ecliptic pole every 25,800 years.
+As of 1 January 2000, the positions of the ecliptic poles expressed in equatorial coordinates, as a consequence of Earth's axial tilt, are the following:
+North: right ascension 18 0 0.0 (exact), declination +66° 33′ 38.55″
+South: right ascension 6 0 0.0 (exact), declination −66° 33′ 38.55″The North Ecliptic Pole is located near the Cat's Eye Nebula and the South Ecliptic Pole is located near the Large Magellanic Cloud.
+It is impossible anywhere on Earth for either ecliptic pole to be at the zenith in the night sky. By definition, the ecliptic poles are located 90° from the Sun's position. Therefore, whenever and wherever either ecliptic pole is directly overhead, the Sun must be on the horizon. The ecliptic poles can contact the zenith only within the Arctic and Antarctic circles.
+The galactic coordinates of the North ecliptic pole can be calculated as l = 96.38°, b = 29.81° (see Celestial coordinate system).
+Celestial pole
+Polar alignment
+Pole star
+Poles of astronomical bodies

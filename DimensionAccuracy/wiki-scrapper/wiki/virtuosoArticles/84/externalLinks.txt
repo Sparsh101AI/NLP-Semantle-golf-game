@@ -1,0 +1,17 @@
+//geohack.toolforge.org/geohack.php?pagename=KISN_(FM)&params=45_40_24_N_110_52_02_W_
+http://www.bozemanskissfm.com/listen-live/popup
+http://www.bozemanskissfm.com/
+http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/call_hist.pl?Facility_id=24172&Callsign=KISN
+https://web.archive.org/web/20100301134627/http://www.arbitron.com/
+http://www.arbitron.com/
+http://bozemandailychronicle.com/articles/2008/02/15/news/30radio.txt
+https://web.archive.org/web/20110121043217/http://www.rbr.com/radio/radio_deals/26710.html
+http://www.rbr.com/radio/radio_deals/26710.html
+http://www.bozemanskissfm.com/
+https://transition.fcc.gov/fcc-bin/fmq?call=KISN
+https://radio-locator.com/info/KISN-FM
+https://www1.arbitron.com/sip/displaySip.do?surveyID=WI22&band=fm&callLetter=KISN
+https://en.wikipedia.org/w/index.php?title=Template:Contemporary_Hit_Radio_Stations_in_Montana&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Townsquare_Media&action=edit
+https://en.wikipedia.org/w/index.php?title=KISN_(FM)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Montana-radio-station-stub&action=edit

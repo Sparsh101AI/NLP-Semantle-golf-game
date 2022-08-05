@@ -1,0 +1,14 @@
+Generalities
+Informal and formal definitions
+Defining the ordered pair using set theory
+Wiener's definition
+Hausdorff's definition
+Kuratowski's definition
+Variants
+Proving that definitions satisfy the characteristic property
+Quine–Rosser definition
+Cantor–Frege definition
+Morse definition
+Axiomatic definition
+Category theory
+References

@@ -1,0 +1,143 @@
+A spacecraft is a vehicle or machine designed to fly in outer space. A type of artificial satellite, spacecraft are used for a variety of purposes, including communications, Earth observation, meteorology, navigation, space colonization, planetary exploration, and transportation of humans and cargo. All spacecraft except single-stage-to-orbit vehicles cannot get into space on their own, and require a launch vehicle (carrier rocket).
+On a sub-orbital spaceflight, a space vehicle enters space and then returns to the surface without having gained sufficient energy or velocity to make a full Earth orbit. For orbital spaceflights, spacecraft enter closed orbits around the Earth or around other celestial bodies. Spacecraft used for human spaceflight carry people on board as crew or passengers from start or on orbit (space stations) only, whereas those used for robotic space missions operate either autonomously or telerobotically. Robotic spacecraft used to support scientific research are space probes. Robotic spacecraft that remain in orbit around a planetary body are artificial satellites. To date, only a handful of interstellar probes, such as Pioneer 10 and 11, Voyager 1 and 2, and New Horizons, are on trajectories that leave the Solar System.
+Orbital spacecraft may be recoverable or not. Most are not.  Recoverable spacecraft may be subdivided by a method of reentry to Earth into non-winged space capsules and winged spaceplanes. Recoverable spacecraft may be reusable (can be launched again or several times, like the SpaceX Dragon and the Space Shuttle orbiters) or expendable (like the Soyuz). In recent years, more space agencies are tending towards reusable spacecraft.
+Humanity has achieved space flight, but only a few nations have the technology for orbital launches: Russia (RSA or "Roscosmos"), the United States (NASA), the member states of the European Space Agency (ESA), Japan (JAXA), China (CNSA), India (ISRO), Taiwan (National Chung-Shan Institute of Science and Technology, Taiwan National Space Organization (NSPO), Israel (ISA), Iran (ISA), and North Korea (NADA). In addition, several private companies have developed or are developing the technology for orbital launches independently from government agencies. The most prominent examples of such companies are SpaceX and Blue Origin.
+A German V-2 became the first spacecraft when it reached an altitude of 189 km in June 1944 in Peenemünde, Germany. Sputnik 1 was the first artificial satellite. It was launched into an elliptical low Earth orbit (LEO) by the Soviet Union on 4 October 1957. The launch ushered in new political, military, technological, and scientific developments;  while the Sputnik launch was a single event, it marked the start of the Space Age. Apart from its value as a technological first, Sputnik 1 also helped to identify the upper atmospheric layer's density, through measuring the satellite's orbital changes. It also provided data on radio-signal distribution in the ionosphere. Pressurized nitrogen in the satellite's false body provided the first opportunity for meteoroid detection. Sputnik 1 was launched during the International Geophysical Year from Site No.1/5, at the 5th Tyuratam range, in Kazakh SSR (now at the Baikonur Cosmodrome). The satellite traveled at 29,000 kilometres per hour (18,000 mph), taking 96.2 minutes to complete an orbit, and emitted radio signals at 20.005 and 40.002 MHz
+While Sputnik 1 was the first spacecraft to orbit the Earth, other man-made objects had previously reached an altitude of 100 km, which is the height required by the international organization Fédération Aéronautique Internationale to count as a spaceflight. This altitude is called the Kármán line. In particular, in the 1940s there were several test launches of the V-2 rocket, some of which reached altitudes well over 100 km.
+As of 2016, only three nations have flown crewed spacecraft: USSR/Russia, USA, and China.
+The first crewed spacecraft was Vostok 1, which carried Soviet cosmonaut Yuri Gagarin into space in 1961, and completed a full Earth orbit. There were five other crewed missions which used a Vostok spacecraft. The second crewed spacecraft was named Freedom 7, and it performed a sub-orbital spaceflight in 1961 carrying American astronaut Alan Shepard to an altitude of just over 187 kilometers (116 mi). There were five other crewed missions using Mercury spacecraft.
+Other Soviet crewed spacecraft include the Voskhod, Soyuz, flown uncrewed as Zond/L1, L3, TKS, and the Salyut and Mir crewed space stations. Other American crewed spacecraft include the Gemini spacecraft, the Apollo spacecraft including the Apollo Lunar Module, the Skylab space station, the Space Shuttle with undetached European Spacelab and private US Spacehab space stations-modules, and the SpaceX Crew Dragon configuration of their Dragon 2. US company Boeing also developed and flown a spacecraft of their own, the CST-100, commonly referred to as Starliner, but a crewed flight is yet to occur. China developed, but did not fly Shuguang, and is currently using Shenzhou (its first crewed mission was in 2003).
+Except for the Space Shuttle, all of the recoverable crewed orbital spacecraft were space capsules.
+The International Space Station, crewed since November 2000, is a joint venture between Russia, the United States, Canada and several other countries.
+Spaceplanes are spacecraft are built in the shape of, and function as, airplanes. The first example of such was the North American X-15 spaceplane, which conducted two crewed flights which reached an altitude of over 100 km in the 1960s.  This first reusable spacecraft was air-launched on a suborbital trajectory on July 19, 1963.
+The first partially reusable orbital spacecraft, a winged non-capsule, the Space Shuttle, was launched by the USA on the 20th anniversary of Yuri Gagarin's flight, on April 12, 1981. During the Shuttle era, six orbiters were built, all of which have flown in the atmosphere and five of which have flown in space. Enterprise was used only for approach and landing tests, launching from the back of a Boeing 747 SCA and gliding to deadstick landings at Edwards AFB, California. The first Space Shuttle to fly into space was Columbia, followed by Challenger, Discovery, Atlantis, and Endeavour. Endeavour was built to replace Challenger when it was lost in January 1986. Columbia broke up during reentry in February 2003.
+The first automatic partially reusable spacecraft was the Buran-class shuttle, launched by the USSR on November 15, 1988, although it made only one flight and this was uncrewed. This spaceplane was designed for a crew and strongly resembled the U.S. Space Shuttle, although its drop-off boosters used liquid propellants and its main engines were located at the base of what would be the external tank in the American Shuttle. Lack of funding, complicated by the dissolution of the USSR, prevented any further flights of Buran. The Space Shuttle was subsequently modified to allow for autonomous re-entry in case of necessity.
+Per the Vision for Space Exploration, the Space Shuttle was retired in 2011 mainly due to its old age and high cost of program reaching over a billion dollars per flight. The Shuttle's human transport role is to be replaced by SpaceX's SpaceX Dragon 2 and Boeing's CST-100 Starliner. Dragon 2's first crewed flight occurred on May 30, 2020. The Shuttle's heavy cargo transport role is to be replaced by expendable rockets such as the Space Launch System and ULA's Vulcan rocket, as well as the commercial launch vehicles.
+Scaled Composites' SpaceShipOne was a reusable suborbital spaceplane that carried pilots Mike Melvill and Brian Binnie on consecutive flights in 2004 to win the Ansari X Prize. The Spaceship Company will build its successor SpaceShipTwo. A fleet of SpaceShipTwos operated by Virgin Galactic was planned to begin reusable private spaceflight carrying paying passengers in 2014, but was delayed after the crash of VSS Enterprise.
+Progress – uncrewed USSR/Russia cargo spacecraft
+TKS – uncrewed USSR/Russia cargo spacecraft and space station module
+Automated Transfer Vehicle (ATV) – uncrewed European cargo spacecraft
+H-II Transfer Vehicle (HTV) – uncrewed Japanese cargo spacecraft
+SpaceX Dragon – uncrewed private spacecraft
+Tianzhou – China's uncrewed cargo spacecraft
+Northrop Grumman Cygnus –  uncrewed commercial spacecraftExplorer 1 – first US satellite
+Project SCORE – first communications satellite
+Solar and Heliospheric Observatory (SOHO) - orbits the Sun near L1
+Sputnik 1 – world's first artificial satellite
+Sputnik 2 – first animal in orbit (Laika)
+Korabl-Sputnik 2 – first capsule recovered from orbit (Vostok precursor) – animals survived
+Syncom – first geosynchronous communications satellite
+Hubble Space Telescope – largest orbital observatory
+X-37 – spaceplaneClementine – US Navy mission, orbited Moon, detected hydrogen at the poles
+Kaguya JPN – lunar orbiter
+Luna 1 – first lunar flyby
+Luna 2 – first lunar impact
+Luna 3 – first images of lunar far side
+Luna 9 – first soft landing on the Moon
+Luna 10 – first lunar orbiter
+Luna 16 – first uncrewed lunar sample retrieval
+Lunar Orbiter – very successful series of lunar mapping spacecraft
+Lunar Prospector – confirmed detection of hydrogen at the lunar poles
+Lunar Reconnaissance Orbiter – Identifies safe landing sites and locates Moon resources
+Lunokhod - Soviet lunar rovers
+SMART-1 ESA – Lunar Impact
+Surveyor – USA's first soft lander
+Chang'e 1 – China's first lunar mission
+Chang'e 2 – China's second lunar mission
+Chang'e 3 – China's first soft landing on the Moon
+Chang'e 4 – first soft landing on far side of the Moon
+Chang'e 5 – China's first lunar probe which completed a sample-return mission
+Chandrayaan 1 – first Indian Lunar mission
+Chandrayaan 2 – second Indian Lunar missionAkatsuki JPN – a Venus orbiter
+Cassini–Huygens – first Saturn orbiter and Titan lander
+Curiosity – Rover sent to Mars by NASA in 2012
+Galileo – first Jupiter orbiter and descent probe
+IKAROS JPN –  first solar-sail spacecraft
+Mariner 4 – first Mars flyby, first close and high resolution images of Mars
+Mariner 9 – first Mars orbiter
+Mariner 10 – first Mercury flyby, first close up images
+Mars Exploration Rovers (Spirit and Opportunity)– Mars rovers
+Mars Express – Mars orbiter
+Mars Global Surveyor – Mars orbiter
+Mars Orbiter Mission (Mangalyaan) - India's first Interplanetary probe
+Mars Reconnaissance Orbiter – an advanced climate, imaging, sub-surface radar, and telecommunications Mars orbiter
+MESSENGER – first Mercury orbiter (arrival 2011)
+Mars Pathfinder – Mars lander, carrying the Sojourner rover
+New Horizons – first Pluto flyby (arrival 2015)
+Pioneer 10 – first Jupiter flyby, first close up images
+Pioneer 11 – second Jupiter flyby and first Saturn flyby (first close up images of Saturn)
+Pioneer Venus – first Venus orbiter and landers
+Vega 1 – Balloon release into Venus atmosphere and lander, mothership continued on to fly by Halley's Comet. Joint mission with Vega 2.
+Venera 4 – first soft landing on another planet (Venus)
+Viking 1 – first soft landing on Mars
+Voyager 1 - flybys of Jupiter, Saturn, and Saturn's moon Titan
+Voyager 2 – Jupiter flyby, Saturn flyby, and first flybys/images of Neptune and Uranus
+Hope - Mars orbiter of the United Arab Emirates in 2020
+Tianwen-1  - China's orbiter, lander and rover mission to Mars in 2020
+Perseverance - Rover sent to Mars in 2020
+Ingenuity - experimental rotorcraft sent to Mars in 2020Cluster
+Deep Space 1
+Deep Impact
+Genesis
+Hayabusa
+Near Earth Asteroid Rendezvous
+Rosetta
+Stardust
+STEREO – Heliospheric and solar sensing; first images of the entire Sun
+WMAPParker Solar Probe (estimated 343,000 km/h or 213,000 mph at first sun close pass, will reach 700,000 km/h or 430,000 mph at final perihelion)
+Helios I and II Solar Probes (252,792 km/h or 157,078 mph)Voyager 1 at 156.13 AU as of April 2022, traveling outward at about 3.58 AU/a (61,100 km/h; 38,000 mph)
+Pioneer 10 at 122.48 AU as of December 2018, traveling outward at about 2.52 AU/a (43,000 km/h; 26,700 mph)
+Voyager 2 at 122.82 AU as of January 2020, traveling outward at about 3.24 AU/a (55,300 km/h; 34,400 mph)
+Pioneer 11 at 101.17 AU as of December 2018, traveling outward at about 2.37 AU/a (40,400 km/h; 25,100 mph)Chinese Shuguang capsule
+Soviet Zond/L1 – lunar flyby capsule
+Soviet L3 – capsule and lunar lander
+Soviet LK – lunar lander
+Soviet TKS – space station resupply capsule
+Soviet Buran-class shuttle – spaceplane
+Soviet Soyuz Kontakt capsule
+Soviet Almaz space station
+US Manned Orbiting Laboratory space station
+US Altair lunar landerUS X-20 spaceplane
+Soviet Spiral shuttle
+Soviet/Russian Buran-class shuttle
+ESA Hermes shuttle
+Kliper Russian semi-shuttle/semi-capsule
+Japanese HOPE-X shuttle
+Chinese Shuguang Project 921-3 shuttleRR/British Aerospace HOTOL
+ESA Hopper Orbiter
+US DC-X (Delta Clipper)
+US Roton Rotored-Hybrid
+US VentureStar(US-NASA; Europe-ESA) Orion – capsule
+(US-SpaceX) Starship – VTVL spacecraft
+(US-Boeing) CST-100 – capsule
+(US-Sierra Nevada Corporation) Dream Chaser – orbital spaceplane
+(US-The SpaceShip company) SpaceShipTwo suborbital spaceplane
+(US-Blue Origin) New Shepard – VTVL capsule
+(US-XCOR) Lynx rocketplane – suborbital spaceplane
+(India-DRDO) Avatar RLV -Under development, First demonstration flight in 2015.
+(India-ISRO) Gaganyaan – capsule
+(India-ISRO) RLV Technology Demonstration Programme – spacecraft
+(Russia-RKA) Orel – capsule
+(Europe-ESA) Advanced Crew Transportation System – capsule
+(Iranian Space Agency) Iranian crewed spacecraft – capsuleCNES Mars Netlander
+Darwin14 ESA probe
+Sierra Nevada Corporation Dream Chaser – orbital cargo spaceplane
+Skylon spaceplane
+StarChip and Sprites - miniaturized interstellar spacecraft
+System F6—a DARPA Fractionated Spacecraft demonstratorA spacecraft astrionics system comprises different subsystems, depending on the mission profile. Spacecraft subsystems comprise the spacecraft's "bus" and may include attitude determination and control (variously called ADAC, ADC, or ACS), guidance, navigation and control (GNC or GN&C), communications (comms), command and data handling (CDH or C&DH), power (EPS), thermal control (TCS), propulsion, and structures. Attached to the bus are typically payloads.
+Life support
+Spacecraft intended for human spaceflight must also include a life support system for the crew.Attitude control
+A Spacecraft needs an attitude control subsystem to be correctly oriented in space and respond to external torques and forces properly. The attitude control subsystem consists of sensors and actuators, together with controlling algorithms. The attitude-control subsystem permits proper pointing for the science objective, sun pointing for power to the solar arrays and earth pointing for communications.GNC
+Guidance refers to the calculation of the commands (usually done by the CDH subsystem) needed to steer the spacecraft where it is desired to be. Navigation means determining a spacecraft's orbital elements or position. Control means adjusting the path of the spacecraft to meet mission requirements.Command and data handling
+The C&DH subsystem receives commands from the communications subsystem, performs validation and decoding of the commands, and distributes the commands to the appropriate spacecraft subsystems and components. The CDH also receives housekeeping data and science data from the other spacecraft subsystems and components, and packages the data for storage on a data recorder or transmission to the ground via the communications subsystem. Other functions of the CDH include maintaining the spacecraft clock and state-of-health monitoring.Communications
+Spacecraft, both robotic and crewed, utilize various communications systems for communication with terrestrial stations as well as for communication between spacecraft in space. Technologies utilized include RF and optical communication. In addition, some spacecraft payloads are explicitly for the purpose of ground–ground communication using receiver/retransmitter electronic technologies.Power
+Spacecraft need an electrical power generation and distribution subsystem for powering the various spacecraft subsystems. For spacecraft near the Sun, solar panels are frequently used to generate electrical power. Spacecraft designed to operate in more distant locations, for example Jupiter, might employ a radioisotope thermoelectric generator (RTG) to generate electrical power. Electrical power is sent through power conditioning equipment before it passes through a power distribution unit over an electrical bus to other spacecraft components. Batteries are typically connected to the bus via a battery charge regulator, and the batteries are used to provide electrical power during periods when primary power is not available, for example when a low Earth orbit spacecraft is eclipsed by Earth.Thermal control
+Spacecraft must be engineered to withstand transit through Earth's atmosphere and the space environment. They must operate in a vacuum with temperatures potentially ranging across hundreds of degrees Celsius as well as (if subject to reentry) in the presence of plasmas. Material requirements are such that either high melting temperature, low density materials such as beryllium and reinforced carbon–carbon or (possibly due to the lower thickness requirements despite its high density) tungsten or ablative carbon–carbon composites are used. Depending on mission profile, spacecraft may also need to operate on the surface of another planetary body. The thermal control subsystem can be passive, dependent on the selection of materials with specific radiative properties. Active thermal control makes use of electrical heaters and certain actuators such as louvers to control temperature ranges of equipments within specific ranges.Spacecraft propulsion
+Spacecraft may or may not have a propulsion subsystem, depending on whether or not the mission profile calls for propulsion. The Swift spacecraft is an example of a spacecraft that does not have a propulsion subsystem. Typically though, LEO spacecraft include a propulsion subsystem for altitude adjustments (drag make-up maneuvers) and inclination adjustment maneuvers. A propulsion system is also needed for spacecraft that perform momentum management maneuvers. Components of a conventional propulsion subsystem include fuel, tankage, valves, pipes, and thrusters. The thermal control system interfaces with the propulsion subsystem by monitoring the temperature of those components, and by preheating tanks and thrusters in preparation for a spacecraft maneuver.Structures
+Spacecraft must be engineered to withstand launch loads imparted by the launch vehicle, and must have a point of attachment for all the other subsystems. Depending on mission profile, the structural subsystem might need to withstand loads imparted by entry into the atmosphere of another planetary body, and landing on the surface of another planetary body.Payload
+The payload depends on the mission of the spacecraft, and is typically regarded as the part of the spacecraft "that pays the bills". Typical payloads could include scientific instruments (cameras, telescopes, or particle detectors, for example), cargo, or a human crew.Ground segmentThe ground segment, though not technically part of the spacecraft, is vital to the operation of the spacecraft. Typical components of a ground segment in use during normal operations include a mission operations facility where the flight operations team conducts the operations of the spacecraft, a data processing and storage facility, ground stations to radiate signals to and receive signals from the spacecraft, and a voice and data communications network to connect all mission elements.Launch vehicle
+The launch vehicle propels the spacecraft from Earth's surface, through the atmosphere, and into an orbit, the exact orbit being dependent on the mission configuration. The launch vehicle may be expendable or reusable.NASA: Space Science Spacecraft Missions Archived 2005-11-08 at the Wayback Machine
+NSSDC Master Catalog Spacecraft Query Form
+Early History of Spacecraft
+Basics of Spaceflight tutorial from JPL/Caltech
+International Spaceflight Museum

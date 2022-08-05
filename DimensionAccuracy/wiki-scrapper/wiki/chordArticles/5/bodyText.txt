@@ -1,0 +1,314 @@
+Straightedge and compass construction, also known as ruler-and-compass construction or classical construction, is the construction of lengths, angles, and other geometric figures using only an idealized ruler and a pair of compasses.
+The idealized ruler, known as a straightedge, is assumed to be infinite in length, have only one edge, and no markings on it. The compass is assumed to have no maximum or minimum radius, and is assumed to "collapse" when lifted from the page, so may not be directly used to transfer distances. (This is an unimportant restriction since, using a multi-step procedure, a distance can be transferred even with a collapsing compass; see compass equivalence theorem. Note however that whilst a non-collapsing compass held against a straightedge might seem to be equivalent to marking it, the neusis construction is still impermissible and this is what unmarked really means: see Markable rulers below.) More formally, the only permissible constructions are those granted by Euclid's first three postulates.
+It turns out to be the case that every point constructible using straightedge and compass may also be constructed using compass alone, or by straightedge alone if given a single circle and its center.
+The ancient Greek mathematicians first conceived straightedge and compass constructions, and a number of ancient problems in plane geometry impose this restriction. The ancient Greeks developed many constructions, but in some cases were unable to do so. Gauss showed that some polygons are constructible but that most are not.  Some of the most famous straightedge and compass problems were proved impossible by Pierre Wantzel in 1837, using the mathematical theory of fields.
+In spite of existing proofs of impossibility, some persist in trying to solve these problems. Many of these problems are easily solvable provided that other geometric transformations are allowed: for example, doubling the cube is possible using geometric constructions, but not possible using straightedge and compass alone.
+In terms of algebra, a length is constructible if and only if it represents a constructible number, and an angle is constructible if and only if its cosine is a constructible number. A number is constructible if and only if it can be written using the four basic arithmetic operations and the extraction of square roots but of no higher-order roots.
+The "straightedge" and "compass" of straightedge and compass constructions are idealizations of rulers and compasses in the real world:
+The straightedge is infinitely long, but it has no markings on it and has only one straight edge, unlike ordinary rulers. The line drawn is infinitesimally thin point-width. It can only be used to draw a line segment between two points, with infinite precision to those points, or to extend an existing segment.
+The compass can be opened arbitrarily wide, but (unlike some real compasses) it has no markings on it. Circles can only be drawn starting from two given points: the centre and a point on the circle, and aligned to those points with infinite precision. The arc that is drawn is infinitesimally thin point-width. The compass may or may not collapse when it is not drawing a circle.Actual compasses do not collapse and modern geometric constructions often use this feature. A 'collapsing compass' would appear to be a less powerful instrument.
+However, by the compass equivalence theorem in Proposition 2 of Book 1 of Euclid's Elements, no power is lost by using a collapsing compass.
+Although the proposition is correct, its proofs have a long and checkered history. In any case, the equivalence is why this feature is not stipulated in the definition of the ideal compass.
+Each construction must be exact. "Eyeballing" it (essentially looking at the construction and guessing at its accuracy, or using some form of measurement, such as the units of measure on a ruler) and getting close does not count as a solution.
+Each construction must terminate. That is, it must have a finite number of steps, and not be the limit of ever closer approximations.
+Stated this way, straightedge and compass constructions appear to be a parlour game, rather than a serious practical problem; but the purpose of the restriction is to ensure that constructions can be proved to be exactly correct.
+The ancient Greek mathematicians first attempted straightedge and compass constructions, and they discovered how to construct sums, differences, products, ratios, and square roots of given lengths. They could also construct half of a given angle, a square whose area is twice that of another square, a square having the same area as a given polygon, and a regular polygon with 3, 4, or 5 sides (or one with twice the number of sides of a given polygon). But they could not construct one third of a given angle except in particular cases, or a square with the same area as a given circle, or a regular polygon with other numbers of sides.  Nor could they construct the side of a cube whose volume would be twice the volume of a cube with a given side.
+Hippocrates and Menaechmus showed that the volume of the cube could be doubled by finding the intersections of hyperbolas and parabolas, but these cannot be constructed by straightedge and compass. In the fifth century BCE, Hippias used a curve that he called a quadratrix to both trisect the general angle and square the circle, and Nicomedes in the second century BCE showed how to use a conchoid to trisect an arbitrary angle; but these methods also cannot be followed with just straightedge and compass.
+No progress on the unsolved problems was made for two millennia, until in 1796 Gauss showed that a regular polygon with 17 sides could be constructed;  five years later he showed the sufficient criterion for a regular polygon of n sides to be constructible.
+In 1837 Pierre Wantzel published a proof of the impossibility of trisecting an arbitrary angle or of doubling the volume of a cube, based on the impossibility of constructing cube roots of lengths. He also showed that Gauss's sufficient constructibility condition for regular polygons is also necessary.
+Then in 1882 Lindemann showed that 
+
+
+
+π
+
+
+{\displaystyle \pi }
+
+ is a transcendental number, and thus that it is impossible by straightedge and compass to construct a square with the same area as a given circle.
+All straightedge and compass constructions consist of repeated application of five basic constructions using the points, lines and circles that have already been constructed. These are:
+Creating the line through two existing points
+Creating the circle through one point with centre another point
+Creating the point which is the intersection of two existing, non-parallel lines
+Creating the one or two points in the intersection of a line and a circle (if they intersect)
+Creating the one or two points in the intersection of two circles (if they intersect).For example, starting with just two distinct points, we can create a line or either of two circles (in turn, using each point as centre and passing through the other point). If we draw both circles, two new points are created at their intersections. Drawing lines between the two original points and one of these new points completes the construction of an equilateral triangle.
+Therefore, in any geometric problem we have an initial set of symbols (points and lines), an algorithm, and some results. From this perspective, geometry is equivalent to an axiomatic algebra, replacing its elements by symbols. Probably Gauss first realized this, and used it to prove the impossibility of some constructions; only much later did Hilbert find a complete set of axioms for geometry.
+The most-used straightedge and compass constructions include:
+Constructing the perpendicular bisector from a segment
+Finding the midpoint of a segment.
+Drawing a perpendicular line from a point to a line.
+Bisecting an angle
+Mirroring a point in a line
+Constructing a line through a point tangent to a circle
+Constructing a circle through 3 noncollinear points
+Drawing a line through a given point parallel to a given line.One can associate an algebra to our geometry using a Cartesian coordinate system made of two lines, and represent points of our plane by vectors. Finally we can write these vectors as complex numbers.
+Using the equations for lines and circles, one can show that the points at which they intersect lie in a quadratic extension of the smallest field F containing two points on the line, the center of the circle, and the radius of the circle. That is, they are of the form x +y√k, where x, y, and k are in F.
+Since the field of constructible points is closed under square roots, it contains all points that can be obtained by a finite sequence of quadratic extensions of the field of complex numbers with rational coefficients. By the above paragraph, one can show that any constructible point can be obtained by such a sequence of extensions. As a corollary of this, one finds that the degree of the minimal polynomial for a constructible point (and therefore of any constructible length) is a power of 2. In particular, any constructible point (or length) is an algebraic number, though not every algebraic number is constructible; for example, √2 is algebraic but not constructible.
+There is a bijection between the angles that are constructible and the points that are constructible on any constructible circle. The angles that are constructible form an abelian group under addition modulo 2π (which corresponds to multiplication of the points on the unit circle viewed as complex numbers). The angles that are constructible are exactly those whose tangent (or equivalently, sine or cosine) is constructible as a number. For example, the regular heptadecagon (the seventeen-sided regular polygon) is constructible because
+
+
+
+
+cos
+⁡
+
+
+(
+
+
+
+2
+π
+
+17
+
+
+)
+
+
+=
+−
+
+
+1
+16
+
+
+
++
+
+
+
+1
+16
+
+
+
+
+17
+
+
+
++
+
+
+
+1
+16
+
+
+
+
+34
+−
+2
+
+
+17
+
+
+
+
+
++
+
+
+
+1
+8
+
+
+
+
+17
++
+3
+
+
+17
+
+
+−
+
+
+34
+−
+2
+
+
+17
+
+
+
+
+−
+2
+
+
+34
++
+2
+
+
+17
+
+
+
+
+
+
+
+
+{\displaystyle \cos {\left({\frac {2\pi }{17}}\right)}=-{\frac {1}{16}}\;+\;{\frac {1}{16}}{\sqrt {17}}\;+\;{\frac {1}{16}}{\sqrt {34-2{\sqrt {17}}}}\;+\;{\frac {1}{8}}{\sqrt {17+3{\sqrt {17}}-{\sqrt {34-2{\sqrt {17}}}}-2{\sqrt {34+2{\sqrt {17}}}}}}}
+
+as discovered by Gauss.
+The group of constructible angles is closed under the operation that halves angles (which corresponds to taking square roots in the complex numbers). The only angles of finite order that may be constructed starting with two points are those whose order is either a power of two, or a product of a power of two and a set of distinct Fermat primes. In addition there is a dense set of constructible angles of infinite order.
+Given a set of points in the Euclidean plane, selecting any one of them to be called 0 and another to be called 1, together with an arbitrary choice of orientation allows us to consider the points as a set of complex numbers.
+Given any such interpretation of a set of points as complex numbers, the points constructible using valid straightedge and compass constructions alone are precisely the elements of the smallest field containing the original set of points and closed under the complex conjugate and square root operations (to avoid ambiguity, we can specify the square root with complex argument less than π). The elements of this field are precisely those that may be expressed as a formula in the original points using only the operations of addition, subtraction, multiplication, division, complex conjugate, and square root, which is easily seen to be a countable dense subset of the plane. Each of these six operations corresponding to a simple straightedge and compass construction. From such a formula it is straightforward to produce a construction of the corresponding point by combining the constructions for each of the arithmetic operations. More efficient constructions of a particular set of points correspond to shortcuts in such calculations.
+Equivalently (and with no need to arbitrarily choose two points) we can say that, given an arbitrary choice of orientation, a set of points determines a set of complex ratios given by the ratios of the differences between any two pairs of points. The set of ratios constructible using straightedge and compass from such a set of ratios is precisely the smallest field containing the original ratios and closed under taking complex conjugates and square roots.
+For example, the real part, imaginary part and modulus of a point or ratio z (taking one of the two viewpoints above) are constructible as these may be expressed as
+
+
+
+
+
+R
+e
+
+(
+z
+)
+=
+
+
+
+z
++
+
+
+
+z
+¯
+
+
+
+
+2
+
+
+
+
+
+{\displaystyle \mathrm {Re} (z)={\frac {z+{\bar {z}}}{2}}\;}
+
+
+
+
+
+
+
+I
+m
+
+(
+z
+)
+=
+
+
+
+z
+−
+
+
+
+z
+¯
+
+
+
+
+
+2
+i
+
+
+
+
+
+
+{\displaystyle \mathrm {Im} (z)={\frac {z-{\bar {z}}}{2i}}\;}
+
+
+
+
+
+
+
+|
+z
+|
+
+=
+
+
+z
+
+
+
+z
+¯
+
+
+
+
+
+.
+
+
+
+{\displaystyle \left|z\right|={\sqrt {z{\bar {z}}}}.\;}
+
+Doubling the cube and trisection of an angle (except for special angles such as any φ such that φ/2π is a rational number with denominator not divisible by 3) require ratios which are the solution to cubic equations, while squaring the circle requires a transcendental ratio. None of these are in the fields described, hence no straightedge and compass construction for these exists.
+The ancient Greeks thought that the construction problems they could not solve were simply obstinate, not unsolvable.  With modern methods, however, these straightedge and compass constructions have been shown to be logically impossible to perform. (The problems themselves, however, are solvable, and the Greeks knew how to solve them without the constraint of working only with straightedge and compass.)
+The most famous of these problems, squaring the circle, otherwise known as the quadrature of the circle, involves constructing a square with the same area as a given circle using only straightedge and compass.
+Squaring the circle has been proved impossible, as it involves generating a transcendental number, that is, √π. Only certain algebraic numbers can be constructed with ruler and compass alone, namely those constructed from the integers with a finite sequence of operations of addition, subtraction, multiplication, division, and taking square roots. The phrase "squaring the circle" is often used to mean "doing the impossible" for this reason.
+Without the constraint of requiring solution by ruler and compass alone, the problem is easily solvable by a wide variety of geometric and algebraic means, and was solved many times in antiquity.
+A method which comes very close to approximating the "quadrature of the circle" can be achieved using a Kepler triangle.
+Doubling the cube is the construction, using only a straight-edge and compass, of the edge of a cube that has twice the volume of a cube with a given edge. This is impossible because the cube root of 2, though algebraic, cannot be computed from integers by addition, subtraction, multiplication, division, and taking square roots.  This follows because its minimal polynomial over the rationals has degree 3. This construction is possible using a straightedge with two marks on it and a compass.
+Angle trisection is the construction, using only a straightedge and a compass, of an angle that is one-third of a given arbitrary angle. This is impossible in the general case.  For example, the angle 2π/5 radians (72° = 360°/5) can be trisected, but the angle of π/3 radians (60°) cannot be trisected. The general trisection problem is also easily solved when a straightedge with two marks on it is allowed (a neusis construction).
+The line segment from any point in the plane to the nearest point on a circle can be constructed, but the segment from any point in the plane to the nearest point on an ellipse of positive eccentricity  cannot in general be constructed.
+In 1997, the Oxford mathematician Peter M. Neumann proved the theorem that there is no ruler-and-compass construction for the general solution of the ancient Alhazen's problem (billiard problem or reflection from a spherical mirror).
+Some regular polygons (e.g. a pentagon) are easy to construct with straightedge and compass; others are not. This led to the question: Is it possible to construct all regular polygons with straightedge and compass?
+Carl Friedrich Gauss in 1796 showed that a regular 17-sided polygon can be constructed, and five years later showed that a regular n-sided polygon can be constructed with straightedge and compass if the odd prime factors of n are distinct Fermat primes. Gauss conjectured that this condition was also necessary, but he offered no proof of this fact, which was provided by Pierre Wantzel in 1837.
+The first few constructible regular polygons have the following numbers of sides:
+3, 4, 5, 6, 8, 10, 12, 15, 16, 17, 20, 24, 30, 32, 34, 40, 48, 51, 60, 64, 68, 80, 85, 96, 102, 120, 128, 136, 160, 170, 192, 204, 240, 255, 256, 257, 272... (sequence A003401 in the OEIS)There are known to be an infinitude of constructible regular polygons with an even number of sides (because if a regular n-gon is constructible, then so is a regular 2n-gon and hence a regular 4n-gon, 8n-gon, etc.). However, there are only 31 known constructible regular n-gons with an odd number of sides.
+Sixteen key points of a triangle are its vertices, the midpoints of its sides, the feet of its altitudes, the feet of its internal angle bisectors, and its circumcenter, centroid, orthocenter, and incenter. These can be taken three at a time to yield 139 distinct nontrivial problems of constructing a triangle from three points. Of these problems, three involve a point that can be uniquely constructed from the other two points;  23 can be  non-uniquely constructed (in fact for infinitely many solutions) but only if the locations of the points obey certain constraints;  in 74 the problem is constructible in the general case; and in 39 the required triangle exists but is not constructible.
+Twelve key lengths of a triangle are the three side lengths, the three altitudes, the three medians, and the three angle bisectors. Together with the three angles, these give 95 distinct combinations, 63 of which give rise to a constructible triangle, 30 of which do not, and two of which are underdefined.
+Various attempts have been made to restrict the allowable tools for constructions under various rules, in order to determine what is still constructable and how it may be constructed, as well as determining the minimum criteria necessary to still be able to construct everything that compass and straightedge can.
+It is possible (according to the Mohr–Mascheroni theorem) to construct anything with just a compass if it can be constructed with a ruler and compass, provided that the given data and the data to be found consist of discrete points (not lines or circles). The truth of this theorem depends on the truth of  Archimedes' axiom, which is not first-order in nature. Examples of compass-only constructions include Napoleon's problem.
+It is impossible to take a square root with just a ruler, so some things that cannot be constructed with a ruler can be constructed with a compass; but (by the Poncelet–Steiner theorem) given a single circle and its center, they can be constructed.
+The ancient Greeks classified constructions into three major categories, depending on the complexity of the tools required for their solution.  If a construction used only a straightedge and compass, it was called planar; if it also required one or more conic sections (other than the circle), then it was called solid; the third category included all constructions that did not fall into either of the other two categories.  This categorization meshes nicely with the modern algebraic point of view.  A complex number that can be expressed using only the field operations and square roots (as described above) has a planar construction.  A complex number that includes also the extraction of cube roots has a solid construction.
+In the language of fields, a complex number that is planar has degree a power of two, and lies in a field extension that can be broken down into a tower of fields where each extension has degree two.  A complex number that has a solid construction has degree with prime factors of only two and three, and lies in a field extension that is at the top of a tower of fields where each extension has degree 2 or 3.
+A point has a solid construction if it can be constructed using a straightedge, compass, and a (possibly hypothetical) conic drawing tool that can draw any conic with already constructed focus, directrix, and eccentricity.  The same set of points can often be constructed using a smaller set of tools.  For example, using a compass, straightedge, and a piece of paper on which we have the parabola y=x together with the points (0,0) and (1,0), one can construct any complex number that has a solid construction.  Likewise, a tool that can draw any ellipse with already constructed foci and major axis (think two pins and a piece of string) is just as powerful.
+The ancient Greeks knew that doubling the cube and trisecting an arbitrary angle both had solid constructions.  Archimedes gave a solid construction of the regular 7-gon.  The quadrature of the circle does not have a solid construction.
+A regular n-gon has a solid construction if and only if n=23m where m is a product of distinct Pierpont primes (primes of the form 23+1).  The set of such n is the sequence
+7, 9, 13, 14, 18, 19, 21, 26, 27, 28, 35, 36, 37, 38, 39, 42, 45, 52, 54, 56, 57, 63, 65, 70, 72, 73, 74, 76, 78, 81, 84, 90, 91, 95, 97... (sequence A051913 in the OEIS)The set of n for which a regular n-gon has no solid construction is the sequence
+11, 22, 23, 25, 29, 31, 33, 41, 43, 44, 46, 47, 49, 50, 53, 55, 58, 59, 61, 62, 66, 67, 69, 71, 75, 77, 79, 82, 83, 86, 87, 88, 89, 92, 93, 94, 98, 99, 100... (sequence A048136 in the OEIS)Like the question with Fermat primes, it is an open question as to whether there are an infinite number of Pierpont primes.
+What if, together with the straightedge and compass, we had a tool that could (only) trisect an arbitrary angle?  Such constructions are solid constructions, but there exist numbers with solid constructions that cannot be constructed using such a tool.  For example, we cannot double the cube with such a tool.  On the other hand, every regular n-gon that has a solid construction can be constructed using such a tool.
+The mathematical theory of origami is more powerful than straightedge and compass construction. Folds satisfying the Huzita–Hatori axioms can construct exactly the same set of points as the extended constructions using a compass and conic drawing tool. Therefore, origami can also  be used to solve cubic equations (and hence quartic equations), and thus solve two of the classical problems.
+Archimedes, Nicomedes and Apollonius gave constructions involving the use of a markable ruler. This would permit them, for example, to take a line segment, two lines (or circles), and a point; and then draw a line which passes through the given point and intersects the two given lines, such that the distance between the points of intersection equals the given segment. This the Greeks  called neusis ("inclination", "tendency" or "verging"), because the new line tends to the point.
+In this expanded scheme, we can trisect an arbitrary angle (see Archimedes' trisection) or extract an arbitrary cube root (due to Nicomedes). Hence, any distance whose ratio to an existing distance is the solution of a cubic or a quartic equation is constructible. Using a markable ruler, regular polygons with solid constructions, like the heptagon,  are constructible; and John H. Conway and Richard K. Guy give constructions for several of them.
+The neusis construction is more powerful than a conic drawing tool, as one can construct complex numbers that do not have solid constructions.  In fact, using this tool one can solve some quintics that are not solvable using radicals.  It is known that one cannot solve an irreducible polynomial of prime degree greater or equal to 7 using the neusis construction, so it is not possible to construct a regular 23-gon or 29-gon using this tool.  Benjamin and Snyder proved that it is possible to construct the regular 11-gon, but did not give a construction.  It is still open as to whether a regular 25-gon or 31-gon is constructible using this tool.
+Given a straight line segment called AB, could this be divided in three new equal segments and in many parts required by the use of intercept theorem
+In 1998 Simon Plouffe gave a ruler and compass algorithm that can be used to compute binary digits of certain numbers.
+The algorithm involves the repeated doubling of an angle and becomes physically impractical after about 20 binary digits.
+Carlyle circle
+Geometric cryptography
+Geometrography
+List of interactive geometry software, most of them show straightedge and compass constructions
+Mathematics of paper folding
+Underwood Dudley, a mathematician who has made a sideline of collecting false straightedge and compass proofs.Regular polygon constructions by Dr. Math at The Math Forum @ Drexel
+Construction with the Compass Only at cut-the-knot
+Angle Trisection by Hippocrates at cut-the-knot
+Weisstein, Eric W. "Angle Trisection". MathWorld.

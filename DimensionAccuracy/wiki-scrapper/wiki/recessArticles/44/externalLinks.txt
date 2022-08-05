@@ -1,0 +1,12 @@
+//geohack.toolforge.org/geohack.php?pagename=Lidk%C3%B6ping%E2%80%93Hovby_Airport&params=58_27_55_N_013_10_27_E_type:airport_region:SE
+https://web.archive.org/web/20190305143444/http://worldaerodata.com/wad.cgi?airport=ESGL
+http://www.gcmap.com/airport/LDK
+http://www.westair.se/company.html
+https://web.archive.org/web/20080321091238/http://www.westair.se/company.html
+http://www.lidkopingairport.com/
+http://www.lmfk.se/
+http://tgftp.nws.noaa.gov/weather/current/ESGL.html
+https://aviation-safety.net/database/airport/airport.php?id=LDK
+https://en.wikipedia.org/w/index.php?title=Template:Airports_in_Sweden&action=edit
+https://en.wikipedia.org/w/index.php?title=Lidk%C3%B6ping%E2%80%93Hovby_Airport&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Sweden-airport-stub&action=edit

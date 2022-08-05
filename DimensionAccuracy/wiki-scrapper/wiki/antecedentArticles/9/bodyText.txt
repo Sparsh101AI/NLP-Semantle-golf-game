@@ -1,0 +1,204 @@
+Baroque music (UK: /bəˈrɒk/ or US: /bəˈroʊk/) is a period or style of Western classical music from approximately 1600 to 1750 originated in Western Europe. This era followed the Renaissance music era, and was followed in turn by the Classical era, with the galant style marking the transition between Baroque and Classical eras. The Baroque period is divided into three major phases: early, middle, and late. Overlapping in time, they are conventionally dated from 1580 to 1650, from 1630 to 1700, and from 1680 to 1750. Baroque music forms a major portion of the "classical music" canon, and is now widely studied, performed, and listened to. The term "baroque" comes from the Portuguese word barroco, meaning "misshapen pearl". The works of George Frideric Handel and Johann Sebastian Bach are considered the pinnacle of the Baroque period. Key composers of the Baroque era include, Claudio Monteverdi, Domenico Scarlatti, Alessandro Scarlatti, Antonio Vivaldi, Henry Purcell, Georg Philipp Telemann, Jean-Baptiste Lully, Jean-Philippe Rameau, Marc-Antoine Charpentier, Arcangelo Corelli, François Couperin, Heinrich Schütz, Dieterich Buxtehude, and others.
+The Baroque period saw the creation of common-practice tonality, an approach to writing music in which a song or piece is written in a particular key; this type of harmony has continued to be used extensively in Western classical and popular music. During the Baroque era, professional musicians were expected to be accomplished improvisers of both solo melodic lines and accompaniment parts. Baroque concerts were typically accompanied by a basso continuo group (comprising chord-playing instrumentalists such as harpsichordists and lute players improvising chords from a figured bass part) while a group of bass instruments—viol, cello, double bass—played the bassline. A characteristic Baroque form was the dance suite. While the pieces in a dance suite were inspired by actual dance music, dance suites were designed purely for listening, not for accompanying dancers.
+During the period, composers experimented with finding a fuller sound for each instrumental part (thus creating the orchestra), made changes in musical notation (the development of figured bass as a quick way to notate the chord progression of a song or piece), and developed new instrumental playing techniques. Baroque music expanded the size, range, and complexity of instrumental performance, and also established the mixed vocal/instrumental forms of opera, cantata and oratorio and the instrumental forms of the solo concerto and sonata as musical genres. Dense, complex polyphonic music, in which multiple independent melody lines were performed simultaneously (a popular example of this is the fugue), was an important part of many Baroque choral and instrumental works. Overall, Baroque music was a tool for expression and communication.
+The etymology of baroque is likely via French baroque (which originally meant a pearl of irregular shape), and from Portuguese barroco (“irregular pearl”);  also related to Spanish barrueco and Italian barocco.  The term is of uncertain ultimate origin, but possibly from Latin verrūca (“wart”) or possibly from Baroco, a technical term from scholastic logic.
+The term "baroque" is generally used by music historians to describe a broad range of styles from a wide geographic region, mostly in Europe, composed over a period of approximately 150 years. Although it was long thought that the word as a critical term was first applied to architecture, in fact it appears earlier in reference to music, in an anonymous, satirical review of the première in October 1733 of Rameau's Hippolyte et Aricie, printed in the Mercure de France in May 1734. The critic implied that the novelty in this opera was "du barocque", complaining that the music lacked coherent melody, was filled with unremitting dissonances, constantly changed key and meter, and speedily ran through every compositional device.
+Jean-Jacques Rousseau, who was a musician and composer as well as philosopher, wrote in 1768 in the Encyclopédie:  "Baroque music is that in which the harmony is confused, and loaded with modulations and dissonances. The singing is harsh and unnatural, the intonation difficult, and the movement limited. It appears that term comes from the word 'baroco' used by logicians." Rousseau was referring to the philosophical term baroco, in use since the 13th century to describe a type of elaborate and, for some, unnecessarily complicated academic argument.
+The systematic application by historians of the term "baroque" to music of this period is a relatively recent development. In 1919, Curt Sachs became the first to apply the five characteristics of Heinrich Wölfflin's theory of the Baroque systematically to music. Critics were quick to question the attempt to transpose Wölfflin's categories to music, however, and in the second quarter of the 20th century independent attempts were made by Manfred Bukofzer (in Germany and, after his immigration, in America) and by Suzanne Clercx-Lejeune (in Belgium) to use autonomous, technical analysis rather than comparative abstractions, in order to avoid the adaptation of theories based on the plastic arts and literature to music. All of these efforts resulted in appreciable disagreement about time boundaries of the period, especially concerning when it began. In English the term acquired currency only in the 1940s, in the writings of Bukofzer and Paul Henry Lang.
+As late as 1960, there was still considerable dispute in academic circles, particularly in France and Britain, whether it was meaningful to lump together music as diverse as that of Jacopo Peri, Domenico Scarlatti, and Johann Sebastian Bach under a single rubric. Nevertheless, the term has become widely used and accepted for this broad range of music. It may be helpful to distinguish the Baroque from both the preceding (Renaissance) and following (Classical) periods of musical history.
+Throughout the Baroque era, new developments in music originated in Italy, after which it took up to 20 years before they were broadly adopted in rest of the Western classical music practice. For instance, Italian composers switched to the galant style around 1730, while German composers such as Johann Sebastian Bach largely continued to write in the baroque style up to 1750.
+The Florentine Camerata was a group of humanists, musicians, poets and intellectuals in late Renaissance Florence who gathered under the patronage of Count Giovanni de' Bardi to discuss and guide trends in the arts, especially music and drama. In reference to music, they based their ideals on a perception of Classical (especially ancient Greek) musical drama that valued discourse and oration. Accordingly, they rejected their contemporaries' use of polyphony (multiple, independent melodic lines) and instrumental music, and discussed such ancient Greek music devices as monody, which consisted of a solo singing accompanied by a kithara (an ancient strummed string instrument). The early realizations of these ideas, including Jacopo Peri's Dafne and L'Euridice, marked the beginning of opera, which was a catalyst for Baroque music.
+Concerning music theory, the more widespread use of figured bass (also known as thorough bass) represents the developing importance of harmony as the linear underpinnings of polyphony. Harmony is the end result of counterpoint, and figured bass is a visual representation of those harmonies commonly employed in musical performance. With figured bass, numbers, accidentals or symbols were placed above the bassline that was read by keyboard instrument players such as harpsichord players or pipe organists (or lutenists). The numbers, accidentals or symbols indicated to the keyboard player what intervals are to be played above each bass note. The keyboard player would improvise a chord voicing for each bass note. Composers began concerning themselves with harmonic progressions, and also employed the tritone, perceived as an unstable interval, to create dissonance (it was used in the dominant seventh chord and the diminished chord). An interest in harmony had also existed among certain composers in the Renaissance, notably Carlo Gesualdo; However, the use of harmony directed towards tonality (a focus on a musical key that becomes the "home note" of a piece), rather than modality, marks the shift from the Renaissance into the Baroque period. This led to the idea that certain sequences of chords, rather than just notes, could provide a sense of closure at the end of a piece—one of the fundamental ideas that became known as tonality.
+By incorporating these new aspects of composition, Claudio Monteverdi furthered the transition from the Renaissance style of music to that of the Baroque period. He developed two individual styles of composition—the heritage of Renaissance polyphony (prima pratica) and the new basso continuo technique of the Baroque (seconda pratica). With basso continuo, a small group of musicians would play the bassline and the chords which formed the accompaniment for a melody. The basso continuo group would typically use one or more keyboard players and a lute player who would play the bassline and improvise the chords and several bass instruments (e.g., bass viola, cello, double bass) which would play the bassline. With the writing of the operas L'Orfeo and L'incoronazione di Poppea among others, Monteverdi brought considerable attention to this new genre. This Venetian style was taken handily to Germany by Heinrich Schütz, whose diverse style also evolved into the subsequent period.
+Idiomatic instrumental textures became increasingly prominent. In particular, the style luthé—the irregular and unpredictable breaking up of chordal progressions, in contrast to the regular patterning of broken chords—referred to since the early 20th century as style brisé, was established as a consistent texture in French music by Robert Ballard, in his lute books of 1611 and 1614, and by Ennemond Gaultier. This idiomatic lute figuration was later transferred to the harpsichord, for example in the keyboard music of Louis Couperin and Jean-Henri D'Anglebert, and continued to be an important influence on keyboard music throughout the 18th and early 19th centuries (in, for example, the music of Johann Sebastian Bach and Frédéric Chopin).
+The rise of the centralized court is one of the economic and political features of what is often labelled the Age of Absolutism, personified by Louis XIV of France. The style of palace, and the court system of manners and arts he fostered became the model for the rest of Europe. The realities of rising church and state patronage created the demand for organized public music, as the increasing availability of instruments created the demand for chamber music, which is music for a small ensemble of instrumentalists.
+One pre-eminent example of a court style composer is Jean-Baptiste Lully. He purchased patents from the monarchy to be the sole composer of operas for the French king and to prevent others from having operas staged. He completed 15 lyric tragedies and left unfinished Achille et Polyxène. Lully was an early example of a conductor; he would beat the time with a large staff to keep his ensembles together.
+Musically, he did not establish the string-dominated norm for orchestras, which was inherited from the Italian opera, and the characteristically French five-part disposition (violins, violas—in hautes-contre, tailles and quintes sizes—and bass violins) had been used in the ballet from the time of Louis XIII. He did, however, introduce this ensemble to the lyric theatre, with the upper parts often doubled by recorders, flutes, and oboes, and the bass by bassoons. Trumpets and kettledrums were frequently added for heroic scenes.
+The middle Baroque period in Italy is defined by the emergence of the vocal styles of cantata, oratorio, and opera during the 1630s, and a new concept of melody and harmony that elevated the status of the music to one of equality with the words, which formerly had been regarded as pre-eminent. The florid, coloratura monody of the early Baroque gave way to a simpler, more polished melodic style. These melodies were built from short, cadentially delimited ideas often based on stylized dance patterns drawn from the sarabande or the courante. The harmonies, too, might be simpler than in the early Baroque monody, to show expression in a lighter manner on the string and crescendos and diminuendos on longer notes. The accompanying bass lines were more integrated with the melody, producing a contrapuntal equivalence of the parts that later led to the device of an initial bass anticipation of the aria melody. This harmonic simplification also led to a new formal device of the differentiation of recitative (a more spoken part of opera) and aria (a part of opera that used sung melodies). The most important innovators of this style were the Romans Luigi Rossi and Giacomo Carissimi, who were primarily composers of cantatas and oratorios, respectively, and the Venetian Francesco Cavalli, who was principally an opera composer. Later important practitioners of this style include Antonio Cesti, Giovanni Legrenzi, and Alessandro Stradella.
+Arcangelo Corelli is remembered as influential for his achievements on the other side of musical technique—as a violinist who organized violin technique and pedagogy—and in purely instrumental music, particularly his advocacy and development of the concerto grosso. Whereas Lully was ensconced at court, Corelli was one of the first composers to publish widely and have his music performed all over Europe. As with Lully's stylization and organization of the opera, the concerto grosso is built on strong contrasts—sections alternate between those played by the full orchestra, and those played by a smaller group. Fast sections and slow sections were juxtaposed against each other. Numbered among his students is Antonio Vivaldi, who later composed hundreds of works based on the principles in Corelli's trio sonatas and concerti.
+In contrast to these composers, Dieterich Buxtehude was not a creature of court but instead was church musician, holding the posts of organist and Werkmeister at the Marienkirche at Lübeck. His duties as Werkmeister involved acting as the secretary, treasurer, and business manager of the church, while his position as organist included playing for all the main services, sometimes in collaboration with other instrumentalists or vocalists, who were also paid by the church. Entirely outside of his official church duties, he organised and directed a concert series known as the Abendmusiken, which included performances of sacred dramatic works regarded by his contemporaries as the equivalent of operas.
+France:
+Denis Gaultier
+Jean-Henri d'Anglebert
+Jacques Champion de Chambonnières
+Louis CouperinThe work of George Frideric Handel, Johann Sebastian Bach and their contemporaries, including Domenico Scarlatti, Antonio Vivaldi, Jean-Philippe Rameau, Georg Philipp Telemann, and others advanced the Baroque era to its climax.
+a.k.a. High BaroqueItaly:
+Alessandro Scarlatti (Neapolitan School, Neapolitan mass)
+Arcangelo Corelli (Trio sonata, Concerto grosso, La Folia)
+Giuseppe Torelli (Solo concerto)France:
+Henri Dumont
+Pierre Robert
+François Couperin
+André Campra
+Michel-Richard Delalande
+Marc-Antoine Charpentier
+Henri Desmarest
+Marin Marais
+Jean Féry RebelItaly:
+Giovanni Bononcini
+Antonio Vivaldi
+Tomaso Albinoni
+Benedetto Marcello
+Francesco Geminiani
+Pietro Locatelli
+Giovanni Battista Pergolesi
+Nicola Porpora
+Giuseppe Tartini
+Francesco Maria VeraciniProliferation:
+Erdmann Neumeister
+Estienne Roger, L'estro armonico
+Visiting Italy, e.g. Johann Kuhnau, Johann David Heinichen, Gottfried Heinrich Stölzel
+Italians abroad, e.g. Domenico Scarlatti, Antonio Caldara, Antonio Lotti, Pietro TorriFrance:
+Jean-Philippe Rameau
+Jean-Marie Leclair
+Jean Joseph de Mondonville
+Jean-Baptiste Senaillé
+Joseph Bodin de Boismortier
+Michel Corrette
+French abroad: e.g. Louis MarchandCentral Europe:
+Johann Georg Pisendel
+Georg Philipp Telemann
+Johann Sebastian Bach
+Johann Friedrich Fasch
+Jan Dismas Zelenka
+Johann Joseph Fux
+Christoph Graupner
+Johann David Heinichen
+Sylvius Leopold Weiss
+Germans abroad, e.g. George Frideric Handel, Johann Adolf ScheibeGalant music:
+Johann Mattheson
+Jean-Marie Leclair
+Johann Joachim Quantz
+Johann Adolph Hasse
+Carl Heinrich Graun
+Giovanni Battista Sammartini
+Baldassare GaluppiBach's elder sons and pupils:
+Wilhelm Friedemann Bach
+Carl Philipp Emanuel Bach (empfindsamer Stil)
+Johann Gottlieb GoldbergMannheim school:
+Johann Stamitz
+Violino piccolo
+Violin
+Viol
+Viola
+Viola d'amore
+Viola pomposa
+Tenor violin
+Cello
+Violone
+Bass violin
+Contrabass
+Lute
+Theorbo
+Archlute
+Mandora
+Bandora
+Angélique
+Mandolin
+Cittern
+Guitar
+Harp
+Hurdy-gurdyBaroque flute
+Chalumeau
+Cortol (also known as Cortholt, Curtall, Oboe family)
+Dulcian
+Musette de cour
+Baroque oboe
+Rackett
+Recorder
+BassoonCornett
+Natural horn
+Baroque trumpet
+Tromba da tirarsi (also called tromba spezzata)
+Flatt trumpet
+Serpent
+Sackbut (16th- and early 17th-century English name for FR: saquebute, saqueboute; ES: sacabuche; IT: trombone; MHG: busaun, busîne, busune / DE (since the early 17th century) Posaune)
+Trombone (English name for the same instrument, from the early 18th century)Clavichord
+Tangent piano
+Fortepiano – an early version of the piano invented ca. 1700, but did not become popular during Baroque era
+Harpsichord
+OrganTimpani
+Tambourine
+Castanets
+
+A characteristic of the Baroque form was the dance suite. Some dance suites by Bach are called partitas, although this term is also used for other collections of pieces. While the pieces in a dance suite were inspired by actual dance music, dance suites were designed for listening, not for accompanying dancers. Composers used a variety of different dance movements in their dance suites. A dance suite often consists of the following movements:
+Overture – The Baroque suite often began with a French overture ("Ouverture" in French), a slow movement which was followed by a succession of dances of different types, principally the following four:
+Allemande – Often the first dance of an instrumental suite, the allemande was a very popular dance that had its origins in the German Renaissance era. The allemande was played at a moderate tempo and could start on any beat of the bar.
+Courante – The second dance is the courante, a lively, French dance in triple meter. The Italian version is called the corrente.
+Sarabande – The sarabande, a Spanish dance, is the third of the four basic dances, and is one of the slowest of the baroque dances. It is also in triple meter and can start on any beat of the bar, although there is an emphasis on the second beat, creating the characteristic 'halting', or iambic rhythm of the sarabande.
+Gigue – The gigue is an upbeat and lively baroque dance in compound meter, typically the concluding movement of an instrumental suite, and the fourth of its basic dance types. The gigue can start on any beat of the bar and is easily recognized by its rhythmic feel. The gigue originated in the British Isles. Its counterpart in folk music is the jig.These four dance types (allemande, courante, sarabande, and gigue) make up the majority of 17th-century suites; later suites interpolate one or more additional dances between the sarabande and gigue:
+Gavotte – The gavotte can be identified by a variety of features; it is in 4 time and always starts on the third beat of the bar, although this may sound like the first beat in some cases, as the first and third beats are the strong beats in quadruple time. The gavotte is played at a moderate tempo, although in some cases it may be played faster.
+Bourrée – The bourrée is similar to the gavotte as it is in 2 time, although it starts on the second half of the last beat of the bar, creating a different feel to the dance. The bourrée is commonly played at a moderate tempo, although for some composers, such as Handel, it can be taken at a much faster tempo.
+Minuet – The minuet is perhaps the best-known of the baroque dances in triple meter. It does not have an anacrusis. In some suites there may be a Minuet I and II, played in succession, with the Minuet I repeated but without the internal repeats.
+Passepied – The passepied is a fast dance in binary form and triple meter that originated as a court dance in Brittany. Examples can be found in later suites such as those of Bach and Handel.
+Rigaudon – The rigaudon is a lively French dance in duple meter, similar to the bourrée, but rhythmically simpler. It originated as a family of closely related southern-French folk dances, traditionally associated with the provinces of Vavarais, Languedoc, Dauphiné, and Provence.Additionally, there are numerous other dance forms as well as other pieces that could be included in a suite, such as Polonaise, Loure, Scherzo, Air, etc.
+Prelude – a suite might be started by a prelude, a slow piece written in an improvisatory style. Some Baroque preludes were not fully written out; instead, a sequence of chords were indicated, with the expectation that the instrumentalist would be able to improvise a melodic part using the indicated harmonic framework. The prelude was not based on a type of dance.
+Entrée – Sometimes an entrée is composed as part of a suite; but there it is purely instrumental music and no dance is performed. It is an introduction, a march-like piece played during the entrance of a dancing group, or played before a ballet. Usually in 4 time. It is related to the Italian 'intrada'.
+Basso continuo – a kind of continuous accompaniment notated with a new music notation system, figured bass, usually for one or more sustaining bass instruments (e.g., cello) and one or more chord-playing instruments (e.g., keyboard instruments such as harpsichord, pipe organ or lute)
+The concerto (a solo piece with orchestral accompaniment) and concerto grosso
+Monody – an outgrowth of song
+Homophony – music with one melodic voice and rhythmically similar (and subordinate) chordal accompaniment (this and monody are contrasted with the typical Renaissance texture, polyphony)
+Dramatic musical forms like opera, dramma per musica
+Combined instrumental-vocal forms, such as the oratorio and cantata, both of which used singers and orchestra
+New instrumental techniques, like tremolo and pizzicato
+The da capo aria "enjoyed sureness".
+The ritornello aria – repeated short instrumental interruptions of vocal passages.
+The concertato style – contrast in sound between groups of instruments.
+Extensive ornamentation, which was typically improvised by singers and instrumentalists (e.g., trills, mordents, etc.)Opera
+Singspiel
+Ballad opera
+Semi-opera
+Zarzuela
+Intermezzo
+Opera buffa
+Opera seria
+Opéra comique
+Opera-ballet
+Tragédie en musique
+Ballet de cour
+Masque
+Oratorio
+Passion (music)
+Cantata
+Mass (music)
+Anthem
+Monody
+ChoraleChorale composition
+Concerto
+Concerto grosso
+Fugue
+Suite
+Allemande
+Courante
+Sarabande
+Gigue
+Gavotte
+Minuet
+Sonata
+Sonata da camera
+Sonata da chiesa
+Trio sonata
+Partita
+Canzona
+Sinfonia
+Fantasia
+Ricercar
+Toccata
+Prelude
+Chaconne
+Passacaglia
+Chorale prelude
+Stylus fantasticusChristensen, Thomas Street, and Peter Dejans. Towards Tonality Aspects of Baroque Music Theory. Leuven: Leuven University Press, 2007. ISBN 978-90-5867-587-3
+Cyr, Mary. Essays on the Performance of Baroque Music Opera and Chamber Music in France and England. Variorum collected studies series, 899. Aldershot, Hants, England: Ashgate, 2008. ISBN 978-0-7546-5926-6
+Foreman, Edward. A Bel Canto Method, or, How to Sing Italian Baroque Music Correctly Based on the Primary Sources. Twentieth century masterworks on singing, v. 12. Minneapolis, Minn: Pro Musica Press, 2006. ISBN 978-1-887117-18-0
+Hebson, Audrey (2012). "Dance and Its Importance in Bach's Suites for Solo Cello", Musical Offerings: Vol. 1: No. 2, Article 2. Available at http://digitalcommons.cedarville.edu/musicalofferings/vol1/iss2/2.
+Hoffer, Brandi (2012). "Sacred German Music in the Thirty Years' War", Musical Offerings: Vol. 3: No. 1, Article 1. Available at http://digitalcommons.cedarville.edu/musicalofferings/vol3/iss1/1.
+Schubert, Peter, and Christoph Neidhöfer. Baroque Counterpoint. Upper Saddle River, NJ: Pearson Prentice Hall, 2006. ISBN 978-0-13-183442-2
+Schulenberg, David. Music of the Baroque. New York: Oxford UP, 2001. ISBN 978-0-19-512232-9
+Stauffer, George B. The World of Baroque Music New Perspectives. Bloomington: Indiana University Press, 2006. ISBN 978-0-253-34798-5
+Strunk, Oliver. Source Readings in Music History. From Classical Antiquity to the Romantic Era. London: Faber & Faber, 1952.Handel's Harpsichord Room – free recordings of harpsichord music of the Baroque era
+Renaissance & Baroque Music Chronology: Composers
+Orpheon Foundation in Vienna, Austria
+Free scores by various baroque composers at the International Music Score Library Project (IMSLP)
+Music, Affect and Fire: Thesis on Affect Theory with Fire as the special topic
+Répertoire International des Sources Musicales (RISM), a free, searchable database of worldwide locations for music manuscripts up to c. 1800

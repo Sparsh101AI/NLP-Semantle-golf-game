@@ -1,0 +1,6 @@
+https://cloud.google.com/stackdriver
+https://cloud.google.com/products/operations
+http://www.bizjournals.com/boston/blog/startups/2012/09/stackdriver-bain-capital-ventures.html?page=all
+https://www.theregister.co.uk/2013/05/02/stackdriver_intelligent_monitoring/
+https://techcrunch.com/2014/05/07/google-acquires-cloud-monitoring-service-stackdriver/
+https://cloudplatform.googleblog.com/2016/10/Google-Stackdriver-Generally-Available.html

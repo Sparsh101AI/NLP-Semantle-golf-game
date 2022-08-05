@@ -1,0 +1,17 @@
+The life expectancy is shown separately for males and for females, as well as a combined figure. Several non-sovereign entities and territories are also included in this list.
+The figures reflect the quality of healthcare in the countries listed as well as other factors including ongoing wars, obesity, and HIV infections.
+From the beginning of the current century there is a tendency to also estimate Healthy life expectancy (HALE) — the average number of years that a person can expect to live in "full health".
+Comparing life expectancies across countries can be problematic. For example, due to poor reporting in some countries and various local standards in collecting statistics. This is especially true for Healthy life expectancy, the definition of which criteria  may change over time, even within a country.
+Data of the World Bank Group for 2020. The values in the World Bank Group tables are rounded. All calculations were done on raw data, therefore, due to the nuances of rounding, in some places illusory inconsistencies of indicators arose, with a size of 0.01 year.
+According to data published by World Health Organization in December 2020. By default, data is sorted by life expectancy at birth for all population, and in case of equal values by HALE for all population.
+
+Data published by United Nations Development Programme in 2019.
+The US CIA published the following life expectancy data in its World Factbook.
+
+
+Data of the World Bank Group for 2019.
+Global Agewatch has the latest internationally comparable statistics on life expectancy from 195 countries.
+Life expectancy trends interactive graph
+Life expectancy interactive world map
+Global Life Expectancy (Infographic)|LiveScience
+U.S. States life expectancy compared to the world (Infographic & Study)|Simply Insurance

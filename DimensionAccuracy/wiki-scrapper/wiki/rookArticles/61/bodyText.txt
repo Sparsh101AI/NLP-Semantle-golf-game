@@ -1,0 +1,31 @@
+The Allison T78 was a turboprop engine that first ran in March 1965. It used a regenerator that recovered and reused exhaust heat to reduce fuel consumption.
+In July 1963, the U.S. Navy chose the Model 545-B2 from the Allison Division of General Motors for development as a regenerative turboprop engine. Allison was chosen instead of bids from Pratt & Whitney, General Electric, Curtiss-Wright, and Avco Lycoming. The engine was to be used for the aircraft carrier-based VSX airplane and a new version of the Lockheed P-3A Orion anti-submarine warfare (ASW) aircraft. It also had possible applications as an airborne early warning (AEW) aircraft or a patrol aircraft, and the U.S. Army studied variants of the engine to power its proposed heavy lift helicopter. The 545-B2 was given the U.S. military aircraft engine designation of T78. It was scheduled to complete the preliminary flight rating test (PFRT) by December 1966 and model qualification testing (MQT) by April 1968.
+However, in March 1965 it was revealed that the Navy's request to fund development of the T78 for fiscal year 1965 had been rejected. In that month, the T78 had run for the first time, one month ahead of schedule. The T78 project was abandoned after about 350 hours of testing, because the Navy lacked a clear operational requirement for it.
+The engine had a regenerated design, which preheated the air that exited the compressor in a heat exchanger with hot air from the engine's exhaust before the compressed air entered the combustion chamber. The regenerator section formed a large ringlike duct surrounding the exhaust nozzle and contained about 4,500 tubes. Because of this design, the temperature of the compressed air entering the combustion chamber was several hundred degrees hotter than air from an equivalent non-regenerated engine. The design of the regenerator was provided by Garrett AiResearch. The regenerated engine was designed for possible new classes of military aircraft, which would be required to have the ability to stay airborne for three or more days at a time.
+T78-A-2
+Military turboprop variant.
+545-B2
+Internal designation for the baseline T78 turboprop. The engine targeted a brake-specific fuel consumption (BSFC) of 0.3 lb/(hp⋅h) (180 g/kWh) to match reciprocating engine rates of BSFC. Chosen by the U.S. Navy in July 1963 to install on anti-submarine aircraft. Also drew U.S. Air Force interest as a high-endurance missile-launching aircraft.
+545-C2
+Front-drive regenerative turboshaft that has variable speed and constant turbine inlet temperature. Weight of 1,141 lb (518 kg), sea-level static military power of 4,105 shp (3,061 kW), and BSFC of 0.503 lb/(hp⋅h) (306 g/kWh).
+545-C3
+Similar to the 545-C2 but has constant speed and variable turbine inlet temperature.
+546-C2
+Non-regenerative turboshaft that has variable speed and variable turbine inlet temperature.
+546-C3
+Similar to the 546-C2 but has constant speed. Weight of 681 lb (309 kg), sea-level static military power of 4,511 shp (3,364 kW), and BSFC of 0.479 lb/(hp⋅h) (291 g/kWh).
+548-C2
+Rear-drive, non-regenerative, free-turbine turboshaft that has direct-drive and 3.22:1 reduction gearbox options. Sea-level static military power of 4,490 shp (3,350 kW) for direct drive or 4,468 shp (3,332 kW) for reduction gearbox.
+548-D2
+Regenerative version of the 548-C2.
+548-RT
+Named for its remote turbine (RT) drive system, as it resembles the 548-C2 but without the free turbine. Sea-level static military power of 4,354 shp (3,247 kW), and BSFC of 0.496 lb/(hp⋅h) (302 g/kWh).Type: Turboprop
+Length: 160 in (4,100 mm)
+Diameter: 35 in (890 mm)
+Dry weight: 1,565 lb (710 kg)Compressor: 14-stage with variable geometry vanes
+Turbine: 4-stageMaximum power output: 4,125 shp (3,076 kW)
+Overall pressure ratio: 11.7
+Power-to-weight ratio:
+Related development
+Allison Model 250-E3
+Allison T56T78-A-2 web page from the National Air and Space Museum

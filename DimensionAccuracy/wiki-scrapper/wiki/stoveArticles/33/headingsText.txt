@@ -1,0 +1,14 @@
+Benefits
+Converting to SSA
+Computing minimal SSA using dominance frontiers
+Variations that reduce the number of Φ functions
+Pruned SSA
+Semi-pruned SSA
+Block arguments
+Converting out of SSA form
+Extensions
+Compilers using SSA form
+References
+Notes
+General references
+External links

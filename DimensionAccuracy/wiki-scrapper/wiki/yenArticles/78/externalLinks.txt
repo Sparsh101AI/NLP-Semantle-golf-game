@@ -1,0 +1,13 @@
+//geohack.toolforge.org/geohack.php?pagename=Browns_Point,_Washington&params=47_18_21_N_122_26_38_W_type:city_region:US-WA
+//geohack.toolforge.org/geohack.php?pagename=Browns_Point,_Washington&params=47_18_21_N_122_26_38_W_type:city_region:US-WA
+//geohack.toolforge.org/geohack.php?pagename=Browns_Point,_Washington&params=47_18_21_N_122_26_38_W_type:city
+https://www.census.gov/geo/www/gazetteer/gazette.html
+https://books.google.com/books?id=CoWrPQAACAAJ
+http://www.pointsnortheast.org
+https://web.archive.org/web/20150427124825/http://www.lighthousefriends.com/light.asp?ID=121
+http://www.metroparkstacoma.org/page.php?id=65
+http://www.historylink.org/essays/output.cfm?file_id=5648
+https://en.wikipedia.org/w/index.php?title=Template:Pierce_County,_Washington&action=edit
+https://catalog.archives.gov/id/10042829
+https://en.wikipedia.org/w/index.php?title=Browns_Point,_Washington&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:PierceCountyWA-geo-stub&action=edit

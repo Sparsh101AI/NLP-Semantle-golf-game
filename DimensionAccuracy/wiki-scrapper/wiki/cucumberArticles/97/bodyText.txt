@@ -1,0 +1,155 @@
+An endonym (from Greek: éndon, 'inner' + ónoma, 'name'; also known as autonym) is a common, native name for a geographical place, group of people, individual person, language or dialect, meaning that it is used inside that particular place, group, or linguistic community in question; it is their self-designated name for themselves, their homeland, or their language.
+An exonym (from Greek: éxō, 'outer' + ónoma, 'name'; also known as xenonym) is a common, non-native name for a geographical place, group of people, individual person, language or dialect, meaning that it is used only outside that particular place, group, or linguistic community. Exonyms exist not only for historico-geographical reasons, but also in consideration of difficulties when pronouncing foreign words.
+For instance, Deutschland is the endonym for the country that is also known by the exonym Germany in English and Allemagne in French.
+The terms autonym, endonym, exonym and xenonym are formed by adding specific prefixes to the Greek root word ónoma (ὄνομα, 'name'), from Proto-Indo-European *h₃nómn̥.
+The prefixes added to these terms are also derived from Greek:
+endonym: éndon (ἔνδον, 'within');
+exonym: éxō (ἔξω, 'outside');
+autonym: autós (αὐτός, 'self'); and
+xenonym: xénos (ξένος, 'foreign').The terms autonym and xenonym also had different applications, thus leaving endonym and exonym as the preferred forms.
+Marcel Aurousseau, an Australian geographer, first used the term exonym in his work The Rendering of Geographical Names (1957). The term endonym was subsequently devised as a retronymic antonym for the term exonym.
+Endonyms and exonyms can be divided in three main categories:
+endonyms and exonyms of place names (toponyms),
+endonyms and exonyms of human names (anthroponyms), including names of ethnic groups (ethnonyms), localised populations (demonyms), and individuals (personal names),
+endonyms and exonyms of language names (glossonyms).As it pertains to geographical features, the United Nations Group of Experts on Geographical Names defines:
+Endonym: "Name of a geographical feature in an official or well-established language occurring in that area where the feature is located."
+Exonym: "Name used in a specific language for a geographical feature situated outside the area where that language is spoken, and differing in its form from the name used in an official or well-established language of that area where the geographical feature is located."For example, India, China, Egypt, and Germany are the English-language exonyms corresponding to the endonyms Bhārat (भारत), Zhōngguó (中国), Masr (مَصر), and Deutschland, respectively.
+In the case of endonyms and exonyms of language names (glossonyms), Chinese, German, and Dutch, for example, are English-language exonyms for the languages that are endonymously known as Zhōngwén (中文), Deutsch, and Nederlands, respectively.
+By their relation to endonyms, all exonyms can be divided in three main categories:
+those derived from different roots, as in the case of Germany for Deutschland;
+those that are cognate words, diverged only in pronunciation or orthography;
+those that are fully or partially translated (a calque) from the native language.Sometimes, a place name may be unable to use many of the letters when transliterated into an exonym because of the corresponding language’s lack of common sounds. Māori, having only one liquid consonant, is an example of this here.
+London (originally Latin: Londinium), for example, is known by the cognate exonyms:
+Londres in Catalan, Filipino, French, Galician, Portuguese, and Spanish;
+Londino (Λονδίνο) in Greek;
+Londen in Dutch;
+Londra in Italian, Maltese, Romanian, Sardinian and Turkish;
+Londër in Albanian;
+Londýn in Czech and Slovak;
+Londyn in Polish;
+Rānana in Māori;
+Lundúnir in Icelandic;
+Londain in Irish;
+Lunnainn in Scottish Gaelic;
+Llundain in Welsh;
+Lontoo in Finnish;
+Landan (لندن) in Persian;
+London (Լոնդոն) in Armenian.An example of a translated exonym is the name for the Netherlands (Nederland in Dutch) used, respectively, in French (Pays-Bas), Italian (Paesi Bassi), Spanish (Países Bajos) and Portuguese (Países Baixos), all of which mean "Low Countries".
+Exonyms can also be divided into native and borrowed, i.e. from a third language. For example, the Slovene exonyms Dunaj (Vienna) and Benetke (Venice) are native, but the Avar name of Paris, Париж (Parizh) is borrowed from Russian Париж (Parizh), which comes from Polish Paryż, which comes from Italian Parigi.
+A substantial proportion of English-language exonyms for places in continental Europe are borrowed (or adapted) from French; for example:
+Belgrade (Serbian: Београд, romanized: Beograd);
+Cologne (German: Köln);
+Florence (Italian: Firenze);
+Munich (German: München);
+Naples (Italian: Napoli / Neapolitan: Napule);
+Navarre (Spanish: Navarra / Basque: Nafarroa);
+Prague (Czech: Praha); and
+Rome (Italian: Roma).According to James Matisoff, who introduced the term autonym into linguistics: "Human nature being what it is, exonyms are liable to be pejorative rather than complimentary, especially where there is a real or fancied difference in cultural level between the ingroup and the outgroup." For example, Matisoff notes, Khang "an opprobrious term indicating mixed race or parentage" is the Palaung name for Jingpo people and the Jingpo name for Chin people; both the Jingpo and Burmese use the Chinese word yeren (野人; 'wild men, savage, rustic people') as the name for Lisu people.
+Exonyms develop for places of significance for speakers of the language of the exonym. Consequently, many European capitals have English exonyms, for example:
+Athens (Greek: Αθήνα, romanized: Athína);
+Belgrade (Serbian: Београд, romanized: Beograd);
+Bucharest (Romanian: București);
+Brussels (French: Bruxelles, Dutch: Brussel);
+Copenhagen (Danish: København);
+Lisbon (Portuguese: Lisboa);
+Moscow (Russian: Москва, romanized: Moskva);
+Prague (Czech: Praha);
+Rome (Italian: Roma);
+Vienna (German: Wien); and
+Warsaw (Polish: Warszawa).In contrast, historically less-prominent capitals such as Ljubljana and Zagreb do not have English exonyms, but do have exonyms in languages spoken nearby, e.g. German: Laibach and Agram (the latter being obsolete); Italian: Lubiana and Zagabria. Madrid, Berlin, Oslo, and Amsterdam, with identical names in most major European languages, are exceptions.
+Some European cities might be considered partial exceptions, in that whilst the spelling is the same across languages, the pronunciation can differ. For example, the city of Paris is spelled the same way in French and English, but the French pronunciation [paʁi] is different from the English pronunciation [ˈpærɪs].
+For places considered to be of lesser significance, attempts to reproduce local names have been made in English since the time of the Crusades. Livorno, for instance, was Leghorn because it was an Italian port essential to English merchants and, by the 18th century, to the British Navy; not far away, Rapallo, a minor port on the same sea, never received an exonym.
+In earlier times, the name of the first tribe or village encountered became the exonym for the whole people beyond. Thus, the Romans used the tribal names Graecus (Greek) and Germanus (Germanic), the Russians used the village name of Chechen, medieval Europeans took the tribal name Tatar as emblematic for the whole Mongolic confederation (and then confused it with Tartarus, a word for Hell, to produce Tartar), and the Magyar invaders were equated with the 500-years-earlier Hunnish invaders in the same territory, and were called Hungarians.
+The Germanic invaders of the Roman Empire applied the word "Walha" to foreigners they encountered and this evolved in West Germanic languages as a generic name for all non-Germanic speakers; thence, the names Wallachia, Vlachs, Wallonia, Walloons, Cornwall, Wales, Wallasey, Welche in Alsace-Lorraine, and even the Polish name for Italy, Włochy.
+During the late 20th century, the use of exonyms often became controversial. Groups often prefer that outsiders avoid exonyms where they have come to be used in a pejorative way. For example, Romani people often prefer that term to exonyms such as Gypsy (from the name of Egypt), and the French term bohémien, bohème (from the name of Bohemia). People may also avoid exonyms for reasons of historical sensitivity, as in the case of German names for Polish and Czech places that, at one time, had been ethnically or politically German (e.g. Danzig/Gdańsk, Auschwitz/Oświęcim and Karlsbad/Karlovy Vary); and Russian names for non-Russian locations that were subsequently renamed or had their spelling changed (e.g. Kiev/Kyiv).
+
+In recent years, geographers have sought to reduce the use of exonyms to avoid this kind of problem. For example, it is now common for Spanish speakers to refer to the Turkish capital as Ankara rather than use the Spanish exonym Angora. According to the United Nations Statistics Division:Time has, however, shown that initial ambitious attempts to rapidly decrease the number of exonyms were over-optimistic and not possible to realise in the intended way. The reason would appear to be that many exonyms have become common words in a language and can be seen as part of the language's cultural heritage.In some situations, the use of exonyms can be preferred. For instance, in multilingual cities such as Brussels, which is known for its linguistic tensions between Dutch- and French-speakers, a neutral name may be preferred so as to not offend anyone. Thus, an exonym such as Brussels in English could be used instead of favoring either one of the local names (Dutch/Flemish: Brussel; French: Bruxelles).
+Other difficulties with endonyms have to do with pronunciation, spelling, and word category. The endonym may include sounds and spellings that are highly unfamiliar to speakers of other languages, making appropriate usage difficult if not impossible for an outsider. Over the years, the endonym may have undergone phonetic changes, either in the original language or the borrowing language, thus changing an endonym into an exonym, as in the case of Paris, where the s was formerly pronounced in French. Another example is the endonym for the German city of Cologne, where the Latin original of Colonia has evolved into Köln in German, while the Italian and Spanish exonym Colonia or the Portuguese Colónia closely reflects the Latin original.
+In some cases, no standardised spelling is available, either because the language itself is unwritten (even unanalysed) or because there are competing non-standard spellings. Use of a misspelled endonym is perhaps more problematic than the respectful use of an existing exonym. Finally, an endonym may be a plural noun and may not naturally extend itself to adjectival usage in another language like English, which has a propensity to use the adjectives for describing culture and language. The attempt to use the endonym thus has a bizarre-sounding result.
+Sometimes the government of a country tries to endorse the use of an endonym instead of traditional exonyms outside the country:
+In 1782, King Yotfa Chulalok of Siam moved the government seat from Thon Buri Province to Phra Nakhon Province. In 1972 the Thai government merged Thon Buri and Phra Nakhon, forming the new capital, Krungthep Mahanakhon. However, outside of Thailand, the capital retained the old name and is still called Bangkok.
+In 1935, Reza Shah requested that foreign nations use the name Iran rather than Persia in official correspondence. The name of the country had internally been Iran since the time of the Sassanid Empire (224–651), whereas the name Persia is descended from Greek Persis (Περσίς), referring to a single province which is officially known as Fars Province.
+In 1949, the government of Siam changed the name to Thailand, although the former name's adjective in English (Siamese) was retained as the name for the fish, cat and conjoined twins.
+In 1972, the government of Ceylon (the word is the anglicized form of Portuguese Ceilão) changed the name to Sri Lanka, although the name Ceylon was retained as the name for that type of tea.
+In 1985, the government of Côte d'Ivoire requested that the country's French name be used in all languages instead of exonyms such as Ivory Coast, so that Côte d'Ivoire is now the official English name of that country in the United Nations and the International Olympic Committee (see name of Côte d'Ivoire). In most non-Francophone countries, however, the French version has not entered common parlance. For example, in German the country is known as die Elfenbeinküste, in Spanish as Costa de Marfil and in Italian as Costa d'Avorio.
+In 1989, the government of Burma requested that the English name of the country be Myanmar, with Myanma as the adjective of the country and Bamar as the name of the inhabitants (see names of Burma).
+The Government of India officially changed the English name of Bombay to Mumbai in November 1995, following a trend of renaming of cities and states in India that has occurred since independence.
+The Ukrainian government maintains that the capital of Ukraine should be spelled Kyiv in English because the traditional English exonym Kiev was derived from the Russian name Kiyev (Киев) (see Name of Kyiv).
+The Belarusian government argues that the endonym Belarus should be used in all languages. The result has been rather successful in English, where the former exonym Byelorussia/Belorussia, still used with reference to the Soviet Republic, has virtually died out; in other languages, exonyms are still much more common than Belarus, for instance in Danish Hviderusland, Dutch Wit-Rusland, Estonian Valgevene, Faroese Hvítarussland, Finnish Valko-Venäjä, German Weißrussland, Greek Lefkorosía (Λευκορωσία), Hungarian Fehéroroszország, Icelandic Hvíta-Rússland, Swedish Vitryssland, Turkish Beyaz Rusya, Chinese Bái'èluósī (白俄罗斯), Arabic rusia albayda' (روسيا البيضاء) (all literally 'White Russia'), or French Biélorussie, Italian Bielorussia, Portuguese Bielorrússia, Spanish Bielorrusia, and Serbian Belorusija (Белорусија).
+The government of Georgia has been working to have the country renamed from the Russian-derived exonym of Gruzia in foreign languages to Georgia. Most countries have adopted this change, except for Lithuania, which adopted Sakartvelas (a Lithuanianised version of the country's endonym). As a response, Georgia changed the name of Lithuania in Georgian from the Russian-derived Lit’va (ლიტვა) to the endonym Liet’uva (ლიეტუვა). Ukrainian politicians have also suggested that Ukraine change the Ukrainian name of Georgia from Hruzia (Грузія) to Sakartvelo (Сакартвело).
+In 2006, the South Korean national government officially changed the Chinese name of its capital, Seoul, from the exonym Hànchéng (漢城/汉城) to Shŏu'ér (首爾/首尔). This use has now been made official within China.
+In December 2021, a circular was issued by President Recep Tayyip Erdoğan of Turkey ordering the use of Türkiye (also rendered Turkiye in English) instead of exonyms in official communications, no matter the language.Following the 1979 declaration of Hanyu Pinyin spelling as the standard romanisation of Chinese, many Chinese endonyms have successfully replaced English exonyms, especially city and most provincial names in mainland China, for example: Beijing (北京; Běijīng), Qingdao (青岛; Qīngdǎo), and the Province of Guangdong (广东; Guǎngdōng). However, older English exonyms are sometimes used in certain contexts, for example: Peking (Beijing; duck, opera, etc.), Tsingtao (Qingdao), and Canton (Guangdong). In some cases the traditional English exonym is based on a local Chinese dialect instead of Mandarin, in the case of Xiamen, where the name Amoy is closer to the Hokkien pronunciation.
+In the case of Beijing, the adoption of the exonym by media outlets quickly gave rise to a hyperforeignised pronunciation, with the result that many English speakers actualize the j in Beijing as /ʒ/. One exception of Pinyin standardization in mainland China is the spelling of the province Shaanxi, which is the Gwoyeu Romatzyh spelling of the province. That is because if Pinyin were used to spell the province, it would be indistinguishable from its neighboring province Shanxi, where the pronunciations of the two provinces only differ by tones, which are usually not written down when used in English.
+In Taiwan, however, the standardization of Hanyu Pinyin has only seen mixed results. In Taipei, most (but not all) street and district names shifted to Hanyu Pinyin. For example, the Sinyi District is now spelled Xinyi. However, districts like Tamsui and even Taipei itself are not spelled according to Hanyu Pinyin spelling rules. As a matter of fact, most names of Taiwanese cities are still spelled using Chinese postal romanization, including Taipei, Taichung, Taitung, Keelung, and Kaohsiung.
+Matisoff wrote, "A group's autonym is often egocentric, equating the name of the people with 'mankind in general,' or the name of the language with 'human speech'."
+In Basque, the term erdara/erdera is used for speakers of any language different from Basque (usually Spanish or French).
+Many millennia earlier, the Greeks thought that all non-Greeks were uncultured and so called them "barbarians", which eventually gave rise to the exonym "Berber".
+Exonyms often describe others as "foreign-speaking", "non-speaking", or "nonsense-speaking". One example is the Slavic term for the Germans, nemtsi, possibly deriving from a plural of nemy ("mute"); standard etymology has it that the Slavic peoples referred to their Germanic neighbors as "mutes" because their language was unintelligible. The term survives to this day in the Slavic languages (e.g. Russian nemtsy; немцы), and was borrowed into Hungarian, Romanian, and Ottoman Turkish (in which case it referred specifically to Austria).
+One of the more prominent theories regarding the origin of the term "Slav" suggests that it comes from the Slavic root slovo (hence "Slovakia" and "Slovenia" for example), meaning 'word' or 'speech'. In this context, the Slavs are describing Germanic people as "mutes"—in contrast to themselves, "the speaking ones".
+The most common names of several Indigenous American tribes derive from pejorative exonyms. The name "Apache" most likely derives from a Zuni word meaning "enemy". The name "Sioux", an abbreviated form of Nadouessioux, most likely derived from a Proto-Algonquian term, *-a·towe· ('foreign-speaking'). The name "Comanche" comes from the Ute word kɨmantsi meaning "enemy, stranger". The Ancestral Puebloans are also known as the "Anasazi", a Navajo word meaning "ancient enemies", and contemporary Puebloans discourage use of the exonym.
+Various Native-American autonyms are sometimes explained to English readers as having literal translations of "original people" or "normal people", with implicit contrast to other first nations as not original or not normal.
+Exonyms and endonyms must not be confused with the results of geographical renaming as in the case of Saint Petersburg, which became Petrograd (Петроград) in 1914, Leningrad (Ленинград) in 1924, and again Saint Petersburg (Санкт-Петербург, Sankt-Peterbúrg) in 1991. In this case, although Saint Petersburg has a German etymology, it was never a German exonym for the city between 1914 and 1991, just as Nieuw Amsterdam, the Dutch name of New York City until 1664, is not its Dutch exonym.
+Old place names that have become outdated after renaming may afterwards still be used as historicisms. For example, even today one would talk about the Siege of Leningrad, not the Siege of St. Petersburg, because at that time (1941–1944) the city was called Leningrad. Likewise, one would say that Immanuel Kant was born in Königsberg in 1724, not in Kaliningrad (Калининград), as it has been called since 1946.
+Likewise, Istanbul (Turkish: İstanbul) is still called Constantinople (Κωνσταντινούπολη) in Greek, although the name was changed in Turkish to dissociate the city from its Greek past between 1923 and 1930 (the name Istanbul itself derives from a Medieval Greek phrase). Prior to Constantinople, the city was known in Greek as Byzantion (Greek: Βυζάντιον, Latin: Byzantium), named after its mythical founder, Byzas.
+Although the pronunciation for several names of Chinese cities such as Beijing and Nanjing has not changed for quite some while in Mandarin Chinese (although the prestige dialect shifted from Nanjing dialect to Beijing dialect during the 19th century), they were called Peking and Nanking in English due to the older Chinese postal romanization convention, based largely on the Nanjing dialect, which was used for transcribing Chinese place names before Pinyin, based largely on the Beijing dialect became the official romanization method for Mandarin in the 1970s. Since the Mandarin pronunciation does not perfectly map to an English phoneme, English speakers using either romanization will not pronounce the names correctly if standard English pronunciation is used. Nonetheless, many older English speakers still refer to the cities by their older English names and even today they are often used in naming things associated with the cities like Peking opera, Peking duck, and Peking University to give them a more antiquated or more elegant feel. Like for Saint Petersburg, the historical event called the Nanking Massacre (1937) uses the city's older name because that was the name of the city at the time of occurrence.
+Likewise, many Korean cities like Busan and Incheon (formerly Pusan and Inchǒn respectively) also underwent changes in spelling due to changes in romanization, even though the Korean pronunciations have largely stayed the same.
+The name Madras, now Chennai, may be a special case. When the city was first settled by English people, in the early 17th century, both names were in use. They possibly referred to different villages which were fused into the new settlement. In any case, Madras became the exonym, while more recently, Chennai became the endonym. Madrasi, a term for a native of the city, has often been used derogatorily to refer to the people of Dravidian origin from the southern states of India.
+Latin exonyms
+List of English exonyms
+English exonyms for German toponyms
+English-translated personal names
+List of French exonyms
+French exonyms for Dutch toponyms
+French exonyms for German toponyms
+French exonyms for Italian toponyms
+List of German exonyms
+German names for Central European towns
+German exonyms for places in Belgium
+German exonyms for places in Croatia
+German exonyms for places in Denmark
+German exonyms for places in Estonia
+German exonyms for places in Hungary
+German exonyms for places in Latvia
+German exonyms for places in Slovakia
+German exonyms for places in Switzerland
+List of European exonyms
+Names of European cities in different languages
+Finnish exonyms
+Greek exonyms
+Italian exonyms
+Portuguese exonyms
+Icelandic exonyms
+Romanian exonyms
+Russian exonyms
+Slavic toponyms for Greek places
+Swedish exonyms
+Welsh names for other places in Britain and Ireland
+African / Asian / Middle-Eastern / Eurasian exonyms
+Afrikaans exonyms
+Arabic exonyms
+Azerbaijani exonyms
+Armenian exonyms
+Chinese exonyms
+Japanese exonyms
+Turkish exonyms
+Vietnamese exonymsEmic and etic
+-onym
+ShibbolethList of countries and dependencies and their capitals in native languages
+List of adjectival and demonymic forms of place names
+List of language names
+List of alternative country names
+List of country names in various languages
+List of Latin place names in Europe
+List of European regions with alternative names
+List of European rivers with alternative names
+List of traditional Greek place names
+List of Coptic placenames
+Place names in Irish
+Names of places in Finland in Finnish and in Swedish
+List of renamed Indian cities and states2006 UN document discussing exonyms (PDF)
+Jacek Wesołowski's Place Names in Europe, featuring endonyms and exonyms for many cities
+"Does Juliet's Rose, by Any Other Name, Smell as Sweet?" by Verónica Albin.
+Looking up in exonym database
+European geographical names infrastructure and services (EuroGeoNames)
+UN document describing EuroGeoNames (PDF)
+World map of country endonyms

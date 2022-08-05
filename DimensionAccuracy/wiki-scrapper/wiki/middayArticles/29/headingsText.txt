@@ -1,0 +1,37 @@
+History
+Wireless networks
+Underlying technology
+Wireless links
+Types of wireless networks
+Wireless PAN
+Wireless LAN
+Wireless ad hoc network
+Wireless MAN
+Wireless WAN
+Cellular network
+Private LTE/5G networks
+Open Source
+Global area network
+Space network
+Uses
+Properties
+General
+Performance
+Space
+Home
+Wireless network elements
+Difficulties
+Interference
+Absorption and reflection
+Multipath fading
+Hidden node problem
+Exposed terminal node problem
+Shared resource problem
+Capacity
+Channel
+Network
+Safety
+See also
+References
+Further reading
+External links

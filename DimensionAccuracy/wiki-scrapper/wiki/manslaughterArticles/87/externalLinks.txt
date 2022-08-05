@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=King_of_Italy&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22King+of+Italy%22
+//www.google.com/search?tbm=nws&q=%22King+of+Italy%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22King+of+Italy%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22King+of+Italy%22+-wikipedia
+//scholar.google.com/scholar?q=%22King+of+Italy%22
+https://www.jstor.org/action/doBasicSearch?Query=%22King+of+Italy%22&acc=on&wc=on
+https://books.google.com/books?id=sE8IAAAAQAAJ&vq=
+https://books.google.com/books?id=RY6VmGuAaCkC
+https://books.google.com/books?id=dpk3AAAAIAAJ&source=gbs_navlinks_s&redir_esc=y
+https://en.wikipedia.org/w/index.php?title=Template:Antique_Kings_of_Italy&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Kings_of_Italy_(1861%E2%80%931946)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Pretenders_to_the_Italian_throne&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Former_monarchies_Italian_peninsula&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Italian_royal_titles&action=edit

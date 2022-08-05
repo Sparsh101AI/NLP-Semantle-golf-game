@@ -1,0 +1,9 @@
+
+The ISO 14698 Standards features two International Standards on biocontamination control for cleanrooms. IEST, the Secretariat and Administrator of ISO Technical Committee 209, helped develop this series of ISO 14698 Standards.
+ISO 14698-1, Cleanrooms and associated controlled environments—Biocontamination control, Part 1: General principles and methods
+ISO 14698-2, Cleanrooms and associated controlled environments—Biocontamination control, Part 2: Evaluation and interpretation of biocontamination dataISO 14698-1 was first written in 2003. ISO 14698-1 describes the principles and basic methodology for a formal system to assess and control biocontamination, where cleanroom technology is applied, in order that biocontamination in zones at risk can be monitored in a reproducible way and appropriate control measures can be selected. In zones of low or negligible risk this standard may be used as a source of information.
+ISO 14698-2 became available to the public in October 2003. ISO 14698-2 gives guidance on basic principles and methodological requirements for all microbiological data evaluation, and the estimation of biocontamination data obtained from sampling for viable particles in zones at risk, as specified by the system selected. This is not intended for testing the performance of microbiological counting techniques of determining viable units.
+Contamination controlhttp://www.iest.org
+http://www.iso.org
+http://www.ansi.orgDateTime Report Generated: 19 February 2009 3:59:00 PM (CET)
+Cleanrooms in Ireland

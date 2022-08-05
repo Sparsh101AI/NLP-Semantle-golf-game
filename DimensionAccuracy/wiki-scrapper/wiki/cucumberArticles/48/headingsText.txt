@@ -1,0 +1,51 @@
+Rationale
+History
+Current hydrogen market
+Consumers
+Production, storage, infrastructure
+Color codes
+Methods of production
+Current production methods
+Steam reforming – gray or blue
+Methane pyrolysis – turquoise
+Electrolysis of water – green or purple
+Kværner process
+Experimental production methods
+Biological production
+Biocatalysed electrolysis
+High-pressure electrolysis
+High-temperature electrolysis
+Photoelectrochemical water splitting
+Photoelectrocatalytic production
+Concentrating solar thermal
+Thermochemical production
+Microwaving plastics
+Hydrogen as a byproduct of other chemical processes
+Storage
+Pressurized hydrogen gas
+Liquid hydrogen
+Liquid organic hydrogen carriers (LOHC)
+Storage as hydride
+Adsorption
+Underground hydrogen storage
+Power to gas
+Pipeline storage
+Infrastructure
+A key tradeoff: centralized vs. distributed production
+Distributed electrolysis
+Uses
+Industry
+For heating and cooking instead of natural gas
+Fuel cells as alternative to internal combustion and electric batteries
+Safety
+Costs
+Examples and pilot programs
+Partial hydrogen economy
+Ammonia economy
+Hybrid heat pumps
+Bio-SNG
+See also
+Notes
+References
+Sources
+External links

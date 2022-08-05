@@ -1,0 +1,10 @@
+https://commonchemistry.cas.org/detail?cas_rn=464-74-4
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C%5BC%40%5D12CC%5BC%40%40H%5D%28C%5BC%40H%5D1CCC3C2%5BC%40%40H%5D%28C%28%3DO%29%5BC%40%5D4%28%5BC%40%40%5D3%28CC%5BC%40%40H%5D4C5%3DCOC%28%3DO%29C%3DC5%29O%29C%29O%29O
+https://www.chemspider.com/Chemical-Structure.20051196.html
+https://pubchem.ncbi.nlm.nih.gov/compound/10051
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID00963565
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=445026610&page2=Arenobufagin
+//pubmed.ncbi.nlm.nih.gov/3127947
+//pubmed.ncbi.nlm.nih.gov/8223897
+https://en.wikipedia.org/w/index.php?title=Template:Toxins&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Cardiac_glycosides&action=edit

@@ -1,0 +1,11 @@
+//geohack.toolforge.org/geohack.php?pagename=Kingsbury_Oil_Terminal&params=52.5732_N_1.6723_W_type:landmark_region:GB
+http://icbirmingham.icnetwork.co.uk/mail/news/tm_objectid=16476163&method=full&siteid=50002&headline=we-couldn-t-cope-with-oil-fire-here--name_page.html
+https://web.archive.org/web/20110616060612/http://www.warwickshire.gov.uk/corporate/newsstor.nsf/eab8528efaf1e43c80256e85002b9c9e/b01714f51f629083802572fe00428ab2?OpenDocument
+http://www.warwickshire.gov.uk/corporate/newsstor.nsf/eab8528efaf1e43c80256e85002b9c9e/b01714f51f629083802572fe00428ab2?OpenDocument
+http://www.emergencymanagement.org.uk/news/kingsbury/tabid/2561/default.aspx
+http://www.birminghampost.net/news/newsaggregator/2008/04/04/alleged-terrorists-researched-kingsbury-oil-terminal-65233-20721388/
+http://www.zettai.net/find/warwickshire/oil-fuel-distributors/
+https://en.wikipedia.org/w/index.php?title=Template:Oil_storage_and_distribution_in_the_United_Kingdom&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:BP&action=edit
+https://en.wikipedia.org/w/index.php?title=Kingsbury_Oil_Terminal&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Warwickshire-geo-stub&action=edit

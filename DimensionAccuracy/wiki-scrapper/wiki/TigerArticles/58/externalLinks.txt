@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=Template:Macroeconomics_sidebar&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Neoliberalism_sidebar&action=edit
+https://doi.org/10.2307%2F139336
+//www.jstor.org/stable/139336
+https://doi.org/10.2307%2F3866091
+//www.jstor.org/stable/3866091
+//www.jstor.org/stable/40042939
+https://doi.org/10.1016%2F0022-1996%2876%2990001-5
+https://web.archive.org/web/20090219095757/http://www.econ.ucdavis.edu/faculty/kdhoover/pdf/Hope/Young.pdf
+https://doi.org/10.1215%2F00182702-36-Suppl_1-127
+https://api.semanticscholar.org/CorpusID:155035113
+http://www.econ.ucdavis.edu/faculty/kdhoover/pdf/Hope/Young.pdf
+https://archive.org/details/macroeconomics0000mank
+https://archive.org/details/economicsofmonet00grau_0
+https://en.wikipedia.org/w/index.php?title=Template:Economics&action=edit

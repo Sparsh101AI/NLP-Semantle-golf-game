@@ -1,0 +1,40 @@
+Anticholinergics (anticholinergic agents) are substances that block the action of the neurotransmitter called acetylcholine (ACh) at synapses in the central and peripheral nervous system.
+These agents inhibit the parasympathetic nervous system by selectively blocking the binding of ACh to its receptor in nerve cells. The nerve fibers of the parasympathetic system are responsible for the involuntary movement of smooth muscles present in the gastrointestinal tract, urinary tract, lungs, sweat glands, and many other parts of the body.
+In broad terms, anticholinergics are divided into two categories in accordance with their specific targets in the central and peripheral nervous system and at the neuromuscular junction: antimuscarinic agents, and antinicotinic agents (ganglionic blockers, neuromuscular blockers).
+The term "anticholinergic" is typically used to refer to antimuscarinics which competitively inhibit the binding of ACh to muscarinic acetylcholine receptors; such agents do not antagonize the binding at nicotinic acetylcholine receptors at the neuromuscular junction, although the term is sometimes used to refer to agents which do so.
+Anticholinergic drugs are used to treat a variety of conditions:
+Dizziness (including vertigo and motion sickness-related symptoms)
+Extrapyramidal symptoms, a potential side-effect of antipsychotic medications
+Gastrointestinal disorders (e.g., peptic ulcers, diarrhea, pylorospasm, diverticulitis, ulcerative colitis, nausea, and vomiting)
+Genitourinary disorders (e.g., cystitis, urethritis, and prostatitis)
+Insomnia, although usually only on a short-term basis
+Respiratory disorders (e.g., asthma, chronic bronchitis, and chronic obstructive pulmonary disease [COPD])
+Sinus bradycardia due to a hypersensitive vagus nerve
+Organophosphate based nerve agent poisoning, such as VX, sarin, tabun, and soman (atropine is favoured in conjunction with an oxime, usually pralidoxime)Anticholinergics generally have antisialagogue effects (decreasing saliva production), and most produce some level of sedation, both being advantageous in surgical procedures.
+Until the beginning of the 20th century anticholinergic drugs were widely used to treat psychiatric disorders.
+Delirium (often with hallucinations and delusions indistinguishable from reality)
+Ocular symptoms (from eye drops): mydriasis, pupil dilation, and acute angle-closure glaucoma in those with shallow anterior chamber
+Anhidrosis, dry mouth, dry skin
+Fever
+Constipation
+Tachycardia
+Urinary retention
+Cutaneous vasodilationClinically the most significant feature is delirium, particularly in the elderly, who are most likely to be affected by the toxidrome.
+Long-term use may increase the risk of both cognitive and physical decline. It is unclear whether they affect the risk of death generally. However, in older adults they do appear to increase the risk of death.
+Possible effects of anticholinergics include:
+Possible effects in the central nervous system resemble those associated with delirium, and may include:
+Older patients are at a higher risk of experiencing CNS side effects.
+An acute anticholinergic syndrome is reversible and subsides once all of the causative agents have been excreted. Reversible acetylcholinesterase inhibitor agents such as physostigmine can be used as an antidote in life-threatening cases. Wider use is discouraged due to the significant side effects related to cholinergic excess including seizures, muscle weakness, bradycardia, bronchoconstriction, lacrimation, salivation, bronchorrhea, vomiting, and diarrhea. Even in documented cases of anticholinergic toxicity, seizures have been reported after the rapid administration of physostigmine. Asystole has occurred after physostigmine administration for tricyclic antidepressant overdose, so a conduction delay (QRS > 0.10 second) or suggestion of tricyclic antidepressant ingestion is generally considered a contraindication to physostigmine administration.
+Anticholinergics are classified according to the receptors that are affected:
+Antimuscarinic agents operate on the muscarinic acetylcholine receptors. The majority of anticholinergic drugs are antimuscarinics.
+Antinicotinic agents operate on the nicotinic acetylcholine receptors. The majority of these are non-depolarising skeletal muscle relaxants for surgical use that are structurally related to curare. Several are depolarizing agents.Examples of common anticholinergics:
+Plants of the family Solanaceae contain various anticholinergic tropane alkaloids, such as scopolamine, atropine, and hyoscyamine.
+Physostigmine is one of only a few drugs that can be used as an antidote for anticholinergic poisoning. Nicotine also counteracts anticholinergics by activating nicotinic acetylcholine receptors. Caffeine (although an adenosine receptor antagonist) can counteract the anticholinergic symptoms by reducing sedation and increasing acetylcholine activity, thereby causing alertness and arousal.
+When a significant amount of an anticholinergic is taken into the body, a toxic reaction known as acute anticholinergic syndrome may result. This may happen accidentally or intentionally as a consequence of either recreational or entheogenic drug use, though many users find the side effects to be exceedingly unpleasant and not worth the recreational effects they experience. In the context of recreational use, anticholinergics are often called deliriants.
+The most common plants containing anticholinergic alkaloids (including atropine, scopolamine, and hyoscyamine among others) are:
+Atropa belladonna (deadly nightshade)
+Brugmansia species
+Datura species
+Garrya species
+Hyoscyamus niger (henbane)
+Mandragora officinarum (mandrake)Several narcotic and opiate-containing drug preparations, such as those containing  hydrocodone and codeine are combined with an anticholinergic agent to deter intentional misuse. Examples include Hydromet/Hycodan (hydrocodone/homatropine), Lomotil (diphenoxylate/atropine) and Tussionex (hydrocodone polistirex/chlorpheniramine). However, it is noted that opioid/antihistamine combinations are used clinically for their synergistic effect in the management of pain and maintenance of dissociative anesthesia (sedation) in such preparations as Meprozine (meperidine/promethazine) and Diconal (dipipanone/cyclizine), which act as strong anticholinergic agents.

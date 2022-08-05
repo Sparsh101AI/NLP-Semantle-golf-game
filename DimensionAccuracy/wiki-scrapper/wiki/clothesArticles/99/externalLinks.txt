@@ -1,0 +1,10 @@
+http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp
+//www.worldcat.org/oclc/62265494
+http://www.mammalsociety.org/uploads/report_files/Checklist%20Committee_0.pdf
+https://query.wikidata.org/embed.html#SELECT%20%3FWikidata_item_%20%3FWikidata_item_Label%20%3Fvalue%20%3FvalueLabel%20%3FEnglish_Wikipedia_article%20%23Show%20data%20in%20this%20order%0A%7B%0A%09%3FWikidata_item_%20wdt%3AP959%20%3Fvalue%20.%20%23Collecting%20all%20items%20which%20have%20P959%20data%2C%20from%20whole%20Wikidata%20item%20pages%0A%09OPTIONAL%20%7B%3FEnglish_Wikipedia_article%20schema%3Aabout%20%3FWikidata_item_%3B%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%7D%20%23If%20collected%20item%20has%20link%20to%20English%20Wikipedia%2C%20show%20that%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%20%7D%20%23Show%20label%20in%20this%20language.%20%22en%22%20is%20English.%20%20%20%0A%7D%0ALIMIT%201000
+https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp
+https://www.departments.bucknell.edu/biology/resources/msw3/
+https://web.archive.org/web/20110526040525/http://www.vertebrates.si.edu/msw/mswcfapp/msw/taxon_browser.cfm?msw_id=0
+https://books.google.com/books?id=JgAMbNSt8ikC&printsec=frontcover
+https://en.wikipedia.org/w/index.php?title=Mammal_Species_of_the_World&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Zoology-book-stub&action=edit

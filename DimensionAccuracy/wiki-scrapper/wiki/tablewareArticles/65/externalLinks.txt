@@ -1,0 +1,10 @@
+//geohack.toolforge.org/geohack.php?pagename=Zhuozhou&params=39.485_N_115.974_E_type:adm3rd_region:CN-13_source:Gaode
+//geohack.toolforge.org/geohack.php?pagename=Zhuozhou&params=39.485_N_115.974_E_type:adm3rd_region:CN-13_source:Gaode
+http://www.zhuozhou.gov.cn/
+http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls
+http://www.stats.gov.cn/tjbz/cxfldm/2011/13/06/130681.html
+http://www.zhuozhou.gov.cn/
+http://www.china.org.cn/english/TR-e/43448.htm
+https://en.wikipedia.org/w/index.php?title=Template:Hebei&action=edit
+https://en.wikipedia.org/w/index.php?title=Zhuozhou&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Baoding-geo-stub&action=edit

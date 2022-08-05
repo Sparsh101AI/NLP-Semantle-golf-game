@@ -1,0 +1,54 @@
+
+ISO/IEC 7813 is an international standard codified by the International Organization for Standardization and  International Electrotechnical Commission that defines properties of financial transaction cards, such as ATM or credit cards.
+The standard defines:
+physical characteristics, such as size, shape, location of magnetic stripe, etc.
+magnetic track data structuresISO/IEC 7813 specifies the following physical characteristics of the card, mostly by reference to other standards:
+Embossed characters
+by reference to ISO/IEC 7811
+Embossing of expiration date
+the format (MM/YY or MM-YY)
+Magnetic stripe
+by reference to ISO/IEC 7811
+Integrated circuit with contacts
+by reference to ISO/IEC 7816-1
+Integrated circuit without contacts
+by reference to ISO/IEC 10536-1, ISO/IEC 14443-1, and ISO/IEC 15693-1The Track 1 structure is specified as:
+STX : Start sentinel "%"
+FC : Format code "B" (The format described here. Format "A" is reserved for proprietary use.)
+PAN : Payment card number 4400664987366029, up to 19 digits
+FS : Separator "^"
+NM : Name, 2 to 26 characters (including separators, where appropriate, between surname, first name etc.)
+FS : Separator "^"
+ED : Expiration data, 4 digits or "^"
+SC : Service code, 3 digits or "^"
+DD : Discretionary data, balance of characters
+ETX : End sentinel "?"
+LRC : Longitudinal redundancy check, calculated according to ISO/IEC 7811-2The maximum record length is 79 alphanumeric characters.
+%B4815881002867896^YATES/EUGENE JOHN         ^37829821000123456789?
+%B4815881002861896^YATES/EUGENE  L            ^^^356858      00998000000?
+The Track 2 structure is specified as:
+STX : Start sentinel ";"
+PAN : Primary Account Number, up to 19 digits, as defined in ISO/IEC 7812-1
+FS : Separator "="
+ED : Expiration date, YYMM or "=" if not present
+SC : Service code, 3 digits or "=" if not present
+DD : Discretionary data, balance of available digits
+ETX : End sentinel "?"
+LRC : Longitudinal redundancy check, calculated according to ISO/IEC 7811-2The maximum record length is 40 numeric digits (e.g., 5095700000000).
+Track 3 is virtually unused by the major worldwide networks and often isn't even physically present on the card by virtue of a narrower magnetic stripe.
+A notable exception to this is Germany, where Track 3 content was used nationally as the primary source of authorization and clearing information for debit card processing prior to the adoption of the "SECCOS" ICC standards. Track 3 is standardized nationally to contain both the cardholder's bank account number and branch sort code (BLZ).
+Parsing Track 1 and Track 2 can be done with Regular Expressions.
+^%B([0-9]{1,19})\^([^\^]{2,26})\^([0-9]{4}|\^)([0-9]{3}|\^)([^\?]+)\?$
+This Regex will capture all of the important fields into the following groups:
+Group 1: Payment card number (PAN)
+Group 2: Name (NM)
+Group 3: Expiration Date (ED)
+Group 4: Service Code (SC)
+Group 5: Discretionary data (DD)^\;([0-9]{1,19})\=([0-9]{4}|\=)([0-9]{3}|\=)([^\?]+)\?$
+Group 1: Primary Account Number (PAN)
+Group 2: Expiration date (ED)
+Group 3: Service code (SC)
+Group 4: Discretionary data (DD)ISO/IEC 7813:2006Magnetic Track Parser, a Java library to parse magnetic track data
+Credit Card Track Data Parser, a Javscript library is for parsing credit card track data such as might be returned from a USB card reader
+magnet, a Ruby library for decoding the track data on magnetic stripe cards
+Magnetic-Stripe-Parser a .NET C Sharp library  to parse magnetic track data direct from stream reader

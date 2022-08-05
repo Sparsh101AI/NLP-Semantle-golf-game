@@ -1,0 +1,11 @@
+https://en.wikipedia.org/w/index.php?title=24_Parganas&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%2224+Parganas%22
+//www.google.com/search?tbm=nws&q=%2224+Parganas%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%2224+Parganas%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%2224+Parganas%22+-wikipedia
+//scholar.google.com/scholar?q=%2224+Parganas%22
+https://www.jstor.org/action/doBasicSearch?Query=%2224+Parganas%22&acc=on&wc=on
+https://books.google.com/books?id=jbKGojVTWGcC&q=24+parganas+history+divide+two+district&pg=PA168
+https://books.google.com/books?id=7Hkj2xOrEwkC&q=Zamindari+of+Calcutta&pg=PA56
+https://en.wikipedia.org/w/index.php?title=Template:West_Bengal&action=edit
+//geohack.toolforge.org/geohack.php?pagename=24_Parganas&params=22.5726723_N_88.3638815_E_

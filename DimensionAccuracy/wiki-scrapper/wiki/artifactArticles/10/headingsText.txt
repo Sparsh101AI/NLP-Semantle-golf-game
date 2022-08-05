@@ -1,0 +1,15 @@
+Overview
+Defining concepts
+Principles
+Patterns
+Implementation approaches
+Organizational benefits
+Criticism
+Extensions and variants
+Event-driven architecture
+Application programming interfaces
+Web 2.0
+Microservices
+Service-oriented architectures for interactive applications
+See also
+References

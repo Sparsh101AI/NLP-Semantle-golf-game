@@ -1,0 +1,38 @@
+History
+Example
+Classes of models
+Fixed-effects models
+Random-effects models
+Mixed-effects models
+Assumptions
+Textbook analysis using a normal distribution
+Randomization-based analysis
+Unit-treatment additivity
+Derived linear model
+Statistical models for observational data
+Summary of assumptions
+Characteristics
+Logic
+Partitioning of the sum of squares
+The F-test
+Extended logic
+For a single factor
+For multiple factors
+Associated analysis
+Preparatory analysis
+The number of experimental units
+Power analysis
+Effect size
+Model confirmation
+Follow-up tests
+Study designs
+Cautions
+Generalizations
+Connection to linear regression
+Example
+See also
+Footnotes
+Notes
+References
+Further reading
+External links

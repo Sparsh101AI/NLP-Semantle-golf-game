@@ -1,0 +1,4 @@
+https://en.wikipedia.org/w/index.php?title=Template:Greater_Montreal&action=edit
+//geohack.toolforge.org/geohack.php?pagename=North_Shore_(Montreal)&params=45.67_N_73.83_W_region:CA-QC
+https://en.wikipedia.org/w/index.php?title=North_Shore_(Montreal)&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Montreal-geo-stub&action=edit

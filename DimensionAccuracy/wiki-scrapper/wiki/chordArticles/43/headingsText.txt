@@ -1,0 +1,17 @@
+Definition
+Examples
+Connection with expected shortfall (average value at risk)
+Ordering
+Properties
+Order reversing
+Biconjugate
+Fenchel's inequality
+Convexity
+Infimal convolution
+Maximizing argument
+Scaling properties
+Behavior under linear transformations
+Table of selected convex conjugates
+See also
+References
+Further reading

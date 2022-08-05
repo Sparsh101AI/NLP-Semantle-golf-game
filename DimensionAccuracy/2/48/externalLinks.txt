@@ -1,0 +1,14 @@
+https://translate.google.com/translate?&u=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FSaint-Sauveur-sur-Tin%C3%A9e&sl=fr&tl=en&prev=_t&hl=en
+https://deepl.com
+https://translate.google.com/
+//geohack.toolforge.org/geohack.php?pagename=Saint-Sauveur-sur-Tin%C3%A9e&params=44.0847_N_7.1056_E_type:city(306)_region:FR-PAC
+//geohack.toolforge.org/geohack.php?pagename=Saint-Sauveur-sur-Tin%C3%A9e&params=44.0847_N_7.1056_E_type:city(306)_region:FR-PAC
+https://www.insee.fr/fr/statistiques/1405599?geo=COM-06129
+https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503
+https://www.insee.fr/fr/statistiques/6005800?geo=COM-06129
+https://en.wikipedia.org/w/index.php?title=Template:Alpes-Maritimes_communes&action=edit
+https://viaf.org/viaf/157147139
+https://www.worldcat.org/identities/containsVIAFID/157147139
+https://id.loc.gov/authorities/names/n83193912
+https://en.wikipedia.org/w/index.php?title=Saint-Sauveur-sur-Tin%C3%A9e&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:AlpesMaritimes-geo-stub&action=edit

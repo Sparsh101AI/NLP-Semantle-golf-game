@@ -1,0 +1,10 @@
+http://blog.unicode.org/2016/11/113-new-unicode-emoji-plus-skin-tones.html
+http://unicode.org/review/pr-37.pdf
+http://emojipedia.org/zero-width-joiner/
+https://web.archive.org/web/20111011172849/http://malayalam.kerala.gov.in/index.php/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82:Inscript.jpg
+http://malayalam.kerala.gov.in/index.php/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82:Inscript.jpg
+https://www.unicode.org/L2/L2007/07129-malayalam.pdf
+http://unicode.org/review/pr-37.pdf
+https://en.wikipedia.org/w/index.php?title=Template:Unicode_navigation&action=edit
+https://en.wikipedia.org/w/index.php?title=Zero-width_joiner&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Digital-typography-stub&action=edit

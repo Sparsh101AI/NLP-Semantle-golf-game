@@ -1,0 +1,308 @@
+In nuclear physics, double beta decay is a type of radioactive decay in which two neutrons are simultaneously transformed into two protons, or vice versa, inside an atomic nucleus. As in single beta decay, this process allows the atom to move closer to the optimal ratio of protons and neutrons. As a result of this transformation, the nucleus emits two detectable beta particles, which are electrons or positrons.
+The literature distinguishes between two types of double beta decay: ordinary double beta decay and neutrinoless double beta decay. In ordinary double beta decay, which has been observed in several isotopes, two electrons and two electron antineutrinos are emitted from the decaying nucleus. In neutrinoless double beta decay, a hypothesized process that has never been observed, only electrons would be emitted.
+The idea of double beta decay was first proposed by M. Goeppert-Mayer in 1935.
+In 1937, E. Majorana demonstrated that all results of beta decay theory remain unchanged if the neutrino were its own antiparticle, now known as a Majorana particle.
+In 1939, W.H. Furry proposed that if neutrinos are Majorana particles, then double beta decay can proceed without the emission of any neutrinos, via the process now called neutrinoless double beta decay.
+It is not yet known whether the neutrino is a Majorana particle, and, relatedly, whether neutrinoless double beta decay exists in nature.
+In 1930–1940s, parity violation in weak interactions was not known, and consequently calculations showed that neutrinoless double beta decay should be much more likely to occur than ordinary double beta decay, if neutrinos were Majorana particles. The predicted half-lives were on the order of 10~10 years. Efforts to observe the process in laboratory date back to at least 1948 when E.L. Fireman made the first attempt to directly measure the half-life of the Sn isotope with a Geiger counter.
+Radiometric experiments through about 1960 produced negative results or false positives, not confirmed by later experiments. In 1950, for the first time the double beta decay half-life of Te was measured by geochemical methods to be 1.4×10 years,
+reasonably close to the modern value. This involved detecting the concentration in minerals of the xenon produced by the decay.
+In 1956, after the  V − A  nature of weak interactions was established, it became clear that the half-life of neutrinoless double beta decay would significantly exceed that of ordinary double beta decay. Despite significant progress in experimental techniques in 1960–1970s, double beta decay was not observed in a laboratory until the 1980s. Experiments had only been able to establish the lower bound for the half-life – about 10 years. At the same time, geochemical experiments detected the double beta decay of Se and Te.
+Double beta decay was first observed in a laboratory in 1987 by the group of Michael Moe at UC Irvine in Se.
+Since then, many experiments have observed ordinary double beta decay in other isotopes. None of those experiments have produced positive results for the neutrinoless process, raising the half-life lower bound to approximately 10 years. Geochemical experiments continued through the 1990s, producing positive results for several  isotopes. Double beta decay is the rarest known kind of radioactive decay; as of 2019 it has been observed in only 14 isotopes (including double electron capture in Ba observed in 2001, Kr observed in 2013, and Xe observed in 2019), and all have a mean lifetime over 10 yr (table below).
+In a typical double beta decay, two neutrons in the nucleus are converted to protons, and two electrons and two electron antineutrinos are emitted. The process can be thought as two simultaneous beta minus decays. In order for (double) beta decay to be possible, the final nucleus must have a larger binding energy than the original nucleus. For some nuclei, such as germanium-76, the isobar one atomic number higher (arsenic-76) has a smaller binding energy, preventing single beta decay. However, the isobar with atomic number two higher, selenium-76, has a larger binding energy, so double beta decay is allowed.
+The emission spectrum of the two electrons can be computed in a similar way to beta emission spectrum using Fermi's golden rule. The differential rate is given by
+
+
+
+
+
+
+
+d
+N
+(
+
+T
+
+1
+
+
+,
+
+T
+
+2
+
+
+,
+cos
+⁡
+θ
+)
+
+
+d
+
+T
+
+1
+
+
+d
+
+T
+
+2
+
+
+d
+cos
+⁡
+θ
+
+
+
+=
+F
+(
+Z
+,
+
+T
+
+1
+
+
+)
+F
+(
+Z
+,
+
+T
+
+2
+
+
+)
+
+w
+
+1
+
+
+
+p
+
+1
+
+
+
+w
+
+2
+
+
+
+p
+
+2
+
+
+(
+Q
+−
+
+T
+
+1
+
+
+−
+
+T
+
+2
+
+
+
+)
+
+5
+
+
+(
+1
+−
+
+v
+
+1
+
+
+
+v
+
+2
+
+
+cos
+⁡
+θ
+)
+
+
+{\displaystyle {\frac {dN(T_{1},T_{2},\cos \theta )}{dT_{1}dT_{2}d\cos \theta }}=F(Z,T_{1})F(Z,T_{2})w_{1}p_{1}w_{2}p_{2}(Q-T_{1}-T_{2})^{5}(1-v_{1}v_{2}\cos \theta )}
+
+
+where the subscripts refer to each electron, T is kinetic energy, w is total energy, F(Z, T) is the Fermi function with Z the charge of the final-state nucleus, p is momentum, v is velocity in units of c, 
+
+
+
+cos
+⁡
+θ
+
+
+{\displaystyle \cos \theta }
+
+ is the angle between the electrons, and Q is the Q value of the decay.
+For some nuclei, the process occurs as conversion of two protons to neutrons, emitting two electron neutrinos and absorbing two orbital electrons (double electron capture). If the mass difference between the parent and daughter atoms is more than 1.022 MeV/c (two electron masses), another decay is accessible, capture of one orbital electron and emission of one positron. When the mass difference is more than 2.044 MeV/c (four electron masses), emission of two positrons is possible. These theoretical decay branches have not been observed.
+There are 35 naturally occurring isotopes capable of double beta decay. In practice, the decay can be observed when the single beta decay is forbidden by energy conservation. This happens for elements with an even atomic number and even neutron number, which are more stable due to spin-coupling. When single beta decay or alpha decay also occur, the double beta decay rate is generally too low to observe. However, the double beta decay of U (also an alpha emitter) has been measured radiochemically. Two other nuclides in which double beta decay has been observed, Ca and Zr, can also theoretically single beta decay, but this decay is extremely suppressed and has never been observed.
+Fourteen isotopes have been experimentally observed undergoing two-neutrino double beta decay (ββ) or double electron capture (εε). The table below contains nuclides with the latest experimentally measured half-lives, as of December 2016, except for Xe (for which double electron capture was first observed in 2019). Where two uncertainties are specified, the first one is statistical uncertainty and the second is systematic.
+Searches for double beta decay in isotopes that present significantly greater experimental challenges are ongoing. One such isotope is  Xe.
+The following known beta-stable (or almost beta-stable) nuclides with A ≤ 260 are theoretically capable of double beta decay, where red are isotopes that have a double-beta rate measured experimentally and black have yet to be measured experimentally: Ca, Ca, Zn, Ge, Se, Se, Kr, Zr, Zr, Mo, Mo, Ru, Pd, Cd, Cd, Sn, Sn, Te, Te, Xe, Xe, Ce, Nd, Nd, Nd, Sm, Gd, Er, Yb, W, Os, Pt, Hg, Po, Rn, Rn, Ra, Th, U, Pu, Cm, Cf, Cf, and Fm.
+The following known beta-stable (or almost beta-stable) nuclides with A ≤ 260 are theoretically capable of double electron capture, where red are isotopes that have a double-electron capture rate measured and black have yet to be measured experimentally: Ar, Ca, Cr, Fe, Ni, Zn, Se, Kr, Sr, Mo, Ru, Pd, Cd, Cd, Sn, Te, Xe, Xe, Ba, Ba, Ce, Ce, Sm, Gd, Gd, Gd, Dy, Dy, Dy, Er, Er, Yb, Hf, W, Os, Pt, Hg, Rn, Rn, Ra, Th, U, Pu, Cm, Fm, and No.
+If the neutrino is a Majorana particle (i.e., the antineutrino and the neutrino are actually the same particle), and at least one type of neutrino has non-zero mass (which has been established by the neutrino oscillation experiments), then it is possible for neutrinoless double beta decay to occur. Neutrinoless double beta decay is a lepton number violating process. In the simplest theoretical treatment, known as light neutrino exchange, a nucleon absorbs the neutrino emitted by another nucleon. The exchanged neutrinos are virtual particles.
+With only two electrons in the final state, the electrons' total kinetic energy would be approximately the binding energy difference of the initial and final nuclei, with the nuclear recoil accounting for the rest. Because of momentum conservation, electrons are generally emitted back-to-back. The decay rate for this process is given by
+
+
+
+
+Γ
+=
+G
+
+|
+
+M
+
+
+|
+
+
+2
+
+
+
+|
+
+
+m
+
+β
+β
+
+
+
+
+|
+
+
+2
+
+
+,
+
+
+{\displaystyle \Gamma =G|M|^{2}|m_{\beta \beta }|^{2},}
+
+
+where G is the two-body phase-space factor, M is the nuclear matrix element, and mββ is the effective Majorana mass of the electron neutrino. In the context of light Majorana neutrino exchange, mββ is given by
+
+
+
+
+
+m
+
+β
+β
+
+
+=
+
+∑
+
+i
+=
+1
+
+
+3
+
+
+
+m
+
+i
+
+
+
+U
+
+e
+i
+
+
+2
+
+
+,
+
+
+{\displaystyle m_{\beta \beta }=\sum _{i=1}^{3}m_{i}U_{ei}^{2},}
+
+
+where mi are the neutrino masses and the Uei are elements of the Pontecorvo–Maki–Nakagawa–Sakata (PMNS) matrix. Therefore, observing neutrinoless double beta decay, in addition to confirming the Majorana neutrino nature, can give information on the absolute neutrino mass scale and Majorana phases in the PMNS matrix, subject to interpretation through theoretical models of the nucleus, which determine the nuclear matrix elements, and models of the decay.
+The observation of neutrinoless double beta decay would require that at least one neutrino is a Majorana particle, irrespective of whether the process is engendered by neutrino exchange.
+Numerous experiments have searched for neutrinoless double beta decay. The best-performing experiments have a high mass of the decaying isotope and low backgrounds, with some experiments able to perform particle discrimination and electron tracking. In order to remove backgrounds from cosmic rays, most experiments are located in underground laboratories around the world.
+Recent and proposed experiments include:
+Completed experiments:
+Gotthard TPC
+Heidelberg-Moscow, Ge detectors (1997–2001)
+IGEX, Ge detectors (1999–2002)
+NEMO, various isotopes using tracking calorimeters (2003–2011)
+Cuoricino, Te in ultracold TeO2 crystals (2003–2008)
+Experiments taking data as of November 2017:
+COBRA, Cd in room temperature CdZnTe crystals
+CUORE, Te in ultracold TeO2 crystals
+EXO, a Xe and Xe search
+GERDA, a Ge detector
+KamLAND-Zen, a Xe search. Data collection from 2011.
+Majorana, using high purity Ge p-type point-contact detectors.
+XMASS using liquid Xe
+Proposed/future experiments:
+CUPID, neutrinoless double-beta decay of Mo
+CANDLES, Ca in CaF2, at Kamioka Observatory
+MOON, developing Mo detectors
+AMoRE, Mo enriched CaMoO4 crystals at YangYang underground laboratory
+nEXO, using liquid Xe in a time projection chamber 
+LEGEND, Neutrinoless Double-beta Decay of Ge.
+LUMINEU, exploring Mo enriched ZnMoO4 crystals at LSM, France.
+NEXT, a Xenon TPC. NEXT-DEMO ran and NEXT-100 will run in 2016.
+SNO+, a liquid scintillator, will study Te
+SuperNEMO, a NEMO upgrade, will study Se
+TIN.TIN, a Sn detector at INO
+PandaX-III, an experiment with 200 kg to 1000 kg of 90% enriched XeWhile some experiments have claimed a discovery of neutrinoless double beta decay, modern searches have found no evidence for the decay.
+Some members of the Heidelberg-Moscow collaboration claimed a detection of neutrinoless beta decay in Ge in 2001. This claim was criticized by outside physicists as well as other members of the collaboration. In 2006, a refined estimate by the same authors stated the half-life was 2.3×10 years. This half-life has been excluded at high confidence by other experiments, including in Ge by GERDA.
+As of 2017, the strongest limits on neutrinoless double beta decay have come from GERDA in Ge, CUORE in Te, and EXO-200 and KamLAND-Zen in Xe.
+For mass numbers with more than two beta-stable isobars, quadruple beta decay and its inverse, quadruple electron capture, have been proposed as alternatives to double beta decay in the isobars with the greatest energy excess. These decays are energetically possible in eight nuclei, though partial half-lives compared to single or double beta decay are predicted to be very long; hence, quadruple beta decay is unlikely to be observed. The eight candidate nuclei for quadruple beta decay include Zr, Xe, and Nd capable of quadruple beta-minus decay, and Xe, Ba, Gd, and Dy capable of quadruple beta-plus decay or electron capture. In theory, quadruple beta decay may be experimentally observable in three of these nuclei, with the most promising candidate being Nd. Triple beta decay is also possible for Ca, Zr, and Nd.
+Moreover, such a decay mode could also be neutrinoless in physics beyond the standard model. Neutrinoless quadruple beta decay would violate lepton number in 4 units, as opposed to a lepton number breaking of two units in the case of neutrinoless double beta decay. Therefore, there is no 'black-box theorem' and neutrinos could be Dirac particles while allowing these type of processes. In particular, if neutrinoless quadruple beta decay is found before neutrinoless double beta decay then the expectation is that neutrinos will be Dirac particles.
+So far, searches for triple and quadruple beta decay in Nd have remained unsuccessful.
+Double electron capture
+Beta decay
+Neutrino
+Particle radiation
+Radioactive isotopeDouble beta decay on arxiv.org

@@ -1,0 +1,3 @@
+Deoxythymidine triphosphate (dTTP) is one of the four nucleoside triphosphates that are used in the in vivo synthesis of DNA.  Unlike the other deoxyribonucleoside triphosphates, thymidine triphosphate does not always contain the "deoxy" prefix in its name.  The corresponding ribonucleoside triphosphate is called uridine triphosphate.
+It can be used by DNA ligase to create overlapping "sticky ends" so that protruding ends of opened microbial plasmids may be closed up.
+

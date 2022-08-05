@@ -1,0 +1,11 @@
+https://commonchemistry.cas.org/detail?cas_rn=29541-85-3
+https://pubchem.ncbi.nlm.nih.gov/compound/34624
+https://www.chemspider.com/Chemical-Structure.31863.html
+https://precision.fda.gov/uniisearch/srs/unii/5YGV817KFT
+https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL2104766
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID60183727
+https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC%28N%28C%29C%29COC3c1ccccc1CCc2c3cccc2
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=451563155&page2=Oxitriptyline
+https://books.google.com/books?id=A0THacd46ZsC&q=Oxitriptyline&pg=PA1497
+https://en.wikipedia.org/w/index.php?title=Template:Anticonvulsants&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Tricyclics&action=edit

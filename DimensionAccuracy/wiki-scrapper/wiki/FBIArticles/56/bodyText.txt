@@ -1,0 +1,133 @@
+The Beechcraft King Air is a line of American utility aircraft produced by Beechcraft. The King Air line comprises a number of twin-turboprop models that have been divided into two families. The Model 90 and 100 series developed in the 1960s are known as King Airs, while the later T-tail Model 200 and 300 series were originally marketed as Super King Airs, with the name "Super" being dropped by Beechcraft in 1996 (although it is still often used to differentiate the 200 and 300 series King Airs from their smaller stablemates).
+The King Air was the first aircraft in its class and was produced continuously from 1964 to 2021. It outsold all of its turboprop competitors combined. It recently faced competition from jet aircraft such as the Embraer Phenom 100, Honda HA-420 HondaJet and Cessna Citation Mustang; as well as from newer turboprop aircraft including the Piaggio P180 Avanti, and single-engine Piper Malibu Meridian, Pilatus PC-12, and Socata TBM.
+The Model 90 King Air was conceived as the Model 120 in 1961. In May 1963, Beechcraft began test flights of the proof-of-concept Model 87, a modified Queen Air with Pratt & Whitney Canada PT6A-6 engines. On July 14, Beech announced a new type, and a month later began accepting orders for the "King Air", with deliveries to commence in Autumn 1964.  On January 24, 1964, the first definitive prototype, by now designated Model 65-90 and also fitted with PT6A-6 engines, flew for the first time. After 10 months of test flying, in 1964 the Model 87 was delivered to the United States Army as the NU-8F. The first production aircraft was delivered on October 8, and by the end of the month, 152 aircraft had been ordered; by year's end, seven had been built.
+In 1966, after 112 65-90s were completed, production switched to the Model 65-A90 with PT6A-20 engines. As a measure of the type's popularity, 206 65-A90s were built in less than two years when production switched to the Model B90, the first of these rolling off the production line in 1968. Military versions built during these years included the 65-A90-1, 65-A90-2, 65-A90-3, and 65-A90-4, all being unpressurised models based on the Model 87. These were produced for the US Army which designated them U-21s of various sub-models; many were fitted out for electronic battlefield surveillance. A total of 162 of these were built between 1967 and 1971.
+A total of 184 B90 models were produced before the Model C90 was introduced in 1971, with wingspan increased over earlier models by 4 ft 11 in (1.50 m) to 50 ft 3 in (15.32 m), Maximum Take-Off Weight (MTOW) increased by 350 lb (160 kg) to 9,650 lb (4,378 kg), and PT6A-20A engines. The broadly similar Model E90 was introduced the following year, with PT6A-28 engines; the two were produced in parallel. Further refinement of the 90 series resulted in the Model F90 and follow-on Model F90-1. The F-models featured the T-tail of the Model 200 King Air mated to the fuselage and wings of the E90, with PT6A-135 engines of 750 shp (560 kW) driving four-bladed propellers. The F90 prototype flew on January 16, 1978 and 203 production versions followed between 1979 and 1983, when the F90 was superseded by the F90-1. The F90 prototype was re-engined with Garrett AiResearch TPE-331 engines to test the feasibility of a Model G90, but this model was not put into production.
+The Model C90-1 entered production in 1982 after 507 C90s and 347 E90s had been built, and featured PT6A-21 engines and improvements to the pressurization system. 54 were built. The following year the F90-1 was put into production with redesigned engine cowlings, upgraded PT6A-135A engines, hydraulic landing gear, and triple-fed electrical bus; only 33 were built by the time production terminated in 1985. The C90-1 was soon followed by the Model C90A, which featured the redesigned engine cowlings of the F90-1. The C90A received an increase in MTOW in 1987, being certified to 10,100 lb (4,580 kg). The C90A model was in production until 1992, by which time 235 had been built, all but 74 with the increased MTOW.
+Only two C90As were built in 1992, the Model C90B followed that year with airframe improvements, four-bladed propellers, and propeller synchrophasing, all in an effort to reduce cabin noise. This model also had PT6A-21s; the first production C90B was fitted with the 10,000th PT6 engine delivered to Beechcraft. In 1994 a cheaper version was introduced as the C90SE (Special Edition), with three-bladed propellers, standardised interior and mechanical instruments instead of the Electronic Flight Instrument System (EFIS) fitted to the C90B. A total of 456 C90Bs and C90SEs were delivered by the time production of these models ended in late 2005.
+In July 2005, during the Oshkosh Airshow, Beechcraft introduced the C90GT. The C90GT was fitted with 750 shp (560 kW) PT6A-135As, flat rated to the same 550 shp (410 kW) as the earlier King Airs. This engine change increased performance due to lower operating temperatures, improving both cruise speed and climb rate. With a 275 kt (509 km/h, 316 mph) cruise speed, the C90GT was highly competitive with the new generation of Very Light Jets over short to medium distances, while providing a larger and more luxurious cabin. C90GT deliveries commenced at the beginning of 2006. On May 21, 2007, during the 7th Annual European Business Aviation Convention & Exhibition in Geneva, Beechcraft announced the Model C90GTi updated version of the C90GT, featuring the Rockwell Collins Proline 21 avionics package previously only offered for the B200 and B300 King Airs. Deliveries commenced in 2008 after 97 C90GTs were delivered to customers over the previous two years. In 2015, the C90GTx was introduced with additional upgrades. In 2019, the C90 unit cost was US$2.75M, and the $4.2M for the C90GTi.
+In March 2021, Beechcraft discontinued the C90GT family, thus ending the Model 90 production run. Textron, Beechcraft's parent company, stated that the 90 Series King Air could no longer compete against its single engine turboprop competitors, who offered efficiency and maintenance benefits, while light jets offered greater performance benefits. In addition the upcoming Beechcraft Denali, a new single engine pressurized turboprop coming from Textron, is projected to outperform the 90 Series King Air in terms of useful load, cruising speed, and service ceiling while also having greater efficiency and reduced maintenance costs from only having one engine, thus making the 90 Series redundant. Textron stated they intend to support the existing 90 Series King Air fleet indefinitely given the large number of aircraft in the fleet flying all over the world.
+The Model 100 is a stretched derivative of the Model 90 featuring five cabin windows instead of the Model 90's three; MTOW increased by 1,300 lb (590 kg) over the 90, to 10,600 lb (4,810 kg). The 100 used the wings, tail, and engines (two PT6A-28 engines, although rated at 680 shp) from the Model 99 airliner, itself a development of the Queen Air (as was the Model 90).
+The Model 100 was flown for the first time on March 17, 1969 and unveiled to the public in May. A total of 89 Model 100s were built before it was superseded by the Model A100 in 1972, with a further increase in MTOW to 11,500 lb (5,220 kg), fuel capacity increased by 94 US gallons (360 L), and four-bladed propellers. A total of 157 A100s were built by the time production of this model ceased in 1979. The next in the series was the B100, which featured 715 shp (533 kW) Garrett AiResearch TPE-331 engines as an alternative to the Pratt & Whitneys offered on other King Airs, and another increase in MTOW to 11,800 lb (5,350 kg). The B100 was introduced in 1976 and was produced concurrently with the A100 for several years; manufacture ceased in 1983 after 137 were built. The Model 200 Super King Air was developed from the Model 100, with the same fuselage design being used for both models  (with some differences, mainly associated with the different tails). The Model 200 had different wings and a T-tail and entered service in 1974.
+The Japan Maritime Self-Defense Force (JMSDF) has operated a total of 40 C90 and C90A King Airs, with deliveries beginning in 1973. These have been given various designations by the JMSDF and consist of 34 TC-90 trainers, five LC-90 transports and a single UC-90 which is configured for photographic aerial survey. The TC-90s and the UC-90 are operated by the 202nd Naval Air Training Squadron (JMSDF) based at Tokushima Air Base, while the LC-90s are attached to various Lockheed P-3 Kokutai (Squadrons) and Air Transport Squadron 61 as liaison aircraft. In late 2005 the JMSDF marked 500,000 accident-free flying hours of the TC-90 trainer fleet. Philippine maintenance staff will also be trained.
+The JMSDF made plans to lease at least five TC-90 aircraft to the Philippines to conduct maritime patrols. Two aircraft were transferred free of charge in March 2017. From November 2016 to November 2017 six Philippine Navy pilots were trained to fly the aircraft at Tokushima Airport. Maintenance staff are also being trained. There are plans to transfer three more aircraft.
+The U.S. military has used King Air 90s in various roles, primarily VIP and liaison transport, with designations including the VC-6A, the T-44 Pegasus, and the U-21 Ute. The U-21 Ute used by the US Army was the most common version.
+Most U-21s were unpressurized Model 87 derivatives, but there were also five U-21Fs based on the A100 King Air; and three U-21Js, which Beechcraft designated Model A100-1, but were actually the first three production Model 200 Super King Airs (C/Ns BB-3, BB-4 and BB-5, after prototypes C/N BB-1 and BB-2 had been built). The majority of U-21s were delivered as U-21As (102 65-A90-1s), but there were also four RU-21As (65-A90-1s), three RU-21Bs (65-A90-2s), two RU-21Cs (65-A90-3s), 18 RU-21Ds (65-A90-1s), 16 RU-21Es (65-A90-4s), and 17 RU-21Gs (65-A90-1s). The RU-21Es (except one written off) were later converted to U-21Hs and RU-21Hs, with two U-21Hs and an RU-21H being further converted to JU-21Hs. In 1993, the three surviving RU-21As that remained in military service were retired and sent to JW Duff Aircraft Salvage in Denver Colorado. On November 14, 2015, one of aircraft, (67-18113) was donated by Dynamic Aviation to the 138th Aviation Company Memorial to restore the aircraft to be displayed at Orlando International Airport. The majority of the U-21 series were retired in the second half of the 1990s and most are now owned by Dynamic Aviation of Bridgewater, Virginia. Some have been modified as spraying aircraft and are used on insect control work.
+The T-44A Pegasus is a trainer version, designated the Model H90 by Beechcraft, used to train United States Navy, Marine Corps, Coast Guard, and Air Force pilots to fly multi-engine aircraft. A total of 61 were delivered to the US Navy between 1977 and 1980. In August 2006, the Navy announced that after 29 years of operation, the T-44A fleet would be upgraded with modernized avionics systems, and redesignated T-44Cs.
+Two VC-6A aircraft were operated by the US military. One was a Model 65-A90 operated by the US Army and serialled 66-15361, the other a B90, designated as a VC-6A (66-7943), was operated by the United States Air Force and used by President Johnson. (See below.)
+During the administration of President Lyndon Johnson, the United States Air Force acquired a Model B90 King Air "off-the-shelf". With the military designation VC-6A, the aircraft, serialled 66-7943, was used to transport President Johnson between Bergstrom Air Force Base (near Austin, Texas) and the Johnson family ranch near Johnson City, Texas. When Johnson was aboard, the aircraft used the callsign Air Force One.   After Johnson left office, the aircraft continued to serve in the 89th Military Airlift Wing as a VIP transport until its retirement in 1985.  This aircraft is now on display, with other presidential aircraft, at the National Museum of the United States Air Force at Wright Patterson Air Force Base near Dayton, Ohio.
+A number of aftermarket modifications and upgrades are available for 90 and 100 Series King Airs. An engine upgrade involves earlier-build 90 Series aircraft being re-engined with the PT6A-135A engines of the C90GT. A more radical re-engining program involves the replacement of the PT6s in C90 and E90 King Airs with TPE-331s.
+Among the numerous airframe modifications available: a cargo conversion for the 90 model, the CargoLiner, which replaces the rear door with a large pallet accessible cargo door, a heavy duty floor structure and cabin cargo liner, also a crew hatch for cockpit access for the crew in the 90, 100, and 200; a Wing Front Spar Reinforcement Kit for both 90 and 100 Series aircraft,; a modification for the entire King Air line that entails reworking and extending the nose to house a baggage compartment as well as the avionics normally found in the noses of King Air aircraft. Modifications available for the King Air 100 include a belly cargo pod similar to those fitted to the Beech 99 and the Model 1300 version of the King Air 200 series.
+In addition to its use by military and government users, the King Air is also used by many non-governmental organizations, as well as by corporate and private users. This includes commercial use by air-taxi and air charter companies.
+The Royal Flying Doctor Service of Australia previously operated a large number of 90 Series King Airs, but retired the last example in 2006, standardizing on the King Air 200 Series and the Pilatus PC-12 for its fleet requirements.
+On November 19, 1996, a Beechcraft King Air collided on a runway with a United Express 1900C at Quincy Regional Airport in Illinois, killing all 14 people on board both aircraft.
+On January 19, 2017, a Beechcraft C90GT King Air  crashed in Paraty, Rio de Janeiro, Brazil, killing Teori Zavascki, the Minister of the Supreme Court of Brazil and 4 other people.
+On June 28, 2018, a Beechcraft King Air C90 crashed in a suburb of Mumbai, India, killing all four aboard and one on the ground; three people sustained injuries.
+On November 5, 2021, a Beechcraft C90A King Air crashed in Caratinga, Minas Gerais, Brazil, killing 3 passengers and 2 crew members, including Brazilian singer Marília Mendonça.A total of more than 3,100 King Air 90 and 100 series aircraft have been delivered as of August 2008:
+Model 87
+"Proof-of-concept" test aircraft based on the Model A80 with PT6A-6 turboprops; one built.
+Model 65-90
+Based on the Model 88 with two PT6A-6 turboprops and a 9000lb Take Off Gross Weight (TOGW); 112 built.
+Model 65-A90
+Model 90 with TOGW increased to 9300lb, two 550shp PT6A-20 engines, redesigned flightdeck and a new engine de-ice system, 206 built.
+Model 65-A90-1
+Based on the Model 87, unpressurised with square windows and 550shp PT6A-20 engines, 141 built and delivered to the US Army with the designation U-21A.
+Model 65-A90-2
+Specialised electronic warfare variant of the A90-1 with five seats, three built as U-21Bs (later RU-21B).
+Model 65-A90-3
+Variant of the A90-2 with improved electronic equipment, two-built for the US Army with the designation RU-21C.
+Model 65-A90-4
+Project Guardrail variant of the A90-2, strengthened airframes and higher gross weight, 16 built for the US Army.
+Model B90
+based on the A90 with a 9650 TOGW, improved ailerons and increased wing span, improved instrumentation and pressurisation and an extra side window, 184 built.
+Model C90
+Based on the B90 but using the Model 100 cabin environment and pressurisation system, 550shp PT6A-21 engines, 507 built.
+Model C90-1
+Improved C90 with an E90 tailplane and improved power output, increased maximum cabin pressure differential, 54 built in 1982 and 1983.
+Model C90A
+Improved C90-1 improved landing gear retraction, improved electrical system and using F90-1 pressurisation and heating system, 235 built between 1984 and 1992. Two Pratt & Whitney PT6A-21 reverse-flow, free-turbine turboprop engines; 550 shp each.
+C90B and C90SE
+Marketing names for updated versions of C90A produced between 1992 and 2005, 456 built B-model has Maximum Take-off Weight of 10 100 lb (4585 kg), quieter Hartzell four-blade, constant-speed, full-reversing 90-in diameter propellers and dynamic (passively resonating) vibration absorber (DVA) system.
+Model C90GT
+Version with PT6A-135A engines, 750 shp flat rated to 550 shp, for better climb and cruise performance, 97 built.
+Model C90GTi
+Variant of C90GT with "glass cockpit" Collins Proline 21 avionics suite; at least 90 built
+Model C90GTx
+Marketing name for version of C90GTi introduced in 2010 with winglets added as factory-standard, Maximum Take-off Weight increased to 10 485 lb (4756 kg) for better full-fuel payload flexibility.
+Model D90
+Not built, one prototype abandoned.
+Model E90
+C90 with 680shp PT6A-28 engines and 10100lb TOGW, first flown in 1972, 347 built.
+Model F90
+C90 with T-tail and Model 200 wings, two 750shp PT6A-135 engines with four-bladed propellers, 196 built.
+Model F90-1
+F90 with PT6A-135A engines, 32 built.
+Model G90
+F90 prototype re-engined with Garrett TPE-331s in place of the Pratt & Whitney PT6s originally fitted.
+Model H90
+C90 modified for as a pilot trainer for the United States Navy with 750shp PT6A-34B engines, 61 built.
+Model 100
+B90 with a 50-inch fuselage stretch, larger vertical tail, two 680shp PT6A-28 engines, first flown in 1969, 89 built.
+Model A100
+Model 100 with additional fuel capacity, four-bladed propellers and two extra side windows, 157 built.
+Model A100-1
+Designation for procurement reasons of three Model 200 battlefield surveillance variants for the United States Army as the RU-21J.
+Model A100A
+A100 with PT6A-28A engines and 11800lb TOGW.
+Model A100C
+A100A with 750shp PT6A-36 engines.
+Model B100
+A100A with two 715shp Garrett TPE-331 engines instead of Pratt & Whitney PT6s fitted to previous models; 137 built.
+Model C100
+B100 with 750shp PT6A-135 engines.
+Nextant G90XT
+remanufactured by Nextant Aerospace with GE H75 engines, Garmin G1000 cockpit and a new cabin.YU-21
+Modification of L-23 Seminole with PT6A-6 turboprops. One converted.
+U-21A Ute
+Utility aircraft for US Army, with fuselage of Queen Air 65-80 and wings of King Air 65-90, powered by 550 hp (410 kW) PT6A-20s. Beechcraft Model 65-A90-1. 141 built.
+EU-21A
+Conversion of at least five U-21As as radio relay aircraft for use over Vietnam. Later re-converted to U-21A standard.
+JU-21A
+Conversion of three U-21As with Left Jab Signals intelligence (SIGINT) system. One of the system aircraft, (67-18065) with callsign "Vanguard 216" was shot down by a Surface to Air Missile near the DMZ on March 4, 1971. All 5 crew members were declared KIA Bodies Not Recovered. Two later re-converted to U-21A standard.
+RU-21A
+Conversion of four U-21As to carry Direction finding equipment as part of Cefirm Leader program, to work with RU-21B and RU-21C aircraft.
+RU-21B
+Signals intercept aircraft as part of Cefirm Leader program. Powered by 620 hp (462 kW) PT6A-29s and with modified undercarriage. Beechcraft Model 65-A90-2. Three built.
+RU-21C
+Similar to RU-21B, but carrying jamming equipment as part of Cefirm Leader. Beechcraft model 65-A90-3. Two built.
+RU-21D
+SIGINT aircraft system known as "Laffing Eagle" "V-Scan", deployed to Vietnam, after the war many were converted to Guardrail RU-21H models, and others having their electronic equipment removed to become U-21D utility aircraft. Beechcraft Model 65-A90-1. 18 built.
+RU-21E
+ELINT version with Guardrail II, IIA or IV systems. Beechcraft Model 65-A90-5. 16 built.
+U-21F
+Five King Air A100s used by US Army as transport/utility aircraft.
+U-21G Ute
+U-21A with modified cockpit, mainly used as utility aircraft, 17 conversions.
+RU-21G
+Three U-21Gs fitted with Guardrail I ELINT system.
+RU-21H
+Conversion of 21 RU-21D, E and F aircraft to carry Guardrail V ELINT system. Higher gross weight.
+U-21H Ute
+Modification of 23 RU-21E and G aircraft replaced in the ELINT role by later aircraft to utility aircraft.
+JU-21H
+Two former RU-21Es converted as test aircraft.
+VC-6A
+Two B90 King Airs, powered by 550 shp (410 kW) PT6A-20s. One used as transport by US Army, and one by USAF as VIP transport for President Lyndon B. Johnson.
+T-44A Pegasus
+Model H90 as a Multi-engine training aircraft for US Navy, 61 built.
+T-44C Pegasus
+T-44A upgraded with the Rockwell Collins Pro Line 21 series avionics suite. 25 upgraded.The ICAO designator, such as might be used in a PIREP or a flight plan, for the various King Airs are BE9T (F90 and F90-1), BE9L (all other model 90s), and BE10 (model 100). With the exception of the F90 and F90-1, all 90 Series King Airs have been produced under the same Type Certificate (Number 3A20) used for Queen Air production. All 100 Series King Airs were produced under the same Type Certificate (Number A14CE) used for Model 99 production.
+
+Related development
+Beechcraft Queen Air
+Beechcraft Super King Air
+Beechcraft Model 99Aircraft of comparable role, configuration, and era
+Cessna 425
+Cessna 441
+Mitsubishi MU-2
+Piaggio P.180 Avanti
+Piper PA-31T Cheyenne
+Embraer EMB 121 Xingu
+Swearingen MerlinKing Air C90GTx
+Beech VC-6A – National Museum of the United States Air Force
+Beech King Air timeline from Wings of Kansas

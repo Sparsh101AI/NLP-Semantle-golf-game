@@ -1,0 +1,5 @@
+http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0473c/Babcfejg.html
+https://web.archive.org/web/20060115084555/http://www.semicon.toshiba.co.jp/eng/prd/micro/td/900family/900l/kyoutu/pdf/e_900l_chap3_cpu.pdf
+http://www.semicon.toshiba.co.jp/eng/prd/micro/td/900family/900l/kyoutu/pdf/e_900l_chap3_cpu.pdf
+http://ww1.microchip.com/downloads/en/devicedoc/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_complete.pdf
+http://yarchive.net/comp/carry_bit.html

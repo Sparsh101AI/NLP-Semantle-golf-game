@@ -1,0 +1,15 @@
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+By network
+ABC
+CBS
+Fox
+NBC
+UPN
+The WB
+References

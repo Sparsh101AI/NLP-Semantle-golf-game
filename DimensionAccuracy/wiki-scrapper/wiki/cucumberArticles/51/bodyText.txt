@@ -1,0 +1,176 @@
+The breakdown voltage of an insulator is the minimum voltage that causes a portion of an insulator to experience electrical breakdown and  become electrically conductive.
+For diodes, the breakdown voltage is the minimum reverse voltage that makes the diode conduct appreciably in reverse. Some devices (such as TRIACs) also have a forward breakdown voltage.
+Materials are often classified as conductors or insulators based on their resistivity. A conductor is a substance which contains many mobile charged particles called charge carriers which are free to move about inside the material. An electric field is created across a piece of the material by applying a voltage difference between electrical contacts on different sides of the material. The force of the field causes the charge carriers within the material to move, creating an electric current from the positive contact to the negative contact. For example, in metals one or more of the negatively charged electrons in each atom, called conduction electrons, are free to move about the crystal lattice. An electric field causes a large current to flow, so metals have low resistivity, making them good conductors. In contrast in materials like plastics and ceramics all the electrons are tightly bound to atoms, so under normal conditions there are very few mobile charge carriers in the material. Applying a voltage causes only a very small current to flow, giving the material a very high resistivity, and these are classed as insulators.
+However, if a strong enough electric field is applied, all insulators become conductors. If the voltage applied across a piece of insulator is increased, at a certain electric field strength the number of charge carriers in the material suddenly increases enormously and its resistivity drops, causing a strong current to flow through it. This is called electrical breakdown.  Breakdown occurs when the electric field becomes strong enough to pull electrons from the molecules of the material, ionizing them. The released electrons are accelerated by the field and strike other atoms, creating more free electrons and ions in a chain reaction, flooding the material with charged particles. This occurs at a characteristic electric field strength in each material, measured in volts per centimeter, called its dielectric strength.
+When a voltage is applied across a piece of insulator, the electric field at each point is equal to the gradient of the voltage.  The voltage gradient may vary at different points across the object, due to its shape or local variations in composition. Electrical breakdown occurs when the field first exceeds the dielectric strength of the material in some region of the object. Once one area has broken down and become conductive, that area has almost no voltage drop and the full voltage is applied across the remaining length of the insulator, resulting in a higher gradient and electric field, causing additional areas in the insulator to break down. The breakdown quickly spreads in a conductive path through the insulator until it extends from the positive to the negative contact. The voltage at which this occurs is called the breakdown voltage of that object. Breakdown voltage  varies with the material composition, shape of an object, and the length of material between the electrical contacts.
+Breakdown voltage is a characteristic of an insulator that defines the maximum voltage difference that can be applied across the material before the insulator conducts. In solid insulating materials, this usually creates a weakened path within the material by creating permanent molecular or physical changes by the sudden current.  Within rarefied gases found in certain types of lamps, breakdown voltage is also sometimes called the striking voltage.
+The breakdown voltage of a material is not a definite value because it is a form of failure and there is a statistical probability whether the material will fail at a given voltage. When a value is given it is usually the mean breakdown voltage of a large sample. Another term is withstand voltage, where the probability of failure at a given voltage is so low it is considered, when designing insulation, that the material will not fail at this voltage.
+Two different breakdown voltage measurements of a material are the AC and impulse breakdown voltages. The AC voltage is the line frequency of the mains. The impulse breakdown voltage is simulating lightning strikes, and usually uses a 1.2 microsecond rise for the wave to reach 90% amplitude, then drops back down to 50% amplitude after 50 microseconds.
+Two technical standards governing performing these tests are ASTM D1816 and ASTM D3300 published by ASTM.
+In standard conditions at atmospheric pressure, air serves as an excellent insulator, requiring the application of a significant voltage of 3.0 kV/mm before breaking down (e.g., lightning, or sparking across plates of a capacitor, or the electrodes of a spark plug).  In partial vacuum, this breakdown potential may decrease to an extent that two uninsulated surfaces with different potentials might induce the electrical breakdown of the surrounding gas. This may damage an apparatus, as a breakdown is analogous to a short circuit.
+In a gas, the breakdown voltage can be determined by Paschen's law.
+The breakdown voltage in a partial vacuum is represented as
+
+
+
+
+
+V
+
+
+b
+
+
+
+=
+
+
+
+B
+
+p
+
+d
+
+
+ln
+⁡
+
+(
+
+A
+
+p
+
+d
+
+)
+
+−
+ln
+⁡
+
+[
+
+ln
+⁡
+
+(
+
+1
++
+
+
+1
+
+γ
+
+
+s
+e
+
+
+
+
+
+
+)
+
+
+]
+
+
+
+
+
+
+{\displaystyle V_{\mathrm {b} }={\frac {B\,p\,d}{\ln \left(A\,p\,d\right)-\ln \left[\ln \left(1+{\frac {1}{\gamma _{\mathrm {se} }}}\right)\right]}}}
+
+where 
+
+
+
+
+V
+
+
+b
+
+
+
+
+
+{\displaystyle V_{\mathrm {b} }}
+
+ is the breakdown potential in volts DC, 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ and 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ are constants that depend on the surrounding gas, 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ represents the pressure of the surrounding gas, 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ represents the distance in centimetres between the electrodes, and 
+
+
+
+
+γ
+
+
+s
+e
+
+
+
+
+
+{\displaystyle \gamma _{\mathrm {se} }}
+
+ represents the Secondary Electron Emission Coefficient.
+A detailed derivation, and some background information, is given in the article about Paschen's law.
+Breakdown voltage is a parameter of a diode that defines the largest reverse voltage that can be applied without causing an exponential increase in the leakage current in the diode. Exceeding the breakdown voltage of a diode, per se, is not destructive; although, exceeding its current capacity will be. In fact, Zener diodes are essentially just heavily doped normal diodes that exploit the breakdown voltage of a diode to provide regulation of voltage levels.
+Rectifier diodes (semiconductor or tube/valve) may have several voltage ratings, such as the peak inverse voltage (PIV) across the diode, and the maximum RMS input voltage to the rectifier circuit (which will be much less).
+Many small-signal transistors need to have any breakdown currents limited to much lower values to avoid excessive heating. To avoid damage to the device, and to limit the effects excessive leakage current may have on the surrounding circuit, the following bipolar transistor maximum ratings are often specified:
+VCEO (sometimes written BVCEO or V(BR)CEO)
+The maximum voltage between collector and emitter that can be safely applied (and with no more than some specified leakage current, often) when no circuit at the base of the transistor is there to remove collector-base leakage. Typical values: 20 volts to as high as 700 volts; very early Germanium point-contact transistors such as the OC10 had values around 5 volts or less.
+VCBO
+The maximum collector-to-base voltage, with emitter open-circuit. Typical values 25 to 1200 volts.
+VCER
+The maximum voltage rating between collector and emitter with some specified resistance (or less) between base and emitter. A more realistic rating for real-world circuits than the open-base or open-emitter scenarios above.
+VEBO
+The maximum reverse voltage on the base with respect to the emitter. Typically around 5 volts - more for germanium transistors, less for UHF transistors usually.
+VCES
+Collector to emitter rating when base is shorted to emitter; equivalent to VCER when R = 0.
+VCEX
+Collector to emitter rating when a specific base-emitter voltage is supplied, such as in some high voltage switching scenarios.Field-effect transistors have similar maximum ratings, the most important one for junction FETs is the gate-drain voltage rating.
+Some devices may also have a maximum rate of change of voltage specified.
+Power transformers, circuit breakers, switchgear and other electrical apparatus connected to overhead transmission lines are exposed to transient lightning surge voltages induced on the power circuit. Electrical apparatus will have a basic lightning impulse level (BIL) specified. This is the crest value of an impulse waveform with a standardized wave shape, intended to simulate the electrical stress of a lightning surge or a surge induced by circuit switching.  The BIL is coordinated with the typical operating voltage of the apparatus.  For high-voltage transmission lines, the impulse level is related to the clearance to ground of energized components. As an example, a transmission line rated 138 kV would be designed for a BIL of 650 kV. A higher BIL may be specified than the minimum, where the exposure to lightning is severe.

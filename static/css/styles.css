@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+p {
+    color: inherit;
+}
+
+h1 {
+    color: inherit;
+}
+
+h2 {
+    color: inherit;
+}
+
+body {
+    margin: 0;
+    margin-bottom: 50px;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    background-color: #0d7234;
+}
+
+.header {
+    background-color: white;
+    padding: 5px 10% 5px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    #golfmantleLogo {
+        width: 250px;
+        height: 73px;
+    }
+
+    .header {
+        padding: 15px 15px;
+    }
+}
+
+#overlayContainer {
+    opacity: 0;
+    transition: opacity 1s, visibility 1s;
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.overlayContent {
+    max-width: 900px;
+    display: none;
+    transform: translateY(-2000px);
+    transition: transform 1s;
+    background-color: white;
+    position: relative;
+    padding: 5% 10%;
+    margin: 5%;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.inputContainer {
+    width: 100%;
+    /* color: white; */
+    display: flex;
+    justify-content: center;
+}
+
+.inputContainer * {
+    padding: 5px 10px;
+    margin: 5px;
+    border: none
+}
+
+.inputContainer *:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.inputContainer input[type=button] {
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: steelblue;
+    border: none;
+    transition: box-shadow 300ms;
+}
+
+.iconBtn {
+    padding: 5px;
+    background-color: transparent;
+    border: none;
+    transition: opacity 300ms;
+    cursor: pointer;
+}
+
+.iconBtn:hover {
+    opacity: 0.5;
+}
+
+.xBtn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+#tempDefinition {
+    min-width: 100%;
+}
+
+#win {
+    height: 80%;
+    margin: auto;
+    overflow: scroll;
+}
+
+/* #similarityBox {
+    color: white;
+} */
+
+#canvasContainer {
+    /* color: white; */
+    /* margin-top: 45px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+/* error text styles */
+
+#errorText {
+    color: #ff2d16;
+    text-align: center;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    margin: 0;
+    transition: opacity 500ms, visibility 500ms, height 500ms, margin 500ms;
+}
+
+.fa-circle-exclamation {
+    color: #ff2d16;
+    margin-right: 10px;
+}
+
+.button {
+    color: inherit;
+    transition: opacity 0.25s;
+}
+
+.button:hover {
+    opacity: 50%;
+}
+
+#submitButton {
+    /* color: white; */
+    background-color: skyblue;
+}
+
+#restartBtn {
+    /* color: white; */
+    font-weight: bold;
+    background-color: red;
+}
+
+#similarityBox {
+    margin-top: -25px;
+}
+
+#wordInput {
+    color: white;
+    background-color: #07411d;
+}
+.cosInput{
+    color: white;
+    background-color: #07411d
+}
+#modeInput {
+    color: white;
+    background-color: #07411d;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1;
+    /* Firefox */
+}
+
+:-ms-input-placeholder {
+    /*Internet Explorer 10-11*/
+    color: white;
+}
+
+::-ms-input-placeholder {
+    /*Microsoft Edge*/
+    color: white;
+}
+
+input[type=checkbox] {
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+    user-select: none;
+}
+
+#hintText {
+    /* color: #ffffff; */
+    text-align: center;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    margin: 0;
+    transition: opacity 500ms, visibility 500ms, height 500ms, margin 500ms;
+}
+
+#playAgain {
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: #0d7234;
+    /* color: white; */
+    font-family: 'Open Sans';
+    font-size: 1.2em;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    padding: 0 5% 0 5%;
+}
+
+.card {
+    margin-top: 30px;
+    color: black;
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+    background-color: white;
+    width: min-content;
+}
+
+.button {
+    border-radius: 8px;
+    border: 0;
+    padding: 10px;
+    color: white;
+}
+
+#definitionContainer {
+    width: 40%;
+    z-index: 0;
+}
+
+#definitionSynonyms {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+#definitionAntonyms {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.synonym {
+    padding: 10px;
+    color: white;
+    background-color: rgb(109, 192, 219);
+    border-radius: 8px;
+    font-weight: bold;
+    border: 0;
+}
+
+.synonym:hover {
+    transition-duration: 200ms;
+    background-color: rgb(52, 174, 214);
+}
+
+.antonym {
+    padding: 10px;
+    color: white;
+    background-color: rgb(190, 63, 63);
+    border-radius: 8px;
+    font-weight: bold;
+    border: 0;
+}
+
+.antonym:hover {
+    transition-duration: 200ms;
+    background-color: rgb(167, 80, 80);
+}

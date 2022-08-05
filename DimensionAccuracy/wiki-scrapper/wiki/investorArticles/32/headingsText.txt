@@ -1,0 +1,30 @@
+History
+Definition
+Examples of metric spaces
+Open and closed sets, topology and convergence
+Types of metric spaces
+Complete spaces
+Bounded and totally bounded spaces
+Compact spaces
+Locally compact and proper spaces
+Connectedness
+Separable spaces
+Pointed metric spaces
+Types of maps between metric spaces
+Continuous maps
+Uniformly continuous maps
+Lipschitz-continuous maps and contractions
+Isometries
+Quasi-isometries
+Notions of metric space equivalence
+Topological properties
+Distance between points and sets; Hausdorff distance and Gromov metric
+Product metric spaces
+Continuity of distance
+Quotient metric spaces
+Generalizations of metric spaces
+Metric spaces as enriched categories
+See also
+References
+Further reading
+External links

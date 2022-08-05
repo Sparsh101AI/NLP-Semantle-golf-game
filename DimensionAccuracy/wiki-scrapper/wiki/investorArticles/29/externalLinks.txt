@@ -1,0 +1,15 @@
+https://commonchemistry.cas.org/detail?cas_rn=156685-94-8
+https://chemapps.stolaf.edu/jmol/jmol.php?model=C%5BC%40%5D12CC%5BC%40H%5D3%5BC%40H%5D%28%5BC%40%40H%5D1CC%5BC%40%40H%5D2C%28%3DO%29CCl%29CC%5BC%40%40H%5D4%5BC%40%40%5D3%28C%5BC%40%40H%5D%28%5BC%40H%5D%28C4%29O%29N5CCOCC5%29C
+https://www.chemspider.com/Chemical-Structure.8025739.html
+https://pubchem.ncbi.nlm.nih.gov/compound/9850026
+https://comptox.epa.gov/dashboard/chemical/details/DTXSID30349651
+https://en.wikipedia.org/w/index.php?title=Special:ComparePages&rev1=428740324&page2=ORG-20599
+//pubmed.ncbi.nlm.nih.gov/9014136
+//pubmed.ncbi.nlm.nih.gov/9171876
+//pubmed.ncbi.nlm.nih.gov/12388643
+//pubmed.ncbi.nlm.nih.gov/15033889
+https://en.wikipedia.org/w/index.php?title=Template:Hypnotics_and_sedatives&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:GABA_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Glycine_receptor_modulators&action=edit
+https://en.wikipedia.org/w/index.php?title=ORG-20599&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Sedative-stub&action=edit

@@ -1,0 +1,11 @@
+https://archive.org/details/timeseriesanalys0000boxg
+https://ui.adsabs.harvard.edu/abs/1991tstm.book.....B
+https://www.otexts.org/fpp/8/5
+https://doi.org/10.1002%2Ffor.3980130502
+https://web.archive.org/web/20070318000551/http://statistik.mathematik.uni-wuerzburg.de/timeseries/
+http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc445.htm
+http://robjhyndman.com/papers/BoxJenkins.pdf
+http://support.sas.com/resources/papers/proceedings13/454-2013.pdf
+https://www.nist.gov
+http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007558648905171
+https://id.loc.gov/authorities/subjects/sh91002749

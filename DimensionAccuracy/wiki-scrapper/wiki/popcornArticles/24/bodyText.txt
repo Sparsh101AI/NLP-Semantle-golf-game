@@ -1,0 +1,67 @@
+In medicine, myopathy is a disease of the muscle in which the muscle fibers do not function properly. This results in muscular weakness. Myopathy means muscle disease (Greek : myo- muscle + patheia -pathy : suffering). This meaning implies that the primary defect is within the muscle, as opposed to the nerves ("neuropathies" or "neurogenic" disorders) or elsewhere (e.g., the brain). Muscle cramps, stiffness, and spasm can also be associated with myopathy.
+Muscular disease can be classified as neuromuscular or musculoskeletal in nature. Some conditions, such as myositis, can be considered both neuromuscular and musculoskeletal.
+Common symptoms include muscle weakness, cramps, stiffness, and tetany.
+Myopathies in systemic disease results from several different disease processes including endocrine, inflammatory, paraneoplastic, infectious, drug- and toxin-induced, critical illness myopathy, metabolic, collagen related, and myopathies with other systemic disorders. Patients with systemic myopathies often present acutely or sub acutely. On the other hand, familial myopathies or dystrophies generally present in a chronic fashion with exceptions of metabolic myopathies where symptoms on occasion can be precipitated acutely. Most of the inflammatory myopathies can have a chance association with malignant lesion; the incidence appears to be specifically increased only in patients with dermatomyositis.
+There are many types of myopathy. ICD-10 codes are provided here where available.
+(G71.0) Dystrophies (or muscular dystrophies) are a subgroup of myopathies characterized by muscle degeneration and regeneration. Clinically, muscular dystrophies are typically progressive, because the muscles' ability to regenerate is eventually lost, leading to progressive weakness, often leading to use of a wheelchair, and eventually death, usually related to respiratory weakness.
+(G71.1) Myotonia
+Neuromyotonia
+(G71.2) The congenital myopathies do not show evidence for either a progressive dystrophic process (i.e., muscle death) or inflammation, but instead characteristic microscopic changes are seen in association with reduced contractile ability of the muscles. Congenital myopathies include, but are not limited to:
+(G71.2) nemaline myopathy (characterized by presence of "nemaline rods" in the muscle),
+(G71.2) multi/minicore myopathy (characterized by multiple small "cores" or areas of disruption in the muscle fibers),
+(G71.2) centronuclear myopathy (or myotubular myopathy) (in which the nuclei are abnormally found in the center of the muscle fibers), a rare muscle wasting disorder
+(G71.3) Mitochondrial myopathies, which are due to defects in mitochondria, which provide a critical source of energy for muscle
+(G72.3) Familial periodic paralysis
+(G72.4) Inflammatory myopathies, which are caused by problems with the immune system attacking components of the muscle, leading to signs of inflammation in the muscle
+(G73.6) Metabolic myopathies, which result from defects in biochemical metabolism that primarily affect muscle
+(G73.6/E74.0) Glycogen storage diseases, which may affect muscle
+(G73.6/E75) Lipid storage disorder
+(G72.89) Other myopathies
+Brody myopathy
+Congenital myopathy with abnormal subcellular organelles
+Fingerprint body myopathy
+Inclusion body myopathy 2
+Megaconial myopathy
+Myofibrillar myopathy
+Rimmed vacuolar myopathy(G72.0 - G72.2) External substance induced myopathy
+(G72.0) Drug-induced myopathy
+Glucocorticoid myopathy is caused by this class of steroids increasing the breakdown of the muscle proteins leading to muscle atrophy.
+(G72.1) Alcoholic myopathy
+(G72.2) Myopathy due to other toxic agents - including atypical myopathy in horses caused by toxins in sycamore seeds and seedlings.
+(M33.0-M33.1)
+Dermatomyositis produces muscle weakness and skin changes.  The skin rash is reddish and most commonly occurs on the face, especially around the eyes, and over the knuckles and elbows.  Ragged nail folds with visible capillaries can be present. It can often be treated by drugs like corticosteroids or immunosuppressants. (M33.2)
+Polymyositis produces muscle weakness. It can often be treated by drugs like corticosteroids or immunosuppressants.
+Inclusion body myositis is a slowly progressive disease that produces weakness of hand grip and straightening of the knees.  No effective treatment is known.
+(M61) Myositis ossificans
+(M62.89) Rhabdomyolysis and (R82.1) myoglobinuriasThe Food and Drug Administration is recommending that physicians restrict prescribing high-dose Simvastatin (Zocor, Merck) to patients, given an increased risk of muscle damage. The FDA drug safety communication stated that physicians should limit using the 80-mg dose unless the patient has already been taking the drug for 12 months and there is no evidence of myopathy.
+"Simvastatin 80 mg should not be started in new patients, including patients already taking lower doses of the drug," the agency states.
+Statin-associated autoimmune myopathy(I40) Acute myocarditis
+(I41) Myocarditis in diseases classified elsewhere
+(I42) Cardiomyopathy
+(I42.0) Dilated cardiomyopathy
+(I42.1) Obstructive hypertrophy cardiomyopathy
+(I42.2) Other hypertrophic cardiomyopathy
+(I42.3) Endomyocardial (eosinophilic) disease
+Eosinophilic myocarditis
+Endomyocardial (tropical) fibrosis
+Löffler's endocarditis
+(I42.4) Endocardial fibroelastosis
+(I42.5) Other restrictive cardiomyopathy
+(I42.6) Alcoholic cardiomyopathy
+(I42.8) Other cardiomyopathies
+Arrhythmogenic right ventricular dysplasia
+(I43) Cardiomyopathy in diseases classified elsewhere
+At birth
+None as systemic causes; mainly hereditaryOnset in childhood
+Inflammatory myopathies – dermatomyositis, polymyositis (rarely)
+Infectious myopathies
+Endocrine and metabolic disorders – hypokalemia, hypocalcemia, hypercalcemiaOnset in adulthood
+Inflammatory myopathies – polymyositis, dermatomyositis, inclusion body myositis, viral (HIV)
+Infectious myopathies
+Endocrine myopathies – thyroid, parathyroid, adrenal, pituitary disorders
+Toxic myopathies – alcohol, corticosteroids, narcotics, colchicines, chloroquine
+Critical illness myopathy
+Metabolic myopathies
+Paraneoplastic myopathyBecause different types of myopathies are caused by many different pathways, there is no single treatment for myopathy. Treatments range from treatment of the symptoms to very specific cause-targeting treatments. Drug therapy, physical therapy, bracing for support, surgery, and massage are all current treatments for a variety of myopathies.
+GeneReviews/NCBI/NIH/UW entry on Myopathy with Deficiency of ISCU
+See http://neuromuscular.wustl.edu/ for medical descriptions.

@@ -1,0 +1,81 @@
+EEPROM (also called EPROM) stands for electrically erasable programmable read-only memory and is a type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.
+EEPROMs are organized as arrays of floating-gate transistors. EEPROMs can be programmed and erased in-circuit, by applying special programming signals. Originally, EEPROMs were limited to single-byte operations, which made them slower, but modern EEPROMs allow multi-byte page operations. An EEPROM has a limited life for erasing and reprogramming, now reaching a million operations in modern EEPROMs. In an EEPROM that is frequently reprogrammed, the life of the EEPROM is an important design consideration.
+Flash memory is a type of EEPROM designed for high speed and high density, at the expense of large erase blocks (typically 512 bytes or larger) and limited number of write cycles (often 10,000). There is no clear boundary dividing the two, but the term "EEPROM" is generally used to describe non-volatile memory with small erase blocks (as small as one byte) and a long lifetime (typically 1,000,000 cycles). Many microcontrollers include both: flash memory for the firmware, and a small EEPROM for parameters.
+As of 2020, flash memory costs much less than byte-programmable EEPROM and is the dominant memory type wherever a system requires a significant amount of non-volatile solid-state storage. EEPROMs, however, are still used on applications that only require small amounts of storage, like in serial presence detect.
+In the early 1970s, some studies, inventions, and development for electrically re-programmable non-volatile memories were performed by various companies and organizations.
+In 1971, the earliest research report was presented at the 3rd Conference on Solid State Devices, Tokyo in Japan by Yasuo Tarui, Yutaka Hayashi, and Kiyoko Nagai at Electrotechnical Laboratory; a Japanese national research institute.
+They fabricated an EEPROM device in 1972, and continued this study for more than 10 years.
+These papers have been repeatedly cited by later papers and patents.
+One of their research studies includes MONOS (metal-oxide-nitride-oxide-semiconductor) technology,
+which used Renesas Electronics' flash memory integrated in single-chip microcontrollers.
+In 1972, a type of electrically re-programmable non-volatile memory was invented by Fujio Masuoka at Toshiba, who is also known as the inventor of flash memory.
+Most of the major semiconductor manufactures, such as
+Toshiba,
+Sanyo (later, ON Semiconductor),
+IBM,
+Intel,
+NEC (later, Renesas Electronics),
+Philips (later, NXP Semiconductors),
+Siemens (later, Infineon Technologies),
+Honeywell (later, Atmel),
+Texas Instruments,
+studied, invented, and manufactured some electrically re-programmable non-volatile devices until 1977.
+The theoretical basis of these devices is Avalanche hot-carrier injection. But in general, programmable memories, including EPROM, of early 1970s had reliability and endurance problems such as the data retention periods and the number of erase/write cycles.
+In 1975, NEC's semiconductor operations unit, later NEC Electronics, currently Renesas Electronics, applied the trademark name EEPROM® to Japan Patent Office.
+In 1978, this trademark right is granted and registered as No.1,342,184 in Japan, and still survives as of March 2018.
+In February 1977, Eliyahou Harari at Hughes Aircraft Company invented a new EEPROM technology using Fowler-Nordheim tunnelling through a thin silicon dioxide layer between the floating-gate and the wafer.
+Hughes went on to produce this new EEPROM devices.
+But this patent
+cited NEC's EEPROM® invention.
+In May 1977, some important research result was disclosed by Fairchild and Siemens. They used SONOS (polysilicon-oxynitride-nitride-oxide-silicon) structure with thickness of silicon dioxide less than 30 Å, and SIMOS (stacked-gate injection MOS) structure, respectively, for using Fowler-Nordheim tunnelling hot-carrier injection.
+Around 1976 to 1978, Intel's team, including George Perlegos, made some inventions to improve this tunneling EPROM technology.
+In 1978, they developed a 16K (2K word × 8) bit Intel 2816 chip with a thin silicon dioxide layer, which was less than 200 Å.
+In 1980. this structure was publicly introduced as FLOTOX; floating gate tunnel oxide.
+The FLOTOX structure improved reliability of erase/write cycles per byte up to 10,000 times.
+But this device required additional 20–22V VPP bias voltage supply for byte erase, except for 5V read operations.
+In 1981, Perlegos and 2 other members left Intel to form Seeq Technology,
+which used on-device charge pumps to supply the high voltages necessary for programming EPROMs.
+In 1984, Perlogos left Seeq Technology to found Atmel, then Seeq Technology was acquired by Atmel.
+As is described in former section, old EEPROMs are based on avalanche breakdown-based hot-carrier injection with high reverse breakdown voltage. But FLOTOX theoretical basis is Fowler–Nordheim tunneling hot-carrier injection through a thin silicon dioxide layer between the floating gate and the wafer. In other words, it uses a tunnel junction.
+Theoretical basis of the physical phenomenon itself is the same as today's flash memory. But each FLOTOX structure is in conjunction with another read-control transistor because the floating gate itself is just programming and erasing one data bit.
+Intel's FLOTOX device structure improved EEPROM reliability, in other words, the endurance of the write and erase cycles, and the data retention period. A material of study for single-event effect about FLOTOX is available.
+Today, a detailed academical explanation of FLOTOX device structure can be found in various materials.
+Nowadays, EEPROM is used for embedded microcontrollers as well as standard EEPROM products.
+EEPROM still requires a 2-transistor structure per bit to erase a dedicated byte in the memory, while flash memory has 1 transistor per bit to erase a region of the memory.
+Because EEPROM technology is used for some security gadgets, such as credit card, SIM card, key-less entry, etc., some devices have security protection mechanisms, such as copy-protection.
+EEPROM devices use a serial or parallel interface for data input/output.
+The common serial interfaces are SPI, I²C, Microwire, UNI/O, and 1-Wire. These use from 1 to 4 device pins and allow devices to use packages with 8 pins or less.
+A typical EEPROM serial protocol consists of three phases: OP-code phase, address phase and data phase. The OP-code is usually the first 8 bits input to the serial input pin of the EEPROM device (or with most I²C devices, is implicit); followed by 8 to 24 bits of addressing, depending on the depth of the device, then the read or write data.
+Each EEPROM device typically has its own set of OP-code instructions mapped to different functions. Common operations on SPI EEPROM devices are:
+Write enable (WRENAL)
+Write disable (WRDI)
+Read status register (RDSR)
+Write status register (WRSR)
+Read data (READ)
+Write data (WRITE)Other operations supported by some EEPROM devices are:
+Program
+Sector erase
+Chip erase commandsParallel EEPROM devices typically have an 8-bit data bus and an address bus wide enough to cover the complete memory. Most devices have chip select and write protect pins. Some microcontrollers also have integrated parallel EEPROM.
+Operation of a parallel EEPROM is simple and fast when compared to serial EEPROM, but these devices are larger due to the higher pin count (28 pins or more) and have been decreasing in popularity in favor of serial EEPROM or flash.
+EEPROM memory is used to enable features in other types of products that are not strictly memory products. Products such as real-time clocks, digital potentiometers, digital temperature sensors, among others, may have small amounts of EEPROM to store calibration information or other data that needs to be available in the event of power loss.
+It was also used on video game cartridges to save game progress and configurations, before the usage of external and internal flash memories.
+There are two limitations of stored information: endurance and data retention.
+During rewrites, the gate oxide in the floating-gate transistors gradually accumulates trapped electrons. The electric field of the trapped electrons adds to the electrons in the floating gate, lowering the window between threshold voltages for zeros vs ones. After sufficient number of rewrite cycles, the difference becomes too small to be recognizable, the cell is stuck in programmed state, and endurance failure occurs. The manufacturers usually specify the maximum number of rewrites being 1 million or more.
+During storage, the electrons injected into the floating gate may drift through the insulator, especially at increased temperature, and cause charge loss, reverting the cell into erased state. The manufacturers usually guarantee data retention of 10 years or more.
+Flash memory is a later form of EEPROM. In the industry, there is a convention to reserve the term EEPROM to byte-wise erasable memories compared to block-wise erasable flash memories. EEPROM occupies more die area than flash memory for the same capacity, because each cell usually needs a read, a write, and an erase transistor, while flash memory  erase circuits are shared by large blocks of cells (often 512×8).
+Newer non-volatile memory technologies such as FeRAM and MRAM are slowly replacing EEPROMs in some applications, but are expected to remain a small fraction of the EEPROM market for the foreseeable future.
+The difference between EPROM and EEPROM lies in the way that the memory programs and erases. EEPROM can be programmed and erased electrically using field electron emission (more commonly known in the industry as "Fowler–Nordheim tunneling").
+EPROMs can't be erased electrically and are programmed by hot-carrier injection onto the floating gate. Erase is by an ultraviolet light source, although in practice many EPROMs are encapsulated in plastic that is opaque to UV light, making them "one-time programmable".
+Most NOR flash memory is a hybrid style—programming is through hot-carrier injection and erase is through Fowler–Nordheim tunneling.
+Avalanche breakdown
+DataFlash
+EPROM
+Field electron emission § Fowler–Nordheim tunneling
+Flash memory
+Floating-gate MOSFET
+Intel HEX – file format
+Programmer (hardware)
+Quantum tunnelling
+SREC – file format
+Tunnel junction
+Read-mostly memory (RMM)Gutmann (2001) papaer: "Data Remanence in Semiconductor Devices" | USENIX

@@ -1,0 +1,11 @@
+//geohack.toolforge.org/geohack.php?pagename=Balatongy%C3%B6r%C3%B6k&params=46.76163_N_17.34868_E_region:HU_type:city(1060)
+//geohack.toolforge.org/geohack.php?pagename=Balatongy%C3%B6r%C3%B6k&params=46.76163_N_17.34868_E_region:HU_type:city(1060)
+https://balatongyorok.hu/
+http://www.balatongyorok.hu/
+http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=17002
+https://en.wikipedia.org/w/index.php?title=Template:Zala&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Hungary%27s_most_flowery_settlements&action=edit
+https://viaf.org/viaf/4539147373418941580005
+https://www.worldcat.org/identities/containsVIAFID/4539147373418941580005
+https://en.wikipedia.org/w/index.php?title=Balatongy%C3%B6r%C3%B6k&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Zala-geo-stub&action=edit

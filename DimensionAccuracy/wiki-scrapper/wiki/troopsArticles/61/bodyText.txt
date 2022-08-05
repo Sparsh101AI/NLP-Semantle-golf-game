@@ -1,0 +1,160 @@
+M-Audio (formerly Midiman) is a business unit of inMusic Brands that designs and markets audio and MIDI interfaces, keyboards and MIDI controllers, synthesizers, loudspeakers, studio monitors, digital DJ systems, microphones, and music software. The company has independent offices in the US, Canada, UK, Germany, France and Japan.
+M-Audio was founded in the late 1990s by Tim Ryan, an engineer and graduate of the California Institute of Technology who had co-designed the Con Brio Advanced Digital Synthesizer and helped develop MIDI software for Commodore and Apple computers, including two of the best-selling MIDI software titles at that time, Studio One and Studio Two. After founding the company as Music Soft and changing the name to Midiman due to Yamaha Corporation already owning the rights to the Music Soft name, Ryan began the company with hardware solutions designed to solve the challenges of connecting MIDI, audio, and computer equipment together for the purposes of music production.
+Midiman first established itself as a manufacturer of small, affordable MIDI problem solvers, sync devices, and interfaces. The first Midiman product was named the "Midiman," a MIDI-to-tape recorder synchronizer, but the first products that experienced mainstream success were the Syncman and Syncman Pro VITC-to-LTC/MTC converters. The next products of note were the Midisport and Bi-Port range of MIDI interfaces which were far more commercially successful than any other Midiman product to date, and which established a core product category for the company for many years to come.
+Following the commercial success of the MIDI interface line, Midiman introduced the Flying Cow and Flying Calf A/D / D/A converters, and entered the audio interface product category for the first time with the 4-input, 20-bit DMAN 2044.
+In the year 2000 and in conjunction with the announcement of the Delta Series PCI audio interfaces, Midiman introduced "M-Audio" as the new brand for their audio products. In the years following, Midiman grew business further by entering into distribution deals with Propellerhead Software, Ableton, ArKaos, and Groove Tubes microphones, The success of the Midiman and M-Audio products, combined with the distribution revenues, resulted in 128% growth for the company in 2001 and 68% growth in 2002, making Midiman the fastest-growing music company in the US for both of those years.
+Having now established themselves in the MIDI interface and audio interface product categories, Midiman entered the MIDI keyboard controller market in 2002 with the introduction of the portable 25-key Oxygen8. While not the first 25-key MIDI controller nor the first cost-effective keyboard controller with plenty of hardware MIDI controls, the Oxygen8 helped establish the new category of portable keyboard controller, and a significant product category for M-Audio in the years to come. Similarly, the same year marked M-Audio's entry to the studio monitor speaker market with the Studiophile SP5B. Later that same year, Midiman officially re-branded themselves entirely as M-Audio, the brand they'd been using for their audio division since 1999.
+In 2003, Midiman acquired Evolution Electronics LTD, manufacturer of MIDI controllers, as a wholly owned subsidiary, and continued to sell Evolution-branded MIDI controllers and keyboards. The following year, Avid Technology acquired Midiman, Inc. (which was, at that time, doing business as M-Audio). Avid paid approximately $174 million, or nearly eight times the book value of the company. The payment was in the form of $80 million in cash, approximately 2 million shares of Avid common stock issued, and all M-Audio stock options assumed. Tim Ryan continued on with the company as general manager.
+After Avid purchased M-Audio, Digidesign and M-Audio cooperated to release a limited version of Digidesign's flagship product, Pro Tools, that was compatible with M-Audio's affordable audio interface hardware. This version of Pro Tools was named Pro Tools M-Powered. M-Audio's products continued to be aimed at computer-based home recording enthusiasts, with more and more emphasis on portability and hardware controllers for music software, like Trigger Finger, an early USB MIDI pad controller which utilized a 4x4 grid of 16 pads to trigger sounds via MIDI, the iControl controller for GarageBand, and the ProjectMix I/O integrated control surface/audio interface. The company's keyboard controller range expanded to 3 different sizes of Oxygen-series keyboard, the more affordable and more modestly featured Keystation series, and later the premium Axiom series USB MIDI keyboard controllers.
+Audio interfaces remained a dominant category for M-Audio as well, with ongoing versions of the Delta series PCI interfaces, the FastTrack series USB audio interfaces, and the ProFire series firewire audio interfaces, among others. Similarly, studio reference monitors remained a strong category, and included the Studiophile BX series, Studiophile CX series, and premium Studiophile DSM series monitors, along with the consumer electronics-targeted AV series desktop speakers.
+
+M-Audio also branched out into new product categories. In 2005, M-Audio released Black Box, a guitar processor and audio interface with guitar amp modeling, beat-synced effects, and drum tracks for computer based recording that they had co-developed with Roger Linn Design. A digital stage piano, the ProKeys 88, introduced M-Audio to an instrument category. A partnership with Ultimate Ears brought about M-Audio IE-series earphones, and M-Audio joined the handheld digital audio recorder market with the MicroTrack series. With the introduction of Torq and its related hardware, M-Audio established itself in the growing digital DJ category. In mid-2012, Avid sold M-Audio to inMusic as part of an attempt to streamline operations and reduce operating costs. Along with its consumer music hardware products, inMusic also acquired the AIR software group's IP and engineering team, responsible for many of the virtual instruments and plug-ins for the Pro Tools audio production software platform. Avid retained the Mbox range of audio interfaces and some other formerly M-Audio-brand products.
+M-Audio products are utilized by a wide range of artists, producers, and composers, including; Accordion-SuperStar Emir Vildic, 9th Wonder, The Black Eyed Peas, Narensound, Brian Transeau, Coldcut, Depeche Mode, Evanescence, Jimmy Chamberlin, Gary Numan, Mark Isham, Los Lobos, Carmen Rizzo, Jeff Rona, Tom Scott, Skrillex, Chester Thompson, and The Crystal Method and many others
+1989 Syncman & Syncman Pro MIDI-to-Tape synchronizers
+1996 AudioBuddy microphone preamp
+1996 MultiMixer 6 & Micromixer 18 mini mixers
+1996 GMan General MIDI module
+1997 Digipatch12X6 digital patchbay
+1998 Midisport, BiPort
+1999 SAM (1999) mixer/S/PDIF-ADAT converter
+1999 CO2 Co-axial-to-Optical converter
+1998 Flying Cow, Flying Calf A/D / D/A converters
+2000 Delta 66, Delta DiO 2496, Delta 1010 audio interfaces
+2000 SuperDAC 2496 digital audio converter
+2002 Oxygen 8 USB MIDI keyboard controller
+2002 Studiophile SP-5B nearfield studio monitors
+2002 Sonica USB audio interface
+2002 Midisport Uno 
+2002 DMP3 Dual Mic Preamp
+2002 USB Duo
+2003 Transit USB mobile audio interface.
+2003 ProSessions Sound + Loop Libraries
+2003 Ozone 25-key USB MIDI keyboard controller/control surface and audio interface.
+2003 Audiophile USB audio & MIDI interface
+2003 BX5 active nearfield reference studio monitors
+2003 Solaris large diaphragm condenser microphone
+2004 Evolution X-Session USB MIDI DJ control surface.
+2004 Ozonic (37-key MIDI and audio interface over FireWire)
+2004 Luna large-diaphragm cardioid microphone
+2004 Firewire 410 firewire audio interface
+2004 Octane 8-channel preamp with digital output
+2004 Keystation Pro 88 88-key MIDI keyboard controller
+2004 Nova microphone
+2004 Firewire Audiophile firewire audio interface
+2004 Firewire 1814 firewire audio interface
+2005 Black Box
+2005 Trigger Finger USB trigger pad controller
+2005 iControl control surface for GarageBand
+2005 ProKeys 88 digital stage piano
+2006 MidAir and MidAir 37 wireless MIDI system and controller keyboard
+2006 ProjectMix I/O integrated control surface/audio interface
+2007 NRV10 Firewire mixer/audio interface
+2007 Fast Track Ultra 8x8 USB and audio interface
+2007 IE-40 reference earphones
+2008 Pulsar II small-diaphragm condenser microphone
+2011 Venom 49-key VA synthesizer
+2013 M3-8 
+2014 Oxygen MKIV series 
+2014 Trigger Finger Pro 
+2014 M3-6 
+2014 HDH50 Headphones 
+2014 BX6 Carbon, BX8 Carbon 
+2014 M-Track II, Plus II 
+2014 M-Track Eight 
+2015 CODE series (25, 49, 61) 
+2015 Deltabolt 1212 
+2015 M40 Headphones 
+2015 M50 Headphones 
+2016 CTRL49 
+2016 M-Track 2x2, 2x2M 
+2017 M3-8 Black 
+2017 Hammer 88 
+2017 BX5 D3, BX8 D3 
+2017 Uber Mic 
+2018 AV32 
+2018 Keystation MK3 (Mini 32, 49, 61, 88) 
+2019 AIR series (Hub, 192|4, 192|6, 192|8, 192|14) 
+2020 BX3, BX4 
+2021 M-Track Solo, Duo 
+2021 Oxygen MKV series 
+2021 Oxygen Pro series 
+2021 Hammer 88 Pro 
+2022 BX3BT, BX4BT M-Track Solo
+M-Track Duo
+AIR 192|4
+AIR 192|6
+AIR 192|8
+AIR 192|14
+AIR 192|4 Vocal Studio Pro
+AIR Hub
+M-Track Eight
+Midisport UnoOxygen 25, 49, 61 MKV
+Hammer 88 Pro
+Oxygen Pro 25, 49, 61, Mini 32
+Hammer 88
+Keystation MK3 49, 61, 88, Mini 32
+Oxygen 25, 49, 61 MKIVBX3BT
+BX4BT
+BX3
+BX4
+BX5 D3
+BX8 D3
+AV32Uber Mic
+NovaHDH-40 (Over-ear studio monitoring headphones)
+Bass Traveler (Portable headphone amplifier)
+SP-1 (Sustain pedal)
+SP-2 (Piano style sustain pedal)
+EX-P (Universal expression controller pedal)Some M-Audio products in the PCI Audio Interface category contain chipsets which support free software, notably the ICE 1712 chipset. Version 2.6 of the Linux kernel supports M-Audio cards through ALSA without custom configuration or installation of proprietary applications or firmware.
+Pro Sessions vol 01 - Discrete Drums :World Rock Drums & Percussion
+Pro Sessions vol 02 - Discrete Drums :R'n'B Drums and Percussion
+Pro Sessions vol 03 - These Drums Are Loud
+Pro Sessions vol 04 - World Beat Cafe
+Pro Sessions vol 05 - Latin Element
+Pro Sessions vol 06 - Latin Street
+Pro Sessions vol 07 - Hydrosonix 1
+Pro Sessions vol 08 - Hydrosonix 2
+Pro Sessions vol 09 - Hella Bumps 1
+Pro Sessions vol 10 - Hella Bumps 2
+Pro Sessions vol 11 - Mechanically Separated
+Pro Sessions vol 12 - Electro Crash
+Pro Sessions vol 13 - Vector Field
+Pro Sessions vol 14 - Sounds Logickal
+Pro Sessions vol 15 - Elektron: Machine Drum
+Pro Sessions vol 16 - Alien Radio
+Pro Sessions vol 17 - AdrenaLinn Guitars
+Pro Sessions vol 18 - Hard Desert Breaks
+Pro Sessions vol 19 - Underground SoundSystem
+Pro Sessions vol 20 - Ambient Alchemy :Open Source
+Pro Sessions vol 21 - Skillz 2 Pay the Billz Electricity
+Pro Sessions vol 22 - Sound of Unseen Worlds
+Pro Sessions vol 23 - Beats from Beyond 1
+Pro Sessions vol 24 - Pop/Rock Guitar Toolbox
+Pro Sessions vol 25 - Liquid Cinema - Cinematic Impact
+Pro Sessions vol 26 - Liquid Cinema - Cinematic Ambience
+Pro Sessions vol 27 - Liquid Cinema - Cinematic Pulse Audio Loop
+Pro Sessions vol 28 - Liquid Cinema - Tabla Science
+Pro Sessions vol 29 - Liquid Cinema - Junkyard Sessions
+Pro Sessions vol 30 - Liquid Cinema -  Late Nite Sessions 1
+Pro Sessions vol 31 - Liquid Cinema - Late Nite Sessions 2
+Pro Sessions vol 32 - Dope Beatz
+Pro Sessions vol 33 - Scratch'n Elements: Disc 1 Drums
+Pro Sessions vol 34 - Da Joints
+Pro Sessions vol 35 - Dance Static
+Pro Sessions vol 36 - Tension Theory
+Pro Sessions vol 37 - Field of Visions
+Pro Sessions vol 38 - Absolute World Fusion II
+Pro Sessions vol 40 - Electro Groove
+Pro Sessions vol 41 - Spooky Ghost
+Pro Sessions vol 42 - Discrete Drums : Funky Beats
+Pro Sessions vol 43 - Discrete Drums : Rock Drums
+Pro Sessions vol 44 - Discrete Drums : Slow Rock Drums
+Pro Sessions vol 45 - Discrete Drums : One Big World
+Pro Sessions vol 46 - Discrete Drums : More Funky Beats
+Pro Sessions vol 47 - Authentic Latin Hip Hop Funk Breaks
+Pro Sessions vol 48 - Hella Bumps 3
+Pro Sessions vol 49 - Dirty South
+Pro Sessions vol 50 - Rice and Beans
+Pro Sessions vol 51 - Elektron: Monomachine
+Pro Sessions vol 52 - Dance Remix Toolkit 1 Essential dance music elements
+Pro Sessions vol 53 - Dance Remix Toolkit 2List of studio monitor manufacturersOfficial website
+ICE1712 ALSA configuration

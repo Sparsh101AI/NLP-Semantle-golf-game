@@ -1,0 +1,29 @@
+The Beechcraft MQM-107 Streaker is a  reusable, turbojet powered, target towing drone primarily used by the United States Army and the United States Air Force for testing and training. The US Army uses the drone for testing various surface-to-air missile systems such as the FIM-92 Stinger and the MIM-104 Patriot. The US Air Force uses them in practice engagements for their air-to-air missiles like the AIM-9 Sidewinder and the AIM-120 AMRAAM.
+The MQM-107 was originally developed by Beech Aircraft for the United States Army Aviation and Missile Command's 1972 Variable Speed Training Target (VSTT) requirement. It was announced as the winner in 1975, and the Army took delivery of the original model (the MQM-107A) until 1979. Over the next two decades, several updated variants of the Streaker were introduced with different engines and payloads.
+The MQM-107 is designed as a high-subsonic target drone, featuring a slight sweep in the wings and a centerline mounted turbojet engine. The drone is launched from the ground with a rocket booster accelerating it until the jet engine takes over. It can be recovered by parachute and reused.
+The Streaker is generally designed to operate as a tow vehicle for missile and gun targets. The aircraft can carry either radar or infrared tow targets for missile training, as well as a square banner with an enhanced radar signature for gunnery training. Flare and/or chaff pods can be carried as well.
+Production of the MQM-107 ended in 2003, and the current inventory is being phased out in favor of its replacement, the BQM-167 Skeeter.
+In 2012, it was reported that North Korea had acquired several MQM-107D aircraft second-hand from a Middle Eastern country, and the following year revealed an indigenous target drone type believed to be based on the Streaker.
+MQM-107AOriginal model, powered by a Teledyne CAE J402-CA-700 turbojet. The export version of this model was known as the Model 999, with subdesignations A, D, E, and F for different countries.MQM-107BThis variant was introduced in 1982 with the more powerful Microturbo TRI 60-2 turbojet engine, and featured a larger fuselage with a higher payload capability. This model was exported under the Model 999 name again, this time as either the B,L, or H as versions.MQM-107CThis variant essentially took the fuselage of the MQM-107B and used the engine from the "A" model. This model was built to exhaust the surplus of the J402-CA-700 engines.MQM-107DThis variant was introduced in 1987 with another new engine, the J402-CA-702. In 1989 the engine was replaced with a newer version of Microturbo's TRI 60 engine, the TRI 60-5.MQM-107EThis variant, first flown in 1992, was a more heavily redesigned model with modified wing and tail surfaces for higher maneuverability. It could utilize either the latest Teledyne CAE J402 engine, or the same TRI 60-5 engine used in the "D" variant. The United States Army Aviation and Missile Command selected BAE Systems to build the "E" model over Raytheon (who had bought this part of Beech at this point).
+Australia has selected the MQM-107E to replace its GAF Jindivik target drones. It has been designated as the N28 Kalkara in this role.Super-MQMThis variant was an experimental Raytheon version of the MQM-107D with improved thrust and additional payload capabilities.RaiderBeech proposed this variant of the MQM-107 at the Paris Air Show in 1985. This was to be a tactical UAV that utilized active and passive countermeasures and other decoys to confuse and distract enemies in a combat situation. Australia (N28 Kalkara AKA MQM-107E)
+ Egypt (999H, 999L)
+ Iran (MQM-107A)
+ Jordan (MQM-107A)
+ North Korea (MQM-107D)
+ South Korea (999D)
+ Singapore
+ Sweden (999A)
+ Taiwan (999F)
+ Turkey (999L)
+ United Arab Emirates (999L)
+ United States (All Variants)General characteristics
+Crew: 0
+Length: 18 ft 1 in (5.5 m)
+Wingspan: 9 ft 10 in (3.0 m)
+Height: 4 ft 10 in (1.47 m)
+Max takeoff weight: 1,464 lb (664 kg)
+Powerplant: 1 × Microturbo TRI 60 TurbojetPerformance
+Maximum speed: 575 mph (925 km/h, 500 kn)
+Service ceiling: 40,000 ft (12,192 m)
+Aircraft of comparable role, configuration, and era
+Northrop BQM-74 Chukar

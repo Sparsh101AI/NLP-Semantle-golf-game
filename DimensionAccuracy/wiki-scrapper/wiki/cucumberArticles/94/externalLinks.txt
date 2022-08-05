@@ -1,0 +1,14 @@
+//geohack.toolforge.org/geohack.php?pagename=Jing_River&params=34.4618_N_109.0664_E_source:dawiki_region:CN
+https://en.wikipedia.org/w/index.php?title=Jing_River&action=edit
+//www.google.com/search?as_eq=wikipedia&q=%22Jing+River%22
+//www.google.com/search?tbm=nws&q=%22Jing+River%22+-wikipedia&tbs=ar:1
+//www.google.com/search?&q=%22Jing+River%22&tbs=bkt:s&tbm=bks
+//www.google.com/search?tbs=bks:1&q=%22Jing+River%22+-wikipedia
+//scholar.google.com/scholar?q=%22Jing+River%22
+https://www.jstor.org/action/doBasicSearch?Query=%22Jing+River%22&acc=on&wc=on
+http://doi.wiley.com/10.1002/hyp.10541
+https://doi.org/10.1002%2Fhyp.10541
+https://books.google.com/books?id=FY7YCQAAQBAJ&dq=jinghe+gansu&pg=PA66
+https://books.google.com/books?id=dxNCAQAAIAAJ&q=jinghe+gansu
+https://books.google.com/books?id=c8hNAQAAIAAJ&q=jinghe+gansu
+https://en.wikipedia.org/w/index.php?title=Template:China_Rivers&action=edit

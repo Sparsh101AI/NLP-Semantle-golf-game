@@ -1,0 +1,9 @@
+http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/05.1.03.050%20Entity%20TA98%20EN.htm
+https://ta2viewer.openanatomy.org/?id=933
+https://bioportal.bioontology.org/ontologies/FMA/?p=classes&conceptid=http%3A%2F%2Fpurl.org%2Fsig%2Font%2Ffma%2Ffma57159
+https://en.wikipedia.org/w/index.php?title=Template:Tooth_anatomy&action=edit
+http://tools.wmflabs.org/wikidata-externalid-url/?p=1323&url_prefix=https:%2F%2Fwww.unifr.ch%2Fifaa%2FPublic%2FEntryPage%2FTA98%20Tree%2FEntity%20TA98%20EN%2F&url_suffix=%20Entity%20TA98%20EN.htm&id=A05.1.03.050
+https://en.wikipedia.org/w/index.php?title=Apical_foramen&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Dentistry-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=Apical_foramen&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Anatomy-stub&action=edit

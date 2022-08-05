@@ -1,0 +1,6 @@
+http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=nama_10r_2gdp&lang=en
+http://dati.istat.it/?lang=en&SubSessionId=d7346671-4bc3-4bf8-a16a-0d9cd55e9ce9&themetreeid=-200
+http://stats.oecd.org/
+https://en.wikipedia.org/w/index.php?title=Template:Italy_topics&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:European_topic&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:GDP_country_lists&action=edit

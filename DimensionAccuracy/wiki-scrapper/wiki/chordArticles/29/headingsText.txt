@@ -1,0 +1,9 @@
+Equivalent formulations
+Important properties
+Origins in integral equation theory
+Compact operator on Hilbert spaces
+Completely continuous operators
+Examples
+See also
+Notes
+References

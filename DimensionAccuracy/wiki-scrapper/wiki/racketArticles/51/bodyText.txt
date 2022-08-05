@@ -1,0 +1,267 @@
+The alto trombone (German: Altposaune, Italian, French: trombone alto) is the alto member of the trombone family of brass instruments, smaller than the tenor trombone. It is almost always pitched in E♭ a fourth higher than the tenor, although examples pitched in F are occasionally found. The alto trombone was commonly used from the 16th to the 18th centuries in church music to strengthen the alto voice, particularly in the Mass. Alto trombone parts are usually notated in alto clef.
+Although the trombone first appeared in its earliest sackbut form in the 15th century, the exact origin of the smaller alto sized instrument is unclear. The first documented mentions of an alto trombone are in 1590 in Aurelio Virgiliano's Il Dolcimelo, and in Syntagma Musicum (1614-20) by Michael Praetorius, which includes an illustration of an alto trombone in volume II, De Organographia. The earliest surviving alto dates from around 1652 and is held by Bazylika Mariacka, Gdańsk.
+The alto trombone appears in the earliest written music for trombone, where composers wrote alto, tenor, and bass parts to bolster the corresponding voices in church liturgical music. Although the parts were notated in alto, tenor and bass clefs, historically the clef has not always been a reliable indicator of which type of trombone was actually used in performance.
+Until recently, little was known about trombone repertoire from the 18th century. The recent discovery of new repertoire and information regarding the Austrian alto trombone virtuoso Thomas Gschladt demonstrates that the alto trombone enjoyed a period of popularity between 1756 and 1780. In the 1960s an incomplete concerto by Georg Christoph Wagenseil was recorded by conductor Nikolaus Harnoncourt: this concerto demands advanced technique from the performer and is the first known concerto for the trombone. Shortly after this recording was released, another concerto, written by Leopold Mozart was discovered. Due to the advanced technique (particularly lip trills) required in this concerto, it was considered too difficult for the trombone and musicologists concluded that it was most likely written for the French horn. New information regarding Gschladt demonstrates that music of this difficulty was written for the alto trombone during the mid-to-late 18th century and that music that was previously thought impossible on the instrument was playable. Like Bach's trumpet soloist Gottfried Reiche and Mozart's horn soloist, Joseph Leutgeb, Gschladt represented the best of contemporary trombone soloists. Gschladt was very close to Leopold Mozart who wrote a Serenade especially to be performed only by him—when Gschladt was unavailable Mozart preferred using a viola soloist instead.
+In addition to Leopold Mozart and Wagenseil, Michael Haydn's Serenade in D (1764) with its extended range, trills, technique, and endurance demands contributes to this idea that there was perhaps a golden age of the alto trombone between 1756 and 1780 and was this piece was also most likely written for Thomas Gschladt. The Serenade joins these few works that remain from an era of alto trombone virtuosity.
+Berlioz was influential in the 19th century in the ascension of the tenor trombone and valved brass instruments in France. By the 1840s the alto was nearly obsolete in France and England. In Italy, valve trombones rapidly became the norm and displaced slide trombones, including the alto. Improvements in instruments and performance technique meant that tenor trombone players were increasingly able to play first trombone parts intended for alto, and the alto was regarded as an outmoded upper-register tool.
+While some first trombonists continued to use the alto trombone as indicated, it was unfashionable in orchestras until the late 20th century, when it began to enjoy something of a revival. Contemporary composers have written solo works for the alto trombone, including Eric Ewazen, Christian Lindberg, Torsten Nilsson, and Jan Sandström.
+The bore of an alto trombone is intermediate between a trumpet and a tenor trombone, and similar to that of a small-bore tenor, usually around 0.450 to 0.500 inches (11.4 to 12.7 mm) with a 6+1⁄2 or 7 inches (17 or 18 cm) bell.
+Modern instruments are sometimes fitted with a valve to lower the pitch, either by a semitone to D (known as a "trill" valve), or by a fourth into B♭, analogous to the B♭/F valve configuration found on tenor and bass trombones. The B♭ valve makes alternative slide positions available for notes in longer positions, and allows the range above the pedals to extend from A₂ down to F₂.
+Many manufacturers offer an alto model in their trombone range, including Yamaha, Bach, Conn, SE Shires, Thein, Rath, and others.
+The tessitura of the E♭ alto trombone is E♭3 to E♭5. In good hands the range can extend as high as G5, and some instruments have a B♭ valve attachment to extend the lower range below the A2 in seventh position. Pedal tones can be produced from E♭₂ to A₁ but are seldom called for.
+Since the slide is shorter than the B♭ tenor and bass trombones, the seven slide positions are proportionally closer together. The timbre of the alto is brighter than that of the tenor or bass trombone.
+The alto trombone has primarily been used in choral, orchestral and operatic settings, although it has enjoyed a history as a solo instrument, primarily in 18th century Vienna. Modern composers have rediscovered the instrument and the alto trombone has begun making more appearances in modern small-scale compositions like the chamber opera The Burning Fiery Furnace written by Britten in 1966. Today, first-chair professional orchestral tenor trombonists are expected to play the alto trombone when required.
+Notable works scored for this instrument are listed in the following table.
+
+
+Composer
+Work
+Year
+Type
+
+
+Monteverdi
+L'Orfeo
+1607
+opera
+
+
+Bach
+Christ lag in Todes Banden, BWV 4
+1707
+Kantata
+
+
+Bach
+Aus tiefer Not schrei ich zu dir, BWV 38
+1724
+Kantata
+
+
+Gluck
+Alceste
+1767
+opera
+
+
+Mozart
+
+Great Mass in C minor
+1782–1783 (unfinished)
+concerted mass
+
+
+Mozart
+Requiem
+1791 (unfinished)
+concerted mass
+
+
+Mozart
+Don Giovanni
+1787
+opera
+
+
+Mozart
+Idomeneo
+1781
+opera
+
+
+Mozart
+The Magic Flute
+1791
+opera
+
+
+Haydn
+The Creation
+1796–1798
+oratorio
+
+
+Haydn
+The Seasons
+1801
+oratorio
+
+
+Beethoven
+Symphony No. 5
+1804–1808
+symphony
+
+
+Beethoven
+Symphony No. 6
+1804–1808
+symphony
+
+
+Beethoven
+Symphony No. 9
+1817–1824
+symphony
+
+
+Beethoven
+Missa Solemnis
+1823
+concerted mass
+
+
+Schubert
+Symphony No. 7
+1821 (unfinished)
+symphony
+
+
+Schubert
+Symphony No. 8 "Unfinished"
+1822 (unfinished)
+symphony
+
+
+Schubert
+Symphony No. 9 "The Great"
+1826–1827
+symphony
+
+
+Schubert
+Mass No. 5 in A♭ major
+1822
+concerted mass
+
+
+Schubert
+Mass No. 6 in E♭ major
+1828
+concerted mass
+
+
+Berlioz
+Symphonie Fantastique
+1830
+symphony
+
+
+Mendelssohn
+Lobgesang ("Symphony No. 2")
+1840
+symphony-cantata
+
+
+Mendelssohn
+Symphony No. 5 "Reformation"
+1830
+symphony
+
+
+Mendelssohn
+Elijah
+1846
+oratorio
+
+
+Mendelssohn
+Overture in C Minor "Ruy Blas"
+1839
+overture
+
+
+Schumann
+Symphony No. 1 "Spring"
+1841
+symphony
+
+
+Schumann
+Symphony No. 2
+1845–1846
+symphony
+
+
+Schumann
+Symphony No. 3 "Rhenish"
+1850
+symphony
+
+
+Schumann
+Symphony No. 4
+1841, revised 1851
+symphony
+
+
+Brahms
+Symphony No. 1
+1876
+symphony
+
+
+Brahms
+Symphony No. 2
+1877
+symphony
+
+
+Brahms
+Symphony No. 3
+1883
+symphony
+
+
+Brahms
+Symphony No. 4
+1885
+symphony
+
+
+Brahms
+Academic Festival Overture
+1880
+overture
+
+
+Brahms
+Tragic Overture
+1880
+overture
+
+
+Brahms
+Ein Deutsches Requiem
+1868
+vocal orchestral work
+
+
+Schoenberg
+Gurre-Lieder
+1911
+vocal orchestral work
+
+
+Schoenberg
+Pelleas und Melisande
+1903
+symphonic poem
+
+
+Berg
+Wozzeck
+1922
+opera
+
+
+Berg
+Three Pieces for Orchestra
+1913–1915
+orchestral work
+
+
+Stravinsky
+Threni
+1958
+vocal orchestral work

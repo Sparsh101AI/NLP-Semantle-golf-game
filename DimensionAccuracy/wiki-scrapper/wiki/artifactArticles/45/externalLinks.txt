@@ -1,0 +1,15 @@
+http://planetarynames.wr.usgs.gov/DescriptorTerms
+https://ui.adsabs.harvard.edu/abs/1993Natur.365..731M
+https://doi.org/10.1038%2F365731a0
+https://api.semanticscholar.org/CorpusID:4321905
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19970022199.pdf
+https://ui.adsabs.harvard.edu/abs/1996Icar..121..249S
+https://doi.org/10.1006%2Ficar.1996.0084
+http://www.hq.nasa.gov/office/pao/History/SP-362/ch5.3.htm
+http://www.hq.nasa.gov/office/pao/History/SP-362/contents.htm
+https://web.archive.org/web/20130419025837/http://www.hq.nasa.gov/office/pao/History/SP-362/ch5.3.htm
+https://web.archive.org/web/19991008120632/http://neo.jpl.nasa.gov/images/callisto.html
+http://www.fourmilab.ch/earthview/lunarform/catena.html
+https://web.archive.org/web/20110721051220/http://lunar.ksc.nasa.gov/science/geography_items/catena.html
+https://en.wikipedia.org/w/index.php?title=Template:Mars&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Geography_of_Mars&action=edit

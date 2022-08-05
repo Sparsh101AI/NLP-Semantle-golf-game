@@ -1,0 +1,5 @@
+Yangonin is one of the six major kavalactones found in the kava plant. It has been shown to possess binding affinity for the cannabinoid receptor CB1 (Ki = 0.72 μM), and selectivity vs. the CB2 receptor (Ki >10 μM) where it behaves as an agonist. The CB1 receptor affinity of yangonin suggests that the endocannabinoid system might contribute to the complex human psychopharmacology of the traditional kava drink and the anxiolytic preparations obtained from the kava plant.
+Further in vitro studies have also demonstrated yangonin to be an inhibitor of monoamine oxidase, with a moderate preference for isozyme B, which could open the door to a wide range of interactions.
+Yangonin displays marked in vitro toxicity on human hepatocytes with approximately 40% reduction in viability based on an ethidium bromide assay. The predominant mode of cell death turned out to be apoptosis rather than necrosis. No significant changes were observed in glutathione levels.
+Yangonin is biosynthesized from coumaroyl-CoA and malonyl-CoA.
+ Biosynthesis of yangonin.  SAM = S-adenosyl methionine

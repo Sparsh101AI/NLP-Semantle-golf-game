@@ -1,0 +1,9 @@
+History
+Code structure
+Information contained in LEI reference data (Level 1 and Level 2 data)
+Global Operating System
+Obtaining a Legal Entity Identifier
+Validity of LEI
+See also
+References
+External links

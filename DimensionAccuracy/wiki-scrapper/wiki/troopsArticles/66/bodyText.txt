@@ -1,0 +1,4 @@
+A paren space is a blank typographic unit equal to the size of a parenthesis. Its size can fluctuate somewhat depending on which font is being used.
+Em (typography)
+En (typography)
+Figure space

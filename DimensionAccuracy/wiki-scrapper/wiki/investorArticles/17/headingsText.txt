@@ -1,0 +1,24 @@
+Mathematical formalism
+"Observables" as self-adjoint operators
+Projective measurement
+Generalized measurement (POVM)
+State change due to measurement
+Examples
+History of the measurement concept
+The "old quantum theory"
+Transition to the “new” quantum theory
+From uncertainty to no-hidden-variables
+Quantum systems as measuring devices
+Decoherence
+Quantum information and computation
+Measurement, entropy, and distinguishability
+Quantum circuits
+Measurement-based quantum computation
+Quantum tomography
+Quantum metrology
+Laboratory implementations
+Interpretations of quantum mechanics
+See also
+Notes
+References
+Further reading

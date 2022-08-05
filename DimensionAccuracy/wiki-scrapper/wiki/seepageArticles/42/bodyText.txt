@@ -1,0 +1,92 @@
+Wave propagation is any of the ways in which waves travel. Single wave propagation can be calculated by 2nd order wave equation (standing wavefield) or 1st order one-way wave equation.
+With respect to the direction of the oscillation relative to the propagation direction, we can distinguish between longitudinal wave and transverse waves.
+For electromagnetic waves, propagation may occur in a vacuum as well as in the material medium. Other wave types cannot propagate through a vacuum and need a transmission medium to exist.
+The propagation and reflection of plane waves—e.g. Pressure waves (P-wave) or Shear waves (SH or SV-waves) are phenomena that were first characterized within the field of classical seismology, and are now considered fundamental concepts in modern seismic tomography. The analytical solution to this problem exists and is well known. The frequency domain solution can be obtained by first finding the Helmholtz decomposition of the displacement field, which is then substituted into the wave equation. From here, the plane wave eigenmodes can be calculated.
+The analytical solution of SV-wave in a half-space indicates that the plane SV wave reflects back to the domain as a P and SV waves, leaving out special cases. The angle of the reflected SV wave is identical to the incidence wave, while the angle of the reflected P wave is greater than the SV wave. For the same wave frequency, the SV wavelength is smaller than the P wavelength. This fact has been depicted in this animated picture. 
+
+Similar to the SV wave, the P incidence, in general, reflects as the P and SV wave. There are some special cases where the regime is different.
+Wave velocity  is a general concept, of various kinds of wave velocities, for a wave's phase and speed concerning energy (and information) propagation. The phase velocity is given as:
+
+
+
+
+
+v
+
+
+p
+
+
+
+=
+
+
+ω
+k
+
+
+,
+
+
+{\displaystyle v_{\rm {p}}={\frac {\omega }{k}},}
+
+
+where:
+vp is the phase velocity (in meters per second, m/s),
+ω is the angular frequency (in radians per second, rad/s),
+k is the wavenumber (in radians per meter, rad/m).The phase speed gives you the speed at which a point of constant phase of the wave will travel for a discrete frequency. The angular frequency ω cannot be chosen independently from the wavenumber k, but both are related through the dispersion relationship:
+
+
+
+
+ω
+=
+Ω
+(
+k
+)
+.
+
+
+{\displaystyle \omega =\Omega (k).}
+
+
+In the special case Ω(k) = ck, with c a constant, the waves are called non-dispersive, since all frequencies travel at the same phase speed c. For instance electromagnetic waves in vacuum are non-dispersive. In case of other forms of the dispersion relation, we have dispersive waves. The dispersion relationship depends on the medium through which the waves propagate and on the type of waves (for instance electromagnetic, sound or water waves).
+The speed at which a resultant wave packet from a narrow range of frequencies will travel is called the group velocity and is determined from the gradient of the dispersion relation:
+
+
+
+
+
+v
+
+
+g
+
+
+
+=
+
+
+
+∂
+ω
+
+
+∂
+k
+
+
+
+
+
+{\displaystyle v_{\rm {g}}={\frac {\partial \omega }{\partial k}}}
+
+
+In almost all cases, a wave is mainly a movement of energy through a medium. Most often, the group velocity is the velocity at which the energy moves through this medium.
+Crawford jr.,  Frank S. (1968).  Waves (Berkeley Physics Course, Vol. 3), McGraw-Hill,  ISBN 978-0070048607 Free online version
+A. E. H. Love. A Treatise on The Mathematical Theory of Elasticity. New York: Dover.
+E.W. Weisstein. "Wave velocity". ScienceWorld. Retrieved 2009-05-30. Media related to Wave propagation at Wikimedia Commons
+A matlab toolbox for seismic wave propagation at Katholieke Universiteit Leuven
+Animation How an electromagnetic wave propagates through a vacuum
+Propagation of sound waves

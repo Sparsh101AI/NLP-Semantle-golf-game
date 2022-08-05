@@ -1,0 +1,148 @@
+The following is a timeline of Solar System astronomy.
+3rd millennium BC - Around 5000 years ago, one of the Indian Sages, 'Maharshi Ved Vyas' composed a 'shloka' named "Nava-graha-stotram", in which he wrote in brief about the planets (except Uranus and Neptune) and the two states - Rahu and Ketu denote the points of intersection of the paths of the Sun and the Moon as they move on the celestial sphere. Rahu and Ketu are respectively called the north and the south lunar nodes.
+2nd millennium BC – earliest possible date for the composition of the Babylonian Venus tablet of Ammisaduqa, a 7th-century BC copy of a list of observations of the motions of the planet Venus, and the oldest planetary table currently known.
+2nd millennium BC – Babylonian astronomers identify the inner planets Mercury and Venus and the outer planets Mars, Jupiter and Saturn, which would remain the only known planets until the invention of the telescope in early modern times.
+late 2nd millennium BC – Chinese astronomers record a solar eclipse
+late 2nd millennium BC – Chinese determine that Jupiter needs 12 years to complete one revolution of its orbit.
+c. 1100 BC – Chinese first determine the spring equinox.
+776 BC – Chinese make the earliest reliable record of a solar eclipse.
+7th century BC – Egyptian astronomers alleged to have predicted a solar eclipse
+613 BC, July – A Comet, possibly Comet Halley, is recorded in Spring and Autumn Annals by the Chinese
+586 BC – Thales of Miletus alleged to have predicted a solar eclipse
+c. 450 BC: Anaxagoras shows that the Moon shines by reflected sunlight.
+350 BC – Aristotle argues for a spherical Earth using lunar eclipses and other observations
+280 BC – Aristarchus of Samos offers the first definite discussion of the possibility of a heliocentric cosmos, and uses the size of the Earth's shadow on the Moon to estimate the Moon's orbital radius at 60 Earth radii, and its physical radius as one-third that of the Earth. He also makes an inaccurate attempt to measure the distance to the Sun
+200 BC – Eratosthenes determines that the radius of the Earth is roughly 6,400 km
+150 BC – Hipparchus uses parallax to determine that the distance to the Moon is roughly 380,000 km
+134 BC – Hipparchus discovers the precession of the equinoxes
+87 BC – The Antikythera mechanism, the earliest known computer, is built. It is designed to predict the movements of the planets.
+28 BC – Chinese history book Book of Han makes earliest known dated record of sunspot.
+c. 150 CE – Claudius Ptolemy completes his Almagest that codifies the astronomical knowledge of his time and cements the geocentric model in the West500 – Aryabhata accurately computes the solar and lunar eclipses, and the length of Earth's revolution around the Sun
+620s – Indian mathematician-astronomer Brahmagupta recognizes gravity as a force of attraction, and briefly describes a law of gravitation
+628 – Brahmagupta gives methods for calculations of the motions and places of various planets, their rising and setting, conjunctions, and calculations of the solar and lunar eclipses
+687 – Chinese make earliest known record of meteor shower
+9th century – The eldest Banū Mūsā brother, Ja'far Muhammad ibn Mūsā ibn Shākir, hypothesizes that the heavenly bodies and celestial spheres are subject to the same laws of physics as Earth, and proposes that there is a force of attraction between heavenly bodies
+820 – the Persian astronomer, Muhammad ibn Musa al-Khwarizmi, composes his Zij astronomical tables, utilising Arabic numerals and the Hindu–Arabic numeral system in his calculations
+850 – Ahmad ibn Muhammad ibn Kathīr al-Farghānī (Alfraganus) gives values for the obliquity of the ecliptic, the precessional movement of the apogees of the Sun
+10th century – Muhammad ibn Jābir al-Harrānī al-Battānī (Albatenius) discovers that the direction of the Sun's eccentricity is changing
+900s (decade) – Ibn Yunus observes more than 10,000 entries for the Sun's position for many years using a large astrolabe with a diameter of nearly 1.4 metres
+1019 – Abū Rayhān al-Bīrūnī observes and describes the solar eclipse on April 8 and the lunar eclipse on September 17 in detail, and gives the exact latitudes of the stars during the lunar eclipse
+1031 – Abū Rayhān al-Bīrūnī calculates the distance between the Earth and the Sun in his Canon Mas’udicus
+1150 – Indian mathematician-astronomer Bhāskara II, in the Siddhanta Shiromani, calculates the longitudes and latitudes of the planets, lunar and solar eclipses, risings and settings, the Moon's lunar crescent, syzygies, and conjunctions of the planets with each other and with the fixed stars, and explains the three problems of diurnal rotation
+1150s – Bhaskara calculates the planetary mean motion, ellipses, first visibilities of the planets, the lunar crescent, the seasons, and the length of the Earth's revolution around the Sun to 9 decimal places.
+1150s – Gerard of Cremona translates Ptolemy's Almagest from Arabic into Latin.
+c. 1200 – Fakhr al-Din al-Razi, in dealing with his conception of physics and the physical world, rejected the Aristotelian and Avicennian view of a single world, but instead proposed that there are "a thousand thousand worlds (alfa alfi 'awalim) beyond this world such that each one of those worlds be bigger and more massive than this world as well as having the like of what this world has."
+c. 1300 – Ibn Qayyim Al-Jawziyya, in his criticism of astrology, recognized that the stars are much larger than the planets, and that Mercury is the smallest planet known to him.
+c. 1350 – Ibn al-Shatir anticipates Copernicus by abandoning the equant of Ptolemy in his calculations of planetary motion, and he provides the first empirical model of lunar motion which accurately matches observations.c. 1514 – Nicolaus Copernicus states his heliocentric theory in Commentariolus.
+1522 – First circumnavigation of the world by Magellan-Elcano expedition shows that the Earth is, in effect, a sphere.
+1543 – Copernicus publishes his heliocentric theory in De revolutionibus orbium coelestium.
+c. 1570 – Tycho Brahe founds the first modern astronomical observatory.
+1577 – Tycho Brahe uses parallax to prove that comets are distant entities and not atmospheric phenomena.
+1584 – Giordano Bruno published two important philosophical dialogues (La Cena de le Ceneri and De l'infinito universo et mondi) in which he argued against the planetary spheres and affirmed the Copernican principle. Bruno's infinite universe was filled with a substance—a "pure air", aether, or spiritus—that offered no resistance to the heavenly bodies which, in Bruno's view, rather than being fixed, moved under their own impetus (momentum). Most dramatically, he completely abandoned the idea of a hierarchical universe. Bruno's cosmology distinguishes between "suns" which produce their own light and heat, and have other bodies moving around them; and "earths" which move around suns and receive light and heat from them. Bruno suggested that some, if not all, of the objects classically known as fixed stars are in fact suns, so he was arguably the first person to grasp that "stars are other suns with their own planets." Bruno wrote that other worlds "have no less virtue nor a nature different from that of our Earth" and, like Earth, "contain animals and inhabitants".1604 – Galileo Galilei correctly hypothesized that the distance of a falling object is proportional to the square  of the time elapsed.
+1609 – Johannes Kepler states his first two empirical laws of planetary motion, stating that the orbits of the planets are elliptical rather than circular, and thus resolving many ancient problems with planetary models.
+1609 – Galileo Galilei starts to make telescopes with about 3x up to 30x magnification, based only on descriptions of the first practical telescope which Hans Lippershey tried to patent in the Netherlands in 1608. With a Galilean telescope, the observer could see magnified, upright images on the Earth—what is commonly known as a spyglass—but also it can be used to observe the sky, a key tool for further astronomical discoveries.
+1609 – Galileo Galilei aimed his telescope at the Moon. While not being the first person to observe the Moon through a telescope (English mathematician Thomas Harriot had done it four months before but only saw a "strange spottednesse"), Galileo was the first to deduce the cause of the uneven waning as light occlusion from lunar mountains and craters. He also estimated the heights of that mountains. The Moon was not what was long thought to have been a translucent and perfect sphere, as Aristotle claimed, and hardly the first "planet".
+1610 – Galileo Galilei discovers the main moons of Jupiter: Callisto, Europa, Ganymede, and Io; sees Saturn's planetary rings (but does not recognize that they are rings), and observes the phases of Venus, disproving the Ptolemaic system though not the geocentric model.
+1619 – Johannes Kepler states his third empirical law of planetary motion
+1632 – Galileo Galilei is sometimes credited with the discovery of the lunar libration in latitude, although Thomas Harriot or William Gilbert might have done it before.
+1648 – Johannes Hevelius discovers the lunar libration in longitude. It can reach 7°54′ in amplitude.
+1655 – Giovanni Domenico Cassini discovers Jupiter's Great Red Spot.
+1656 – Christiaan Huygens identifies Saturn's rings as rings and discovers Titan.
+1665 – Cassini determines the rotational speeds of Jupiter, Mars, and Venus.
+1672 – Cassini discovers Iapetus and Rhea.
+1672 – Jean Richer and Cassini measure the astronomical unit to be about 138,370,000 km.
+1675 – Ole Rømer uses the orbital mechanics of Jupiter's moons to estimate that the speed of light is about 227,000 km/s.
+1686 – Cassini discovers Tethys and Dione.
+1687 – Isaac Newton publishes his law of universal gravitation in his work Philosophiæ Naturalis Principia Mathematica.1705 – Edmond Halley publicly predicts the periodicity of Halley's Comet and computes its expected path of return in 1757
+1715 – Edmond Halley calculates the shadow path of a solar eclipse
+1716 – Edmond Halley suggests a high-precision measurement of the Sun-Earth distance by timing the transit of Venus
+1718 – Edmond Halley discovers proper motion, dispelling the concept of the "fixed stars".
+1729 – James Bradley determines the cause of the aberration of starlight, providing the first direct evidence of the Earth's motion.
+1735-1739 – The French Academy of Sciences sent two expeditions in order to measure the roundness of the Earth by measuring the length of a degree of latitude at two locations, one to Lapland, close to the Arctic Circle and other to the Equator, the French Geodesic Mission, which prove that the Earth is an oblate flattened by the poles.
+1755 – Immanuel Kant first formulates the nebular hypothesis of Solar System formation.
+1758 – Johann Palitzsch observes the return of Halley's comet. The interference of Jupiter's orbit had slowed the return by 618 days. Parisian astronomer La Caille suggests it should be named Halley's comet.
+1766 – Johann Titius finds the Titius-Bode rule for planetary distances
+1772 – Johann Bode publicizes the Titius-Bode rule for planetary distances
+1781 – William Herschel discovers Uranus during a telescopic survey of the northern sky
+1787 – Herschel discovers Uranus's moons Titania and Oberon
+1789 – Herschel discovers Saturn's moons Enceladus and Mimas
+1796 – Pierre Laplace re-states the nebular hypothesis for the formation of the Solar System from a spinning nebula of gas and dust1801 – Giuseppe Piazzi discovers the dwarf planet–asteroid Ceres
+1802 – Heinrich Wilhelm Olbers discovers the asteroid Pallas
+1821 – Alexis Bouvard detects irregularities in the orbit of Uranus
+1825 – Pierre Laplace completes his study of gravitation, the stability of the Solar System, tides, the precession of the equinoxes, the libration of the Moon, and Saturn's rings in Mécanique Céleste
+1838 – Friedrich Wilhelm Bessel measures the parallax of the star 61 Cygni, refuting one of the oldest arguments against heliocentrism.1840 – John W. Draper takes a daguerreotype of the Moon, the first astronomical photograph.
+1843 – John Adams predicts the existence and location of Neptune from irregularities in the orbit of Uranus
+1846 – Urbain Le Verrier predicts the existence and location of Neptune from irregularities in the orbit of Uranus
+1846 – Johann Galle discovers Neptune
+1846 – William Lassell discovers Triton
+1848 – Lassell, William Cranch Bond and George Phillips Bond discover Saturn's moon Hyperion
+1849 – Édouard Roche finds the limiting radius of tidal destruction and tidal creation for a body held together only by its self gravity, called the Roche limit, and uses it to explain why Saturn's rings do not condense into a satellite
+1851 – Lassell discovers Uranus's moons Ariel and Umbriel
+1856 – James Clerk Maxwell demonstrates that a solid ring around Saturn would be torn apart by gravitational forces and argues that Saturn's rings consist of a multitude of tiny satellites
+1862 – By analysing the spectroscopic signature of the Sun and comparing it to those of other stars, Father Angelo Secchi determines that the Sun is itself a star.
+1866 – Giovanni Schiaparelli realizes that meteor streams occur when the Earth passes through the orbit of a comet that has left debris along its path
+1877 – Asaph Hall discovers Mars's moons Deimos and Phobos
+1887 – The Michelson–Morley experiment, intended to measure the relative motion of Earth through the (by then assumed to exist) stationary luminiferous aether, got no results. This put an end to centuries old idea of the aether, dating back from times of Aristotle, and with it all the contemporary aether theories.
+1892 – Edward Emerson Barnard discovers Jupiter's moon Amalthea
+1899 – William Henry Pickering discovers Saturn's moon Phoebe1906 – Astronomer Max Wolf discovers the Trojan asteroid Achilles
+1915 – Robert Innes discovers Proxima Centauri, the closest star to Earth after the Sun
+1919 – Arthur Stanley Eddington uses a solar eclipse to successfully test Albert Einstein's General Theory of Relativity
+1930 – Clyde Tombaugh discovers Pluto1930 – Seth Nicholson measures the surface temperature of the Moon
+1935 – The Explorer II balloon reached a record altitude of 22,066 m (72,395 ft), enabling its occupants to photograph the curvature of the Earth for the first time.
+1944 – Gerard Kuiper discovers that the satellite Titan has a substantial atmosphere
+1946 – American launch of a camera-equipped V-2 rocket provides the first image of the Earth from space
+1949 – Gerard Kuiper discovers Uranus's moon Miranda and Neptune's moon Nereid
+1950 – Jan Oort suggests the presence of a cometary Oort cloud
+1951 – Kuiper argues for an annular reservoir of comets between 40-100 astronomical units from the Sun, the Kuiper belt1959 – Explorer 6 sends the first image of the entire earth from Space.
+1959 – Luna 3 sends the first images of another celestial body,  the Moon, from space, including its unseen far side.
+1962 – The Mariner 2 Venus flyby performs the first closeup observations of another planet
+1964 – The Mariner 4 spacecraft provides the first detailed images of the surface of Mars
+1966 – The Luna 9 Moon lander provides the first images from the surface of another celestial body1967 – Venera 4 provides the first information on Venus's atmosphere
+1968 – The Apollo 8 becomes the first manned lunar mission, providing historic images of the whole Earth.
+1970 – The Venera 7 Venus lander sends back the first information ever successfully obtained from the surface of another planet
+1971 – The Mariner 9 Mars spacecraft becomes the first to successfully orbit another planet. It provides the first detailed maps of the Martian surface, discovering much of the planet's topography, including the volcano Olympus Mons and the canyon system Valles Marineris, which is named in its honor.
+1971 – Mars 3 lands on Mars, and transmits the first partial image from the surface of another planet.
+1973 – Skylab astronauts discover the Sun's coronal holes.
+1973 – Pioneer 10 flies by Jupiter, providing the first closeup images of the planet and revealing its intense radiation belts.
+1973 – Mariner 10 provides the first closeup images of the clouds of Venus.
+1974 – Mariner 10 provides the first closeup images of the surface of Mercury.
+1975 – Venera 9 becomes the first probe to successfully transmit images from the surface of Venus.
+1976 – The Viking 1 & 2 became the first probes to send images (in color) from the surface of Mars, as well as to perform in situ biological experiments with the Martian soil.1977 – James Elliot discovers the rings of Uranus during a stellar occultation experiment on the Kuiper Airborne Observatory
+1977 – Charles Kowal discovers 2060 Chiron, the first Centaur
+1978 – James Christy discovers Charon, the large moon of Pluto.
+1978 – The Pioneer Venus probe maps the surface of Venus.  A map of Venus produced from Magellan data
+1978 – Peter Goldreich and Scott Tremaine present a Boltzmann equation model of planetary-ring dynamics for indestructible spherical ring particles that do not self-gravitate and find a stability requirement relation between ring optical depth and particle normal restitution coefficient
+1979 – Pioneer 11 flies by Saturn, providing the first ever closeup images of the planet and its rings. It discovers the planet's F ring and determines that its moon Titan has a thick atmosphere.
+1979 – Voyager 1 flies by Jupiter and discovers its faint ring system, as well as volcanoes on Io, the innermost of its Galilean moons.
+1979 – Voyager 2 flies by Jupiter and discovers evidence of an ocean under the surface of its moon Europa.
+1980 – Voyager 1 flies by Saturn and takes the first images of Titan. However, its atmosphere is opaque to visible light, so its surface remains obscured.
+1986 – Voyager 2 provides the first ever detailed images of Uranus, its moons and rings.
+1986 – The Giotto probe provides the first ever close up images of Halley's Comet.
+1988 – Martin Duncan, Thomas Quinn, and Scott Tremaine demonstrate that short-period comets come primarily from the Kuiper Belt and not the Oort cloud
+1989 – Voyager 2 provides the first ever detailed images of Neptune, its moons and rings.
+1990 – The Hubble Space Telescope is launched
+1990 – Voyager 1 is turned around to take the Portrait of the Planets of the Solar System, source of the Pale Blue Dot image of the Earth
+1991 – The Magellan spacecraft maps the surface of Venus.
+1992 – First planetary system beyond the Solar System detected, around the pulsar PSR B1257+12
+1992 – David Jewitt and Jane Luu of the University of Hawaii discover 15760 Albion, the first object deemed to be a member of the Kuiper belt
+1995 – The first planet around a Sun-like star is discovered, in orbit around the star 51 Pegasi.
+1995 – The Galileo spacecraft becomes the first to orbit Jupiter. Its atmospheric entry probe provides the first data taken within the planet itself.
+1997 – Mars Pathfinder deploys on Mars the first rover to operate outside the Earth–Moon system, the Sojourner, which conducted many experiments on the Martian surface, both teleoperated and semi-autonomous.
+2000 – NEAR Shoemaker provides the first detailed images of a near-Earth asteroid.2003 – Sedna, a large object with an unprecedented 12,000-year orbit, is discovered by Michael E. Brown, Chad Trujillo, and David L. Rabinowitz.
+2004 – Voyager 1 sends back the first data ever obtained from within the Solar System's heliosheath.
+2004 – The Cassini–Huygens spacecraft becomes the first to orbit Saturn. It discovers complex motions in the rings, several new small moons and cryovolcanism on the moon Enceladus and provides the first images from the surface of Titan.
+2005 – Michael E. Brown et al. discover Eris, a trans-Neptunian object more massive than Pluto, and later also its moon, Dysnomia. Eris was first imaged in 2003, and is the most massive object discovered in the Solar System since Neptune's moon Triton in 1846.
+2005 – The Mars Exploration Rovers perform the first astronomical observations ever taken from the surface of another planet, imaging an eclipse by Mars's moon Phobos.2006 – The 26th General Assembly of the IAU voted in favor of a revised definition of a planet and officially declared Ceres, Pluto, and Eris dwarf planets.
+2008 – The IAU declares Makemake and Haumea dwarf planets.
+2011 – The Dawn spacecraft enters orbit around the large asteroid Vesta making detailed measurements.
+2012 – Saturn's moon Methone is imaged up close by the Cassini spacecraft, revealing a remarkably smooth surface.
+2012 – The Dawn spacecraft breaks orbit of Vesta and heads for Ceres.
+2013 – The MESSENGER spacecraft provides the first ever complete map of the surface of Mercury.
+2014 – The Rosetta spacecraft becomes the first comet orbiter (around 67P/Churyumov–Gerasimenko), and deploys on it the first comet lander Philae that collected close-up data from the comet's surface.
+2015 – The Dawn spacecraft enters orbit around the dwarf Planet Ceres making detailed measurements.
+2015 – The New Horizons spacecraft flies by Pluto, providing the first ever sharp images of its surface, and its largest moon Charon.
+2017 – 'Oumuamua, the first known interstellar object, is identified.
+2019 – Closest approach of New Horizons to Arrokoth, a Kuiper Belt Object.
+2019 – 2I/Borisov, the first interstellar comet and second interstellar object, is discoveredTimeline of Solar System exploration
+Timeline of discovery of Solar System planets and their moons
+Timeline of Chinese astronomy

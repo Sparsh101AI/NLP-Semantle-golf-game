@@ -1,0 +1,34 @@
+
+This is a list of radio stations in the United Kingdom.
+This list does not include stations which broadcast on numerous local digital multiplexes or MW licences to achieve near-national coverage.
+DAB Frequencies:
+11A - radio stations operated under the Sound Digital multiplex
+11D/12A - radio stations operated under the Digital One multiplex
+12B - radio stations operated under the BBC National DAB multiplex.List of stations on the Digital One and Sound Digital multiplexes broadcasting in the newer DAB+ Digital Radio standard
+Stations which are available nationally on Freeview and/or satellite and/or broadcast on more than one local DAB multiplex:
+Local radio stations from the BBC, in England:
+BBC radio stations from Scotland, Wales and Northern Ireland, broadcast in their respective areas via analogue and digital radio, Freeview and across the whole UK on satellite and cable television:
+England's radio stations adhere to the statistical regions of East Midlands, East, Greater London, North East, North West, South East, South West, West Midlands and Yorkshire and the Humber.
+This list details radio stations which have lost their licence to broadcast or have closed down due to financial reasons.
+Although the Channel Islands and the Isle of Man are not part of the UK they are served by the UK's national radio stations. Additionally services in the Channel Islands are licensed by the UK's regulator, Ofcom.  Services in the Isle of Man are not licensed by a UK regulator but rather by the Broadcasting Act 1990 of Tynwald
+The followed stations have closed down and returned their licences to Ofcom
+Permanent small scale multiplexes licensed by OFCOM
+Small scale multiplexes licensed by OFCOM for a trial period allowing a "more affordable way for smaller stations to broadcast on DAB digital radio":
+NOTE: The Glasgow trial SSDAB multiplex closed on 8 October 2021 ahead of a permanent relaunch of the multiplex in 2022.
+Temporary Restricted Service Licence stations are licensed by Ofcom and broadcast for up to 28 days. RSLs are used for a number of purposes including coverage of events and festivals, trial broadcasts by groups aiming to launch a full-time service, student radio and training projects and religious festivals including the Sikh festival Vaisakhi, the Muslim month of Ramadan, Jehovah's Witness conventions and Christian events such as Easter and Christmas.
+The following list is a small selection of regular RSL stations which have been set up to cover various festivals and events across the UK:
+Most universities plus a number of schools and colleges operate student radio stations with the vast majority only available online. The Student Radio Association represents around 65 student stations.
+The following stations are available via an FM community licence or via LPAM and LPFM transmitters:
+Typically available within the grounds of a single hospital, these stations broadcast to bedside units and occasionally public areas of the hospital. Hospital radio is free of charge on bedside entertainment systems operated by Hospedia and Premier Bedside and an increasing number of stations are available online.
+Around 200 stations are supported by the Hospital Broadcasting Association (HBA).
+The following stations are available via LPAM or LPFM transmitters or as Ofcom licensed community stations:
+Stations which are broadcast to the UK via satellite:
+To conserve space in the listings, the waveband has not been listed after each frequency, but they are easy to tell apart.
+Whole numbers always refer to a kHz (AM) frequency - i.e. 999 = 999 kHz.
+Decimal numbers always refer to a MHz (FM) frequency - i.e. 96.2 = 96.2 MHz.
+A number and letter combination refers to a DAB channel - i.e. 12C = frequency block 12C on 227.360 MHz.Radio in the UK
+Digital radio in the UK
+Radio in the Republic of Ireland
+List of British television channels
+List of Celtic-language mediaRadioplayer UK – Radio streaming service owned by the BBC, Global Radio, Bauer Media Group and RadioCentre
+LiveRadio UK - Comprehensive list of UK radio stations

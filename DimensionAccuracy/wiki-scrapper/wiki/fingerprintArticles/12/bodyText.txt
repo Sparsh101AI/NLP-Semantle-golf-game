@@ -1,0 +1,397 @@
+Carlsbad Caverns National Park is an American national park in the Guadalupe Mountains of southeastern New Mexico. The primary attraction of the park is the show cave Carlsbad Cavern. Visitors to the cave can hike in on their own via the natural entrance or take an elevator from the visitor center.
+The park entrance is located on US Highway 62/180, approximately 18 miles (29 km) southwest of Carlsbad, New Mexico. Carlsbad Caverns National Park participates in the Junior Ranger Program. The park has two entries on the National Register of Historic Places: The Caverns Historic District and the Rattlesnake Springs Historic District. Approximately two thirds of the park has been set aside as a wilderness area, helping to ensure no future changes will be made to the habitat.
+Carlsbad Cavern includes a large limestone chamber, named simply the Big Room, which is almost 4,000 feet (1,220 m) long, 625 feet (191 m) wide, and 255 feet (78 m) high at its highest point. The Big Room is the largest chamber in North America and the thirty-first largest in the world.
+An estimated 250 million years ago, the area surrounding Carlsbad Caverns National Park served as the coastline for an inland sea. Present in the sea was a plethora of marine life, whose remains formed a reef. Unlike modern reef growths, the Permian reef contained bryozoans, sponges, and other microorganisms. After the Permian Period, most of the water evaporated and the reef was buried by evaporites and other sediments. Tectonic movement occurred during the late Cenozoic, uplifting the reef above ground. Susceptible to erosion, water sculpted the Guadalupe Mountain region into its present-day state.
+
+
+
+Carlsbad Caverns National Park is situated in a bed of limestone above groundwater level. During cavern development, it was within the groundwater zone. Deep below the limestones are petroleum reserves (part of the Mid-Continent Oil Field). At a time near the end of the Cenozoic, hydrogen sulfide (H2S) began to seep upwards from the petroleum into the groundwater. The combination of hydrogen sulfide and oxygen from the water formed sulfuric acid: H2S + 2O2 → H2SO4. 
+The sulfuric acid then continued upward, aggressively dissolving the limestone deposits to form caverns. The presence of gypsum within the cave is a confirmation of the occurrence of this process, as it is a byproduct of the reaction between sulfuric acid and limestone.
+Once the acidic groundwater drained from the caverns, speleothems began to be deposited within the cavern. Erosion above ground created the natural entrance to the Carlsbad Caverns within the last million years. Exposure to the surface has allowed for the influx of air into the cavern. Rainwater and snowmelt percolating downward into the ground pick up carbon dioxide; once this water reaches a cavern ceiling, it precipitates and evaporates, leaving behind a small calcium carbonate deposit. Growths from the roof downward formed through this process are known as stalactites. Additionally, water on the floor of the caverns can contain carbonic acid and generate mineral deposits by evaporation. Growths from the floor upward through this process are known as stalagmites. Different formations of speleothems include columns, soda straws, draperies, helictites, and popcorn. Changes in the ambient air temperature and rainfall affect the rate of growth of speleothems, as higher temperatures increase carbon dioxide production rates within the overlying soil. The color of the speleothems is determined by the trace constituents in the minerals of the formation.
+
+According to the Köppen climate classification system, the Carlsbad Caverns Visitor Center has a cool semi-arid climate (BS). 
+
+
+
+Climate data for Carlsbad Caverns, New Mexico, 1991-2020 normals, extremes 1935-present
+
+
+Month
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Year
+
+
+Record high °F (°C)
+
+81(27)
+
+86(30)
+
+90(32)
+
+96(36)
+
+106(41)
+
+110(43)
+
+106(41)
+
+105(41)
+
+100(38)
+
+97(36)
+
+87(31)
+
+82(28)
+
+110(43)
+
+
+Average high °F (°C)
+
+56.0(13.3)
+
+60.9(16.1)
+
+67.9(19.9)
+
+75.7(24.3)
+
+84.1(28.9)
+
+92.4(33.6)
+
+91.2(32.9)
+
+90.3(32.4)
+
+83.2(28.4)
+
+75.4(24.1)
+
+64.6(18.1)
+
+56.6(13.7)
+
+74.9(23.8)
+
+
+Daily mean °F (°C)
+
+44.9(7.2)
+
+48.8(9.3)
+
+55.2(12.9)
+
+62.5(16.9)
+
+71.2(21.8)
+
+79.1(26.2)
+
+79.5(26.4)
+
+78.3(25.7)
+
+71.8(22.1)
+
+63.8(17.7)
+
+53.2(11.8)
+
+45.9(7.7)
+
+62.8(17.1)
+
+
+Average low °F (°C)
+
+33.7(0.9)
+
+36.8(2.7)
+
+42.6(5.9)
+
+49.3(9.6)
+
+58.3(14.6)
+
+65.7(18.7)
+
+67.8(19.9)
+
+66.3(19.1)
+
+60.4(15.8)
+
+52.1(11.2)
+
+41.9(5.5)
+
+35.1(1.7)
+
+50.8(10.4)
+
+
+Record low °F (°C)
+
+−4(−20)
+
+−4(−20)
+
+10(−12)
+
+21(−6)
+
+31(−1)
+
+41(5)
+
+42(6)
+
+47(8)
+
+33(1)
+
+15(−9)
+
+8(−13)
+
+2(−17)
+
+−4(−20)
+
+
+Average precipitation inches (mm)
+
+0.32(8.1)
+
+0.44(11)
+
+0.57(14)
+
+0.50(13)
+
+1.25(32)
+
+1.16(29)
+
+2.23(57)
+
+2.00(51)
+
+2.93(74)
+
+1.16(29)
+
+0.68(17)
+
+0.55(14)
+
+13.79(350)
+
+
+Average snowfall inches (cm)
+
+0.4(1.0)
+
+0.9(2.3)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.0(0.0)
+
+0.2(0.51)
+
+2.0(5.1)
+
+3.5(8.9)
+
+
+Average precipitation days (≥ 0.01 in)
+
+3.7
+
+2.7
+
+3.2
+
+2.3
+
+3.5
+
+4.8
+
+5.6
+
+6.4
+
+6.2
+
+5.1
+
+3.0
+
+3.2
+
+49.7
+
+
+Average snowy days (≥ 0.1 in)
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.2
+
+0.6
+
+1.8
+
+
+Source 1: NOAA
+
+
+Source 2: WRCC (extremes)
+
+In 1898, a teenager named Jim White explored the cavern with a homemade wire ladder. He named many of the rooms, including the Big Room, New Mexico Room, Kings Palace, Queens Chamber, Papoose Room, and Green Lake Room. He also named many of the cave's more prominent formations, such as the Totem Pole, Witch's Finger, Giant Dome, Bottomless Pit, Fairyland, Iceberg Rock, Temple of the Sun, and Rock of Ages.
+Max Frisch incorporates the story about White's discovery of the caves in his novel I'm Not Stiller.
+The town of Carlsbad, which lends its name to the cavern and national park, is in turn named after the Czech town formerly known by the German name Karlsbad (English spelling Carlsbad) and now known by the Czech name Karlovy Vary, both of which mean "Charles' Bath[s]."
+Until 1932, visitors to the cavern had to walk down a switchback ramp that took them 750 feet (230 m) below the surface. The walk back up was tiring for some. In 1932 the national park opened up a large visitor center building that contained two elevators that would take visitors in and out of the caverns below. The new center included a cafeteria, waiting room, museum and first aid area.
+October 25, 1923 – President Calvin Coolidge signed a proclamation (1679-October 25, 1923-43 Stat. 1929) establishing Carlsbad Cave National Monument.April 2, 1924 – President Calvin Coolidge issued an executive order (3984) for a possible national park or monument at the site.
+May 3, 1928 – a supplemental executive order (4870) was issued reserving additional land for the possible monument or park.
+May 14, 1930 – an act of the United States Congress (46 Stat. 279) established Carlsbad Caverns National Park to be directed by the Secretary of the Interior and administered by the National Park Service.
+June 17, 1930 – President Herbert Hoover signed Executive Order 5370 reserving additional land for classification.
+November 10, 1978 – Carlsbad Caverns Wilderness was established with the National Parks and Recreation Act (95-625) signed by President Jimmy Carter.Some of the following rooms are not open to the public because of inaccessibility and safety issues.
+Balloon Ballroom
+Located in the ceiling above the main entrance hall, this small room was first accessed by tying a rope to a bunch of balloons and floating them into the passage.
+Bat Cave
+A large, unadorned rocky passage connected to the main entrance corridor. The majority of the cave's bat population lives in this portion of the cave, which was mined for bat guano in the early 20th century.
+Bell Cord Room
+Named for a long, narrow stalactite coming through a hole in the ceiling, resembling the rope coming through the roof of a belfry. This room is located at the end of the Left Hand Tunnel.
+Bifrost Room
+Discovered in 1982, it is located in the ceiling above Lake of the Clouds. Its name refers to a Norse myth about a world in the sky that was accessed from Earth by a rainbow (the "Bifrost Bridge"). The room was given this name because of its location above the Lake of the Clouds and its colorful oxide-stained formations.
+Big Room or The Hall of the Giants
+The largest chamber in Carlsbad Caverns, with a floor space of 357,469 square feet (33,210 m).
+Chocolate High
+A maze of small passages totalling nearly a mile (1500 m) in combined length, discovered in 1993 above a mud-filled pit in the New Mexico Room known as Chocolate Drop.
+Green Lake Room
+The uppermost of the "Scenic Rooms", it is named for a deep, malachite-colored pool in the corner of the room. In the early 1960s, when the military was testing the feasibility of Carlsbad Cavern as an emergency fallout shelter, the Green Lake was used to look for ripples caused by a nuclear bomb test many miles away. None appeared.
+Guadalupe Room
+Discovered by a park ranger in 1966, this is the second largest room in Carlsbad Caverns. It is known for its dense collection of "soda straw" stalactites.
+Hall of the White Giant
+A large chamber containing a large, white stalagmite. Rangers regularly lead special wild-cave tours to this room.
+Halloween Hall
+A room roughly 30 feet in length located above the Spirit World. Named for its discovery on October 31, 2013.
+King's Palace
+The first of four chambers in a wing known as the "scenic rooms", it is named for a large castle-like formation in the center of the room.
+Lake of the Clouds
+The lowest known point in the cave. It is located in a side passage off the Left Hand Tunnel. It is named for its large lake containing globular, cloud-like rock formations that formed underwater when the lake level was much higher.
+Left Hand Tunnel
+A long, straight passage marked by deep fissures in the floor. These fissures are not known to lead anywhere. The Left-Hand Tunnel leads to the Lake of the Clouds and the Bell Cord Room.
+Mabel's Room
+A moderate-sized room located past the Talcum Passage in Lower Cave.
+Mystery Room
+A large, sloping room located off the Queen's Chamber, named for an unexplained noise heard only here. A small vertical passage at the far end connects it to Lower Cave.
+New Mexico Room
+Located adjacent to the Green Lake Room and accessed by means of a somewhat narrow corridor.
+New Section
+A section of fissures east of the White Giant formation and paralleling the Bat Cave. New discoveries are still being made in this section.
+Papoose Room
+Located between the King's Palace and Queen's Chamber.
+Queen's Chamber
+Widely regarded as the most beautiful and scenic area of the cave. Jim White's lantern went out in this chamber while he was exploring, and he was in the dark for over half an hour.
+Spirit World
+Located in the ceiling of the Big Room at its highest point (an area known as the Top of the Cross), this area is filled with white stalagmites that resembled angels to the room's discoverers.
+Talcum Passage
+A room located in Lower Cave where the floor is coated with gypsum dust.
+The Rookery
+One of the larger rooms in Lower Cave. Many cave pearls are found in this area.
+Underground Lunchroom
+Located in the Big Room at the head of the Left Hand Tunnel. It contains a cafeteria that was built in the 1950s, and is where the elevators from the visitor center exit into the cave.Carlsbad Caverns had an average annual visitation of about 410,000 in the period from 2007 to 2016. Peak visitation usually occurs on the weekends following Memorial Day and the Fourth of July. Free admittance for self-guided tours is often granted on holidays such as Martin Luther King, Jr. weekend, National Park Week, and Veterans Day weekend. Camping is permitted in the back country of the park, but a permit is required from the visitor center.
+One of the extra events hosted by the park is the bat flight viewing. A program is given in the early evening at the amphitheater near the main entrance prior to the start of the flight, which varies with the sunset time. Flight programs are scheduled from Memorial Day weekend through the middle of October. Optimal viewing normally occurs in July and August when the current year bat pups first join the flight of adult bats. Morning programs are also hosted pre-dawn to witness the return of bats into the cave. Once a year, a bat flight breakfast is held where visitors can eat breakfast at the park prior to the morning return of bats.
+Throughout the year, star parties are hosted by the park at night. Rangers host informational programs on the celestial night sky and telescopes are also made available. These parties are often held in conjunction with special astronomical events, such as a transit of Venus.
+In 1985 a distinctive method of exploration was invented. In a dome area 255 feet (78 m) above the Big Room floor not far from the Bottomless Pit, a stalagmite leaned out. Using a balsa wood loop with helium-filled balloons attached, the explorers, (after several tries over several years), floated a lightweight cord up, over the target stalagmite, and back down to the ground. Then they pulled a climbing rope into position, and the explorers ascended into what they named The Spirit World. A similar, smaller room was found in the main entrance corridor, and was named Balloon Ballroom in honor of this technique.
+In 1993, a series of small passages totaling nearly a mile in combined length was found in the ceiling of the New Mexico Room. Named "Chocolate High", it was the largest discovery in the cave since the Guadalupe Room was found in 1966.
+The Bottomless Pit was originally said to have no bottom. Stones were tossed into it, but no sound of the stones striking the bottom was heard. Later exploration revealed the bottom was about 140 feet (43 m) deep and covered with soft dirt. The stones made no sound when they struck the bottom because they were lodged in the soft soil.
+On October 31, 2013, a cave technician exploring the Spirit World area discovered a new chamber hundreds of feet up from the main area. Dubbed "Halloween Hall" for the date of its discovery, the fresh find marks the biggest discovery for the caverns in more than 25 years. The room's diameter is about 100 feet (30 m), and more than 1,000 bat bones were discovered inside the room.
+In 2018, a team of female explorers squeezed through a tiny passageway in the fourth-largest room (the Mystery Room) to discover never-before-surveyed areas of the cavern. Calling themselves the Twisted Sisters, they added names to the map of the Carlsbad Cavern, such as the Tomb of the Sky Bears, Ladies’ Lament, and Wriggler’s Relief. They also mapped the second-deepest part of Carlsbad Cavern, Lake of Muddy Misery, which is only 13 feet (4 m) higher than Lake of the Clouds. Continued exploration by volunteers has pushed the total length of Carlsbad Cavern to almost 40 miles of surveyed length.
+The park contains over 119 caves. Three caves are open to public tours. Carlsbad Caverns is the most famous and is fully developed with electric lights, paved trails, and elevators. Slaughter Canyon Cave and Spider Cave are undeveloped, except for designated paths for the guided "adventure" caving tours.
+Lechuguilla Cave is well known for its delicate speleothems and pristine underground environment. Guano mining occurred in the pit below the entrance in the 1910s. After gaining permission from the national park managers to dig into a rubble pile where wind whistled between the rocks when the weather changed, cavers broke through into a room in 1986. Over 120 miles (190 km) of cave passage has been explored and mapped. It has been mapped to a depth of 1,600 feet (490 m), making it the second deepest limestone cave in the U.S. To protect the fragile environment, access is limited to permitted scientific expeditions only.
+Seventeen species of bats live in the park, including many Mexican free-tailed bats. It has been estimated that the population of Mexican free-tailed bats once numbered in the millions but has declined drastically in modern times. The cause of this decline is unknown, but use of organochlorine pesticides (specifically DDT and dieldrin) is likely a contributor. A study published in 2009 by a team from Boston University questions whether millions of bats ever existed in the caverns.
+Many techniques have been used to estimate the bat population in the cave. The most recent and most successful of these attempts involved the use of thermal imaging camera to track and count the bats. A count from 2005 estimated a peak of 793,000.
+The Mexican free-tailed bats are present from April or May to late October or early November. They emerge in a dense group, corkscrewing upwards and counterclockwise, usually starting around sunset and lasting about three hours. (Jim White decided to investigate the caverns when he saw the bats from a distance and at first thought they were a volcano or a whirlwind.) Every early evening from Memorial Day weekend to mid October (with possible exceptions for bad weather), a ranger gives a talk on the bats while visitors sitting in the amphitheater wait to watch the bats emerge.
+Ten hiking trails and an unpaved drive provide access to the desert scenery and ecosystem. The developed portion around the cave entrance has been designated as The Caverns Historic District.
+A detached part of the park, Rattlesnake Springs Picnic Area, is a natural oasis with landscaping, picnic tables, and wildlife habitats. As a wooded riparian area in the desert, it is home to remarkable variety of birds; over 300 species have been recorded. About 500 species have been recorded in the whole state of New Mexico. Rattlesnake Springs is designated a historic district on the National Register of Historic Places. The National Audubon Society has designated Rattlesnake Springs an Important Bird Area (IBA). The natural entrance to the caverns is also an IBA because of its colony of cave swallows, possibly the world's largest.
+Antibiotic-resistant bacteria have been discovered in the isolated and little-visited Lechuguilla Cave within the park. These provide evidence that antibiotic resistance is ancient and widespread in bacteria.
+Guadalupe Mountains National Park
+Big Bend National Park
+White Sands National Park
+Caverns of Sonora
+McKittrick Canyon
+Wind Cave National Park
+Mammoth Cave National Park
+U.S. Forest Service Blanchard Springs Caverns
+List of areas in the National Park System of the United States
+List of longest caves in the United StatesThe National Parks: Index 2001–2003. Washington: U.S. Department of the Interior.Official site: Carlsbad Caverns National Park
+USGS 3D Photographic Geology Tour for Carlsbad Caverns National Park
+Fly-through of Historic Carlsbad Caverns Stairs (HABS, HAER, March 2013)
+NPS brochure and guide "Carlsbad Caverns National Park" 1933 (pdf)
+NPS brochure and guide "Carlsbad Caverns National Park" 1939 (pdf)

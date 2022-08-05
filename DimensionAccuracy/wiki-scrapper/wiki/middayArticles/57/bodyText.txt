@@ -1,0 +1,11 @@
+cal is a command-line utility on a number of computer operating systems including Unix, Plan 9, Inferno and Unix-like operating systems such as Linux that prints an ASCII calendar of the given month or year. If the user does not specify any command-line options, cal will print a calendar of the current month. The command is a standard program on Unix and specified in the Single UNIX Specification.
+The cal command was present in 1st Edition Unix. A cal command is also part of ASCII's MSX-DOS2 Tools for MSX-DOS version 2. It is also available for FreeDOS. This implementation only supports the Gregorian calendar (New Style) and may be distributed freely, with or without source. The FreeDOS version was developed by Charles Dye.
+The Gregorian calendar reform was adopted by the Kingdom of Great Britain, including its possessions in North America (later to become eastern USA and Canada), in September 1752. As a result, the September 1752 cal shows the adjusted days missing. This month was the official (British) adoption of the Gregorian calendar from the previously used Julian calendar. This has been documented in the man pages for Sun Solaris as follows. "An unusual calendar is printed for September 1752.  That  is the  month when 11 days were skipped to make up for lack of leap year adjustments." The Plan 9 from Bell Labs manual states: "Try cal sep 1752." Date of adoption of the reform differs widely between countries so, for some users, this feature may be a bug.
+Cron – process for scheduling jobs to run on a particular date
+List of Unix commandscal(1) – Plan 9 Programmer's Manual, Volume 1
+cal(1) – Inferno General commands Manual
+cal(1) – Linux User Commands Manual
+cal(1) – FreeBSD General Commands Manual
+cal(1) – NetBSD General Commands Manual
+cal(1) – OpenBSD General Commands Manual
+Source of explanation of cal 9 1752 phenomena (humor)

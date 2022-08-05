@@ -1,0 +1,8 @@
+//geohack.toolforge.org/geohack.php?pagename=Milford_(CDP),_Massachusetts&params=42_8_45_N_71_31_8_W_region:US_type:city
+//geohack.toolforge.org/geohack.php?pagename=Milford_(CDP),_Massachusetts&params=42_8_45_N_71_31_8_W_region:US_type:city
+//geohack.toolforge.org/geohack.php?pagename=Milford_(CDP),_Massachusetts&params=42_8_44_N_71_31_8_W_type:city
+https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_25.txt
+https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html
+http://www.census.gov/prod/www/decennial.html
+https://www.census.gov
+https://en.wikipedia.org/w/index.php?title=Template:Worcester_County,_Massachusetts&action=edit
